@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <title>Form Wizard &middot; MVP Ready</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700">
+
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="../../bower_components/fontawesome/css/font-awesome.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+  
+  
+  <!-- App CSS -->
+  <link rel="stylesheet" href="./css/mvpready-admin.css">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body class=" ">
+
+<div id="wrapper">
+
+  <header class="navbar" role="banner">
+
+    <div class="container">
+
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-cog"></i>
+        </button>
+
+        <a href="./index.html" class="navbar-brand navbar-brand-img">
+          <img src="./img/logo.png" alt="MVP Ready">
+        </a>
+      </div> <!-- /.navbar-header -->
+
+      <nav class="collapse navbar-collapse" role="navigation">
+
+        <ul class="nav navbar-nav navbar-left">
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-bell navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Notifications</span>
+              <b class="badge badge-primary">3</b>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">&nbsp;Notifications</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-cloud-upload text-primary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-secondary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-warning text-tertiary"></i></span>
+                  <span class="notification-title">Storage Space Almost Full!</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-danger"></i></span>
+                  <span class="notification-title">Sync Error</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Notifications</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-envelope navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Messages</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Messages</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Praesent dictum nisl non est sagittis luctus.</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-4-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-5-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Messages</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+          <li class="dropdown navbar-notification empty">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-warning navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;&nbsp;Alerts</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Alerts</div>
+
+              <div class="notification-list">
+
+                <h4 class="notification-empty-title">No alerts here.</h4>
+                <p class="notification-empty-text">Check out what other makers are doing on Explore!</p>
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Alerts</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+        </ul>
+
+
+
+        <ul class="nav navbar-nav navbar-right">
+
+          <li>
+            <a href="javsacript:;">Projects</a>
+          </li>
+
+          <li>
+            <a href="javascript:;">Support</a>
+          </li>
+
+          <li class="dropdown navbar-profile">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
+              <img src="../../global/img/avatars/avatar-6-sm.jpg" class="navbar-profile-avatar" alt="">
+              <span class="visible-xs-inline">@peterlandt &nbsp;</span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+
+            <ul class="dropdown-menu" role="menu">
+
+              <li>
+                <a href="./page-profile.html">
+                  <i class="fa fa-user"></i>
+                  &nbsp;&nbsp;My Profile
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-pricing-plans.html">
+                  <i class="fa fa-dollar"></i>
+                  &nbsp;&nbsp;Plans & Billing
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-settings.html">
+                  <i class="fa fa-cogs"></i>
+                  &nbsp;&nbsp;Settings
+                </a>
+              </li>
+
+              <li class="divider"></li>
+
+              <li>
+                <a href="./account-login.html">
+                  <i class="fa fa-sign-out"></i>
+                  &nbsp;&nbsp;Logout
+                </a>
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </header>
+
+
+  <div class="mainnav ">
+
+    <div class="container">
+
+      <a class="mainnav-toggle" data-toggle="collapse" data-target=".mainnav-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars"></i>
+      </a>
+
+      <nav class="collapse mainnav-collapse" role="navigation">
+
+        <form class="mainnav-form">
+          <input type="text" class="form-control input-md mainnav-search-query" placeholder="Search">
+          <button class="btn btn-sm mainnav-form-btn"><i class="fa fa-search"></i></button>
+        </form>
+
+        <ul class="mainnav-menu">
+
+          <li class="dropdown ">
+          	<a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+            	Dashboards
+            	<i class="mainnav-caret"></i>
+          	</a>
+
+          	<ul class="dropdown-menu" role="menu">
+              <li>
+                <a href="./index.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Analytics Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-2.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Sidebar Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-3.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Reports Dashboard
+                </a>
+              </li>
+          	</ul>
+          </li>
+
+          <li class="dropdown active">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Elements
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">Forms</li>
+
+                      <li>
+                        <a href="./form-basic.html">
+                        <i class="fa fa-edit dropdown-icon "></i>
+                        Basic Inputs
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-pickers.html">
+                        <i class="fa fa-hand-pointer-o dropdown-icon "></i>
+                        Pickers &amp; Choice
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-slider.html">
+                        <i class="fa fa-sliders dropdown-icon "></i>
+                        Sliders <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wizard.html">
+                        <i class="fa fa-magic dropdown-icon "></i>
+                        Wizard <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-validation.html">
+                        <i class="fa fa-check-circle dropdown-icon "></i>
+                        Validation
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wysiwyg.html">
+                        <i class="fa fa-text-height dropdown-icon "></i>
+                        WYSIWYG <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">More Elements</li>
+
+                      <li>
+                        <a href="./components-tabs.html">
+                        <i class="fa fa-bars dropdown-icon "></i>
+                        Tabs &amp; Accordions
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-popups.html">
+                        <i class="fa fa-calendar-o dropdown-icon "></i>
+                        Popups &amp; Alerts
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-charts.html">
+                        <i class="fa fa-line-chart dropdown-icon "></i>
+                        Charts
+                        </a>
+                      </li>
+
+                      <li class="mega-menu-header">Table Elements</li>
+
+                      <li>
+                        <a href="./components-tables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Basic Tables
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-datatables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Data Tables <small>(Advanced)</small>
+                        </a>
+                      </li>
+
+                    </ul>
+
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown ">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Demo Pages
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+                    <li class="mega-menu-header">Examples</li>
+
+                    <li>
+                      <a href="./page-profile.html">
+                      <i class="fa fa-user dropdown-icon "></i>
+                      Profile
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-settings.html">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Settings
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-faq.html">
+                      <i class="fa fa-question dropdown-icon "></i>
+                      FAQ
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-plans.html">
+                      <i class="fa fa-money dropdown-icon "></i>
+                      Plans & Billing
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-table.html">
+                      <i class="fa fa-dollar dropdown-icon "></i>
+                      Pricing Table
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./pages-gallery.html">
+                      <i class="fa fa-picture-o dropdown-icon "></i>
+                      Gallery
+                      </a>
+                    </li>
+
+                    <li class="mega-menu-header">
+                      Utilities
+                    </li>
+
+                    <li>
+                      <a href="./page-sitemap.html">
+                      <i class="fa fa-sitemap dropdown-icon "></i>
+                      Sitemap
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-blank.html">
+                      <i class="fa fa-file-o dropdown-icon "></i>
+                      Blank Slate
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-404.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      404 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-500.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      500 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-maintenance.html" target="_blank">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Maintenance
+                      &nbsp;
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+
+                    <li class="mega-menu-header">Account Pages</li>
+
+                    <li>
+                      <a href="./account-login.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-login-social.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login Social
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-signup.html" target="_blank">
+                      <i class="fa fa-pencil dropdown-icon "></i>
+                      Signup
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                      </li>
+
+                    <li>
+                      <a href="./account-forgot.html" target="_blank">
+                      <i class="fa fa-envelope dropdown-icon "></i>
+                      Forgot Password
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              Templates
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                      <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <div class="demo-block">
+                      <a href="../admin-1/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-1.png" class="img-responsive" alt="">
+
+                        View Admin Layout #1
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-1/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../landing/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-landing.png" class="img-responsive" alt="">
+
+                        View Frontend Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../landing/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+                    <div class="demo-block">
+                      <a href="../admin-2/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-2.png" class="img-responsive" alt="">
+
+                        View Admin Layout #2
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-2/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../launch/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-launch.png" class="img-responsive" alt="">
+
+                        View Launch Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../launch/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </div> <!-- /.mainnav -->
+
+  <div class="content">
+
+    <div class="container">
+
+      <div class="page-header">
+        <h3 class="page-title">Basic Inputs</h3>
+
+        <ol class="breadcrumb">
+          <li><a href="./">Dashboard</a></li>
+          <li><a href="#">Elements</a></li>
+          <li class="active">Basic Inputs</li>
+        </ol>
+      </div> <!-- /.page-header -->
+
+
+      <form class="form-horizontal" action="#">
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                General Inputs
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <p class="">Examples of standard form controls supported in an example form layout. Individual form controls automatically receive some global styling. All textual <code>&lt;input&gt;</code>, <code>&lt;textarea&gt;</code>, and <code>&lt;select&gt;</code> elements with <code>.form-control</code> are set to <code>width: 100%;</code> by default. Wrap labels and controls in <code>.form-group</code> for optimum spacing. Labels in horizontal form require <code>.control-label</code> class.</p>
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Default text input:</label>
+
+                <div class="col-md-10">
+                  <input type="text" class="form-control" placeholder="Basic input">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Password:</label>
+                <div class="col-md-10">
+                  <input type="password" class="form-control" placeholder="Password field">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Input with placeholder:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" placeholder="Enter your username...">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Read only field:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" readonly="readonly" value="read only">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Disabled field:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" disabled="disabled" value="disabled">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Predefined value:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" value="http://">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Default select:</label>
+                <div class="col-md-10">
+                  <select name="select" class="form-control">
+                      <option value="opt1">Usual select box</option>
+                      <option value="opt2">Option 2</option>
+                      <option value="opt3">Option 3</option>
+                      <option value="opt4">Option 4</option>
+                      <option value="opt5">Option 5</option>
+                      <option value="opt6">Option 6</option>
+                      <option value="opt7">Option 7</option>
+                      <option value="opt8">Option 8</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Disabled autocomplete:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" placeholder="Autocomplete is off" autocomplete="off">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Maximum value:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" maxlength="4" placeholder="Maximum 4 characters">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2 cursor-pointer" for="clickable-label">Focus on label click:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" id="clickable-label" placeholder="Field focus on label click">
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Static text:</label>
+                <div class="col-md-10">
+                  <div class="form-control-static">This is a static text</div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Textarea:</label>
+                <div class="col-md-10">
+                  <textarea rows="5" cols="5" class="form-control" placeholder="Basic textarea"></textarea>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Basic Selects
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+            <div class="form-group">
+                <label class="control-label col-md-2">Single select:</label>
+
+                <div class="col-md-10">
+                  <select name="select" class="form-control">
+                    <option value="opt1">Default select height</option>
+                    <option value="opt2">Option 2</option>
+                    <option value="opt3">Option 3</option>
+                    <option value="opt4">Option 4</option>
+                    <option value="opt5">Option 5</option>
+                    <option value="opt6">Option 6</option>
+                    <option value="opt7">Option 7</option>
+                    <option value="opt8">Option 8</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Multiple select:</label>
+
+                <div class="col-md-10">
+                  <select multiple="multiple" class="form-control">
+                    <option selected="selected">Amsterdam</option>
+                    <option selected="selected">Atlanta</option>
+                    <option>Baltimore</option>
+                    <option>Boston</option>
+                    <option>Buenos Aires</option>
+                    <option>Calgary</option>
+                    <option selected="selected">Chicago</option>
+                    <option>Denver</option>
+                    <option>Dubai</option>
+                    <option>Frankfurt</option>
+                    <option>Hong Kong</option>
+                    <option>Honolulu</option>
+                    <option>Houston</option>
+                    <option>Kuala Lumpur</option>
+                    <option>London</option>
+                    <option>Los Angeles</option>
+                    <option>Melbourne</option>
+                    <option>Mexico City</option>
+                    <option>Miami</option>
+                    <option>Minneapolis</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Basic Checkbox
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="">
+
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="text-semibold">Left stacked default:</label>
+
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-1" checked="checked">
+                        Checked default
+                      </label>
+                    </div>
+
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-1">
+                        Unchecked default
+                      </label>
+                    </div>
+
+                    <div class="checkbox disabled">
+                      <label>
+                        <input type="checkbox" checked="checked" name="checkbox-set-1" disabled="disabled">
+                        Disabled default
+                      </label>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <div><label class="text-semibold">Left inline default:</label></div>
+                    <label class="checkbox-inline">
+                      <input type="checkbox" checked="checked" name="checkbox-set-2">
+                      Checked default
+                    </label>
+
+                    <label class="checkbox-inline">
+                      <input type="checkbox" name="checkbox-set-2">
+                      Unchecked default
+                    </label>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="text-semibold">Right stacked default:</label>
+                    <div class="checkbox checkbox-right">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3" checked="checked">
+                        Checked default
+                      </label>
+                    </div>
+
+                    <div class="checkbox checkbox-right">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3">
+                        Unchecked default
+                      </label>
+                    </div>
+
+                    <div class="checkbox checkbox-right disabled">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3" checked="checked" disabled="disabled">
+                        Disabled default
+                      </label>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <div><label class="text-semibold">Right inline default:</label></div>
+                    <label class="checkbox-inline checkbox-right">
+                      <input type="checkbox" name="checkbox-set-4" checked="checked">
+                      Checked default
+                    </label>
+
+                    <label class="checkbox-inline checkbox-right">
+                      <input type="checkbox" name="checkbox-set-4">
+                      Unchecked default
+                    </label>
+                  </div>
+                </div>
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Basic Radio
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="">
+
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="text-semibold">Left stacked default:</label>
+                    <div class="radio">
+                      <label>
+                        <input type="radio" name="radio-set-1" checked="checked">
+                        Checked default
+                      </label>
+                    </div>
+
+                    <div class="radio">
+                      <label>
+                        <input type="radio" name="radio-set-1">
+                        Unchecked default
+                      </label>
+                    </div>
+
+                    <div class="radio disabled">
+                      <label>
+                        <input type="radio" name="radio-set-1" checked="checked" disabled="disabled">
+                        Disabled default
+                      </label>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <div><label class="text-semibold">Left inline default:</label></div>
+                    <label class="radio-inline">
+                      <input type="radio" name="radio-set-2" checked="checked">
+                      Checked default
+                    </label>
+
+                    <label class="radio-inline">
+                      <input type="radio" name="radio-set-2">
+                      Unchecked default
+                    </label>
+                  </div>
+                </div>
+
+
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="text-semibold">Right stacked default:</label>
+                    <div class="radio radio-right">
+                      <label>
+                        <input type="radio" name="radio-set-3" checked="checked">
+                        Checked default
+                      </label>
+                    </div>
+
+                    <div class="radio radio-right">
+                      <label>
+                        <input type="radio" name="radio-set-3">
+                        Unchecked default
+                      </label>
+                    </div>
+
+                    <div class="radio radio-right disabled">
+                      <label>
+                        <input type="radio" name="radio-set-3" checked="checked" disabled="disabled">
+                        Disabled default
+                      </label>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <div><label class="text-semibold">Right inline default:</label></div>
+                    <label class="radio-inline radio-right">
+                      <input type="radio" name="radio-set-4" checked="checked">
+                      Checked default
+                    </label>
+
+                    <label class="radio-inline radio-right">
+                      <input type="radio" name="radio-set-4">
+                      Unchecked default
+                    </label>
+                  </div>
+                </div> <!-- /.col -->
+
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Basic File Inputs
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Default file input:</label>
+                <div class="col-md-10">
+                  <input type="file" class="form-control">
+                </div>
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Input Addons
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Basic Icon:</label>
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="has-feedback has-feedback-left">
+                        <input type="text" class="form-control" placeholder="Left icon">
+                        <div class="form-control-feedback">
+                          <i class="fa fa-star"></i>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="has-feedback">
+                        <input type="text" class="form-control input-xlg" placeholder="Right icon">
+                        <div class="form-control-feedback">
+                          <i class="fa fa-star"></i>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Spinner Icon:</label>
+
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="has-feedback has-feedback-left">
+                        <input type="text" class="form-control" placeholder="Left spinner">
+                        <div class="form-control-feedback">
+                          <i class="fa fa-spinner fa-spin"></i>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="has-feedback">
+                        <input type="text" class="form-control" placeholder="Right spinner">
+                        <div class="form-control-feedback">
+                          <i class="fa fa-spinner fa-spin"></i>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Basic Addon:</label>
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <span class="input-group-addon" id="basic-addon3">@</span>
+                        <input type="text" class="form-control" placeholder="Left Addon" aria-describedby="basic-addon3">
+                      </div>
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Right Addon" aria-describedby="basic-addon4">
+                        <span class="input-group-addon" id="basic-addon4">@</span>
+                      </div>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Addon Text:</label>
+
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <span class="input-group-addon" id="basic-addon5">https://twitter.com/</span>
+                        <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon5">
+                      </div>
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+                        <span class="input-group-addon" id="basic-addon2">@example.com</span>
+                      </div>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Addon Checkbox:</label>
+
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <span class="input-group-addon">
+                          <input type="checkbox" aria-label="...">
+                        </span>
+                        <input type="text" class="form-control" aria-label="...">
+                      </div><!-- /input-group -->
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <input type="text" class="form-control" aria-label="...">
+                        <span class="input-group-addon">
+                          <input type="checkbox" aria-label="...">
+                        </span>
+                      </div><!-- /input-group -->
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Addon Radio:</label>
+
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <span class="input-group-addon">
+                          <input type="radio" aria-label="...">
+                        </span>
+                        <input type="text" class="form-control" aria-label="...">
+                      </div><!-- /input-group -->
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <input type="text" class="form-control" aria-label="...">
+                        <span class="input-group-addon">
+                          <input type="radio" aria-label="...">
+                        </span>
+                      </div><!-- /input-group -->
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Dual Addons:</label>
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="input-group">
+                        <span class="input-group-addon">$</span>
+                        <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+                        <span class="input-group-addon">.00</span>
+                      </div>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Addon Button:</label>
+
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <span class="input-group-btn">
+                          <button class="btn btn-default" type="button">Go!</button>
+                        </span>
+                        <input type="text" class="form-control" placeholder="Search for...">
+                      </div><!-- /input-group -->
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search for...">
+                        <span class="input-group-btn">
+                          <button class="btn btn-default" type="button">Go!</button>
+                        </span>
+                      </div><!-- /input-group -->
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Addon Dropdown:</label>
+
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <div class="input-group-btn">
+                          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
+                          <ul class="dropdown-menu">
+                            <li><a href="#">Action</a></li>
+                            <li><a href="#">Another action</a></li>
+                            <li><a href="#">Something else here</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                          </ul>
+                        </div><!-- /btn-group -->
+                        <input type="text" class="form-control" aria-label="...">
+                      </div><!-- /input-group -->
+                    </div>
+
+                    <div class="col-md-6">
+                      <div class="input-group">
+                        <input type="text" class="form-control" aria-label="...">
+                        <div class="input-group-btn">
+                          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
+                          <ul class="dropdown-menu dropdown-menu-right">
+                            <li><a href="#">Action</a></li>
+                            <li><a href="#">Another action</a></li>
+                            <li><a href="#">Something else here</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                          </ul>
+                        </div><!-- /btn-group -->
+                      </div><!-- /input-group -->
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+        <fieldset class="">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Validation States
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group has-warning has-feedback">
+                <label class="control-label col-md-2 text-semibold">Warning with icon:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" placeholder=".has-warning">
+                  <div class="form-control-feedback">
+                    <i class="fa fa-exclamation-triangle"></i>
+                  </div>
+                  <span class="help-block">Warning input helper</span>
+                </div>
+              </div>
+
+              <div class="form-group has-success has-feedback">
+                <label class="control-label col-md-2 text-semibold">Success with icon:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" placeholder=".has-success">
+                  <div class="form-control-feedback">
+                    <i class="fa fa-check"></i>
+                  </div>
+                  <span class="help-block">Success input helper</span>
+                </div>
+              </div>
+
+              <div class="form-group has-error has-feedback">
+                <label class="control-label col-md-2 text-semibold">Error with icon:</label>
+                <div class="col-md-10">
+                  <input type="text" class="form-control" placeholder=".has-error">
+                  <div class="form-control-feedback">
+                    <i class="fa fa-times"></i>
+                  </div>
+                  <span class="help-block">Error input helper</span>
+                </div>
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+
+        </fieldset>
+
+      </form>
+
+      <br class="xs-60">
+
+
+    </div> <!-- /.container -->
+
+  </div> <!-- .content -->
+
+</div> <!-- /#wrapper -->
+
+<footer class="footer">
+  <div class="container">
+    <p class="pull-left">Copyright &copy; 2013-16 Jumpstart Themes.</p>
+  </div>
+</footer>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Core JS -->
+<script src="../../bower_components/jquery/dist/jquery.js"></script>
+<script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../../bower_components/slimscroll/jquery.slimscroll.min.js"></script>
+
+
+
+
+<!-- App JS -->
+<script src="../../global/js/mvpready-core.js"></script>
+<script src="../../global/js/mvpready-helpers.js"></script>
+<script src="./js/mvpready-admin.js"></script>
+
+
+</body>
+</html>

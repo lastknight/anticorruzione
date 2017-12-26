@@ -1,0 +1,1531 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <title>Form Pickers & Choices &middot; MVP Ready</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700">
+
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="../../bower_components/fontawesome/css/font-awesome.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+  <!-- Bower CSS -->
+  <link rel="stylesheet" href="../../bower_components/select2/dist/css/select2.min.css">
+  <link rel="stylesheet" href="../../bower_components/select2-bootstrap-theme/dist/select2-bootstrap.min.css">
+  <link rel="stylesheet" href="../../bower_components/jquery-icheck/skins/minimal/_all.css">
+  <link rel="stylesheet" href="../../bower_components/bootstrap-3-timepicker/css/bootstrap-timepicker.css">
+  <link rel="stylesheet" href="../../bower_components/bootstrap-datepicker/css/datepicker3.css">
+  <link rel="stylesheet" href="../../bower_components/bootstrap-jasny/dist/css/jasny-bootstrap.css">
+  <link rel="stylesheet" href="../../bower_components/jquery-simplecolorpicker/jquery.simplecolorpicker.css">
+  
+  <!-- App CSS -->
+  <link rel="stylesheet" href="./css/mvpready-admin.css">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body class=" ">
+
+<div id="wrapper">
+
+  <header class="navbar" role="banner">
+
+    <div class="container">
+
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-cog"></i>
+        </button>
+
+        <a href="./index.html" class="navbar-brand navbar-brand-img">
+          <img src="./img/logo.png" alt="MVP Ready">
+        </a>
+      </div> <!-- /.navbar-header -->
+
+      <nav class="collapse navbar-collapse" role="navigation">
+
+        <ul class="nav navbar-nav navbar-left">
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-bell navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Notifications</span>
+              <b class="badge badge-primary">3</b>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">&nbsp;Notifications</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-cloud-upload text-primary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-secondary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-warning text-tertiary"></i></span>
+                  <span class="notification-title">Storage Space Almost Full!</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-danger"></i></span>
+                  <span class="notification-title">Sync Error</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Notifications</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-envelope navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Messages</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Messages</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Praesent dictum nisl non est sagittis luctus.</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-4-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-5-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Messages</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+          <li class="dropdown navbar-notification empty">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-warning navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;&nbsp;Alerts</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Alerts</div>
+
+              <div class="notification-list">
+
+                <h4 class="notification-empty-title">No alerts here.</h4>
+                <p class="notification-empty-text">Check out what other makers are doing on Explore!</p>
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Alerts</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+        </ul>
+
+
+
+        <ul class="nav navbar-nav navbar-right">
+
+          <li>
+            <a href="javsacript:;">Projects</a>
+          </li>
+
+          <li>
+            <a href="javascript:;">Support</a>
+          </li>
+
+          <li class="dropdown navbar-profile">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
+              <img src="../../global/img/avatars/avatar-6-sm.jpg" class="navbar-profile-avatar" alt="">
+              <span class="visible-xs-inline">@peterlandt &nbsp;</span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+
+            <ul class="dropdown-menu" role="menu">
+
+              <li>
+                <a href="./page-profile.html">
+                  <i class="fa fa-user"></i>
+                  &nbsp;&nbsp;My Profile
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-pricing-plans.html">
+                  <i class="fa fa-dollar"></i>
+                  &nbsp;&nbsp;Plans & Billing
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-settings.html">
+                  <i class="fa fa-cogs"></i>
+                  &nbsp;&nbsp;Settings
+                </a>
+              </li>
+
+              <li class="divider"></li>
+
+              <li>
+                <a href="./account-login.html">
+                  <i class="fa fa-sign-out"></i>
+                  &nbsp;&nbsp;Logout
+                </a>
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </header>
+
+
+  <div class="mainnav ">
+
+    <div class="container">
+
+      <a class="mainnav-toggle" data-toggle="collapse" data-target=".mainnav-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars"></i>
+      </a>
+
+      <nav class="collapse mainnav-collapse" role="navigation">
+
+        <form class="mainnav-form">
+          <input type="text" class="form-control input-md mainnav-search-query" placeholder="Search">
+          <button class="btn btn-sm mainnav-form-btn"><i class="fa fa-search"></i></button>
+        </form>
+
+        <ul class="mainnav-menu">
+
+          <li class="dropdown ">
+          	<a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+            	Dashboards
+            	<i class="mainnav-caret"></i>
+          	</a>
+
+          	<ul class="dropdown-menu" role="menu">
+              <li>
+                <a href="./index.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Analytics Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-2.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Sidebar Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-3.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Reports Dashboard
+                </a>
+              </li>
+          	</ul>
+          </li>
+
+          <li class="dropdown active">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Elements
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">Forms</li>
+
+                      <li>
+                        <a href="./form-basic.html">
+                        <i class="fa fa-edit dropdown-icon "></i>
+                        Basic Inputs
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-pickers.html">
+                        <i class="fa fa-hand-pointer-o dropdown-icon "></i>
+                        Pickers &amp; Choice
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-slider.html">
+                        <i class="fa fa-sliders dropdown-icon "></i>
+                        Sliders <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wizard.html">
+                        <i class="fa fa-magic dropdown-icon "></i>
+                        Wizard <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-validation.html">
+                        <i class="fa fa-check-circle dropdown-icon "></i>
+                        Validation
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wysiwyg.html">
+                        <i class="fa fa-text-height dropdown-icon "></i>
+                        WYSIWYG <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">More Elements</li>
+
+                      <li>
+                        <a href="./components-tabs.html">
+                        <i class="fa fa-bars dropdown-icon "></i>
+                        Tabs &amp; Accordions
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-popups.html">
+                        <i class="fa fa-calendar-o dropdown-icon "></i>
+                        Popups &amp; Alerts
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-charts.html">
+                        <i class="fa fa-line-chart dropdown-icon "></i>
+                        Charts
+                        </a>
+                      </li>
+
+                      <li class="mega-menu-header">Table Elements</li>
+
+                      <li>
+                        <a href="./components-tables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Basic Tables
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-datatables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Data Tables <small>(Advanced)</small>
+                        </a>
+                      </li>
+
+                    </ul>
+
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown ">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Demo Pages
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+                    <li class="mega-menu-header">Examples</li>
+
+                    <li>
+                      <a href="./page-profile.html">
+                      <i class="fa fa-user dropdown-icon "></i>
+                      Profile
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-settings.html">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Settings
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-faq.html">
+                      <i class="fa fa-question dropdown-icon "></i>
+                      FAQ
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-plans.html">
+                      <i class="fa fa-money dropdown-icon "></i>
+                      Plans & Billing
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-table.html">
+                      <i class="fa fa-dollar dropdown-icon "></i>
+                      Pricing Table
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./pages-gallery.html">
+                      <i class="fa fa-picture-o dropdown-icon "></i>
+                      Gallery
+                      </a>
+                    </li>
+
+                    <li class="mega-menu-header">
+                      Utilities
+                    </li>
+
+                    <li>
+                      <a href="./page-sitemap.html">
+                      <i class="fa fa-sitemap dropdown-icon "></i>
+                      Sitemap
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-blank.html">
+                      <i class="fa fa-file-o dropdown-icon "></i>
+                      Blank Slate
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-404.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      404 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-500.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      500 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-maintenance.html" target="_blank">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Maintenance
+                      &nbsp;
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+
+                    <li class="mega-menu-header">Account Pages</li>
+
+                    <li>
+                      <a href="./account-login.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-login-social.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login Social
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-signup.html" target="_blank">
+                      <i class="fa fa-pencil dropdown-icon "></i>
+                      Signup
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                      </li>
+
+                    <li>
+                      <a href="./account-forgot.html" target="_blank">
+                      <i class="fa fa-envelope dropdown-icon "></i>
+                      Forgot Password
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              Templates
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                      <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <div class="demo-block">
+                      <a href="../admin-1/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-1.png" class="img-responsive" alt="">
+
+                        View Admin Layout #1
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-1/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../landing/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-landing.png" class="img-responsive" alt="">
+
+                        View Frontend Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../landing/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+                    <div class="demo-block">
+                      <a href="../admin-2/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-2.png" class="img-responsive" alt="">
+
+                        View Admin Layout #2
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-2/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../launch/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-launch.png" class="img-responsive" alt="">
+
+                        View Launch Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../launch/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </div> <!-- /.mainnav -->
+
+  <div class="content">
+
+    <div class="container">
+
+      <div class="page-header">
+        <h3 class="page-title">Pickers &amp; Choices</h3>
+
+        <ol class="breadcrumb">
+          <li><a href="./">Dashboard</a></li>
+          <li><a href="#">Elements</a></li>
+          <li class="active">Pickers &amp; Choices</li>
+        </ol>
+      </div> <!-- /.page-header -->
+
+
+      <form class="form-horizontal" action="#">
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Select2 Plugin
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Basic Select2:</label>
+
+                <div class="col-md-10">
+                  <select class="js-example-basic-single js-states form-control">
+                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                      <option value="AK">Alaska</option>
+                      <option value="HI">Hawaii</option>
+                    </optgroup>
+                    <optgroup label="Pacific Time Zone">
+                      <option value="CA">California</option>
+                      <option value="NV">Nevada</option>
+                      <option value="OR">Oregon</option>
+                      <option value="WA">Washington</option>
+                    </optgroup>
+                    <optgroup label="Mountain Time Zone">
+                      <option value="AZ">Arizona</option>
+                      <option value="CO">Colorado</option>
+                      <option value="ID">Idaho</option>
+                      <option value="MT">Montana</option>
+                      <option value="NE">Nebraska</option>
+                      <option value="NM">New Mexico</option>
+                      <option value="ND">North Dakota</option>
+                      <option value="UT">Utah</option>
+                      <option value="WY">Wyoming</option>
+                    </optgroup>
+                    <optgroup label="Central Time Zone">
+                      <option value="AL">Alabama</option>
+                      <option value="AR">Arkansas</option>
+                      <option value="IL">Illinois</option>
+                      <option value="IA">Iowa</option>
+                      <option value="KS">Kansas</option>
+                      <option value="KY">Kentucky</option>
+                      <option value="LA">Louisiana</option>
+                      <option value="MN">Minnesota</option>
+                      <option value="MS">Mississippi</option>
+                      <option value="MO">Missouri</option>
+                      <option value="OK">Oklahoma</option>
+                      <option value="SD">South Dakota</option>
+                      <option value="TX">Texas</option>
+                      <option value="TN">Tennessee</option>
+                      <option value="WI">Wisconsin</option>
+                    </optgroup>
+                    <optgroup label="Eastern Time Zone">
+                      <option value="CT">Connecticut</option>
+                      <option value="DE">Delaware</option>
+                      <option value="FL">Florida</option>
+                      <option value="GA">Georgia</option>
+                      <option value="IN">Indiana</option>
+                      <option value="ME">Maine</option>
+                      <option value="MD">Maryland</option>
+                      <option value="MA">Massachusetts</option>
+                      <option value="MI">Michigan</option>
+                      <option value="NH">New Hampshire</option>
+                      <option value="NJ">New Jersey</option>
+                      <option value="NY">New York</option>
+                      <option value="NC">North Carolina</option>
+                      <option value="OH">Ohio</option>
+                      <option value="PA">Pennsylvania</option>
+                      <option value="RI">Rhode Island</option>
+                      <option value="SC">South Carolina</option>
+                      <option value="VT">Vermont</option>
+                      <option value="VA">Virginia</option>
+                      <option value="WV">West Virginia</option>
+                    </optgroup>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Multiple Input:</label>
+
+                <div class="col-md-10">
+                  <select class="js-example-basic-multiple js-states form-control" multiple="" tabindex="-1">
+                    <optgroup label="Alaskan/Hawaiian Time Zone">
+                      <option value="AK">Alaska</option>
+                      <option value="HI">Hawaii</option>
+                    </optgroup>
+                    <optgroup label="Pacific Time Zone">
+                      <option value="CA">California</option>
+                      <option value="NV">Nevada</option>
+                      <option value="OR">Oregon</option>
+                      <option value="WA">Washington</option>
+                    </optgroup>
+                    <optgroup label="Mountain Time Zone">
+                      <option value="AZ">Arizona</option>
+                      <option value="CO">Colorado</option>
+                      <option value="ID">Idaho</option>
+                      <option value="MT">Montana</option>
+                      <option value="NE">Nebraska</option>
+                      <option value="NM">New Mexico</option>
+                      <option value="ND">North Dakota</option>
+                      <option value="UT">Utah</option>
+                      <option value="WY">Wyoming</option>
+                    </optgroup>
+                    <optgroup label="Central Time Zone">
+                      <option value="AL">Alabama</option>
+                      <option value="AR">Arkansas</option>
+                      <option value="IL">Illinois</option>
+                      <option value="IA">Iowa</option>
+                      <option value="KS">Kansas</option>
+                      <option value="KY">Kentucky</option>
+                      <option value="LA">Louisiana</option>
+                      <option value="MN">Minnesota</option>
+                      <option value="MS">Mississippi</option>
+                      <option value="MO">Missouri</option>
+                      <option value="OK">Oklahoma</option>
+                      <option value="SD">South Dakota</option>
+                      <option value="TX">Texas</option>
+                      <option value="TN">Tennessee</option>
+                      <option value="WI">Wisconsin</option>
+                    </optgroup>
+                    <optgroup label="Eastern Time Zone">
+                      <option value="CT">Connecticut</option>
+                      <option value="DE">Delaware</option>
+                      <option value="FL">Florida</option>
+                      <option value="GA">Georgia</option>
+                      <option value="IN">Indiana</option>
+                      <option value="ME">Maine</option>
+                      <option value="MD">Maryland</option>
+                      <option value="MA">Massachusetts</option>
+                      <option value="MI">Michigan</option>
+                      <option value="NH">New Hampshire</option>
+                      <option value="NJ">New Jersey</option>
+                      <option value="NY">New York</option>
+                      <option value="NC">North Carolina</option>
+                      <option value="OH">Ohio</option>
+                      <option value="PA">Pennsylvania</option>
+                      <option value="RI">Rhode Island</option>
+                      <option value="SC">South Carolina</option>
+                      <option value="VT">Vermont</option>
+                      <option value="VA">Virginia</option>
+                      <option value="WV">West Virginia</option>
+                    </optgroup>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Auto Tokenization:</label>
+
+                <div class="col-md-10">
+                  <select class="js-example-tokenizer form-control" multiple="" tabindex="-1" aria-hidden="true">
+                    <option>red</option>
+                    <option>blue</option>
+                    <option>green</option>
+                  </select>
+
+                  <span class="help-block" style="margin-bottom: 0;">Try typing in the search field above and entering a space or a comma.</span>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Loading Array Data:</label>
+
+                <div class="col-md-10">
+                  <select class="js-example-data-array form-control"></select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+
+              <div class="form-group">
+                <label class="control-label col-md-2">Loading Remote Data:</label>
+
+                <div class="col-md-10">
+                  <select class="js-data-example-ajax form-control">
+                    <option value="3620194" selected="selected">select2/select2</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                iCheck Checkbox
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div>
+                <div class="col-md-6">
+
+                  <div class="form-group demo-icheck">
+
+                    <label class="control-label">Left Stack:</label>
+
+                      <div class="checkbox">
+                        <label>
+                          <input type="checkbox" name="checkbox-set-1" value="" checked>
+                          Option one is this and that&mdash;be sure to include why it's great
+                        </label>
+                      </div>
+
+                      <div class="checkbox">
+                        <label>
+                          <input type="checkbox" name="checkbox-set-1" value="">
+                          Option one is this and that&mdash;be sure to include why it's great
+                        </label>
+                      </div>
+
+                      <div class="checkbox">
+                        <label>
+                          <input type="checkbox" name="checkbox-set-1" value="">
+                          Option one is this and that&mdash;be sure to include why it's great
+                        </label>
+                      </div>
+
+                      <div class="checkbox disabled">
+                        <label>
+                          <input type="checkbox" name="checkbox-set-1" value="" disabled>
+                          Option two is disabled
+                        </label>
+                      </div>
+
+                  </div> <!-- /.form-group -->
+
+
+                  <div class="form-group demo-icheck">
+
+                    <div>
+                      <label class="text-left">Left Inline:</label>
+                    </div>
+
+                    <label class="checkbox-inline">
+                      <input type="checkbox" name="checkbox-set-2" value="" checked> Check 1
+                    </label>
+                    <label class="checkbox-inline">
+                      <input type="checkbox" name="checkbox-set-2" value=""> Check 2
+                    </label>
+                    <label class="checkbox-inline">
+                      <input type="checkbox" name="checkbox-set-2" value=""> Check 3
+                    </label>
+                    <label class="checkbox-inline disabled">
+                      <input type="checkbox" name="checkbox-set-2" value="" disabled> Check Disabled
+                    </label>
+
+                  </div> <!-- /.form-group -->
+
+                </div> <!-- /.col -->
+
+
+                <div class="col-md-6">
+
+                  <div class="form-group demo-icheck">
+
+                    <label class="control-label">Right Stack:</label>
+
+                    <div class="checkbox checkbox-right">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3" value="" checked>
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="checkbox checkbox-right">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3" value="">
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="checkbox checkbox-right">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3" value="">
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="checkbox checkbox-right disabled">
+                      <label>
+                        <input type="checkbox" name="checkbox-set-3" value="" disabled>
+                        Option two is disabled
+                      </label>
+                    </div>
+
+                  </div> <!-- /.form-group -->
+
+                  <div class="form-group demo-icheck">
+
+                    <div>
+                      <label class="display-block text-left">Right Inline:</label>
+                    </div>
+
+                    <label class="checkbox-inline checkbox-right">
+                      <input type="checkbox" name="checkbox-set-4" value="" checked> Check 1
+                    </label>
+
+                    <label class="checkbox-inline checkbox-right">
+                      <input type="checkbox" name="checkbox-set-4" value=""> Check 2
+                    </label>
+
+                    <label class="checkbox-inline checkbox-right">
+                      <input type="checkbox" name="checkbox-set-4" value=""> Check 3
+                    </label>
+
+                    <label class="checkbox-inline checkbox-right disabled">
+                      <input type="checkbox" name="checkbox-set-4" value="" disabled> Check Disabled
+                    </label>
+
+                  </div> <!-- /.form-group -->
+
+                </div> <!-- /.col -->
+
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                iCheck Radio
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div>
+
+                <div class="col-md-6">
+
+                  <div class="form-group demo-icheck">
+
+                    <label class="control-label">Left Stack:</label>
+
+                    <div class="radio">
+                      <label>
+                        <input type="radio" name="radio-set-1" value="" checked>
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="radio">
+                      <label>
+                        <input type="radio" name="radio-set-1" value="">
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="radio">
+                      <label>
+                        <input type="radio" name="radio-set-1" value="">
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="radio disabled">
+                      <label>
+                        <input type="radio" name="radio-set-1" value="" disabled>
+                        Option two is disabled
+                      </label>
+                    </div>
+
+                  </div> <!-- /.form-group -->
+
+
+                  <div class="form-group demo-icheck">
+
+                    <div>
+                      <label class="text-left">Left Inline:</label>
+                    </div>
+
+                    <label class="radio-inline">
+                      <input type="radio" name="radio-set-2" value="" checked> Check 1
+                    </label>
+
+                    <label class="radio-inline">
+                      <input type="radio" name="radio-set-2" value=""> Check 2
+                    </label>
+
+                    <label class="radio-inline">
+                      <input type="radio" name="radio-set-2" value=""> Check 3
+                    </label>
+
+                    <label class="radio-inline disabled">
+                      <input type="radio" name="radio-set-2" value="" disabled> Check Disabled
+                    </label>
+
+                  </div> <!-- /.form-group -->
+
+                </div> <!-- /.col -->
+
+
+                <div class="col-md-6">
+
+                <div class="form-group demo-icheck">
+
+                    <label class="control-label">Right Stack:</label>
+
+                    <div class="radio radio-right">
+                      <label>
+                        <input type="radio" name="radio-set-3" value="" checked>
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="radio radio-right">
+                      <label>
+                        <input type="radio" name="radio-set-3" value="">
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="radio radio-right">
+                      <label>
+                        <input type="radio" name="radio-set-3" value="">
+                        Option one is this and that&mdash;be sure to include why it's great
+                      </label>
+                    </div>
+
+                    <div class="radio radio-right disabled">
+                      <label>
+                        <input type="radio" name="radio-set-3" value="" disabled>
+                        Option two is disabled
+                      </label>
+                    </div>
+
+                  </div> <!-- /.form-group -->
+
+
+                  <div class="form-group demo-icheck">
+
+                    <div>
+                      <label class="display-block text-left">Right Inline:</label>
+                    </div>
+
+                    <label class="radio-inline radio-right">
+                      <input type="radio" name="radio-set-4" value="" checked> Check 1
+                    </label>
+                    <label class="radio-inline radio-right">
+                      <input type="radio" name="radio-set-4" value=""> Check 2
+                    </label>
+                    <label class="radio-inline radio-right">
+                      <input type="radio" name="radio-set-4" value=""> Check 3
+                    </label>
+                    <label class="radio-inline radio-right disabled">
+                      <input type="radio" name="radio-set-4" value="" disabled> Check Disabled
+                    </label>
+
+                  </div> <!-- /.form-group -->
+
+                </div> <!-- /.col -->
+
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Color Picker
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Inline Picker:</label>
+
+                <div class="col-md-10">
+                  <select id="cp-ex-1" name="colorpicker" class="form-control">
+                    <!-- Colors from Google Calendar -->
+                    <option value="#ffffff">Select</option>
+                    <option value="#e5412d">Red</option>
+                    <option value="#f0ad4e">Yellow</option>
+                    <option value="#428bca">Blue</option>
+                    <option value="#5cb85c">Green</option>
+                    <option value="#5bc0de">Teal</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Dropdown Picker:</label>
+
+                <div class="col-md-10">
+                  <select id="cp-ex-2" name="colorpicker" class="form-control">
+                    <!-- Colors from Google Calendar -->
+                    <option value="#ffffff">Select</option>
+                    <option value="#e5412d">Red</option>
+                    <option value="#f0ad4e">Yellow</option>
+                    <option value="#428bca">Blue</option>
+                    <option value="#5cb85c">Green</option>
+                    <option value="#5bc0de">Teal</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Dropdown Long List:</label>
+
+                <div class="col-md-10">
+                  <select id="cp-ex-3" name="cp-ex-3" class="form-control">
+                    <option value="#ac725e">#ac725e</option>
+                    <option value="#d06b64">#d06b64</option>
+                    <option value="#f83a22">#f83a22</option>
+                    <option value="#fa573c">#fa573c</option>
+                    <option value="#ff7537">#ff7537</option>
+                    <option value="#ffad46">#ffad46</option>
+                    <option value="#42d692">#42d692</option>
+                    <option value="#16a765">#16a765</option>
+                    <option value="#7bd148">#7bd148</option>
+                    <option value="#b3dc6c">#b3dc6c</option>
+                    <option value="#fbe983">#fbe983</option>
+                    <option value="#fad165">#fad165</option>
+                    <option value="#92e1c0">#92e1c0</option>
+                    <option value="#9fe1e7">#9fe1e7</option>
+                    <option value="#9fc6e7">#9fc6e7</option>
+                    <option value="#4986e7">#4986e7</option>
+                    <option value="#9a9cff">#9a9cff</option>
+                    <option value="#b99aff">#b99aff</option>
+                    <option value="#c2c2c2">#c2c2c2</option>
+                    <option value="#cabdbf">#cabdbf</option>
+                    <option value="#cca6ac">#cca6ac</option>
+                    <option value="#f691b2">#f691b2</option>
+                    <option value="#cd74e6">#cd74e6</option>
+                    <option value="#a47ae2" selected="selected">#a47ae2</option>
+                  </select>
+                </div> <!-- /.col -->
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Time Picker
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Basic Timepicker:</label>
+
+                <div class="col-md-10">
+                  <div class="bootstrap-timepicker">
+                    <input type="text" id="timepicker1" class="form-control" placeholder="Choose Time">
+                  </div>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Component:</label>
+
+                <div class="col-md-10">
+                  <div class="input-group bootstrap-timepicker">
+                    <input type="text" id="timepicker2" class="form-control" placeholder="Choose Time">
+                    <span class="input-group-addon"><i class="fa fa-clock-o"></i></span>
+                  </div> <!-- /.input-group -->
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Modal:</label>
+
+                <div class="col-md-10">
+                  <div class="input-group bootstrap-timepicker">
+                    <input type="text" id="timepicker3" class="form-control" placeholder="Choose Time">
+                    <span class="input-group-addon"><i class="fa fa-clock-o"></i></span>
+                  </div> <!-- /.input-group -->
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">24 Hour Mode:</label>
+
+                <div class="col-md-10">
+                  <div class="bootstrap-timepicker">
+                    <input type="text" id="timepicker5" class="form-control" placeholder="Choose Time">
+                  </div> <!-- /.input-group -->
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Show Seconds:</label>
+
+                <div class="col-md-10">
+                  <div class="bootstrap-timepicker">
+                    <input type="text" id="timepicker6" class="form-control" placeholder="Choose Time">
+                  </div> <!-- /.input-group -->
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">No Template:</label>
+
+                <div class="col-md-10">
+                  <div class="bootstrap-timepicker">
+                    <input type="text" id="timepicker4" class="form-control" placeholder="Choose Time">
+                  </div> <!-- /.input-group -->
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Datepicker
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Basic Datepicker:</label>
+
+                <div class="col-md-10">
+                  <input type="text" id="datepicker1" class="form-control" placeholder="Choose Date">
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Component:</label>
+
+                <div class="col-md-10">
+                  <div id="datepicker2" class="input-group date">
+                    <input type="text" class="form-control" placeholder="Choose Date">
+                    <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                  </div> <!-- /.input-group -->
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Inline:</label>
+
+                <div class="col-md-10">
+                  <div id="datepicker3"></div>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+
+
+
+
+        <fieldset class="content-group">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                File Input
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Styled Input:</label>
+
+                <div class="col-md-10">
+                  <div class="fileinput fileinput-new input-group" data-provides="fileinput">
+                    <div class="form-control" data-trigger="fileinput"><i class="glyphicon glyphicon-file fileinput-exists"></i> <span class="fileinput-filename"></span></div>
+                    <span class="input-group-addon btn btn-default btn-file"><span class="fileinput-new">Select file</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+                    <a href="#" class="input-group-addon btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
+                  </div>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Thumbnail:</label>
+
+                <div class="col-md-10">
+                  <div class="fileinput fileinput-new" data-provides="fileinput">
+                    <div class="fileinput-preview thumbnail" data-trigger="fileinput" style="width: 200px; height: 150px;"></div>
+                    <div>
+                      <span class="btn btn-default btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+                      <a href="#" class="btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Thumbnail Placeholder:</label>
+
+                <div class="col-md-10">
+                  <div class="fileinput fileinput-new" data-provides="fileinput">
+                    <div class="fileinput-new thumbnail" style="width: 200px; height: 150px;">
+                      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTkwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9Ijk1IiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE5MHgxNDA8L3RleHQ+PC9zdmc+" alt="...">
+                    </div>
+                    <div class="fileinput-preview fileinput-exists thumbnail" style="max-width: 200px; max-height: 150px;"></div>
+                    <div>
+                      <span class="btn btn-default btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+                      <a href="#" class="btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
+                    </div>
+                  </div>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+              <div class="form-group">
+
+                <label class="control-label col-md-2">Button Only:</label>
+
+                <div class="col-md-10">
+                  <div class="fileinput fileinput-new" data-provides="fileinput">
+                    <span class="btn btn-default btn-file"><span class="fileinput-new">Select file</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+                    <span class="fileinput-filename"></span>
+                    <a href="#" class="close fileinput-exists" data-dismiss="fileinput" style="float: none">&times;</a>
+                  </div>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.form-group -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </fieldset>
+
+      </form>
+
+    </div> <!-- /.container -->
+
+  </div> <!-- .content -->
+
+</div> <!-- /#wrapper -->
+
+<footer class="footer">
+  <div class="container">
+    <p class="pull-left">Copyright &copy; 2013-16 Jumpstart Themes.</p>
+  </div>
+</footer>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Core JS -->
+<script src="../../bower_components/jquery/dist/jquery.js"></script>
+<script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../../bower_components/slimscroll/jquery.slimscroll.min.js"></script>
+
+
+
+<!-- Plugin JS -->
+<script src="../../bower_components/select2/dist/js/select2.min.js"></script>
+<script src="../../bower_components/jquery-icheck/icheck.min.js"></script>
+<script src="../../bower_components/parsleyjs/dist/parsley.js"></script>
+<script src="../../bower_components/bootstrap-3-timepicker/js/bootstrap-timepicker.js"></script>
+<script src="../../bower_components/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+<script src="../../bower_components/bootstrap-jasny/js/fileinput.js"></script>
+<script src="../../bower_components/jquery-simplecolorpicker/jquery.simplecolorpicker.js"></script>
+
+<!-- App JS -->
+<script src="../../global/js/mvpready-core.js"></script>
+<script src="../../global/js/mvpready-helpers.js"></script>
+<script src="./js/mvpready-admin.js"></script>
+
+
+<!-- Demo JS -->
+<script src="../../global/js/demos/form-pickers.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <title>Reports Dashboard &middot; MVP Ready</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700">
+
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="../../bower_components/fontawesome/css/font-awesome.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+  
+  
+  <!-- App CSS -->
+  <link rel="stylesheet" href="./css/mvpready-admin.css">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body class=" ">
+
+<div id="wrapper">
+
+  <header class="navbar" role="banner">
+
+    <div class="container">
+
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-cog"></i>
+        </button>
+
+        <a href="./index.html" class="navbar-brand navbar-brand-img">
+          <img src="./img/logo.png" alt="MVP Ready">
+        </a>
+      </div> <!-- /.navbar-header -->
+
+      <nav class="collapse navbar-collapse" role="navigation">
+
+        <ul class="nav navbar-nav navbar-left">
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-bell navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Notifications</span>
+              <b class="badge badge-primary">3</b>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">&nbsp;Notifications</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-cloud-upload text-primary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-secondary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-warning text-tertiary"></i></span>
+                  <span class="notification-title">Storage Space Almost Full!</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-danger"></i></span>
+                  <span class="notification-title">Sync Error</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Notifications</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-envelope navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Messages</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Messages</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Praesent dictum nisl non est sagittis luctus.</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-4-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-5-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Messages</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+          <li class="dropdown navbar-notification empty">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-warning navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;&nbsp;Alerts</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Alerts</div>
+
+              <div class="notification-list">
+
+                <h4 class="notification-empty-title">No alerts here.</h4>
+                <p class="notification-empty-text">Check out what other makers are doing on Explore!</p>
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Alerts</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+        </ul>
+
+
+
+        <ul class="nav navbar-nav navbar-right">
+
+          <li>
+            <a href="javsacript:;">Projects</a>
+          </li>
+
+          <li>
+            <a href="javascript:;">Support</a>
+          </li>
+
+          <li class="dropdown navbar-profile">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
+              <img src="../../global/img/avatars/avatar-6-sm.jpg" class="navbar-profile-avatar" alt="">
+              <span class="visible-xs-inline">@peterlandt &nbsp;</span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+
+            <ul class="dropdown-menu" role="menu">
+
+              <li>
+                <a href="./page-profile.html">
+                  <i class="fa fa-user"></i>
+                  &nbsp;&nbsp;My Profile
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-pricing-plans.html">
+                  <i class="fa fa-dollar"></i>
+                  &nbsp;&nbsp;Plans & Billing
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-settings.html">
+                  <i class="fa fa-cogs"></i>
+                  &nbsp;&nbsp;Settings
+                </a>
+              </li>
+
+              <li class="divider"></li>
+
+              <li>
+                <a href="./account-login.html">
+                  <i class="fa fa-sign-out"></i>
+                  &nbsp;&nbsp;Logout
+                </a>
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </header>
+
+
+  <div class="mainnav ">
+
+    <div class="container">
+
+      <a class="mainnav-toggle" data-toggle="collapse" data-target=".mainnav-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars"></i>
+      </a>
+
+      <nav class="collapse mainnav-collapse" role="navigation">
+
+        <form class="mainnav-form">
+          <input type="text" class="form-control input-md mainnav-search-query" placeholder="Search">
+          <button class="btn btn-sm mainnav-form-btn"><i class="fa fa-search"></i></button>
+        </form>
+
+        <ul class="mainnav-menu">
+
+          <li class="dropdown active">
+          	<a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+            	Dashboards
+            	<i class="mainnav-caret"></i>
+          	</a>
+
+          	<ul class="dropdown-menu" role="menu">
+              <li>
+                <a href="./index.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Analytics Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-2.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Sidebar Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-3.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Reports Dashboard
+                </a>
+              </li>
+          	</ul>
+          </li>
+
+          <li class="dropdown ">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Elements
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">Forms</li>
+
+                      <li>
+                        <a href="./form-basic.html">
+                        <i class="fa fa-edit dropdown-icon "></i>
+                        Basic Inputs
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-pickers.html">
+                        <i class="fa fa-hand-pointer-o dropdown-icon "></i>
+                        Pickers &amp; Choice
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-slider.html">
+                        <i class="fa fa-sliders dropdown-icon "></i>
+                        Sliders <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wizard.html">
+                        <i class="fa fa-magic dropdown-icon "></i>
+                        Wizard <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-validation.html">
+                        <i class="fa fa-check-circle dropdown-icon "></i>
+                        Validation
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wysiwyg.html">
+                        <i class="fa fa-text-height dropdown-icon "></i>
+                        WYSIWYG <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">More Elements</li>
+
+                      <li>
+                        <a href="./components-tabs.html">
+                        <i class="fa fa-bars dropdown-icon "></i>
+                        Tabs &amp; Accordions
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-popups.html">
+                        <i class="fa fa-calendar-o dropdown-icon "></i>
+                        Popups &amp; Alerts
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-charts.html">
+                        <i class="fa fa-line-chart dropdown-icon "></i>
+                        Charts
+                        </a>
+                      </li>
+
+                      <li class="mega-menu-header">Table Elements</li>
+
+                      <li>
+                        <a href="./components-tables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Basic Tables
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-datatables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Data Tables <small>(Advanced)</small>
+                        </a>
+                      </li>
+
+                    </ul>
+
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown ">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Demo Pages
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+                    <li class="mega-menu-header">Examples</li>
+
+                    <li>
+                      <a href="./page-profile.html">
+                      <i class="fa fa-user dropdown-icon "></i>
+                      Profile
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-settings.html">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Settings
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-faq.html">
+                      <i class="fa fa-question dropdown-icon "></i>
+                      FAQ
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-plans.html">
+                      <i class="fa fa-money dropdown-icon "></i>
+                      Plans & Billing
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-table.html">
+                      <i class="fa fa-dollar dropdown-icon "></i>
+                      Pricing Table
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./pages-gallery.html">
+                      <i class="fa fa-picture-o dropdown-icon "></i>
+                      Gallery
+                      </a>
+                    </li>
+
+                    <li class="mega-menu-header">
+                      Utilities
+                    </li>
+
+                    <li>
+                      <a href="./page-sitemap.html">
+                      <i class="fa fa-sitemap dropdown-icon "></i>
+                      Sitemap
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-blank.html">
+                      <i class="fa fa-file-o dropdown-icon "></i>
+                      Blank Slate
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-404.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      404 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-500.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      500 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-maintenance.html" target="_blank">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Maintenance
+                      &nbsp;
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+
+                    <li class="mega-menu-header">Account Pages</li>
+
+                    <li>
+                      <a href="./account-login.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-login-social.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login Social
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-signup.html" target="_blank">
+                      <i class="fa fa-pencil dropdown-icon "></i>
+                      Signup
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                      </li>
+
+                    <li>
+                      <a href="./account-forgot.html" target="_blank">
+                      <i class="fa fa-envelope dropdown-icon "></i>
+                      Forgot Password
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              Templates
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                      <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <div class="demo-block">
+                      <a href="../admin-1/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-1.png" class="img-responsive" alt="">
+
+                        View Admin Layout #1
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-1/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../landing/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-landing.png" class="img-responsive" alt="">
+
+                        View Frontend Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../landing/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+                    <div class="demo-block">
+                      <a href="../admin-2/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-2.png" class="img-responsive" alt="">
+
+                        View Admin Layout #2
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-2/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../launch/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-launch.png" class="img-responsive" alt="">
+
+                        View Launch Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../launch/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </div> <!-- /.mainnav -->
+
+  <div class="content">
+
+    <div class="container">
+
+      <div class="portlet portlet-boxed">
+
+        <div class="portlet-header">
+          <h4 class="portlet-title">
+            Revenue Stats
+          </h4>
+        </div> <!-- /.portlet-header -->
+
+        <div class="portlet-body">
+
+          <div class="row">
+
+            <div class="col-sm-6 col-md-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Revenue Today</p>
+                <h3 class="row-stat-value">$890.00</h3>
+                <span class="label label-success row-stat-badge">+43%</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+            <div class="col-sm-6 col-md-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Revenue This Month</p>
+                <h3 class="row-stat-value">$8290.00</h3>
+                <span class="label label-success row-stat-badge">+17%</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+            <div class="col-sm-6 col-md-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Total Users</p>
+                <h3 class="row-stat-value">98,290</h3>
+                <span class="label label-success row-stat-badge">+26%</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+            <div class="col-sm-6 col-md-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Currently Active Uses</p>
+                <h3 class="row-stat-value">19</h3>
+                <span class="label label-danger row-stat-badge">+5%</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+          </div> <!-- /.row -->
+
+        </div> <!-- /.portlet-body -->
+
+      </div> <!-- /.portlet -->
+
+
+
+      <div class="row">
+
+        <div class="col-md-8">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Revenue Per Month
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="chart-bg bg-secondary">
+                <div id="reports-line-chart" class="chart-holder-250"></div>
+              </div> <!-- /.bg-chart -->
+
+              <br>
+
+          </div> <!-- /.portlet-body -->
+
+        </div> <!-- /.portlet -->
+
+        </div> <!-- /.col -->
+
+        <div class="col-md-4">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Product Sales Breakdown
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div id="donut-chart" class="chart-holder" style="width: 70%;"></div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </div> <!-- /.col -->
+
+      </div> <!-- /.row -->
+
+
+
+      <div class="row">
+
+        <div class="col-md-6">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Product Sales Today
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <table class="table table-bordered">
+                <thead>
+                  <tr>
+                    <th>Product</th>
+                    <th class="text-right">Purchases</th>
+                    <th class="text-right">Revenue</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                  <tr>
+                    <td>CSS Hat</td>
+                    <td class="text-right">264</td>
+                    <td class="text-right">$3,129.98</td>
+                  </tr>
+
+                  <tr>
+                    <td>Subtle Patterns</td>
+                    <td class="text-right">20</td>
+                    <td class="text-right">$129.98</td>
+                  </tr>
+
+                  <tr>
+                    <td>PNG Hat</td>
+                    <td class="text-right">45</td>
+                    <td class="text-right">$9,129.98</td>
+                  </tr>
+
+                  <tr>
+                    <td>Academy</td>
+                    <td class="text-right">560</td>
+                    <td class="text-right">$12,249.98</td>
+                  </tr>
+
+                  <tr>
+                    <td>Social Kit</td>
+                    <td class="text-right">120</td>
+                    <td class="text-right">$0.00</td>
+                  </tr>
+
+                  <tr>
+                    <td>Pizaa</td>
+                    <td class="text-right">340</td>
+                    <td class="text-right">$0.00</td>
+                  </tr>
+                </tbody>
+              </table>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </div> <!-- /.col -->
+
+
+
+        <div class="col-md-6">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Product Sales Breakdown
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div id="stacked-horizontal-chart" class="chart-holder-250"></div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </div> <!-- /.col -->
+
+
+      </div> <!-- /.row -->
+
+
+
+      <div class="portlet portlet-boxed">
+
+        <div class="portlet-header">
+          <h4 class="portlet-title">
+            Social Media Stats
+          </h4>
+        </div> <!-- /.portlet-header -->
+
+        <div class="portlet-body">
+
+          <div class="row">
+
+            <div class="col-sm-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Facebook Likes</p>
+                <h3 class="row-stat-value">1,290</h3>
+                <span class="label label-success row-stat-badge">+21</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+            <div class="col-sm-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Twitter Followers</p>
+                <h3 class="row-stat-value">3,290</h3>
+                <span class="label label-success row-stat-badge">+10</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+            <div class="col-sm-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Github Followers</p>
+                <h3 class="row-stat-value">21,361</h3>
+                <span class="label label-danger row-stat-badge">-5</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+            <div class="col-sm-3">
+              <div class="row-stat">
+                <p class="row-stat-label">Email Subscribers</p>
+                <h3 class="row-stat-value">2,689</h3>
+                <span class="label label-warning row-stat-badge">+ 0</span>
+              </div> <!-- /.row-stat -->
+            </div> <!-- /.col -->
+
+          </div> <!-- /.row -->
+
+        </div> <!-- /.portlet-body -->
+
+      </div> <!-- /.portlet -->
+
+
+
+      <div class="row">
+
+        <div class="col-md-6">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Server Load
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div id="auto-chart" class="chart-holder-250"></div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </div> <!-- /.col -->
+
+
+        <div class="col-md-6">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Daily Traffic
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <table class="table table-bordered">
+                <thead>
+                  <tr>
+                    <th>Source</th>
+                    <th class="text-right">Visits</th>
+                    <th class="text-right">Conversion</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                  <tr>
+                    <td>socialkit</td>
+                    <td class="text-right">25,843</td>
+                    <td class="text-right">8.9%</td>
+                  </tr>
+                  <tr>
+                    <td>subtlepatterns</td>
+                    <td class="text-right">5,141</td>
+                    <td class="text-right">2.4%</td>
+                  </tr>
+                  <tr>
+                    <td>google</td>
+                    <td class="text-right">2,562</td>
+                    <td class="text-right">1.2%</td>
+                  </tr>
+                  <tr>
+                    <td>facebook</td>
+                    <td class="text-right">345</td>
+                    <td class="text-right">0.02%</td>
+                  </tr>
+                  <tr>
+                    <td>Social Kit</td>
+                    <td class="text-right">12</td>
+                    <td class="text-right">0.0%</td>
+                  </tr>
+                  <tr>
+                    <td>webappers</td>
+                    <td class="text-right">9</td>
+                    <td class="text-right">0.0%</td>
+                  </tr>
+
+
+                </tbody>
+              </table>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </div> <!-- /.col -->
+
+      </div> <!-- /.row -->
+
+
+
+    </div> <!-- /.container -->
+
+  </div> <!-- .content -->
+
+</div> <!-- /#wrapper -->
+
+<footer class="footer">
+  <div class="container">
+    <p class="pull-left">Copyright &copy; 2013-16 Jumpstart Themes.</p>
+  </div>
+</footer>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Core JS -->
+<script src="../../bower_components/jquery/dist/jquery.js"></script>
+<script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../../bower_components/slimscroll/jquery.slimscroll.min.js"></script>
+
+
+
+<!-- Plugin JS -->
+<script src="../../bower_components/flot/excanvas.min.js"></script>
+<script src="../../bower_components/flot/jquery.flot.js"></script>
+<script src="../../bower_components/flot/jquery.flot.pie.js"></script>
+<script src="../../bower_components/flot/jquery.flot.resize.js"></script>
+<script src="../../bower_components/flot/jquery.flot.time.js"></script>
+<script src="../../bower_components/flot/jquery.flot.stack.js"></script>
+<script src="../../bower_components/flot.tooltip/js/jquery.flot.tooltip.js"></script>
+<script src="../../bower_components/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+
+<!-- App JS -->
+<script src="../../global/js/mvpready-core.js"></script>
+<script src="../../global/js/mvpready-helpers.js"></script>
+<script src="./js/mvpready-admin.js"></script>
+
+
+<!-- Demo JS -->
+<script src="../../global/js/demos/reports/line.js"></script>
+<script src="../../global/js/demos/flot/donut.js"></script>
+<script src="../../global/js/demos/flot/stacked-horizontal.js"></script>
+<script src="../../global/js/demos/flot/auto.js"></script>
+
+
+</body>
+</html>

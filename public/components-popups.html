@@ -1,0 +1,1340 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <title>Popups & Alerts &middot; MVP Ready</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700">
+
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="../../bower_components/fontawesome/css/font-awesome.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+  <!-- Bower CSS -->
+  <link rel="stylesheet" href="../../bower_components/magnific-popup/dist/magnific-popup.css">
+  
+  <!-- App CSS -->
+  <link rel="stylesheet" href="./css/mvpready-admin.css">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body class=" ">
+
+<div id="wrapper">
+
+  <header class="navbar" role="banner">
+
+    <div class="container">
+
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-cog"></i>
+        </button>
+
+        <a href="./index.html" class="navbar-brand navbar-brand-img">
+          <img src="./img/logo.png" alt="MVP Ready">
+        </a>
+      </div> <!-- /.navbar-header -->
+
+      <nav class="collapse navbar-collapse" role="navigation">
+
+        <ul class="nav navbar-nav navbar-left">
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-bell navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Notifications</span>
+              <b class="badge badge-primary">3</b>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">&nbsp;Notifications</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-cloud-upload text-primary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-secondary"></i></span>
+                  <span class="notification-title">Notification Title</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-warning text-tertiary"></i></span>
+                  <span class="notification-title">Storage Space Almost Full!</span>
+                  <span class="notification-description">Praesent dictum nisl non est sagittis luctus.</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <span class="notification-icon"><i class="fa fa-ban text-danger"></i></span>
+                  <span class="notification-title">Sync Error</span>
+                  <span class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</span>
+                  <span class="notification-time">20 minutes ago</span>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Notifications</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+
+          <li class="dropdown navbar-notification">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-envelope navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;Messages</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Messages</div>
+
+              <div class="notification-list">
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Praesent dictum nisl non est sagittis luctus.</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-3-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-4-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+                <a href="./page-notifications.html" class="notification">
+                  <div class="notification-icon"><img src="../../global/img/avatars/avatar-5-md.jpg" alt=""></div>
+                  <div class="notification-title">New Message</div>
+                  <div class="notification-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</div>
+                  <div class="notification-time">20 minutes ago</div>
+                </a> <!-- / .notification -->
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Messages</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+
+          <li class="dropdown navbar-notification empty">
+
+            <a href="./page-notifications.html" class="dropdown-toggle" data-toggle="dropdown">
+              <i class="fa fa-warning navbar-notification-icon"></i>
+              <span class="visible-xs-inline">&nbsp;&nbsp;Alerts</span>
+            </a>
+
+            <div class="dropdown-menu">
+
+              <div class="dropdown-header">Alerts</div>
+
+              <div class="notification-list">
+
+                <h4 class="notification-empty-title">No alerts here.</h4>
+                <p class="notification-empty-text">Check out what other makers are doing on Explore!</p>
+
+              </div> <!-- / .notification-list -->
+
+              <a href="./page-notifications.html" class="notification-link">View All Alerts</a>
+
+            </div> <!-- / .dropdown-menu -->
+
+          </li>
+
+        </ul>
+
+
+
+        <ul class="nav navbar-nav navbar-right">
+
+          <li>
+            <a href="javsacript:;">Projects</a>
+          </li>
+
+          <li>
+            <a href="javascript:;">Support</a>
+          </li>
+
+          <li class="dropdown navbar-profile">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
+              <img src="../../global/img/avatars/avatar-6-sm.jpg" class="navbar-profile-avatar" alt="">
+              <span class="visible-xs-inline">@peterlandt &nbsp;</span>
+              <i class="fa fa-caret-down"></i>
+            </a>
+
+            <ul class="dropdown-menu" role="menu">
+
+              <li>
+                <a href="./page-profile.html">
+                  <i class="fa fa-user"></i>
+                  &nbsp;&nbsp;My Profile
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-pricing-plans.html">
+                  <i class="fa fa-dollar"></i>
+                  &nbsp;&nbsp;Plans & Billing
+                </a>
+              </li>
+
+              <li>
+                <a href="./page-settings.html">
+                  <i class="fa fa-cogs"></i>
+                  &nbsp;&nbsp;Settings
+                </a>
+              </li>
+
+              <li class="divider"></li>
+
+              <li>
+                <a href="./account-login.html">
+                  <i class="fa fa-sign-out"></i>
+                  &nbsp;&nbsp;Logout
+                </a>
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </header>
+
+
+  <div class="mainnav ">
+
+    <div class="container">
+
+      <a class="mainnav-toggle" data-toggle="collapse" data-target=".mainnav-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars"></i>
+      </a>
+
+      <nav class="collapse mainnav-collapse" role="navigation">
+
+        <form class="mainnav-form">
+          <input type="text" class="form-control input-md mainnav-search-query" placeholder="Search">
+          <button class="btn btn-sm mainnav-form-btn"><i class="fa fa-search"></i></button>
+        </form>
+
+        <ul class="mainnav-menu">
+
+          <li class="dropdown ">
+          	<a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+            	Dashboards
+            	<i class="mainnav-caret"></i>
+          	</a>
+
+          	<ul class="dropdown-menu" role="menu">
+              <li>
+                <a href="./index.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Analytics Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-2.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Sidebar Dashboard
+                </a>
+              </li>
+
+              <li>
+                <a href="./dashboard-3.html">
+                <i class="fa fa-dashboard dropdown-icon "></i>
+                Reports Dashboard
+                </a>
+              </li>
+          	</ul>
+          </li>
+
+          <li class="dropdown active">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Elements
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">Forms</li>
+
+                      <li>
+                        <a href="./form-basic.html">
+                        <i class="fa fa-edit dropdown-icon "></i>
+                        Basic Inputs
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-pickers.html">
+                        <i class="fa fa-hand-pointer-o dropdown-icon "></i>
+                        Pickers &amp; Choice
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-slider.html">
+                        <i class="fa fa-sliders dropdown-icon "></i>
+                        Sliders <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wizard.html">
+                        <i class="fa fa-magic dropdown-icon "></i>
+                        Wizard <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-validation.html">
+                        <i class="fa fa-check-circle dropdown-icon "></i>
+                        Validation
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./form-wysiwyg.html">
+                        <i class="fa fa-text-height dropdown-icon "></i>
+                        WYSIWYG <span class="label label-secondary pull-right">New</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">More Elements</li>
+
+                      <li>
+                        <a href="./components-tabs.html">
+                        <i class="fa fa-bars dropdown-icon "></i>
+                        Tabs &amp; Accordions
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-popups.html">
+                        <i class="fa fa-calendar-o dropdown-icon "></i>
+                        Popups &amp; Alerts
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-charts.html">
+                        <i class="fa fa-line-chart dropdown-icon "></i>
+                        Charts
+                        </a>
+                      </li>
+
+                      <li class="mega-menu-header">Table Elements</li>
+
+                      <li>
+                        <a href="./components-tables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Basic Tables
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="./components-datatables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Data Tables <small>(Advanced)</small>
+                        </a>
+                      </li>
+
+                    </ul>
+
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown ">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              Demo Pages
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+                    <li class="mega-menu-header">Examples</li>
+
+                    <li>
+                      <a href="./page-profile.html">
+                      <i class="fa fa-user dropdown-icon "></i>
+                      Profile
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-settings.html">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Settings
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-faq.html">
+                      <i class="fa fa-question dropdown-icon "></i>
+                      FAQ
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-plans.html">
+                      <i class="fa fa-money dropdown-icon "></i>
+                      Plans & Billing
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-pricing-table.html">
+                      <i class="fa fa-dollar dropdown-icon "></i>
+                      Pricing Table
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./pages-gallery.html">
+                      <i class="fa fa-picture-o dropdown-icon "></i>
+                      Gallery
+                      </a>
+                    </li>
+
+                    <li class="mega-menu-header">
+                      Utilities
+                    </li>
+
+                    <li>
+                      <a href="./page-sitemap.html">
+                      <i class="fa fa-sitemap dropdown-icon "></i>
+                      Sitemap
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-blank.html">
+                      <i class="fa fa-file-o dropdown-icon "></i>
+                      Blank Slate
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-404.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      404 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-500.html">
+                      <i class="fa fa-ban dropdown-icon "></i>
+                      500 Error
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./page-maintenance.html" target="_blank">
+                      <i class="fa fa-cogs dropdown-icon "></i>
+                      Maintenance
+                      &nbsp;
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+
+                <div class="mega-menu-col">
+                  <ul class="mega-menu-menu">
+
+                    <li class="mega-menu-header">Account Pages</li>
+
+                    <li>
+                      <a href="./account-login.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-login-social.html" target="_blank">
+                      <i class="fa fa-unlock dropdown-icon "></i>
+                      Login Social
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./account-signup.html" target="_blank">
+                      <i class="fa fa-pencil dropdown-icon "></i>
+                      Signup
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                      </li>
+
+                    <li>
+                      <a href="./account-forgot.html" target="_blank">
+                      <i class="fa fa-envelope dropdown-icon "></i>
+                      Forgot Password
+                      <small><i class="fa fa-external-link pull-right text-secondary" style="position: relative; top: 6px;"></i></small>
+                      </a>
+                    </li>
+                  </ul>
+                </div> <!-- /.mega-menu-col -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+
+          <li class="dropdown">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              Templates
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                      <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <div class="demo-block">
+                      <a href="../admin-1/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-1.png" class="img-responsive" alt="">
+
+                        View Admin Layout #1
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-1/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../landing/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-landing.png" class="img-responsive" alt="">
+
+                        View Frontend Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../landing/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+                    <div class="demo-block">
+                      <a href="../admin-2/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-admin-2.png" class="img-responsive" alt="">
+
+                        View Admin Layout #2
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../admin-2/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+
+                    <div class="demo-block">
+                      <a href="../launch/index.html" class="demo-launcher">
+                        <img src="../../previews/img/theme-drop-launch.png" class="img-responsive" alt="">
+
+                        View Launch Template
+                      </a>
+
+                      <div class="demo-external">
+                        <a href="../launch/index.html" target="_blank"><small><i class="fa fa-external-link"></i>&nbsp;&nbsp;(Open in new tab)</small></a>
+                      </div>
+                    </div><!-- /.demo-block -->
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </div> <!-- /.mainnav -->
+
+  <div class="content">
+
+      <div class="container">
+
+        <div class="page-header">
+          <h3 class="page-title">Popups &amp; Alerts</h3>
+
+          <ol class="breadcrumb">
+            <li><a href="./">Dashboard</a></li>
+            <li><a href="#">Elements</a></li>
+            <li class="active">Popups &amp; Alerts</li>
+          </ol>
+        </div> <!-- /.page-header -->
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Bootstrap Modal
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <p>
+                <a data-toggle="modal" href="#basicModal" class="btn btn-default demo-element">Default Modal</a>
+                &nbsp;&nbsp;
+                <a data-toggle="modal" href="#styledModal" class="btn btn-secondary demo-element">Styled Modal</a>
+                &nbsp;&nbsp;
+                <a data-toggle="modal" href="#bigModal" class="btn btn-primary demo-element">Large Modal</a>
+              </p>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Lightbox
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="row">
+
+                <div class="col-md-5">
+
+                  <h5 class="heading">Single Image Popup</h5>
+
+                  <a class="ui-lightbox" href="../../global/img/photos/rust-lg.jpg" title="Caption. Can be aligned it to any side and contain any HTML.">
+                    <img src="../../global/img/photos/rust-sm.jpg" class="thumbnail" style="display: inline-block" width="100" alt="Gallery Image">
+                  </a>
+                  &nbsp;
+                  <a class="ui-lightbox" href="../../global/img/photos/blur-lg.jpg" title="This image fits only horizontally.">
+                    <img src="../../global/img/photos/blur-sm.jpg" class="thumbnail" style="display: inline-block" width="100" alt="Gallery Image">
+                  </a>
+                  &nbsp;
+                  <a class=" ui-lightbox" href="../../global/img/photos/lens-lg.jpg">
+                    <img src="../../global/img/photos/lens-sm.jpg" class="thumbnail" style="display: inline-block" width="100" alt="Gallery Image">
+                  </a>
+
+                </div>
+
+                <div class="col-md-5">
+
+                  <h5 class="heading">Gallery Image Popup</h5>
+
+                  <div class="ui-lightbox-gallery">
+                    <a class="" href="../../global/img/photos/rust-lg.jpg" title="Caption. Can be aligned it to any side and contain any HTML.">
+                      <img src="../../global/img/photos/rust-sm.jpg" class="thumbnail" style="display: inline-block" width="100" alt="Gallery Image">
+                    </a>
+                    &nbsp;
+                    <a class="" href="../../global/img/photos/blur-lg.jpg" title="This image fits only horizontally.">
+                      <img src="../../global/img/photos/blur-sm.jpg" class="thumbnail" style="display: inline-block" width="100" alt="Gallery Image">
+                    </a>
+                    &nbsp;
+                    <a class="" href="../../global/img/photos/lens-lg.jpg">
+                      <img src="../../global/img/photos/lens-sm.jpg" class="thumbnail" style="display: inline-block" width="100" alt="Gallery Image">
+                    </a>
+
+                  </div> <!-- /.ui-lightbox-gallery -->
+
+                </div>
+
+                <div class="col-md-2">
+
+                  <h5 class="heading">Video Popup</h5>
+
+                  <a class="ui-lightbox-video" href="http://www.youtube.com/watch?v=0O2aH4XLbto">Open YouTube video</a><br>
+                  <a class="ui-lightbox-video" href="https://vimeo.com/45830194">Open Vimeo video</a><br>
+                  <a class="ui-lightbox-video" href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom">Open Google Map</a>
+
+                </div>
+
+              </div>
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Labels & Badges
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="row">
+
+                <div class="col-sm-6">
+
+                  <h5>
+                    Simple Labels
+                  </h5>
+
+                  <p>A label, with optional background colors. Use the labelclass to create a label</p>
+
+                  <div style="font-size: 16px;">
+                  <span class="label label-default demo-element">Default</span>
+                  <span class="label label-primary demo-element">Primary</span>
+                  <span class="label label-secondary demo-element">Secondary</span>
+                  <span class="label label-tertiary demo-element">Tertiary</span>
+                  <span class="label label-success demo-element">Success</span>
+                  <span class="label label-info demo-element">Info</span>
+                  <span class="label label-warning demo-element">Warning</span>
+                  <span class="label label-danger demo-element">Danger</span>
+                  </div>
+
+                  <br><br>
+
+                </div> <!-- /.col -->
+
+                <div class="col-sm-6">
+
+                  <h5>
+                    Badge Variation
+                  </h5>
+
+                  <p>A Badge, with optional background colors. Use the badgeclass to create a Badge</p>
+
+                  <span class="badge badge-default demo-element demo-element">4</span>
+                  <span class="badge badge-primary demo-element">13</span>
+                  <span class="badge badge-secondary demo-element">13</span>
+                  <span class="badge badge-tertiary demo-element">13</span>
+
+                </div> <!-- /.col -->
+
+              </div> <!-- /.row -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Dropdowns
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="row">
+
+                <div class="col-sm-6">
+
+                  <h5>
+                    Dropdown Buttons
+                  </h5>
+
+                  <div class="btn-group demo-element">
+                    <button type="button" class="btn btn-tertiary dropdown-toggle" data-toggle="dropdown">
+                    Regular Dropdown <span class="caret"></span>
+                    </button>
+
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="javascript:;">Action</a></li>
+                      <li><a href="javascript:;">Another action</a></li>
+                      <li><a href="javascript:;">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="javascript:;">Separated link</a></li>
+                    </ul>
+                  </div> <!-- /.btn-gruop -->
+
+                  <div class="btn-group demo-element">
+                    <button type="button" class="btn btn-tertiary">Split Dropdown</button>
+
+                    <button type="button" class="btn btn-tertiary dropdown-toggle" data-toggle="dropdown">
+                      <span class="caret"></span>
+                    </button>
+
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="javascript:;">Action</a></li>
+                      <li><a href="javascript:;">Another action</a></li>
+                      <li><a href="javascript:;">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="javascript:;">Separated link</a></li>
+                    </ul>
+                  </div> <!-- /.btn-gruop -->
+
+                  <div class="btn-group dropup demo-element">
+                    <button type="button" class="btn btn-tertiary">Dropup</button>
+
+                    <button type="button" class="btn btn-tertiary dropdown-toggle" data-toggle="dropdown">
+                      <span class="caret"></span>
+                    </button>
+
+                    <ul class="dropdown-menu">
+                      <li><a href="javascript:;">Action</a></li>
+                      <li><a href="javascript:;">Another action</a></li>
+                      <li><a href="javascript:;">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="javascript:;">Separated link</a></li>
+                    </ul>
+                  </div> <!-- /.btn-gruop -->
+
+                  <br><br>
+
+                </div> <!-- /.col -->
+
+
+                <div class="col-sm-6">
+
+                  <h5>
+                    Dropdown Menu
+                  </h5>
+
+                  <ul class="dropdown-menu demo-dropdown-menu" role="menu">
+                    <li><a tabindex="-1" href="#"><i class="fa fa-bookmark dropdown-icon"></i>Action</a></li>
+                    <li><a tabindex="-1" href="#"><i class="fa fa-cloud dropdown-icon"></i>Another action</a></li>
+                    <li><a tabindex="-1" href="#"><i class="fa fa-legal dropdown-icon"></i>Something else here</a></li>
+
+                    <li class="divider"></li>
+
+                    <li class="dropdown-submenu">
+                    <a tabindex="-1" href="#">
+                    <i class="fa fa-asterisk"></i>
+                    &nbsp;&nbsp;Sub Menu
+                    </a>
+
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="javascript:;">Sub Item #1</a>
+                        </li>
+                        <li>
+                          <a href="javascript:;">Sub Item #2</a>
+                        </li>
+                        <li>
+                          <a href="javascript:;">Sub Item #3</a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+
+                </div> <!-- /.col -->
+
+              </div> <!-- /.row -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Tooltips
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="row">
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-tooltip" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
+                  Tooltip on right
+                  </button>
+                </div> <!-- /.col -->
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-tooltip" data-toggle="tooltip" data-placement="top" title="Tooltip on top">Tooltip on top</button>
+                </div> <!-- /.col -->
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-tooltip" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">Tooltip on bottom</button>
+                </div> <!-- /.col -->
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-tooltip" data-toggle="tooltip" data-placement="left" title="Tooltip on left">Tooltip on left</button>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.row -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Popovers
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="row">
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-popover" data-toggle="tooltip" data-placement="right" data-trigger="hover" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam." title="Tooltip on right">
+                  Popover on right
+                  </button>
+                </div> <!-- /.col -->
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-popover" data-toggle="tooltip" data-placement="top" data-trigger="hover" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam." title="Tooltip on top">
+                  Popover on top
+                  </button>
+                </div> <!-- /.col -->
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-popover" data-toggle="tooltip" data-placement="bottom" data-trigger="hover" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam." title="Tooltip on bottom">
+                  Popover on bottom
+                  </button>
+                </div> <!-- /.col -->
+
+                <div class="col-sm-3">
+                  <button type="button" class="btn btn-default demo-element ui-popover" data-toggle="tooltip" data-placement="left" data-trigger="hover" data-content="Sed posuere consectetur est at lobortis. Aenean eu leo quam." title="Tooltip on left">
+                  Popover on left
+                  </button>
+                </div> <!-- /.col -->
+
+              </div> <!-- /.row -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Simple Alert
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="alert alert-success">
+                <a class="close" data-dismiss="alert" href="#" aria-hidden="true">&times;</a>
+                <strong>Well done!</strong> You successfully read this important alert message.
+              </div> <!-- /.alert -->
+
+              <div class="alert alert-info">
+                <a class="close" data-dismiss="alert" href="#" aria-hidden="true">&times;</a>
+                <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+              </div> <!-- /.alert -->
+
+              <div class="alert alert-warning">
+                <a class="close" data-dismiss="alert" href="#" aria-hidden="true">&times;</a>
+                <strong>Warning!</strong> Best check yo self, you're not looking too good.
+              </div> <!-- /.alert -->
+
+              <div class="alert alert-danger">
+                <a class="close" data-dismiss="alert" href="#" aria-hidden="true">&times;</a>
+                <strong>Oh snap!</strong> Change a few things up and try submitting again.
+              </div> <!-- /.alert -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section> <!-- /.demo-section -->
+
+
+
+
+        <section class="demo-section">
+
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Progress Bars
+              </h4>
+            </div> <!-- /.portlet-header -->
+
+            <div class="portlet-body">
+
+              <div class="row">
+
+                <div class="col-sm-4">
+
+                  <div class="portlet">
+
+                    <h5>
+                      Progress Bars
+                    </h5>
+
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                      <span class="sr-only">40% Complete (primary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-secondary" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%
+                      <span class="sr-only">60% Complete (secondary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-tertiary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                      <span class="sr-only">80% Complete (tertiary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                  </div> <!-- /.portlet -->
+
+                </div> <!-- /.col -->
+
+
+                <div class="col-sm-4">
+
+                  <div class="portlet">
+
+                    <h5>
+                      Progress Striped <small>(Active)</small>
+                    </h5>
+
+                    <div class="progress progress-striped active">
+                      <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                      <span class="sr-only">40% Complete (primary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                    <div class="progress progress-striped active progress-striped active">
+                      <div class="progress-bar progress-bar-secondary" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                      <span class="sr-only">60% Complete (secondary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                    <div class="progress progress-striped active">
+                      <div class="progress-bar progress-bar-tertiary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                      <span class="sr-only">80% Complete (tertiary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                  </div> <!-- /.portlet -->
+
+                </div> <!-- /.col -->
+
+
+                <div class="col-sm-4">
+
+                  <div class="portlet">
+
+                    <h5>
+                      Progress Sizes
+                    </h5>
+
+                    <div class="progress progress-sm">
+                      <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                      <span class="sr-only">40% Complete (primary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                    <div class="progress progress-md">
+                      <div class="progress-bar progress-bar-secondary" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                      <span class="sr-only">60% Complete (secondary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                    <div class="progress progress-lg">
+                      <div class="progress-bar progress-bar-tertiary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                      <span class="sr-only">80% Complete (tertiary)</span>
+                      </div>
+                    </div> <!-- /.progress -->
+
+                  </div> <!-- /.col -->
+
+                </div> <!-- /.portlet -->
+
+              </div> <!-- /.row -->
+
+            </div> <!-- /.portlet-body -->
+
+          </div> <!-- /.portlet -->
+
+        </section><!-- /.demo-section -->
+
+
+      </div> <!-- /.container -->
+
+
+
+
+
+      <div id="basicModal" class="modal fade">
+
+        <div class="modal-dialog">
+
+          <div class="modal-content">
+
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h3 class="modal-title">Basic Modal</h3>
+            </div> <!-- /.modal-header -->
+
+            <div class="modal-body">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.&hellip;</p>
+            </div> <!-- /.modal-body -->
+
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div> <!-- /.modal-footer -->
+
+          </div> <!-- /.modal-content -->
+
+        </div><!-- /.modal-dialog -->
+
+      </div><!-- /.modal -->
+
+
+
+      <div id="styledModal" class="modal modal-styled fade">
+
+        <div class="modal-dialog">
+
+          <div class="modal-content">
+
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h3 class="modal-title">Styled Modal</h3>
+            </div> <!-- /.modal-header -->
+
+            <div class="modal-body">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.&hellip;</p>
+            </div> <!-- /.modal-body -->
+
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div> <!-- /.modal-footer -->
+
+          </div> <!-- /.modal-content -->
+
+        </div><!-- /.modal-dialog -->
+
+      </div><!-- /.modal -->
+
+
+
+      <div id="bigModal" class="modal modal-styled fade" tabindex="-1" role="dialog">
+
+        <div class="modal-dialog modal-lg">
+
+          <div class="modal-content">
+
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+              <h3 class="modal-title" >Large Modal</h3>
+            </div> <!-- /.modal-header -->
+
+            <div class="modal-body">
+              <h4>Text in a modal</h4>
+              <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
+
+              <h4>Popover in a modal</h4>
+              <p>This <a href="javascript:;" role="button" class="btn btn-default ui-popover" title="" data-content="And here's some amazing content. It's very engaging. right?" data-original-title="A Title">button</a> should trigger a popover on click.</p>
+
+              <h4>Tooltips in a modal</h4>
+              <p><a href="javascript:;" class="ui-tooltip" title="" data-original-title="Tooltip">This link</a> and <a href="javascript:;" class="ui-tooltip" title="" data-original-title="Tooltip">that link</a> should have tooltips on hover.</p>
+
+              <hr>
+
+              <h4>Overflowing text to show scroll behavior</h4>
+              <p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+              <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+              <p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+              <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+              <p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+              <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+            </div> <!-- /.modal-body -->
+
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div> <!-- /.modal-footer -->
+
+          </div><!-- /.modal-content -->
+
+        </div><!-- /.modal-dialog -->
+
+      </div> <!-- /.modal -->
+
+  </div> <!-- .content -->
+
+</div> <!-- /#wrapper -->
+
+<footer class="footer">
+  <div class="container">
+    <p class="pull-left">Copyright &copy; 2013-16 Jumpstart Themes.</p>
+  </div>
+</footer>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Core JS -->
+<script src="../../bower_components/jquery/dist/jquery.js"></script>
+<script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../../bower_components/slimscroll/jquery.slimscroll.min.js"></script>
+
+
+
+<!-- Plugin JS -->
+<script src="../../bower_components/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+
+<!-- App JS -->
+<script src="../../global/js/mvpready-core.js"></script>
+<script src="../../global/js/mvpready-helpers.js"></script>
+<script src="./js/mvpready-admin.js"></script>
+
+
+</body>
+</html>

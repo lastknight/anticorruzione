@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <title><%= @titolo %></title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,300,700">
+
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="/bower_components/fontawesome/css/font-awesome.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+
+  
+  
+  <!-- App CSS -->
+  <link rel="stylesheet" href="/css/mvpready-admin.css">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body class=" ">
+
+<div id="wrapper">
+
+  <header class="navbar" role="banner">
+
+    <div class="container">
+
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-cog"></i>
+        </button>
+
+      </div> <!-- /.navbar-header -->
+
+      <nav class="collapse navbar-collapse" role="navigation">
+
+        <ul class="nav navbar-nav navbar-right">
+
+          <li>
+            <a href="http://hermescenter.org">Hermes Center - Anticorruzione Online Anno <%=@anno%></a>
+          </li>
+
+			</ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </header>
+
+
+  <div class="mainnav ">
+
+    <div class="container">
+
+      <a class="mainnav-toggle" data-toggle="collapse" data-target=".mainnav-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars"></i>
+      </a>
+
+      <nav class="collapse mainnav-collapse" role="navigation">
+
+<!--        <form class="mainnav-form">
+          <input type="text" class="form-control input-md mainnav-search-query" placeholder="Search">
+          <button class="btn btn-sm mainnav-form-btn"><i class="fa fa-search"></i></button>
+        </form>
+-->
+        <ul class="mainnav-menu">
+
+          <li class="dropdown active">
+
+            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+              
+              L.190
+              <i class="mainnav-caret"></i>
+            </a>
+
+            <ul class="dropdown-menu mega-dropdown-menu mega-menu-2" role="menu">
+
+              <li>
+                <div class="mega-menu-content">
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">Anni</li>
+
+                      <li>
+                        <a href="/l190/2017">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Anno 2017
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="/l190/2016">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Anno 2016
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="/l190/2015">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Anno 2015
+                        </a>
+                      </li>
+
+                    </ul>
+                  </div> <!-- /.mega-menu-col -->
+
+                  <div class="mega-menu-col">
+
+                    <ul class="mega-menu-menu">
+                      <li class="mega-menu-header">Fonti</li>
+
+                      <li>
+                        <a href="http://dati.anticorruzione.it/#/l190">
+                        <i class="fa fa-bars dropdown-icon "></i>
+                        Sito ANAC
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="http://www.anticorruzione.it/portal/public/classic/Servizi/ServiziOnline/DichiarazioneAdempLegge190">
+                        <i class="fa fa-calendar-o dropdown-icon "></i>
+                        Lista Adempimenti
+                        </a>
+                      </li>
+
+                      <li class="mega-menu-header">Elenco Soggetti</li>
+
+                      <li>
+                        <a href="/components-tables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Soggetti Inadempienti
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="/components-datatables.html">
+                        <i class="fa fa-table dropdown-icon "></i>
+                        Soggetti Adempienti
+                        </a>
+                      </li>
+
+                    </ul>
+
+                  </div> <!-- /.mega-menu-col -->
+
+                </div> <!-- /.mega-menu-content -->
+
+              </li>
+
+            </ul>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </div> <!-- /.container -->
+
+  </div> <!-- /.mainnav -->
+
+  <div class="content">
+
+	  <%= yield %>
+
+  </div> <!-- .content -->
+
+</div> <!-- /#wrapper -->
+
+<footer class="footer">
+  <div class="container">
+    <p class="pull-left">Copyright &copy; 2017-21 <a href="http://hermescenter.org">Hermes Center</a> // Coded by <a href="http://mgpf.it">Matteo G.P. Flora</a> // Based on OpenData sets by <a href="http://dati.anticorruzione.it/#/l190">ANAC</a>
+  </div>
+</footer>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Core JS -->
+<script src="/bower_components/jquery/dist/jquery.js"></script>
+<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/bower_components/slimscroll/jquery.slimscroll.min.js"></script>
+
+
+
+
+<!-- App JS -->
+<script src="/global/js/mvpready-core.js"></script>
+<script src="/global/js/mvpready-helpers.js"></script>
+<script src="/js/mvpready-admin.js"></script>
+
+
+</body>
+</html>
