@@ -117,7 +117,7 @@
 		 new Morris.Donut({
 		    element: 'myPercentage',
 		    data: [
-				{label: "Lotti in Gara", value: <%=totale.to_i%>},
+				{label: "Lotti in Gara", value: <%=totale.to_i - totale_cottimo.to_i - totale_diretto.to_i%>},
 				{label: "Lotti in Cottimo", value: <%=totale_cottimo.to_i%>},
 				{label: "Lotti in Assegnazione Diretta", value: <%=totale_diretto.to_i%>}
 		    ]

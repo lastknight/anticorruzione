@@ -96,7 +96,7 @@
   		 new Morris.Donut({
   		    element: 'myPercentage',
   		    data: [
-  				{label: "In Gara", value: <%=@totale.to_i%>},
+  				{label: "In Gara", value: <%=@totale.to_i - @totale_cottimo.to_i - @totale_diretto.to_i%>},
   				{label: "In Cottimo", value: <%=@totale_cottimo.to_i%>},
   				{label: "In Assegnamento Diretto", value: <%=@totale_diretto.to_i%>}
   		    ]
