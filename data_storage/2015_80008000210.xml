@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2014-04-02</dataPubblicazioneIndice>
+    <entePubblicatore>Liceo Scientifico "E. Torricelli" - Bolzano</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-10</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.torricelli.bz.it/wp/avcp/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset> http://www.torricelli.bz.it/wp/avcp/2012.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset> http://www.torricelli.bz.it/wp/avcp/2013.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-04-08</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset> http://www.torricelli.bz.it/wp/avcp/2014.xml </linkDataset>
+      <dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset> http://www.torricelli.bz.it/wp/avcp/2015.xml </linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset> http://www.torricelli.bz.it/wp/avcp/2016.xml </linkDataset>
+      <dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-09</dataPubbicazioneDataset>
+		<entePubblicatore>Fagnano Alto</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c066042/zf/index.php/dataset/appalti-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+																							<lotto>
+										<cig>Z880D4DAE9</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00193030665</codiceFiscaleProp>
+						<denominazione>COMUNE DI FAGNANO ALTO</denominazione>
+					</strutturaProponente>
+					<oggetto>FORNITURA BUSTE</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>01393100662</codiceFiscale>
+								<ragioneSociale>L'ARTIGIANSTAMPA DI PINO SANFILIPPO</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>01393100662</codiceFiscale>
+								<ragioneSociale>L'ARTIGIANSTAMPA DI PINO SANFILIPPO</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>370.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-14</dataInizio>
+																			<dataUltimazione>2014-01-14</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+				</lotto>
+						</data>
+</legge190:pubblicazione>

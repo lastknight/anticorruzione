@@ -1,0 +1,2731 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legge190:pubblicazione ns3:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:ns3="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+    <metadata>
+        <titolo>Appalti 2014 - Art. 1, comma 32, Legge 190/2012</titolo>
+        <abstract>Contratti pubblici di lavori, servizi e forniture relativi al Comune di Schiavon ai sensi art. 1, comma 32, della Legge 6 novembre 2012 n. 190.</abstract>
+        <dataPubbicazioneDataset>2015-01-28Z</dataPubbicazioneDataset>
+        <entePubblicatore>Comune di Schiavon (VI)</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2015-01-28Z</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2014</annoRiferimento>
+        <urlFile>http://cdn1.regione.veneto.it/alfstreaming-servlet/streamer/resourceId/b51044f8-1897-48f3-b779-07798f5d5a80/AVCP_anno_2014.xml</urlFile>
+        <licenza ns3:type="ns4:string" xmlns:ns4="http://www.w3.org/2001/XMLSchema">IODL 2.0</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>T01</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO GESTIONE TARI 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8196.72</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L27</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO A ETRA SPA GESTIONE TARI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8196.72</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC10D720FC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa servizio di recupero salme e servizi funebri a carico del Comune anno 2014.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02233110242</codiceFiscale>
+                    <ragioneSociale>Onoranze funebri Gasoli snc</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02233110242</codiceFiscale>
+                    <ragioneSociale>Onoranze funebri Gasoli snc</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>400</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z710D64F2C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento servizio di assistenza domiciliare</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01939680243</codiceFiscale>
+                    <ragioneSociale>COOPERATIVA SOCIALE R.L. MARGHERITA ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01939680243</codiceFiscale>
+                    <ragioneSociale>COOPERATIVA SOCIALE R.L. MARGHERITA ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>13000</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>6870.05</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC111B07B7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura testi scolastici scuole primarie locali a.s. 2014/2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02096520248</codiceFiscale>
+                    <ragioneSociale>BENETTI GIOBATTA DI BENETTI FABIO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03684450244</codiceFiscale>
+                    <ragioneSociale>CARTA E NUMERI DI SIMONI MARCO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00604050286</codiceFiscale>
+                    <ragioneSociale>CARTOFANTASY</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03229270248</codiceFiscale>
+                    <ragioneSociale>CARTOFISCALE DI BATTAGLIN MICHELE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03035430242</codiceFiscale>
+                    <ragioneSociale>CARTOLIBRERIA IL PAPIRO DI VISONA' DALLA POZZA MARIA ANTONELLA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00896160249</codiceFiscale>
+                    <ragioneSociale>CARTOLIBRERIA MICHELETTO DANIELA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00567840244</codiceFiscale>
+                    <ragioneSociale>CARTOLIBRERIA OLIVETI VALERIA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00522840248</codiceFiscale>
+                    <ragioneSociale>COVER UP SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03306520242</codiceFiscale>
+                    <ragioneSociale>IL LIBRO LA TECNICA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02213720242</codiceFiscale>
+                    <ragioneSociale>LA BASSANESE LIBRERIE SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03117730246</codiceFiscale>
+                    <ragioneSociale>LA ROSA DI VENDRAMIN ROSSANA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02474940240</codiceFiscale>
+                    <ragioneSociale>LIBRERIA IL PUNTO DI COLLICELLI PAOLA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00102170248</codiceFiscale>
+                    <ragioneSociale>LIBRERIA SANGIORGI DI LAUDANI PAOLO &amp; C. SNC</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03851600241</codiceFiscale>
+                    <ragioneSociale>PUNTO CONTABILE DI BEDIN ORNELLA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01448400240</codiceFiscale>
+                    <ragioneSociale>TECNO CARTOLERIA DI BRESOLIN</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02096520248</codiceFiscale>
+                    <ragioneSociale>BENETTI GIOBATTA DI BENETTI FABIO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03684450244</codiceFiscale>
+                    <ragioneSociale>CARTA E NUMERI DI SIMONI MARCO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00604050286</codiceFiscale>
+                    <ragioneSociale>CARTOFANTASY</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03229270248</codiceFiscale>
+                    <ragioneSociale>CARTOFISCALE DI BATTAGLIN MICHELE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03035430242</codiceFiscale>
+                    <ragioneSociale>CARTOLIBRERIA IL PAPIRO DI VISONA' DALLA POZZA MARIA ANTONELLA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00896160249</codiceFiscale>
+                    <ragioneSociale>CARTOLIBRERIA MICHELETTO DANIELA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00567840244</codiceFiscale>
+                    <ragioneSociale>CARTOLIBRERIA OLIVETI VALERIA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00522840248</codiceFiscale>
+                    <ragioneSociale>COVER UP SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03306520242</codiceFiscale>
+                    <ragioneSociale>IL LIBRO LA TECNICA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02213720242</codiceFiscale>
+                    <ragioneSociale>LA BASSANESE LIBRERIE SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03117730246</codiceFiscale>
+                    <ragioneSociale>LA ROSA DI VENDRAMIN ROSSANA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02474940240</codiceFiscale>
+                    <ragioneSociale>LIBRERIA IL PUNTO DI COLLICELLI PAOLA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00102170248</codiceFiscale>
+                    <ragioneSociale>LIBRERIA SANGIORGI DI LAUDANI PAOLO &amp; C. SNC</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03851600241</codiceFiscale>
+                    <ragioneSociale>PUNTO CONTABILE DI BEDIN ORNELLA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01448400240</codiceFiscale>
+                    <ragioneSociale>TECNO CARTOLERIA DI BRESOLIN</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4700</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-10+02:00</dataInizio>
+                <dataUltimazione>2015-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3464.75</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE10D652E3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura pasti Insegnanti Scuole Primarie locali - anno scolastico 2014/2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00311310379</codiceFiscale>
+                    <ragioneSociale>CAMST soc. coop arl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00311310379</codiceFiscale>
+                    <ragioneSociale>CAMST soc. coop arl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1200</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-16+01:00</dataInizio>
+                <dataUltimazione>2015-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>771.92</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>S01</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO FORMULARIO SPECIFICO ON-LINE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01913750681</codiceFiscale>
+                    <ragioneSociale>CEL COMMERCIALE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01913750681</codiceFiscale>
+                    <ragioneSociale>CEL COMMERCIALE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>139.34</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-12+01:00</dataInizio>
+                <dataUltimazione>2014-03-12+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>139.34</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>S02</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>ABBONAMENTO RIVISTA GIURIDICA ON-LINE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01913750681</codiceFiscale>
+                    <ragioneSociale>CEL COMMERCIALE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01913750681</codiceFiscale>
+                    <ragioneSociale>CEL COMMERCIALE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>380.33</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>380.33</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5E10EDF7F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per incarico al dott. prof. Giovanardi Andrea a comparire presso la Commissione Tributaria Provinciale di Vicenza avverso il ricorso contro avvisi di accertamento ICI anni 2007/2008 - Sig. P.L.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>GVNNDR67H26L157A</codiceFiscale>
+                    <ragioneSociale>Giovanardi Andrea</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>GVNNDR67H26L157A</codiceFiscale>
+                    <ragioneSociale>Giovanardi Andrea</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1311.48</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-24+02:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z150E00C38</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Rappresentazione teatrale a favore dei bambini dai 5 agli 8 anni.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02763450240</codiceFiscale>
+                    <ragioneSociale>Ullallà TeatroAnimazione </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02763450240</codiceFiscale>
+                    <ragioneSociale>Ullallà TeatroAnimazione </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>183</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-02-03+01:00</dataInizio>
+                <dataUltimazione>2014-02-15+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>183</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3E0D6511D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Abbonamento annuale alla Gazzetta Ufficiale "Guritel forfait" - versione telematica - 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>12062151001</codiceFiscale>
+                    <ragioneSociale>Informat srl - Roma</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>12062151001</codiceFiscale>
+                    <ragioneSociale>Informat srl - Roma</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>258.2</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-20+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>258.2</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z100E817D1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per incarico al dott. Prof. Giovanardi Andrea a comparire presso la Commissione Tributaria Provinciale di Vicenza avverso il ricorso contro avvisi di accertamento ICI anno 2007 - Sigg.ri C.B., C.E., D.S.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>GVNNDR67H26L157A</codiceFiscale>
+                    <ragioneSociale>Giovanardi Andrea</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>GVNNDR67H26L157A</codiceFiscale>
+                    <ragioneSociale>Giovanardi Andrea</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2049.18</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-27+01:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3E0E00C7C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Iniziativa per la commemorazione della "Giornata della Memoria" - anno 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>DLLGDN64M05H829R</codiceFiscale>
+                    <ragioneSociale>Dellai Giordano</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>DLLGDN64M05H829R</codiceFiscale>
+                    <ragioneSociale>Dellai Giordano</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>150</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-02-25+01:00</dataInizio>
+                <dataUltimazione>2014-02-27+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>150</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6C0D650C4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura corone di alloro, corone/cuscini fiori funebri, mazzi di fiori recisi per rappresentanza, geranei da balcone, edere Sede Municipale.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01313100248</codiceFiscale>
+                    <ragioneSociale>FIORERIA BAGNARA DI GIACOMAZZI ROBERTO - MAROSTICA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02833330240</codiceFiscale>
+                    <ragioneSociale>FIORERIA OASI - MAROSTICA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02698310246</codiceFiscale>
+                    <ragioneSociale>FIORERIA SCALCO DI SCALCO LORETTA - NOVE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00715060240</codiceFiscale>
+                    <ragioneSociale>FIORERIA TIBERIO BISINELLA - ROSA'</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01313100248</codiceFiscale>
+                    <ragioneSociale>FIORERIA BAGNARA DI GIACOMAZZI ROBERTO - MAROSTICA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>600</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2012-03-06+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>399.4</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z990D6521C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento servizio di gestione dati relativi alla situazione economica del soggetto richiedente assegni per nucleo familiare, di maternità, di sostegno alla locazione e per attività connesse a richieste di prestazioni sociali agevolate</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02651360279</codiceFiscale>
+                    <ragioneSociale>CAAF CGIL NORDEST SRL - MESTRE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02316560248</codiceFiscale>
+                    <ragioneSociale>CAAF CISL VICENZA SRL - VICENZA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04391911007</codiceFiscale>
+                    <ragioneSociale>CAAF UIL SPA - ROMA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02651360279</codiceFiscale>
+                    <ragioneSociale>CAAF CGIL NORDEST SRL - MESTRE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02316560248</codiceFiscale>
+                    <ragioneSociale>CAAF CISL VICENZA SRL - VICENZA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>04391911007</codiceFiscale>
+                    <ragioneSociale>CAAF UIL SPA - ROMA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>300</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2011-07-30+02:00</dataInizio>
+                <dataUltimazione>2015-07-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0E0D64FF1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura materiale librario per Biblioteca Comunale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03641630268</codiceFiscale>
+                    <ragioneSociale>CENTRO BIBLIOTECHE LOVAT SRL - VILLORBA (TV)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02457200240</codiceFiscale>
+                    <ragioneSociale>LIBRERIA LA BASSANESE - BASSANO DEL GRAPPA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01640430243</codiceFiscale>
+                    <ragioneSociale>LIBRERIA PALAZZO ROBERTI - BASSANO DEL GRAPPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03641630268</codiceFiscale>
+                    <ragioneSociale>CENTRO BIBLIOTECHE LOVAT SRL - VILLORBA (TV)</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01640430243</codiceFiscale>
+                    <ragioneSociale>LIBRERIA PALAZZO ROBERTI - BASSANO DEL GRAPPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1900</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2012-03-12+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>745.28</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z771205D2C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon (VI)</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura opuscoli sulla Costituzione Italiana</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04355100282</codiceFiscale>
+                    <ragioneSociale>PG SOFTWORKS' - PADOVA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04355100282</codiceFiscale>
+                    <ragioneSociale>PG SOFTWORKS' - PADOVA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>292.5</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-28+01:00</dataInizio>
+                <dataUltimazione>2014-12-03+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>292.5</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L20</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO STOCCAGGIO E SMALTIMENTO FARMACI SCADUTI, PILE ESAURITE, TUBI FLUORESCENTI/NEON, CONTENITORI FITOFARMACI/AGROCHIMICI, BOMBOLETTE SPRAY E T/F E VERNICI INCHIOSTRO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4918.37</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3333.84</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L21</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>MOVIMENTAZIONE CONTAINERS UTILIZZO RAGNO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3880.17</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L22</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI ILLUMINAZIONE ELTTRICA VOTIVA PRESSO I CIMITERI COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00325820173</codiceFiscale>
+                    <ragioneSociale>LA VOTIVA DI MANTELLI CARLO SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00325820173</codiceFiscale>
+                    <ragioneSociale>LA VOTIVA DI MANTELLI CARLO SNC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L25</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI RACCOLTA SECCO E UMIDO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>70909.09</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>58338.18</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L26</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO SMALTIMENTO SECCO E INGOMBRANTI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>52727.27</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>42527.17</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>5832973198</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE NUOVO POLO SCOLASTICO ELEMENTARE UNIFICATO-PRIMO STRALCIO-GARA AFFIDAMENTO DEI SERVIZI TECNICI PROFESSIONALI DI PROGETTAZIONE ESECUTIVA, DIREZIONE LAVORI E PRESTAZIONI CONNESSE</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02915300244</codiceFiscale>
+                    <ragioneSociale>ARCH. BORDIGNON GIAMPAOLO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02556010243</codiceFiscale>
+                    <ragioneSociale>ARCHINGEO - ARCH. MASSIMO ZAMPIERI</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00767060247</codiceFiscale>
+                    <ragioneSociale>CAMPAGNOLO ING. LIVIO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01833010240</codiceFiscale>
+                    <ragioneSociale>FACCIO ING. CLAUDIO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02724750241</codiceFiscale>
+                    <ragioneSociale>GONZATO ING. DAVIDE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02805170244</codiceFiscale>
+                    <ragioneSociale>MAFFEIS ING. MASSIMO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03498650245</codiceFiscale>
+                    <ragioneSociale>STUDIO ARCHITETTURA MUTTIN ASSOCIATI (SAMA)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02934710241</codiceFiscale>
+                    <ragioneSociale>TX ARCHITETTI ASSOCIATI </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02772950248</codiceFiscale>
+                    <ragioneSociale>ZANATA GROUP STUDIO ASSOCIATO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02724750241</codiceFiscale>
+                    <ragioneSociale>GONZATO ING. DAVIDE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>31085.6</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-01+02:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>5833168283</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>ELIMINAZIONE DELLE BARRIERE ARCHITETTONICHE NEL CIMITERO DI SCHIAVON E COSTRUZIONE NUOVE CELLE OSSARIO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03305230249</codiceFiscale>
+                    <ragioneSociale>BAIO COSTRUZIONI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02636880243</codiceFiscale>
+                    <ragioneSociale>IMPRESA EDILE MICHELON AURELIO DI MICHELON DENIS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03355700240</codiceFiscale>
+                    <ragioneSociale>MASCOTTO MARIO SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03217540248</codiceFiscale>
+                    <ragioneSociale>TONIAZZO IMPRESA DI COSTRUZIONI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03355700240</codiceFiscale>
+                    <ragioneSociale>MASCOTTO MARIO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>45600</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-07-21+02:00</dataInizio>
+                <dataUltimazione>2014-12-29+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>45600</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z160D5AC66</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI MATERIALE VARIO DI CARPENTERIA EDILE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01485360240</codiceFiscale>
+                    <ragioneSociale>MATERIALI EDILI VIALETTO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03130640240</codiceFiscale>
+                    <ragioneSociale>SCALCO PIETRO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01485360240</codiceFiscale>
+                    <ragioneSociale>MATERIALI EDILI VIALETTO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03130640240</codiceFiscale>
+                    <ragioneSociale>SCALCO PIETRO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3688.53</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2262.16</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7C0D5AF61</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI MANUTENZIONE E RIPARAZIONE MACCHINE PER IL MANTENIMENTO DI AREE VERDI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03798400242</codiceFiscale>
+                    <ragioneSociale>FARESIN PIETRO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03798400242</codiceFiscale>
+                    <ragioneSociale>FARESIN PIETRO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1639.35</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1185.8</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L23</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>POSA DI UN CONTATORE DELL'ACQUA PRESSO IL CIMITERO DI SCHIAVON</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>225.41</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-10-21+02:00</dataInizio>
+                <dataUltimazione>2014-10-24+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>225.41</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L24</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>GESTIONE CANILE INTERCOMUNALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00913430245</codiceFiscale>
+                    <ragioneSociale>UNITA' LOCALE SOCIO-SANITARIA N°3</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00913430245</codiceFiscale>
+                    <ragioneSociale>UNITA' LOCALE SOCIO-SANITARIA N°3</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>900</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAB100AA1F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI DISINFESTAZIONE ZANZARE E DERATTIZZAZIONE </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03358800245</codiceFiscale>
+                    <ragioneSociale>BRENDOLAN DISINFESTAZIONI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03358800245</codiceFiscale>
+                    <ragioneSociale>BRENDOLAN DISINFESTAZIONI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1200.42</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-07-04+02:00</dataInizio>
+                <dataUltimazione>2014-09-15+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>398.07</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCA1029DB1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA E POSA IN OPERA DI TELAI ZINCATI PER L'INSERIMENTO DI MARMI SUI LOCULI DEL CIMITERO DI SCHIAVON</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03305230249</codiceFiscale>
+                    <ragioneSociale>BAIO COSTRUZIONI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03305230249</codiceFiscale>
+                    <ragioneSociale>BAIO COSTRUZIONI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>900</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-07-15+02:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9D11B5E19</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA VERNICE SPARTITRAFFICO E DILUENTE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01971670268</codiceFiscale>
+                    <ragioneSociale>TES SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01971670268</codiceFiscale>
+                    <ragioneSociale>TES SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1911</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-13+01:00</dataInizio>
+                <dataUltimazione>2014-12-02+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1911</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF911C40DF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO PER REVISIONE E AGGIORNAMENTO PRATICA DI PREVENZIONE INCENDI NUOVO POLO SCOLASTICO UNIFICATO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>CRVMTN74E16L840W</codiceFiscale>
+                    <ragioneSociale>CRIVELLARO MARTINO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CRVMTN74E16L840W</codiceFiscale>
+                    <ragioneSociale>CRIVELLARO MARTINO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1922.7</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-17+01:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7610B05BB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>POLIZZA FIDEJUSSORIA MARCIAPIEDE VIA CHIESA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04406720260</codiceFiscale>
+                    <ragioneSociale>AN BROKER SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04406720260</codiceFiscale>
+                    <ragioneSociale>AN BROKER SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>150</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-09+02:00</dataInizio>
+                <dataUltimazione>2014-09-03+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>150</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB410D0499</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SISTEMAZIONE PAVIMENTAZIONE ESISTENTE IN MARMO E OPERE CONNESSE SUL CIMITERO DI SCHIAVON</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00290610245</codiceFiscale>
+                    <ragioneSociale>MASCOTTO MARIO SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00290610245</codiceFiscale>
+                    <ragioneSociale>MASCOTTO MARIO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>12885</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-17+02:00</dataInizio>
+                <dataUltimazione>2014-11-25+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>12885</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3D10F9AB2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SOSTITUZIONE DI UN CIRCOLATORE PRESSO LA SEDE MUNICIPALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>574</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-29+02:00</dataInizio>
+                <dataUltimazione>2014-10-20+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>574</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z26114C8F4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>RINNOVO PLOLIZZA FIDEJUSSORIA OPERA "REALIZZAZIONE DI UNA PIAZZOLA DI SOSTA AUTOBUS E PASSAGGIO PEDONALE CON SEMAFORO A CHIAMATA"</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04406720260</codiceFiscale>
+                    <ragioneSociale>AN BROKER SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04406720260</codiceFiscale>
+                    <ragioneSociale>AN BROKER SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>104</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-10-20+02:00</dataInizio>
+                <dataUltimazione>2015-10-20+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>104</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9E11AECA2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>RIPRISTINO DELL'IMPIANTO DI VIDEOCONTROLLO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02586550242</codiceFiscale>
+                    <ragioneSociale>VIDEOTECNICA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02586550242</codiceFiscale>
+                    <ragioneSociale>VIDEOTECNICA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1229.5</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-11+01:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC111B457C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO PROGETTO PRELIMINARE OPERA "PROGETTO DI RIQUALIFICAZIONE PIAZZA RISORGIMENTO A SCHIAVON"</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03368340240</codiceFiscale>
+                    <ragioneSociale>CHECCHIN ALESSANDRO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03368340240</codiceFiscale>
+                    <ragioneSociale>CHECCHIN ALESSANDRO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>516</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-11+01:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3A11EB0EF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO BOX DISSUASORI DI VELOCITA' MODELLO SPEED CONTROL</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03722410283</codiceFiscale>
+                    <ragioneSociale>PLUS SERVICES SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03722410283</codiceFiscale>
+                    <ragioneSociale>PLUS SERVICES SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3500</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-25+01:00</dataInizio>
+                <dataUltimazione>2014-12-17+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3500</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF31216AE3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>PULIZIA SEDE MUNICIPALE ANNO 2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03632650242</codiceFiscale>
+                    <ragioneSociale>UNILABOR SCARL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03632650242</codiceFiscale>
+                    <ragioneSociale>UNILABOR SCARL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6192.01</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-12-05+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z921219079</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ED INSTALLAZIONE DI UN CLIMATIZZATORE PRESSO LA EX SEDE MUNICIPALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1890</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-12-05+01:00</dataInizio>
+                <dataUltimazione>2014-12-20+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1890</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z10127D9AE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO VERIFICA PROGETTO ESECUTIVO OPERA "REALIZZAZIONE NUOVO POLO SCOLASTICO UNIFICATO-PRIMO STRALCIO"</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>409.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-12-29+01:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L01</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI MATERIALE GHIAIOSO E BITUMINOSO PER MANUTENZIONE STRADE COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03276720244</codiceFiscale>
+                    <ragioneSociale>F.LLI GIRARDINI SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03276720244</codiceFiscale>
+                    <ragioneSociale>F.LLI GIRARDINI SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>819.67</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>321.4</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L02</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI GHIAIA STABILIZZATO ASTICO PER MANUTENZIONE STRADE COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02061760241</codiceFiscale>
+                    <ragioneSociale>SIG SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02061760241</codiceFiscale>
+                    <ragioneSociale>SIG SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1229.51</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>826.44</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L03</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA PRESSO GLI AMBULATORI MEDICI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>409.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>31.42</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L04</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA PRESSO LE SCUOLE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>614.75</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>167.46</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L05</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA PARCHI E GIARDINI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>327.88</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>23.75</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L06</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA CIMITERI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>245.9</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>83.07</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L07</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA SALA POLIFUNZIONALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>409.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L08</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA ECOCENTRO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>327.88</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L09</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ACQUA CAMPO DA CALCIO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278040245</codiceFiscale>
+                    <ragioneSociale>ETRA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>819.67</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>81.58</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA20D2649D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>PROROGA SERVIZIO DI PULIZIA SEDE MUNICIPALE E BIBLIOTECA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03042020242</codiceFiscale>
+                    <ragioneSociale>HELYOS SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03042020242</codiceFiscale>
+                    <ragioneSociale>HELYOS SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6192</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5417.42</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L11</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>TELEFONIA SCUOLE ELEMENTARI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00488410010</codiceFiscale>
+                    <ragioneSociale>TELECOM SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00488410010</codiceFiscale>
+                    <ragioneSociale>TELECOM SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1557.38</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>955.74</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L12</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ENERGIA ELETTRICA AMBULATORI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03443420231</codiceFiscale>
+                    <ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03443420231</codiceFiscale>
+                    <ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1065.57</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>744.57</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L14</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA GAS METANO AMBULATORI MEDICI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01565370382</codiceFiscale>
+                    <ragioneSociale>SOENERGY SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01565370382</codiceFiscale>
+                    <ragioneSociale>SOENERGY SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2459.02</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>346.76</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L15</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA GAS METANO NELLE SCUOLE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01565370382</codiceFiscale>
+                    <ragioneSociale>SOENERGY SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01565370382</codiceFiscale>
+                    <ragioneSociale>SOENERGY SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>15573.77</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3706.77</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>56874074BA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>LAVORI DI "COSTRUZIONE DI NUOVI LOCULI E NUOVE CELLE OSSARIO NEL CIMITERO DI SCHIAVON" - OPERA COMPLEMENTARE - REALIZZAZIONE DI UN SERVIZIO IGIENICO - AFFIDAMENO DELL'ESECUZIONE DI OPERE COMPLEMENTARI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03305230249</codiceFiscale>
+                    <ragioneSociale>BAIO COSTRUZIONI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03305230249</codiceFiscale>
+                    <ragioneSociale>BAIO COSTRUZIONI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19449</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-31+02:00</dataInizio>
+                <dataUltimazione>2014-12-11+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>19449</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L17</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI POLIZIA MUNICIPALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>93026000245</codiceFiscale>
+                    <ragioneSociale>CONSORZIO DI POLIZIA LOCALE NORDEST VICENTINO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>93026000245</codiceFiscale>
+                    <ragioneSociale>CONSORZIO DI POLIZIA LOCALE NORDEST VICENTINO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11475.41</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>9531.97</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L18</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>CORSO RINNOVO CQC</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03505930242</codiceFiscale>
+                    <ragioneSociale>AUTOSCUOLA VIVIAN</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03505930242</codiceFiscale>
+                    <ragioneSociale>AUTOSCUOLA VIVIAN</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>558</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-05-22+02:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L19</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>VISITE SANITARIE DIPENDENTI COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02562510244</codiceFiscale>
+                    <ragioneSociale>CENTRO DIAGNOSTICO VENETO S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01220420242</codiceFiscale>
+                    <ragioneSociale>PILLA PAOLO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02562510244</codiceFiscale>
+                    <ragioneSociale>CENTRO DIAGNOSTICO VENETO S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01220420242</codiceFiscale>
+                    <ragioneSociale>PILLA PAOLO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>409.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-10-14+02:00</dataInizio>
+                <dataUltimazione>2014-12-16+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>381.15</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB50D749DF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE IMPIANTO DI ASCENSORE PRESSO LA SEDE MUNICIPALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01263940288</codiceFiscale>
+                    <ragioneSociale>BELLETTI S.R.L. Mestrino (PD)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01263940288</codiceFiscale>
+                    <ragioneSociale>BELLETTI S.R.L. Mestrino (PD)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1065.58</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>813</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z790DF8B47</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE IMPIANTI ELETTRICI EDIFICI COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00086730249</codiceFiscale>
+                    <ragioneSociale>GASPAROTTO GIUSEPPE Marostica (VI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00086730249</codiceFiscale>
+                    <ragioneSociale>GASPAROTTO GIUSEPPE Marostica (VI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7377.05</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>6066.05</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z050DFBB6E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>RIMOZIONE E SOSTITUZIONE PALO ABBATTUTO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00086730249</codiceFiscale>
+                    <ragioneSociale>GASPAROTTO GIUSEPPE Marostica (VI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00086730249</codiceFiscale>
+                    <ragioneSociale>GASPAROTTO GIUSEPPE Marostica (VI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3870</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-02-24+01:00</dataInizio>
+                <dataUltimazione>2014-04-15+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3870</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3A0E3A8F8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE STRAORDINARIA SCUOLE DI LONGA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI Schiavon (VI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>1265</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-11+01:00</dataInizio>
+                <dataUltimazione>2014-06-05+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1265</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4F0EFC7EE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>SOSTITUZIONE DI UN PALO DELLA PUBBLICA ILLUMINAZIONE DANNEGGIATO IN VIA ROMA A SCHIAVON CAUSA SINISTRO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00086730249</codiceFiscale>
+                    <ragioneSociale>GASPAROTTO GIUSEPPE Marostica (VI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00086730249</codiceFiscale>
+                    <ragioneSociale>GASPAROTTO GIUSEPPE Marostica (VI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2450</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-04-29+02:00</dataInizio>
+                <dataUltimazione>2014-06-27+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2450</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z400F17E14</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO N. 2 BIDONI ASPIRATUTTO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07491520156</codiceFiscale>
+                    <ragioneSociale>MONDOFFICE </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07491520156</codiceFiscale>
+                    <ragioneSociale>MONDOFFICE </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>147.98</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-05-07+02:00</dataInizio>
+                <dataUltimazione>2014-07-08+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>147.98</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0D0F193A0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO PROGETTAZIONE DEFINITIVA/ESECUTIVA E DIREZIONE LAVORI OPERA "ELIMINAZIONE DELLE BARRIERE ARCHITETTONICHE NEL CIMITERO DI SCHIAVON E COSTRUZIONE DI NUOVE CELLE OSSARIO"</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03368340240</codiceFiscale>
+                    <ragioneSociale>CHECCHIN ALESSANDRO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03368340240</codiceFiscale>
+                    <ragioneSociale>CHECCHIN ALESSANDRO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4098.32</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-05-08+02:00</dataInizio>
+                <dataUltimazione>2014-12-16+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4098.32</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z340F563E7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>CONDUZIONE E MANUTENZIONE DEGLI IMPIANTI TERMICI DEGLI STABILI DI PROPRIETA' COMUNALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1200</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-05-22+02:00</dataInizio>
+                <dataUltimazione>2014-07-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1200</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z600F8C9AC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>CONDUZIONE E MANUTENZIONE DI N. 3 IMPIANTI TERMICI DEGLI STABILI DI PROPRIETA' COMUNALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02811050240</codiceFiscale>
+                    <ragioneSociale>TERMOCLIMA DI SICILIA GIOVANNI </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>600</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-06-06+02:00</dataInizio>
+                <dataUltimazione>2014-07-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>600</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE10E42D3E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>RINNOVO POLIZZA FIDEJIUSSORIA A GARANZIA DELL'ESECUZIONE DEI LAVORI "MARCIAPIEDI LUNGO LA S.P. 248 SCHIAVONESCA-MAROSTICANA FINO A VIA S. CORONA - MESSA IN SICUREZZA PEDONALE"</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04406720260</codiceFiscale>
+                    <ragioneSociale>AN BROKER SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04406720260</codiceFiscale>
+                    <ragioneSociale>AN BROKER SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>110</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-12+01:00</dataInizio>
+                <dataUltimazione>2015-01-19+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>110</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE40E6BD01</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO DI ERBICIDA PER DISERBO STRADE COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06767051219</codiceFiscale>
+                    <ragioneSociale>EUROFOR SRL Monte di Procida (NA)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06767051219</codiceFiscale>
+                    <ragioneSociale>EUROFOR SRL Monte di Procida (NA)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>240</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-21+01:00</dataInizio>
+                <dataUltimazione>2014-04-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>240</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5611F3DD3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>TRASPORTO ALBERI DI NATALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02803250246</codiceFiscale>
+                    <ragioneSociale>BAU' COSTRUZIONI SISTEM SAS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02803250246</codiceFiscale>
+                    <ragioneSociale>BAU' COSTRUZIONI SISTEM SAS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>800</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-27+01:00</dataInizio>
+                <dataUltimazione>2014-12-20+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>800</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAB11FFF56</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA E POSA IN OPERA DI TENDE VERTICALI DI TESSUTO SU EDIFICI AD USO PUBBLICO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01635290248</codiceFiscale>
+                    <ragioneSociale>TESSUTI ZANANDREA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01635290248</codiceFiscale>
+                    <ragioneSociale>TESSUTI ZANANDREA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>819.67</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-12-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-15+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>819.67</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD7120130A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO, REDAZIONE E PROGETTAZIONE DEFINITIVA/ESECUTIVA PER REALIZZAZIONE PARCHEGGIO IN VIA SILA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01898510241</codiceFiscale>
+                    <ragioneSociale>COSTA MARIO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01898510241</codiceFiscale>
+                    <ragioneSociale>COSTA MARIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4097.95</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-12-01+01:00</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L10</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ENERGIA ELETTRICA SCUOLE ELEMENTARI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03443420231</codiceFiscale>
+                    <ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03443420231</codiceFiscale>
+                    <ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3688.53</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3052.28</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L13</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ENERGIA ELETTRICA CAMPO DA CALCIO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03443420231</codiceFiscale>
+                    <ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03443420231</codiceFiscale>
+                    <ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4918.03</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3829.26</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>L16</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA GAS METANO CAMPO DA CALCIO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01565370382</codiceFiscale>
+                    <ragioneSociale>SOENERGY SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01565370382</codiceFiscale>
+                    <ragioneSociale>SOENERGY SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4098.36</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>807.38</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6D0D5B233</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA MATERIALE VARIO DI MINUTERIA E FERRAMENTA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00332520246</codiceFiscale>
+                    <ragioneSociale>EMPORIO GENERALE MAROSTICA Marostica (VI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00332520246</codiceFiscale>
+                    <ragioneSociale>EMPORIO GENERALE MAROSTICA Marostica (VI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1229.51</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1125.57</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF80D5D7AA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO MACCHINE OPERATRICI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03462840244</codiceFiscale>
+                    <ragioneSociale>BONORA ANTONIO SNC</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02177260243</codiceFiscale>
+                    <ragioneSociale>PRIMON DARIO ESCAVAZIONI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03462840244</codiceFiscale>
+                    <ragioneSociale>BONORA ANTONIO SNC</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02177260243</codiceFiscale>
+                    <ragioneSociale>PRIMON DARIO ESCAVAZIONI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2868.86</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>167.5</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z270D5DA29</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE AUTOMEZZI COMUNALI ANNO 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03835750245</codiceFiscale>
+                    <ragioneSociale>OFFICINA QUATTRORUOTE DI NARDO ARTURO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03835750245</codiceFiscale>
+                    <ragioneSociale>OFFICINA QUATTRORUOTE DI NARDO ARTURO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3278.69</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1465.36</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8C0D5EA99</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA CARBURANTE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01794660603</codiceFiscale>
+                    <ragioneSociale>REALI SPA Agente ENI SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01794660603</codiceFiscale>
+                    <ragioneSociale>REALI SPA Agente ENI SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7377.05</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3617.48</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z280DA2F57</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>COMUNE DI SCHIAVON</denominazione>
+            </strutturaProponente>
+            <oggetto>CONTROLLO SEMETRALE DEGLI ESTINTORI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00871550240</codiceFiscale>
+                    <ragioneSociale>ALFA ANTINCENDIO SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00871550240</codiceFiscale>
+                    <ragioneSociale>ALFA ANTINCENDIO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>819.68</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-01-01+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>278.42</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAF0DABD9E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per la pubblicazione dell'avviso di deposito del 1° Piano degli Interventi del Comune di Schiavon.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05122191009</codiceFiscale>
+                    <ragioneSociale>PIEMME SpA </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05122191009</codiceFiscale>
+                    <ragioneSociale>PIEMME SpA </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>407</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-02-05+01:00</dataInizio>
+                <dataUltimazione>2014-03-20+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>407</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z030DABD57</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per la pubblicazione dell'Avviso di deposito del 1° Piano degli Interventi del Comune di Schiavon.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01651350231</codiceFiscale>
+                    <ragioneSociale>Publiadige srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01651350231</codiceFiscale>
+                    <ragioneSociale>Publiadige srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>500</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-02-05+01:00</dataInizio>
+                <dataUltimazione>2014-03-20+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>500</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z580E133C0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per l'assistenza del sistema informatico e la manutenzione del software canone anno 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9500</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-07+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>9500</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z000E24DF0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per il servizio di hosting del software applicativo ProgettoEnte-Contabilità anno 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1740</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-07+01:00</dataInizio>
+                <dataUltimazione>2014-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1740</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z600E45ADF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per l'acquisto di un dispositivo di sicurezza perimetrale e protezione dati comprensivo delle licenze triennali necessarie.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02396470268</codiceFiscale>
+                    <ragioneSociale>Office Point sas di Cavallin A. &amp; C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02396470268</codiceFiscale>
+                    <ragioneSociale>Office Point sas di Cavallin A. &amp; C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1872</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-03-12+01:00</dataInizio>
+                <dataUltimazione>2014-04-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1872</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3E121CE27</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento dell'incarico professionale per la redazione della 1° Variante al Piano degli Interventi del Comune di Schiavon ai sensi dell'art. 18, comma 1, della L.R. n. 11 del 23.04.2004 e s.m.i. e assunzione del relativo impegno di spesa.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03815490275</codiceFiscale>
+                    <ragioneSociale>Studio di Urbanistica Trolese</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03815490275</codiceFiscale>
+                    <ragioneSociale>Studio di Urbanistica Trolese</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11440</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-12-05+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1E114CCAE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Impegno di spesa per attività di migrazione server e acquisizione n. 2 sistemi operativi LinuxRedHat ES 5 1 anno maintenance.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2750</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-10-21+02:00</dataInizio>
+                <dataUltimazione>2014-12-12+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2750</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9B114CEFF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento contratto di manutenzione software quadriennio 2015/2018.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>38000</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-01+01:00</dataInizio>
+                <dataUltimazione>2018-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z39114D3F5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisizione nuovo software PE-Nuovo Ordinamento Contabile con 2014-2016.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01190430262</codiceFiscale>
+                    <ragioneSociale>Kibernetes s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4822</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-10-21+02:00</dataInizio>
+                <dataUltimazione>2016-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>736</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4A11C3405</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto n. 8 licenze Microsoft Office 2013 Standard OLP NL GOV e implementazione attività sistemistica migrazione server.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00748490158</codiceFiscale>
+                    <ragioneSociale>Ricoh Italia srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00748490158</codiceFiscale>
+                    <ragioneSociale>Ricoh Italia srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2716.01</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-11-18+01:00</dataInizio>
+                <dataUltimazione>2014-12-16+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2716.01</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5510FA12A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00522840248</codiceFiscaleProp>
+                <denominazione>Comune di Schiavon</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto server rack Dell PowerEdge R520 (con Hardware bkp, software virtualizz. e bkp e power  office 36 mesi), 8 PC Dell Optiplex 3020 DT gar. 36 mesi, 2 monitor Dell Led E2214H da 21,5" gar. 36 mesi e n. 1 antivirus G Data più installazione.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00748490158</codiceFiscale>
+                    <ragioneSociale>Ricoh Italia srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00748490158</codiceFiscale>
+                    <ragioneSociale>Ricoh Italia srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>12629.55</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-09-29+02:00</dataInizio>
+                <dataUltimazione>2014-12-18+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>12629.55</importoSommeLiquidate>
+        </lotto>
+    </data>
+</legge190:pubblicazione>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice icilbonoxmlavcp</titolo>
+    <abstract>File xml per AVCP</abstract>
+    <dataPubblicazioneIndice>2015-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO SCOLASTICO COMPRENSIVO DI SCUOLA MATERNA ELEMENTARE E MEDIA - "G. DELEDDA" - ILBONO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>www.istitutocomprensivoilbono.it/AVCP/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>www.istitutocomprensivoilbono.it/AVCP/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

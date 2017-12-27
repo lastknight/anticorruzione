@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-05</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di TEANA</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-02-09</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.comune.teana.pz.it/teana/zf/index.php/dataset/appalti-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>5823985874</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>82000550762</codiceFiscaleProp>
+			<denominazione>Comune di Teana</denominazione>
+		</strutturaProponente>
+		<oggetto>Bando di gara a procedura aperta per l'appalto dei lavori di sistemazione strada comunale Pantoni-Monte</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00000000000</codiceFiscale>
+					<ragioneSociale>D'Amato Mario</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>117773.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-10-06</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Istituto comprensivo in lingua tedesca Tschögglberg - Pubblicazione legge 190</titolo>
+    <abstract>Istituto comprensivo in lingua tedesca Tschögglberg - Pubblicazione legge 190 - anno rif. 2012-2013-2014-2015</abstract>
+    <dataPubblicazioneIndice>2016-01-18</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto comprensivo in lingua tedesca Tschögglberg</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-18</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.snets.it/ssp-tschoegglberg/l190/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.snets.it/ssp-tschoegglberg/l190/esiti_2012_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.snets.it/ssp-tschoegglberg/l190/esiti_2013_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.snets.it/SSP-Tschoegglberg/L190/esiti_2014_20150124-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-24</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.snets.it/SSP-Tschoegglberg/L190/esiti_2015_20160118-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

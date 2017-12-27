@@ -1,0 +1,435 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<title>Polo Tecnologico Imperiese: istituto di istruzione superiore</title>
+		<meta name="description" content='Polo Tecnologico Imperiese: corsi, calendario scolastico, orario lezioni, laboratori, progetti e materiale didattico degli istituti scolastici ITIS, ITN, IPSC, ITT di Imperia.'>
+
+		<style type="text/css">
+			#img-sfondo-header
+			{
+				background-image: none!important;
+			}
+
+			#img-footer
+			{
+				display: none;
+			}
+
+			footer
+			{
+				background-color: white!important;
+			}
+		</style>
+
+	
+		<meta charset="utf-8">
+	
+		<!--
+			Design & Development by BMC Mastri Comunicatori
+			www.bmc.it
+		-->
+	
+		<meta name="viewport" content="width=device-width">
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		
+		<link rel="canonical" href="http://www.polotecnologicoimperiese.gov.it/home/" />	
+		<link rel="shortcut icon" href="/favicon.png" />
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
+		<link rel="stylesheet" type="text/css" href="/css/media-queries.css">
+		<link rel="stylesheet" type="text/css" href="/css/rte.css">
+		<link rel="stylesheet" type="text/css" href="/css/privacy.css">
+		<link rel="stylesheet" type="text/css" href="/css/menu-mobile.css">
+		<link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+
+		<link href='https://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="/scripts/jquery.js"></script>
+	
+		<meta property="og:site_name" content="Polo Tecnologico Imperiese" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.polotecnologicoimperiese.gov.it/home/" />
+	
+				<meta property="og:title" content="Polo Tecnologico Imperiese: istituto di istruzione superiore" />
+				<meta property="og:description" content="Polo Tecnologico Imperiese: corsi, calendario scolastico, orario lezioni, laboratori, progetti e materiale didattico degli istituti scolastici ITIS, ITN, IPSC, ITT di Imperia." />
+				<meta property="og:image" content="http://www.polotecnologicoimperiese.gov.it/img/sito/logo-polo-nuovo.png" />
+
+
+		
+		
+		<!--[if IE]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script>
+		<![endif]-->
+
+		<style type="text/css">
+			article a:hover
+			{
+				text-decoration: none;
+			}
+
+			article a
+			{
+
+			}
+
+			td
+			{
+
+			}
+		</style>
+	</head>
+	<body>
+		<div id="sfondo">
+			<div id="img-sfondo-header">
+				<header class="center">
+					<div class="w1020 center" id="m-top-mobile">
+
+
+						<a href="/" title="Homepage Istituto di Istruzione Superiore Polo Tecnologico Imperiese">
+							
+							<img class="sx" width="115" src="/img/sito/logo-polo-nuovo.png" alt="Logo Polo Tecnologico Imperiese" />
+						</a>
+
+						<a href="/" title="Homepage Istituto di Istruzione Superiore Polo Tecnologico Imperiese">
+							<h1 class="grigio font-center">Istituto di Istruzione Superiore Polo Tecnologico Imperiese</h1>
+						</a>
+
+						<div id="richiama-ricerca" onclick="mostraRicerca()">
+							<i id="mostra-ric" class="fa fa-search" aria-hidden="true"></i>
+							<i id="chiudi-ric" class="fa fa-times" aria-hidden="true" style="display: none;"></i>
+						</div>
+					</div>
+				</header>
+
+				<div class="margin-1 sfondo-bianco">
+					<nav class="w1020 center">
+
+						
+						<ul id="menu">
+							<li>
+										<a href="/news/" title="News">NEWS</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/indirizzi-studio/" title="Indirizzi di studio">INDIRIZZI DI STUDIO</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/organizzazione/" title="Organizzazione">ORGANIZZAZIONE</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/area-famiglie/" title="Area famiglie">AREA FAMIGLIE </a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/area-docenti/" title="Area Docenti e ATA">AREA DOCENTI E ATA</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/contatti/" title="Contatti ">CONTATTI </a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/sedi/" title="Sedi">SEDI</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/documentazione/" title="Documentazione">DOCUMENTAZIONE</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/progetti-e-iniziative/" title="Le nostre iniziative">LE NOSTRE INIZIATIVE</a>  &nbsp; <span class='nascondi-mobile'>|</span> &nbsp; 
+							</li>
+							<li>
+										<a href="/pon-2014-2020/" title="PON 2014-2020">PON 2014-2020</a> 
+							</li>
+						</ul>
+					</nav>
+					
+
+
+					<div class="nascondi w1020 center font-left" id="ricerca-sito">
+						<form action="" method="GET" class="ezsearch-form font-center">
+        <input type="text" name="q" placeholder="Inserisci un termine..." value="" />
+        <input id="submit-ricerca" type="submit" value="Cerca" />
+    </form>
+					</div>
+				</div>
+			</div>
+
+			<section>
+				
+
+		
+		<div id="main-menu-home" class="sfondo-nero-opaco">
+			<div class="w1020 center">
+						<div class="margin-2 font-left sx istituti-home-box">
+							<a href="/home/iti/" title="Vai all'istituto ITI"><h2 class="giallo">ITI</h2><h6 class="giallo">ISTITUTO TECNICO INDUSTRIALE STATALE &quot;GALILEO GALILEI&quot;</h6></a>
+							<br />
+							<span>
+										<a class="bianco" href="/home/iti/presentazione/" title="Pagina Presentazione">Presentazione</a><br />
+										<a class="bianco" href="/home/iti/calendario-scolastico/" title="Pagina Calendario scolastico ITI">Calendario scolastico ITI</a><br />
+										<a class="bianco" href="/home/iti/corsi/" title="Pagina Corsi">Corsi</a><br />
+										<a class="bianco" href="/home/iti/laboratori-e-strutture/" title="Pagina Laboratori e strutture">Laboratori e strutture</a><br />
+										<a class="bianco" href="/home/iti/orario-lezioni/" title="Pagina Orario lezioni">Orario lezioni</a><br />
+										<a class="bianco" href="/home/iti/quadri-orario/" title="Pagina Quadri orario">Quadri orario</a><br />
+										<a class="bianco" href="/home/iti/ricevimento-genitori/" title="Pagina Ricevimento genitori">Ricevimento genitori</a><br />
+										<a class="bianco" href="/home/iti/progetti/" title="Pagina Progetti">Progetti</a><br />
+										<a class="bianco" href="/home/iti/materiale-didattico/" title="Pagina Materiale didattico">Materiale didattico</a><br />
+										<a class="bianco" href="/home/iti/consigli-di-classe/" title="Pagina Consigli di classe">Consigli di classe</a><br />
+										<a class="bianco" href="/home/iti/alternanza-scuola-lavoro/" title="Pagina Alternanza scuola-lavoro">Alternanza scuola-lavoro</a><br />
+
+							</span>
+						</div>
+						<div class="margin-2 font-left sx istituti-home-box">
+							<a href="/home/ittl-exitn/" title="Vai all'istituto ITTL (ex.ITN)"><h2 class="blu">ITTL (ex.ITN)</h2><h6 class="blu">ISTITUTO TECNICO TRASPORTI E LOGISTICA &quot;ANDREA DORIA&quot;  </h6></a>
+							<br />
+							<span>
+										<a class="bianco" href="/home/ittl-exitn/presentazione/" title="Pagina Presentazione">Presentazione</a><br />
+										<a class="bianco" href="/home/ittl-exitn/calendario-scolastico/" title="Pagina Calendario scolastico">Calendario scolastico</a><br />
+										<a class="bianco" href="/home/ittl-exitn/storia/" title="Pagina Storia">Storia</a><br />
+										<a class="bianco" href="/home/ittl-exitn/corsi/" title="Pagina Corsi">Corsi</a><br />
+										<a class="bianco" href="/home/ittl-exitn/laboratori-e-strutture/" title="Pagina Laboratori e strutture">Laboratori e strutture</a><br />
+										<a class="bianco" href="/home/ittl-exitn/orario-lezioni/" title="Pagina Orario lezioni">Orario lezioni</a><br />
+										<a class="bianco" href="/home/ittl-exitn/quadri-orario/" title="Pagina Quadri orario">Quadri orario</a><br />
+										<a class="bianco" href="/home/ittl-exitn/ricevimento-genitori/" title="Pagina Ricevimento genitori">Ricevimento genitori</a><br />
+										<a class="bianco" href="/home/ittl-exitn/consigli-di-classe/" title="Pagina Consigli di classe">Consigli di classe</a><br />
+										<a class="bianco" href="/home/ittl-exitn/progetti/" title="Pagina Progetti">Progetti</a><br />
+										<a class="bianco" href="/home/ittl-exitn/materiale-didattico/" title="Pagina Materiale didattico">Materiale didattico</a><br />
+										<a class="bianco" href="/home/ittl-exitn/gestione-della-qualit&#224;/" title="Pagina Gestione della qualit&#224;">Gestione della qualit&#224;</a><br />
+
+							</span>
+						</div>
+						<div class="margin-2 font-left sx istituti-home-box">
+							<a href="/home/ipc/" title="Vai all'istituto IPC"><h2 class="verde">IPC</h2><h6 class="verde">ISTITUTO PROFESSIONALE &quot;CALVI&quot;</h6></a>
+							<br />
+							<span>
+										<a class="bianco" href="/home/ipc/presentazione/" title="Pagina Presentazione">Presentazione</a><br />
+										<a class="bianco" href="/home/ipc/calendario-scolastico/" title="Pagina Calendario scolastico">Calendario scolastico</a><br />
+										<a class="bianco" href="/home/ipc/storia/" title="Pagina Storia">Storia</a><br />
+										<a class="bianco" href="/home/ipc/corsi/" title="Pagina Corsi">Corsi</a><br />
+										<a class="bianco" href="/home/ipc/laboratori-e-strutture/" title="Pagina Laboratori e strutture">Laboratori e strutture</a><br />
+										<a class="bianco" href="/home/ipc/orario-lezioni/" title="Pagina Orario lezioni">Orario lezioni</a><br />
+										<a class="bianco" href="/home/ipc/quadri-orario/" title="Pagina Quadri orario">Quadri orario</a><br />
+										<a class="bianco" href="/home/ipc/ricevimento-genitori/" title="Pagina Ricevimento genitori">Ricevimento genitori</a><br />
+										<a class="bianco" href="/home/ipc/consigli-di-classe/" title="Pagina Consigli di classe ">Consigli di classe </a><br />
+										<a class="bianco" href="/home/ipc/progetti/" title="Pagina Progetti">Progetti</a><br />
+										<a class="bianco" href="/home/ipc/gruppo-h/" title="Pagina Gruppo H">Gruppo H</a><br />
+
+							</span>
+						</div>
+
+
+			<div class="margin-2 font-left sx istituti-home-box">
+				<div id="box-news-menu" class="margin-3">
+					<h5 class="arancione">HIGHLIGHTS</h6>
+						<div class="w100 bianco">
+								<h6>15/11/2017</h6>
+							<h6>Open day: conosciamoci meglio! Ecco il calendario.</h6>
+							<a class="arancione" title="News" href="/news/"><h6>Vai a: News</h6></a>
+						</div>
+						<div class="w100 bianco">
+								<h6>21/12/2017</h6>
+							<h6>Il calendario scolastico regionale prevede l&#39;interruzione delle lezioni dal 23 dicembre 2017 al 6 gennaio 2018. Buone feste e felice anno nuovo a tutti!</h6>
+							<a class="arancione" title="News" href="/news/"><h6>Vai a: News</h6></a>
+						</div>
+						<div class="w100 bianco">
+								<h6>01/12/2017</h6>
+							<h6>Instagram Contest #iomiscrivoalpolo: leggi il regolamento e partecipa al concorso durante i nostri Open Days... puoi vincere una chiavetta USB con il logo del Polo Tecnologico Imperiese!</h6>
+							<a class="arancione" title="Le nostre iniziative" href="/progetti-e-iniziative/"><h6>Vai a: Progetti e Iniziative</h6></a>
+						</div>
+						<div class="w100 bianco">
+								<h6>20/12/2017</h6>
+							<h6>Iscrizioni on line - Link al sito del MIUR</h6>
+							<a class="arancione" title="Area famiglie" href="/area-famiglie/"><h6>Vai a: Area famiglie</h6></a>
+						</div>
+				</div>
+				<br />
+				<a href="http://www.sg18188.scuolanext.info/" title="Vai al Registro Elettronico Famiglie" target="_blank">
+					<div class="padding-1 sfondo-arancione font-center">
+						<h6 class="bianco">
+							REGISTRO ELETTRONICO FAMIGLIE
+						</h6>
+					</div>
+				</a>
+				<br />
+			</div>
+		
+			<div class="clboth">&nbsp;</div>
+			</div>
+		</div>
+
+
+
+
+			</section>
+			
+			<footer>
+
+				
+
+				<div class="w1020 center">
+
+
+				 	<nav class="font-left padding-2" id="menu-footer">
+				 		<ul>
+				 			<div class="sx">
+					 			<li class="bordo-sx bordo-dx grigio-chiaro">
+									<a href="/mappa-del-sito" title="Mappa del sito">Mappa<br />del sito</a>
+								</li>
+							</div>
+
+							<div class="dx">
+								
+
+											<li class="bordo-sx bordo-dx grigio-chiaro">
+												<a class="grigio" target="_blank" href="http://trasparenza-pa.net/?codcli=SG18188" title="Link esterno a Amministrazione trasparente">Amministrazione trasparente</a>
+											</li>
+											<li class="bordo-dx grigio-chiaro">
+												<a class="grigio" target="_blank" href="http://www.magellanopa.it/bussola/" title="Link esterno a Bussola della trasparenza">Bussola della trasparenza</a>
+											</li>
+											<li class="bordo-dx grigio-chiaro">
+												<a class="grigio" target="_blank" href="https://www.albipretorionline.com/albopretorioPF3/frontend/atti.xhtml?codcli=SG18188&amp;iframe=" title="Link esterno a Albo pretorio online">Albo pretorio online</a>
+											</li>
+											<li class="bordo-dx grigio-chiaro">
+												<a class="grigio" target="_blank" href="http://consultazione.adozioniaie.it/" title="Link esterno a Consultazione libri di testo AIE">Consultazione libri di testo AIE</a>
+											</li>
+											<li class="bordo-dx grigio-chiaro">
+												<a class="grigio" target="_blank" href="https://www.portaleargo.it/argoweb/home.seam" title="Link esterno a Argo scuola next Docenti">Argo scuola next Docenti</a>
+											</li>
+
+						 	</div>
+
+						 	<div class="clboth">
+						 		&nbsp;
+						 	</div>
+					 	</ul>
+				 	</nav>				 	
+					
+					<div class="sx padding-1">
+						<img src="/img/sito/logo-fondi-strutturali-europei-scuola.jpg" alt="Logo Fondi Strutturali Europei per la Scuola" />
+					</div>
+						
+				 	<div class="dx padding-1 font-right grigio-chiaro">
+				 		ITIS "G. Galilei" – con annessa sez. Nautica e IPSSCT "U Calvi"<br />
+				 		Via Santa Lucia, 31 (18100 Imperia)<br />
+						C. F. 80011330083<br /><br />
+						<a class="grigio-chiaro" href="http://www.bmc.it/" target="_blank" title="Sito web del Polo Tecnologico Imperiese realizzato da BMC Mastri Comunicatori">des&dev BMC</a>
+					</div>
+							
+					<div class="clboth">
+						&nbsp;
+					</div>
+
+				</div>
+			</footer>
+
+			<div id="img-footer" class="center">
+				<img src="/img/sito/polo_footer.jpg" alt="Mouse Polo Tecnologico Imperiese" />
+			</div>
+		</div>
+				
+		<div id="barra-policy">
+			<div class="testo-barra-policy">
+				Questo sito utilizza i cookies: cliccando su CHIUDI o proseguendo nella navigazione acconsenti all'utilizzo dei cookies. &nbsp; <a href="/informativa/" class="grigio-scuro" title="Cookie Policy"><strong>Informativa</strong></a> <a id="chiudi-policy" onclick="chiudiBarraPolicy()" title="CHIUDI alert">CHIUDI</a>
+			</div>
+		</div>
+				
+		
+
+		<script type="text/javascript" src="/scripts/menu-mobile.js"></script>
+		<script type="text/javascript">
+			 $(function(){
+				$('#menu').slicknav();
+			 });
+	   </script>
+							
+		<script type="text/javascript">
+		   function setCookie(cname, cvalue, exdays)
+			{
+				var d = new Date();
+				d.setTime(d.getTime() + (exdays*24*60*60*99999));
+				var expires = "expires="+d.toUTCString();
+				document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/";
+			}
+
+			function getCookie(cname)
+			{
+				var name = cname + "=";
+				var ca = document.cookie.split(';');
+				
+				for(var i=0; i<ca.length; i++)
+				{
+					var c = ca[i];
+					while (c.charAt(0)==' ') c = c.substring(1);
+					if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+				}
+				return "";
+			}
+
+			function mostraRicerca()
+			{
+				$("#ricerca-sito").fadeToggle(500);
+				$("#mostra-ric").toggle(500);
+				$("#chiudi-ric").toggle(500);
+			}
+
+			function chiudiBarraPolicy()
+			{
+				$('#barra-policy').remove();
+				
+				setCookie("policychiusa","ok",365);
+			}
+			
+			$(document).ready(function()
+			{ 
+				var contenutoCookie = getCookie("policychiusa");
+
+				// Controllo se il cookie esiste
+				if (contenutoCookie == 'ok')
+				{
+					$('#barra-policy').remove();
+				}
+				
+				if($("table").attr("border")==0)
+				{
+				  $("td").css("border","0");
+				}
+			});
+		</script>
+			
+		
+		<script type="text/javascript">
+			function caricaImmagine()
+			{
+				var pathImmagini = [];
+
+
+								pathImmagini.push("/media/1012/cats-01.png");
+							
+
+
+				var count = 0
+
+						
+							$("#sfondo").css('background-image', 'url(' + pathImmagini[0] + ')');
+						
+
+			}
+
+		
+
+			$(document).ready(function()
+			{
+				caricaImmagine();
+			});
+
+      </script>
+
+			
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-71302903-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
+	</body>
+</html>

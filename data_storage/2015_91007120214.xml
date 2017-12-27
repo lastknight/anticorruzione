@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°2</titolo>
+    <abstract>Pubblicazione relativa all'anno 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Comprensivo in lingua tedesca San Martino in Passiria</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>www.snets.it/ssp-StMartin/Documents/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.snets.it/ssp-StMartin/Documents/esiti_2012_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.snets.it/ssp-StMartin/Documents/esiti_2013_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.snets.it/ssp-StMartin/Documents/esiti_2014_20150121-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

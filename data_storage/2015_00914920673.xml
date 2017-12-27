@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://trasparenza.teramoambiente.it/uploads/avcp/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione indice anno 2014</titolo>
+    <abstract>Pubblicazione indice relativo all'anno 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>Teramo Ambiente</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://trasparenza.teramoambiente.it/uploads/avcp/indicedataset_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset2.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset3.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset4.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset5.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset6.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset7.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_8">
+      <linkDataset>http://trasparenza.teramoambiente.it/uploads/avcp/2014/dataset8.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

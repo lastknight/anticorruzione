@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2013 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2013 - Legge 190/2012 - aggiornamento del 2014-11-24 10:32:11</abstract>
+		<dataPubblicazioneIndice>2014-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Turismo Friuli Venezia Giulia</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2014-11-24</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2013</annoRiferimento>
+		<urlFile><![CDATA[http://www.turismofvg.it/trasparenza/indice_A00163_avcp_dataset_2013.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://www.turismofvg.it/trasparenza/A00163_avcp_dataset_2013.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2014-11-24</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset><![CDATA[http://www.turismofvg.it/trasparenza/A00163_avcp_dataset_2014.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2014-11-24</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

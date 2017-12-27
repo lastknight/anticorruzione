@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="ALER"/>
+<meta name="description" content=""/>
+<meta name="author" content=""/>
+<meta name="robots" content="all"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href="/docroot/aler-site/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<script src="/docroot/aler-site/js/vendor/jquery-1.11.1.min.js.pagespeed.jm.YSzgc-BSX9.js"></script>
+<meta name="generator" content="Powered by Magnolia - Intuitive CMS System"/>
+<title>ALER </title>
+<!--<![endif]-->
+<link rel="stylesheet" href="/docroot/aler-site/css/bootstrap.css+font.css+font-awesome.css+flexslider.css+jcarousel.responsive.css+prettyPhoto.css+jquery.mmenu.all.css+template.css+responsive.css.pagespeed.cc.0bBCca9Rxb.css"/>
+<!--link rel="stylesheet" href="/docroot/aler-site/css/style.css"-->
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="">
+<link rel="apple-touch-icon" href="">
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png">
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="/docroot/aler-site/css/fixes.css" />
+<![endif]-->
+<script src="/docroot/aler-site/js/jquery-1.11.3.min.js.pagespeed.jm.iDyG3vc4gw.js"></script>
+<script>$(document).ready(function($){$('nav#menu').removeClass('hidden');});</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-65418560-1','auto');ga('send','pageview');</script>
+</head>
+<body id="home">
+<!--[if lt IE 7]>
+    	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+<div id="cookie-alert" style="background-color:#eeeeee;">
+<div class="container">
+<p>
+ALER Azienda Lombarda per l&#039;Edilizia Residenziale di Varese - Como - Monza Brianza - Busto Arsizio utilizza i cookie per migliorare l&#039;esperienza degli utenti. Se necessiti di ulteriori informazioni o desideri cambiare le impostazioni&nbsp;
+<a href="/home/policy/policy-cookies.html">clicca qui</a><a class="clo">X</a>
+</p>
+</div>
+</div>
+<script>$(function(){cookieAlert=getCookie('cookie-alert-aler');if(cookieAlert){$('#cookie-alert').css('display','none');}else{$('#cookie-alert').css('display','block');}$('#cookie-alert .clo').click(function(){if(cookieAlert==null||cookieAlert==""){setCookie('cookie-alert-aler','true',365);}$('#cookie-alert').css('display','none');});});</script>
+<div class="page">
+<div class="event-catcher"></div>
+<div class="container">
+<div class="row">
+<div class="col-xs-10 col-md-6 logo">
+<a href="/home.html" title="Homepage">
+<span></span>
+<img src="/docroot/aler-site/img/loghi/xlogo.jpg.pagespeed.ic.HuM6qw2RpX.jpg" alt="Aler"/>
+</a>
+</div>
+<div class="col-md-3 hidden-xs hidden-sm text-right service-number"><i class="fa fa-phone"></i> <a href="/home/sedi_orari/emergenze.html">Numeri emergenze</a></div>
+<div class="col-md-3 hidden-xs hidden-sm search-form">
+<div class="input-group">
+<form name="search_form_main" id="search_form_main" action="/home/risultati-ricerca.html" style="padding:0px; margin:0px; border:0px;">
+<input type="text" name="queryStr" id="search_input_main" class="form-control input-search" placeholder="Cerca nel sito">
+<span class="input-group-btn">
+<button class="btn btn-default btn-search" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+</span>
+</form>
+</div>
+<!-- /input-group -->
+</div>
+<div class="col-xs-2 vert-menu"> <a href="#menu"> <i class="fa fa-bars"></i> </a> </div>	</div>
+</div>
+<nav class="navbar navbar-top-menu hidden-xs hidden-sm">
+<div class="container">
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav topbar-nav">
+<li id="nav-sec-azienda" class="dropdown">
+<a class="dropdown-toggle js-activated" data-toggle="dropdown" href="/home/azienda.html">L&#039;azienda</a>
+<ul class="dropdown-menu" role="menu">
+<div class="tm-container">
+<li>
+<a href="/home/azienda/Aler.html">Chi è ALER</a>
+</li>
+<li>
+<a href="/home/azienda/statuto-aziendale.html">Statuto aziendale</a>
+</li>
+<li>
+<a href="/home/azienda/patrimonio_immobiliare.html">Patrimonio immobiliare dell&#039;Azienda</a>
+</li>
+<li>
+<a href="/home/azienda/codice-etico-e-comportamentale.html">Codice etico e comportamentale</a>
+</li>
+<li>
+<a href="/home/azienda/organi-amministrativi.html">Organi Amministrativi</a>
+</li>
+<li>
+<a href="/home/azienda/certificazione-qualita.html">Certificazione Qualità ISO:9001</a>
+</li>
+<li>
+<a href="/home/azienda/opportunita-di-lavoro.html">Opportunità di lavoro</a>
+</li>
+<li>
+<a href="/home/azienda/accesso-agli-atti.html">Accesso agli atti</a>
+</li>
+</div>
+</ul>
+</li>
+<li id="nav-sec-servizi" class="dropdown">
+<a class="dropdown-toggle js-activated" data-toggle="dropdown" href="/home/servizi.html">I servizi</a>
+<ul class="dropdown-menu" role="menu">
+<div class="tm-container">
+<li>
+<a href="/home/servizi/edilizia-residenziale-pubblica.html">L’Edilizia Residenziale Pubblica</a>
+</li>
+<li>
+<a href="/home/servizi/soluzioni-per-l-abitare.html">Soluzioni per l&#039;abitare</a>
+</li>
+<li>
+<a href="/home/servizi/carta-dei-servizi.html">Carta dei servizi</a>
+</li>
+<li>
+<a href="/home/servizi/customer-satisfaction.html">Customer Satisfaction</a>
+</li>
+</div>
+</ul>
+</li>
+<li id="nav-sec-cantieri" class="dropdown">
+<a class="dropdown-toggle js-activated" data-toggle="dropdown" href="/home/cantieri.html">Cantieri</a>
+<ul class="dropdown-menu" role="menu">
+<div class="tm-container">
+<li>
+<a href="/home/cantieri/nuove-costruzioni-recuperi-demolizioni.html">Nuove costruzioni e recuperi edilizi</a>
+</li>
+<li>
+<a href="/home/cantieri/manutenzione-straordinaria.html">Manutenzione straordinaria fabbricati</a>
+</li>
+<li>
+<a href="/home/cantieri/piano-triennale-oopp.html">Piano Triennale Opere Pubbliche</a>
+</li>
+</div>
+</ul>
+</li>
+<li id="nav-sec-appalti" class="dropdown">
+<a class="dropdown-toggle js-activated" data-toggle="dropdown" href="/home/appalti.html">Appalti</a>
+<ul class="dropdown-menu" role="menu">
+<div class="tm-container">
+<li>
+<a href="/home/appalti/gare-in-corso.html">Procedure di gara</a>
+</li>
+<li>
+<a href="/home/appalti/esiti-di-gara.html">Esiti di gara</a>
+</li>
+<li>
+<a href="/home/appalti/affidamento_incarichi.html">Affidamento incarichi</a>
+</li>
+<li>
+<a href="/home/appalti/elenco-telematico-fornitori.html">Elenco telematico fornitori</a>
+</li>
+<li>
+<a href="/home/appalti/piano-triennale-oopp.html">Piano Triennale Opere Pubbliche</a>
+</li>
+</div>
+</ul>
+</li>
+<li id="nav-sec-amministrazione-trasparente" class="dropdown">
+<a class="dropdown-toggle js-activated" data-toggle="dropdown" href="/home/amministrazione-trasparente.html">Amministrazione trasparente</a>
+<ul class="dropdown-menu" role="menu">
+<div class="tm-container">
+<li>
+<a href="/home/amministrazione-trasparente/disposizioni-generali.html">Disposizioni generali</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/organizzazione.html">Organizzazione</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/consulenti-e-collaboratori.html">Consulenti e collaboratori</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/personale.html">Personale</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/bandi-di-concorso.html">Bandi di concorso</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/performance.html">Performance</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/enti-controllati.html">Enti Controllati</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/attivita-e-procedimenti.html">Attività e procedimenti</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/provvedimenti.html">Provvedimenti</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/controlli-sulle-imprese.html">Controlli sulle Imprese</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/bandi-di-gara-e-contratti.html">Bandi di Gara e Contratti</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/sovvenzioni-contributi-sussidi-vantaggi-economici.html">Sovvenzioni, contributi, sussidi, vantaggi economici</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/beni-immobili-e-gestione-patrimonio.html">Beni immobili e Gestione Patrimonio</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione.html">Controlli e rilievi sull&#039;amministrazione</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/servizi-erogati.html">Servizi Erogati</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/pagamenti-dell-amministrazione.html">Pagamenti dell&#039;amministrazione</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/opere-pubbliche.html">Opere Pubbliche</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/pianificazione-e-governo-del-territorio.html">Pianificazione e Governo del Territorio</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/informazioni-ambientali.html">Informazioni Ambientali</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/interventi-straordinari-e-di-emergenza.html">Interventi Straordinari e di Emergenza</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/Altri-contenuti---Corruzione.html">Altri contenuti - Anti Corruzione (L.n. 190/2012)</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/accesso-civico.html">Accesso civico</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/231.html">Adempimenti D.lgs. 231/01</a>
+</li>
+<li>
+<a href="/home/amministrazione-trasparente/bilanci.html">Bilanci</a>
+</li>
+</div>
+</ul>
+</li>
+<li id="nav-sec-sedi_orari" class="dropdown">
+<a class="dropdown-toggle js-activated" data-toggle="dropdown" href="/home/sedi_orari.html">Sedi &amp; orari</a>
+<ul class="dropdown-menu" role="menu">
+<div class="tm-container">
+<li>
+<a href="/home/sedi_orari/sede_varese.html">Sede di Varese</a>
+</li>
+<li>
+<a href="/home/sedi_orari/sede_como.html">Sede territoriale di Como</a>
+</li>
+<li>
+<a href="/home/sedi_orari/sede_monza.html">Sede territoriale di Monza Brianza</a>
+</li>
+<li>
+<a href="/home/sedi_orari/sede_busto.html">Sede territoriale di Busto Arsizio</a>
+</li>
+<li>
+<a href="/home/sedi_orari/emergenze.html">Emergenze</a>
+</li>
+</div>
+</ul>
+</li>
+<li id="nav-sec-news">
+<a href="/home/news.html">News</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right"></ul>
+</div>
+</div>
+</nav>
+<nav id="menu" class="hidden">
+<ul>
+<h2><i class="fa fa-home"></i></h2>
+<li><a class="uppercase" href="/home.html">ALER</a>
+</li>
+<li><a class="uppercase" href="/home/azienda.html">L&#039;azienda</a>
+<ul>
+<li><a href="/home/azienda/Aler.html">Chi è ALER</a>
+<li><a href="/home/azienda/statuto-aziendale.html">Statuto aziendale</a>
+<li><a href="/home/azienda/patrimonio_immobiliare.html">Patrimonio immobiliare dell&#039;Azienda</a>
+<li><a href="/home/azienda/codice-etico-e-comportamentale.html">Codice etico e comportamentale</a>
+<li><a href="/home/azienda/organi-amministrativi.html">Organi Amministrativi</a>
+<li><a href="/home/azienda/certificazione-qualita.html">Certificazione Qualità ISO:9001</a>
+<li><a href="/home/azienda/opportunita-di-lavoro.html">Opportunità di lavoro</a>
+<li><a href="/home/azienda/accesso-agli-atti.html">Accesso agli atti</a>
+</ul>
+</li>
+<li><a class="uppercase" href="/home/servizi.html">I servizi</a>
+<ul>
+<li><a href="/home/servizi/edilizia-residenziale-pubblica.html">L’Edilizia Residenziale Pubblica</a>
+<li><a href="/home/servizi/soluzioni-per-l-abitare.html">Soluzioni per l&#039;abitare</a>
+<li><a href="/home/servizi/carta-dei-servizi.html">Carta dei servizi</a>
+<li><a href="/home/servizi/customer-satisfaction.html">Customer Satisfaction</a>
+</ul>
+</li>
+<li><a class="uppercase" href="/home/cantieri.html">Cantieri</a>
+<ul>
+<li><a href="/home/cantieri/nuove-costruzioni-recuperi-demolizioni.html">Nuove costruzioni e recuperi edilizi</a>
+<li><a href="/home/cantieri/manutenzione-straordinaria.html">Manutenzione straordinaria fabbricati</a>
+<li><a href="/home/cantieri/piano-triennale-oopp.html">Piano Triennale Opere Pubbliche</a>
+</ul>
+</li>
+<li><a class="uppercase" href="/home/appalti.html">Appalti</a>
+<ul>
+<li><a href="/home/appalti/gare-in-corso.html">Procedure di gara</a>
+<li><a href="/home/appalti/esiti-di-gara.html">Esiti di gara</a>
+<li><a href="/home/appalti/affidamento_incarichi.html">Affidamento incarichi</a>
+<li><a href="/home/appalti/elenco-telematico-fornitori.html">Elenco telematico fornitori</a>
+<li><a href="/home/appalti/piano-triennale-oopp.html">Piano Triennale Opere Pubbliche</a>
+</ul>
+</li>
+<li><a class="uppercase" href="/home/amministrazione-trasparente.html">Amministrazione trasparente</a>
+<ul>
+<li><a href="/home/amministrazione-trasparente/disposizioni-generali.html">Disposizioni generali</a>
+<li><a href="/home/amministrazione-trasparente/organizzazione.html">Organizzazione</a>
+<li><a href="/home/amministrazione-trasparente/consulenti-e-collaboratori.html">Consulenti e collaboratori</a>
+<li><a href="/home/amministrazione-trasparente/personale.html">Personale</a>
+<li><a href="/home/amministrazione-trasparente/bandi-di-concorso.html">Bandi di concorso</a>
+<li><a href="/home/amministrazione-trasparente/performance.html">Performance</a>
+<li><a href="/home/amministrazione-trasparente/enti-controllati.html">Enti Controllati</a>
+<li><a href="/home/amministrazione-trasparente/attivita-e-procedimenti.html">Attività e procedimenti</a>
+<li><a href="/home/amministrazione-trasparente/provvedimenti.html">Provvedimenti</a>
+<li><a href="/home/amministrazione-trasparente/controlli-sulle-imprese.html">Controlli sulle Imprese</a>
+<li><a href="/home/amministrazione-trasparente/bandi-di-gara-e-contratti.html">Bandi di Gara e Contratti</a>
+<li><a href="/home/amministrazione-trasparente/sovvenzioni-contributi-sussidi-vantaggi-economici.html">Sovvenzioni, contributi, sussidi, vantaggi economici</a>
+<li><a href="/home/amministrazione-trasparente/beni-immobili-e-gestione-patrimonio.html">Beni immobili e Gestione Patrimonio</a>
+<li><a href="/home/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione.html">Controlli e rilievi sull&#039;amministrazione</a>
+<li><a href="/home/amministrazione-trasparente/servizi-erogati.html">Servizi Erogati</a>
+<li><a href="/home/amministrazione-trasparente/pagamenti-dell-amministrazione.html">Pagamenti dell&#039;amministrazione</a>
+<li><a href="/home/amministrazione-trasparente/opere-pubbliche.html">Opere Pubbliche</a>
+<li><a href="/home/amministrazione-trasparente/pianificazione-e-governo-del-territorio.html">Pianificazione e Governo del Territorio</a>
+<li><a href="/home/amministrazione-trasparente/informazioni-ambientali.html">Informazioni Ambientali</a>
+<li><a href="/home/amministrazione-trasparente/interventi-straordinari-e-di-emergenza.html">Interventi Straordinari e di Emergenza</a>
+<li><a href="/home/amministrazione-trasparente/Altri-contenuti---Corruzione.html">Altri contenuti - Anti Corruzione (L.n. 190/2012)</a>
+<li><a href="/home/amministrazione-trasparente/accesso-civico.html">Accesso civico</a>
+<li><a href="/home/amministrazione-trasparente/231.html">Adempimenti D.lgs. 231/01</a>
+<li><a href="/home/amministrazione-trasparente/bilanci.html">Bilanci</a>
+</ul>
+</li>
+<li><a class="uppercase" href="/home/sedi_orari.html">Sedi &amp; orari</a>
+<ul>
+<li><a href="/home/sedi_orari/sede_varese.html">Sede di Varese</a>
+<li><a href="/home/sedi_orari/sede_como.html">Sede territoriale di Como</a>
+<li><a href="/home/sedi_orari/sede_monza.html">Sede territoriale di Monza Brianza</a>
+<li><a href="/home/sedi_orari/sede_busto.html">Sede territoriale di Busto Arsizio</a>
+<li><a href="/home/sedi_orari/emergenze.html">Emergenze</a>
+</ul>
+</li>
+<li><a class="uppercase" href="/home/news.html">News</a>
+</li>
+<li class="search">
+<form action="#">
+<div class="input-group">
+<input type="text" class="form-control input-search" placeholder="Cerca nel sito">
+<span class="input-group-btn">
+<button class="btn btn-default btn-search" type="button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+</span>
+</div>
+</form>
+</li>
+<li class="phone-number"><span class="call-number"><i class="fa fa-phone"></i><a href="/home/sedi_orari/emergenze.html">Numeri emergenze</a></span></li>
+</ul>
+</nav>
+<div class="slider-container">
+<div class="flexslider">
+<ul class="slides">
+<li>
+<div class="img-shadow">
+<img src="/dam/jcr:4f356d4a-1a82-4c6f-825e-cfe30c485db8/xAuguri,P202017-18.jpg.pagespeed.ic.G1yCeyabhy.jpg" alt="">
+<div class="slider-info">
+<h3>ALER augura Buon Natale e Felice Anno 2018</h3>
+</div>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<a href="/home/news/news_24112017.html">
+<img src="/dam/jcr:a1b7b653-526e-4e46-9289-b45a21926e6a/xsperimentazioneMonza.jpg.pagespeed.ic.3rLN6OiOLZ.jpg" alt="">
+<div class="slider-info">
+<h3>Sperimentazione R.R. 4/2017 nell&#039;ambito territoriale di Monza e Brianza</h3>
+<p>&Egrave; indetto avviso pubblico per l&rsquo;assegnazione di unit&agrave; abitative destinate ai servizi abitativi pubblici, disponibili nei Comuni di: Monza, Brugherio e Villasanta, di propriet&agrave; ALER e del Comune di Monza. Domande fino al 5 gennaio 2018.</p>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<img src="/dam/jcr:21c61afc-ce1c-4a94-bc58-b7b5af6831c8/xslider,P20sede1.JPG.pagespeed.ic.9Bcsay9C7k.jpg" alt="">
+<div class="slider-info">
+<h3>LA SEDE DI VARESE</h3>
+<p>Via Monte Rosa 21</p>
+</div>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<a href="/home/news/news_27062017.html">
+<img src="/dam/jcr:5a755039-6099-4158-bbb7-af69ffd0a450/xslider,P20bustoviamazzini21_.jpg.pagespeed.ic.zxi5pOElNB.jpg" alt="">
+<div class="slider-info">
+<h3>BUSTO ARSIZIO, Via Mazzini: 8 nuovi alloggi erp</h3>
+</div>
+</a>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<img src="/dam/jcr:7fbf05a2-966b-4bc0-9271-d0b20a45507e/xslider,P20sede3.JPG.pagespeed.ic.isiF5MMtoK.jpg" alt="">
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<img src="/dam/jcr:c86a295e-c635-47af-b7a0-150afc491535/ximmagine_home.jpg.pagespeed.ic.CXrKvD9w3c.jpg" alt="">
+<div class="slider-info">
+<h3>BUSTO ARSIZIO Via Magenta</h3>
+</div>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<img src="/dam/jcr:e706e02d-50e4-4824-b3cd-c54bd8777d00/xhome_2.jpg.pagespeed.ic.Czfs0eFOuU.jpg" alt="">
+<div class="slider-info">
+<h3>MARIANO COMENSE (CO) Via Mara</h3>
+<p>16 nuovi alloggi erp&nbsp;</p>
+</div>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<img src="/dam/jcr:c20d9d3c-6f4d-4ebd-a5c6-355eec23f043/xalzate_brianza.jpg.pagespeed.ic.8WaVbJKWs5.jpg" alt="">
+<div class="slider-info">
+<h3>ALZATE BRIANZA (CO) Via Don L. Galbusera</h3>
+<p>16 nuovi alloggi erp</p>
+</div>
+</div>
+</li>
+<li>
+<div class="img-shadow">
+<div class="slider-info">
+<h3>Sperimentazione nuovoR.R. 4/2017</h3>
+</div>
+</div>
+</li>
+</ul>
+<div class="col-xs-8 col-sm-8 col-md-6 slider-services">
+<div class="citizen"><a href="#">
+<div class="services-icon" id="citizen-icon">
+<svg version="1.1" id="CitizenIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44px" height="70px" viewBox="0 0 595.279 841.891" enable-background="new 0 0 595.279 841.891" xml:space="preserve" class="services-svg">
+<g>
+<g id="home">
+<path d="M72.139,410.021v9.224v261.271h237.832l125.75-0.007h85.199V419.246v-9.224L296.529,242.5L72.139,410.021z"/>
+<path d="M589.177,376.05L295.609,161.376L6.022,376.097c-6.709,5.107-8.008,14.687-2.905,21.39
+                      c5.102,6.709,14.676,8.02,21.39,2.906l271.222-200.765l275.125,200.823c2.747,2.064,5.962,3.055,9.153,3.055
+                      c4.633,0,9.218-2.105,12.22-6.098C597.28,390.671,595.922,381.11,589.177,376.05z"/>
+</g>
+</g>
+<g>
+<g>
+<path class="favorite" d="M295.348,648.6l-20.489-20.489C198.758,560.791,149,515.424,149,459.811
+                      c0-45.368,35.123-80.491,80.491-80.491c24.879,0,49.758,11.708,65.856,30.733c16.098-19.025,40.977-30.733,65.856-30.733
+                      c45.368,0,80.491,35.123,80.491,80.491c0,55.612-49.758,100.979-125.858,168.3L295.348,648.6z"/>
+</g>
+</g>
+</svg>
+</div> <!-- /services-icon -->
+<div class="services-text"> Per il CITTADINO <br/> <span class="services-text-detail">In cerca di una casa</span></div>
+<div class="services-button">
+<span class="glyphicon glyphicon-menu-up hidden-xs hidden-sm" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-menu-down no-desktop" aria-hidden="true"></span>
+</div></a>
+</div> <!-- /citizen -->
+<div class="loadger"><a href="#">
+<div class="services-icon" id="loadger-icon">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44px" height="50px" viewBox="0 0 79.539 79.539" enable-background="new 0 0 79.539 79.539" xml:space="preserve" class="services-svg service-family">
+<g id="family">
+<path d="M28.635,32.496c0,2.02-1.639,3.661-3.664,3.661c-2.025,0-3.669-1.642-3.669-3.661
+                    c0-2.03,1.644-3.666,3.669-3.666C26.996,28.83,28.635,30.466,28.635,32.496z M25.359,57.583l0.785,13.516
+                    c0,0.477,0.386,0.865,0.857,0.865c0.479,0,0.859-0.389,0.859-0.865l0.738-13.516h2.392l-2.473-15.15l4.974,9.906
+                    c0.187,0.438,0.689,0.646,1.129,0.455c0.435-0.182,0.642-0.685,0.451-1.123c0,0-3.648-9.864-4.549-11.703
+                    c-0.891-1.838-1.781-2.957-5.202-2.957h-0.699c-3.415,0-4.306,1.118-5.207,2.951c-0.896,1.844-4.557,11.702-4.557,11.702
+                    c-0.179,0.44,0.023,0.948,0.458,1.129c0.44,0.192,0.942-0.021,1.129-0.455l4.979-9.905l-2.475,15.151h2.39l0.743,13.515
+                    c0,0.478,0.386,0.864,0.86,0.864c0.481,0,0.862-0.389,0.862-0.864l0.737-13.515H25.359L25.359,57.583z M54.582,28.82
+                    c-2.028,0-3.67,1.636-3.67,3.666c0,2.02,1.646,3.656,3.67,3.656c2.021,0,3.65-1.636,3.65-3.656
+                    C58.232,30.456,56.602,28.82,54.582,28.82z M58.378,50.392l0.242-7.975l4.475,9.912c0.188,0.439,0.688,0.643,1.129,0.455
+                    c0.436-0.182,0.646-0.684,0.461-1.129c0,0-3.152-9.859-4.055-11.703c-0.896-1.833-2.283-2.952-5.707-2.952h-0.698
+                    c-3.412,0-4.815,1.119-5.711,2.952c-0.901,1.843-4.052,11.703-4.052,11.703c-0.186,0.445,0.021,0.947,0.457,1.129
+                    c0.44,0.188,0.942-0.021,1.129-0.455l4.479-9.912l0.249,7.975l-0.71,20.023c-0.058,0.797,0.544,1.485,1.331,1.537
+                    c0.042,0,0.078,0.006,0.104,0.006c0.752,0,1.383-0.574,1.439-1.336l1.633-15.487l1.631,15.487c0.051,0.762,0.684,1.336,1.438,1.336
+                    c0.03,0,0.067,0,0.099-0.006c0.797-0.052,1.389-0.74,1.336-1.537L58.378,50.392L58.378,50.392z M39.77,51.096
+                    c-1.24,0-2.247,1.005-2.247,2.247s1.007,2.242,2.247,2.242c1.239,0,2.252-1,2.252-2.242S41.009,51.096,39.77,51.096z M39.77,64.337
+                    c0,0,1.013,7.031,1.013,7.037c0.131,0.336,0.461,0.584,0.854,0.584c0.408,0,0.742-0.27,0.865-0.638
+                    c0.01-0.016,0.031-0.435,0.01-0.502l-0.414-8.637l0.127-2.962c0.115-1.01,0.137-0.715,1.289-1.398
+                    c1.171-0.703,3.167-3.79,3.26-3.945c0.096-0.149,0.282-0.424,0.318-0.596c0.055-0.314-0.147-0.605-0.455-0.668
+                    c-0.238-0.042-0.436,0.083-0.583,0.249c-0.155,0.16-2.449,3.216-4.173,3.511c-0.381-0.058-0.801-0.26-1.894-0.26h-0.435
+                    c-1.093,0-1.507,0.202-1.893,0.26c-1.725-0.295-4.019-3.351-4.174-3.511c-0.147-0.166-0.344-0.291-0.577-0.249
+                    c-0.308,0.063-0.51,0.357-0.451,0.668c0.031,0.172,0.218,0.445,0.313,0.596c0.096,0.155,2.094,3.242,3.259,3.945
+                    c1.152,0.684,1.173,0.389,1.29,1.398l0.122,2.962l-0.409,8.637c-0.021,0.072,0,0.486,0.01,0.502
+                    c0.122,0.368,0.45,0.638,0.865,0.638c0.388,0,0.722-0.248,0.854-0.584C38.763,71.369,39.77,64.337,39.77,64.337 M78.91,36.747
+                    c1.107-1.584,0.713-3.774-0.882-4.883L45.613,9.313c-3.328-2.319-8.357-2.319-11.682,0L1.509,31.864
+                    c-1.592,1.108-1.988,3.299-0.88,4.883c1.108,1.59,3.291,1.989,4.883,0.881l32.417-22.551c0.914-0.632,2.763-0.632,3.677,0
+                    l32.415,22.551c0.611,0.424,1.314,0.632,1.999,0.632C77.138,38.254,78.23,37.726,78.91,36.747z"/>
+</g>
+</svg>
+</div> <!-- /services-icon -->
+<div class="services-text"> Per gli <br/> INQUILINI Aler </div>
+<div class="services-button">
+<span class="glyphicon glyphicon-menu-up hidden-xs hidden-sm" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-menu-down no-desktop" aria-hidden="true"></span>
+</div></a>
+</div> <!-- /loadger -->
+</div> <!-- /slider-services -->
+<div class="col-xs-8 col-sm-8 col-md-6 slider-services-hover">
+<div class="col-xs-6 ssh-left-container">
+<div class="citizen-open" id="citizen-menu">
+<ul class="hidden-xs hidden-sm">
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/locazione-alloggi-a-canone-concordato-moderato.html">Alloggi a canone concordato e a canone moderato</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/locazione-alloggi-esclusi-dall-erp.html">Alloggi esclusi dall'erp</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/alloggi-altreUI-in-vendita.html">Alloggi e altre U.I. in vendita</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/sperimentazione-regolamento-4-2017.html">Alloggi a canone sociale: sperimentazione nuovo R.R. 4/2017 a Monza</a></div></li>
+</ul>
+<div class="services-icon" id="citizen-icon-hover">
+<svg version="1.1" id="CitizenIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44px" height="70px" viewBox="0 0 595.279 841.891" enable-background="new 0 0 595.279 841.891" xml:space="preserve" class="services-svg">
+<g>
+<g id="home">
+<path fill="#FFF" d="M72.139,410.021v9.224v261.271h237.832l125.75-0.007h85.199V419.246v-9.224L296.529,242.5L72.139,410.021z"/>
+<path fill="#FFF" d="M589.177,376.05L295.609,161.376L6.022,376.097c-6.709,5.107-8.008,14.687-2.905,21.39
+                          c5.102,6.709,14.676,8.02,21.39,2.906l271.222-200.765l275.125,200.823c2.747,2.064,5.962,3.055,9.153,3.055
+                          c4.633,0,9.218-2.105,12.22-6.098C597.28,390.671,595.922,381.11,589.177,376.05z"/>
+</g>
+</g>
+<g>
+<g>
+<path fill="#056d44" d="M295.348,648.6l-20.489-20.489C198.758,560.791,149,515.424,149,459.811
+                          c0-45.368,35.123-80.491,80.491-80.491c24.879,0,49.758,11.708,65.856,30.733c16.098-19.025,40.977-30.733,65.856-30.733
+                          c45.368,0,80.491,35.123,80.491,80.491c0,55.612-49.758,100.979-125.858,168.3L295.348,648.6z"/>
+</g>
+</g>
+</svg>
+</div> <!-- /services-icon -->
+<div class="services-text services-text-open"> Per il CITTADINO <br/> <span class="services-text-detail">In cerca di una casa</span> </div>
+<div class="services-button">
+<span class="glyphicon glyphicon-menu-up hidden-xs hidden-sm" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-menu-down no-desktop" aria-hidden="true"></span>
+</div>
+<ul class="visible-xs- visible-sm- no-desktop">
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/locazione-alloggi-a-canone-concordato-moderato.html">Alloggi a canone concordato e a canone moderato</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/locazione-alloggi-esclusi-dall-erp.html">Alloggi esclusi dall'erp</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/alloggi-altreUI-in-vendita.html">Alloggi e altre U.I. in vendita</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-il-cittadino/sperimentazione-regolamento-4-2017.html">Alloggi a canone sociale: sperimentazione nuovo R.R. 4/2017 a Monza</a></div></li>
+</ul>
+</div> <!-- /citizen-open -->
+<div class="loadger" id="citizen-switch"></div>
+</div>
+<div class="col-xs-6 ssh-right-container">
+<div class="loadger loadger-open" id="loadger-menu">
+<ul class="hidden-xs hidden-sm">
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-l-inquilino/modulistica-esterna1.html">Modulistica per richieste e comunicazioni</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-l-inquilino/Regolamenti-e-normativa-inquilini.html">Regolamenti e normativa inquilini</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-l-inquilino/Emergenze-manutentive.html">Emergenze manutentive</a></div></li>
+</ul>
+<div class="services-icon services-icon-hover" id="loadger-icon-hover">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44px" height="50px" viewBox="0 0 79.539 79.539" enable-background="new 0 0 79.539 79.539" xml:space="preserve" class="services-svg service-family-open">
+<g id="family">
+<path fill="#FFF" d="M28.635,32.496c0,2.02-1.639,3.661-3.664,3.661c-2.025,0-3.669-1.642-3.669-3.661
+                      c0-2.03,1.644-3.666,3.669-3.666C26.996,28.83,28.635,30.466,28.635,32.496z M25.359,57.583l0.785,13.516
+                      c0,0.477,0.386,0.865,0.857,0.865c0.479,0,0.859-0.389,0.859-0.865l0.738-13.516h2.392l-2.473-15.15l4.974,9.906
+                      c0.187,0.438,0.689,0.646,1.129,0.455c0.435-0.182,0.642-0.685,0.451-1.123c0,0-3.648-9.864-4.549-11.703
+                      c-0.891-1.838-1.781-2.957-5.202-2.957h-0.699c-3.415,0-4.306,1.118-5.207,2.951c-0.896,1.844-4.557,11.702-4.557,11.702
+                      c-0.179,0.44,0.023,0.948,0.458,1.129c0.44,0.192,0.942-0.021,1.129-0.455l4.979-9.905l-2.475,15.151h2.39l0.743,13.515
+                      c0,0.478,0.386,0.864,0.86,0.864c0.481,0,0.862-0.389,0.862-0.864l0.737-13.515H25.359L25.359,57.583z M54.582,28.82
+                      c-2.028,0-3.67,1.636-3.67,3.666c0,2.02,1.646,3.656,3.67,3.656c2.021,0,3.65-1.636,3.65-3.656
+                      C58.232,30.456,56.602,28.82,54.582,28.82z M58.378,50.392l0.242-7.975l4.475,9.912c0.188,0.439,0.688,0.643,1.129,0.455
+                      c0.436-0.182,0.646-0.684,0.461-1.129c0,0-3.152-9.859-4.055-11.703c-0.896-1.833-2.283-2.952-5.707-2.952h-0.698
+                      c-3.412,0-4.815,1.119-5.711,2.952c-0.901,1.843-4.052,11.703-4.052,11.703c-0.186,0.445,0.021,0.947,0.457,1.129
+                      c0.44,0.188,0.942-0.021,1.129-0.455l4.479-9.912l0.249,7.975l-0.71,20.023c-0.058,0.797,0.544,1.485,1.331,1.537
+                      c0.042,0,0.078,0.006,0.104,0.006c0.752,0,1.383-0.574,1.439-1.336l1.633-15.487l1.631,15.487c0.051,0.762,0.684,1.336,1.438,1.336
+                      c0.03,0,0.067,0,0.099-0.006c0.797-0.052,1.389-0.74,1.336-1.537L58.378,50.392L58.378,50.392z M39.77,51.096
+                      c-1.24,0-2.247,1.005-2.247,2.247s1.007,2.242,2.247,2.242c1.239,0,2.252-1,2.252-2.242S41.009,51.096,39.77,51.096z M39.77,64.337
+                      c0,0,1.013,7.031,1.013,7.037c0.131,0.336,0.461,0.584,0.854,0.584c0.408,0,0.742-0.27,0.865-0.638
+                      c0.01-0.016,0.031-0.435,0.01-0.502l-0.414-8.637l0.127-2.962c0.115-1.01,0.137-0.715,1.289-1.398
+                      c1.171-0.703,3.167-3.79,3.26-3.945c0.096-0.149,0.282-0.424,0.318-0.596c0.055-0.314-0.147-0.605-0.455-0.668
+                      c-0.238-0.042-0.436,0.083-0.583,0.249c-0.155,0.16-2.449,3.216-4.173,3.511c-0.381-0.058-0.801-0.26-1.894-0.26h-0.435
+                      c-1.093,0-1.507,0.202-1.893,0.26c-1.725-0.295-4.019-3.351-4.174-3.511c-0.147-0.166-0.344-0.291-0.577-0.249
+                      c-0.308,0.063-0.51,0.357-0.451,0.668c0.031,0.172,0.218,0.445,0.313,0.596c0.096,0.155,2.094,3.242,3.259,3.945
+                      c1.152,0.684,1.173,0.389,1.29,1.398l0.122,2.962l-0.409,8.637c-0.021,0.072,0,0.486,0.01,0.502
+                      c0.122,0.368,0.45,0.638,0.865,0.638c0.388,0,0.722-0.248,0.854-0.584C38.763,71.369,39.77,64.337,39.77,64.337 M78.91,36.747
+                      c1.107-1.584,0.713-3.774-0.882-4.883L45.613,9.313c-3.328-2.319-8.357-2.319-11.682,0L1.509,31.864
+                      c-1.592,1.108-1.988,3.299-0.88,4.883c1.108,1.59,3.291,1.989,4.883,0.881l32.417-22.551c0.914-0.632,2.763-0.632,3.677,0
+                      l32.415,22.551c0.611,0.424,1.314,0.632,1.999,0.632C77.138,38.254,78.23,37.726,78.91,36.747z"/>
+</g>
+</svg>
+</div> <!-- /services-icon -->
+<div class="services-text services-text-open"> Per gli <br/> INQUILINI Aler </div>
+<div class="services-button">
+<span class="glyphicon glyphicon-menu-up hidden-xs hidden-sm" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-menu-down no-desktop" aria-hidden="true"></span>
+</div>
+<ul class="visible-xs- visible-sm- no-desktop">
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-l-inquilino/modulistica-esterna1.html">Modulistica per richieste e comunicazioni</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-l-inquilino/Regolamenti-e-normativa-inquilini.html">Regolamenti e normativa inquilini</a></div></li>
+<li><div class="pointer">_</div><div class="label"><a href="/home/per-l-inquilino/Emergenze-manutentive.html">Emergenze manutentive</a></div></li>
+</ul>
+</div> <!-- /loadger-open -->
+<div class="loadger" id="loadger-switch"></div>
+</div>
+</div>
+</div> <!-- /flexslider -->
+</div>	<!-- /slider-container -->
+<div class="container news-inside">
+<div class="row hp-title">
+<h3>Notizie in evidenza</h3>
+</div>
+<div class="row">
+<div class="col-xs-12 col-sm-4 hpnb-container">
+<a href="/home/news/news_20122017_2.html">
+<div class="hp-news-box">
+<div class="col-xs-3 hp-news-date"><span class="day">20</span><span>dic 2017</span></div>
+<div class="col-xs-9 hp-news-title"> Avviso per la locazione di n. 2 alloggi in ERBA, Villa Comolli</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-4 hpnb-container">
+<a href="/home/news/news_20122017_1.html">
+<div class="hp-news-box">
+<div class="col-xs-3 hp-news-date"><span class="day">20</span><span>dic 2017</span></div>
+<div class="col-xs-9 hp-news-title"> Avviso per la locazione di n. 2 alloggi in COMO, Via Cadorna</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-4 hpnb-container">
+<a href="/home/news/news_19122017.html">
+<div class="hp-news-box">
+<div class="col-xs-3 hp-news-date"><span class="day">19</span><span>dic 2017</span></div>
+<div class="col-xs-9 hp-news-title"> Avviso di Selezione Personale per Settore Utenza U.O.G. di COMO</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-4 hpnb-container">
+<a href="/home/news/news_14122017.html">
+<div class="hp-news-box">
+<div class="col-xs-3 hp-news-date"><span class="day">14</span><span>dic 2017</span></div>
+<div class="col-xs-9 hp-news-title"> Avviso di Selezione Personale per Area Amministrativa sede di VARESE</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-4 hpnb-container">
+<a href="/home/news/news_27112017.html">
+<div class="hp-news-box">
+<div class="col-xs-3 hp-news-date"><span class="day">27</span><span>nov 2017</span></div>
+<div class="col-xs-9 hp-news-title"> Bando assegnazione alloggi CITTIGLIO</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-4 hpnb-container">
+<a href="/home/news/news_24112017.html">
+<div class="hp-news-box">
+<div class="col-xs-3 hp-news-date"><span class="day">24</span><span>nov 2017</span></div>
+<div class="col-xs-9 hp-news-title"> Avviso assegnazione alloggi MONZA, BRUGHERIO e VILLASANTA</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row hp-more-news">
+<h4><a href="/home/news.html">Vedi tutte le notizie<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></h4>
+</div>
+</div>
+<div class="hp-branches-container">
+<div class="container">
+<div class="row hp-branches-title">
+<h2><h2>Le nostre SEDI </h2></h2>
+</div>
+<div class="row">
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+<ul>
+<li>
+<div class="col-xs-12 hpbb-container">
+<div class="hp-branch-box">
+<div class="hp-branch-preview">
+<img src="/dam/jcr:1c8bd49f-4b88-4335-bd9d-130e60099c12/xaler_varese.png.pagespeed.ic.-tFJ-SwW_e.png" alt="Varese">
+<p>Sede di <span>Varese</span></p>
+<a href="/home/sedi_orari/sede_varese.html" class="btn btn-default btn-details">Dettagli</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="col-xs-12 hpbb-container">
+<div class="hp-branch-box">
+<div class="hp-branch-preview">
+<img src="/dam/jcr:9f9585da-5305-4d3a-9eb6-dd9625876249/xmap_como.png.pagespeed.ic.7Gi-oY3FOX.png" alt="como">
+<p>Sede di <span>como</span></p>
+<a href="/home/sedi_orari/sede_como.html" class="btn btn-default btn-details">Dettagli</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="col-xs-12 hpbb-container">
+<div class="hp-branch-box">
+<div class="hp-branch-preview">
+<img src="/dam/jcr:66ae426d-2b6d-40b5-b1f3-db9cdc246ef6/xmap_monza.png.pagespeed.ic.Rnpu4rgkR3.png" alt="monza brianza">
+<p>Sede di <span>monza brianza</span></p>
+<a href="/home/sedi_orari/sede_monza.html" class="btn btn-default btn-details">Dettagli</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="col-xs-12 hpbb-container">
+<div class="hp-branch-box">
+<div class="hp-branch-preview">
+<img src="/dam/jcr:03dbdbac-3922-4bfc-91b4-232c0c415342/xmap_busto_arsizio.png.pagespeed.ic.xa693sCg1l.png" alt="busto arsizio">
+<p>Sede di <span>busto arsizio</span></p>
+<a href="/home/sedi_orari/sede_busto.html" class="btn btn-default btn-details">Dettagli</a>
+</div>
+</div>
+</div>
+</li> </ul>
+</div>
+<a href="#" class="jcarousel-control-prev"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+<a href="#" class="jcarousel-control-next"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+</div>
+</div> <!-- /row -->
+</div> <!-- /sub-container -->
+</div> <!-- /branches-container -->
+<div class="container sponsor">
+<div class="row">
+<div class="col-xs-6 col-md-3 text-left sponsor-logo ">
+<a href="http://www.regione.lombardia.it/wps/portal/istituzionale/HP/servizi-e-informazioni/cittadini/persone-casa-famiglia/agevolazioni-per-la-casa" target="_blank">
+<img src="/dam/jcr:45c80c4f-72bb-425b-9c10-f3ab8c2b190f/xlogo_opportunita_regionali.png.pagespeed.ic.vsTiqPZ92U.png" alt="logo_opportunita_regionali"/>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 text-left sponsor-logo ">
+<a href="http://www.regione.lombardia.it" target="_blank">
+<img src="/dam/jcr:54505ae0-922f-487b-b767-3f540bf64a81/logo_regione_lombardia.png" alt="logo_regione_lombardia"/>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 text-left sponsor-logo ">
+<a href="http://www.federcasa.it/" target="_blank">
+<img src="/dam/jcr:262394ab-01c3-47b0-9667-d51e83825a91/logo_federcasa.png" alt="logo_opportunita_regionali"/>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 text-left sponsor-logo ">
+<a href="http://www.federcasa.info/" target="_blank">
+<img src="/dam/jcr:baf51a52-8b25-4778-80ac-075f66116fc6/logo_federcasa_info.png" alt="logo_federcasa_info"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-outer"> <!-- footer-outer -->
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-md-2"><img src="/docroot/aler-site/img/loghi/logo_aler_footer.svg" alt="" title=""/></div>
+<div class="col-xs-12 col-md-8 aler-info">
+<h4>Azienda Lombarda per l&#039;Edilizia Residenziale di Varese - Como - Monza Brianza - Busto Arsizio</h4>
+<p><strong>Sede Legale: Via Monte Rosa, 21 - 21100 Varese - Tel 0332 806911 Fax 0332 283879 -&nbsp;PEC</strong>:&nbsp;<strong><a href="mailto:info@pec.alervarese.it">info@pec.alervarese.it</a>&nbsp;</strong></p>
+<p>Organismo di Vigilanza&nbsp;<strong><a href="mailto:odv@alervarese.com">odv@alervarese.com</a></strong>&nbsp;-&nbsp;Responsabile Anticorruzione <strong><a href="mailto:responsabile.trasparenza@alervarese.com" style="line-height: 1.6em;">anticorruzione@alervarese.com</a></strong>&nbsp;</p>
+<p> Copyright &copy; 2017 - C.F. / P.IVA /n. Iscrizione Registro Imprese VA 00214310120 <br/></p>
+</div>
+<div class="col-xs-12 col-md-2 powered-by"> <span><a href="http://www.tinext.com" target="_blank">Solution by Tinext</a></span> </div>
+</div>
+</div>
+</footer>
+</div>
+<script src="/docroot/aler-site/js/jquery.fitvids.js+jquery.prettyPhoto.js+main.js+bootstrap.min.js+hammer.min.js+ie10-viewport-bug-workaround.js.pagespeed.jc.mK3WT12yor.js"></script><script>eval(mod_pagespeed__0c7DBFjaJ);</script>
+<script>eval(mod_pagespeed_vT2P50iML9);</script>
+<script>eval(mod_pagespeed_NG6wMwCqvP);</script>
+<script>eval(mod_pagespeed_M3QNWvvLm1);</script>
+<script>eval(mod_pagespeed_tuQRPm3xkI);</script>
+<!-- <script src="/docroot/aler-site/js/bootstrap-hover-dropdown.min.js"></script> -->
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script>eval(mod_pagespeed_06U_nODBkh);</script>
+<script src="/docroot/aler-site/js/jquery.flexslider.js+jquery.mmenu.min.all.js.pagespeed.jc.oomWLYIOd2.js"></script><script>eval(mod_pagespeed__VRoX4xJtd);</script>
+<script>eval(mod_pagespeed_11NODKm15a);</script>
+<script src="/docroot/aler-site/js/jquery.jcarousel.min.js+jcarousel.responsive.js+modernizr.custom.js+template.js.pagespeed.jc.4Q9EWF3orh.js"></script><script>eval(mod_pagespeed_43kxu5YIPP);</script>
+<script>eval(mod_pagespeed_JHu3aXaaSU);</script>
+<script>eval(mod_pagespeed_xx1jYNIhfH);</script>
+<script>eval(mod_pagespeed__9ZjvivlB6);</script></body>
+</html>

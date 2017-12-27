@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+	<titolo> Pubblicazione 1 legge 190</titolo>
+	<abstract> Pubblicazione 1 legge 190 anno 1 rif. 2014</abstract>
+	<dataPubbicazioneDataset>2015-01-21</dataPubbicazioneDataset>
+	<entePubblicatore>Consorzio Azienda Intercomunale di Bacino Treviso 3</entePubblicatore>
+	<dataUltimoAggiornamentoDataset>2015-01-21</dataUltimoAggiornamentoDataset>
+	<annoRiferimento>2014</annoRiferimento><urlFile>http://www.tvtre.it/avcp/t3_avcp_dataset_2014.xml</urlFile>
+	<licenza>IODL 2.0</licenza>
+	</metadata>
+<data>
+<lotto>
+<cig>0000000000</cig>
+<strutturaProponente>
+<codiceFiscaleProp>92007080267</codiceFiscaleProp>
+<denominazione>Consorzio Azienda Intercomunale di Bacino Treviso 3</denominazione>
+</strutturaProponente>
+<oggetto>assistenza legale</oggetto>
+<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02376411209</codiceFiscale>
+<ragioneSociale>Studio associato Caia e Colombari</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02376411209</codiceFiscale>
+<ragioneSociale>Studio associato Caia e Colombari</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4680.00</importoAggiudicazione><tempiCompletamento><dataInizio>2014-08-18</dataInizio><dataUltimazione>2014-08-29</dataUltimazione></tempiCompletamento><importoSommeLiquidate>4680.00</importoSommeLiquidate></lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Adempimento AVCP 2013</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010 aggiornamento del 2015-01-28 17.46.15 | Generato con AVCP di Fernando Chiurazzi |</abstract>
+    <dataPubblicazioneIndice>2015-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>ISIS "Carlo Levi"</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.isisantarcangelo.gov.it/public/AVCP/PZIS01700R_indice.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://www.isisantarcangelo.gov.it/public/AVCP/2014_PZIS01700R.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>	
+  </indice>
+</indici>

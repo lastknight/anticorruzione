@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 https://dati.avcp.it/schema/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione legge 190, anno rif. 2014</titolo>
+    <abstract>Pubblicazione legge 190, anno rif. 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>Consorzio B.I.M. di Valle Camonica</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-29</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://dataset.ckube.it/avcp/appaltil190/bimvallecamonica_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZC60D864E8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ENERGIA ELETTRICA IMMOBILI - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02349420980</codiceFiscale>
+          <ragioneSociale>VALLE CAMONICA SERVIZI VENDITE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02349420980</codiceFiscale>
+          <ragioneSociale>VALLE CAMONICA SERVIZI VENDITE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15966.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1A0DB3255</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>VERTENZA BIM/SAGETER TRIUBALE DI BRESCIA SENTENZA 3738/2013 DEL 16/11/20123</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BCCPRS58M07A816J</codiceFiscale>
+          <ragioneSociale>BACCANELLI PIETRO SERGIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BCCPRS58M07A816J</codiceFiscale>
+          <ragioneSociale>BACCANELLI PIETRO SERGIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6295.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2008-01-01</dataInizio>
+        <dataUltimazione>2014-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6295.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z270DCCCBB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO MENSA DIPENDENTI 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CSTNNL60M67C585R</codiceFiscale>
+          <ragioneSociale>RISTORANTE PIZZERIA GIARDINO DI CASTELLANI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CSTNNL60M67C585R</codiceFiscale>
+          <ragioneSociale>RISTORANTE PIZZERIA GIARDINO DI CASTELLANI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2270.53</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6014797F7D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>adeguamento idrico e fognario nella frazione Andrista in Comune di Cevo</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03091200984</codiceFiscale>
+          <ragioneSociale>AVANZINI COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01918590173</codiceFiscale>
+          <ragioneSociale>DUCOLI BORTOLO FRANCESCO E FIGLI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02718500982</codiceFiscale>
+          <ragioneSociale>EDILSCAVI BONOMELLI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01708880172</codiceFiscale>
+          <ragioneSociale>EREDIPEZZOTTI GIACOMO S.N.C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01607650981</codiceFiscale>
+          <ragioneSociale>IDRAULICA RE.BER. di Re Valter &amp;amp; C. snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03622760175</codiceFiscale>
+          <ragioneSociale>ITALIMPRESA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02549830988</codiceFiscale>
+          <ragioneSociale>LANZETTI DOMENICO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02166600987</codiceFiscale>
+          <ragioneSociale>PLONA GIOVANNI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02090080983</codiceFiscale>
+          <ragioneSociale>SOLA COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01363020171</codiceFiscale>
+          <ragioneSociale>ZERLA &amp;amp; c. SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01607650981</codiceFiscale>
+          <ragioneSociale>IDRAULICA RE.BER. di Re Valter &amp;amp; C. snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>56954.78</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-18</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>59460335A7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>riqualificazione e rifacimento sottoservizi nei centri storici del capoluogo e nelle frazioni di Astrio e  Pescarzo in Comune di Breno</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03091200984</codiceFiscale>
+          <ragioneSociale>AVANZINI COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00553100983</codiceFiscale>
+          <ragioneSociale>BETON CAMUNA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>CTTCTN53C25G550Y</codiceFiscale>
+          <ragioneSociale>COTTI COTTINI COSTANTINO EDILSCAVI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01918590173</codiceFiscale>
+          <ragioneSociale>DUCOLI BORTOLO FRANCESCO E FIGLI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02718500982</codiceFiscale>
+          <ragioneSociale>EDILSCAVI BONOMELLI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02314270980</codiceFiscale>
+          <ragioneSociale>EDILSERVICE srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01677670984</codiceFiscale>
+          <ragioneSociale>EREDI MORA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01708880172</codiceFiscale>
+          <ragioneSociale>EREDIPEZZOTTI GIACOMO S.N.C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01462790179</codiceFiscale>
+          <ragioneSociale>FASANINI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02317690168</codiceFiscale>
+          <ragioneSociale>FILIPPI PALMINO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03540050980</codiceFiscale>
+          <ragioneSociale>GAIONI AMADIO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01607650981</codiceFiscale>
+          <ragioneSociale>IDRAULICA RE.BER. di Re Valter &amp;amp; C. snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00482270170</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE F.LLI MAISETTI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03622760175</codiceFiscale>
+          <ragioneSociale>ITALIMPRESA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02549830988</codiceFiscale>
+          <ragioneSociale>LANZETTI DOMENICO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02869920179</codiceFiscale>
+          <ragioneSociale>PEDRETTI VALENTINO E F.LLI SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02166600987</codiceFiscale>
+          <ragioneSociale>PLONA GIOVANNI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01926900984</codiceFiscale>
+          <ragioneSociale>SALVADORI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>SRLGNN60D29G710M</codiceFiscale>
+          <ragioneSociale>SERIOLI SCAVI DI SERIOLI GIOVANNI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01363020171</codiceFiscale>
+          <ragioneSociale>ZERLA &amp;amp; c. SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02869920179</codiceFiscale>
+          <ragioneSociale>PEDRETTI VALENTINO E F.LLI SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>257998.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-02</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5819118814</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ampliamento del cimitero di Sellero Capoluogo</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03091200984</codiceFiscale>
+          <ragioneSociale>AVANZINI COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00303070171</codiceFiscale>
+          <ragioneSociale>C.E.S.I. DI BAIGUINI GIANPIETRO &amp;amp; C. SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02965940980</codiceFiscale>
+          <ragioneSociale>CA.VA. DI VAIRA FRANCESCO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02524170988</codiceFiscale>
+          <ragioneSociale>CANTI COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01384630172</codiceFiscale>
+          <ragioneSociale>CO.G.IM. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01918590173</codiceFiscale>
+          <ragioneSociale>DUCOLI BORTOLO FRANCESCO E FIGLI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02811260179</codiceFiscale>
+          <ragioneSociale>EDILCERE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02832820985</codiceFiscale>
+          <ragioneSociale>EDILE VENTURINI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01677670984</codiceFiscale>
+          <ragioneSociale>EREDI MORA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01708880172</codiceFiscale>
+          <ragioneSociale>EREDIPEZZOTTI GIACOMO S.N.C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00910140177</codiceFiscale>
+          <ragioneSociale>F.LLI PEDRAZZI SNC DI PEDRAZZI CESARE E TIZIANA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01462790179</codiceFiscale>
+          <ragioneSociale>FASANINI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02498390984</codiceFiscale>
+          <ragioneSociale>FETTOLINI COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03540050980</codiceFiscale>
+          <ragioneSociale>GAIONI AMADIO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02583230988</codiceFiscale>
+          <ragioneSociale>GELMI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03622760175</codiceFiscale>
+          <ragioneSociale>ITALIMPRESA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02549830988</codiceFiscale>
+          <ragioneSociale>LANZETTI DOMENICO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01683080178</codiceFiscale>
+          <ragioneSociale>M.F.G. MONTAGGI E FORNITURE GENERALI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRNLRD54R25D064G</codiceFiscale>
+          <ragioneSociale>MORANDA ALFREDO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02869920179</codiceFiscale>
+          <ragioneSociale>PEDRETTI VALENTINO E F.LLI SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00756680146</codiceFiscale>
+          <ragioneSociale>PLONA COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02166600987</codiceFiscale>
+          <ragioneSociale>PLONA GIOVANNI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01797560982</codiceFiscale>
+          <ragioneSociale>R.B. COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01926900984</codiceFiscale>
+          <ragioneSociale>SALVADORI S.R.L. DI GIOVANNI E INNOCENZO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01004480172</codiceFiscale>
+          <ragioneSociale>SP.A.M. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VLMGCM81S22B149X</codiceFiscale>
+          <ragioneSociale>VIELMI GIACOMO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02524170988</codiceFiscale>
+          <ragioneSociale>CANTI COSTRUZIONI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>230032.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-17</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC90FBACD0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico di progettazione  preliminare, definitiva, esecutiva, DL, contabilita e collaudo, nonché PSC,  lavori  sistemazione viabilità polo scolastico Piamborno</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RVLLNI55B22G550S</codiceFiscale>
+          <ragioneSociale>LINO RAVELLI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RVLLNI55B22G550S</codiceFiscale>
+          <ragioneSociale>LINO RAVELLI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-19</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z470F5ABB2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>esecuzione attività di rilievo con uso droni nella località Ponte Lungo in Comune di Ceto</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03607390980</codiceFiscale>
+          <ragioneSociale>Studio 3DLevel Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03607390980</codiceFiscale>
+          <ragioneSociale>Studio 3DLevel Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-06</dataInizio>
+        <dataUltimazione>2014-07-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5750432E97</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di sistemazione della viabilita del capoluogo, in Comune di Breno</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01516110168</codiceFiscale>
+          <ragioneSociale>BETTONI SPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02043380985</codiceFiscale>
+          <ragioneSociale>CO.GE.S. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00226710168</codiceFiscale>
+          <ragioneSociale>GIUDICI SPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02018180980</codiceFiscale>
+          <ragioneSociale>PIETRINI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00518860168</codiceFiscale>
+          <ragioneSociale>LEGRENZI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02018180980</codiceFiscale>
+          <ragioneSociale>PIETRINI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>153697.06</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>151400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z350EC99FF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>incarico progettazione, DL, contabilità, PSC per lavori di rifacimento sottoservizi in capoluogo e frazioni Astrio e Pescarzo in Comune di Breno</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RMNGPP89L19E704S</codiceFiscale>
+          <ragioneSociale>geom. Giuseppe Armanni</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RMNGPP89L19E704S</codiceFiscale>
+          <ragioneSociale>geom. Giuseppe Armanni</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>26000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-14</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8517.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z600E92475</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>disgaggio e disbosco in Val Paggera di Ceto a supporto progettazione esecutiva opere di fondazione e del ponte provvisorio sul torrente Palobbia in località Val Paghera in Comune di Ceto</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GZZPTR67M11I476H</codiceFiscale>
+          <ragioneSociale>Guzza Pietro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GZZPTR67M11I476H</codiceFiscale>
+          <ragioneSociale>Guzza Pietro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>950.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-01</dataInizio>
+        <dataUltimazione>2014-07-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>950.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD00E88E3D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico progettazione preliminare, definitiva, esecutiva, DL,contabilita e collaudo -PSC- lavori di manutenzione straordinaria del terzo campo del cimitero di breno e realizzazione nuove cappelle -</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SPZPRZ63B61B149S</codiceFiscale>
+          <ragioneSociale>arch. Patrizia Speziari</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SPZPRZ63B61B149S</codiceFiscale>
+          <ragioneSociale>arch. Patrizia Speziari</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>17000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z680E52BE8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico di progettazione  preliminare, definitiva, esecutiva, DL, contabilita e collaudo, nonché PSC,  lavori  adeguamento idrico e fognario in Andrista di Cevo</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BFFGCM49E01E851S</codiceFiscale>
+          <ragioneSociale>Geom. Giacomo Baffelli</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BFFGCM49E01E851S</codiceFiscale>
+          <ragioneSociale>Geom. Giacomo Baffelli</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8017.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-18</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDB0DE08EA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico di progettazione  preliminare, definitiva, esecutiva, DL, contabilita e collaudo, nonché PSC,  lavori ampliamento del cimitero di Sellero Capoluogo</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>LNDGLM50A22A817A</codiceFiscale>
+          <ragioneSociale>Ing Gerolamo Landrini</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>LNDGLM50A22A817A</codiceFiscale>
+          <ragioneSociale>Ing Gerolamo Landrini</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>37500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-18</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>14681.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5649647C2E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>SISTEMA INFORMATIVO TERRITORIALE AGGIORNAMENTO LICENZE SOFTWARE E SERVIZI DI MANUTENZIONE FINO AL 31.12.2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02598580161</codiceFiscale>
+          <ragioneSociale>GLOBO S.R.L. SOLUZIONI AVANZATE PER IL TERRITORIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02598580161</codiceFiscale>
+          <ragioneSociale>GLOBO S.R.L. SOLUZIONI AVANZATE PER IL TERRITORIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40715.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5997807AE7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>GESTIONE DEI SERVIZI I. &amp;amp; C. T. DEL CONSORZIO BIM DI VALLE CAMONICA. APPROVAZIONE DELLA CONVENZIONE CON SOL.CO. CAMUNIA E CSC PER LE ATTIVITA&amp;apos; DEL PROGETTO VOLI - ANNO 2014.</oggetto>
+      <sceltaContraente>17-AFFIDAMENTO DIRETTO EX ART. 5 DELLA LEGGE N.381/91</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01567260987</codiceFiscale>
+          <ragioneSociale>CSC SOCIETA&amp;apos; COOPERATIVA SOCIALE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01567260987</codiceFiscale>
+          <ragioneSociale>CSC SOCIETA&amp;apos; COOPERATIVA SOCIALE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>168460.93</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>140384.15</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6072077474</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>DB TOPOGRAFICO E ORTOFOTO DIGITALI DEI TERRITORI DEI COMUNI DEL CONSORZIO BIM - ESTENSIONE AI COMUNI DI BRENO E CIVIDATE CAMUNO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00258350347</codiceFiscale>
+          <ragioneSociale>STAF - STUDIO TOPOGRAFICO AEREOFOTOGRAMMETRICO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00258350347</codiceFiscale>
+          <ragioneSociale>STAF - STUDIO TOPOGRAFICO AEREOFOTOGRAMMETRICO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>49176.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF811CCEC5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA&amp;apos; DI CONFIGURAZIONE E FORMAZIONE PER LA GESTIONE INFORMATICA DEGLI ATTI, CON FIRMA DIGITALE DEL SOFTWARE GESTIONALE IN USO AL CONSORZIO BIM E COMUNITA&amp;apos; MONTANA DI VALLE CAMONICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00704090984</codiceFiscale>
+          <ragioneSociale>IN.S.OR. S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00704090984</codiceFiscale>
+          <ragioneSociale>IN.S.OR. S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-19</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3E119B66C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA HARDWARE E SOFTWARE DI BASE E SUPPORTO NELL&amp;apos;AMBITO DELL&amp;apos;INFRASTRUTTURA TECNOLOGICA DEL CONSORZIO COMUNI BIM INERENTE IL GEOPORTALE E GLI SPORTELLI SUAP E SUE DELLA VALLE CAMONICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02598580161</codiceFiscale>
+          <ragioneSociale>GLOBO S.R.L. SOLUZIONI AVANZATE PER IL TERRITORIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02598580161</codiceFiscale>
+          <ragioneSociale>GLOBO S.R.L. SOLUZIONI AVANZATE PER IL TERRITORIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10368.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-06</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2D10F269C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO DI HARDWARE ED ATTREZZATURE VARIE PER GLI UFFIVI DEL CONSORZIO BIM DI VALLE CAMONICA MEDIANTE IL MEPA (MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE) DELLA CONSIP SPA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00704090984</codiceFiscale>
+          <ragioneSociale>IN.S.OR. S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03022740983</codiceFiscale>
+          <ragioneSociale>NO-RAD DI NORIS ALESSANDRO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02253560987</codiceFiscale>
+          <ragioneSociale>G3 INFORMATICA S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01567260987</codiceFiscale>
+          <ragioneSociale>CSC SOCIETA&amp;apos; COOPERATIVA SOCIALE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02875990984</codiceFiscale>
+          <ragioneSociale>IT@ S.N.C. DI PEDERSOLI MAURIZIO &amp;amp; C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00661740985</codiceFiscale>
+          <ragioneSociale>ELECTRONIC CENTER</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02855790982</codiceFiscale>
+          <ragioneSociale>TECNOFFICE DI GIOVANNI MASSOLI &amp;amp; C. S.A.S.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00665380986</codiceFiscale>
+          <ragioneSociale>R.V.M. IMPIANTI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03482300989</codiceFiscale>
+          <ragioneSociale>S.I.M. INFORMATICA S.R.L. A SOCIO UNICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03482300989</codiceFiscale>
+          <ragioneSociale>S.I.M. INFORMATICA S.R.L. A SOCIO UNICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7828.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-26</dataInizio>
+        <dataUltimazione>2014-10-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7828.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1910E7A8A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA BANCHE DATI ON-LINE PER GLI UTENTI DELLA INTRANET DI VALLE CAMONICA ON-LINE (VOLI)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10209790152</codiceFiscale>
+          <ragioneSociale>WOLTERS KLUWER ITALIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10209790152</codiceFiscale>
+          <ragioneSociale>WOLTERS KLUWER ITALIA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9994.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9994.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0210AF045</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>APPARATI SALA SERVER CENTRO SERVIZI: AFFIDAMENTO SERVIZIO ASSISTENZA E MANUTENZIONE ANNO 2014 ALLA DITTA SICON SRL</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01570210243</codiceFiscale>
+          <ragioneSociale>SICON SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01570210243</codiceFiscale>
+          <ragioneSociale>SICON SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1651.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1651.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE2109A475</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO ESTENSIONE DI GARANZIA COMPUTER SERVER</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BRNMRB69B18D251L</codiceFiscale>
+          <ragioneSociale>M2R DI EMILIO BRUNA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BRNMRB69B18D251L</codiceFiscale>
+          <ragioneSociale>M2R DI EMILIO BRUNA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>620.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-02</dataInizio>
+        <dataUltimazione>2014-11-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>620.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0F102EFA7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO E CONFIGURAZIONE SWITCH IN USO ALLA RETE INFORMATICA DEL CONSORZIO BIM E COMUNITA’ MONTANA DI VALLE CAMONICA.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BRNMRB69B18D251L</codiceFiscale>
+          <ragioneSociale>M2R DI EMILIO BRUNA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BRNMRB69B18D251L</codiceFiscale>
+          <ragioneSociale>M2R DI EMILIO BRUNA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2548.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-17</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAC0F632C5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>D.G.R. 07.02.2014 N. X/1340 VOUCHER LEVA CIVICA REGIONALE PERCORSI DI CITTADINANZA ATTIVA PER IL POTENZIAMENTO E L&amp;apos;OPPORTUNITA&amp;apos; DEI GIOVANI</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12790690155</codiceFiscale>
+          <ragioneSociale>ANCITEL LOMBARDIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12790690155</codiceFiscale>
+          <ragioneSociale>ANCITEL LOMBARDIA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6362.06</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-03</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6362.06</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z790E235AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI SERVIZI EDITORIALI ON-LINE PER GLI UTENTI DELLA INTRANET DI VALLECAMONICA ON-LINE (VOLI)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00777910159</codiceFiscale>
+          <ragioneSociale>IL SOLE 24 ORE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00777910159</codiceFiscale>
+          <ragioneSociale>IL SOLE 24 ORE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4899.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4899.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>52464546CC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>DB TOPOGRAFICO E ORTOFOTO DIGITALI DEL TERRITORIO DEI COMUNI DI CAPO DI PONTE, CERVENO, LOSINE, LOZIO, MALEGNO, NIARDO E OSSIMO</oggetto>
+      <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06534160582</codiceFiscale>
+          <ragioneSociale>A. T. P. S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00258350347</codiceFiscale>
+          <ragioneSociale>STAF - STUDIO TOPOGRAFICO AEREOFOTOGRAMMETRICO S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04658320157</codiceFiscale>
+          <ragioneSociale>SERMA S.R.L. MISURE AMBIENTALI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02330600483</codiceFiscale>
+          <ragioneSociale>STUDIO A S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01751890243</codiceFiscale>
+          <ragioneSociale>ROSSI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03432030173</codiceFiscale>
+          <ragioneSociale>ROSSI ITALIA S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00930290143</codiceFiscale>
+          <ragioneSociale>SITGEO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00258350347</codiceFiscale>
+          <ragioneSociale>STAF - STUDIO TOPOGRAFICO AEREOFOTOGRAMMETRICO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>95694.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>22700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE40CE08FB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO HARDWARE ED ATTREZZATURE VARI PER GLI UFFICI DEL CONSORZIO COMUNI BIM DI VALLE CAMONICA MEDIANTE IL MEPA (MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE) DELLA CONSIP S.P.A. - DETERMINA A CONTRARRE ED AVVIO PROCEDURE R. D. O.</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00704090984</codiceFiscale>
+          <ragioneSociale>IN.S.OR. S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03022740983</codiceFiscale>
+          <ragioneSociale>NO-RAD DI NORIS ALESSANDRO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02253560987</codiceFiscale>
+          <ragioneSociale>G3 INFORMATICA S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01567260987</codiceFiscale>
+          <ragioneSociale>CSC SOCIETA&amp;apos; COOPERATIVA SOCIALE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02875990984</codiceFiscale>
+          <ragioneSociale>IT@ S.N.C. DI PEDERSOLI MAURIZIO &amp;amp; C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00661740985</codiceFiscale>
+          <ragioneSociale>ELECTRONIC CENTER</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02855790982</codiceFiscale>
+          <ragioneSociale>TECNOFFICE DI GIOVANNI MASSOLI &amp;amp; C. S.A.S.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00665380986</codiceFiscale>
+          <ragioneSociale>R.V.M. IMPIANTI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03482300989</codiceFiscale>
+          <ragioneSociale>S.I.M. INFORMATICA S.R.L. A SOCIO UNICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03482300989</codiceFiscale>
+          <ragioneSociale>S.I.M. INFORMATICA S.R.L. A SOCIO UNICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-12</dataInizio>
+        <dataUltimazione>2014-02-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z30125AF84</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento di manutenzione straordinaria presso immobile denominato &amp;quot;Cittadella della Cultura&amp;quot; a Capo di Ponte.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00910140177</codiceFiscale>
+          <ragioneSociale>F.LLI PEDRAZZI S.n.c.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00910140177</codiceFiscale>
+          <ragioneSociale>F.LLI PEDRAZZI S.n.c.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8345.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-18</dataInizio>
+        <dataUltimazione>2014-12-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8145.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z76124D712</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di supporto alla comunicazione istituzionale attraverso mezzi televisivi. Trasmissione diretta televisiva assemblea. </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-17</dataInizio>
+        <dataUltimazione>2014-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z80115FB96</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ARMONIZZAZIONE DEI SISTEMI CONTABILI. AGGIORNAMENTO E CONFIGURAZIONE DEL SOFTWARE SERFIN</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02906700170</codiceFiscale>
+          <ragioneSociale>IN.S.OR. s.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02906700170</codiceFiscale>
+          <ragioneSociale>IN.S.OR. s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1464.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z831130292</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di supporto alla comunicazione istituzionale attraverso i mezzi televisivi. </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-26</dataInizio>
+        <dataUltimazione>2014-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6210F825A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>SPESE ATTO DI CESSIONE QUOTE SOCIETARIE </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03147590982</codiceFiscale>
+          <ragioneSociale>G.A.L. VALLECAMONICA VAL DI SCALVE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03147590982</codiceFiscale>
+          <ragioneSociale>G.A.L. VALLECAMONICA VAL DI SCALVE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-29</dataInizio>
+        <dataUltimazione>2014-10-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z82104E546</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di supporto alla comunicazione istituzionale attraverso mezzi televisivi. Trasmissione diretta televisiva assemblea. </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z030F0C018</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di supporto alla comunicazione istituzionale attraverso i mezzi televisivi. </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00580290989</codiceFiscale>
+          <ragioneSociale>R.B.1 TELEBOARIO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCB0E88411</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Partecipazioni a trasmissioni televisive</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02539810982</codiceFiscale>
+          <ragioneSociale>PIU&amp;apos; VALLI TV SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02539810982</codiceFiscale>
+          <ragioneSociale>PIU&amp;apos; VALLI TV SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6E0D867A9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>GESTIONE E MANUTENZIONE POTABILIZZATORE LOCALITA&amp;apos; MOLLO E SOSTITUZIONE PORTA DI ACCESSO ALLA VASCA DI ACCUMULO - ANNO 2014 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>VALLE CAMONICA SERVIZI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>VALLE CAMONICA SERVIZI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z900D8660A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>SMALTIMENTO TONER FOTOCOPIATORE UFFICIO SEGRETERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13169580159</codiceFiscale>
+          <ragioneSociale>E.C.S. S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13169580159</codiceFiscale>
+          <ragioneSociale>E.C.S. S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>327.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>136.59</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z260D865E7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ESTINTORI </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03419760172</codiceFiscale>
+          <ragioneSociale>C.M.A. SISTEMI ANTINCENDIO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03419760172</codiceFiscale>
+          <ragioneSociale>C.M.A. SISTEMI ANTINCENDIO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>614.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>26.18</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEA0D865C9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>CANONE MANUTENZIONE SOFTWARE CONTABILITA&amp;apos; E INTERVENTI TECNICI - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02906700170</codiceFiscale>
+          <ragioneSociale>IN.S.OR. s.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02906700170</codiceFiscale>
+          <ragioneSociale>IN.S.OR. s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3155.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2501.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZED0D8659D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>VERIFICHE PERIODICHE ASCENSORI - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00858690175</codiceFiscale>
+          <ragioneSociale>BIEM SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00858690175</codiceFiscale>
+          <ragioneSociale>BIEM SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-27</dataInizio>
+        <dataUltimazione>2014-01-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z000D86577</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>CONNETTIVITA&amp;apos; LINEE DATI INTERNET - ANNO 2014 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05815611008</codiceFiscale>
+          <ragioneSociale>TELECOM ITALIA DIGITALSOLUTIONS S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05815611008</codiceFiscale>
+          <ragioneSociale>TELECOM ITALIA DIGITALSOLUTIONS S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14836.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12875.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB10D86521</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>SPESE TELEFONICHE - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM CENTRO FACTORING SPA PER c/TELECOM ITALIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM CENTRO FACTORING SPA PER c/TELECOM ITALIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC60D864E8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ENERGIA ELETTRICA IMMOBILI - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05779711000</codiceFiscale>
+          <ragioneSociale>ENEL DISTRIBUZIONE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05779711000</codiceFiscale>
+          <ragioneSociale>ENEL DISTRIBUZIONE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15966.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z480D7ABF4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVAZIONE POLIZZA ASSICURATIVA “RESPONSABILITA’ CIVILE PATRIMONIALE” PER LA COPERTURA DEI RISCHI DERIVANTI DALLA RESPONSABILITA’ CIVILE E PATRIMONIALE DELL’ENTE – COLPA LIEVE. </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z490D35A41</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione di impianto termico di sottostazione con l’assunzione della qualifica di “terzo responsabile” secondo le prescrizioni del D.P.R. 412/93. </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12374760150</codiceFiscale>
+          <ragioneSociale>MIECI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12374760150</codiceFiscale>
+          <ragioneSociale>MIECI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2704.92</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2110.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAD0D357CB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di energia termica da teleriscaldamento immobile Via Aldo Moro 7.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00814870986</codiceFiscale>
+          <ragioneSociale>FEN ENERGIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00814870986</codiceFiscale>
+          <ragioneSociale>FEN ENERGIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14098.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3816.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>58962424D2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Organizzazione tappa del Giro d&amp;apos;Italia 2014 Valdengo - Plan di Montecampione.</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09597370155</codiceFiscale>
+          <ragioneSociale>RCS SPORT SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09597370155</codiceFiscale>
+          <ragioneSociale>RCS SPORT SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>85000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-22</dataInizio>
+        <dataUltimazione>2014-08-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>85000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5529245D4E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio pulizia locali immobile di proprietà del Consorzio Comuni B.I.M. di Valle Camonica sito in Via Aldo Moro 7 a Breno. Biennio 2014/2015.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02126440987</codiceFiscale>
+          <ragioneSociale>ROSA CAMUNA AMBIENTE - SOC. COOP.SOCIALE - ONLUS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02126440987</codiceFiscale>
+          <ragioneSociale>ROSA CAMUNA AMBIENTE - SOC. COOP.SOCIALE - ONLUS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30024.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12354.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5097694E27</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento copertura assicurativa incendio immobili di proprietà dell&amp;apos;Ente</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>29266.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-06-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2325.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z140D04A4D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ascensore matricola 101952/99 installato in Via Aldo Moro 7, Breno</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00858690175</codiceFiscale>
+          <ragioneSociale>BIEM SPA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00858690175</codiceFiscale>
+          <ragioneSociale>BIEM SPA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3050.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1205.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z150CC3178</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>PREMIO ASSICURATIVO INFORTUNI AMMIN ISTRATORI - ANNO 2014 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>171.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>171.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA90CC3129</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>PREMIO ASSICURATIVO INCENDIO - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4650.85</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4650.85</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z010CC30FB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>PREMIO ASSICURATIVO RESPONSABILITA&amp;apos; CIVILE - ANNO 2014 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDD0CC3078</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00863380176</codiceFiscaleProp>
+        <denominazione>Consorzio B.I.M. di Valle Camonica</denominazione>
+      </strutturaProponente>
+      <oggetto>PREMIO ASSICURATIVO INFORTUNI DIPENDENTI - ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>NORD BROKER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>261.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>261.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

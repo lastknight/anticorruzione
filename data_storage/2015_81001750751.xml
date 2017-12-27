@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione</titolo>
+		<abstract>Pubblicazione del 2016-01-31 16:36:45</abstract>
+		<dataPubblicazioneIndice>2016-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Istituto Comprensivo Salve-Morciano di Leuca</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-31</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comprensivosalvemorciano.gov.it/avcpweb/avcp-indice.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset>http://www.comprensivosalvemorciano.gov.it/avcpweb/avcp-2012.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_2'>
+			<linkDataset>http://www.comprensivosalvemorciano.gov.it/avcpweb/avcp-2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_3'>
+			<linkDataset>http://www.comprensivosalvemorciano.gov.it/avcpweb/avcp-2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_4'>
+			<linkDataset>http://www.comprensivosalvemorciano.gov.it/avcpweb/avcp-2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>
+</indice>
+</indici>

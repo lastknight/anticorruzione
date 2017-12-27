@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Procedure di scelta avviate nel 2015 ed attive stipulate negli anni precedenti</abstract>
+    <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE - N. 5 - QUARTU SANT'ELENA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://ic5quartu.vargiuscuola.it/avcp/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://ic5quartu.vargiuscuola.it/avcp/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201580014420923">
+      <linkDataset>http://ic5quartu.vargiuscuola.it/avcp/gare201580014420923.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201592020550924">
+      <linkDataset>http://ic5quartu.vargiuscuola.it/avcp/gare201592020550924.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

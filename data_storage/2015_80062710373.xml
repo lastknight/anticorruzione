@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione art.1 comma 32 Legge n.190/2012</titolo>
+    <abstract>Pubblicazione art.1 comma 32 Legge n.190/2012</abstract>
+    <dataPubblicazioneIndice>2014-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>COMUNE DI ANZOLA DELL'EMILIA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.comune.anzoladellemilia.bo.it/190/2014/IndiceDataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.comune.anzoladellemilia.bo.it/190/2014/2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.comune.anzoladellemilia.bo.it/190/2014/2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.comune.anzoladellemilia.bo.it/190/2014/2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>   
+  </indice>
+</indici>

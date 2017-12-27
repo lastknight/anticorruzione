@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2010 aggiornamento del 2015-01-12 10:20:31</abstract>
+		<dataPubbicazioneDataset>2015-01-12</dataPubbicazioneDataset>
+		<entePubblicatore>Consorzio M.F. Canale de Ferrari</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-12</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://localhost/avcpweb/xmldir/avcp-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+		<cig>4769072AB4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80005840063</codiceFiscaleProp>
+			<denominazione>CONSORZIO IRRIGUO DI M. F. CANALE DE FERRARI</denominazione>
+		</strutturaProponente>
+		<oggetto>LAVORI DI RIVESTIMENTO CANALE PRINCIPALE.
+TRATTO DA EX IMPIANTO DI SOLLEVAMENTO CANALE NUOVO A SIFONE ATTRAVERSAMENTO FF SS LUNGO LA STRADA NUOVA DEL BOSCO NEI COMUNI DI SOLERO E ALESSANDRIA</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+			<raggruppamento>
+				<membro>
+					<codiceFiscale>00185120045</codiceFiscale>
+					<ragioneSociale>PREVE COSTRUZIONI SPA</ragioneSociale>
+					<ruolo>04-CAPOGRUPPO</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>01999330069</codiceFiscale>
+					<ragioneSociale>COEDIS SRL</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>83000310066</codiceFiscale>
+					<ragioneSociale>GIUSTINIANA SRL</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+			</raggruppamento>
+			<raggruppamento>
+				<membro>
+					<codiceFiscale>01722930011</codiceFiscale>
+					<ragioneSociale>FERRUCCIO ZUBLENA SRL</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>01833500364</codiceFiscale>
+					<ragioneSociale>CONSORZIO STABILE COSEAM ITALIA SPA</ragioneSociale>
+					<ruolo>04-CAPOGRUPPO</ruolo>
+				</membro>
+			</raggruppamento>
+			<raggruppamento>
+				<membro>
+					<codiceFiscale>00865120067</codiceFiscale>
+					<ragioneSociale>PORTALUPI CARLO IMPRESA SPA</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>01582760011</codiceFiscale>
+					<ragioneSociale>MARIETTA SPA</ragioneSociale>
+					<ruolo>04-CAPOGRUPPO</ruolo>
+				</membro>
+			</raggruppamento>
+			<raggruppamento>
+				<membro>
+					<codiceFiscale>00060340056</codiceFiscale>
+					<ragioneSociale>C.R.E.U.M.A. SRL</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>02053280166</codiceFiscale>
+					<ragioneSociale>MAGNETTI BUILDING SPA</ragioneSociale>
+					<ruolo>04-CAPOGRUPPO</ruolo>
+				</membro>
+			</raggruppamento>
+			<partecipante>
+					<codiceFiscale>03889230656</codiceFiscale>
+					<ragioneSociale>CO.ED. SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00243020658</codiceFiscale>
+					<ragioneSociale>RITONNARO COSTRUZIONI SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00471280065</codiceFiscale>
+					<ragioneSociale>EUROCAP SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02831250986</codiceFiscale>
+					<ragioneSociale>MORETTI PREFABBRICATI SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00128240199</codiceFiscale>
+					<ragioneSociale>PAOLO BELTRAMI SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00414890145</codiceFiscale>
+					<ragioneSociale>ZECCA PREFABBRICATI SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01128640032</codiceFiscale>
+					<ragioneSociale>CERUTTI LORENZO SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03975140231</codiceFiscale>
+					<ragioneSociale>CONSORZIO STABILE EUROPEO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00816750251</codiceFiscale>
+					<ragioneSociale>BETON COSTRUZIONI SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00172820243</codiceFiscale>
+					<ragioneSociale>MU.BRE. COSTRUZIONI SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00982520017</codiceFiscale>
+					<ragioneSociale>CO.GE.FA. SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02764870362</codiceFiscale>
+					<ragioneSociale>FEA SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00524000064</codiceFiscale>
+					<ragioneSociale>CODELFA SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03777090014</codiceFiscale>
+					<ragioneSociale>COGEIS SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02018120069</codiceFiscale>
+					<ragioneSociale>ARCADIA COSTRUZIONI SRL</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatarioRaggruppamento>
+				<membro>
+					<codiceFiscale>00185120045</codiceFiscale>
+					<ragioneSociale>PREVE COSTRUZIONI SPA</ragioneSociale>
+					<ruolo>04-CAPOGRUPPO</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>01999330069</codiceFiscale>
+					<ragioneSociale>COEDIS SRL</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+				<membro>
+					<codiceFiscale>83000310066</codiceFiscale>
+					<ragioneSociale>GIUSTINIANA SRL</ragioneSociale>
+					<ruolo>01-MANDANTE</ruolo>
+				</membro>
+			</aggiudicatarioRaggruppamento>
+		</aggiudicatari>
+		<importoAggiudicazione>1778783.00</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2013-08-07</dataInizio>
+		</tempiCompletamento>
+		<importoSommeLiquidate>1603872.98</importoSommeLiquidate>
+		</lotto>
+</data>
+</legge190:pubblicazione>

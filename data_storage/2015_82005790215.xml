@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°2</titolo>
+    <abstract>Pubblicazione relativa all'anno 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Comprensivo in Lingua tedesca Merano/Cittá</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.schule.suedtirol.it/ms-me2/L190/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>www.schule.suedtirol.it/ms-me2/L190/esiti_2012_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>www.schule.suedtirol.it/ms-me2/L190/esiti_2013_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>www.schule.suedtirol.it/ms-me2/L190/esiti_2014_20150129-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

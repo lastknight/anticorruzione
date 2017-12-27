@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice Pubblicazione 1 legge 190</titolo>
+		<abstract>Pubblicazione 1 legge 190 rif. anno 2014</abstract>
+		<dataPubblicazioneIndice>2015-02-06</dataPubblicazioneIndice>
+		<entePubblicatore>CONSORZIO BIM PIAVE TREVISO</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2015-02-06</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.bimpiavetreviso.it/images/pdf/L190/l_190_2012_elenco_anno_2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.bimpiavetreviso.it/images/pdf/L190/l_190_2012_elenco_anno_2014_dati.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-02-06</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

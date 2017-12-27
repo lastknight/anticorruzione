@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Indice pubblicazioni AVCP IPZS</titolo>
+        <abstract>Anno di pubblicazione: 2015</abstract>
+        <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+        <entePubblicatore>Istituto Poligrafico e Zecca dello Stato S.p.A.</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2014</annoRiferimento>
+        <urlFile>http://www.ipzs.it/albofornitori/avcp/index_ipzs_2014.xml</urlFile>
+        <licenza>IODL 2.0 - http://www.dati.gov.it/iodl/2.0/</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_1.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_2.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_3.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_4">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_4.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_5">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_5.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_6">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_6.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+		<dataset id="ID_7">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2014_7.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

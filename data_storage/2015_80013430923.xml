@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Pubblicazione Legge 190 del 2012</abstract>
+    <dataPubblicazioneIndice>2015-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO CLASSICO STATALE G.M.DETTORI - G.M. DETTORI - CAGLIARI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.liceoclassicodettori.it/UserFiles/File/Utenti/ritagessa/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://www.liceoclassicodettori.it/UserFiles/File/Utenti/ritagessa/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

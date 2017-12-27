@@ -16,8 +16,8 @@ def parse_xml(f)
       cig           = l.xpath('//cig')
       oggetto       = l.xpath('//oggetto')
       scelta        = l.xpath('//sceltaContraente')
-      win_fiscale   = l.xpath('//codiceFiscale')
-      win_ragione   = l.xpath('//ragioneSociale')
+      win_fiscale   = l.xpath('//aggiudicatario/codiceFiscale')
+      win_ragione   = l.xpath('//aggiudicatario/ragioneSociale')
       importo       = l.xpath('//importoAggiudicazione')
       results << [cig, oggetto, scelta, win_fiscale, win_ragione, importo]
     end

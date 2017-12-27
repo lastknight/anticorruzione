@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="http://dati.avcp.it/schema/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione n.2014-01 legge 190</titolo>
+    <abstract>Pubblicazione legge 190, dataset 01 di 01 relativo all'anno 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+    <entePubblicatore>Liceo Artistico Sello</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://trasparenza.e-comune.net/public/avcp/ICSELL/Dataset_2014_01.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z500B0986D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[NOLO 125 MINI iPAD SU MEPA]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01803500303</codiceFiscale>
+          <ragioneSociale><![CDATA[P.S. ELETTRONICA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01318720305</codiceFiscale>
+          <ragioneSociale><![CDATA[FRIULCOMPUTER SAS DEL DOTT. SPANGHER G.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01318720305</codiceFiscale>
+          <ragioneSociale><![CDATA[FRIULCOMPUTER SAS DEL DOTT. SPANGHER G.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38250.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>12750.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z421131845</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[15 PC VIA GORIZIA SU MEPA]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA DI PRESELLO GIANNI & C. SNC]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01602170308</codiceFiscale>
+          <ragioneSociale><![CDATA[EUROJAPAN SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01602170308</codiceFiscale>
+          <ragioneSociale><![CDATA[EUROJAPAN SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13425.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-03</dataInizio>
+        <dataUltimazione>2014-12-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13425.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF60EE9203</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[STAMPANTI DOCENTI WIFI MEPA]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>3064.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-09</dataInizio>
+        <dataUltimazione>2014-08-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z660EDE0A2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[PC AULA INSEGNANTI SU MEPA]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA DI PRESELLO GIANNI & C. SNC]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA DI PRESELLO GIANNI & C. SNC]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3366.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-09</dataInizio>
+        <dataUltimazione>2014-08-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3366.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1F0EE91E9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIDEO PROIETTORI SU MEPA]]></oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA DI PRESELLO GIANNI & C. SNC]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01803500303</codiceFiscale>
+          <ragioneSociale><![CDATA[P.S. ELETTRONICA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA DI PRESELLO GIANNI & C. SNC]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3148.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-09</dataInizio>
+        <dataUltimazione>2014-08-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3148.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC20ED7F31</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[15 PC iMAC SU MEPA]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01803500303</codiceFiscale>
+          <ragioneSociale><![CDATA[P.S. ELETTRONICA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01803500303</codiceFiscale>
+          <ragioneSociale><![CDATA[P.S. ELETTRONICA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>16470.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-09</dataInizio>
+        <dataUltimazione>2014-08-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16470.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9510C5881</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ASSICURAZIONE INTEGRATIVA 2014 2015]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale><![CDATA[BENACQUISTA ASSICURAZIONI SNC]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03229370279</codiceFiscale>
+          <ragioneSociale><![CDATA[IBS SRL INSURANCE BROKER]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03967470968</codiceFiscale>
+          <ragioneSociale><![CDATA[AMBIENTESCUOLA SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale><![CDATA[BENACQUISTA ASSICURAZIONI SNC]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4684.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-30</dataInizio>
+        <dataUltimazione>2014-12-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4684.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF0DEC543</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIAGGIO ISTRUZIONE PRAGA 03 2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01078020318</codiceFiscale>
+          <ragioneSociale><![CDATA[NO STOP VIAGGI DI FAM SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01358730305</codiceFiscale>
+          <ragioneSociale><![CDATA[TURISMO 85 SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02353080308</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBERA MENTE SRL  ]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01078020318</codiceFiscale>
+          <ragioneSociale><![CDATA[NO STOP VIAGGI DI FAM SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24691.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-18</dataInizio>
+        <dataUltimazione>2014-04-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>24394.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z350DB4C3D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIAGGIO ISTRUZIONE FIRENZE 03/2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01358730305</codiceFiscale>
+          <ragioneSociale><![CDATA[TURISMO 85 SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01078020318</codiceFiscale>
+          <ragioneSociale><![CDATA[NO STOP VIAGGI DI FAM SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02353080308</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBERA MENTE SRL  ]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01358730305</codiceFiscale>
+          <ragioneSociale><![CDATA[TURISMO 85 SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14060.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-14</dataInizio>
+        <dataUltimazione>2014-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13854.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C117EE59</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIAGGIO ISTRUZIONE BARCELLONA 12/2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01358730305</codiceFiscale>
+          <ragioneSociale><![CDATA[TURISMO 85 SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01078020318</codiceFiscale>
+          <ragioneSociale><![CDATA[NO STOP VIAGGI DI FAM SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02353080308</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBERA MENTE SRL  ]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00540740305</codiceFiscale>
+          <ragioneSociale><![CDATA[ACITUR FRIULIA SRL SOCIO UNICO]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02335380982</codiceFiscale>
+          <ragioneSociale><![CDATA[TO BE INCENTIVE & CONVENTION SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01358730305</codiceFiscale>
+          <ragioneSociale><![CDATA[TURISMO 85 SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20562.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>10281.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z65117EE3B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIAGGIO ISTRUZIONE BERLINO 12/2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01078020318</codiceFiscale>
+          <ragioneSociale><![CDATA[NO STOP VIAGGI DI FAM SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01358730305</codiceFiscale>
+          <ragioneSociale><![CDATA[TURISMO 85 SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02353080308</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBERA MENTE SRL  ]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02335380982</codiceFiscale>
+          <ragioneSociale><![CDATA[TO BE INCENTIVE & CONVENTION SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01078020318</codiceFiscale>
+          <ragioneSociale><![CDATA[NO STOP VIAGGI DI FAM SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15288.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>7644.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z50117EE74</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIAGGIO ISTRUZIONE VIENNA 12/2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02353080308</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBERA MENTE SRL  ]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02335380982</codiceFiscale>
+          <ragioneSociale><![CDATA[TO BE INCENTIVE & CONVENTION SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02368250300</codiceFiscale>
+          <ragioneSociale><![CDATA[NUOVA ERA RSL VOLANDOVIA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00540740305</codiceFiscale>
+          <ragioneSociale><![CDATA[ACITUR FRIULIA SRL SOCIO UNICO]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02353080308</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBERA MENTE SRL  ]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15288.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>7644.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA30C770BE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[4 GIORNI SULLA NEVE 2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01666840309</codiceFiscale>
+          <ragioneSociale><![CDATA[CONSORZIO PROMOZIONE TURISTICA DEL TARVISIANO SELLA NEVEA E PRAMOLLO]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01666840309</codiceFiscale>
+          <ragioneSociale><![CDATA[CONSORZIO PROMOZIONE TURISTICA DEL TARVISIANO SELLA NEVEA E PRAMOLLO]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6236.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-16</dataInizio>
+        <dataUltimazione>2014-04-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6236.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z590F91057</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[LIBRI IN COMODATO AS 14 15]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02680470271</codiceFiscale>
+          <ragioneSociale><![CDATA[LE LIBRERIE SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01944530300</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBRERIA E CARTOLERIA MARINI ]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02407840301</codiceFiscale>
+          <ragioneSociale><![CDATA[FCE UDINE SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00148780356</codiceFiscale>
+          <ragioneSociale><![CDATA[COOP CONSUMATORI NORDEST S.C.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02680470271</codiceFiscale>
+          <ragioneSociale><![CDATA[LE LIBRERIE SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>25792.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-31</dataInizio>
+        <dataUltimazione>2014-10-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>25792.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z580D601D7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[PEER EDUCATION 2° ANNO 2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01992840304</codiceFiscale>
+          <ragioneSociale><![CDATA[ARACON COOPERATIVA SOCIALE ONLUS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>BRGFNC79M62G284M</codiceFiscale>
+          <ragioneSociale><![CDATA[BORGIOLI FRANCESCA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01992840304</codiceFiscale>
+          <ragioneSociale><![CDATA[ARACON COOPERATIVA SOCIALE ONLUS]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-22</dataInizio>
+        <dataUltimazione>2014-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C0DDA1A7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80007200308</codiceFiscaleProp>
+        <denominazione>Liceo Artistico Sello</denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[STAGE LINGUISTICO MALTA 2014]]></oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04046980407</codiceFiscale>
+          <ragioneSociale><![CDATA[LORD BYRON EDUCATIONAL TOURS BY GIADA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02637660305</codiceFiscale>
+          <ragioneSociale><![CDATA[DESTINAZIONE LINGUE]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04224530156</codiceFiscale>
+          <ragioneSociale><![CDATA[INTER-STUDIOVIAGGI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03079470278</codiceFiscale>
+          <ragioneSociale><![CDATA[OBIETTIVO LINGUA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01753050507</codiceFiscale>
+          <ragioneSociale><![CDATA[ZAINETTO VERDE SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04046980407</codiceFiscale>
+          <ragioneSociale><![CDATA[LORD BYRON EDUCATIONAL TOURS BY GIADA SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>32915.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-07</dataInizio>
+        <dataUltimazione>2014-09-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>32915.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

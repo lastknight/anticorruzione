@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione</titolo>
+		<abstract>Pubblicazione del 2016-01-30 12:50:27</abstract>
+		<dataPubblicazioneIndice>2016-01-30</dataPubblicazioneIndice>
+		<entePubblicatore>Abbanoa S.p.A.</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-30</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://avcp.abbanoa.local/xmldir/avcp-indice.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.abbanoa.it/documents/10180/242562/AVCP+-+Dataset+appalti+2012/d8d47d45-08a9-44bd-8d39-5050a54987ac</linkDataset>
+			<dataUltimoAggiornamento>2016-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.abbanoa.it/documents/10180/242562/AVCP+-+Dataset+appalti+2013/27b0c38e-04b4-49ae-be7e-3d1d58cf1ff8</linkDataset>
+			<dataUltimoAggiornamento>2016-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.abbanoa.it/documents/10180/242562/AVCP+-+Dataset+appalti+2014/3bc61e6b-0ffb-4303-8538-14a9e66ee8d8</linkDataset>
+			<dataUltimoAggiornamento>2016-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.abbanoa.it/documents/10180/242562/AVCP+-+Dataset+appalti+2015/a721b2df-266b-4c71-ac61-85cd8045699a</linkDataset>
+			<dataUltimoAggiornamento>2016-01-30</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

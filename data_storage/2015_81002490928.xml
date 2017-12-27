@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione legge 190/2012</titolo>
+    <abstract>Pubblicazione legge 190/2012, anno di riferimento 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO SCIENTIFICO STATALE "E. LUSSU" (SEZIONE ISTITUTO MAGISTRALE ANNESSA) -  - SANT'ANTIOCO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.liceolussu.it/avcp/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://www.liceolussu.it/avcp/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.liceolussu.it/avcp/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

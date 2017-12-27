@@ -1,0 +1,554 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]><html lang="en" class="ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><html lang="en"><![endif]-->
+<!--[if !IE]><html lang="en-US"><![endif]-->
+
+<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8">
+	<!--meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="Con.I.S.A. "Valle di Susa"" />
+	<meta name="description" content="Con.I.S.A. "Valle di Susa"" />
+	<meta name="author" content="">
+	<meta name="URL" content="conisa.it" />
+	<meta property="og:title" content="">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="">
+	<meta property="og:image" content="">
+	<title>Con.I.S.A. "Valle di Susa" - Home</title>
+	<!--<link rel="Shortcut Icon" href="" />-->
+	<link rel="Shortcut Icon" href="../Img/favicon.gif?trickrefreshfavico=27" />
+	<link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=all">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=bootstrap.min">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=bootstrap-theme.min">
+	<!--link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=ekko-lightbox.min"-->
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=bootstrap-datetimepicker.min">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=bootstrap-corrections">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=font-awesome.min">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=flexslider">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=blueimp-gallery.min">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=bootstrap-image-gallery.min">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=accordion">
+	<link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=main">
+	
+	<link rel="stylesheet" type="text/css" href="../css/Pers.css">
+
+	<!--link rel="stylesheet" type="text/css" href="http://www.epublicgov.it/EntWeb/entwebsourcefiles/CaricaCss.asp?css=documenti"-->
+	<!--link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/cupertino/jquery-ui.css"-->	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/vendor/bootstrap-3.3.6.min.js"></script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/vendor/bootstrap-hover-dropdown.min.js"></script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/moment.js"></script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/bootstrap-datetimepicker.js"></script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/it.js"></script>
+	
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/jquery.blueimp-gallery.min.js"></script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/blueimp-gallery-fullscreen.js"></script>
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/bootstrap-image-gallery.min.js"></script>
+	
+	<script src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/cookieconsent.min.js"></script>
+	
+	<script type="text/javascript">
+	//blueimp gallery customization
+	var fullscreenOptions = {
+	    // Defines if the gallery should open in fullscreen mode:
+	    fullScreen: false
+	};
+	//Carousel options
+	var carouselOptions = {
+	    hidePageScrollbars: true,
+	    toggleControlsOnReturn: false,
+	    toggleSlideshowOnSpace: false,
+	    enableKeyboardNavigation: true,
+	    closeOnEscape: true,
+	    closeOnSlideClick: true,
+	    closeOnSwipeUpOrDown: true,
+	    disableScroll: false,
+	    startSlideshow: true
+	};
+	//Indicator options
+	var indicatorOptions = {
+	    // The tag name, Id, element or querySelector of the indicator container:
+	    indicatorContainer: 'ol',
+	    // The class for the active indicator:
+	    activeIndicatorClass: 'active',
+	    // The list object property (or data attribute) with the thumbnail URL,
+	    // used as alternative to a thumbnail child element:
+	    thumbnailProperty: 'thumbnail',
+	    // Defines if the gallery indicators should display a thumbnail:
+	    thumbnailIndicators: true
+	};
+	//Video factory options
+	var videoFactoryOptions = {
+	    // The class for video content elements:
+	    videoContentClass: 'video-content',
+	    // The class for video when it is loading:
+	    videoLoadingClass: 'video-loading',
+	    // The class for video when it is playing:
+	    videoPlayingClass: 'video-playing',
+	    // The list object property (or data attribute) for the video poster URL:
+	    videoPosterProperty: 'poster',
+	    // The list object property (or data attribute) for the video sources array:
+	    videoSourcesProperty: 'sources'
+	};
+	//YouTube options
+	var youTubeOptions = {
+	    // The list object property (or data attribute) with the YouTube video id:
+	    youTubeVideoIdProperty: 'youtube',
+	    // Optional object with parameters passed to the YouTube video player:
+	    // https://developers.google.com/youtube/player_parameters
+	    youTubePlayerVars: undefined,
+	    // Require a click on the native YouTube player for the initial playback:
+	    youTubeClickToPlay: true
+	};
+	//Vimeo options
+	var vimeoOptions = {
+	    // The list object property (or data attribute) with the Vimeo video id:
+	    vimeoVideoIdProperty: 'vimeo',
+	    // The URL for the Vimeo video player, can be extended with custom parameters:
+	    // https://developer.vimeo.com/player/embedding
+	    vimeoPlayerUrl: '//player.vimeo.com/video/VIDEO_ID?api=1&player_id=PLAYER_ID',
+	    // The prefix for the Vimeo video player ID:
+	    vimeoPlayerIdPrefix: 'vimeo-player-',
+	    // Require a click on the native Vimeo player for the initial playback:
+	    vimeoClickToPlay: true
+	};
+	</script>
+	
+	<!--<script>
+			(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+			function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+			e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+			e.src='//www.google-analytics.com/analytics.js';
+			r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+			ga('create','UA-xxxxxxxx-6','auto');ga('send','pageview');
+	</script>
+	-->
+	
+	<script type="text/javascript">
+	/**
+	 * detect IE
+	 * returns version of IE or false, if browser is not Internet Explorer
+	 */
+	function detectIE() {
+	    var ua = window.navigator.userAgent;
+	
+	    var msie = ua.indexOf('MSIE ');
+	    if (msie > 0) {
+	        // IE 10 or older => return version number
+	        return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+	    }
+	
+	    var trident = ua.indexOf('Trident/');
+	    if (trident > 0) {
+	        // IE 11 => return version number
+	        var rv = ua.indexOf('rv:');
+	        return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+	    }
+	
+	    var edge = ua.indexOf('Edge/');
+	    if (edge > 0) {
+	       // IE 12 (aka Edge) => return version number
+	       return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+	    }
+	
+	    // other browser
+	    return parseInt(0);
+	}
+	</script>	
+	
+	<script type="text/javascript" src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/jquery/jquery.flexslider-min.js"></script>
+	
+	<script type="text/javascript">
+		//alert(detectIE()==0);
+		//testata
+	    //$(function(){
+	    //  SyntaxHighlighter.all();
+	    //});
+	
+	    $(window).load(function(){
+	
+				//FIX SU IE NON FUNZIONA IL FADE: se da PDC si personalizza usando FADE, verr&agrave; stampato solo se diverso da IE, altrimenti viene forzato SLIDE
+				if (detectIE()==0) { 															// &egrave; un browser diverso da IE?
+					$('.flexslider').flexslider({ animation: "slide",});   															//String: Select your animation type, "fade" or "slide"
+				} else {
+					$('.flexslider').flexslider({ animation: "slide",});   	//String: Select your animation type, "fade" or "slide"
+				}
+	
+	      $('.flexslider').flexslider({
+					direction: "horizontal",       					//String: Select the sliding direction, "horizontal" or "vertical"
+					slideshow: true,                				//Boolean: Animate slider automatically
+					slideshowSpeed: 7000,           				//Integer: Set the speed of the slideshow cycling, in milliseconds
+					animationSpeed: 600,            				//Integer: Set the speed of animations, in milliseconds
+					randomize: false,               				//Boolean: Randomize slide order
+					animationLoop: true,            				//Boolean: Should the animation loop? If false, directionNav will received "disable" classes at either end
+					pauseOnHover: false,            				//Boolean: Pause the slideshow when hovering over slider, then resume when no longer hovering
+					
+					startAt: 0,                     //Integer: The slide that the slider should start on. Array notation (0 = first slide)
+					initDelay: 0,                   //{NEW} Integer: Set an initialization delay, in milliseconds
+					
+					// Usability features
+					pauseOnAction: true,            //Boolean: Pause the slideshow when interacting with control elements, highly recommended.
+					pauseOnHover: false,            //Boolean: Pause the slideshow when hovering over slider, then resume when no longer hovering
+					
+					// Primary Controls
+					controlNav: true,               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
+					directionNav: true,             //Boolean: Create navigation for previous/next navigation? (true/false)
+					prevText: "Previous",           //String: Set the text for the "previous" directionNav item
+					nextText: "Next",               //String: Set the text for the "next" directionNav item
+					
+					// Secondary Navigation
+					keyboard: true,                 //Boolean: Allow slider navigating via keyboard left/right keys
+					mousewheel: false,              //{UPDATED} Boolean: Requires jquery.mousewheel.js (https://github.com/brandonaaron/jquery-mousewheel) - Allows slider navigating via mousewheel
+					pausePlay: false,               //Boolean: Create pause/play dynamic element
+					pauseText: 'Pause',             //String: Set the text for the "pause" pausePlay item
+					playText: 'Play',               //String: Set the text for the "play" pausePlay item
+					
+					// Special properties
+					controlsContainer: "",          //{UPDATED} Selector: USE CLASS SELECTOR. Declare which container the navigation elements should be appended too. Default container is the FlexSlider element. Example use would be ".flexslider-container". Property is ignored if given element is not found.
+					manualControls: "",             //Selector: Declare custom control navigation. Examples would be ".flex-control-nav li" or "#tabs-nav li img", etc. The number of elements in your controlNav should match the number of slides/tabs.
+					
+					// Callback API
+					//start: function(){},            //Callback: function(slider) - Fires when the slider loads the first slide
+					//before: function(){},           //Callback: function(slider) - Fires asynchronously with each slider animation
+					//after: function(){},            //Callback: function(slider) - Fires after each slider animation completes
+					//end: function(){},              //Callback: function(slider) - Fires when the slider reaches the last slide (asynchronous)				
+					
+					
+	        start: function(slider){
+	          $('body').removeClass('loading');
+	        }
+	      });
+	    });
+			
+		//animazioni homepage
+		$(document).ready(function(){
+			//$(".logoaziendaletestata").animate({
+			//	width: "20%",
+			//	marginLeft: "+=800px",
+			//	opacity: 1
+			//}, 1000);
+			
+			$('.logoaziendaletestata').fadeIn(1500);
+	
+		});
+	</script>
+	
+	<script type="text/javascript">
+	/* Toggle between adding and removing the "active" and "show" classes when the user clicks on one of the "Section" buttons. The "active" class is used to add a background color to the current button when its belonging panel is open. The "show" class is used to open the specific accordion panel */
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+	for (i = 0; i < acc.length; i++) {
+	    acc[i].onclick = function(){
+	        this.classList.toggle("active");
+	        this.nextElementSibling.classList.toggle("show");
+	    }
+	}
+	</script>
+
+
+
+	<!--script async defer src="https://maps.googleapis.com/maps/api/js?v=3.25&key=AIzaSyB1carPUQuryDZ3qtyGpEMaDrpTml_IRII&callback=initMap"></script-->
+	<!--script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.25"></script-->
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDW5JcUDJJSifOSPWJUJGjp6FWEQRdqNCA"></script>
+	
+
+	<!--script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script-->
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-static-top">
+	    <div class="container">
+				
+				<!-- Ricerca Top -->
+				<div class="ricercabloccotop">
+					<form method="get" action="ricerca#briciole" name="formricerca" id="formricerca">
+						<input type="submit" value="" title="Cerca il testo" />
+						<input type="text" id="cercanelsito" name="cercanelsito" title="cerca nel sito..." value="cerca nel sito..." onfocus="form.cercanelsito.value='';" />
+					</form>
+					<div class="cboth"></div>
+				</div>
+			
+	      <!-- Brand and toggle get grouped for better mobile display -->
+	      <div class="navbar-header">
+	        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+	          <span class="sr-only">Toggle navigation</span>
+	          <span class="icon-bar"></span>
+	          <span class="icon-bar"></span>
+	          <span class="icon-bar"></span>
+	        </button>
+	        <!--a class="navbar-brand" href="home">Con.I.S.A. "Valle di Susa"</a-->
+	      </div>
+	      <!-- Collect the nav links, forms, and other content for toggling -->
+	      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav"><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Con.I.S.A.<b class="caret"></b></a><ul class="dropdown-menu">
+<li><a class="innermenuvoce" href="chisiamo#briciole" title="vai alla pagina Chi Siamo"><span>Chi Siamo</span></a></li>
+<li><a class="innermenuvoce" href="dovesiamo#dovesiamo" title="vai alla pagina Dove Siamo"><span>Dove Siamo</span></a></li>
+<li><a class="innermenuvoce" href="sedi#briciole" title="vai alla pagina Sedi e Comuni"><span>Sedi e Comuni</span></a></li>
+<li><a class="innermenuvoce" href="statuto#briciole" title="vai alla pagina Statuto e Atto di Costituzione"><span>Statuto e Atto di Costituzione</span></a></li>
+<li><a class="innermenuvoce" href="strutturaorganizzativa" title="vai alla pagina Struttura Organizzativa"><span>Struttura Organizzativa</span></a></li>
+</li></ul>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Pubblicazioni<b class="caret"></b></a><ul class="dropdown-menu">
+<li><a class="innermenuvoce" href="http://asp.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n1200668" title="vai alla pagina Albo Pretorio" target="_blank"><span>Albo Pretorio</span></a></li>
+<li><a class="innermenuvoce" href="amministrazionetrasparente#briciole" title="vai alla pagina Amministrazione Trasparente"><span>Amministrazione Trasparente</span></a></li>
+<li><a class="innermenuvoce" href="atti#briciole" title="vai alla pagina Atti Amministrativi"><span>Atti Amministrativi</span></a></li>
+<li><a class="innermenuvoce" href="avvisibandiinviti?tipo=1#briciole" title="vai alla pagina Avvisi Bandi ed Inviti"><span>Avvisi Bandi ed Inviti</span></a></li>
+<li><a class="innermenuvoce" href="concorsi?tipo=0#briciole" title="vai alla pagina Concorsi"><span>Concorsi</span></a></li>
+</li></ul>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Aree d'Intervento<b class="caret"></b></a><ul class="dropdown-menu">
+<li><a class="innermenuvoce" href="servizi#briciole" title="vai alla pagina Tutti i Servizi e Attività"><span>Tutti i Servizi e Attività</span></a></li>
+<li><a class="innermenuvoce" href="stranieri?idareaintervento=40" title="vai alla pagina Stranieri, Etranges, Foreigners, Straini"><span>Stranieri, Etranges, Foreigners, Straini</span></a></li>
+<li><a class="innermenuvoce" href="adultidifficolta?idareaintervento=41" title="vai alla pagina Adulti in difficoltà"><span>Adulti in difficoltà</span></a></li>
+<li><a class="innermenuvoce" href="anziani?idareaintervento=38" title="vai alla pagina Anziani"><span>Anziani</span></a></li>
+<li><a class="innermenuvoce" href="disabili?idareaintervento=39" title="vai alla pagina Disabili"><span>Disabili</span></a></li>
+<li><a class="innermenuvoce" href="famiglieminori?idareaintervento=37" title="vai alla pagina Famiglie e Minori"><span>Famiglie e Minori</span></a></li>
+</li></ul>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Documenti<b class="caret"></b></a><ul class="dropdown-menu">
+<li><a class="innermenuvoce" href="cartedeiservizi?idcat=60" title="vai alla pagina Carte dei Servizi"><span>Carte dei Servizi</span></a></li>
+<li><a class="innermenuvoce" href="accordiprogramma?idcat=62" title="vai alla pagina Accordi di Programma"><span>Accordi di Programma</span></a></li>
+<li><a class="innermenuvoce" href="regolamenti?idcat=57#briciole" title="vai alla pagina Regolamenti"><span>Regolamenti</span></a></li>
+<li><a class="innermenuvoce" href="servizidoc#briciole" title="vai alla pagina Documenti - Modulistica"><span>Documenti - Modulistica</span></a></li>
+</li></ul>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Risorse<b class="caret"></b></a><ul class="dropdown-menu">
+<li><a class="innermenuvoce" href="contatti#briciole" title="vai alla pagina Contatti - Scrivici"><span>Contatti - Scrivici</span></a></li>
+<li><a class="innermenuvoce" href="newsletter#briciole" title="vai alla pagina Newsletter"><span>Newsletter</span></a></li>
+<li><a class="innermenuvoce" href="avvisi#briciole" title="vai alla pagina News, Eventi e Attività"><span>News, Eventi e Attività</span></a></li>
+<li><a class="innermenuvoce" href="linkutili#briciole" title="vai alla pagina Link Utili"><span>Link Utili</span></a></li>
+<li><a class="innermenuvoce" href="ricerca#briciole" title="vai alla pagina Ricerca"><span>Ricerca</span></a></li>
+</li></ul>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Informazioni<b class="caret"></b></a><ul class="dropdown-menu">
+<li><a class="innermenuvoce" href="accessibilita#briciole" title="vai alla pagina Accessibilità"><span>Accessibilità</span></a></li>
+<li><a class="innermenuvoce" href="notelegali#briciole" title="vai alla pagina Note Legali"><span>Note Legali</span></a></li>
+<li><a class="innermenuvoce" href="privacy#briciole" title="vai alla pagina Privacy"><span>Privacy</span></a></li>
+<li><a class="innermenuvoce" href="statistiche#briciole" title="vai alla pagina Statistiche"><span>Statistiche</span></a></li>
+<li><a class="innermenuvoce" href="crediti#briciole" title="vai alla pagina Crediti"><span>Crediti</span></a></li>
+</li></ul>
+</ul>
+
+					<ul class="nav navbar-nav">
+							<li><a href="http://mail.conisa.it" target="_blank" class="innermenuvoce2" title="vai alla pagina Web Mail" (apre in nuova scheda)>Web Mail</a></li>
+									<li><a href="areariservatalogin" class="innermenuvoce2" title="entra in Login Area Riservata">Login Area Riservata</a></li>
+							
+					</ul>
+	      </div>
+	      <!-- /.navbar-collapse -->
+	    </div>
+	    <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container bgwhite">
+		
+			<a class="navbar-brand2" href="home">Con.I.S.A. "Valle di Susa"</a>
+		
+			<!-- Sopra Header Mini Menu -->
+			<div class="menutop">
+				
+					<a href="home" class="" title="vai alla HomePage">Home</a>
+				 | <a href="http://mail.conisa.it" target="_blank" class="" title="vai alla pagina Web Mail" (apre in nuova scheda)>Web Mail</a>
+						| <a href="areariservatalogin" class="" title="entra in Login Area Riservata">Login Area Riservata</a>
+					
+				<!--<a href="../en/xml" title="ENG">ENG</a><a href="../it/xml" title="ITA">ITA</a>-->
+			</div>
+
+       <!-- Header Testata -->
+       <header style="border:0px solid orange;">
+					<div class="flexslider">
+<div class="flexsliderborder"></div><ul class="slides">
+<li>
+<a href="home" title="Rocciamelone"><img src="../immagine.asp?T=8&amp;I=98&amp;S=159d0469adf55355d4359ac2e906d683" alt="Rocciamelone" />
+</a>
+</li>
+<li>
+<a href="home" title="Rocciamelone"><img src="../immagine.asp?T=8&amp;I=97&amp;S=29e0b86efd57e7bcfb3f5a529df8577d" alt="Rocciamelone" />
+</a>
+</li>
+<li>
+<a href="home" title="Rocciamelone"><img src="../immagine.asp?T=8&amp;I=96&amp;S=c40006ebafad836f80519d84d9b34a0e" alt="Rocciamelone" />
+</a>
+</li>
+<li>
+<a href="home" title="Conisa"><img src="../immagine.asp?T=8&amp;I=88&amp;S=3e5a72b0e7ddaf551f3799c627c689db" alt="Conisa" />
+</a>
+</li>
+</ul>
+</div>
+
+       </header>
+			 
+			 
+			<div class="bloccobriciolericerca" style="display:table;">
+				<div style="display:table-row;">
+					<div class="briciole" style="display:table-cell;">
+						<a id="briciole"></a><a href="home" title="vai alla Home Page">Home</a>
+					</div>
+					<div class="ricercablocco" style="display:table-cell;">
+						<form method="get" action="ricerca#briciole" name="formricerca" id="formricerca">
+							<input type="submit" value="" title="Cerca il testo" />
+							<input type="text" name="cercanelsito" title="cerca nel sito..." value="cerca nel sito..." onfocus="form.cercanelsito.value='';" />
+						</form>
+						<div class="cboth"></div>
+					</div>
+				</div>
+			</div>
+
+			<hr class="visibilea768"><div class="containermenu"><div style="width:15%" class="bloccomenutop">
+<div class="innermenutitolotop"></div>
+<div class="innermenutitolo">Con.I.S.A.</div>
+<a class="innermenuvoce" href="chisiamo#briciole" title="vai alla pagina Chi Siamo"><span>Chi Siamo</span></a>
+<a class="innermenuvoce" href="dovesiamo#dovesiamo" title="vai alla pagina Dove Siamo"><span>Dove Siamo</span></a>
+<a class="innermenuvoce" href="sedi#briciole" title="vai alla pagina Sedi e Comuni"><span>Sedi e Comuni</span></a>
+<a class="innermenuvoce" href="statuto#briciole" title="vai alla pagina Statuto e Atto di Costituzione"><span>Statuto e Atto di Costituzione</span></a>
+<a class="innermenuvoce" href="strutturaorganizzativa" title="vai alla pagina Struttura Organizzativa"><span>Struttura Organizzativa</span></a>
+</div>
+<div style="width:17%" class="bloccomenutop">
+<div class="innermenutitolotop"></div>
+<div class="innermenutitolo">Pubblicazioni</div>
+<a class="innermenuvoce" href="http://asp.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n1200668" title="vai alla pagina Albo Pretorio" target="_blank"><span>Albo Pretorio</span></a>
+<a class="innermenuvoce" href="amministrazionetrasparente#briciole" title="vai alla pagina Amministrazione Trasparente"><span>Amministrazione Trasparente</span></a>
+<a class="innermenuvoce" href="atti#briciole" title="vai alla pagina Atti Amministrativi"><span>Atti Amministrativi</span></a>
+<a class="innermenuvoce" href="avvisibandiinviti?tipo=1#briciole" title="vai alla pagina Avvisi Bandi ed Inviti"><span>Avvisi Bandi ed Inviti</span></a>
+<a class="innermenuvoce" href="concorsi?tipo=0#briciole" title="vai alla pagina Concorsi"><span>Concorsi</span></a>
+</div>
+<div style="width:21%" class="bloccomenutop">
+<div class="innermenutitolotop"></div>
+<div class="innermenutitolo">Aree d'Intervento</div>
+<a class="innermenuvoce" href="servizi#briciole" title="vai alla pagina Tutti i Servizi e Attività"><span>Tutti i Servizi e Attività</span></a>
+<a class="innermenuvoce" href="stranieri?idareaintervento=40" title="vai alla pagina Stranieri, Etranges, Foreigners, Straini"><span>Stranieri, Etranges, Foreigners, Straini</span></a>
+<a class="innermenuvoce" href="adultidifficolta?idareaintervento=41" title="vai alla pagina Adulti in difficoltà"><span>Adulti in difficoltà</span></a>
+<a class="innermenuvoce" href="anziani?idareaintervento=38" title="vai alla pagina Anziani"><span>Anziani</span></a>
+<a class="innermenuvoce" href="disabili?idareaintervento=39" title="vai alla pagina Disabili"><span>Disabili</span></a>
+<a class="innermenuvoce" href="famiglieminori?idareaintervento=37" title="vai alla pagina Famiglie e Minori"><span>Famiglie e Minori</span></a>
+</div>
+<div style="width:17%" class="bloccomenutop">
+<div class="innermenutitolotop"></div>
+<div class="innermenutitolo">Documenti</div>
+<a class="innermenuvoce" href="cartedeiservizi?idcat=60" title="vai alla pagina Carte dei Servizi"><span>Carte dei Servizi</span></a>
+<a class="innermenuvoce" href="accordiprogramma?idcat=62" title="vai alla pagina Accordi di Programma"><span>Accordi di Programma</span></a>
+<a class="innermenuvoce" href="regolamenti?idcat=57#briciole" title="vai alla pagina Regolamenti"><span>Regolamenti</span></a>
+<a class="innermenuvoce" href="servizidoc#briciole" title="vai alla pagina Documenti - Modulistica"><span>Documenti - Modulistica</span></a>
+</div>
+<div style="width:17%" class="bloccomenutop">
+<div class="innermenutitolotop"></div>
+<div class="innermenutitolo">Risorse</div>
+<a class="innermenuvoce" href="contatti#briciole" title="vai alla pagina Contatti - Scrivici"><span>Contatti - Scrivici</span></a>
+<a class="innermenuvoce" href="newsletter#briciole" title="vai alla pagina Newsletter"><span>Newsletter</span></a>
+<a class="innermenuvoce" href="avvisi#briciole" title="vai alla pagina News, Eventi e Attività"><span>News, Eventi e Attività</span></a>
+<a class="innermenuvoce" href="linkutili#briciole" title="vai alla pagina Link Utili"><span>Link Utili</span></a>
+<a class="innermenuvoce" href="ricerca#briciole" title="vai alla pagina Ricerca"><span>Ricerca</span></a>
+</div>
+<div style="width:13%" class="bloccomenutop">
+<div class="innermenutitolotop"></div>
+<div class="innermenutitolo">Informazioni</div>
+<a class="innermenuvoce" href="accessibilita#briciole" title="vai alla pagina Accessibilità"><span>Accessibilità</span></a>
+<a class="innermenuvoce" href="notelegali#briciole" title="vai alla pagina Note Legali"><span>Note Legali</span></a>
+<a class="innermenuvoce" href="privacy#briciole" title="vai alla pagina Privacy"><span>Privacy</span></a>
+<a class="innermenuvoce" href="statistiche#briciole" title="vai alla pagina Statistiche"><span>Statistiche</span></a>
+<a class="innermenuvoce" href="crediti#briciole" title="vai alla pagina Crediti"><span>Crediti</span></a>
+</div>
+</div><hr>
+
+	<div class="titolosezione">Errore</div>
+	
+				<script type="text/javascript">
+				var acc = document.getElementsByClassName("accordion");
+				var i;
+				for (i = 0; i < acc.length; i++) {
+				    acc[i].onclick = function(){
+				        this.classList.toggle("active");
+				        this.nextElementSibling.classList.toggle("show");
+				  }
+				}
+				</script>
+
+
+       <!-- Footer -->
+       <footer>
+			 
+				<div class="bloccoaddthis">
+					<!-- AddThis Button BEGIN -->
+					<div class="addthis_toolbox addthis_default_style ">
+					<a class="addthis_button_preferred_1"></a>
+					<a class="addthis_button_preferred_2"></a>
+					<a class="addthis_button_preferred_3"></a>
+					<a class="addthis_button_preferred_4"></a>
+					<a class="addthis_button_compact"></a>
+					<a class="addthis_counter addthis_bubble_style"></a>
+					</div>
+					<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+					<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-575ebaf71de5ff3f"></script>
+					<!-- AddThis Button END -->
+				</div>
+				<div class="cboth"></div>
+			 
+
+				
+				
+	       <!--hr-->
+         <div class="row">
+           <div class="col-sm-12">
+       	    	<!--<p>Copyright &copy; EntWeb 2016</p>-->
+							
+							<div class="rigabottom"></div>
+							<div class="menubottom">
+								<div>
+									<a href="dovesiamo#briciole" class="" title="vai alla pagina Contattaci">Contattaci</a> | 
+									<a href="dovesiamo#dovesiamo" class="" title="vai alla pagina Come Raggiungerci">Come Raggiungerci</a> | 
+									<a href="crediti#briciole" class="" title="vai alla pagina Crediti">Crediti</a>
+									<a href="dovesiamo#briciole" class="visoff" title="URP">URP</a>
+								</div>
+							</div>
+							
+							<div id="bottom">
+								
+									<img class="logoaziendalebottom" src="../immagine.asp?T=14&I=18&Size=M&S=893b57954aa2ad75c97300c0a18286a0" alt="Stemma/Logo Con.I.S.A. "Valle di Susa"">
+								
+								<div class="fleft"><strong class="fontsize15">Consorzio Intercomunale Socio-Assistenziale Valle di Susa</strong><br>P.zza S. Francesco, 4 - 10059 Susa (TO)<br>Tel. <a class="telbottomcolor" href="tel:0122.629335">0122.648501</a> - Fax <a class="telbottomcolor" href="tel:0122.629335">0122.629335</a><br>P.IVA <span>07262140010</span> - C.F. <span>96020760011</span><br>email: <a href="mailto:&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#115;&#101;&#103;&#114;&#101;&#116;&#101;&#114;&#105;&#97;&#64;&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#105;&#116;" class="linkevidenza" title="Invia una mail a &#99;&#111;&#110;&#105;&#115;&#97;&#46;&#115;&#101;&#103;&#114;&#101;&#116;&#101;&#114;&#105;&#97;&#64;&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#105;&#116;">&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#115;&#101;&#103;&#114;&#101;&#116;&#101;&#114;&#105;&#97;&#64;&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#105;&#116;</a> - PEC: <a href="mailto:&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#115;&#101;&#103;&#114;&#101;&#116;&#101;&#114;&#105;&#97;&#64;&#112;&#101;&#99;&#46;&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#105;&#116;" class="linkevidenza" title="Invia una mail a &#99;&#111;&#110;&#105;&#115;&#97;&#46;&#115;&#101;&#103;&#114;&#101;&#116;&#101;&#114;&#105;&#97;&#64;&#112;&#101;&#99;&#46;&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#105;&#116;">&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#115;&#101;&#103;&#114;&#101;&#116;&#101;&#114;&#105;&#97;&#64;&#112;&#101;&#99;&#46;&#99;&#111;&#110;&#105;&#115;&#97;&#46;&#105;&#116;</a><br>web: <a href="http://conisa.it" class="linkevidenza" title="conisa.it">conisa.it</a></div>
+							</div>
+							<div id="bottom2">
+								
+								<!--div class="w3cbutton3"><a href="http://validator.w3.org/check?uri=referer" target="_blank" title="vai al validatore xhtml"><div class="w3c">W3C</div><div class="spec">XHTML&nbsp;1.1</div></a></div-->
+								<div class="w3cbutton3"><a href="http://validator.w3.org/check?uri=referer" target="_blank" title="vai al validatore html"><div class="w3c">W3C</div><div class="spec">HTML&nbsp;5.0</div></a></div>
+								<!--img class="w3cbuttonnew" src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/img/W3C_HTML5_certified.png" /-->
+							</div>
+						
+           </div>
+         </div>
+       </footer>
+
+    </div>
+    <!-- /.container -->
+		
+	<!-- Cookie Policy -->
+	<script type="text/javascript">
+	  window.cookieconsent_options = {
+	  message: 'Questo sito utilizza cookie di terze parti per migliorare la tua esperienza di navigazione. Chiudendo questo banner o proseguendo la navigazione in altra maniera, acconsenti all&#180;uso dei cookies. Per maggiori informazioni',
+	  dismiss: 'Accetto',
+	  learnMore: 'clicca qui',
+	  link: 'privacy',
+		target: '_self',
+	  theme: 'dark-bottom'
+	 };
+	</script>
+	<script type="text/javascript" src="http://www.epublicgov.it/EntWeb/entwebsourcefiles/js/cookieconsent.min.js"></script>
+	<!--Cookie Policy -->	
+	
+	<div class="vishid"><script type="text/javascript" src="http://codice.shinystat.com/cgi-bin/getcod.cgi?USER=conisa"></script></div>		
+		
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione legge 190</titolo>
+		<abstract>Indice pubblicazione legge 190</abstract>
+		<dataPubblicazioneIndice>2014-12-31</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Sant'Agata Fossili</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2014-12-31</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.comune.santagatafossili.al.it/download/datasetIndiceAppalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.comune.santagatafossili.al.it/download/datasetAppalti_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

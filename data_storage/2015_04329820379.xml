@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione
+    xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione legge 190/2012</titolo>
+    <abstract>Pubblicazione legge 190/2012</abstract>
+    <dataPubbicazioneDataset>2015-01-27</dataPubbicazioneDataset>
+    <entePubblicatore>Irnerio Srl</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-27</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.unibo.it/dati/irneriosrl/2014/index.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+  <cig>588629544C</cig>
+  <strutturaProponente>
+        <codiceFiscaleProp>04329820379</codiceFiscaleProp>
+        <denominazione>Irnerio Srl</denominazione>
+  </strutturaProponente>
+  <oggetto>Servizio di manutenzione e conduzione impianti tecnologici per gli edfici Irnerio - periodo 01/10/2014 - 30/09/2016</oggetto>
+  <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+  <partecipanti>
+        <partecipante><codiceFiscale>02414891206</codiceFiscale><ragioneSociale>FERRETTI IMPIANTI SRL</ragioneSociale></partecipante>
+    
+
+        <partecipante><codiceFiscale>01543851206</codiceFiscale><ragioneSociale>MUCINI BUILDING TECHNOLOGY</ragioneSociale></partecipante>
+    
+
+        <partecipante><codiceFiscale>00820541209</codiceFiscale><ragioneSociale>SEDI SRL</ragioneSociale></partecipante>
+    
+
+        <partecipante><codiceFiscale>02404330371</codiceFiscale><ragioneSociale>CLIMATECNICA SRL</ragioneSociale></partecipante>
+    
+
+        <partecipante><codiceFiscale>01103180582</codiceFiscale><ragioneSociale>COMBUSTIBILI NUOVA PRENESTINA SPA</ragioneSociale></partecipante>
+    
+
+        <partecipante><codiceFiscale>07149930583</codiceFiscale><ragioneSociale>COFELY ITALIA SPA</ragioneSociale></partecipante>
+    </partecipanti>
+  <aggiudicatari>
+        <aggiudicatario><codiceFiscale>02414891206</codiceFiscale><ragioneSociale>FERRETTI IMPIANTI SRL</ragioneSociale></aggiudicatario>
+    </aggiudicatari>
+  <importoAggiudicazione>104000.00</importoAggiudicazione>
+  <tempiCompletamento><dataInizio>2014-10-01</dataInizio><dataUltimazione>2016-09-30</dataUltimazione></tempiCompletamento>
+  <importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+  </data>
+</legge190:pubblicazione>

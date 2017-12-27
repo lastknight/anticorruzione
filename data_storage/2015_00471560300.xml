@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2014 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2014 - Legge 190/2012 - aggiornamento del 2015-01-29 12:33:14</abstract>
+		<dataPubblicazioneIndice>2015-01-29</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Santa Maria la Longa</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2015-01-29</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile><![CDATA[http://www.comune.santamarialalonga.ud.it/fileadmin/user_santamaria/Amministrazione_Trasparente/XML_AVCP/scadenza_31012015/indice_030104_avcp_dataset_2014.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://www.comune.santamarialalonga.ud.it/fileadmin/user_santamaria/Amministrazione_Trasparente/XML_AVCP/scadenza_31012015/030104_avcp_dataset_2012.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset><![CDATA[http://www.comune.santamarialalonga.ud.it/fileadmin/user_santamaria/Amministrazione_Trasparente/XML_AVCP/scadenza_31012015/030104_avcp_dataset_2013.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_3'>
+			<linkDataset><![CDATA[http://www.comune.santamarialalonga.ud.it/fileadmin/user_santamaria/Amministrazione_Trasparente/XML_AVCP/scadenza_31012015/030104_avcp_dataset_2014.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

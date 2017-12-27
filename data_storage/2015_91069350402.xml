@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice contratti 2014</titolo>
+    <abstract>DATI AVCP 2014 IC MARVELLI</abstract>
+    <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO - ALBERTO MARVELLI - RIMINI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://icmarvelli.scuolerimini.it/multimedia/170/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://icmarvelli.scuolerimini.it/multimedia/170/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://icmarvelli.scuolerimini.it/multimedia/170/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

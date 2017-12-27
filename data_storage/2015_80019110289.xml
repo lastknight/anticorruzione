@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-08</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Torreglia</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-12</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.halleysac.it/c028092/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>5867191F2A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>TRASPORTO SCOLASTICO ANNI SCOLASTICI 2014/2015 2015/2016 2016/2017</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02108190287</codiceFiscale>
+					<ragioneSociale>AUTONOLEGGIO BERIA ADRIANO</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01562970283</codiceFiscale>
+					<ragioneSociale>AUTOSERVIZI CAVINATO</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01559220288</codiceFiscale>
+					<ragioneSociale>AUTOSERVIZI GRAZIANI SNC</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00040270282</codiceFiscale>
+					<ragioneSociale>AUTOSERVIZI PAVAN ADRIANO SAS</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01898930274</codiceFiscale>
+					<ragioneSociale>C.S.S.A.</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02111790289</codiceFiscale>
+					<ragioneSociale>COOPERATIVA SOCIALE SERVIZI E SOLIDARIETA'</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01345490286</codiceFiscale>
+					<ragioneSociale>SEAF BUS</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>04405400286</codiceFiscale>
+					<ragioneSociale>VOYAGER TRAVEL SERVICES SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00040270282</codiceFiscale>
+					<ragioneSociale>AUTOSERVIZI PAVAN ADRIANO SAS</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>40550.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-09-15</dataInizio>
+										<dataUltimazione>2015-06-10</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z950EF3519</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>Comune di Torreglia</denominazione>
+		</strutturaProponente>
+		<oggetto>PRATICHE ISEE CAF CISL</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>03222800280</codiceFiscale>
+					<ragioneSociale>CENTRO INTEGRATO SERVIZI SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>03222800280</codiceFiscale>
+					<ragioneSociale>CENTRO INTEGRATO SERVIZI SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9A0EF3672</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>Comune di Torreglia</denominazione>
+		</strutturaProponente>
+		<oggetto>PRATICHE ISEE CAF CGIL</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01414970283</codiceFiscale>
+					<ragioneSociale>CAF NORDEST SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01414970283</codiceFiscale>
+					<ragioneSociale>CAF NORDEST SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6D13A28E0</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>ABBONAMENTO ANNUALE SOLE 24ORE ON-LINE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00777910159</codiceFiscale>
+					<ragioneSociale>IL SOLE 24 ORE SPA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00777910159</codiceFiscale>
+					<ragioneSociale>SOLE 24 ORE SPA</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>169.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-03-12</dataInizio>
+										<dataUltimazione>2016-03-11</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z5C14023B5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZI OBITERIALI DI DEPOSITO E OSSERVAZIONE DI SALMA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01735030684</codiceFiscale>
+					<ragioneSociale>CASA DI CURA ABANO TERME SPA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>6000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-01-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z80137E2B2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI BROKERAGGO ASSICURATIVO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01112130263</codiceFiscale>
+					<ragioneSociale>CABI BROKER SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01112130263</codiceFiscale>
+					<ragioneSociale>CABI BROKER SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>35369.25</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-06-01</dataInizio>
+										<dataUltimazione>2016-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9314DD405</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO SOSTITUTIVO DI MENSA AZIENDALE MEDIANTE BUONO PASTO ELETTRONICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00464110352</codiceFiscale>
+					<ragioneSociale>CIR FOOD S.C.</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02979410152</codiceFiscale>
+					<ragioneSociale>COMPASS GROUP ITALIA SPA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01014660417</codiceFiscale>
+					<ragioneSociale>EDENRED ITALIA SRL</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01241770997</codiceFiscale>
+					<ragioneSociale>QUI! GROUP SPA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01241770997</codiceFiscale>
+					<ragioneSociale>QUI! GROUP SPA</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>25272.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-01</dataInizio>
+										<dataUltimazione>2018-08-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z87155DCC0</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA LIBRI DI TESTO SCUOLA PRIMARIA A.S.2015/2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>CTTLSS73B27F382N</codiceFiscale>
+					<ragioneSociale>Cart &amp; Shops di Citton Alessio</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02621910286</codiceFiscale>
+					<ragioneSociale>CLESP SRL</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>09498240150</codiceFiscale>
+					<ragioneSociale>VENETO LIBRI SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>8000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-01</dataInizio>
+										<dataUltimazione>2016-04-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9C15757F8</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI RISTORAZIONE A MEZZO PASTO VEICOLATO IN MULTIPORZIONE E FORNITURA PRODOTTI PER ALIMENTAZIONE LATTANTI ASILO NIDO COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00805980158</codiceFiscale>
+					<ragioneSociale>SODEXO ITALIA S.P.A.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>39900.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-01</dataInizio>
+										<dataUltimazione>2017-07-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4115DAAB5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE LOCALI DEL COMUNE DI TORREGLIA . PERIODO 01/10/2015 - 31/12/2018</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI TESORERIA COMUNALE PER IL PERIODO 01/01/2016 - 31/12/2020</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8517ABE20</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>NUMERI CIVICI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02066400405</codiceFiscale>
+					<ragioneSociale>MAGGIOLI S.P.A.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02066400405</codiceFiscale>
+					<ragioneSociale>MAGGIOLI S.P.A.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>300.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-28</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZAE17B7AA4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>CANCELLERIA VARIA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>07922090969</codiceFiscale>
+					<ragioneSociale>HARTEX GROUP</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>07922090969</codiceFiscale>
+					<ragioneSociale>HARTEX GROUP</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>207.23</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-28</dataInizio>
+										<dataUltimazione>2016-02-10</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZCB17B72C5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>CANCELLERIA E TONER</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02778750246</codiceFiscale>
+					<ragioneSociale>SOLUZIONE UFFICIO SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02778750246</codiceFiscale>
+					<ragioneSociale>SOLUZIONE UFFICIO SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>231.88</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-28</dataInizio>
+										<dataUltimazione>2016-02-10</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZB817C02AE</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80019110289</codiceFiscaleProp>
+			<denominazione>COMUNE DI TORREGLIA</denominazione>
+		</strutturaProponente>
+		<oggetto>TONER FAX E STAMPANTE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02778750246</codiceFiscale>
+					<ragioneSociale>SOLUZIONE UFFICIO SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02778750246</codiceFiscale>
+					<ragioneSociale>SOLUZIONE UFFICIO SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>128.04</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-28</dataInizio>
+										<dataUltimazione>2016-02-10</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

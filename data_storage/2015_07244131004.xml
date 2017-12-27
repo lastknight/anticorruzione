@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://www.astralspa.it/trasparenza/datasetIndiceAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+ <metadata> 
+ <titolo>Indice pubblicazione n°1</titolo> 
+ <abstract>Pubblicazione relativa all’anno 2014</abstract> 
+ <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice> 
+ <entePubblicatore>ASTRAL S.P.A.</entePubblicatore> 
+ <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice> 
+ <annoRiferimento>2013</annoRiferimento> 
+ <urlFile>http://www.astralspa.it/trasparenza/indicedataset.xml</urlFile> 
+ <licenza>IODL</licenza> 
+ </metadata> 
+ <indice> 
+ <dataset id="ID_1"> 
+ <linkDataset>http://www.astralspa.it/trasparenza/dataset_2014.xml </linkDataset> 
+ <dataUltimoAggiornamento>2014-04-18</dataUltimoAggiornamento> 
+ </dataset> 
+ </indice> 
+</indici> 

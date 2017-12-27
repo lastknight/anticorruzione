@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<title>Istituto Comprensivo Completo Statale Maleo (Lodi)</title>
+	<link rel="favicon" href="assets/images/favicon.png">
+	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css"> 
+	<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen"> 
+	<link rel="stylesheet" href="assets/css/style.css">
+    <link rel='stylesheet' id='camera-css'  href='assets/css/camera.css' type='text/css' media='all'> 
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<!-- Fixed navbar -->
+	<div class="navbar navbar-inverse">
+		<div class="container">
+			<div class="navbar-header">
+				<!-- Button for smallest screens -->
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+				<a class="navbar-brand" href="index.php">
+					<img src="assets/images/logoiccs.gif" alt="Istituto Comprensivo Completo di Maleo" title="Istituto Comprensivo Completo di Maleo"></a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav pull-right mainNav">
+					<li class="active"><a href="index.php" title="Istituto Comprensivo Completo di Maleo - Home page">Home</a></li>
+					<li><a href="docenti/docenti.php?docenti=1&amp;genitori=0" title="Istituto Comprensivo Completo di Maleo - Area Docenti e ATA">Docenti e ATA</a></li>
+					<li><a href="genitori.php?docenti=0&amp;genitori=1" title="Istituto Comprensivo Completo di Maleo - Area Genitori">Genitori</a></li>
+					<li><a href="https://kescuola.giornaledelprof.it/UserConnection/Login" title="Istituto Comprensivo Completo di Maleo - Registro elettronico">Registro elettronico</a></li>
+					<!--<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="sidebar-right.html">Right Sidebar</a></li>
+							<li><a href="#">Dummy Link1</a></li>
+							<li><a href="#">Dummy Link2</a></li>
+							<li><a href="#">Dummy Link3</a></li>
+						</ul>
+					</li>
+					<li><a href="contact.html">Contact</a></li>-->
+
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+	</div>
+	<!-- /.navbar -->
+
+	<!-- Header -->
+	<header id="head">
+		<div class="container">
+             <div class="heading-text">							
+							<h1 class="animated flipInY delay1">Istituto Comprensivo Completo Statale di Maleo (Lodi)</h1>
+							<p>Una scuola per crescere insieme</p>
+						</div>
+            
+					<div class="fluid_container">                       
+					<div class="camera_emboss pattern_1" id="camera_wrap_4">
+                        <div data-thumb="assets/images/slides/thumbs/img1.jpg" data-src="assets/images/slides/img1.jpg">
+                            <h2>&nbsp;</h2>
+                        </div> 
+                        <div data-thumb="assets/images/slides/thumbs/img2.jpg" data-src="assets/images/slides/img2.jpg">
+                        </div>
+                        <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img3.jpg">
+                        </div> 
+ 						<div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img4.jpg">
+                        </div>
+						<div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img5.jpg">
+                        </div>
+						<div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img6.jpg">
+                        </div>                   </div><!-- #camera_wrap_3 -->
+                </div><!-- .fluid_container -->
+		</div>
+	</header>
+	<!-- /Header -->
+
+  <div class="container">
+    <div class="row">
+					<div class="col-md-3">
+						<div class="grey-box-icon">
+							<div class="icon-box-top grey-box-icon-pos">
+								<a href="docenti/docenti.php?docenti=1&amp;genitori=0" title="Istituto Comprensivo Completo di Maleo - Area Docenti"><img src="assets/images/docenti.gif" alt="Area Docenti" title="Area Docenti" /></a>
+							</div><!--icon box top -->
+							<h4><a href="docenti/docenti.php?docenti=1&amp;genitori=0" title="Istituto Comprensivo Completo di Maleo - Area Docenti e ATA">Docenti e ATA</a></h4>
+						</div><!--grey box -->
+					</div>
+					<!--/span3-->
+					<div class="col-md-3">
+						<div class="grey-box-icon">
+							<div class="icon-box-top grey-box-icon-pos">
+								<a href="genitori.php?docenti=0&amp;genitori=1" title="Istituto Comprensivo Completo di Maleo - Area Genitori"><img src="assets/images/genitori.gif" alt="Area Genitori" title="Area Genitori" /></a>
+							</div><!--icon box top -->
+							<h4><a href="genitori.php?docenti=0&amp;genitori=1" title="Istituto Comprensivo Completo di Maleo - Area Genitori">Genitori</a></h4>
+						</div><!--grey box -->
+					</div>
+					<!--/span3-->
+					<div class="col-md-3">
+						<div class="grey-box-icon">
+							<div class="icon-box-top grey-box-icon-pos">
+								<img src="assets/images/albopretorio.gif" alt="Albo pretorio" title="Albo pretorio" />
+							</div><!--icon box top -->
+							<h4><a href="albopretorio.php?docenti=0&amp;genitori=1" title="Istituto Comprensivo Completo di Maleo - Albo pretorio">Albo pretorio</a></h4>
+						</div><!--grey box -->
+					</div>
+					<!--/span3-->
+					<div class="col-md-3">
+						<div class="grey-box-icon">
+							<div class="icon-box-top grey-box-icon-pos">
+								<a href="http://trasparenza-pa.net/?codcli=SC9484" title="Amministrazione trasparente"><img src="assets/images/ammtrasparente.gif" alt="Amministazione trasparente" title="Amministazione trasparente" /></a>
+							</div><!--icon box top -->
+							<h4><a href="http://trasparenza-pa.net/?codcli=SC9484" title="Amministrazione trasparente">Amministrazione trasparente</a></h4>
+						
+						</div><!--grey box -->
+					</div>
+					<!--/span3-->
+<div class="col-md-3">
+						<div class="grey-box-icon">
+							<div class="icon-box-top grey-box-icon-pos">
+								<a href="albosindacale.php?docenti=0&amp;genitori=1" title="Albo Sindacale"><img src="assets/images/albosindacale.gif" alt="Albo Sindacale" title="Albo Sindacale" /></a>
+							</div><!--icon box top -->
+							<h4><a href="albosindacale.php?docenti=0&amp;genitori=1" title="Albo Sindacale">Albo Sindacale</a></h4>
+						
+						</div><!--grey box -->
+					</div>
+					<!--/span3-->
+					
+	</div>
+</div>
+      <section class="container">
+      <div class="row">
+      	<div class="col-md-8"><div class="title-box clearfix "><h2 class="title-box_primary">In primo piano</h2></div> 
+        	<div class="comunicazioni">
+    <p><strong>22/12/2017</strong><br /> 
+       <span class="blue"><strong>Tanti auguri di Buone Feste!!</strong></span></p> 
+
+                  <p>
+				                      <p>Desidero augurare a tutti i docenti, al personale ATA, a tutti i nostri alunni e le nostre alunne e alle loro famiglie i migliori auguri per un sereno Natale e per un 2018 ricco di soddisfazioni.</p><p>Colgo anche l&#39;occasione per un ringraziamento particolare a tutti coloro che in questo periodo si sono impegnati in modo particolare per la buona riuscita delle numerose feste in giro per i plessi del nostro istituto.</p><p>Buone Feste a tutti,</p><p>Lorenza Badini</p>                </p>
+
+				      </div>            
+
+		<div class="comunicazioni">
+    <p><strong>22/12/2017</strong><br /> 
+       <span class="blue"><strong>Sciopero generale del giorno 8.01.2018</strong></span></p> 
+
+                  <p>
+				                      <p>Si comunica che &egrave; presente nella sezione albo sindacale la comunicazione relativa allo sciopero del giorno 8 gennaio 2018</p>                </p>
+
+				      </div>            
+
+		<div class="comunicazioni">
+    <p><strong>21/12/2017</strong><br /> 
+       <span class="blue"><strong>Pubblicazione determina e manifestazione di interesse per VIAGGI DI ISTRUZIONE</strong></span></p> 
+
+                  <p>
+				                      <p>Si comunica che in data odierna all&#39;Albo Pretorio &egrave; stata pubblicata la determina e relativi allegati in merito ai viaggi di istruzione, uscite didattiche a.s. 2017-2018.</p><p>f.to LA&nbsp; DIRIGENTE SCOLASTICA</p><p>(Prof.ssa&nbsp; Lorenza Badini)</p><p>Firma autografa sostituita a mezzo stampa</p><p>Ai sensi dell&rsquo;art. 3, comma 2 del d.lgs n. 39/1993</p>                </p>
+
+				      </div>            
+
+		<div class="comunicazioni">
+    <p><strong>12/12/2017</strong><br /> 
+       <span class="blue"><strong>Pubblicazione esito avviso di selezione di esperti madrelingua inglese i</strong></span></p> 
+
+                  <p>
+				                      <p>Si comunica che in data odierna &egrave; stato pubblicato in Albo Pretorio, nella sezione Bandi e Gare, l&#39;esito dell&#39;avviso di selezione di esperti madrelingua inglese in progetti CLIL e Workshops teatrali in lingua</p><p>Cordiali saluti</p><p>&nbsp;</p><p>La Dirigente Scolastica</p><p>&nbsp;&nbsp;&nbsp; Lorenza Badini</p>                </p>
+
+				      </div>            
+
+		<div class="comunicazioni">
+    <p><strong>12/12/2017</strong><br /> 
+       <span class="blue"><strong>Progetto Indovinare la Vita 20172018</strong></span></p> 
+
+                  <p>
+				                      <p><strong>Alla cortese attenzione dei genitori degli alunni e delle alunne delle classi seconde secondaria I grado:</strong></p><p>In data odierna &egrave; stata pubblicata la circolare relativa al progetto Indovinare la Vita a.s. 2017/2018, inviata anche via registro elettronico.</p><p>Chiedo cortesemente ai genitori di compilare il questionario elettronico anonimo raggiungibile dalla circolare entro il 18/12/2017.</p><p>Vi attendo numerosi all&#39;incontro del 22 gennaio a Codogno presso la sede di Confartigianato di via Garibaldi.</p><p>Cordiali saluti</p><p>Lorenza Badini</p>                </p>
+
+				    <p>Allegato: <a href="comunicazioni_allegati/Circ. n. 72 Indovinare la Vita.doc" title="Progetto Indovinare la Vita 20172018">Circ. n. 72 Indovinare la Vita.doc</a></p>
+       </div>            
+
+		<div class="comunicazioni">
+    <p><strong>04/12/2017</strong><br /> 
+       <span class="blue"><strong>Sciopero generale del 15.12.2017</strong></span></p> 
+
+                  <p>
+				                      <p>Si comunica che &egrave; presente nella sezione albo sindacale la comunicazione relativa allo sciopero del 15 dicembre 2017</p>                </p>
+
+				      </div>            
+
+		<div class="comunicazioni">
+    <p><strong>22/11/2017</strong><br /> 
+       <span class="blue"><strong>Avviso di selezione esperti madrelingua inglese</strong></span></p> 
+
+                  <p>
+				                      <p>Si comunica che in data odierna &egrave; stato pubblicato in Albo Pretorio, nella sezione Bandi e Gare, l&#39;avviso di selezione esperti madrelingua inglese in progetti CLIL e Workshops teatrali in lingua.</p><p>&nbsp;</p><p>Cordiali saluti<br />Lorenza Badini</p>                </p>
+
+				      </div>            
+
+	</div>
+              
+          
+          <div class="col-md-4"><div class="title-box clearfix ">
+<p><img src="assets/images/scuolaamica.gif" alt="Verso una Scuola Amica - Scuola attestata 2017" title="Verso una Scuola Amica - Scuola attestata 2017" /></p>
+<h2 class="title-box_primary">Link utili</h2></div> 
+            <div class="list styled custom-list">
+<p><a href="indexOLD.php" title="Istituto Comprensivo Completo di Maleo - Vecchio sito web"><img src="assets/images/vecchiosito.png" alt=" - Vecchio sito web" title=" - Vecchio sito web" /></a></p>
+           	<p><a href="https://kescuola.giornaledelprof.it/UserConnection/Login" title="Istituto Comprensivo Completo di Maleo - Registro elettronico"><img src="assets/images/banner_keScuola.png" alt="Registro elettronico" title="Registro elettronico" /></a></p>
+            <p><a href="http://cercalatuascuola.istruzione.it" title="Scuola in chiaro: cerca le scuole, esamina e confronta le loro caratteristiche"><img src="assets/images/banner_ScuolaInChiaro.png" alt="Scuola in chiaro" title="Scuola in chiaro" /></a></p>
+            <p><a href="http://www.istruzione.it/iscrizionionline" title="Iscrizioni on line"><img src="assets/images/banner_iscrizioniOnline_17-18.png" alt="Iscrizioni on line" title="Iscrizioni on line" /></a></p>
+             <p><a href="http://www.istruzione.it/" title="Ministero dell'Istruzione, dell'Universit&agrave; e della Ricerca"><img src="assets/images/banner_miur.png" alt="Ministero dell'Istruzione, dell'Universit&agrave; e della Ricerca" title="Ministero dell'Istruzione, dell'Universit&agrave; e della Ricerca" /></a></p>
+            <p><a href="http://usr.istruzione.lombardia.gov.it" title="Ufficio Scolastico Regionale per la Lombardia"><img src="assets/images/banner_usrlombardia.png" alt="Ufficio Scolastico Regionale per la Lombardia" title="Ufficio Scolastico Regionale per la Lombardia" /></a></p>
+            <p><a href="http://www.istruzione.lombardia.gov.it/lodi/" title="Ufficio Scolastico Regionale per la Lombardia Lodi"><img src="assets/images/banner_atlodi.png" alt="Ufficio Scolastico Regionale per la Lombardia - Lodi" title="Ufficio Scolastico Regionale per la Lombardia - Lodi" /></a></p>
+<p><a href="http://www.invalsi.it" title="Invalsi"><img src="assets/images/invalsi.png" alt="Istituto Nazionale per la valutazione del sistema educativo di istruzione e formazione" title="Istituto Nazionale per la valutazione del sistema educativo di istruzione e formazione" /></a></p>
+<p><a href="http://www.planyourfuture.eu" title="Plan your future"><img src="assets/images/planyourfuture.png" alt="Plan your future" title="Plan your future" /></a></p>
+
+           
+            </div>
+         </div>
+      </div>
+      </section>
+      
+    	 
+    <footer id="footer">
+ 
+		<div class="container">
+			<div class="social text-center">
+<p><img src="assets/images/pon.jpg" alt="" /></p>
+			</div>
+
+			<div class="clear"></div>
+		<!--CLEAR FLOATS-->
+		</div>
+		<div class="footer2">
+			<div class="container">
+				<div class="social text-center">
+				<p>ICCS Maleo - via Manfredi, 29 - 26847 Maleo (LODI) - Tel. 0377 58086 - Fax 0377 58728 - C.F. 82503060152 - C.M. LOIC806002 - PEC: <a herf="mailto:loic806002@istruzione.it">loic806002@pec.istruzione.it</a> - e-mail:<a herf="mailto:loic806002@istruzione.it">loic806002@istruzione.it</a></p>
+			<p>Coordinate bancarie: IBAN IT 63 R 05034 32950 000000001427 - intestato a: ICCS &quot;Aldo Moro&quot; Maleo - presso: Banca Popolare di Lodi</p>
+			</div>
+				<!-- /row of panels -->
+			</div>
+		</div>
+	</footer>
+		
+	</footer>
+
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="assets/js/modernizr-latest.js"></script> 
+	<script type='text/javascript' src='assets/js/jquery.min.js'></script>
+    <script type='text/javascript' src='assets/js/fancybox/jquery.fancybox.pack.js'></script>
+    
+    <script type='text/javascript' src='assets/js/jquery.mobile.customized.min.js'></script>
+    <script type='text/javascript' src='assets/js/jquery.easing.1.3.js'></script> 
+    <script type='text/javascript' src='assets/js/camera.min.js'></script> 
+    <script src="assets/js/bootstrap.min.js"></script> 
+	<script src="assets/js/custom.js"></script>
+    <script>
+		jQuery(function(){
+			
+			jQuery('#camera_wrap_4').camera({
+                transPeriod: 500,
+                time: 3000,
+				height: '600',
+				loader: 'false',
+				pagination: true,
+				thumbnails: false,
+				hover: false,
+                playPause: false,
+                navigation: false,
+				opacityOnGrid: false,
+				imagePath: 'assets/images/'
+			});
+
+		});
+      
+	</script>
+    
+</body>
+</html>

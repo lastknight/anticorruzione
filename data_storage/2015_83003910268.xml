@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione dataset</titolo>
+<abstract>Pubblicazione dell'indice della Comunita' Montana del Grappa: Legge 190 del 2012 art.1 comma 32</abstract>
+<dataPubblicazioneIndice>2015-04-02</dataPubblicazioneIndice>
+<entePubblicatore>Comunita' Montana del Grappa</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2015-02-04</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2014</annoRiferimento>
+<urlFile>https://cdn1.regione.veneto.it/alfstreaming-servlet/streamer/resourceId/7ad24a58-31c0-4593-b2a5-e988d8eed8e5/indice_2014.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>https://cdn1.regione.veneto.it/alfstreaming-servlet/streamer/resourceId/3d96f8fb-3b33-4808-8652-591c1edb066e/xml_avcp_2014.xml</linkDataset>
+<dataUltimoAggiornamento>2015-02-04</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>
+

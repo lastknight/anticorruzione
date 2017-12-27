@@ -1,0 +1,41 @@
+<leg:pubblicazione xmlns:leg="legge190_1_0">
+  <metadata>
+    <titolo>Bandi di gara e contratti</titolo>
+    <abstract>Bandi di gara e contratti 2014</abstract>
+    <dataPubbicazioneDataset>2015-02-17</dataPubbicazioneDataset>
+    <entePubblicatore>C.C.I.A.A DI PALERMO</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-02-17</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.pubblicamera.infocamere.it/gpub/risorsa/5384799</urlFile>
+    <licenza xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z0411451FA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80016730824</codiceFiscaleProp>
+        <denominazione>C.C.I.A.A DI PALERMO</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento servizio di cassa e tesoreria</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00348170101</codiceFiscale>
+          <ragioneSociale>UniCredit S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00348170101</codiceFiscale>
+          <ragioneSociale>UniCredit S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2019-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0</importoSommeLiquidate>
+    </lotto>
+  </data>
+</leg:pubblicazione>

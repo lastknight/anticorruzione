@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" 
+ xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+   <metadata>
+      <titolo>Pubblicazione 1 legge 190</titolo>
+      <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2014</abstract>
+      <dataPubbicazioneDataset>2015-01-21</dataPubbicazioneDataset>
+      <entePubblicatore>Autoservizi F.V.G. Spa - SAF</entePubblicatore>
+      <dataUltimoAggiornamentoDataset>2014-12-31</dataUltimoAggiornamentoDataset>
+      <annoRiferimento>2014</annoRiferimento>
+      <urlFile>http://www.saf.ud.it/CMS/Files/dataset2014.xml</urlFile>
+      <licenza/>
+   </metadata>
+   <data>
+      <lotto>
+         <cig>52871695E1</cig>
+         <strutturaProponente>
+            <codiceFiscaleProp>00500670310</codiceFiscaleProp>
+            <denominazione>Ufficio Acquisti</denominazione>
+         </strutturaProponente>
+         <oggetto>FORNITURA DI GAS METANO PER AUTOTRAZIONE</oggetto>
+         <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+         <partecipanti>
+            <partecipante>
+               <codiceFiscale>02264130309</codiceFiscale>
+               <ragioneSociale>AMGA ENERGIA e SERVIZI S.R.L.</ragioneSociale>
+            </partecipante>
+         </partecipanti>
+         <aggiudicatari>
+            <aggiudicatario>
+               <codiceFiscale>02264130309</codiceFiscale>
+               <ragioneSociale>AMGA ENERGIA e SERVIZI S.R.L.</ragioneSociale>
+            </aggiudicatario>
+         </aggiudicatari>
+         <importoAggiudicazione>700000.00</importoAggiudicazione>
+         <tempiCompletamento>
+            <dataInizio>2014-10-01</dataInizio>
+            <dataUltimazione>2015-09-30</dataUltimazione>
+         </tempiCompletamento>
+         <importoSommeLiquidate>0.00</importoSommeLiquidate>
+      </lotto>
+   </data>
+</legge190:pubblicazione>

@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Cosea_Gare_Appalto_2014</titolo>
+    <abstract>gare appalto (COSEA)</abstract>
+    <dataPubbicazioneDataset>2015-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>COSEA - Consorzio Servizi Ambientali</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-29</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.cosea.bo.it/Cosea_Gare_Appalto_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>5051983441</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI RELATIVI AL CONSOLIDAMENTO DEL VERSANTE CON POZZI STRUTTURALI E LINEE DRENANTI A RIDOSSO DEL QUINTO SETTORE - DISCARICA DI CA’ DEI LADRI SILLA DI GAGGIO MONTANO BO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>	CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02155490366</codiceFiscale>
+          <ragioneSociale>	LAMI Costruzioni srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>	ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>	CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>439416.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-29</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>51036186CD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI – DISCARICA DI CÀ DEI LADRI - CONSOLIDAMENTO SOMMITALE VERSANTE A MONTE DEL V° SETTORE</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BRTFBA62H17B572K</codiceFiscale>
+          <ragioneSociale>BERTACCI FABIO </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl,</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02155490366</codiceFiscale>
+          <ragioneSociale>LAMI Costruzioni srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl,</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>429614.32</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-31</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5148097808</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI - AMPLIAMENTO MEDIANTE COMPLETAMENTO DEL III E IV SETTORE E REALIZZAZIONE DEL V SETTORE - REALIZZAZIONE DI FONDAZIONI PROFONDE DELLA VASCA 10 E DELLE OPERE COMPLEMENTARI </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00916510365</codiceFiscale>
+          <ragioneSociale>CME Consorzio Imprenditori Edili</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00398620369</codiceFiscale>
+          <ragioneSociale>EDILRIVA srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>	CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02155490366</codiceFiscale>
+          <ragioneSociale>	LAMI Costruzioni srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>	ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00916510365</codiceFiscale>
+          <ragioneSociale>CME Consorzio Imprenditori Edili</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>257400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-06-15</dataInizio>
+        <dataUltimazione>2014-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5186904097</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI - AMPLIAMENTO MEDIANTE COMPLETAMENTO DEL III E IV SETTORE E REALIZZAZIONE DEL V SETTORE - REALIZZAZIONE DI OPERE DI SPECIE IN CEMENTO ARMATO DELLA VASCA 10 E DELLE OPERE COMPLEMENTARI</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02776391209</codiceFiscale>
+          <ragioneSociale>BERNARDI SERGIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00309790376</codiceFiscale>
+          <ragioneSociale>C.A.F.A.R. Sccrl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00323190371</codiceFiscale>
+          <ragioneSociale>C.a.S.P. Valle del Brasimone</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02155490366</codiceFiscale>
+          <ragioneSociale>	LAMI Costruzioni srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>	ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02155490366</codiceFiscale>
+          <ragioneSociale>	LAMI Costruzioni srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>375952.72</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-03</dataInizio>
+        <dataUltimazione>2014-11-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5279848C64</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>RIPRISTINO AMBIENTALE III° SETTORE VASCHE 4 E 5 - SISTEMAZIONE A VERDE - DISCARICA DI CA’ DEI LADRI SILLA DI GAGGIO MONTANO BO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01227390372</codiceFiscale>
+          <ragioneSociale>Avola Società Cooperativa</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00323190371</codiceFiscale>
+          <ragioneSociale>C.a.S.P. Valle del Brasimone</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02834960367</codiceFiscale>
+          <ragioneSociale>Casa Fontana soc. coop. agr. for</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00323190371</codiceFiscale>
+          <ragioneSociale>C.a.S.P. Valle del Brasimone</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>164822.99</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-07</dataInizio>
+        <dataUltimazione>2014-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5279780449</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI RIPRISTINO AMBIENTALE VASCHE 6 E 7 PRIMO STRALCIO - MOVIMENTO TERRA, REGIMAZIONE ACQUE SUPERFICIALI E ADEGUAMENTO RETI TECNOLOGICHE DISCARICA DI CA’ DEI LADRI SILLA DI GAGGIO MONTANO BO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03047870377</codiceFiscale>
+          <ragioneSociale> UNIFICA Soc.Coop</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03468400373</codiceFiscale>
+          <ragioneSociale>BARACCANI snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02776391209</codiceFiscale>
+          <ragioneSociale>BERNARDI SERGIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02255520369</codiceFiscale>
+          <ragioneSociale>IOLA COSTRUZIONI srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03047870377</codiceFiscale>
+          <ragioneSociale> UNIFICA Soc.Coop</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>199538.07</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-07</dataInizio>
+        <dataUltimazione>2014-10-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5204053862</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI - INTERVENTI DI REALIZZAZIONE E SISTEMAZIONE DELLA LINEA D’ACQUA PRINCIPALE COSIDDETTA “CAPOFOSSO”</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03047870377</codiceFiscale>
+          <ragioneSociale> UNIFICA Soc.Coop</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01781420383</codiceFiscale>
+          <ragioneSociale>ALBIERI Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00398620369</codiceFiscale>
+          <ragioneSociale>EDILRIVA srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01710980473</codiceFiscale>
+          <ragioneSociale>ELLEDILIZIA Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03047870377</codiceFiscale>
+          <ragioneSociale> UNIFICA Soc.Coop</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>133786.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-24</dataInizio>
+        <dataUltimazione>2014-10-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>538226840F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI - DISCARICA DI CÀ DEI LADRI - REALIZZAZIONE QUINTO SETTORE IMPERMEABILIZZAZIONI VASCA 10</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03468400373</codiceFiscale>
+          <ragioneSociale>BARACCANI snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl,</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00398620369</codiceFiscale>
+          <ragioneSociale>EDILRIVA srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>	ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl,</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>142260.04</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-09</dataInizio>
+        <dataUltimazione>2014-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5415345410</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI - GESTIONE OPERATIVA VASCA 10 - REALIZZAZIONE PIAZZOLA DI SCARICO QUOTA - 389 SLM E VIABILITÀ RELATIVA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02776391209</codiceFiscale>
+          <ragioneSociale>BERNARDI SERGIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>BRTFBA62H17B572K</codiceFiscale>
+          <ragioneSociale>BERTACCI FABIO </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00398620369</codiceFiscale>
+          <ragioneSociale>EDILRIVA srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02255520369</codiceFiscale>
+          <ragioneSociale>IOLA COSTRUZIONI srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02776391209</codiceFiscale>
+          <ragioneSociale>BERNARDI SERGIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>107707.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-30</dataInizio>
+        <dataUltimazione>2014-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5189869F5E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERASSINO DRENANATE</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02076110242</codiceFiscale>
+          <ragioneSociale>GEOSINTEX srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00795700152</codiceFiscale>
+          <ragioneSociale>Officine Maccaferri SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00795700152</codiceFiscale>
+          <ragioneSociale>Officine Maccaferri SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>62000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-03</dataInizio>
+        <dataUltimazione>2015-07-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>531824636F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI RIPRISTINO AMBIENTALE VASCHE 6 E 7 - FORNITURA MATERASSINO DRENANATE</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00795700152</codiceFiscale>
+          <ragioneSociale>Officine Maccaferri SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00795700152</codiceFiscale>
+          <ragioneSociale>Officine Maccaferri SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>57600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-21</dataInizio>
+        <dataUltimazione>2014-04-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5634469EE5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>Discarica di Cà dei Ladri Silla (BO). Lavori di realizzazione del V° settore. Opere di consolidamento del versante con pozzi strutturali e linee drenanti 2° Stralcio </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03047870377</codiceFiscale>
+          <ragioneSociale> UNIFICA Soc.Coop</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03468400373</codiceFiscale>
+          <ragioneSociale>BARACCANI snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02776391209</codiceFiscale>
+          <ragioneSociale>BERNARDI SERGIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02487951200</codiceFiscale>
+          <ragioneSociale>CO.AR.CO Consorzio Artigiani Costruttori Soc. Cons. arl,</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00398620369</codiceFiscale>
+          <ragioneSociale>EDILRIVA srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02155490366</codiceFiscale>
+          <ragioneSociale>LAMI Costruzioni srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>	ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>	ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>241524.71</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-20</dataInizio>
+        <dataUltimazione>2014-12-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>553977709A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI MOVIMENTO TERRA PER LA REALIZZAZIONE DEGLI ARGINI E COPERTURE E PER LA MANUTENZIONE ORDINARIA DELLA DISCARICA DI CA’ DEI LADRI </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00309790376</codiceFiscale>
+          <ragioneSociale>C.A.F.A.R. Sccrl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00309790376</codiceFiscale>
+          <ragioneSociale>C.A.F.A.R. Sccrl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>420216.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-01</dataInizio>
+        <dataUltimazione>2016-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>56708705F6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZI DI MANUTENZIONE DA SVOLGERSI PRESSO L’’IMPIANTO DI COGENERAZIONE PER LA VALORIZZAZIONE ENERGETICA DEL BIOGAS PRESSO IL SITO DISCARICA LOCALITÀ CÀ DE LADRI N. 253 IN GAGGIO MONTANO (BO)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12891510153</codiceFiscale>
+          <ragioneSociale>GUASCOR Italia S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12891510153</codiceFiscale>
+          <ragioneSociale>GUASCOR Italia S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>60800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-25</dataInizio>
+        <dataUltimazione>2015-01-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>57230992B3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI UN VAGLIO A TAMBURONUOVO DI FABBRICA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01674190028</codiceFiscale>
+          <ragioneSociale> CGT spa </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00619950280</codiceFiscale>
+          <ragioneSociale>ADRIATICA COMMERCIALE </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03024640272</codiceFiscale>
+          <ragioneSociale>CESARO MAC IMPORT</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02376990210</codiceFiscale>
+          <ragioneSociale>W LADURNER SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01674190028</codiceFiscale>
+          <ragioneSociale> CGT spa </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>182000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-29</dataInizio>
+        <dataUltimazione>2014-06-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5835003CCA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>AMPLIAMENTO DISCARICA DI CÀ DEI LADRI SILLA BOLOGNA. REALIZZAZIONE V° SETTORE OPERE DI SBANCAMENTO DELLA VASCA 11</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03468400373</codiceFiscale>
+          <ragioneSociale>BARACCANI Snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>BRTFBA62H17B572K</codiceFiscale>
+          <ragioneSociale>BERTACCI FABIO </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00309790376</codiceFiscale>
+          <ragioneSociale>C.A.F.A.R. Sccrl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00829461201</codiceFiscale>
+          <ragioneSociale>COSEUR SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03468400373</codiceFiscale>
+          <ragioneSociale>BARACCANI Snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>130087.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-20</dataInizio>
+        <dataUltimazione>2015-01-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X9B0BB9CDC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>DISCARICA DI CÀ DEI LADRI - REALIZZAZIONE DEL QUINTO SETTORE - STRUTTURA DI BASE DEL COMPARTO SUD CON TUNNEL VASCA 11 -</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02776391209</codiceFiscale>
+          <ragioneSociale>BERNARDI SERGIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03047870377</codiceFiscale>
+          <ragioneSociale>CONSORZIO UNIFICA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00398620369</codiceFiscale>
+          <ragioneSociale>EDILRIVA srl </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02378870360</codiceFiscale>
+          <ragioneSociale>ZACCARIA COSTRUZIONI Srl </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X630F914FF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI MATERIALE INERTE DA UTILIZZARE PER LA GESTIONE DELLA DISCARICA DI CÀ DEI LADRI SILLA - GAGGIO MONTANO (BO) </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00309790376</codiceFiscale>
+          <ragioneSociale>C.A.F.A.R. Sccrl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02123810370</codiceFiscale>
+          <ragioneSociale>CVE MISA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03479660379</codiceFiscale>
+          <ragioneSociale>EREDI RICCIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00279260368</codiceFiscale>
+          <ragioneSociale>FRANTOIO FONDOVALLE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02123810370</codiceFiscale>
+          <ragioneSociale>CVE MISA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>29265.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-15</dataInizio>
+        <dataUltimazione>2016-08-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5957172DD6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI RIPARAZIONE DEL COGENERATORE GUASCOR SFGLD480 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00246370986</codiceFiscale>
+          <ragioneSociale>GRR MOTORI srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00246370986</codiceFiscale>
+          <ragioneSociale>GRR MOTORI srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>50546.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-20</dataInizio>
+        <dataUltimazione>2015-02-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6034355B44</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02460390376</codiceFiscaleProp>
+        <denominazione>COSEA - Consorzio Servizi Ambientali</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento fornitura di Blocco Motore F480/97 da sostituire nel motore GUASCOR SFGLD 480</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12891510153</codiceFiscale>
+          <ragioneSociale>GUASCOR Italia S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12891510153</codiceFiscale>
+          <ragioneSociale>GUASCOR Italia S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>580000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

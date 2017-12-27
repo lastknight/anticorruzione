@@ -1,0 +1,713 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="imagetoolbar" content="no" >
+<meta name="Pragma" content="no-cache" >
+<meta name="RATING" content="General">
+<meta name="REVISIT-AFTER" content="5 days">
+
+<meta name="description" content="Sito Ufficiale di Liscate - ">
+<meta name="robots" content="noindex,nofollow" >
+<title>Comune di Liscate | </title>
+<meta property="og:title" content="" >
+<meta property="og:type" content="article" >
+<meta property="og:url" content="http://www.comune.liscate.mi.it/Pagine_Errore/Pagina_404_Nuovo_sito.asp?404;http://www.comune.liscate.mi.it:80/images/stories/avcp_dataset_2014.xml" >
+<meta property="og:image" content="http://www.comune.liscate.mi.it/interfaccia/LSC/immagini/Social.png" >		
+<meta property="og:site_name" content="Liscate" >
+<meta property="og:language" content="italian it">
+<meta property="og:author" content="Si.Net Servizi Informatici - www.sinetinformatica.it">
+<meta property="og:url" content="http://www.comune.liscate.mi.it/Pagine_Errore/Pagina_404_Nuovo_sito.asp?404;http://www.comune.liscate.mi.it:80/images/stories/avcp_dataset_2014.xml" >
+<meta name="keywords" content="Liscate, comune, pubblicazioni, news, notizie, bandi, gare, manifestazioni, iniziative, associazioni, servizi, utilità, scuole, farmacie, sport, delibere, determine, ordinanze">
+
+<script type="text/javascript" src="/Script/funzioni.js"></script>
+<script type="text/javascript" src="/Script/F_Data.js"></script>
+<script type="text/javascript" src="/Script/Usabilita.js"></script>
+<script type="text/javascript" src="/Script/jquery-1.2.3.js"></script>
+<script type="text/javascript" src="/Script/AC_RunActiveContent.js"></script>
+<script type="text/javascript">
+    function Go_Archivio(foo)	
+    {this.window.location = foo	}
+	function clickThis(elem){
+		window.location=$(elem).find("a").attr("href");
+		return false; 
+	}
+</script>
+ 
+<script  type="text/javascript">
+function Funzioni_onLoad() {}
+
+function Funzioni_onUnload(){}
+</script>
+
+<link rel="icon" href="/Interfaccia/LSC/favicon.ico" type="image/gif" >
+<link rel="stylesheet" href="/interfaccia/LSC/Stili/presentational.css" type="text/css"  media="screen">
+<link rel="stylesheet" href="/Interfaccia/LSC/Stili/Stili.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/interfaccia/LSC/Stili/fa430/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/Stile_Stampa.css" type="text/css" media="print">
+<!--[if IE]><link rel="stylesheet" type="text/css"      href="/Interfaccia/LSC/Stili/alliefix.css" title="Stile fix per Internet Explorer" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/Interfaccia/LSC/Stili/ie7fix.css" title="Stile fix per Internet inferiore exploerer 7" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/Interfaccia/LSC/Stili/iefix.css" title="Stile fix per Internet inferiore exploerer 7" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css"    href="/Interfaccia/LSC/Stili/ie5fix.css" title="Stile fix per Internet inferiore exploerer 7" /><![endif]-->
+
+<!-- RSS AUTODISCOVER -->
+<link rel="alternate" type="application/rss+xml" title="News dal sito del comune di Liscate" href="http://www.comune.liscate.mi.it/rss/rss.asp">
+<!-- RSS AUTODISCOVER -->
+
+</head>
+<body onLoad="Funzioni_onLoad();" onUnload="Funzioni_onUnload();">
+<div id="background2">
+    <div id="background2dx">
+        <div id="background1">
+            <div id="background1dx">
+                <div id="container">
+					<div class="Menu_di_Navigazione_Nascosto fuori_browser">
+	<dl>
+		<dt><a id="MNN" Name="MNN"></a>Argomeni presenti in questo sito :</dt>
+			<dd><a href="#MNN-CorpoCentrale" title="Salta al contenuto principale della pagina">Salta il menu' di navigazione</a><span class="nodisplay">|</span></dd>
+			<dd><a href="#MNN-Ricerca" title="Ricerca di informazioni nel sito">Motore di ricerca</a><span class="nodisplay">|</span></dd>
+			
+				<dd><a href="#MNN-inevid">In evidenza</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-istit">Istituzioni</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-comne">Comune</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-attnorm">Atti e Normative</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-atmenu">Amministrazione Trasparente</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-PUBBOBB">Pubblicazioni Obbligatorie</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-sitema">Elenco siti tematici</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-seronli">Servizi On-line</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><hr class="fuori_browser"></dd>
+				<dd><a href="#MNN-PG">Photogallery</a><span class="nodisplay">|</span></dd>
+				<dd><a href="#MNN-ARCHPP">Archivio In Primo Piano</a><span class="nodisplay">|</span></dd>
+				<dd><a href="#MNN-ARCHIE">Archivio In Evidenza</a><span class="nodisplay">|</span></dd>
+				<dd><a href="#MNN-MENUG">Meù grafico</a><span class="nodisplay">|</span></dd>
+	</dl>
+<hr>
+</div>
+
+                 <div id="Sfondo_Centrale">
+                        <div id="header">
+						<div id="noscroll">
+							<div id="headernoscroll">
+							
+								<div id="denominazionecomune">
+									<div class="logocontainer"><img src="/interfaccia/LSC/immagini/stemma_comune.png" alt="logo del Comune di Liscate" />&nbsp;</div>
+									<div class="testologocontainer">
+									<a href="/default.asp">
+										<!--<span class="textheader"></span><br/>-->
+										<span class="textheaderbig">&nbsp;Comune di Liscate</span><br/>
+										<!--<span class="textheaderthin"></span>-->
+									</a>
+									</div>
+								</div>
+								<div class="menucontainer">
+									
+	<div id="menutop">
+		
+
+<div class="Macromenu ">
+
+
+
+<div>
+			
+			<div class="Area home" >
+				
+							<a class="big_corta"   id="MNN-home" name="MNN-home" href="/default.asp" title="Espandi la voce Il Comune" >
+								Il Comune
+							</a><span class="nodisplay">|</span>
+							<span class="hidden fuori_browser"><a href="#MNN">Torna al menu di navigazione del sito</a></span>
+						
+			</div>
+	</div>
+	
+
+<div>
+			
+			<div class="Area ammt" >
+				
+					<a class="big"  id="MNN-ammt" name="MNN-ammt" href="/Pubblicazioni/Espandi_MacroMenu.asp?ID_MacroMenu=6" title="Espandi la voce Amministrazione Trasparente" >
+						Amministrazione Trasparente
+					</a><span class="nodisplay">|</span>
+						<span class="hidden fuori_browser"><a href="#MNN">Torna al menu di navigazione del sito</a></span>
+				
+			</div>
+	</div>
+	
+
+<div>
+			
+			<div class="Area sercitt" >
+				
+					<a class="big"  id="MNN-sercitt" name="MNN-sercitt" href="/Pubblicazioni/Espandi_MacroMenu.asp?ID_MacroMenu=7" title="Espandi la voce Servizi al Cittadino" >
+						Servizi al Cittadino
+					</a><span class="nodisplay">|</span>
+						<span class="hidden fuori_browser"><a href="#MNN">Torna al menu di navigazione del sito</a></span>
+				
+			</div>
+	</div>
+	
+
+<div>
+			
+			<div class="Area servon" >
+				
+					<a class="big_corta"   id="MNN-servon" name="MNN-servon" href="/Pubblicazioni/Espandi_MacroMenu.asp?ID_MacroMenu=8" title="Espandi la voce Servizi On-line" >
+						Servizi On-line
+					</a><span class="nodisplay">|</span>
+						<span class="hidden fuori_browser"><a href="#MNN">Torna al menu di navigazione del sito</a></span>
+				
+			</div>
+	</div>
+	
+
+
+</div>
+<div class="floatRemove">&nbsp;</div>
+
+</div>
+									<div id="search">
+										<!-- Google CSE Search Box Begins  -->
+										<div class="search_dx">
+										
+<!-- Google CSE Search Box Begins  -->
+	<form action="http://www.comune.liscate.mi.it/search/search_site.asp" class="ricerca"name="ricerca"> 
+	<fieldset>
+	<legend>Tutto il sito</legend>		
+		<input type="hidden" name="cx" value="">
+		<input type="hidden" name="cof" value="FORID:10">  
+		<label for="campoperlaricerca" class="txt_sinistra etichettaCerca">Cerca nel sito:</label><input type="text" id="campoperlaricerca" class="campo_ricerca camposearch" name="q" size="20" value=" Cerca sul Sito... " onclick="this.value='';" onblur="if (this.value=='') this.value=' Cerca sul Sito... ';" />
+		<i class="fa fa-search bottonericerca"onclick="ricerca.submit();"></i>
+	</fieldset>
+	</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=it"></script>
+
+										</div> <!--search_dx-->
+									</div>
+								</div>
+								
+								
+							</div>
+							
+						</div>
+							 <div class="floatRemove"></div>
+						<div class="navigon"><span class="path"> &gt; </span> <a href="/default.asp"  title="Home Page">Home Page</a></div>
+							<div id="headertop">
+							<div class="sx" style="background: url('/Immagini/Home_Header/0.jpg') repeat scroll 0 0 rgba(0, 0, 0, 0);">&nbsp;</div>
+							<!--<div class="calendarcontainer"></div>-->
+							<div class="navigon"><span class="path"> &gt; </span> <a href="/default.asp"  title="Home Page">Home Page</a></div>
+							<div class="dx">  </div>
+						</div>
+					</div><!-- headertop -->
+                </div> <!-- Header -->
+                   	
+                    <div id="wrapper">
+
+					<div id="navigation">
+
+                        
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-istit" name="MNN-istit" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=217&amp;ID_MacroMenu=1" title="Espandi il menu Istituzioni" >Istituzioni</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=754&amp;ID_MacroMenu=1" title="Accedi alla Voce Sindaco">Sindaco</a></li>
+			
+				<li><a  href="/pubblicazioni/assessori/assessori_elenco.asp?ID_M=186&amp;ID_MacroMenu=1" title="Accedi alla Voce Giunta Comunale">Giunta Comunale</a></li>
+			
+				<li><a  href="/Pubblicazioni/Consiglio/Consiglio_elenco.asp?ID_M=6&amp;ID_MacroMenu=1" title="Accedi alla Voce Consiglio Comunale">Consiglio Comunale</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=755&amp;ID_MacroMenu=1" title="Accedi alla Voce Statuto Comunale">Statuto Comunale</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=756&amp;ID_MacroMenu=1" title="Accedi alla Voce Regolamento Consiglio Comunale">Regolamento Consiglio Comunale</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=757&amp;ID_MacroMenu=1" title="Accedi alla Voce Programma Politico">Programma Politico</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=775&amp;ID_MacroMenu=1" title="Accedi alla Voce Segretario Generale">Segretario Generale</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-comne" name="MNN-comne" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=214&amp;ID_MacroMenu=1" title="Espandi il menu Comune" >Comune</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/pubblicazioni/uffici_sedi/uffici_Elenco.asp?ID_M=14&amp;ID_MacroMenu=1" title="Accedi alla Voce Uffici Comunali">Uffici Comunali</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=771&amp;ID_MacroMenu=1" title="Accedi alla Voce Gruppo di protezione civile">Gruppo di protezione civile</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=772&amp;ID_MacroMenu=1" title="Accedi alla Voce Societa partecipate">Societa partecipate</a></li>
+			
+				<li><a  href="/pubblicazioni/Elementi_con_recapiti/Elementi_con_recapiti_Elenco.asp?ID_M=773&amp;ID_MacroMenu=1" title="Accedi alla Voce Associazioni">Associazioni</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-attnorm" name="MNN-attnorm" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=218&amp;ID_MacroMenu=1" title="Espandi il menu Atti e Normative" >Atti e Normative</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/pubblicazioni/Regolamenti/Regolamenti_elenco.asp?ID_M=20&amp;ID_MacroMenu=1" title="Accedi alla Voce Regolamenti">Regolamenti</a></li>
+			
+					<li><a  href="http://www.comune.liscate.mi.it/pubblicazioni/Gare/Gare_elenco.asp?ID_M=15&amp;ID_MacroMenu=1" title="Accedi alla Voce Bandi di gara" >Bandi di gara</a></li>
+				
+				<li><a  href="/pubblicazioni/Gare_Scadute/Gare_Scadute_elenco.asp?ID_M=18&amp;ID_MacroMenu=1" title="Accedi alla Voce Esiti di Gara">Esiti di Gara</a></li>
+			
+				<li><a  href="/pubblicazioni/Informazioni_M/Informazioni_M_Elenco.asp?ID_M=823&amp;ID_MacroMenu=1" title="Accedi alla Voce Avvisi Post Informazione">Avvisi Post Informazione</a></li>
+			
+					<li><a href="http://www.normattiva.it/?ID_MacroMenu=1" title="Link Esterno: Legislazione Normativa" class="internal">Legislazione Normativa</a></li>
+				
+				<li><a  href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=815&amp;ID_MacroMenu=1" title="Accedi alla Voce Modulistica">Modulistica</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+                        <div class="floatRemove"></div>
+                    </div><!-- Navigation -->
+					
+                        <div id="content">
+
+                            
+<div class="elemento_centrale">
+	<h2>Pagina non Trovata</h2>
+	<div class="Contenitore_elenco_informazioni">
+		<BR>
+		Buongiorno, il sito &egrave; stato recentemente aggiornato, pertanto la pagina da lei cercata potrebbe non essere pi&ugrave; presente su questo sito o potrebbe essere stata sostituita con una nuova.
+        <BR><BR>
+        La preghiamo pertanto a verificare l&acute;indirizzo da lei inserito oppure a tornare in home page per cercare l&acute;informazione che desidera.
+        <BR><BR>
+        La ringraziamo per la visita e le auguriamo una buona navigazione sul sito del Comune di Liscate 
+		<hr>
+		<address>
+			<a href="http://www.comune.liscate.mi.it" title="Torna in home page" >http://www.comune.liscate.mi.it</a>
+		</address>
+	</div>
+</div>
+	 
+				  </div><!-- Content -->
+				  <div id="extra">
+					
+				<div>
+<!--Sfondo_Centrale-->
+                    </div> <!--search-->	
+                        
+						<!-- include virtual="\Elementi_di_Layout\Menu_personificazione_Intestazione.asp"-->
+                        
+		<div class="menu floatRemove">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a   id="MNN-inevid" name="MNN-inevid" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=193" title="Espandi il menu In evidenza" accesskey="">In evidenza</a>
+					
+				</div>
+			</div>
+		</div>
+		<div class="Modulo_menu inUpanddown">
+		<div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-institution coloraIcona"></i></div>
+					<a  href="http://www.comune.liscate.mi.it/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=810&amp;ID_MacroMenu=0" title="Accedi alla Voce Albo Pretorio On-line" >Albo Pretorio On-line</a>
+				
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-briefcase coloraIcona"></i></div>
+					<a class="menu_destro_con_immagine internal" href="http://www.liscate.cportal.it/?ID_MacroMenu=0" title="Link Esterno: SUAP / SUE" >SUAP / SUE</a>
+				
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-pencil coloraIcona"></i></div>
+					<a class="menu_destro_con_immagine internal" href="/pubblicazioni/scrivici/scrivici.asp?ID_MacroMenu=0" title="Link Esterno: Contattaci" >Contattaci</a>
+				
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-mobile coloraIcona"></i></div>
+				<a class="menu_destro_con_immagine" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=766" title="Accedi alla Voce Servizi SMS">Servizi SMS</a>
+			
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-envelope-o coloraIcona"></i></div>
+					<a class="menu_destro_con_immagine internal" href="/area_privata/Gateway.asp?ID_MacroMenu=0" title="Link Esterno: La Nostra Newsletter" >La Nostra Newsletter</a>
+				
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-flag coloraIcona"></i></div>
+				<a class="menu_destro_con_immagine" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=765" title="Accedi alla Voce Speciale Elezioni 2014">Speciale Elezioni 2014</a>
+			
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-globe coloraIcona"></i></div>
+				<a class="menu_destro_con_immagine" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=752" title="Accedi alla Voce Link Utili al Cittadino">Link Utili al Cittadino</a>
+			
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-bullhorn coloraIcona"></i></div>
+				<a class="menu_destro_con_immagine" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=768" title="Accedi alla Voce Notiziario Comunale">Notiziario Comunale</a>
+			
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-newspaper-o coloraIcona"></i></div>
+					<a class="menu_destro_con_immagine internal" href="http://www.ilquotidianodellapa.it/?ID_MacroMenu=0" title="Link Esterno: Il Quotidiano della P.A.IT" >Il Quotidiano della P.A.IT</a>
+				
+			</div>
+			</div><div class="destracontainerbutton" onclick="clickThis(this);"><div class="menu_destro_con_immagine">
+				<div class="destraquadrato"><i class="fa fa-4x fa-comments-o coloraIcona"></i></div>
+				<a class="menu_destro_con_immagine" href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=800" title="Accedi alla Voce URP">URP</a>
+			
+			</div>
+			</div>
+		</div>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+            
+     
+			<div class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+					<a href="http://www.riscotel.it/calcoloiuc2017/?comune=E610" title="Accedi alla Voce IUC 2017"><img src="/Allegati/Banner/798_banner_calcoloiuc2017_150x72.jpg" alt="IUC 2017" ></a>
+				
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</div>	
+	
+			<div class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+					<a href="http://www.comune.liscate.mi.it/pubblicazioni/uffici_sedi/uffici_dettaglio.asp?ID_M=14&ID=155" title="Accedi alla Voce Comunicare"><img src="/Allegati/Banner/817_Comuni_care_200.jpg" alt="Comunicare" ></a>
+				
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</div>	
+	
+			<div class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+					<a href="http://www.etvilloresi.it/portal-villoresi/page148a.do;jsessionid=E3FD644F515DA236E2B0AC21CA265D6C?link=oln643a.redirect&seu311a.oid.set=195" title="Accedi alla Voce Villoresi"><img src="/Allegati/Banner/824_etvilloresi.jpg" alt="Villoresi" ></a>
+				
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</div>	
+	
+						     <div class="diecipx"></div>       
+
+                        <div class="floatRemove"></div>
+                    </div><!-- Extra -->
+				  
+                    </div><!-- Wrapper -->
+                    
+                    
+                    <hr class="fuori_browser">
+                    <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+                    <div class="floatRemove"></div>
+                 
+             	</div> <!--Container-->
+            </div><!-- background1dx -->
+        </div> <!-- background1 -->
+    </div> <!-- background2dx -->
+</div> <!-- background2 -->
+
+  <div id="footer">
+				
+				<div id="footer_interno"> 
+					
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-inevid" name="MNN-inevid" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=193" title="Espandi il menu In evidenza" accesskey="">IN EVIDENZA</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+					<li id="blocco767"  ><a style="cursor:pointer;" href='http://www.comune.liscate.mi.it/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=810&amp;ID_MacroMenu=0' title="Accedi alla Voce Albo Pretorio On-line" >Albo Pretorio On-line</a></li>
+				
+					<li id="blocco774"   ><a style="cursor:pointer;" href="http://www.liscate.cportal.it/?ID_MacroMenu=0" title="Link Esterno: SUAP / SUE" class="internal">SUAP / SUE</a></li>
+				
+					<li id="blocco763"   ><a style="cursor:pointer;" href="/pubblicazioni/scrivici/scrivici.asp?ID_MacroMenu=0" title="Link Esterno: Contattaci" class="internal">Contattaci</a></li>
+				
+				<li id="blocco766"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=766" title="Accedi alla Voce Servizi SMS">Servizi SMS</a></li>
+			
+					<li id="blocco764"   ><a style="cursor:pointer;" href="/area_privata/Gateway.asp?ID_MacroMenu=0" title="Link Esterno: La Nostra Newsletter" class="internal">La Nostra Newsletter</a></li>
+				
+				<li id="blocco765"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=765" title="Accedi alla Voce Speciale Elezioni 2014">Speciale Elezioni 2014</a></li>
+			
+				<li id="blocco752"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=752" title="Accedi alla Voce Link Utili al Cittadino">Link Utili al Cittadino</a></li>
+			
+				<li id="blocco768"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=768" title="Accedi alla Voce Notiziario Comunale">Notiziario Comunale</a></li>
+			
+					<li id="blocco769"   ><a style="cursor:pointer;" href="http://www.ilquotidianodellapa.it/?ID_MacroMenu=0" title="Link Esterno: Il Quotidiano della P.A.IT" class="internal">Il Quotidiano della P.A.IT</a></li>
+				
+				<li id="blocco800"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=800" title="Accedi alla Voce URP">URP</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-istit" name="MNN-istit" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=217" title="Espandi il menu Istituzioni" accesskey="">ISTITUZIONI</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+				<li id="blocco754"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=754&amp;ID_MacroMenu=1" title="Accedi alla Voce Sindaco">Sindaco</a></li>
+			
+				<li id="blocco186"   ><a style="cursor:pointer;" href="/pubblicazioni/assessori/assessori_elenco.asp?ID_M=186&amp;ID_MacroMenu=1" title="Accedi alla Voce Giunta Comunale">Giunta Comunale</a></li>
+			
+				<li id="blocco6"   ><a style="cursor:pointer;" href="/Pubblicazioni/Consiglio/Consiglio_elenco.asp?ID_M=6&amp;ID_MacroMenu=1" title="Accedi alla Voce Consiglio Comunale">Consiglio Comunale</a></li>
+			
+				<li id="blocco755"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=755&amp;ID_MacroMenu=1" title="Accedi alla Voce Statuto Comunale">Statuto Comunale</a></li>
+			
+				<li id="blocco756"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=756&amp;ID_MacroMenu=1" title="Accedi alla Voce Regolamento Consiglio Comunale">Regolamento Consiglio Comunale</a></li>
+			
+				<li id="blocco757"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=757&amp;ID_MacroMenu=1" title="Accedi alla Voce Programma Politico">Programma Politico</a></li>
+			
+				<li id="blocco775"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=775&amp;ID_MacroMenu=1" title="Accedi alla Voce Segretario Generale">Segretario Generale</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-comne" name="MNN-comne" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=214" title="Espandi il menu Comune" accesskey="">COMUNE</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+				<li id="blocco14"   ><a style="cursor:pointer;" href="/pubblicazioni/uffici_sedi/uffici_Elenco.asp?ID_M=14&amp;ID_MacroMenu=1" title="Accedi alla Voce Uffici Comunali">Uffici Comunali</a></li>
+			
+				<li id="blocco771"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=771&amp;ID_MacroMenu=1" title="Accedi alla Voce Gruppo di protezione civile">Gruppo di protezione civile</a></li>
+			
+				<li id="blocco772"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=772&amp;ID_MacroMenu=1" title="Accedi alla Voce Societa partecipate">Societa partecipate</a></li>
+			
+				<li id="blocco773"   ><a style="cursor:pointer;" href="/pubblicazioni/Elementi_con_recapiti/Elementi_con_recapiti_Elenco.asp?ID_M=773&amp;ID_MacroMenu=1" title="Accedi alla Voce Associazioni">Associazioni</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock primodelblocco" >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-attnorm" name="MNN-attnorm" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=218" title="Espandi il menu Atti e Normative" accesskey="">ATTI E NORMATIVE</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+				<li id="blocco20"   ><a style="cursor:pointer;" href="/pubblicazioni/Regolamenti/Regolamenti_elenco.asp?ID_M=20&amp;ID_MacroMenu=1" title="Accedi alla Voce Regolamenti">Regolamenti</a></li>
+			
+					<li id="blocco821"  ><a style="cursor:pointer;" href='http://www.comune.liscate.mi.it/pubblicazioni/Gare/Gare_elenco.asp?ID_M=15&amp;ID_MacroMenu=1' title="Accedi alla Voce Bandi di gara" >Bandi di gara</a></li>
+				
+				<li id="blocco18"   ><a style="cursor:pointer;" href="/pubblicazioni/Gare_Scadute/Gare_Scadute_elenco.asp?ID_M=18&amp;ID_MacroMenu=1" title="Accedi alla Voce Esiti di Gara">Esiti di Gara</a></li>
+			
+				<li id="blocco823"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_M/Informazioni_M_Elenco.asp?ID_M=823&amp;ID_MacroMenu=1" title="Accedi alla Voce Avvisi Post Informazione">Avvisi Post Informazione</a></li>
+			
+					<li id="blocco770"   ><a style="cursor:pointer;" href="http://www.normattiva.it/?ID_MacroMenu=1" title="Link Esterno: Legislazione Normativa" class="internal">Legislazione Normativa</a></li>
+				
+				<li id="blocco815"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=815&amp;ID_MacroMenu=1" title="Accedi alla Voce Modulistica">Modulistica</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-atmenu" name="MNN-atmenu" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=216" title="Espandi il menu Amministrazione Trasparente" accesskey="">AMMINISTRAZIONE TRASPARENTE</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+				<li id="blocco753"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=753&amp;ID_MacroMenu=6" title="Accedi alla Voce Disposizioni Generali">Disposizioni Generali</a></li>
+			
+				<li id="blocco776"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=776&amp;ID_MacroMenu=6" title="Accedi alla Voce Organizzazione">Organizzazione</a></li>
+			
+				<li id="blocco777"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=777&amp;ID_MacroMenu=6" title="Accedi alla Voce Consulenti e collaboratori">Consulenti e collaboratori</a></li>
+			
+				<li id="blocco15"   ><a style="cursor:pointer;" href="/pubblicazioni/Gare/Gare_elenco.asp?ID_M=15&amp;ID_MacroMenu=6" title="Accedi alla Voce Bandi di Gara e Contratti">Bandi di Gara e Contratti</a></li>
+			
+				<li id="blocco778"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=778&amp;ID_MacroMenu=6" title="Accedi alla Voce Personale">Personale</a></li>
+			
+				<li id="blocco70"   ><a style="cursor:pointer;" href="/pubblicazioni/concorsi/concorsi_elenco.asp?ID_M=70&amp;ID_MacroMenu=6" title="Accedi alla Voce Bandi di concorso">Bandi di concorso</a></li>
+			
+				<li id="blocco780"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=780&amp;ID_MacroMenu=6" title="Accedi alla Voce Performance">Performance</a></li>
+			
+				<li id="blocco781"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=781&amp;ID_MacroMenu=6" title="Accedi alla Voce Enti controllati">Enti controllati</a></li>
+			
+				<li id="blocco782"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=782&amp;ID_MacroMenu=6" title="Accedi alla Voce Attivita e procedimenti">Attivita e procedimenti</a></li>
+			
+				<li id="blocco783"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=783&amp;ID_MacroMenu=6" title="Accedi alla Voce Provvedimenti">Provvedimenti</a></li>
+			
+				<li id="blocco784"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=784&amp;ID_MacroMenu=6" title="Accedi alla Voce Controlli sulle imprese">Controlli sulle imprese</a></li>
+			
+				<li id="blocco786"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=786&amp;ID_MacroMenu=6" title="Accedi alla Voce Sovvenzioni, contributi, sussidi, vantaggi economici">Sovvenzioni, contributi, sussidi, vantaggi economici</a></li>
+			
+				<li id="blocco787"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=787&amp;ID_MacroMenu=6" title="Accedi alla Voce Bilanci">Bilanci</a></li>
+			
+				<li id="blocco788"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=788&amp;ID_MacroMenu=6" title="Accedi alla Voce Beni immobili e gestione patrimonio">Beni immobili e gestione patrimonio</a></li>
+			
+				<li id="blocco789"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=789&amp;ID_MacroMenu=6" title="Accedi alla Voce Controlli e rilievi sull&acute;Amministrazione">Controlli e rilievi sull&acute;Amministrazione</a></li>
+			
+				<li id="blocco790"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=790&amp;ID_MacroMenu=6" title="Accedi alla Voce Servizi erogati">Servizi erogati</a></li>
+			
+				<li id="blocco791"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=791&amp;ID_MacroMenu=6" title="Accedi alla Voce Pagamenti dell&acute;Amministrazione">Pagamenti dell&acute;Amministrazione</a></li>
+			
+				<li id="blocco792"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=792&amp;ID_MacroMenu=6" title="Accedi alla Voce Opere pubbliche">Opere pubbliche</a></li>
+			
+				<li id="blocco793"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=793&amp;ID_MacroMenu=6" title="Accedi alla Voce Pianificazione e Governo del Territorio">Pianificazione e Governo del Territorio</a></li>
+			
+				<li id="blocco794"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=794&amp;ID_MacroMenu=6" title="Accedi alla Voce Informazioni ambientali">Informazioni ambientali</a></li>
+			
+				<li id="blocco795"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=795&amp;ID_MacroMenu=6" title="Accedi alla Voce Strutture sanitarie private accreditate">Strutture sanitarie private accreditate</a></li>
+			
+				<li id="blocco796"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=796&amp;ID_MacroMenu=6" title="Accedi alla Voce Interventi straordinari e d&acute;emergenza">Interventi straordinari e d&acute;emergenza</a></li>
+			
+				<li id="blocco797"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=797&amp;ID_MacroMenu=6" title="Accedi alla Voce Altri contenuti">Altri contenuti</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-PUBBOBB" name="MNN-PUBBOBB" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=220" title="Espandi il menu Pubblicazioni Obbligatorie" accesskey="">PUBBLICAZIONI OBBLIGATORIE</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+				<li id="blocco801"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=801" title="Accedi alla Voce Privacy">Privacy</a></li>
+			
+				<li id="blocco802"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=802" title="Accedi alla Voce Note legali">Note legali</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-sitema" name="MNN-sitema" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=221" title="Espandi il menu Elenco siti tematici" accesskey="">ELENCO SITI TEMATICI</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+					<li id="blocco803"   ><a style="cursor:pointer;" href="http://www.esteri.it/mae/it/ministero/servizi/italiani/rappresentanze/?ID_MacroMenu=" title="Link Esterno: Ambasciate e Consolati" class="internal">Ambasciate e Consolati</a></li>
+				
+					<li id="blocco804"   ><a style="cursor:pointer;" href="http://www.viaggiaresicuri.it/?ID_MacroMenu=" title="Link Esterno: Viaggiare sicuri" class="internal">Viaggiare sicuri</a></li>
+				
+				<li id="blocco805"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=805" title="Accedi alla Voce Informativa Cookie">Informativa Cookie</a></li>
+			
+		</ul>
+		</div>
+	
+	<div class="footerTableBlock " >
+		<p class="footerTitleBlock">
+					
+					<strong><a id="MNN-Blocchi-seronli" name="MNN-seronli" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=222" title="Espandi il menu Servizi On-line" accesskey="">SERVIZI ON-LINE</a></strong>
+					
+					
+		<ul class="blocchi">
+		
+				<li id="blocco810"   ><a style="cursor:pointer;" href="/pubblicazioni/Informazioni_A/Informazioni_A_Elenco.asp?ID_M=810&amp;ID_MacroMenu=8" title="Accedi alla Voce Albo Pretorio On-Line">Albo Pretorio On-Line</a></li>
+			
+					<li id="blocco807"   ><a style="cursor:pointer;" href="http://www.studiok.it/comuni/liscate/?ID_MacroMenu=8" title="Link Esterno: Tributi - Accesso Banca Dati On-line" class="internal">Tributi - Accesso Banca Dati On-line</a></li>
+				
+					<li id="blocco808"   ><a style="cursor:pointer;" href="http://www.riscotel.it/calcoloiuc2016/?comune=E610&amp;ID_MacroMenu=8" title="Link Esterno: Tributi - Calcolo I.U.C." class="internal">Tributi - Calcolo I.U.C.</a></li>
+				
+					<li id="blocco811"   ><a style="cursor:pointer;" href="http://www.agenziaentrate.gov.it/wps/content/nsilib/nsi/home/servizi+online/serv_terr/senza_reg/consultazione+rendite+catastali?ID_MacroMenu=8" title="Link Esterno: Tributi - Verifica Rendita Catastale" class="internal">Tributi - Verifica Rendita Catastale</a></li>
+				
+		</ul>
+		</div>
+	   
+				</div>
+				<div class="footer_contatti">
+				Comune di Liscate<br/>
+Sede del Municipio - Largo Europa n. 2 c.a.p. 20060 - tel. 029505151 - fax 0295350200<br/>
+pec: comune.liscate@pec.regione.lombardia.it -  COD. FISC. 83503450153  /  P.IVA  06724920159	
+				</div>
+				<div class="footer_sx">
+					<a href="http://www.sinetinformatica.it/?utm_source=logo&amp;utm_medium=banner&amp;utm_campaign=Liscate" title="Vai a Sito Si.Net Informatica">
+						<img class="logo_company" src="/Immagini/Banner_Sinet.png" alt="Logo Si.Net">
+					</a>
+				</div>
+				<div class="footer_dx">
+					<div id="menufooter">
+
+ 
+</div>
+					<a href="/rss/rss.asp" title="Sottoscrivi i feed rss">
+						<img class="logo_demo" src="/Immagini/Rss.png" alt="sottoscrivi i feed rss">
+					</a>
+				</div>
+				<div class="floatRemove"></div>
+			</div> <!--Footer-->
+<!-- Start of google-analytics Code -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("");
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+<!-- End of google-analytics Code -->
+</body>
+</html>

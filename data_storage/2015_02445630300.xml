@@ -1,0 +1,1386 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="it"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="it"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="it"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="it">
+<!--<![endif]-->
+
+    
+    
+    
+    
+
+<head>
+<meta charset="utf-8">
+<meta name="google-site-verification" content="oJeUXC95ZcB-efIvn_NoIDbaFsuEVjlIiaZUjECBzTA">
+
+<title>Azienda Sanitaria Universitaria Integrata di Udine</title>
+<meta name="viewport" content="width=device-width" />
+<meta name="google-site-verification" content="9dXrCqMB6v74v7U3OP809GGEC-dfSHyfxIWI_Sq60ew" />
+
+<base href="http://asuiud.sanita.fvg.it/" />
+<!--[if lt IE 7]></base><![endif]-->
+
+
+
+  <script src="/static/js/cookie-consent.js"></script>
+  <script src="/static/js/modernizr.custom.js"></script>
+  <script src="/static/js/jquery321.min.js"></script>
+  
+  <script src="/static/js/jquery.fancybox.min.js"></script>
+  
+
+
+
+
+
+
+
+
+  <script src="/static/js/jquery.cycle2.min.js"></script>
+
+  <script>
+$(function() {
+  $('.last-news .col-sm-6').each(function() {
+//    $(this).width($(this).outerWidth())
+  })
+})
+  </script>
+
+
+
+
+
+  <link href="//fonts.googleapis.com/css?family=Lato:400,300,700" rel="stylesheet">
+  <link href="/static/css/cb-menu.css?v=2" rel="stylesheet">
+  <link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="/static/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/static/css/jquery.fancybox.min.css" rel="stylesheet">
+  
+  <link href="/static/css/style.css?v=f" rel="stylesheet">
+  <link href="/static/css/print.css" rel="stylesheet" media="print">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-34718903-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+</head>
+<body class="template-index_html portaltype-plone-site site-asuiud icons-on">
+    <div class="content-box home">
+
+        <header>
+    <div id="header-loghi">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-9 col-xs-12">
+                    <img src="/static/img/logo-regione.png" class="img-responsive" alt="Regione Autonoma Friuli Venezia Giulia" /><br>
+                    <a href="/" class="logo-left logo-asuiud"><img src="/static/img/logo-asuiud.png" class="img-responsive" alt="Azienda Sanitaria Universitaria Integrata di Udine"></a>
+                </div>
+                <div class="col-sm-3 nopadding hidden-xs hidden-sm text-right">
+<form id="search-form" action="/search">
+  <label for="query">Cerca</label>
+  <input type="text" name="SearchableText" id="query">
+  <button type="submit" title="Cerca"><i class="fa fa-search"></i></button>
+</form>
+                    <a href="/" class="logo-short"><img src="/static/img/logo-asuiud-short.png" class="img-responsive" alt="Azienda Sanitaria Universitaria Integrata di Udine"></a>
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="container">
+        
+            <nav id="cbp-hrmenu" class="cbp-hrmenu">
+                <ul>
+                    <li class="home"><a href="/"><img src="/static/img/home.png" alt="Home page"></a></li>
+                    
+                     <li class="has-submenu"><a href="http://asuiud.sanita.fvg.it/servizi">Servizi erogati</a>
+                    <div class="cbp-hrsub container">
+                            <div class="submenu-bg">
+                               <div class="cbp-hrsub-inner row"> 
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone">Per le persone</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/assistenza-sanitaria">Accesso all’Assistenza Sanitaria</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/medici-e-pediatri">Medici e pediatri</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/guardia-medica">Servizio di continuità assistenziale (ex Guardia Medica)</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/esami-e-visite">Esami e visite</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/come-si-accede-alle-prestazioni-esami-e-visite">Accesso alle prestazioni e tempi attesa - esami e visite</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/punti-prelievo">Punti Prelievo</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/pronto-soccorso-odontoiatrico">Pronto Soccorso Odontoiatrico</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/attivita-di-prevenzione">Attività di prevenzione</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/salute-donna-bambino">Salute della donna e del bambino</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/adozioni">Adozioni</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/farmacie">Farmacie</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/certificazioni-sanitarie">Certificazioni sanitarie</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/strutture-sanitarie-private-accreditate">Strutture sanitarie private accreditate</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti">Per imprese e professionisti</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/imprese-alimentari">Imprese alimentari </a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/sicurezza-luoghi-di-lavoro">Sicurezza luoghi di lavoro</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/ambulatorio-persone-ex-esposte-allamianto-e-ad-altri-agenti-cancerogeni">Ambulatorio persone ex esposte all'amianto e ad altri agenti cancerogeni</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/verifiche-impiantistiche">Verifiche impiantistiche</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/strutture-sanitarie-private">Strutture sanitarie private</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/progettazione-e-realizzazione-edifici-e-attivita">Progettazione e realizzazione edifici e attività - Parere igienico sanitario </a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/certificazioni-per-le-imprese">Certificazioni sanitarie per le imprese</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/attivita-estetiche">Attività estetiche</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali">Per chi possiede animali</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali/animali-da-affezione">Animali da affezione</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali/animali-da-allevamento">Animali da allevamento</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali/certificazioni-riguardanti-animali">Certificazioni riguardanti animali</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div><!-- /cbp-hrsub -->
+
+     </li>
+  
+                    
+                     <li class="has-submenu"><a href="http://asuiud.sanita.fvg.it/distretti">Distretti e Dipartimenti</a>
+                    <div class="cbp-hrsub container">
+                            <div class="submenu-bg">
+                               <div class="cbp-hrsub-inner row"> 
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/distretti/distretti-sanitari">Distretti sanitari</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/distretti-sanitari/distretto-di-cividale"> Distretto di Cividale</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/distretti-sanitari/distretto-di-tarcento">Distretto di Tarcento</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/distretti-sanitari/distretto-di-udine">Distretto di Udine </a>
+             
+           </li>
+        </ul>
+    
+    
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti">Dipartimenti</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti/dipartimento-di-prevenzione">Dipartimento di Prevenzione</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti/dipartimento-di-salute-mentale">Dipartimento di Salute Mentale</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti/dipartimento-delle-dipendenze">Dipartimento delle Dipendenze</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti-ospedalieri">Dipartimenti ospedalieri</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti-ospedalieri/ospedale-smm">Dipartimenti del Presidio Ospedaliero Universitario “Santa Maria della Misericordia”</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti-ospedalieri/dipartimento-gervasutta">Dipartimento del Presidio Ospedaliero Istituto di Medicina Fisica e Riabilitazione "Gervasutta"</a>
+             
+           </li>
+        </ul>
+    
+    
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti-tecnico-amministrativi">Dipartimenti tecnico-amministrativi</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti-tecnico-amministrativi/amministrativo">Dipartimento Amministrativo</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/distretti/dipartimenti-tecnico-amministrativi/tecnico">Dipartimento Tecnico</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div><!-- /cbp-hrsub -->
+
+     </li>
+  
+                    
+                     <li class="has-submenu"><a href="http://asuiud.sanita.fvg.it/ospedali">Presidi ospedalieri</a>
+                    <div class="cbp-hrsub container">
+                            <div class="submenu-bg">
+                               <div class="cbp-hrsub-inner row"> 
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/ospedali/smm">Presidio Ospedaliero Universitario “Santa Maria della Misericordia”</a></h4>
+        
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/ospedali/gervasutta">Presidio ospedaliero Istituto di Medicina Fisica e Riabilitazione “Gervasutta”</a></h4>
+        
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div><!-- /cbp-hrsub -->
+
+     </li>
+  
+                    
+                     <li class="has-submenu"><a href="http://asuiud.sanita.fvg.it/lazienda">L'Azienda</a>
+                    <div class="cbp-hrsub container">
+                            <div class="submenu-bg">
+                               <div class="cbp-hrsub-inner row"> 
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata">ASUIUD</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/direzione">Direzione Azienda Sanitaria Universitaria Integrata di Udine</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/staff">Strutture in Staff alla Direzione Generale</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/amministrazione-trasparente">Amministrazione trasparente</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/albo">Albo aziendale online</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/lazienda/associazioni-centri-comitati">Associazioni, centri, comitati</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/associazioni-centri-comitati/volontariato">Associazioni di volontariato</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/associazioni-centri-comitati/centro-trapianti">Centro Regionale Trapianti FVG</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/associazioni-centri-comitati/ceur">Comitato Etico Unico Regionale (CEUR)</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/associazioni-centri-comitati/comitato-unico-garanzia">Comitato Unico di Garanzia (CUG)</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/lazienda/info-e-contatti">Info e contatti</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/info-e-contatti/elenco-telefonico">Elenco Telefonico</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/info-e-contatti/elenco-siti-tematici">Siti tematici</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/lazienda/info-e-contatti/sedi-e-recapiti">Sedi e recapiti</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div><!-- /cbp-hrsub -->
+
+     </li>
+  
+                    
+                     <li class="has-submenu"><a href="http://asuiud.sanita.fvg.it/formazione">Didattica e formazione</a>
+                    <div class="cbp-hrsub container">
+                            <div class="submenu-bg">
+                               <div class="cbp-hrsub-inner row"> 
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/formazione/formazione-1">Formazione</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/formazione/formazione-1/convegni-e-congressi">Convegni e congressi</a>
+             
+           </li>
+           <li>
+             
+               <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/staff/formazione">Formazione e valorizzazione del personale</a>
+             
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/formazione/formazione-1/materiale-didattico-corsi">Materiale didattico corsi</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/formazione/didattica">Didattica</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/formazione/didattica/biblioteca-medica">Biblioteca medica</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/formazione/didattica/frequentatori-volontari-e-tirocinanti">Frequentatori volontari e tirocinanti</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div><!-- /cbp-hrsub -->
+
+     </li>
+  
+                    
+                     <li class="has-submenu"><a href="http://asuiud.sanita.fvg.it/innovazione">Innovazione e ricerca</a>
+                    <div class="cbp-hrsub container">
+                            <div class="submenu-bg">
+                               <div class="cbp-hrsub-inner row"> 
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/innovazione/ricerca">Ricerca Clinica</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/ricerca/presentazione">La ricerca clinica nel Presidio Ospedaliero Universitario "Santa Maria della Misericordia" di Udine</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/ricerca/lorganizzazione-della-ricerca-nellazienda-ospedaliero-universitaria-santa-maria-della-misericordia-di-udine">L'organizzazione della ricerca nel Presidio Ospedaliero Universitario "Santa Maria della Misericordia" di Udine</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/ricerca/standard-internazionali">Standard internazionali</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/ricerca/normativa-di-riferimento">Normativa nazionale di riferimento</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/ricerca/normativa-regionale-atti-e-disposizioni-aziendali">Normativa regionale - atti e disposizioni aziendali</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/innovazione/studi-clinici">Studi clinici in corso</a></h4>
+        <ul>
+        </ul>
+    
+    
+
+
+                </div>
+                                    <div class="col-sm-6 col-md-4">
+
+    
+    
+        <h4><a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca">Progetti di ricerca in corso</a></h4>
+        <ul>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/utilizzo-di-donatori-con-lesioni-encefaliche-hbsag">Utilizzo di Donatori con lesioni encefaliche Hbsag Positivi, Anti-Hbcore Positivi, O Anti Hcv Positivi secondo Le Linee Guida Nazionali: miglioramento del modello di allocazione del Fegato attraverso la raccolta e la valutazione dei risultati di sopravvivenza di organo e paziente a breve, medio e  lungo termine” Programma di Ricerca Trapianti- Anno 2011</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/luso-dellossitocina-come-terapia-add-on-nel">L'uso dell'Ossitocina come terapia add-on nel trattamento della schizofrenia: un trial randomizzato in doppio cieco (Oxis)</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/a-multicenter-randomised-trial-of-contrast">A multicenter randomised trial of contrast-enhanced MR imaging as a breast cancer screening tool in additino to mammography and ultrasonography in women at intermediate risk. Feasibility, ance short term result</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/creazione-di-una-rete-di-ospedali-per-la-raccolta">Creazione di una rete di ospedali per la raccolta e lo scambio di informazioni sugli aspetti amministrativi (pagamento e rimborso) delle prestazioni sanitarie dei pazienti transfrontalieri</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/programma-regionale-per-la-diffusione-e-lutilizzo">Programma Regionale per la diffusione e l'utilizzo di DAE</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/health-aoutcomes-at-school-age-of-a-population">Health aoutcomes at school age of a population-based cohort of very preterm infants: the ACTION III project</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/rf-2011-02352308-201cwhy-me-project-investigating">RF -2011-02352308 “WHY ME? Project investigating white matter connectivity in schizophrenia at imaging, cellular, and transposone levels in monozygotic discordant twins</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/ricerca-finalizzata-giovani-ricercatori-2011-2012">Ricerca finalizzata giovani ricercatori 2011-2012: "Exercise tolerance in patient with late onset pompe disease on enzyme replacement Therapy: effects of exercise training and hyperproteic diet"</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/progetto-eutempe-rx-european-training-and">Progetto Eutempe-RX "European training and education for medical physics exprerts in radiology" (FP7-FISSION-2013)</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/supporto-alle-attivita-di-farmacovigilanza-e">Supporto alle attività di Farmacovigilanza e valutazione della sicurezza delle prestazioni farmaceutiche erogate in Friuli Venezia-Giulia </a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/progetti-attuativi-del-piano-sanitario-nazionale">Progetti attuativi del piano sanitario nazionale - anno 2008 (legge 296/2006)progetto di ricerca Legge 296/2006  “Realizzazione di un percorso pilota per l'assistenza coordinata delle patologie neuromuscolari nel contesto della rete regionale per le malattie rare”.</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/progetto-di-ricerca-finalizzata-2009-201crole-of">Progetto di ricerca finalizzata 2009 “Role of protein misfolding in the pathogenesis of NiemannPick type C disease: a possibile therapeutic target”.</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/an-eu-rare-diseases-registry-for-niemann-pick">An EU rare diseases registry for Niemann-Pick Disease type A, B and C</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/realizzazione-di-un-percorso-pilota-per">Realizzazione di un percorso pilota per l'assistenza coordinata delle patologie neuro-muscolari nel contesto della rete regionale per le malattie rare" all'interno del progetto regionale  "Implementazione dei progetti Interregionali ex art. 1, comma 806, lettera c, legge n. 296/2006</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/building-a-nation-wide-italian-collaborative">Building a nation-wide italian collaborative network for muscle glycogenoses: registry and natural history”.coda PRF.30-31-32</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/identification-of-new-therapeutic-agents-for-the">Identification of new therapeutic agents for the treatment of Glycogenosis type 2 due to the common splicing mutation c.-32-13TG</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/lysososomal-enzymes-activity-and-gba1-genotyping">Lysososomal enzymes activity and GBA1 Genotyping in CSF of Parkinsons’s Disease Patients</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/nanostructured-molecular-decoders-for-the">Nanostructured Molecular Decoders for the quantitative, multiplexed, layer-by-layer detection of disease associated Proteins </a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/pharmacogenomics-of-hypertension-a-new-approach">PHARMACOGENOMICS OF HYPERTENSION: A NEW APPROACH FOR A PERSONALIZED MEDICINE</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/organization-of-a-regional-reference-laboratory">Organization of a regional reference laboratory for the
+(standardization of) molecular monitoring of philadelphiapositive
+leukemias</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/stili-di-vita-la-salute-in-tutte-le-politiche">Stili di vita: la salute in tutte le politiche: interventi intersettoriali per un approccio globale a fattori di rischio e ai determinanti di salute modificabili</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/izboljsanju-nujne-medicinske-pomoci">IZBOLJŠANJU NUJNE MEDICINSKE POMOČI</a>
+             
+           </li>
+           <li>
+             
+             
+                  <a href="http://asuiud.sanita.fvg.it/innovazione/progetti-di-ricerca/glioma-identificazione-di-nuovi-marcatori-di">GLIOMA - IDENTIFICAZIONE DI NUOVI MARCATORI DI CELLULE STAMINALI TUMORALI A SCOPO DIAGNOSTICO E TERA / GLIOMA -DOLOČANJE NOVIH BIOMARKERJEV MOŽGANSKIH TUMORJEV – GLIOMOV ZA DIAGNOZO IN KOT NOVE TARČE ZD</a>
+             
+           </li>
+        </ul>
+    
+    
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div><!-- /cbp-hrsub -->
+
+     </li>
+  
+                    
+                     <li><a href="http://asuiud.sanita.fvg.it/notizie">Notizie</a>
+                    <!-- /cbp-hrsub -->
+
+     </li>
+  
+
+                </ul>
+            </nav>
+        </div>
+</header>
+
+        
+
+        
+        
+
+        <div class="page">
+            
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+            
+                
+                
+                    
+                        
+                        
+                     <!-- #content -->
+                
+            
+        </div> <!-- .page -->
+        
+
+<main>
+    <div class="grey-bg">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="last-news">
+                <h2 class="inline"><a href="/notizie">Ultime notizie <i class="fa fa-arrow-right"></i></a></h2>
+
+
+                <div class="white-box cycle-slideshow" data-cycle-slides="&gt; .wrapper &gt; .chunk" data-cycle-speed="1000" data-cycle-timeout="5000" data-cycle-pause-on-hover="true" data-cycle-fx="scrollHorz" data-cycle-pager=".last-news .pager" data-cycle-pager-active-class="selected" data-cycle-pager-template="&lt;a&gt;&lt;/a&gt;">
+<div class="wrapper">
+                    <div class="row chunk">
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/prestigiosa-nomina-per-il-cardiologo-udinese-claudio-fresco"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/prestigiosa-nomina-per-il-cardiologo-udinese-claudio-fresco/foto_large)"></div></a>
+                            <div class="date">15 dicembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/prestigiosa-nomina-per-il-cardiologo-udinese-claudio-fresco">Prestigiosa nomina per il cardiologo udinese Claudio Fresco </a></h3>
+                        </div>
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/convegno-al-liceo-percoto-in-occasione-della-giornata-mondiale-per-la-lotta-all2019aids-di-venerdi-1-dicembre"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/convegno-al-liceo-percoto-in-occasione-della-giornata-mondiale-per-la-lotta-all2019aids-di-venerdi-1-dicembre/foto_large)"></div></a>
+                            <div class="date">1 dicembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/convegno-al-liceo-percoto-in-occasione-della-giornata-mondiale-per-la-lotta-all2019aids-di-venerdi-1-dicembre">Convegno al Liceo Percoto in occasione della Giornata mondiale per la lotta all’AIDS di venerdì 1 Dicembre.</a></h3>
+                        </div>
+                    </div>
+                    <div class="row chunk">
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/settimana-di-prevenzione-dellhiv"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/settimana-di-prevenzione-dellhiv/foto_large)"></div></a>
+                            <div class="date">28 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/settimana-di-prevenzione-dellhiv">Settimana di Prevenzione dell'HIV </a></h3>
+                        </div>
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/lavori-di-straordinaria-manutenzione-al-pronto-soccorso-dell2019ospedale-di-udine"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/lavori-di-straordinaria-manutenzione-al-pronto-soccorso-dell2019ospedale-di-udine/foto_large)"></div></a>
+                            <div class="date">27 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/lavori-di-straordinaria-manutenzione-al-pronto-soccorso-dell2019ospedale-di-udine">Lavori di straordinaria manutenzione al Pronto Soccorso dell’Ospedale di Udine.</a></h3>
+                        </div>
+                    </div>
+                    <div class="row chunk">
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/tre-nuove-autoambulanze-per-le-sedi-di-udine-cividale-e-san-pietro-al-natisone"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/tre-nuove-autoambulanze-per-le-sedi-di-udine-cividale-e-san-pietro-al-natisone/foto_large)"></div></a>
+                            <div class="date">27 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/tre-nuove-autoambulanze-per-le-sedi-di-udine-cividale-e-san-pietro-al-natisone">Tre nuove autoambulanze per le sedi di Udine, Cividale e San Pietro al Natisone</a></h3>
+                        </div>
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/nata-nell2019anno-1992-93-a-dieci-anni-dall2019avvio-di-medicina-nata-nell2019anno-1992-93-a-dieci-anni-dall2019avvio-di-medicina-la-clinica-di-chirurgia-maxillo-facciale-di-udine-taglia-il-traguardo-dei-25-anni"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/nata-nell2019anno-1992-93-a-dieci-anni-dall2019avvio-di-medicina-nata-nell2019anno-1992-93-a-dieci-anni-dall2019avvio-di-medicina-la-clinica-di-chirurgia-maxillo-facciale-di-udine-taglia-il-traguardo-dei-25-anni/foto_large)"></div></a>
+                            <div class="date">24 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/nata-nell2019anno-1992-93-a-dieci-anni-dall2019avvio-di-medicina-nata-nell2019anno-1992-93-a-dieci-anni-dall2019avvio-di-medicina-la-clinica-di-chirurgia-maxillo-facciale-di-udine-taglia-il-traguardo-dei-25-anni">Nata nell’anno 1992/93, a dieci anni dall’avvio di Medicina la Clinica di Chirurgia Maxillo-Facciale di Udine taglia il traguardo dei 25 anni</a></h3>
+                        </div>
+                    </div>
+                    <div class="row chunk">
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/convegno-a-udine-sulla-neoplasia-della-vescica"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/fotohome/home11.jpg)"></div></a>
+                            <div class="date">24 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/convegno-a-udine-sulla-neoplasia-della-vescica">Convegno a Udine sulla neoplasia della vescica </a></h3>
+                        </div>
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/convegno-a-udine-sul-contrasto-alla-violenza-sulle-donne"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/convegno-a-udine-sul-contrasto-alla-violenza-sulle-donne/foto_large)"></div></a>
+                            <div class="date">22 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/convegno-a-udine-sul-contrasto-alla-violenza-sulle-donne">Convegno a Udine sul contrasto alla violenza sulle donne</a></h3>
+                        </div>
+                    </div>
+                    <div class="row chunk">
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/esperti-da-tutta-italia-in-convegno-all2019ospedale-di-udine-sulla-immunoterapia-dei-tumori"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/esperti-da-tutta-italia-in-convegno-all2019ospedale-di-udine-sulla-immunoterapia-dei-tumori/foto_large)"></div></a>
+                            <div class="date">22 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/esperti-da-tutta-italia-in-convegno-all2019ospedale-di-udine-sulla-immunoterapia-dei-tumori">Esperti da tutta Italia in convegno all’Ospedale di Udine  sulla immunoterapia dei tumori</a></h3>
+                        </div>
+                        <div class="col-sm-6">
+<a href="http://asuiud.sanita.fvg.it/notizie/corso-per-smettere-di-fumare-organizzato-dal-centro-di-prevenzione-e-trattamento-del-tabagismo"><div class="main-image" style="background-image: url(http://asuiud.sanita.fvg.it/notizie/corso-per-smettere-di-fumare-organizzato-dal-centro-di-prevenzione-e-trattamento-del-tabagismo/foto_large)"></div></a>
+                            <div class="date">17 novembre 2017</div>
+                            <h3><a href="http://asuiud.sanita.fvg.it/notizie/corso-per-smettere-di-fumare-organizzato-dal-centro-di-prevenzione-e-trattamento-del-tabagismo">Smettere di fumare: al via il corso per smettere di fumare organizzato a cura del Dipartimento 	 delle Dipendenze dell'Azienda Sanitaria Universitaria Integrata di Udine</a></h3>
+                        </div>
+                    </div>
+</div>
+                    <div class="pager"></div>
+                </div>
+
+
+            </div>
+            <div class="privacy">
+
+                <div class="row">
+                    <div class="col-sm-6 legali">
+                        <h3>Pubblicità legale</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="//albopretorio.regione.fvg.it/ASUIUD">Albo pretorio</a></li>
+                            <li><a href="/lazienda/azienda-integrata/albo/avvisi/">Avvisi</a></li>
+                            <li><a href="/lazienda/azienda-integrata/albo/bandi">Bandi di gara e contratti</a></li>
+                            <li><a href="/lazienda/azienda-integrata/albo/concorsi">Concorsi</a></li>
+                            <li><a href="/lazienda/azienda-integrata/albo/sponsorizzazioni">Sponsorizzazioni</a></li>
+                        </ul>
+
+                        <h3>Trasparenza</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/lazienda/azienda-integrata/amministrazione-trasparente">Amministrazione trasparente</a></li>
+                        </ul>
+                        <h3>Privacy</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/info-legali/consenso-trattamento-dati">Consenso al trattamento dei dati</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 servizi">
+                        <img src="/static/img/mano.svg" width="82" class="hidden-xs" alt="">
+
+                        <div class="white-box">
+                            <h2 class="inline">Servizi regionali online</h2>
+                            <ul class="list-unstyled">
+                                <li><a href="https://servizionline.sanita.fvg.it/prenotazioni" class="prenotazione">prenotazione online e tempi d’attesa</a></li>
+                                <li><a href="https://servizionline.sanita.fvg.it/prenotazioni/#/annullo" class="annullamento">annullamento prenotazioni</a></li>
+                                <li><a href="https://pagamentionline.regione.fvg.it/PagamentoVolontarioSanita" class="pagamenti">pagamenti e sanità</a></li>
+                                <li><a href="https://refertionline.sanita.fvg.it/SERVIZIFVG_RefertiOnLine/cercaRichiesta" class="ritiro">ritiro referti online</a></li>
+                                <li><a href="https://servizionline.sanita.fvg.it/psonline/#/index/azienda/AOUUD" class="tempi">tempi d’attesa in pronto soccorso</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="come-fare white-box">
+                <h2 class="inline"> Come fare per</h2>
+                <div class="content">
+                    
+                    <div class="row">
+
+  <div class="col-sm-6 col-md-12">
+    <h3>
+
+Persone</h3>
+    <ul class="list-unstyled">
+<li>
+
+   <a href="/servizi/per-le-persone/esami-e-visite/prestazioni-erogate">
+Conoscere le prestazioni erogate</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/esami-e-visite/attivita-in-libera-professione">
+Cercare attività in libera professione</a></li>
+<li>
+
+   <a href="/segnalazioni">
+Fare una segnalazione</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/albo">
+Trovare bandi, gare e concorsi</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/come-si-accede-alle-prestazioni-esami-e-visite/come-si-richiedono-esami-e-visite/richiesta-rimborso-ticket/Mod_ritiro_referti_certificazioni%20_altra%20documentazione_sanitaria_con_delega.pdf">
+Delega ritiro referti</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/assistenza-sanitaria/assistenza-ospedaliera/richiesta-copia-cartella-e-documentazione-clinica">
+Richiedere copia Cartella e documentazione Clinica</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-6 col-md-12">
+    <h3>
+
+Aziende e professionisti</h3>
+    <ul class="list-unstyled">
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/sicurezza-luoghi-di-lavoro">
+Sicurezza luoghi di lavoro</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-imprese-e-professionisti/certificazioni-per-le-imprese">
+Certificazioni per le imprese</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-6 col-md-12">
+    <h3>
+
+Possessori di animali</h3>
+    <ul class="list-unstyled">
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali/animali-da-affezione/iscrizione-anagrafe-canina">
+Iscrizione anagrafe canina</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali/animali-da-affezione/cani-morsicatori">
+Morso da cane ignoto</a></li>
+<li>
+
+   <a href="http://asuiud.sanita.fvg.it/servizi/per-chi-possiede-animali/animali-da-allevamento/anagrafe-bovina-suina-ovina-equina-avicola">
+Iscrizione anagrafe bovina</a></li>
+    </ul>
+  </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+<div class="variazioni-block">
+    <img src="/static/img/variazioni.png" height="100" alt="">
+    <div class="variazioni white-box">
+        <h2>Variazioni nei servizi</h2>
+        
+            <div class="date">2 gennaio</div>
+            <p><a href="http://asuiud.sanita.fvg.it/variazioni/segreteria-clinica-chirurgia-plastica-chiusura">Segreteria Clinica Chirurgia Plastica - chiusura temporanea</a></p>
+        
+        
+            <div class="date">29 dicembre</div>
+            <p><a href="http://asuiud.sanita.fvg.it/variazioni/segreteria-soc-di-chirurgia-plastica-chiusura-temporanea">Segreteria SOC di Chirurgia Plastica - chiusura temporanea</a></p>
+        
+        
+            <div class="date">27 dicembre</div>
+            <p><a href="http://asuiud.sanita.fvg.it/variazioni/visite-dermatologiche-urgenti-1">Visite dermatologiche urgenti</a></p>
+        
+        <a href="http://asuiud.sanita.fvg.it/variazioni"><small>Vedi tutto ></small></a>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+    </div>
+    </div>
+
+    <div class="utenze">
+        <div class="container ">
+            <h2>QUALI SERVIZI CERCHI?</h2>
+            <img class="img-servizi hidden-xs hidden-sm" src="/static/img/servizi.svg" alt="">
+            <div class="row text-center">
+                <div class="col-md-4">
+
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 ">
+                    <a href="/utenti/persone" class="cittadino">PER LE <br>PERSONE</a>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 ">
+                    <a href="/utenti/imprese" class="imprese">PER  IMPRESE e <br>PROFESSIONISTI</a>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 ">
+                    <a href="/utenti/animali" class="animali">PROPRIETARI <br>DI ANIMALI</a>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-2 ">
+                    <a href="/servizi/servizi_listing" class="servizi">SCHEDE PER L’ACCESSO <br>AI SERVIZI</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="grey-bg">
+    <div class="container info-mix">
+        <div class="row">
+            <div class="col-sm-8">
+                <img src="/static/img/dottori.png" style="height: 120px; margin-bottom: 20px" alt="">
+
+<div id="faq-box">
+  <img src="/static/img/icone/faq.png" alt="">
+  <h2><a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/staff/urp/faq">FAQ - Vaccinazioni  ›</a></h2>
+</div>
+<div id="cure-sicure">
+  <a target="_blank" href="https://egas.sanita.fvg.it/it/aree-tematiche/rete-cure-sicure-fvg/"><img alt="Rete Cure Sicure" src="/static/img/cure-sicure.png"></a>
+</div>
+                <div class="orari white-box">
+                    <h2>ORARI E RECAPITI</h2>
+                     <ul class="list-unstyled col-md-6">
+                        <li><a href="/servizi/per-le-persone/medici-e-pediatri/trova-il-tuo-medico" class="medici">medici e pediatri</a></li>
+                        <li><a href="/servizi/per-le-persone/medici-e-pediatri/guardia-medica" class="guardia">continuità assistenziale / guardia medica</a></li>
+                        <li><a href="/servizi/per-le-persone/farmacie" class="farmacie">farmacie</a></li>
+                        <li><a href="/servizi/per-le-persone/punti-prelievo" class="prelievi">punti prelievo</a></li>
+                    </ul>
+
+                    <ul class="list-unstyled col-md-6">
+                        <li><a href="/lazienda/info-e-contatti/sedi-e-recapiti/punti-cup" class="cup">Punti CUP</a></li>
+                        <li><a href="/lazienda/info-e-contatti/sedi-e-recapiti/uffici-anagrafe-sanitaria" class="anagrafe">Uffici anagrafe sanitaria, anagrafe migranti e assistenza internazionale</a></li>
+                        <li><a href="/lazienda/info-e-contatti/sedi-e-recapiti/uffici-assistenza-protesica" class="protesi">Uffici assistenza protesica</a></li>
+                        <li><a href="/lazienda/info-e-contatti/sedi-e-recapiti/consultori-familiari" class="consultori">Consultori familiari</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <img src="/static/img/ospedale.svg" height="100" alt="">
+                <div class="centri white-box">
+                    <h2>CENTRI REGIONALI</h2>
+                    <p><a href="/lazienda/associazioni-centri-comitati/centro-trapianti">Centro regionale trapianti</a></p>
+                    <p><a href="//malattierare.aou.udine.it/">Centro regionale malattie rare</a></p>
+                </div>
+                <div class="siti white-box">
+                    <h2>SITI precedenti al 1.5.2016</h2>
+                    <p><a target="_blank" href="//old.aou.udine.it">ex Azienda Ospedaliera Universitaria “S. Maria della Misericordia”</a></p>
+                    <p><a target="_blank" href="//old.aas4.sanita.fvg.it">ex ASS 4 “Friuli Centrale”</a></p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 contatti">
+                <h3>Contatti</h3>
+                <div class="contatto"><a href="/lazienda/elenco-telefonico">Elenco telefonico</a></div>
+
+                <div class="contatto tel">
+                    <div class="title">L’azienda informa e URP:</div>
+                    <div class="val"><a href="tel:0432554440">0432 554440</a></div>
+                </div>
+
+                <div class="contatto tel">
+                    <div class="title">Numero unico call center</div>
+                    <div class="val"><a href="tel:0434223522">0434 223522</a></div>
+                </div>
+
+                <div class="contatto tel">
+                    <div class="title">PEC:</div>
+                    <div class="val"><a href="mailto:asuiud@certsanita.fvg.it">asuiud@certsanita.fvg.it</a></div>
+                </div>
+
+                <div class="contatto emergency"><img src="/static/img/112.png" alt="Numero unico per tutte le emergenze: 112"></div>
+            </div>
+            <div class="col-sm-8">
+   
+
+                <div class="banner-salute">
+
+                     <a class="main" href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/staff/urp/guide-rapide">
+                     <div class="row">
+                        <div class="col-sm-6 hidden-xs hidden-sm">
+<div class="picture" style="background-image:url(http://asuiud.sanita.fvg.it/educazione/handbook/image)"></div></div>
+                        <div class="col-sm-12 col-md-6 ">
+                           <h3>Handbook</h3>
+                           <p>Scarica le guide rapide per l’utente</p>
+                        </div>
+                     </div>
+                     </a>
+                </div>
+                <div class="banner-salute">
+
+                     <a class="main" href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/staff/urp/igiene-mani">
+                     <div class="row">
+                        <div class="col-sm-6 hidden-xs hidden-sm">
+<div class="picture" style="background-image:url(http://asuiud.sanita.fvg.it/educazione/igiene-delle-mani/image)"></div></div>
+                        <div class="col-sm-12 col-md-6 ">
+                           <h3>Igiene delle mani</h3>
+                           <p>I cinque momenti fondamentali</p>
+                        </div>
+                     </div>
+                     </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+<div class="banners">
+    <div class="cycle-slideshow" data-cycle-pause-on-hover="true" data-cycle-fx="scrollHorz" data-cycle-speed="1000" data-cycle-slides="&gt;.slide" data-cycle-pager=".banners-pager">
+        <div class="slide">
+            <div class="col-sm-3 text-center">
+                <a href="http://asuiud.sanita.fvg.it/servizi/per-le-persone/attivita-di-prevenzione/vaccinazioni/richiesta-certificato"><img class="img-responsive" alt="Richiesta di certificato vaccinale" src="http://asuiud.sanita.fvg.it/banners/richiesta-di-certificato-vaccinale" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/albo"><img class="img-responsive" alt="Albo aziendale online" src="http://asuiud.sanita.fvg.it/banners/albo-aziendale.jpg" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="https://servizionline.sanita.fvg.it/prenotazioni"><img class="img-responsive" alt="Prenotazione prestazioni on line" src="http://asuiud.sanita.fvg.it/banners/prenotazione-prestazioni-on-line" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/staff/urp"><img class="img-responsive" alt="Ufficio Relazioni con il Pubblico" src="http://asuiud.sanita.fvg.it/banners/ufficio-relazioni-con-il-pubblico" /></a>
+
+            </div>
+        </div>
+        <div class="slide">
+            <div class="col-sm-3 text-center">
+                <a href="http://asuiud.sanita.fvg.it/lazienda/azienda-integrata/amministrazione-trasparente"><img class="img-responsive" alt="Amministrazione Trasparente" src="http://asuiud.sanita.fvg.it/banners/operazione-trasparenza" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="https://pagamentionline.regione.fvg.it/PagamentoVolontarioSanita"><img class="img-responsive" alt="Pagamenti sanità FVG" src="http://asuiud.sanita.fvg.it/banners/pagamenti-sanita-fvg" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="https://refertionline.sanita.fvg.it/SERVIZIFVG_RefertiOnLine/cercaRichiesta"><img class="img-responsive" alt="Referti online" src="http://asuiud.sanita.fvg.it/banners/referti-online" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="http://asuiud.sanita.fvg.it/info-legali/consenso-trattamento-dati"><img class="img-responsive" alt="Consenso al trattamento dei dati" src="http://asuiud.sanita.fvg.it/banners/consenso-al-trattamento-dei-dati" /></a>
+
+            </div>
+        </div>
+        <div class="slide">
+            <div class="col-sm-3 text-center">
+                <a href="https://servizionline.sanita.fvg.it/prenotazioni/#/annullo"><img class="img-responsive" alt="Annullamento prenotazione" src="http://asuiud.sanita.fvg.it/banners/annullamento-prenotazione" /></a>
+
+            </div>
+            <div class="col-sm-3 text-center">
+                <a href="/servizi/per-le-persone/come-si-accede-alle-prestazioni-esami-e-visite/come-si-richiedono-esami-e-visite#telefonica"><img class="img-responsive" alt="Numero Unico" src="http://asuiud.sanita.fvg.it/banners/numero-unico" /></a>
+
+            </div>
+        </div>
+     </div>
+     <div class="clearfix"></div>
+     <div class="banners-pager pager text-center"></div>
+   
+</div>
+    </div>
+
+    <div class="sedi">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <h2><a href="/ospedali/gervasutta">IMFR Gervasutta <i class="fa fa-arrow-right"></i></a></h2>
+                    
+                    
+                </div>
+                <div class="col-sm-8">
+                    <h2><a href="/ospedali/smm">Ospedale di Udine “S. Maria della Misericordia” <i class="fa fa-arrow-right"></i></a></h2>
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="distretti">
+        <div class="container">
+            <h2>DISTRETTI</h2>
+            <div class="row">
+                <div class="col-sm-4"><a href="/distretti/distretti-sanitari/distretto-di-cividale">Distretto di Cividale</a></div>
+                <div class="col-sm-4"><a href="/distretti/distretti-sanitari/distretto-di-tarcento">Distretto di Tarcento</a></div>
+                <div class="col-sm-4"><a href="/distretti/distretti-sanitari/distretto-di-udine">Distretto di Udine</a></div>
+            </div>
+            <h2>DIPARTIMENTI</h2>
+            <div class="row">
+                <div class="col-sm-4"><a href="/distretti/dipartimenti/dipartimento-di-prevenzione">Dipartimento di prevenzione</a></div>
+                <div class="col-sm-4"><a href="/distretti/dipartimenti/dipartimento-di-salute-mentale">Dipartimento di salute mentale</a></div>
+                <div class="col-sm-4"><a href="/distretti/dipartimenti/dipartimento-delle-dipendenze">Dipartimento delle dipendenze</a></div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+        <footer>
+    <div class="container">
+        <div class="footer">
+            <div class="menu">
+                <ul class="list-unstyled">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/sitemap">Mappa del sito</a></li>
+                    <li><a href="/segnalazioni">Segnalazioni</a></li>
+                    <li><a href="http://asuiud.sanita.fvg.it/info-legali/consenso-trattamento-dati">Privacy</a></li>
+                    <li><a href="http://asuiud.sanita.fvg.it/info-legali/cookie-policy">Cookie policy</a></li>
+                    
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 azienda">
+                    <div class="title">Azienda Sanitaria Universitaria Integrata di Udine</div>
+                    <p class="location">Via Pozzuolo, 330 – 33100 Udine</p>
+                    <div class="dati">
+                      CF e P. IVA <strong>02801610300</strong><br>
+<strong>IBAN IT 38O0200812310000103533410</strong> (utilizzabile solo da privati)<br>
+Codice Univoco Ufficio: <strong>UFP3FS</strong><br><br>
+                    </div>
+
+
+
+                </div>
+                <div class="col-md-4 text-center joint">
+<div class="area-dipendenti text-right">
+  <h3>Area dipendenti</h3>
+  <ul>
+    
+    
+    <li><a href="https://posta.um.fvg.it/" target="_blank">Mail aziendale</a></li>
+    <li><a href="https://ssd-asuiud.sanita.fvg.it" target="_blank">Sportello Self Service</a></li>
+  </ul>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    </div> <!-- .content-box -->
+
+
+<script src="/static/js/cbpHorizontalMenu.min.js"></script>
+<script src="/static/js/functions.js?v=2"></script>
+</body>
+</html>

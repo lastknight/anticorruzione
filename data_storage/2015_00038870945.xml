@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-01</dataPubbicazioneDataset>
+		<entePubblicatore>[Comune di Carpinone]</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-01</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.comune.carpinone.is.it/zf/index.php/dataset/appalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+						<lotto>
+						<cig>ZB10CE632A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00038870945</codiceFiscaleProp>
+				<denominazione>COMUNE DI CARPINONE</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO PULIZIA IMMOBILI COMUNALI PER ANNI 2  (DUE). COTTIMO FIDUCIARIO ATTRAVERSO IL MEPA - CONSIP.</oggetto>
+			<sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+			<partecipanti>
+												<partecipante>
+					<codiceFiscale>03739740615</codiceFiscale>
+					<ragioneSociale>BRILL SERVICE S.A.S DI FERRARA MARIA</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>01608890768</codiceFiscale>
+					<ragioneSociale>DECA SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>12354391000</codiceFiscale>
+					<ragioneSociale>EXPERT FULL OPERATION SERVICE</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>01340830692</codiceFiscale>
+					<ragioneSociale>FERRANTE ADA MARIA</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>06531951215</codiceFiscale>
+					<ragioneSociale>LA LUCIDA SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>01548260700</codiceFiscale>
+					<ragioneSociale>LA PULISPLENDID SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>01527590614</codiceFiscale>
+					<ragioneSociale>LA SPLENDOR DI PALMIERI GIUSEPPE E C SNC</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>01834930768</codiceFiscale>
+					<ragioneSociale>LIMPIA SOC COOP A R.L.</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>03209590839</codiceFiscale>
+					<ragioneSociale>LOUIS SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>03654920614</codiceFiscale>
+					<ragioneSociale>PARENTE SERVICE SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>03515110611</codiceFiscale>
+					<ragioneSociale>PULIRAPID</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>02744220787</codiceFiscale>
+					<ragioneSociale>S.P. GLOBAL SERVICE S.A.S</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>02833831205</codiceFiscale>
+					<ragioneSociale>SE. &amp; GE. DI. SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>03354160610</codiceFiscale>
+					<ragioneSociale>STS SUD SRL</ragioneSociale>
+				</partecipante>
+								<partecipante>
+					<codiceFiscale>07947601006</codiceFiscale>
+					<ragioneSociale>TEAM SERVICE SOCIETA' CONSORTILE A R.L.</ragioneSociale>
+				</partecipante>
+							</partecipanti>
+			<aggiudicatari>
+															<aggiudicatario>
+							<codiceFiscale>01548260700</codiceFiscale>
+							<ragioneSociale>LA PULISPLENDID SRL</ragioneSociale>
+						</aggiudicatario>
+									
+							</aggiudicatari>
+			<importoAggiudicazione>8198.40</importoAggiudicazione>
+			<tempiCompletamento>
+								<dataInizio>2014-01-01</dataInizio>
+												<dataUltimazione>2015-12-31</dataUltimazione>
+							</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+					</data>
+</legge190:pubblicazione>

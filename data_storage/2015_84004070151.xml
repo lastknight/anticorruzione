@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Pubblicazione Legge 190 del 2012</abstract>
+    <dataPubblicazioneIndice>2014-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE - "TARRA" - BUSTO GAROLFO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-16</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.icstarra.gov.it/wordpress/avcp/indicecontratti.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2012">
+      <linkDataset>http://www.icstarra.gov.it/wordpress/avcp/contratti2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.icstarra.gov.it/wordpress/avcp/contratti2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2014">
+      <linkDataset>http://www.icstarra.gov.it/wordpress/avcp/contratti2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+	<dataset id="ID2015">
+      <linkDataset>http://www.icstarra.gov.it/wordpress/avcp/contratti2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+	<dataset id="ID2016">
+      <linkDataset>http://www.icstarra.gov.it/wordpress/avcp/contratti2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-16</dataUltimoAggiornamento>
+    </dataset>
+	  </indice>
+</indici>

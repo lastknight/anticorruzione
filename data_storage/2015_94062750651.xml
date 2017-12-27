@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione informazioni art. 1 comma 32 legge 190/2012</titolo>
+    <abstract>Tutte le informazioni richieste dall'ART. 1 COMMA 32 LEGGE 190/2012</abstract>
+    <dataPubblicazioneIndice>2015-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>SCUOLA SECONDARIA STATALE DI 1 GRADO "GALVANI-OPROMOLLA-SMALDONE" -  - ANGRI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SM27352/2014/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SM27352/2014/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SM27352/2014/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2012">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SM27352/2014/gare2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

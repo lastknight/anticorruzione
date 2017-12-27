@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-09</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Arsi&amp;egrave;</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://sac4.halleysac.it/c025004/zf/index.php/dataset/appalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+																				<lotto>
+										<cig>33993418ED</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SERVIZIO SGOMBERO NEVE</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00825770258</codiceFiscale>
+								<ragioneSociale>BRUSTOLIN Jean Marc</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01896370242</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL &amp; STEFANI s.n.c</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01006570251</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL CORRADO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00991640251</codiceFiscale>
+								<ragioneSociale>FANFONI Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956000251</codiceFiscale>
+								<ragioneSociale>LIRA Christian</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956480255</codiceFiscale>
+								<ragioneSociale>MORES Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00827480252</codiceFiscale>
+								<ragioneSociale>MORES Giorgio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>RCCLCN58P10A443M</codiceFiscale>
+								<ragioneSociale>ROCCA LUCIANO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00733460257</codiceFiscale>
+								<ragioneSociale>TESSARO Enrico</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00850430257</codiceFiscale>
+								<ragioneSociale>ZAETTA Marco</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>01006570251</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL CORRADO</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>25942.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2011-11-01</dataInizio>
+																			<dataUltimazione>2014-03-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>3399320799</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SERVIZIO SGOMBERO NEVE</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00825770258</codiceFiscale>
+								<ragioneSociale>BRUSTOLIN Jean Marc</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01896370242</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL &amp; STEFANI s.n.c</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01006570251</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL CORRADO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00991640251</codiceFiscale>
+								<ragioneSociale>FANFONI Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956000251</codiceFiscale>
+								<ragioneSociale>LIRA Christian</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956480255</codiceFiscale>
+								<ragioneSociale>MORES Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00827480252</codiceFiscale>
+								<ragioneSociale>MORES Giorgio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>RCCLCN58P10A443M</codiceFiscale>
+								<ragioneSociale>ROCCA LUCIANO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00733460257</codiceFiscale>
+								<ragioneSociale>TESSARO Enrico</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00850430257</codiceFiscale>
+								<ragioneSociale>ZAETTA Marco</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00850430257</codiceFiscale>
+								<ragioneSociale>ZAETTA Marco</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>17827.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2011-11-01</dataInizio>
+																			<dataUltimazione>2014-03-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>3399271F27</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SERVIZIO SGOMBERO NEVE</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00825770258</codiceFiscale>
+								<ragioneSociale>BRUSTOLIN Jean Marc</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01896370242</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL &amp; STEFANI s.n.c</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01006570251</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL CORRADO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00991640251</codiceFiscale>
+								<ragioneSociale>FANFONI Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956000251</codiceFiscale>
+								<ragioneSociale>LIRA Christian</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956480255</codiceFiscale>
+								<ragioneSociale>MORES Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00827480252</codiceFiscale>
+								<ragioneSociale>MORES Giorgio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>RCCLCN58P10A443M</codiceFiscale>
+								<ragioneSociale>ROCCA LUCIANO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00733460257</codiceFiscale>
+								<ragioneSociale>TESSARO Enrico</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00850430257</codiceFiscale>
+								<ragioneSociale>ZAETTA Marco</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00956000251</codiceFiscale>
+								<ragioneSociale>LIRA Christian</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>11680.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2011-11-01</dataInizio>
+																			<dataUltimazione>2014-03-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>339914465C</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SERVIZIO SGOMBERO NEVE</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00825770258</codiceFiscale>
+								<ragioneSociale>BRUSTOLIN Jean Marc</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01896370242</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL &amp; STEFANI s.n.c</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>01006570251</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL CORRADO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00991640251</codiceFiscale>
+								<ragioneSociale>FANFONI Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956000251</codiceFiscale>
+								<ragioneSociale>LIRA Christian</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956480255</codiceFiscale>
+								<ragioneSociale>MORES Fabio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00827480252</codiceFiscale>
+								<ragioneSociale>MORES Giorgio</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>RCCLCN58P10A443M</codiceFiscale>
+								<ragioneSociale>ROCCA LUCIANO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00733460257</codiceFiscale>
+								<ragioneSociale>TESSARO Enrico</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00850430257</codiceFiscale>
+								<ragioneSociale>ZAETTA Marco</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00956480255</codiceFiscale>
+								<ragioneSociale>MORES Fabio</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>14877.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2011-11-01</dataInizio>
+																			<dataUltimazione>2014-03-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>531609438C</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SERVIZI SCOLASTICI</oggetto>
+					<sceltaContraente>17-AFFIDAMENTO DIRETTO EX ART. 5 DELLA LEGGE N.381/91</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>01100300258</codiceFiscale>
+								<ragioneSociale>COOPERATIVA VAL CISMON</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>01100300258</codiceFiscale>
+								<ragioneSociale>COOP.SOC.VALCISMON</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>44096.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>44096.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>54112397AE</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>NOLEGGI TRATTORE</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>03648050015</codiceFiscale>
+								<ragioneSociale>UNICREDIT LEASING SPA</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>03648050015</codiceFiscale>
+								<ragioneSociale>UNICREDIT LEASING SPA</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>20696.82</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>20696.82</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>0020778025</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ASRIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>ACQUISTI PER RACCOLTA DIFFERENZIATA</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>01281780302</codiceFiscale>
+								<ragioneSociale>MATTIUSSI ECOLOGICA</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>01281780302</codiceFiscale>
+								<ragioneSociale>MATTIUSSI ECOLOGICA</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>7063.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>7063.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z0609949F0</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>PREDISPOSIZIONE P.C.I.L.</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>BTTDNN65D19L329D</codiceFiscale>
+								<ragioneSociale>BETTEGA DENNI ING.</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>BTTDNN65D19L329D</codiceFiscale>
+								<ragioneSociale>BETTEGA DENNI INGEGNERE</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>18624.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>18624.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z2605C314D</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>DISINFESTAZIONE ZANZARE</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>01126690252</codiceFiscale>
+								<ragioneSociale>ECO CORLO</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>01126690252</codiceFiscale>
+								<ragioneSociale>ECO CORLO</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>19600.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>19600.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z6B0DB30A2</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>REVISORE DEI CONTI</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>MNRPLA69L51Z133W</codiceFiscale>
+								<ragioneSociale>MUNEROL PAOLA</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>MNRPLA69L51Z133W</codiceFiscale>
+								<ragioneSociale>MUNEROL PAOLA</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>6356.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>6356.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z830EE9555</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ASRISE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SOGGIORNI MARINI</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>03869490288</codiceFiscale>
+								<ragioneSociale>TRAVEL GROUP SERVICE</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>03869490288</codiceFiscale>
+								<ragioneSociale>TRAVEL GROUP SERVICE</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>5163.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>5163.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z890F2B203</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>APPLICATIVO GESTIONALE</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>02808610279</codiceFiscale>
+								<ragioneSociale>HALLEY VENETO</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>02808610279</codiceFiscale>
+								<ragioneSociale>HALLEY VENETO</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>7493.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>7493.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>ZAC0EF26B5</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>ASSICURAZIONI</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>03858060274</codiceFiscale>
+								<ragioneSociale>INTREMEDIA IB</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>03858060274</codiceFiscale>
+								<ragioneSociale>INTERMEDIA IB</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>31005.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>31005.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>3297872211</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>DL E CONTABILITA' LAVORI SPONDE LAGO DI CORLO</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>SPPGPP74H29A083B</codiceFiscale>
+								<ragioneSociale>SOPPELSA ING.GIUSEPPE</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>SPPGPP74H29A083B</codiceFiscale>
+								<ragioneSociale>SOPPELSA ING.GIUSEPPE</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>8779.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>8779.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z060CC7ECE</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>LAVORI SPONDE LAGO DI CORLO</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00734440258</codiceFiscale>
+								<ragioneSociale>GEO ALPI ITALIANA</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00734440258</codiceFiscale>
+								<ragioneSociale>GEO ALPI ITALIANA SRL</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>12583.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>12583.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>ZD30D5FBC6</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>DL E CONTABILITA' CASA RIVAI</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>BNERRT67E09A083E</codiceFiscale>
+								<ragioneSociale>BEN ROBERTO ARCHITETTO</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>BNERRT67E09A083E</codiceFiscale>
+								<ragioneSociale>BEN ROBERTO ARCHITETTO</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>8987.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>8987.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>446491546A</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>LAVORI SPONDE LAGO DI CORLO</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00586730251</codiceFiscale>
+								<ragioneSociale>CONSORZIO TRIVENETO ROCCIATORI</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00961080256</codiceFiscale>
+								<ragioneSociale>DM SNC</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00299820258</codiceFiscale>
+								<ragioneSociale>DOLOMITI ROCCE SRL</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00734440258</codiceFiscale>
+								<ragioneSociale>GEO ALPI ITALIANA</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>02230600245</codiceFiscale>
+								<ragioneSociale>GHELLER</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00734440258</codiceFiscale>
+								<ragioneSociale>GEO ALPI ITALIANA SRL</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>20680.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>20680.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>7570F1EA3F</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>TESTI SCOLASTICI</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>DLLFRC85B58D530B</codiceFiscale>
+								<ragioneSociale>L'ARCOBALENO CARTOLERIA DALL'AGNOL F</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>02213720242</codiceFiscale>
+								<ragioneSociale>LA BASSANESE LIBRERIA</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>DLLFRC85B58D530B</codiceFiscale>
+								<ragioneSociale>L'ARCOBALENO CARTOLERIA</ragioneSociale>
+							</aggiudicatario>
+											    	<aggiudicatario>
+								<codiceFiscale>02213720242</codiceFiscale>
+								<ragioneSociale>LA BASSANESE LIBRERIA</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>382.48</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>382.48</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>48721934DA</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>LAVORI AREA ATTREZZATA MELLAME</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00961080256</codiceFiscale>
+								<ragioneSociale>DM SNC</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00927340257</codiceFiscale>
+								<ragioneSociale>EDIL D</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00923730253</codiceFiscale>
+								<ragioneSociale>EDILGASPERIN</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00871970257</codiceFiscale>
+								<ragioneSociale>F.LLI ZANCANARO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00763980257</codiceFiscale>
+								<ragioneSociale>IMPRESA EDILE DE ROCCO CLAUDIO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00956480255</codiceFiscale>
+								<ragioneSociale>MORE FABIO</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00659370258</codiceFiscale>
+								<ragioneSociale>MORES ANGELO SAS</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00989070255</codiceFiscale>
+								<ragioneSociale>SETGAR</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00961080256</codiceFiscale>
+								<ragioneSociale>DM SNC</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>90000.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>90000.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>510422293C</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>LAVORI CASA RIVAI</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>02008460228</codiceFiscale>
+								<ragioneSociale>COSTRUZIONI IOBDTRAIBIZER</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00971540257</codiceFiscale>
+								<ragioneSociale>DALL'AGNOL IMPIANTI</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00251940243</codiceFiscale>
+								<ragioneSociale>E.MA-PRI.CE.</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00923730253</codiceFiscale>
+								<ragioneSociale>EDILGASPERIN</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00137620258</codiceFiscale>
+								<ragioneSociale>SICI</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00923730253</codiceFiscale>
+								<ragioneSociale>EDILGASPERIN</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>62920.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>62920.00</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>5165662721</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>SISTEMAZIONE STRAORDINARIA MALGHE COMUNALI</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>00961080256</codiceFiscale>
+								<ragioneSociale>DM SNC</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00927340257</codiceFiscale>
+								<ragioneSociale>EDIL D</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00830160255</codiceFiscale>
+								<ragioneSociale>EDIL DE MU</ragioneSociale>
+							</partecipante>
+													<partecipante>
+								<codiceFiscale>00923730253</codiceFiscale>
+								<ragioneSociale>EDILGASPERIN</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>00920760253</codiceFiscale>
+								<ragioneSociale>FRANCO LAVINA COSTR.</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>51557.63</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>51557.63</importoSommeLiquidate>
+				</lotto>
+																							<lotto>
+										<cig>Z0E0F6F961</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00207780255</codiceFiscaleProp>
+						<denominazione>COMUNE DI ARSIE'</denominazione>
+					</strutturaProponente>
+					<oggetto>APPLICATIVO PER UFF.DEMOGRAFICO FIERA</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>
+																			<partecipante>
+								<codiceFiscale>06188330150</codiceFiscale>
+								<ragioneSociale>MAGGIOLI SPA</ragioneSociale>
+							</partecipante>
+											</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>06188330150</codiceFiscale>
+								<ragioneSociale>MAGGIOLI SPA</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>3294.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-01-01</dataInizio>
+																			<dataUltimazione>2014-12-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>3294.00</importoSommeLiquidate>
+				</lotto>
+						</data>
+</legge190:pubblicazione>

@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2010 aggiornamento del 2015-01-29 10:50:05</abstract>
+		<dataPubbicazioneDataset>2015-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>Battaglione GENNARGENTU</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://localhost/avcpweb/xmldir/avcp-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+		<cig>ZD10E5AA41</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di materiale di consumo per automezzi</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>01742000928</codiceFiscale>
+					<ragioneSociale>Al Ricambio</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>07636851003</codiceFiscale>
+					<ragioneSociale>AUTO PARTS ITALIA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02800390920</codiceFiscale>
+					<ragioneSociale>UTENSILERIA SARDA Srl</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>05637981001</codiceFiscale>
+					<ragioneSociale>FULL COLORS S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00089260608</codiceFiscale>
+					<ragioneSociale>ENNIO &amp; ALBERTO GORIROSSI S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>06827191005</identificativoFiscaleEstero>
+					<ragioneSociale>NO.VE.RI. AUTO S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>00012930913</identificativoFiscaleEstero>
+					<ragioneSociale>AREA RICAMBI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>00212430920</identificativoFiscaleEstero>
+					<ragioneSociale>AUTORICAMBI SECCI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>00533240925</identificativoFiscaleEstero>
+					<ragioneSociale>Autoricambi Ra.Ri.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02556680920</codiceFiscale>
+					<ragioneSociale>Form Ricambi</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00060950904</codiceFiscale>
+					<ragioneSociale>Manunta srl</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02769870615</codiceFiscale>
+					<ragioneSociale>Mear S.R.L.</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>02800390920</codiceFiscale>
+					<ragioneSociale>UTENSILERIA SARDA Srl</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>218.64</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-03-18</dataInizio>
+			<dataUltimazione>2014-06-06</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>218.64</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z1A0E56D2A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di ricambi auto</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>01742000928</codiceFiscale>
+					<ragioneSociale>Al Ricambio</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00060950904</codiceFiscale>
+					<ragioneSociale>Manunta srl</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02556680920</codiceFiscale>
+					<ragioneSociale>Form Ricambi</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>00533240925</identificativoFiscaleEstero>
+					<ragioneSociale>Autoricambi Ra.Ri.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>00212430920</identificativoFiscaleEstero>
+					<ragioneSociale>AUTORICAMBI SECCI</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>00060950904</codiceFiscale>
+					<ragioneSociale>Manunta srl</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>1477.96</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-03-18</dataInizio>
+			<dataUltimazione>2014-05-16</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>1477.96</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>ZD00EDA73E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Approvvigionamento e sostituzione valvola bombola di ossigeno medicinale</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>01738810975</codiceFiscale>
+					<ragioneSociale>Air Liquide Sanità Service Spa</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>01738810975</codiceFiscale>
+					<ragioneSociale>Air Liquide Sanità Service Spa</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>85.40</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-04-03</dataInizio>
+			<dataUltimazione>2014-07-01</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>85.40</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z430F07FF7</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Sostituzione Buoni pasto</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>Day Risoservice Spa</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>Day Risoservice Spa</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>85.40</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-04-23</dataInizio>
+			<dataUltimazione>2014-07-01</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>85.40</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z340F014F9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di ricambi auto</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<identificativoFiscaleEstero>06827191005</identificativoFiscaleEstero>
+					<ragioneSociale>NO.VE.RI. AUTO S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00089260608</codiceFiscale>
+					<ragioneSociale>ENNIO &amp; ALBERTO GORIROSSI S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>05637981001</codiceFiscale>
+					<ragioneSociale>FULL COLORS S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00102740552</codiceFiscale>
+					<ragioneSociale>IMPRESA BARONCI SALVATORE</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>07636851003</codiceFiscale>
+					<ragioneSociale>AUTO PARTS ITALIA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02769870615</codiceFiscale>
+					<ragioneSociale>Mear S.R.L.</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<identificativoFiscaleEstero>06827191005</identificativoFiscaleEstero>
+					<ragioneSociale>NO.VE.RI. AUTO S.R.L.</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>307.56</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-04-30</dataInizio>
+			<dataUltimazione>2014-05-22</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>307.56</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z900F10B5B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di connettori per la banda dati</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>02856220922</codiceFiscale>
+					<ragioneSociale>Teleco S.p.a</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>02856220922</codiceFiscale>
+					<ragioneSociale>Teleco S.p.a</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>500.20</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-03</dataInizio>
+			<dataUltimazione>2014-05-30</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>500.20</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z670F089AB</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Manutenzione semestrale estintori della Stazione Radio Interforze Punta Serpeddì</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>01407860913</codiceFiscale>
+					<ragioneSociale>&quot;AURORA ANTINCENDIO&quot;DI FLORINDA FLORE</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00565580958</codiceFiscale>
+					<ragioneSociale>ANTINCENDIO ANTINFORTUNISTICA TUVERI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02817010925</codiceFiscale>
+					<ragioneSociale>ARDE ANTINCENDIO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03014040921</codiceFiscale>
+					<ragioneSociale>INFORTUNISTICA SARDA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03505220925</codiceFiscale>
+					<ragioneSociale>QUATTRO MORI ANTINCENDIO S.N.C. DI ALBERTO ED EMANUELE CASU</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>04537130280</codiceFiscale>
+					<ragioneSociale>S.E.A. DI NICOLA ORRU&apos; &amp; C. SAS</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01676970922</codiceFiscale>
+					<ragioneSociale>SARDANTINCENDI</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>01676970922</codiceFiscale>
+					<ragioneSociale>SARDANTINCENDI</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>70.76</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-06</dataInizio>
+			<dataUltimazione>2014-07-16</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>70.76</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>ZC70F0AB63</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Svuotamento fossa setica Stazione Radio Interforze Punta Serpeddì</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>03357100928</codiceFiscale>
+					<ragioneSociale>AUTOSPURGO 24 SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02266780465</codiceFiscale>
+					<ragioneSociale>AUTOSPURGO MASSEI DI GIANNINI LUNIA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01354710913</codiceFiscale>
+					<ragioneSociale>CENTRO AMBIENTE SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03178600924</codiceFiscale>
+					<ragioneSociale>GAL SERVICE SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02016720928</codiceFiscale>
+					<ragioneSociale>LA PULITUTTO &amp; LA CEFIL 2</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01385530926</codiceFiscale>
+					<ragioneSociale>LA RUGIADA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02474110927</codiceFiscale>
+					<ragioneSociale>SARDA SERVIZI AMBIENTALI</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>03357100928</codiceFiscale>
+					<ragioneSociale>AUTOSPURGO 24 SRL</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>768.60</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-06</dataInizio>
+			<dataUltimazione>2014-07-04</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>768.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z0E0EFB182</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di cassette di pronto soccorso</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>02284810922</codiceFiscale>
+					<ragioneSociale>ANTINFORTUNISTICASRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01221860917</codiceFiscale>
+					<ragioneSociale>ANTINFORTUNISTICA81 DIPATRIZIO MANCA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03007340924</codiceFiscale>
+					<ragioneSociale>MAST MEDICAL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00972010706</codiceFiscale>
+					<ragioneSociale>PRE.DI.MA.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00288550924</codiceFiscale>
+					<ragioneSociale>SANIFARM S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02800390920</codiceFiscale>
+					<ragioneSociale>UTENSILERIA SARDA Srl</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>02284810922</codiceFiscale>
+					<ragioneSociale>ANTINFORTUNISTICASRL</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>491.66</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-06</dataInizio>
+			<dataUltimazione>2014-07-31</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>491.66</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>ZCE0F1754A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di materiale per la pulizia delle armi</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>05637981001</codiceFiscale>
+					<ragioneSociale>FULL COLORS S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01568980930</codiceFiscale>
+					<ragioneSociale>DEFCON 5</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03405620364</codiceFiscale>
+					<ragioneSociale>DEFENCE SYSTEM SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03385390103</codiceFiscale>
+					<ragioneSociale>DENIOS SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02128081201</codiceFiscale>
+					<ragioneSociale>FERRAMENTA 2001 DIBARACCANI MAURO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01769030246</codiceFiscale>
+					<ragioneSociale>FERRAMENTA CERIN SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01131170035</codiceFiscale>
+					<ragioneSociale>FERRAMENTA F.LLI SACCO SNC</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>10740790158</codiceFiscale>
+					<ragioneSociale>FERRAMENTA SORA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00667690044</codiceFiscale>
+					<ragioneSociale>LA CASALINDA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02097170969</codiceFiscale>
+					<ragioneSociale>MANUTAN ITALIA S.P.A.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01964750234</codiceFiscale>
+					<ragioneSociale>DATACOL SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01783770900</codiceFiscale>
+					<ragioneSociale>BRICOCITY SAS</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01169090113</codiceFiscale>
+					<ragioneSociale>TRADE COMPANY SRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02145301004</codiceFiscale>
+					<ragioneSociale>TUSCOLO RAV S.r.l.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01221860917</codiceFiscale>
+					<ragioneSociale>ANTINFORTUNISTICA81 DIPATRIZIO MANCA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02682130923</codiceFiscale>
+					<ragioneSociale>CAPRA SEBASTIANO DI CAPRA ROBERTO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03443220920</codiceFiscale>
+					<ragioneSociale>LA FERRAMENTA DI ALESSANDRA CUCCA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00725650915</codiceFiscale>
+					<ragioneSociale>LILLIU FERRAMENTA S.A.S</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01577070921</codiceFiscale>
+					<ragioneSociale>PIRLO LUIGI &amp; FIGLI S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02800390920</codiceFiscale>
+					<ragioneSociale>UTENSILERIA SARDA Srl</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02284810922</codiceFiscale>
+					<ragioneSociale>ANTINFORTUNISTICASRL</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>02242760201</identificativoFiscaleEstero>
+					<ragioneSociale>MARKET FERRAMENTA SRL</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>05637981001</codiceFiscale>
+					<ragioneSociale>FULL COLORS S.R.L.</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>375.76</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-07</dataInizio>
+			<dataUltimazione>2014-10-16</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>375.76</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>ZC70F18CE5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di una bilancia pesapersona per l&apos;infermeria</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>02008520286</codiceFiscale>
+					<ragioneSociale>GALIAZZO BRUNO S.N.C</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>07758920636</codiceFiscale>
+					<ragioneSociale>GIULIO RAIMO S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00615700374</codiceFiscale>
+					<ragioneSociale>LANZONI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>04707001006</codiceFiscale>
+					<ragioneSociale>MEDIKRON</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02367210735</codiceFiscale>
+					<ragioneSociale>MEDVET</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01663011003</codiceFiscale>
+					<ragioneSociale>VINCAL</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>02367210735</codiceFiscale>
+					<ragioneSociale>MEDVET</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>193.98</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-08</dataInizio>
+			<dataUltimazione>2014-06-27</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>193.98</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z6CDF2BDCE</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Servizio di lisciviatura di effetti letterecci</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>00818450561</codiceFiscale>
+					<ragioneSociale>LAVANDERIA IN di Cevolo Patrizia</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00687030957</codiceFiscale>
+					<ragioneSociale>MAREBLU srl | V. PARIGI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02745490926</codiceFiscale>
+					<ragioneSociale>LAVANDERIA HARRY POTTER</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02347840924</codiceFiscale>
+					<ragioneSociale>LAVANDERIA MOMO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01930380926</codiceFiscale>
+					<ragioneSociale>LAVASECCO PONY</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>02745490926</codiceFiscale>
+					<ragioneSociale>LAVANDERIA HARRY POTTER</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>278.16</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-13</dataInizio>
+			<dataUltimazione>2014-11-21</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>278.16</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z130F5532A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Manutenzione riparazione ed aggiornamento impianti di condizionamento Locali CSC4</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>02686980927</codiceFiscale>
+					<ragioneSociale>AIRCLIMA DI CARBONI NICOLA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02555500921</codiceFiscale>
+					<ragioneSociale>ITALIA APPALTI DI FESTA ROBERTO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01782250920</codiceFiscale>
+					<ragioneSociale>ANTONELLO PRINZIS</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00575460928</codiceFiscale>
+					<ragioneSociale>RMC IMPIANTI DI CASSANELLO MARCO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01688690922</codiceFiscale>
+					<ragioneSociale>TECNOLOGIA MODERNA IMPIANTISTICA DI TRADORI TOMMASO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03313780987</codiceFiscale>
+					<ragioneSociale>TEDOLDI ERMANNO S.R.L.SOCIETA&apos; UNIPERSONALE</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01994260923</codiceFiscale>
+					<ragioneSociale>TREXENTA IDROCLIMA SNC</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>02555500921</codiceFiscale>
+					<ragioneSociale>ITALIA APPALTI DI FESTA ROBERTO</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>1988.60</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-05-22</dataInizio>
+			<dataUltimazione>2014-08-28</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>1988.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>Z110F7DF9E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Manutenzione semestrale revisione e collaudo estintori degli automezzi</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>02817010925</codiceFiscale>
+					<ragioneSociale>ARDE ANTINCENDIO</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>03014040921</codiceFiscale>
+					<ragioneSociale>INFORTUNISTICA SARDA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01111900955</codiceFiscale>
+					<ragioneSociale>PIBIRI IMPIANTI TECNOLOGICI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01676970922</codiceFiscale>
+					<ragioneSociale>SARDANTINCENDI</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>00679070912</codiceFiscale>
+					<ragioneSociale>SOC. COOP. I.C.S.</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<codiceFiscale>01676970922</codiceFiscale>
+					<ragioneSociale>SARDANTINCENDI</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>157.62</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-06-03</dataInizio>
+			<dataUltimazione>2014-07-31</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>157.62</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>ZB60F8AED9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di batterie per gruppi di continuità</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>00934261009</codiceFiscale>
+					<ragioneSociale>F.E.R.T.</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+		</aggiudicatari>
+		<importoAggiudicazione>425.76</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-06-06</dataInizio>
+			<dataUltimazione>2014-07-21</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>425.76</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+		<cig>ZDA0F95668</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80015650924</codiceFiscaleProp>
+			<denominazione>3° Reggimento Trasmissioni - Battaglione &amp;#34;GENNARGENTU&amp;#34;</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura di autoricambi</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+					<codiceFiscale>07636851003</codiceFiscale>
+					<ragioneSociale>AUTO PARTS ITALIA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<identificativoFiscaleEstero>06827191005</identificativoFiscaleEstero>
+					<ragioneSociale>NO.VE.RI. AUTO S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>01940231002</codiceFiscale>
+					<ragioneSociale>AUTOFFICINA PONTINA SRL.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>05637981001</codiceFiscale>
+					<ragioneSociale>FULL COLORS S.R.L.</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>07089160019</codiceFiscale>
+					<ragioneSociale>MEC DIESEL SPA</ragioneSociale>
+			</partecipante>
+			<partecipante>
+					<codiceFiscale>02769870615</codiceFiscale>
+					<ragioneSociale>Mear S.R.L.</ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+					<identificativoFiscaleEstero>06827191005</identificativoFiscaleEstero>
+					<ragioneSociale>NO.VE.RI. AUTO S.R.L.</ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>500.32</importoAggiudicazione>
+		<tempiCompletamento>
+			<dataInizio>2014-06-10</dataInizio>
+			<dataUltimazione>2014-08-12</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>500.32</importoSommeLiquidate>
+		</lotto>
+</data>
+</legge190:pubblicazione>

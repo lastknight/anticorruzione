@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice ADEMPIMENTI DI CUI ALL'AR. 1 C.32 L. 190/12 - GARE ANNO 2014</titolo>
+    <abstract>GARE ESPLETATE ANNO 2014 - LICEO LINGUISTICO STATALE CASSARA' PA</abstract>
+    <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO LINGUISTICO STATALE - "NINNI CASSARA'" - PALERMO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SS27839/2014/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SS27839/2014/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

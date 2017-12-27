@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo><![CDATA[Anno 2014 - Adempimenti previsti dall art.1 comma 32 della legge n. 190/2012]]></titolo>
+		<abstract><![CDATA[Adempimenti previsti dall art.1 comma 32 della legge n. 190/2012]]></abstract>
+		<dataPubbicazioneDataset>2015-01-31</dataPubbicazioneDataset>
+		<entePubblicatore><![CDATA[CPIA 1 GROSSETO]]></entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-31</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.vannini-lazzaretti.gov.it</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>ZC911BACA1</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>92082870533</codiceFiscaleProp>
+				<denominazione><![CDATA[CPIA 1 GROSSETO]]></denominazione>
+			</strutturaProponente>
+			<oggetto><![CDATA[ASSICURAZIONE A.S. 2014 2015]]></oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00565010592</codiceFiscale>
+					<ragioneSociale><![CDATA[BENACQUISTA ASSICURAZIONI S.N.C.]]></ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00565010592</codiceFiscale>
+					<ragioneSociale><![CDATA[BENACQUISTA ASSICURAZIONI S.N.C.]]></ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2852.98</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-11-03</dataInizio>
+				<dataUltimazione>2015-11-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2852.98</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

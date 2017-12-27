@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-02-01</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Santa Giuletta</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-02-02</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c018140/zf/index.php/dataset/appalti-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+																							<lotto>
+										<cig>Z880D36D32</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00240820183</codiceFiscaleProp>
+						<denominazione>Comune Santa Giuletta</denominazione>
+					</strutturaProponente>
+					<oggetto>Bando di gara per l'affidamento del servizio tesoreria comunale periodo 1 aprile 2014 - 31 marzo 2019</oggetto>
+					<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>
+																	</partecipanti>
+					<aggiudicatari>
+																	    	<aggiudicatario>
+								<codiceFiscale>10810700152</codiceFiscale>
+								<ragioneSociale>BANCA INTESA SANPAOLO SPA</ragioneSociale>
+							</aggiudicatario>
+											</aggiudicatari>
+					<importoAggiudicazione>0.00</importoAggiudicazione>
+					<tempiCompletamento>
+													<dataInizio>2014-04-01</dataInizio>
+																			<dataUltimazione>2019-03-31</dataUltimazione>
+											</tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+				</lotto>
+						</data>
+</legge190:pubblicazione>

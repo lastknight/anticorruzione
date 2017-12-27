@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n°1</titolo>
+<abstract>Pubblicazione relativa all’anno 2014</abstract>
+<dataPubblicazioneIndice>2014-01-01</dataPubblicazioneIndice>
+<entePubblicatore>AVCP</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2014-12-31</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2014</annoRiferimento>
+<urlFile>www.comune.zollino.le.it/dataset_bandi/2014_indice.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>www.comune.zollino.le.it/dataset_bandi/2014_dataset.xml</linkDataset>
+<dataUltimoAggiornamento>2014-12-31</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

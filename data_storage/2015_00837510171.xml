@@ -1,0 +1,2200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 https://dati.avcp.it/schema/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione legge 190, anno rif. 2014</titolo>
+    <abstract>Pubblicazione legge 190, anno rif. 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+    <entePubblicatore>Comune di Vione</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://dataset.ckube.it/avcp/appaltil190/vione_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z260D454A5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di stampati per ufficio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>Ditta F. Apollonio &amp;amp; C. S.p.A.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00387640170</codiceFiscale>
+          <ragioneSociale>Tipografia Camuna S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>Ditta F. Apollonio &amp;amp; C. S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>576.65</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBE0D45B4C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione caldaie e impianti di riscaldamento edifici comunali Stadolina</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>Ferrari Carlo</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>PDRZFR53H01M065E</codiceFiscale>
+          <ragioneSociale>Terloelettrica Pedrotti Zefferino</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>Ferrari Carlo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z890D13CA3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza Responsabilità Civile RCT/RCO Reale Mutua</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA70D13BE6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza Incendio Reale Mutua</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2214.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2214.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z230D13B9E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza Infortuni dipendenti Unipol</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>577.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>577.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2D0D13B5F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza RCA + ARD Unipol per Autoveicolo comunale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>814.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>814.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6D0D13AF9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza RCA Reale Mutua macchina operatrice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nordd Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nordd Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>293.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>293.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6C0D13AB4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza RCA Generali macchina operatrice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>432.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>432.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6A0D13A2A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza rischio statico Generali per rimorchio automezzo comunale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>35.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>35.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z070D138F9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza RCA Generali Autovettura comunale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>550.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>550.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z960D1384C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza RCA Generali autovettura comunale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1073.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1073.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z220D1376D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza RCA Generali automezzo comunale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>707.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>707.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB60D4C20D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di energia elettrica immobili e impianti comunali</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02349420980</codiceFiscale>
+          <ragioneSociale>Valle Camonica Servizi Vendite S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02349420980</codiceFiscale>
+          <ragioneSociale>Valle Camonica Servizi Vendite S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6579.12</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB80D45E95</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Abbonamento rivista on line servizio ragioneria personale tributi locali e affari generali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03139650984</codiceFiscale>
+          <ragioneSociale>Soluzione S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03139650984</codiceFiscale>
+          <ragioneSociale>Soluzione S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>561.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>561.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCF0D4570E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di gas da riscaldamento locali ambulatori frazioni</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00443130588</codiceFiscale>
+          <ragioneSociale>Butangas S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00443130588</codiceFiscale>
+          <ragioneSociale>Butangas S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3199.96</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2F0EE2E4B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Attivazione Polizza per copertura assicurativa rischio infortuni volontari giornate di comune</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-25</dataInizio>
+        <dataUltimazione>2014-08-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z530D1C804</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di pulizia degli stabili comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02840480988</codiceFiscale>
+          <ragioneSociale>Società Cooperativa Sociale dell&amp;apos;Alta Valle Camonica Stella Alpina</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02840480988</codiceFiscale>
+          <ragioneSociale>Società Cooperativa Sociale dell&amp;apos;Alta Valle Camonica Stella Alpina</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6743.55</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBE0D45B4C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione caldaie e impianti di riscaldamento edifici comunali Vione e Canè</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PDRZFR53H01M065E</codiceFiscale>
+          <ragioneSociale>Termoelettrica Pedrotti Zefferino</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>Ditta Ferrari Carlo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PDRZFR53H01M065E</codiceFiscale>
+          <ragioneSociale>Termoelettrica Pedrotti Zefferino</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0D45AC9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di rigenerazione e smaltimento toner</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01995900980</codiceFiscale>
+          <ragioneSociale>ECO TEC S.n.c.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>Valle Camonica servizi S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01995900980</codiceFiscale>
+          <ragioneSociale>ECO TEC S.n.c.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8C0D455AA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Noleggio fotocopiatore per ufficio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01857860983</codiceFiscale>
+          <ragioneSociale>GT.M. S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01857860983</codiceFiscale>
+          <ragioneSociale>GT.M. S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1871.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC60D45B7E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione ascensori comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GBBDNL39E09B833W</codiceFiscale>
+          <ragioneSociale>A.E.G. di Gobbo Danilo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GBBDNL39E09B833W</codiceFiscale>
+          <ragioneSociale>A.E.G. di Gobbo Danilo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1339.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7E0D45BB2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione orologi del capoluogo di Vione e delle frazioni di Canè e Stadolina.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>DTTLGU45S08H598X</codiceFiscale>
+          <ragioneSociale>Orologi Pubblici di Dotti Luigi</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>DTTLGU45S08H598X</codiceFiscale>
+          <ragioneSociale>Orologi Pubblici di Dotti Luigi</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>231.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z260D454A5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di materiale di cancelleria per ufficio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00387640170</codiceFiscale>
+          <ragioneSociale>Tipografia Camuna S.p.A.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.Apollonio &amp;amp; C. s.p.a. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00387640170</codiceFiscale>
+          <ragioneSociale>Tipografia Camuna S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3271.85</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5511BC24F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto alberi di Natale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02351190984</codiceFiscale>
+          <ragioneSociale>Bontempi Vivaio Piante</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02351190984</codiceFiscale>
+          <ragioneSociale>Bontempi Vivaio Piante</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>246.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-19</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z770D3F9B9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione ordinaria degli impianti elettrici comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02376410987</codiceFiscale>
+          <ragioneSociale>Faustinelli Christian Impianti Elettrici</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>PDRZFR53H01M065E</codiceFiscale>
+          <ragioneSociale>Termoelettrica Pedrotti Zefferino</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02376410987</codiceFiscale>
+          <ragioneSociale>Faustinelli Christian Impianti Elettrici</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-04</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z17100BB19</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Pubblicazioni redazionali riguardanti il Comune di Vione sulla rivista Adamello Magazine</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03602500989</codiceFiscale>
+          <ragioneSociale>Team Oldtimer Sport A.s.d.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03602500989</codiceFiscale>
+          <ragioneSociale>Team Oldtimer Sport A.s.d.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-10</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9D0D3FA29</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di smaltimento rifiuti cimiteriali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>Valle Camonica Servizi Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>Valle Camonica Servizi Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-05</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3B0D3F93D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione dispositivi antincendio edifici comunali.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03419760172</codiceFiscale>
+          <ragioneSociale>C.M.A. Sistemi Antincendio Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03419760172</codiceFiscale>
+          <ragioneSociale>C.M.A. Sistemi Antincendio Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-08</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>473.41</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5F124506E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di sgombero neve e trattamenti antighiaccio sulle strade del centro abitato della frazione di Stadolina per il periodo dicembre 2014 - dicembre 2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>FERRARI CARLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>FERRARI CARLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13420.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-30</dataInizio>
+        <dataUltimazione>2015-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5512450AD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di sgombero neve e trattamenti antighiaccio sulle strade del centro abitato del capoluogo di Vione per il periodo dicembre 2014 - dicembre 2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RVINDR85C05D391Q</codiceFiscale>
+          <ragioneSociale>RIVA ANDREA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RVINDR85C05D391Q</codiceFiscale>
+          <ragioneSociale>RIVA ANDREA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>23180.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-30</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6112450F8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di sgombero neve e trattamenti antighiaccio sulle strade del centro abitato della frazione di Canè e della strada comunale Vione - Canè per il periodo dicembre 2014 - dicembre 2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>28864390988</codiceFiscale>
+          <ragioneSociale>COATTI IMPRESIT S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>28864390988</codiceFiscale>
+          <ragioneSociale>COATTI IMPRESIT S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>25620.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-30</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z20125E8F9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori vari di manutenzione degli immobili comunali</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00621010982</codiceFiscale>
+          <ragioneSociale>TECNO-FER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00621010982</codiceFiscale>
+          <ragioneSociale>TECNO-FER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5003.59</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1139E7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura lattoneria e fioriere nell&amp;apos;ambito dei lavori di riqualificazione Via Dante e aree limitrofe in frazione Stadolina primo lotto</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00621010982</codiceFiscale>
+          <ragioneSociale>TECNO-FER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00621010982</codiceFiscale>
+          <ragioneSociale>TECNO-FER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6215.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6215.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z581244F86</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di ripristino della strada comunale di accesso alla Malga Calvo</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSGTR71D17B149O</codiceFiscale>
+          <ragioneSociale>ROSSI GUALTIERO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSGTR71D17B149O</codiceFiscale>
+          <ragioneSociale>ROSSI GUALTIERO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4395.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4395.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9D125E75E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura pneumatici per minipala New Holland</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03307580989</codiceFiscale>
+          <ragioneSociale>AUTOFFICINA RIZZI S.N.C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03307580989</codiceFiscale>
+          <ragioneSociale>AUTOFFICINA RIZZI S.N.C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>902.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z17125E591</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di verifica ispettiva di sorveglianza certificazione ISO 14001:2004 per l’anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03487840104</codiceFiscale>
+          <ragioneSociale>RINA SERVICES S.P.A.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03487840104</codiceFiscale>
+          <ragioneSociale>RINA SERVICES S.P.A.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-02</dataInizio>
+        <dataUltimazione>2014-12-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5B1191599</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura sale antighiaccio per il servizio di sabbiatura per la stagione invernale 2014/2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.
+</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02945490981</codiceFiscale>
+          <ragioneSociale>SABBADINI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-15</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>488.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5B1191599</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura ghiaietto per il servizio di sabbiatura per la stagione invernale 2014/2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02945490981</codiceFiscale>
+          <ragioneSociale>SABBADINI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03031300175</codiceFiscale>
+          <ragioneSociale>EDILPONTE S.A.S.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02945490981</codiceFiscale>
+          <ragioneSociale>SABBADINI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-15</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>364.48</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1139E7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Realizzazione delle pavimentazioni nell&amp;apos;ambito dei lavori di riqualificazione Via Dante e aree limitrofe in frazione Stadolina primo lotto</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09070090015</codiceFiscale>
+          <ragioneSociale>MORINA MAURO &amp;amp; C. S.A.S.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09070090015</codiceFiscale>
+          <ragioneSociale>MORINA MAURO &amp;amp; C. S.A.S.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14400.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-25</dataInizio>
+        <dataUltimazione>2014-11-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>14400.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z471139D00</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di completamento opere di adeguamento, messa in sicurezza ed allargamento della strada montiva in località Gabriela</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01821400981</codiceFiscale>
+          <ragioneSociale>ADAMELLO SCAVI S.N.C.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01821400981</codiceFiscale>
+          <ragioneSociale>ADAMELLO SCAVI S.N.C.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-11</dataInizio>
+        <dataUltimazione>2014-10-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1139E7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura materiali inerti nell&amp;apos;ambito dei lavori di riqualificazione Via Dante e aree limitrofe in frazione Stadolina primo lotto</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1942.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-07</dataInizio>
+        <dataUltimazione>2014-11-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1893.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1139E7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura materiali edili nell&amp;apos;ambito dei lavori di riqualificazione Via Dante e aree limitrofe in frazione Stadolina primo lotto</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3707.27</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-07</dataInizio>
+        <dataUltimazione>2014-11-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3707.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1139E7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di riqualificazione Via Dante e aree limitrofe in frazione Stadolina primo lotto</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RVINDR85C05D391Q</codiceFiscale>
+          <ragioneSociale>RIVA ANDREA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RVINDR85C05D391Q</codiceFiscale>
+          <ragioneSociale>RIVA ANDREA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12760.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-07</dataInizio>
+        <dataUltimazione>2014-11-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12705.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1139E7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di supporto tecnico alla realizzazione dei rilievi e degli elaborati tecnici, nonché il supporto tecnico al Direttore dei Lavori, per le opere di riqualificazione Via Dante e aree limitrofe in frazione Stadolina</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GRGMSM72P06B149Q</codiceFiscale>
+          <ragioneSociale>GEOM. GREGORINI MASSIMILIANO
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GRGMSM72P06B149Q</codiceFiscale>
+          <ragioneSociale>GEOM. GREGORINI MASSIMILIANO
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1903.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-02</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCF11190D4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di mantenimento del sistema di gestione ambientale ISO 14001 anno 2014 </oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>ZNIRRT69M26D150L</codiceFiscale>
+          <ragioneSociale>SIGEAMBIENTE DI ROBERTO ZINI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>ZNIRRT69M26D150L</codiceFiscale>
+          <ragioneSociale>SIGEAMBIENTE DI ROBERTO ZINI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1464.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-02</dataInizio>
+        <dataUltimazione>2014-12-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1464.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4C1118AEF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di rifacimento pavimentazioni stradali in Via Adamello e Via Centrale</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00226710168</codiceFiscale>
+          <ragioneSociale>GIUDICI S.P.A.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00226710168</codiceFiscale>
+          <ragioneSociale>GIUDICI S.P.A.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>18000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-02</dataInizio>
+        <dataUltimazione>2014-10-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17993.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1611005D7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di realizzazione nuovo selciato lungo la strada comunale della Valle di Canè</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02340630983</codiceFiscale>
+          <ragioneSociale>CONSORZIO FORESTALE DUE PARCHI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02340630983</codiceFiscale>
+          <ragioneSociale>CONSORZIO FORESTALE DUE PARCHI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-02</dataInizio>
+        <dataUltimazione>2014-11-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>40000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z03110BFE9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di completamento opere di ampliamento del parcheggio ubicato lungo la S.P. n. 80 in frazione Stadolina</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSGTR71D17B149O</codiceFiscale>
+          <ragioneSociale>ROSSI GUALTIERO
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSGTR71D17B149O</codiceFiscale>
+          <ragioneSociale>ROSSI GUALTIERO
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10296.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-02</dataInizio>
+        <dataUltimazione>2014-10-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10296.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBB111982F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Restauro conservativo dei monumenti, lapidi e steli dedicati ai caduti in Comune di Vione</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FGLLRA77S70H143A</codiceFiscale>
+          <ragioneSociale>DOTT.SSA FOGLIA LAURA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FGLLRA77S70H143A</codiceFiscale>
+          <ragioneSociale>DOTT.SSA FOGLIA LAURA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-29</dataInizio>
+        <dataUltimazione>2014-11-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>583398765E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di sistemazione frana in Val di Canè</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02142670989</codiceFiscale>
+          <ragioneSociale>CPR S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03425520107</codiceFiscale>
+          <ragioneSociale>CPC S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01278680176</codiceFiscale>
+          <ragioneSociale>SOFIA EDIL SONICO S.N.C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02549830988</codiceFiscale>
+          <ragioneSociale>LANZETTI DOMENICO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02142670989</codiceFiscale>
+          <ragioneSociale>CPR S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>165768.01</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-22</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z83125A392</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di derrate alimentari nell’ambito del progetto denominato &amp;quot;Vione Archeologica&amp;quot;</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSMGH64M59M065L</codiceFiscale>
+          <ragioneSociale>ALIMENTARI ROSSI MARGHERITA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSMGH64M59M065L</codiceFiscale>
+          <ragioneSociale>ALIMENTARI ROSSI MARGHERITA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>527.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-20</dataInizio>
+        <dataUltimazione>2014-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>527.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z83125A392</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di derrate alimentari nell’ambito del progetto denominato &amp;quot;Vione Archeologica&amp;quot;</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>TSTSMN76T43D391G</codiceFiscale>
+          <ragioneSociale>ALIMENTARI CATTANEO DI TESTINI SIMONA
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>TSTSMN76T43D391G</codiceFiscale>
+          <ragioneSociale>ALIMENTARI CATTANEO DI TESTINI SIMONA
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>672.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-20</dataInizio>
+        <dataUltimazione>2014-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>659.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z83125A392</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Attività di coordinamento lavori, rilevazioni tecniche ed esecuzione delle indagini archeologiche previste nel progetto denominato &amp;quot;Vione Archeologica&amp;quot;</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BLLGNN78D46B157Y</codiceFiscale>
+          <ragioneSociale>DOTT.SSA BELLANDI GIOVANNA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BLLGNN78D46B157Y</codiceFiscale>
+          <ragioneSociale>DOTT.SSA BELLANDI GIOVANNA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2283.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-20</dataInizio>
+        <dataUltimazione>2014-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2283.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8C10FF88B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di coordinamento della sicurezza nell’ambito del progetto denominato &amp;quot;Vione Archeologica&amp;quot;</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RVILSN80S24D391P</codiceFiscale>
+          <ragioneSociale>GEOM. RIVA ALESSANDRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RVILSN80S24D391P</codiceFiscale>
+          <ragioneSociale>GEOM. RIVA ALESSANDRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>888.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-20</dataInizio>
+        <dataUltimazione>2014-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>888.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>58325135FC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di adeguamento reti afferenti al ciclo idrico integrato in Via XI Febbraio</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02886430988</codiceFiscale>
+          <ragioneSociale>COATTI IMPRESIT S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02886430988</codiceFiscale>
+          <ragioneSociale>COATTI IMPRESIT S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>127939.79</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-08</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5731217DDF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di riqualificazione del piazzale del monumento ai caduti sito in Via Trento nel Comune di Vione, con cessione del diritto di superficie del sottosuolo a titolo di corrispettivo</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02907730176</codiceFiscale>
+          <ragioneSociale>EDILVIONE S.N.C.
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02907730176</codiceFiscale>
+          <ragioneSociale>EDILVIONE S.N.C.
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>160902.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-14</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z15100BA8F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di analisi delle acque di scarico di prima pioggia dell’isola ecologia ubicata lungo la S.P. n. 80</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03379190980</codiceFiscale>
+          <ragioneSociale>INDAM LABORATORI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03379190980</codiceFiscale>
+          <ragioneSociale>INDAM LABORATORI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>634.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-30</dataInizio>
+        <dataUltimazione>2014-07-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>634.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z65100BA8D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di interramento sottoservizi in Via Trento</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RVINDR85C05D391Q</codiceFiscale>
+          <ragioneSociale>RIVA ANDREA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RVINDR85C05D391Q</codiceFiscale>
+          <ragioneSociale>RIVA ANDREA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-28</dataInizio>
+        <dataUltimazione>2014-07-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4312.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0A100BA89</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di ritinteggiatura interna ed esterna degli edifici comunali</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CLMGPT58D18M065M</codiceFiscale>
+          <ragioneSociale>CLEMENTI GIANPIETRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CLMGPT58D18M065M</codiceFiscale>
+          <ragioneSociale>CLEMENTI GIANPIETRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2552.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-28</dataInizio>
+        <dataUltimazione>2014-07-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2538.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z330F98F5D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di attivazione polizza assicurativa “Mostra d’arte ed esposizioni” per la copertura assicurativa dei reperti esposti nella mostra “Vione Archeologica”</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02657040164</codiceFiscale>
+          <ragioneSociale>REALE MUTUA S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02657040164</codiceFiscale>
+          <ragioneSociale>REALE MUTUA S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.01</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-19</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3B0FA6C2A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di supporto al RUP nell’ambito dei lavori di riqualificazione del piazzale del monumento ai caduti sito in Via Trento nel Comune di Vione</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02287720987</codiceFiscale>
+          <ragioneSociale>NORTHERN SERVIZI FINANZIARI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02287720987</codiceFiscale>
+          <ragioneSociale>NORTHERN SERVIZI FINANZIARI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2501.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-02</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7F0FA6BDD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di progettazione, direzione e coordinamento per la sicurezza dei lavori di riqualificazione del piazzale del monumento ai caduti sito in Via Trento nel Comune di Vione</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02842620987</codiceFiscale>
+          <ragioneSociale>TECHNO PROJECT S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02842620987</codiceFiscale>
+          <ragioneSociale>TECHNO PROJECT S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>21062.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-24</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z800FA343F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura materiali edili per esecuzione lavori di manutenzione delle strade agro-silvo-pastorali anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-08</dataInizio>
+        <dataUltimazione>2014-06-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3374.57</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z800FA343F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura materiali inerti per esecuzione lavori di manutenzione delle strade agro-silvo-pastorali anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-08</dataInizio>
+        <dataUltimazione>2014-06-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2776.89</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2C0F3DD7B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di redazione degli elaborati definitivi per la pubblicazione del Piano di Governo del Territorio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CGGGNN51A13F086N</codiceFiscale>
+          <ragioneSociale>ARCH. CIGOGNETTI GIOVANNI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CGGGNN51A13F086N</codiceFiscale>
+          <ragioneSociale>ARCH. CIGOGNETTI GIOVANNI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14591.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-08</dataInizio>
+        <dataUltimazione>2014-06-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>14591.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB70FDF052</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di progettazione, direzione e coordinamento per la sicurezza dei lavori di adeguamento reti afferenti al ciclo idrico integrato in Via XI Febbraio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GRGMSM72P06B149Q</codiceFiscale>
+          <ragioneSociale>GEOM. GREGORINI MASSIMILIANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GRGMSM72P06B149Q</codiceFiscale>
+          <ragioneSociale>GEOM. GREGORINI MASSIMILIANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11038.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-08</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDD1066F70</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di rifacimento pavimentazioni stradali nel Comune di Vione anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00226710168</codiceFiscale>
+          <ragioneSociale>GIUDICI S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00226710168</codiceFiscale>
+          <ragioneSociale>GIUDICI S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38430.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-03-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>38125.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6A0D41A7F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di falegnameria anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SMBTMS65M09B149I</codiceFiscale>
+          <ragioneSociale>FALEGNAMERIA ZAFFIRO DI SEMBINELLI TOMASO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SMBTMS65M09B149I</codiceFiscale>
+          <ragioneSociale>FALEGNAMERIA ZAFFIRO DI SEMBINELLI TOMASO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA50D41AB6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione degli acquedotti comunali anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>FERRARI CARLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRRCRL71P24M065T</codiceFiscale>
+          <ragioneSociale>FERRARI CARLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z900D41CE5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di tinteggiatura del patrimonio comunale anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CLMGPT58D18M065M</codiceFiscale>
+          <ragioneSociale>CLEMENTI GIANPIETRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CLMGPT58D18M065M</codiceFiscale>
+          <ragioneSociale>CLEMENTI GIANPIETRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1430.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD70D42153</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione ordinaria del montascale installato presso il sottopasso SS42 in frazione Stadolina anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01073230177</codiceFiscale>
+          <ragioneSociale>BROGNOLI &amp;amp; C. S.N.C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01073230177</codiceFiscale>
+          <ragioneSociale>BROGNOLI &amp;amp; C. S.N.C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>427.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>427.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z700D42104</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione automezzi comunali anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02079500175</codiceFiscale>
+          <ragioneSociale>F.LLI SANDRINI S.N.C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VCLPRN53D26G844A</codiceFiscale>
+          <ragioneSociale>AUTOFFICINA VECLANI PIERINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02079500175</codiceFiscale>
+          <ragioneSociale>F.LLI SANDRINI S.N.C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>262.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z740D41F27</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di analisi periodica degli acquedotti comunali anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>VALLE CAMONICA SERVIZI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02245000985</codiceFiscale>
+          <ragioneSociale>VALLE CAMONICA SERVIZI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1449.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z910D41B34</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Opere di carpenteria e lattoneria per la manutenzione del patrimonio comunale anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00621010982</codiceFiscale>
+          <ragioneSociale>TECNO-FER S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00621010982</codiceFiscale>
+          <ragioneSociale>TECNO-FER S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4918.92</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC60D419CD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di materiali inerti necessari alla manutenzione del patrimonio comunale anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02978400980</codiceFiscale>
+          <ragioneSociale>M.G. OCCHI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>935.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDC0D41FBB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di carburante per il rifornimento degli automezzi e delle attrezzature comunali anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00441670585</codiceFiscale>
+          <ragioneSociale>API S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>SANDRINI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-28</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8339.76</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z850D41BE4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di ferramenta e materiale vario necessario alla manutenzione del patrimonio comunale anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GRGDGI82A10D391M</codiceFiscale>
+          <ragioneSociale>DIEGO FERRAMENTA DI GREGORINI DIEGO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GRGDGI82A10D391M</codiceFiscale>
+          <ragioneSociale>DIEGO FERRAMENTA DI GREGORINI DIEGO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-28</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4851.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCB0D41930</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00837510171</codiceFiscaleProp>
+        <denominazione>Comune di Vione</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di materiale edile necessario alla manutenzione del patrimonio comunale anno 2014</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>Sandrini S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01837320173</codiceFiscale>
+          <ragioneSociale>Sandrini S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-28</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4613.54</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

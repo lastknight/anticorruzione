@@ -1,0 +1,2979 @@
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it" dir="ltr" >
+	<head>
+		
+<script type="text/javascript">
+	var big = '0%';
+	var small = '0%';
+	var bildauf = '/templates/mardeicaraibi/images/plus.png';
+	var bildzu = '/templates/mardeicaraibi/images/minus.png';
+	var rightopen='TPL_BEEZ3_TEXTRIGHTOPEN';
+	var rightclose='TPL_BEEZ3_TEXTRIGHTCLOSE';
+	var altopen='TPL_BEEZ3_ALTOPEN';
+	var altclose='TPL_BEEZ3_ALTCLOSE';
+</script>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes"/>
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="apple-mobile-web-app-capable" content="YES" />
+
+		  <base href="http://www.mardeicaraibi.it/amministrazione-trasparente/content/76-bandi-di-gara" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="scuola, ostia, mar dei caraibi" />
+  <meta property="og:url" content="http://www.mardeicaraibi.it/amministrazione-trasparente/content/76-bandi-di-gara" />
+  <meta property="og:title" content="Amministrazione trasparente - Istituto Comprensivo Mar dei Caraibi - Istituto Mar dei Caraibi" />
+  <meta property="og:type" content="website" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Amministrazione trasparente - Istituto Comprensivo Mar dei Caraibi - Istituto Mar dei Caraibi</title>
+  <link href="http://www.mardeicaraibi.it/amministrazione-trasparente/content/76-bandi-di-gara" rel="canonical" />
+  <link href="/amministrazione-trasparente/content/76-bandi-di-gara?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/amministrazione-trasparente/content/76-bandi-di-gara?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/mardeicaraibi/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.mardeicaraibi.it/component/search/?Itemid=120&amp;task=category&amp;id=76:bandi-di-gara&amp;format=opensearch" rel="search" title="Vai Istituto Mar dei Caraibi" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.mardeicaraibi.it/templates/mardeicaraibi/css/personal.css" type="text/css" media="screen,projection" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/templates/mardeicaraibi/javascript/md_stylechanger.js" type="text/javascript"></script>
+  <script src="/templates/mardeicaraibi/javascript/hide.js" type="text/javascript"></script>
+  <script src="/templates/mardeicaraibi/javascript/respond.src.js" type="text/javascript"></script>
+  <script src="/templates/mardeicaraibi/javascript/template.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","./",true);r.send(null)}},840000);
+  </script>
+  <script type="text/javascript">
+    (function() {
+      var strings = {"TPL_BEEZ3_ALTOPEN":"TPL_BEEZ3_ALTOPEN","TPL_BEEZ3_ALTCLOSE":"TPL_BEEZ3_ALTCLOSE","TPL_BEEZ3_TEXTRIGHTOPEN":"TPL_BEEZ3_TEXTRIGHTOPEN","TPL_BEEZ3_TEXTRIGHTCLOSE":"TPL_BEEZ3_TEXTRIGHTCLOSE","TPL_BEEZ3_FONTSIZE":"TPL_BEEZ3_FONTSIZE","TPL_BEEZ3_BIGGER":"TPL_BEEZ3_BIGGER","TPL_BEEZ3_RESET":"TPL_BEEZ3_RESET","TPL_BEEZ3_SMALLER":"TPL_BEEZ3_SMALLER","TPL_BEEZ3_INCREASE_SIZE":"TPL_BEEZ3_INCREASE_SIZE","TPL_BEEZ3_REVERT_STYLES_TO_DEFAULT":"TPL_BEEZ3_REVERT_STYLES_TO_DEFAULT","TPL_BEEZ3_DECREASE_SIZE":"TPL_BEEZ3_DECREASE_SIZE","TPL_BEEZ3_OPENMENU":"TPL_BEEZ3_OPENMENU","TPL_BEEZ3_CLOSEMENU":"TPL_BEEZ3_CLOSEMENU"};
+      if (typeof Joomla == 'undefined') {
+        Joomla = {};
+        Joomla.JText = strings;
+      }
+      else {
+        Joomla.JText.load(strings);
+      }
+    })();
+  </script>
+
+
+		<!--[if IE 7]>
+		<link href="/templates/mardeicaraibi/css/ie7only.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+        <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-37155347-30', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+	</head>
+	<body id="shadow">
+
+    
+    <div id="header">
+     <div class="content">
+    
+    	<div id="logo">
+    		<h1><a href="/">Istituto Mar dei Caraibi</a></h1>
+        </div>
+        
+               
+    <div id="login">
+       		                                    
+                
+
+
+
+	<form action="/amministrazione-trasparente" method="post" id="login-form" >
+
+
+	
+
+	<fieldset class="userdata">
+
+
+	<p id="form-login-introtext">
+
+
+    Area Riservata<br />
+	<a href="/registrati">Registrati</a>
+
+    </p>
+
+
+    <p id="form-login-username">
+
+
+		
+
+		<input id="modlgn-username" type="text" name="username" class="inputbox"  size="18" placeholder="Nome utente" />
+
+
+	</p>
+
+
+	<p id="form-login-password">
+
+
+		
+
+		<input id="modlgn-passwd" type="password" name="password" class="inputbox" size="18" placeholder="Password" />
+
+
+	</p>
+
+
+	
+
+	
+
+    
+
+
+		
+
+        
+
+
+	
+
+	<input type="submit" name="Submit" class="button" value="Accedi" />
+
+
+	<input type="hidden" name="option" value="com_users" />
+
+
+	<input type="hidden" name="task" value="user.login" />
+
+
+	<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fazImdmlldz1pdGVtbGlzdCZ0YXNrPWNhdGVnb3J5JmlkPTc2OmJhbmRpLWRpLWdhcmEmSXRlbWlkPTEyMA==" />
+
+
+	<input type="hidden" name="50f6dc20d30c5df49d954d05de327b3a" value="1" />
+
+    
+
+
+    <div class="clr"></div>
+
+
+	
+
+
+    
+
+    
+
+
+    
+
+
+	
+
+	</fieldset>
+
+
+	</form>
+
+
+
+
+
+                                    
+                    </div>
+     
+     <!-- /content -->   
+     </div>
+        
+        <div id="menu">
+			                                    
+                <ul class="nav menu">
+<li class="item-101"><a href="/" >Home</a></li><li class="item-138"><a href="/le-nostre-scuole" >Le nostre scuole</a></li><li class="item-139"><a href="/chi-siamo" >Chi siamo</a></li><li class="item-132"><a href="/dove-siamo" >Dove siamo</a></li><li class="item-140"><a href="/offerta-formativa" >Offerta Formativa</a></li><li class="item-141"><a href="/orari-e-calendario" >Orari e calendario</a></li><li class="item-113"><a class=" displaynone" href="/cerca" >Cerca</a></li><li class="item-120 current active"><a href="/amministrazione-trasparente" >Amministrazione Trasparente</a></li><li class="item-131"><a href="/registrati" >Registrati</a></li><li class="item-136"><a href="/link-utili" >Link utili</a></li><li class="item-142"><a href="/spazio-docenti" >Spazio docenti</a></li><li class="item-143"><a href="/spazio-genitori" >Spazio genitori</a></li><li class="item-144"><a href="/spazio-bambini" >Spazio bambini</a></li><li class="item-145 parent"><a href="/cic-sportello-d-ascolto" >CIC: sportello d'ascolto</a></li><li class="item-153"><a href="/news" >News</a></li><li class="item-154"><a href="/servizi-per-le-famiglie" >Servizi per le famiglie</a></li><li class="item-155"><a href="/informazioni" >Informazioni</a></li><li class="item-160"><a href="/tirocini-formativi-attivi" >Tirocini Formativi Attivi</a></li></ul>
+
+                                    
+                    </div>
+        
+        <div id="breadcrumbs">
+			                                    
+                
+<div class = "breadcrumbs">
+<span class="showHere">Sei qui: </span><a href="/" class="pathway">Home</a> <img src="/templates/mardeicaraibi/images/system/arrow.png" alt="" /> <a href="/amministrazione-trasparente" class="pathway">Amministrazione Trasparente</a> <img src="/templates/mardeicaraibi/images/system/arrow.png" alt="" /> <span>Bandi di gara</span></div>
+
+                                    
+                    </div>
+    
+      
+    </div>
+    
+    <div id="corpo">
+    	<div class="content">
+        	
+            <div id="colonnaSx">
+            	                                    
+                	
+<div class="moduletable">
+
+ <h3>Spazio docenti</h3>
+
+ 
+<div id="k2ModuleBox120" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-docenti/458-calendario-adempimenti-docenti-scuola-secondaria-primo-grado-anno-2017-2018">calendario adempimenti docenti scuola secondaria  primo grado anno 2017/2018</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-docenti/429-calendario-adempimenti-docenti-anno-scolastico-2017-18">Calendario adempimenti docenti - anno scolastico 2017/18</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-docenti/403-adempimenti-docenti-scuola-secondaria-di-primo-grado-settembre-2017">ADEMPIMENTI DOCENTI SCUOLA SECONDARIA DI PRIMO GRADO - SETTEMBRE 2017</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-docenti/402-adempimenti-docenti-scuola-primaria-settembre-2017">ADEMPIMENTI DOCENTI SCUOLA PRIMARIA - SETTEMBRE 2017</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-docenti/388-rettifica-adempimenti-di-giugno">Rettifica adempimenti di giugno</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+		<a class="moduleCustomLink" href="/spazio-docenti" title="vai alla sezione">vai alla sezione</a>
+	
+	
+</div>
+</div>
+
+
+<div class="moduletable">
+
+ <h3>Spazio genitori</h3>
+
+ 
+<div id="k2ModuleBox121" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-genitori/226-comitato-genitori-di-segurana">Comitato Genitori Segurana</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-genitori/83-menu-mensa">Menù mensa</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-genitori/331-registro-elettronico-scuola-secondaria-di-primo-grado">REGISTRO ELETTRONICO - SCUOLA SECONDARIA DI PRIMO GRADO</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-genitori/433-calendario-riunioni">Calendario riunioni dei genitori</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-genitori/409-delega-al-ritiro-degli-alunni">Atto di Delega al ritiro degli alunni</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/spazio-genitori/422-prevenzione-vaccinale">Prevenzione vaccinale</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+		<a class="moduleCustomLink" href="/spazio-genitori" title="vai alla sezione">vai alla sezione</a>
+	
+	
+</div>
+</div>
+
+
+<div class="moduletable">
+
+ <h3>CIC: sportello d'ascolto</h3>
+
+ <ul class="nav menu menuCic">
+<li class="item-148"><a href="/cic-sportello-d-ascolto/articoli" >Articoli</a></li><li class="item-149"><a href="/cic-sportello-d-ascolto/pillole" >Pillole</a></li><li class="item-150"><a href="/inditizzi-utili" >Inditizzi utili</a></li><li class="item-151"><a href="/gruppo-del-giovedi" >Gruppo del Giovedì</a></li><li class="item-152"><a href="/cic-sportello-d-ascolto" >vai alla sezione</a></li></ul>
+</div>
+
+
+                                    
+            	            </div>
+            
+            <div id="colonnaCenter">
+            
+            	
+<div id="system-message-container">
+<dl id="system-message">
+</div>
+				
+<!-- Start K2 Category Layout -->
+<div id="k2Container" class="itemListView">
+
+	
+		<!-- RSS feed icon -->
+	<div class="k2FeedIcon">
+		<a href="/amministrazione-trasparente/content/76-bandi-di-gara?format=feed" title="Sottoscrivi questo feed RSS">
+			<span>Sottoscrivi questo feed RSS</span>
+		</a>
+		<div class="clr"></div>
+	</div>
+	
+		<!-- Blocks for current category and subcategories -->
+	<div class="itemListCategoriesBlock">
+
+				<!-- Category block -->
+		<div class="itemListCategory">
+
+			
+			
+						<!-- Category title -->
+			<h2>Bandi di gara</h2>
+			
+			
+			<!-- K2 Plugins: K2CategoryDisplay -->
+			
+			<div class="clr"></div>
+		</div>
+		
+		
+	</div>
+	
+
+
+		<!-- Item list -->
+	<div class="itemList">
+
+		
+				<!-- Primary items -->
+		<div id="itemListPrimary">
+						
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Giovedì, 26 Ottobre 2017 16:11		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/456-determina-affidamento-del-servizio-di-assistente-alla-comunicazione-sensoriale-uditiva-cup-d89g17001310007">
+	  		Determina affidamento del servizio di Assistente alla comunicazione sensoriale uditiva - CUP D89G17001310007	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Mercoledì, 25 Ottobre 2017 13:51		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/450-nomina-commissione-tecnica-per-la-valutazione-delle-offerte-relative-ai-bandi-di-gara-richieste-di-offerta-per-l-anno-scolastico-2017-18">
+	  		Nomina Commissione Tecnica per la valutazione delle offerte relative ai bandi di gara/richieste di offerta per l&#039;anno scolastico 2017/18	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Lunedì, 23 Ottobre 2017 13:56		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/446-determina-a-contrarre-per-l-affidamento-diretto-del-servizio-di-manutenzione-degli-arredi-e-degli-immobili-dell-i-c-via-mar-dei-caraibi">
+	  		determina a contrarre per l’affidamento diretto del servizio di MANUTENZIONE DEGLI ARREDI E DEGLI IMMOBILI DELL’I.C. VIA MAR DEI CARAIBI	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Lunedì, 16 Ottobre 2017 12:10		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/436-bando-pubblico-per-la-selezione-di-un-assistente-alla-comunicazione-sensoriale-uditiva-ed-un-assistente-alla-comunicazione-tiflodidattica">
+	  		bando pubblico per la selezione di un assistente alla comunicazione sensoriale uditiva ed un assistente alla comunicazione tiflodidattica	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 29 Settembre 2017 12:34		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/421-pubblicazione-graduatoria-provvisoria">
+	  		PUBBLICAZIONE GRADUATORIA PROVVISORIA	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Lunedì, 18 Settembre 2017 12:11		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/416-procedura-negoziata-ristretta-di-selezione-ex-art-36-comma-2-del-d-lgs-50-16-per-la-realizzazione-negli-anni-scolastici-2017-18-e-2018-19-di-attivita-para-ed-extrascolastiche">
+	  		Procedura negoziata ristretta di selezione ex art. 36, comma 2°,del D.lgs. 50/16 per la realizzazione negli anni scolastici 2017-18 e 2018-19 di attività para ed extrascolastiche.	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Lunedì, 03 Aprile 2017 14:12		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/365-graduatoria-definitiva-avviso-pubblico-per-l-acquisto-dei-servizi-di-trasporto-e-soggiorno-relativi-ai-campi-scuola-e-viaggi-d-istruzione-2016-17">
+	  		Graduatoria definitiva - Avviso Pubblico per l’acquisto dei servizi di trasporto e soggiorno relativi ai campi scuola e viaggi d’istruzione 2016-17	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Lunedì, 27 Marzo 2017 11:57		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/359-graduatoria-provvisoria-avviso-pubblico-per-l-acquisto-dei-servizi-di-trasporto-e-soggiorno-relativi-ai-campi-scuola-e-viaggi-d-istruzione">
+	  		Graduatoria provvisoria - Avviso Pubblico per l’acquisto dei servizi di trasporto e soggiorno relativi ai campi scuola e viaggi d’istruzione	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Martedì, 07 Marzo 2017 00:55		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/351-avviso-pubblico-per-l-acquisto-dei-servizi-di-trasporto-e-soggiorno-relativi-ai-campi-scuola-e-viaggi-d-istruzione">
+	  		Avviso Pubblico per l’acquisto dei servizi di trasporto e soggiorno relativi ai campi scuola e viaggi d’istruzione	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 17 Febbraio 2017 13:07		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/344-file-xlm-avcp-2016">
+	  		File XLM AVCP 2016	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Mercoledì, 07 Dicembre 2016 12:06		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/329-graduatoria-bando-per-esperto-formatore">
+	  		GRADUATORIA BANDO PER ESPERTO FORMATORE	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Lunedì, 14 Novembre 2016 14:45		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/317-avviso-aperto-di-individuazione-esperto-formatore">
+	  		AVVISO APERTO DI INDIVIDUAZIONE ESPERTO FORMATORE	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Giovedì, 15 Settembre 2016 12:32		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/296-graduatoria-provvisoria-delle-associazioni-sportive-cui-affidare-in-concessione-per-fasce-orarie-le-palestre-scolastiche-per-le-attivita-dei-centri-sportivi-municipali-aa-ss-2016-17-2017-18-2018-19">
+	  		Graduatoria provvisoria delle Associazioni Sportive cui affidare in concessione, per fasce orarie le palestre scolastiche per le attività dei Centri Sportivi Municipali – AA.SS 2016/17 – 2017/18 – 2018/19	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 05 Agosto 2016 14:47		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/269-bando-sportivo">
+	  		bando sportivo	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 20 Maggio 2016 13:11		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/243-manifestazione-di-interesse-ditte-pon-reti-lan">
+	  		Manifestazione di interesse ditte PON RETI LAN	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 29 Aprile 2016 12:56		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/237-reclutamento-esperto-progettista-pon-fesr">
+	  		RECLUTAMENTO ESPERTO PROGETTISTA - PON FESR	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Mercoledì, 23 Marzo 2016 11:29		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/231-reclutamento-esperto-progettista-pon-fesr-per-la-realizzazione-l-ampliamento-o-l-adeguamento-delle-infrastrutture-di-rete-lan-wlan">
+	  		RECLUTAMENTO ESPERTO PROGETTISTA PON.FESR PER LA REALIZZAZIONE, L’AMPLIAMENTO O L’ADEGUAMENTO DELLE INFRASTRUTTURE DI RETE LAN/WLAN	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 18 Marzo 2016 13:58		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/230-reclutamento-esperto-collaudatore-pon-fesr">
+	  		RECLUTAMENTO ESPERTO COLLAUDATORE PON FESR	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 18 Marzo 2016 13:47		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/229-reclutamento-esperto-progettista-pon-fesr">
+	  		RECLUTAMENTO ESPERTO PROGETTISTA PON FESR	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Mercoledì, 27 Gennaio 2016 12:45		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/215-bando-di-gara-per-la-concessione-di-distribuzione-di-bevande-calde-e-fredde-tramite-macchinari-automatici">
+	  		BANDO DI GARA PER LA CONCESSIONE DI DISTRIBUZIONE DI BEVANDE CALDE E FREDDE TRAMITE MACCHINARI AUTOMATICI	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary catItemIsFeatured">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Venerdì, 18 Dicembre 2015 11:12		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/209-avviso-pubblico-per-la-realizzazione-di-filmati-audio-video">
+	  		avviso pubblico per la realizzazione di filmati audio-video	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									
+						
+			<div class="itemContainer itemContainerLast" style="width:100.0%;">
+				
+<!-- Start K2 Item Layout -->
+<div class="catItemView groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	
+	<div class="catItemHeader">
+				<!-- Date created -->
+		<span class="catItemDateCreated">
+			Sabato, 31 Gennaio 2015 09:47		</span>
+		
+	  	  <!-- Item title -->
+	  <h3 class="catItemTitle">
+			
+	  				<a href="/amministrazione-trasparente/143-file-xlm-avcp">
+	  		File XLM AVCP 2015	  	</a>
+	  	
+	  		  </h3>
+	  
+		  </div>
+
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+  <div class="catItemBody">
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+	  
+		<div class="clr"></div>
+
+	  
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+	  <div class="clr"></div>
+  </div>
+
+  
+	<div class="clr"></div>
+
+  
+  
+  <div class="clr"></div>
+
+	
+	
+	<div class="clr"></div>
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+	<div class="clr"></div>
+</div>
+<!-- End K2 Item Layout -->
+			</div>
+						<div class="clr"></div>
+									<div class="clr"></div>
+		</div>
+		
+		
+		
+	</div>
+
+	<!-- Pagination -->
+		<div class="k2Pagination">
+				<div class="clr"></div>
+			</div>
+	
+	</div>
+<!-- End K2 Category Layout -->
+
+<!-- JoomlaWorks "K2" (v2.6.7) | Learn more about K2 at http://getk2.org -->
+
+
+            
+           		            </div>
+            
+            <div id="colonnaDx">
+            
+            	<div id="fontsize" class="moduletable"></div>
+            	                                    
+                	
+<div class="moduletable">
+
+ <h3>Cerca nel sito</h3>
+
+ <div class="search">
+	<form action="/cerca" method="get" class="form-inline">
+		<input name="q" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="15" value="Cerca..."  onblur="if (this.value=='') this.value='Cerca...';" onfocus="if (this.value=='Cerca...') this.value='';" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">vai</button>			</form>
+</div>
+</div>
+
+
+<div class="moduletable">
+
+ <h3>Tirocini Formativi Attivi</h3>
+
+ 
+<div id="k2ModuleBox131" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="even lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/tirocini-formativi-attivi/123-elenco-docenti-tutor">Tirocini Formativi Attivi</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+		<a class="moduleCustomLink" href="/tirocini-formativi-attivi" title="vai alla sezione">vai alla sezione</a>
+	
+	
+</div>
+</div>
+
+
+<div class="moduletable scrollMenu">
+
+ <h3>Amministrazione Trasparente</h3>
+
+ 
+<div id="k2ModuleBox110" class="k2CategoriesListBlock  scrollMenu">
+	<ul class="level0"><li><a href="/amministrazione-trasparente/content/15-disposizioni-generali"><span class="catTitle">Disposizioni generali</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/16-programma-per-la-trasparenza-e-l-integrita"><span class="catTitle">Programma per la Trasparenza e l’Integrità</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/17-atti-generali"><span class="catTitle">Atti generali</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/18-oneri-informativi"><span class="catTitle">Oneri informativi per cittadini e imprese</span><span class="catCounter"></span></a><ul class="level2"><li><a href="/amministrazione-trasparente/content/19-scadenziario-dei-nuovi-obblighi-amministrativi"><span class="catTitle">Scadenziario dei nuovi obblighi amministrativi</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/20-scadenziario-dei-nuovi-obblighi-amministrativi-imprese"><span class="catTitle">Scadenziario dei nuovi obblighi amministrativi (imprese)</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/21-modulistica-pubblica"><span class="catTitle">Modulistica pubblica</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/22-attestazioni-oiv-o-struttura-analoga"><span class="catTitle">Attestazioni OIV o struttura analoga</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/23-organizzazione"><span class="catTitle">Organizzazione</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/24-organi-di-indirizzo-politico-amm-vo"><span class="catTitle">Organi di indirizzo politico-amministrativo</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/25-sanzioni-per-mancata-comunicazione-dei-dati"><span class="catTitle">Sanzioni per mancata comunicazione dei dati</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/26-rendiconti-gruppi-consiliari-regionali-provinciali"><span class="catTitle">Rendiconti gruppi consiliari regionali/provinciali</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/27-articolazione-degli-uffici"><span class="catTitle">Articolazione degli uffici</span><span class="catCounter"></span></a><ul class="level2"><li><a href="/amministrazione-trasparente/content/29-direttore-sga"><span class="catTitle">Direttore sga</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/30-uffici-di-segreteria"><span class="catTitle">Uffici di segreteria</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/31-responsabili-dei-procedimenti"><span class="catTitle">Responsabili dei procedimenti</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/28-telefono-e-posta-elettronica"><span class="catTitle">Telefono e posta elettronica</span><span class="catCounter"></span></a><ul class="level2"><li><a href="/amministrazione-trasparente/content/32-caselle-di-posta-elettronica-certificata-istituzionale-pec"><span class="catTitle">Caselle di posta elettronica certificata istituzionale (PEC)</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/33-caselle-di-posta-elettronica-ordinaria-istituzionale-peo"><span class="catTitle">Caselle di posta elettronica ordinaria istituzionale (PEO)</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/34-recapiti-telefonici-e-fax"><span class="catTitle">Recapiti telefonici e fax</span><span class="catCounter"></span></a></li></ul></li></ul></li><li><a href="/amministrazione-trasparente/content/35-consulenti-e-collaboratori"><span class="catTitle">Consulenti e collaboratori</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/36-incarichi-conferiti-a-dipendenti-pubblici-di-altra-amministrazione"><span class="catTitle">Incarichi conferiti a dipendenti pubblici di altra Amministrazione</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/37-incarichi-affidati-a-qualsiasi-titolo-da-una-amministrazione-a-soggetti-esterni"><span class="catTitle">Incarichi affidati, a qualsiasi titolo, da una amministrazione a soggetti esterni</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/38-personale"><span class="catTitle">Personale</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/39-dirigenti"><span class="catTitle">Dirigenti</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/40-incarichi-amministrativi-e-di-vertice"><span class="catTitle">Incarichi amministrativi e di vertice</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/41-posizioni-organizzative"><span class="catTitle">Posizioni organizzative</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/43-tassi-di-assenza"><span class="catTitle">Tassi di assenza</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/44-incarichi-conferiti-e-autorizzati-ai-dipendenti"><span class="catTitle">Incarichi conferiti e autorizzati ai dipendenti</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/45-contrattazione-collettiva"><span class="catTitle">Contrattazione collettiva</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/46-dotazione-organica"><span class="catTitle">Dotazione organica</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/47-contrattazione-integrativa"><span class="catTitle">Contrattazione integrativa</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/48-oiv"><span class="catTitle">OIV</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/49-bandi-di-concorso"><span class="catTitle">Bandi di concorso</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/50-performance"><span class="catTitle">Performance</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/51-piano-della-performance"><span class="catTitle">Piano della Performance</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/52-relazione-sulla-performance"><span class="catTitle">Relazione sulla Performance</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/53-ammontare-complessivo-dei-premi"><span class="catTitle">Ammontare complessivo dei premi</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/54-dati-relativi-sui-premi"><span class="catTitle">Dati relativi sui premi</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/55-benessere-organizzativo"><span class="catTitle">Benessere Organizzativo</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/56-enti-controllati"><span class="catTitle">Enti controllati</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/57-enti-pubblici-vigilati"><span class="catTitle">Enti pubblici vigilati</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/58-societa-partecipate"><span class="catTitle">Società partecipate</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/59-enti-di-diritto-privato-controllati"><span class="catTitle">Enti di diritto privato controllati</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/60-rappresentazione-grafica"><span class="catTitle">Rappresentazione grafica</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/61-attivita-e-procedimenti"><span class="catTitle">Attività e procedimenti</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/62-dati-aggregati-attivita-amministrativa"><span class="catTitle">Dati aggregati attività amministrativa</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/63-tipologie-di-procedimento"><span class="catTitle">Tipologie di procedimento</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/64-monitoraggio-tempi-procedimentali"><span class="catTitle">Monitoraggio tempi procedimentali</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/65-dichiarazioni-sostitutive-e-acquisizione-d-ufficio-dei-dati"><span class="catTitle">Dichiarazioni sostitutive e acquisizione d'ufficio dei dati</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/66-provvedimenti"><span class="catTitle">Provvedimenti</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/67-provvedimenti-organi-indirizzo-politico"><span class="catTitle">Provvedimenti organi indirizzo-politico</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/68-provvedimenti-dirigenti"><span class="catTitle">Provvedimenti Dirigenti</span><span class="catCounter"></span></a><ul class="level2"><li><a href="/amministrazione-trasparente/content/69-determine-attivita-negoziale"><span class="catTitle">Determine attività negoziale</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/70-aggiudicazioni-scelta-contraente"><span class="catTitle">Aggiudicazioni / Scelta contraente</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/71-incarichi-a-dipendenti-pubblici"><span class="catTitle">Incarichi a dipendenti pubblici</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/72-incarichi-a-soggetti-privati"><span class="catTitle">Incarichi a soggetti privati</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/73-incarichi-e-autorizzazioni-a-propri-dipendenti"><span class="catTitle">Incarichi e autorizzazioni a propri dipendenti</span><span class="catCounter"></span></a></li></ul></li></ul></li><li><a href="/amministrazione-trasparente/content/74-controlli-sulle-imprese"><span class="catTitle">Controlli sulle imprese</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/75-bandi-di-gara-e-contratti"><span class="catTitle">Bandi di gara e contratti</span><span class="catCounter"></span></a><ul class="level1"><li class="activeCategory"><a href="/amministrazione-trasparente/content/76-bandi-di-gara"><span class="catTitle">Bandi di gara</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/77-contratti"><span class="catTitle">Contratti</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/78-sovvenzioni-contributi-sussidi-vantaggi-economici"><span class="catTitle">Sovvenzioni, contributi, sussidi, vantaggi economici</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/79-criteri-e-modalita"><span class="catTitle">Criteri e modalità</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/80-atti-di-concessione"><span class="catTitle">Atti di concessione</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/81-bilanci"><span class="catTitle">Bilanci</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/82-bilancio-preventivo-e-consuntivo"><span class="catTitle">Bilancio preventivo e consuntivo</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/83-piano-degli-indicatori-e-risultati-attesi-di-bilancio"><span class="catTitle">Piano degli indicatori e risultati attesi di bilancio</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/84-beni-immobili-e-gestione-patrimonio"><span class="catTitle">Beni immobili e gestione patrimonio</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/85-patrimonio-immobiliare"><span class="catTitle">Patrimonio immobiliare</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/86-canoni-di-locazione-o-affitto"><span class="catTitle">Canoni di locazione o affitto</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/87-controlli-e-rilievi-sulla-amministrazione"><span class="catTitle">Controlli e rilievi sulla amministrazione</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/88-servizi-erogati"><span class="catTitle">Servizi erogati</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/89-carta-dei-servizi-e-standard-di-qualita"><span class="catTitle">Carta dei servizi e standard di qualità</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/90-costi-contabilizzati"><span class="catTitle">Costi contabilizzati</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/91-tempi-medi-di-erogazione-dei-servizi"><span class="catTitle">Tempi medi di erogazione dei servizi</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/92-liste-di-attesa"><span class="catTitle">Liste di attesa</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/93-pagamenti-dell-amministrazione"><span class="catTitle">Pagamenti dell'amministrazione</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/94-indicatore-di-tempestivita-dei-pagamenti"><span class="catTitle">Indicatore di tempestività dei pagamenti</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/95-iban-e-pagamenti-informatici"><span class="catTitle">IBAN e pagamenti informatici</span><span class="catCounter"></span></a></li></ul></li><li><a href="/amministrazione-trasparente/content/96-opere-pubbliche"><span class="catTitle">Opere pubbliche</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/97-pianificazione-e-governo-del-territorio"><span class="catTitle">Pianificazione e governo del territorio</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/98-informazioni-ambientali"><span class="catTitle">Informazioni ambientali</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/99-strutture-sanitarie-private-accreditate"><span class="catTitle">Strutture sanitarie private accreditate</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/100-interventi-straordinari-e-di-emergenza"><span class="catTitle">Interventi straordinari e di emergenza</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/101-altri-contenuti"><span class="catTitle">Altri contenuti</span><span class="catCounter"></span></a><ul class="level1"><li><a href="/amministrazione-trasparente/content/102-corruzione"><span class="catTitle">Corruzione</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/103-accesso-civico"><span class="catTitle">Accesso civico</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/104-accessibilita-e-catalogo-di-dati-metadati-e-banche-dati"><span class="catTitle">Accessibilità e Catalogo di dati, metadati e banche dati</span><span class="catCounter"></span></a></li><li><a href="/amministrazione-trasparente/content/105-dati-ulteriori"><span class="catTitle">Dati ulteriori</span><span class="catCounter"></span></a></li></ul></li></ul></div>
+</div>
+
+
+<div class="moduletable">
+
+ <h3>Organi Collegiali</h3>
+
+ 
+<div id="k2ModuleBox133" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/organi-collegiali/431-elenco-rappresentanti-di-classe-eletti-per-l-a-s-2017-18">Elenco rappresentanti di classe eletti per l'a.s. 2017/18</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/amministrazione-trasparente/372-delibere-consiglio-di-istituto">DELIBERE CONSIGLIO DI ISTITUTO</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/organi-collegiali/371-delibere-consiglio-di-istituto">DELIBERE CONSIGLIO DI ISTITUTO</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/organi-collegiali/235-organi-collegiali">Organi Collegiali</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/amministrazione-trasparente/130-convocazione-consiglio-d-istituto-2014-2015">Convocazione Consiglio d'Istituto 2014/2015</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/amministrazione-trasparente/129-convocazione-collegio-docenti-2014-2015">Convocazione Collegio Docenti 2014/2015</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+		<a class="moduleCustomLink" href="/organi-collegiali" title="Vai alla sezione">Vai alla sezione</a>
+	
+	
+</div>
+</div>
+
+
+<div class="moduletable">
+
+ <h3>PON</h3>
+
+ 
+<div id="k2ModuleBox134" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/pon/471-azione-10-1-1-interventi-di-sostegno-agli-studenti-caratterizzati-da-particolari-fragilita-selezione-esperti-figura-aggiuntiva">Azione 10.1.1 Selezione esperti PERSONALE ATA</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/pon/470-azione-10-1-1-interventi-di-sostegno-agli-studenti-caratterizzati-da-particolari-fragilita-selezione-esperti-figura-aggiuntiva">Azione 10.1.1  Selezione esperti figura aggiuntiva</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/pon/469-azione-10-1-1-a-interventi-di-sostegno-agli-studenti-caratterizzati-da-particolari-fragilita-selezione-esperti-figura-aggiuntiva">Azione 10.1.1 A Selezione esperti - figura aggiuntiva</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/pon/468-azione-10-1-1-a-interventi-di-sostegno-agli-studenti-caratterizzati-da-particolari-fragilita-selezione-esperti">Azione 10.1.1 A Selezione esperti</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/pon/467-azione-10-1-1-interventi-di-sostegno-agli-studenti-caratterizzati-da-particolari-fragilita-selezione-esperti-tutor">Azione 10.1.1  Selezione esperti tutor</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+		<a class="moduleCustomLink" href="/pon" title="Vai alla sezione">Vai alla sezione</a>
+	
+	
+</div>
+</div>
+
+
+                                    
+            	            </div>
+            
+            <div class="clr"></div>
+            
+        </div>
+    </div>
+                            
+
+
+		<div id="footer-outer">
+
+
+			<div id="footer-sub">
+				<footer id="footer">
+                	<h3><span>Istituto Comprensivo</span><br>Via Mar dei Caraibi</h3>
+                	<p>
+                    <strong>SEDE CENTRALE:</strong> Via Mar dei Caraibi 30, 00122 Roma - Tel 065681915 - Fax 0656389112<br>
+					<strong>PLESSO SEGURANA:</strong> Via Caterina Segurana 2/3, 00122 Roma - Tel 065681896<br>
+					<strong>PLESSO SCUOLA SECOND. 1° GRADO:</strong> Via Mar dei Caraibi 34 - Tel. 06.5681895
+                    </p>
+                    
+                    <p>
+                    e-mail: <a href="mailto:rmic8fl003@istruzione.it">rmic8fl003@istruzione.it</a><br>
+					casella di posta certificata: <a href="mailto:rmic8fl003@pec.istruzione.it">rmic8fl003@pec.istruzione.it</a><br>
+					c/c postale  n° 1009133750<br>
+					codice IBAN del c/c postale per pagamenti on-line: IT96W0760103200001009133750<br>
+					intestazione: Istituto Comprensivo Via Mar dei Caraibi
+                  </p>
+                
+				  
+<div class="moduletable nav menu">
+
+ <ul class="nav menu">
+<li class="item-156"><a href="/urp" >URP</a></li><li class="item-157"><a href="/privacy" >Privacy</a></li><li class="item-158"><a href="/note-legali" >Note legali</a></li><li class="item-159"><a href="/elenco-siti-tematici" >Elenco Siti tematici</a></li><li class="item-161"><a href="/organi-collegiali" >Organi Collegiali</a></li><li class="item-162"><a href="/pon" >PON</a></li></ul>
+</div>
+
+
+				</footer><!-- end footer -->
+			</div>
+		
+        
+        </div>
+        
+        
+		
+	</body>
+</html>

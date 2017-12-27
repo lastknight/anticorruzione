@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione art.1 comma 32 Legge n.190/2012</titolo>
+    <abstract>Pubblicazione art.1 comma 32 Legge n.190/2012</abstract>
+    <dataPubblicazioneIndice>2014-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>COMUNE DI ORTONOVO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://dgegovpa.it/ortonovo/trasparenza/dati/indicedataset2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://dgegovpa.it/Ortonovo/trasparenza/dati/dataset2014-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://dgegovpa.it/Ortonovo/trasparenza/dati/dataset2014-2.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://dgegovpa.it/Ortonovo/trasparenza/dati/dataset2014-3.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

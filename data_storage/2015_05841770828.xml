@@ -1,0 +1,46 @@
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd ">
+    <metadata>
+        <titolo>Indice Pubblicazioni Gennaio 2017</titolo>
+        <abstract>Pubblicazione relativa all'anno 2016</abstract>
+        <dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+        <entePubblicatore>A.R.N.A.S. CIVICO - DI CRISTINA - BENFRATELLI</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.arnascivico.it/Trasparenza/11_6_AVCP/Indice.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_0">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2017_ARNAS.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_161">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2016_Tecnico.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_141">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2015_Tecnico.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_142">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2015_Facility.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_1">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2014.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_82">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2015_Provveditorato.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_182">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2016_Provveditorato.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_181">
+            <linkDataset>http://www.arnascivico.it/Trasparenza/11_6_AVCP/PubblicazioneAVCP2016_Facility.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

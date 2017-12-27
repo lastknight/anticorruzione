@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it" dir="ltr">
+<head>
+<meta name="language" content="it-it" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management - Versione FAP" />
+  <title>Home</title>
+  <link href="http://www.icsmontefelcino.gov.it/index.php?lang=it" rel="canonical" />
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","./",true);r.send(null)}},840000);jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+  </script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link href="http://www.icsmontefelcino.gov.it/templates/accessible/css/skin_white.css" type="text/css" rel="stylesheet" />
+<link href="http://www.icsmontefelcino.gov.it/templates/accessible/css/skin_black.css" type="text/css" rel="stylesheet" />
+<link href="http://www.icsmontefelcino.gov.it/templates/accessible/css/template_css.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/* <![CDATA[ */
+    var skin_default = 'white';
+    /* ]]> */
+</script>
+<script type="text/javascript" src="http://www.icsmontefelcino.gov.it/templates/accessible/js/skin_alter.js"></script>
+</head>
+<body class="white" id="main">
+    <div id="wrapper">
+        <div class="hidden">
+            <a id="up"></a>
+            <div></div>
+            <!-- accesskey goes here! -->
+            <ul>
+                <li><a accesskey="P" href="#main-content">Vai ai Contenuti</a></li>
+                <li><a accesskey="M" href="#main-menu">Vai alla Navigazione Principale e al Login</a></li>
+            </ul>
+        </div>
+                        <div id="pathway">
+            <div class="padding">
+            
+
+<div class="custom"  >
+	<p><img src="images/headerics.png" alt="" /></p></div>
+
+                        </div>
+        </div>
+                <div id="top">
+          <div class="padding">
+                        <div id="accessibility-links" class="accessibility-icons">
+                <form id="accessibility-form" method="post" action="">
+                    <div>
+                        <span class="accessibility-text">Dimensioni carattere:</span>
+                        <span class="accessibility-icon"><button type="submit" name="fap_font_size" value="decrease" id="decrease" accesskey="D" onclick="fs_change(-1); return false;" onkeypress="return handle_keypress(function(){fs_change(-1);});" title="Diminuisci dimensioni carattere [D]"><span>Diminuisci dimensioni carattere</span></button></span>
+                        <span class="accessibility-icon"><button type="submit" name="fap_font_size" value="increase" id="increase" accesskey="A" onclick="fs_change(1); return false;" onkeypress="return handle_keypress(function(){fs_change(1);});" title="Aumenta dimensioni carattere [A]" ><span>Aumenta dimensioni carattere</span></button></span>
+                        <span class="accessibility-text">Alto contrasto</span>
+                        <span class="accessibility-icon"><button type="submit" name="fap_skin" value="contrasthigh" id="contrasthigh" accesskey="X" onclick="skin_change('swap'); return false;" onkeypress="return handle_keypress(function(){skin_change('swap');});" title="Versione a contrasto elevato [X]"><span>Versione a contrasto elevato</span></button></span>
+                                                <span class="accessibility-text">Layout</span>
+                        <span class="accessibility-icon"><button type="submit" name="fap_skin" value="liquid" id="layouttext" accesskey="L" onclick="skin_set_variant('liquid'); return false;" onkeypress="return handle_keypress(function(){skin_set_variant('liquid');});" title="Imposta larghezza variabile [L]" ><span>Imposta larghezza variabile</span></button></span>
+                                                <span class="accessibility-text">Reimposta</span>
+                        <span class="accessibility-icon"><button type="submit" name="fap_skin" value="reset" id="reset" accesskey="Z" onclick="skin_change('white'); skin_set_variant(''); fs_set(fs_default); return false;" onkeypress="return handle_keypress(function(){skin_change('white'); skin_set_variant(''); fs_set(fs_default);});" title="Torna allo stile predefinito [Z]"><span>Torna allo stile predefinito</span></button></span>
+                    </div>
+                </form>
+            </div>
+                      </div>
+        </div>
+                                <div class="clr"></div>
+                        <div id="sidebar-left">
+            <div class="padding">
+                <a id="main-menu" class="hidden"></a>
+                                		<div class="moduletable_menu">
+					
+			<div class="module-title">Menu Principale</div>
+					<div class="modulecontent">
+				<ul class="nav menu">
+<li class="item-101 current active"><a href="/index.php?lang=it" >Home</a></li><li class="item-204 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=75&amp;Itemid=204&amp;lang=it" >Albo Online</a></li><li class="item-206 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=68&amp;Itemid=206&amp;lang=it" >Avvisi</a></li><li class="item-207"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=69&amp;Itemid=207&amp;lang=it" >Modulistica</a></li><li class="item-208 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=71&amp;Itemid=208&amp;lang=it" >P.O.F.</a></li></ul>
+			</div>
+		</div>
+			<div class="moduletable">
+					
+			<div class="module-title">Area Didattica</div>
+					<div class="modulecontent">
+				
+
+<div class="custom"  >
+	<p><a title="Area Didattica" href="index.php?option=com_phocadownload&amp;view=category&amp;id=72" rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/areadidattica.jpg" alt="" width="157" height="140" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					
+			<div class="module-title">Accesso Riservato ai Genitori</div>
+					<div class="modulecontent">
+				
+
+<div class="custom"  >
+	<p><a title="Area Riservata ai Genitori" href="https://family.sissiweb.it/Secret/REStart.aspx?Customer_ID=81005290416" rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/Logo_re_accedi.png" alt="" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					
+			<div class="module-title">Login</div>
+					<div class="modulecontent">
+				<form action="http://www.icsmontefelcino.gov.it/index.php?lang=it" method="post" id="login-form" class="form-inline">
+        <div class="userdata">
+        <div id="form-login-username" class="control-group">
+            <div class="controls">
+                                    <div class="input-prepend">
+                        <span class="add-on">
+                            <span class="icon-user hasTooltip" title="Nome utente"></span>
+                            <label for="modlgn-username" class="element-invisible">Nome utente</label>
+                        </span>
+                        <input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" title="Nome utente" />
+                    </div>
+                            </div>
+        </div>
+        <div id="form-login-password" class="control-group">
+            <div class="controls">
+                                    <div class="input-prepend">
+                        <span class="add-on">
+                            <span class="icon-lock hasTooltip" title="Password">
+                            </span>
+                                <label for="modlgn-passwd" class="element-invisible">Password                            </label>
+                        </span>
+                        <input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" title="Password" />
+                    </div>
+                            </div>
+        </div>
+                        <div id="form-login-remember" class="control-group checkbox">
+            <label for="modlgn-remember" class="control-label">Ricordami</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+        </div>
+                <div id="form-login-submit" class="control-group">
+            <div class="controls">
+                <button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Accedi</button>
+            </div>
+        </div>
+                    <ul class="unstyled">
+                            <li>
+                    <a href="/index.php?option=com_users&amp;view=remind&amp;lang=it">
+                      Nome utente dimenticato?</a>
+                </li>
+                <li>
+                    <a href="/index.php?option=com_users&amp;view=reset&amp;lang=it">Password dimenticata?</a>
+                </li>
+
+            </ul>
+        <input type="hidden" name="option" value="com_users" />
+        <input type="hidden" name="task" value="user.login" />
+        <input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MSZJdGVtaWQ9MTAx" />
+        <input type="hidden" name="5cda51a5c5eabe1ec5b6a10baabe0568" value="1" />    </div>
+    </form>
+			</div>
+		</div>
+	
+                            </div>
+            </div>
+                        <div id="sidebar-right">
+            <div class="padding">
+                		<div class="moduletable">
+					
+			<div class="module-title">Amministrazione Trasparente</div>
+					<div class="modulecontent">
+				
+
+<div class="custom"  >
+	<p><a title="Amministrazione Trasparente" href="index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=131&amp;lang=it"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/amministrazione_Trasparente.jpg" alt="" width="193" height="72" /></a></p>
+<p><a title="Obiettivi di accessibilità 2017 " href="https://accessibilita.agid.gov.it/obiettivi-accessibilita/2017/istituto-comprensivo-ic-montefelcino/67291"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/obiettivi_accessibilita_2017.jpg" alt="" width="193" height="72" /></a></p>
+<p><a title="Monitoraggio alunni 2017 " href="index.php?option=com_phocadownload&amp;view=category&amp;id=76:monitoraggio-dati-alunni&amp;lang=it"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/monitoraggio.jpg" alt="" width="193" height="72" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="modulecontent">
+				<ul class="nav menu">
+<li class="item-131"><a href="/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=131&amp;lang=it" >Amministrazione Trasparente</a></li><li class="item-114 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=114&amp;lang=it" >Disposizioni Generali</a></li><li class="item-137 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=5&amp;Itemid=137&amp;lang=it" >Organizzazione</a></li><li class="item-139"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=7&amp;Itemid=139&amp;lang=it" >Bandi di gara e contratti </a></li><li class="item-141 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=9&amp;Itemid=141&amp;lang=it" >Sovvenzioni, contributi, sussidi, vantaggi economici </a></li><li class="item-145 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=13&amp;Itemid=145&amp;lang=it" >Bilanci</a></li><li class="item-149 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=17&amp;Itemid=149&amp;lang=it" >Beni immobili e gestione patrimonio 	</a></li><li class="item-152"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=20&amp;Itemid=152&amp;lang=it" >Controlli e rilievi sull'amministrazione </a></li><li class="item-153 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=21&amp;Itemid=153&amp;lang=it" >Servizi Erogati </a></li><li class="item-157 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=25&amp;Itemid=157&amp;lang=it" >Pagamenti dell'amministrazione </a></li><li class="item-160"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=28&amp;Itemid=160&amp;lang=it" >Opere Pubbliche</a></li><li class="item-161"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=29&amp;Itemid=161&amp;lang=it" >Pianificazione e governo del territorio </a></li><li class="item-162"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=30&amp;Itemid=162&amp;lang=it" >Informazioni ambientali </a></li><li class="item-163"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=31&amp;Itemid=163&amp;lang=it" >Consulenti e Collaboratori</a></li><li class="item-164"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=32&amp;Itemid=164&amp;lang=it" >Interventi straordinari e di emergenza </a></li><li class="item-165"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=33&amp;Itemid=165&amp;lang=it" >Altri Contenuti </a></li><li class="item-166 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=34&amp;Itemid=166&amp;lang=it" >Personale</a></li><li class="item-177"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=45&amp;Itemid=177&amp;lang=it" >Bandi di concorso </a></li><li class="item-178 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=46&amp;Itemid=178&amp;lang=it" >Performance</a></li><li class="item-184 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=52&amp;Itemid=184&amp;lang=it" >Enti Controllati</a></li><li class="item-189 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=57&amp;Itemid=189&amp;lang=it" >Attività e procedimenti </a></li><li class="item-194 parent"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=62&amp;Itemid=194&amp;lang=it" >Provvedimenti </a></li><li class="item-197"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=65&amp;Itemid=197&amp;lang=it" >Controlli sulle imprese </a></li></ul>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="modulecontent">
+				<ul class="nav menu">
+<li class="item-199"><a href="/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=199&amp;lang=it" >URP</a></li><li class="item-200"><a href="/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=200&amp;lang=it" >Privacy</a></li><li class="item-201"><a href="/index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=201&amp;lang=it" >Note Legali</a></li><li class="item-202"><a href="/index.php?option=com_phocadownload&amp;view=category&amp;id=73&amp;Itemid=202&amp;lang=it" >Elenco Siti Tematici</a></li></ul>
+			</div>
+		</div>
+	
+                            </div>
+        </div>
+                <div id="main-3" class="maincomponent">
+                      <a id="main-content" class="hidden"></a>
+            <div class="padding">
+            <div id="system-message-container">
+	</div>
+
+                        <div class="item-page">
+    <h1>
+    Home    </h1>
+
+    <h2 class="item-title">
+            LA NOSTRA SCUOLA        </h2>
+
+
+
+
+
+
+
+
+<h1><span><strong>DIRIGENZA E SEGRETERIA</strong></span></h1>
+<p><strong>Piazza Don Luigi Sturzo 1 - 61030 MONTEFELCINO</strong></p>
+<p><strong>tel. 0721 729429 fax 0721 729140</strong></p>
+<p><strong>e-mail: <span id="cloak75947">Questo indirizzo email è protetto dagli spambots. E' necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ <!--
+ document.getElementById('cloak75947').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy75947 = 'ps&#105;c810002' + '&#64;';
+ addy75947 = addy75947 + '&#105;str&#117;z&#105;&#111;n&#101;' + '&#46;' + '&#105;t';
+ document.getElementById('cloak75947').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy75947 + '\'>' +addy75947+'<\/a>';
+ //-->\n </script></strong></p>
+<p><b>PEC: <span id="cloak80690">Questo indirizzo email è protetto dagli spambots. E' necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ <!--
+ document.getElementById('cloak80690').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy80690 = 'ps&#105;c810002' + '&#64;';
+ addy80690 = addy80690 + 'p&#101;c' + '&#46;' + '&#105;str&#117;z&#105;&#111;n&#101;' + '&#46;' + '&#105;t';
+ var addy_text80690 = 'ps&#105;c810002' + '&#64;' + 'p&#101;c' + '&#46;' + '&#105;str&#117;z&#105;&#111;n&#101;' + '&#46;' + '&#105;t';
+ document.getElementById('cloak80690').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy80690 + '\'>'+addy_text80690+'<\/a>';
+ //-->\n </script></b></p>
+<p> </p>
+<h1><strong>SEDI SCOLASTICHE</strong></h1>
+<h2><strong>SCUOLA SECONDARIA DI PRIMO GRADO</strong></h2>
+<p><strong>MONTEFELCINO</strong> "Anselmo Bucci" : Piazza Roma 1</p>
+<p>tel. 0721 725418</p>
+<h2><strong>SCUOLE PRIMARIE:</strong></h2>
+<p><strong>MONTEFELCINO </strong>: Piazza Don Luigi Sturzo 1</p>
+<p>tel. 0721 729403</p>
+<p><strong>SERRUNGARINA fraz. Tavernelle</strong> - "Giovanni Falcone" : Via delle scuole 31</p>
+<p>tel. 0721 896457</p>
+<p> <strong>ISOLA DEL PIANO</strong>: Largo Leone Balducci 1 </p>
+<p> tel. 0721 720100</p>
+<h2><span><strong>SCUOLE DELL'INFANZIA</strong>:</span></h2>
+<p><span><span><strong>MONTEFELCINO fraz. Sterpeti</strong>:</span> Via San Giuseppe 4</span></p>
+<p><span>tel. 0721 711002</span></p>
+<p><span><strong><span>SERRUNGARINA fraz. Tavernelle</span></strong> - "Bruno Munari":  Via delle scuole 53</span></p>
+<p><span>tel. 0721 896492</span></p>
+<p><span><strong><span>ISOLA DEL PIANO</span></strong>: Largo Leone Balducci 1 </span></p>
+<p><span>tel. 0721 720100</span></p>
+<h2> </h2>
+<p> </p>
+<p> </p>
+<p> </p>
+    
+</div>
+
+                                    </div>
+            <div class="clr"></div>
+        </div>
+        <div id="footer">
+            <div class="padding">
+                                		<div class="moduletable">
+					<div class="modulecontent">
+				
+
+<div class="custom"  >
+	<p style="text-align: center;"><strong>ISTITUTO COMPRENSIVO STATALE "MONTEFELCINO"</strong><br />Piazza Don Luigi Sturzo, 1 - 61030 - Montefelcino (PU)<br />Tel. 0721729429 Mail. <a href="mailto:dd.montefelcino@provincia.ps.it">psic810002@istruzione.it</a></p>
+<p style="text-align: center;">Web &amp; Design By <a title="Digital Point" href="http://www.digital-point.it" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;" rel="alternate">Digital Point</a></p></div>
+			</div>
+		</div>
+	
+                            </div>
+
+        </div>
+    </div>
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5096530-27', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

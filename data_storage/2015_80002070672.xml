@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+   <titolo>Pubblicazione Legge 190/2012</titolo>
+   <abstract>Pubblicazione elenco indici delle gare dal 01/12/2012</abstract>
+   <dataPubblicazioneIndice>2014-01-30</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI MONTORIO AL VOMANO</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2015-01-29 </dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2014</annoRiferimento>
+   <urlFile>http://85.18.255.133/montorio/amministrazionetrasparente/bandi/elencoANAC_2014.xml</urlFile>
+   <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+  <dataset id ="ID_1">
+    <linkDataset>http://85.18.255.133/montorio/amministrazionetrasparente/bandi/ANAC2014_2014.xml</linkDataset>
+    <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_2">
+    <linkDataset>http://85.18.255.133/montorio/amministrazionetrasparente/bandi/ANAC2012_2014.xml</linkDataset>
+    <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_3">
+    <linkDataset>http://85.18.255.133/montorio/amministrazionetrasparente/bandi/ANAC2013_2014.xml</linkDataset>
+    <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+  </dataset>
+  </indice>
+  </indici>

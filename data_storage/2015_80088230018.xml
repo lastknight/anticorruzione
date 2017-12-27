@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><metadata> 
+				 <titolo>Indice pubblicazione n°1</titolo> 
+				 <abstract>Pubblicazione relativa all’anno 2017</abstract> 
+				 <dataPubblicazioneIndice>2017-02-03</dataPubblicazioneIndice> 
+				 <entePubblicatore>AVCP</entePubblicatore> 
+				 <dataUltimoAggiornamentoIndice>2017-12-15</dataUltimoAggiornamentoIndice> 
+				 <annoRiferimento>2017</annoRiferimento> 
+				 <urlFile>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/indicedataset.xml</urlFile> 
+				 <licenza>IODL</licenza> 
+				 </metadata> 
+				 <indice><dataset id="ID_1"> 
+				 <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset1.xml</linkDataset> 
+				 <dataUltimoAggiornamento>2017-12-15</dataUltimoAggiornamento> 
+				 </dataset><dataset id="ID_2"> 
+				 <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset2.xml</linkDataset> 
+				 <dataUltimoAggiornamento>2017-12-15</dataUltimoAggiornamento> 
+				 </dataset><dataset id="ID_3"> 
+				 <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset3.xml</linkDataset> 
+				 <dataUltimoAggiornamento>2017-12-15</dataUltimoAggiornamento> 
+				 </dataset><dataset id="ID_4"> 
+				 <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset4.xml</linkDataset> 
+				 <dataUltimoAggiornamento>2017-12-15</dataUltimoAggiornamento> 
+				 </dataset><dataset id="ID_5"> 
+				 <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset5.xml</linkDataset> 
+				 <dataUltimoAggiornamento>2017-12-15</dataUltimoAggiornamento> 
+				 </dataset>
+		<dataset id="ID_1_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_IP_2013_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_IP_2013_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_IP_2013_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_IP_2013_4.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_IP_2013_5.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_01.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-03</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_02.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-03</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_8_ext">
+      <linkDataset>https://fire.rettorato.unito.it/gestione_bandi_gara/xml/dataset_03.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-03</dataUltimoAggiornamento>
+    </dataset>
+    
+    <dataset id="ID_1_2016_ext">
+    	<linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00001.xml</linkDataset>
+    	<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+	<dataset id="ID_2_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00002.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+	</dataset>
+    <dataset id="ID_3_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00003.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00004.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00005.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00006.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00007.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_8_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00008.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_9_2016_ext">
+	    <linkDataset>http://www.unito.it/sites/default/files/legge190/2016/dataset_2016_00009.xml</linkDataset>
+	    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+	
+	</indice> </indici>

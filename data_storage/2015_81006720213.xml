@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Amministrazione Separata Beni Uso Civico - San Giorgio - Pubblicazione legge 190</titolo>
+    <abstract>Amministrazione Separata Beni Uso Civico - San Giorgio - Pubblicazione legge 190; anno rif. 2014-2015</abstract>
+    <dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>Amministrazione Separata Beni Uso Civico - San Giorgio</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/bandi/L190/0369/indicedataset.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0369/esiti_2014_20150129-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0369/esiti_2015_20160127-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

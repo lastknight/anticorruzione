@@ -1,0 +1,552 @@
+﻿<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<meta name="description" content="">
+	<meta name="author" content="ISTITUTO COMPRENSIVO 1 - BOLOGNA">
+	<link rel="icon" href="http://ic1bo.gov.it/wp-content/uploads/sites/162/logo-ic1bo.jpg">
+	<title> IC 1 BOLOGNA </title>
+	<!-- RSS etc.. -->
+    	<link rel="alternate" type="application/rss+xml" title="IC 1 BOLOGNA  RSS Feed" href="http://ic1bo.gov.it/feed/" />
+	<link rel="pingback" href="http://ic1bo.gov.it/xmlrpc.php" />
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ic1bo.gov.it\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery-ui-style-css'  href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+<link rel='stylesheet' id='print-style-css-css'  href='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/style/css/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='accessibilita-css-css'  href='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/style/css/accessibilita.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css-css'  href='http://ic1bo.gov.it/wp-content/lesscache/162/lessphp_57c955285eb73267f964e6b6c63126ffc794c67d.css' type='text/css' media='all' />
+<link rel='stylesheet' id='scuola-style-css-css'  href='http://ic1bo.gov.it/wp-content/lesscache/162/lessphp_08c35091c6f276996778addd98e070b6086aaac0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://ic1bo.gov.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://ic1bo.gov.it/wp-content/plugins/cookie-notice/css/front.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://ic1bo.gov.it/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sidebar-login-css'  href='http://ic1bo.gov.it/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dpsp-frontend-style-css'  href='http://ic1bo.gov.it/wp-content/plugins/social-pug/assets/css/style-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-fullcalendar-css'  href='http://ic1bo.gov.it/wp-content/plugins/wp-fullcalendar/includes/css/main.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://ic1bo.gov.it/wp-content/plugins/wp-fullcalendar/includes/css/jquery-ui/base/jquery-ui.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-theme-css'  href='http://ic1bo.gov.it/wp-content/plugins/wp-fullcalendar/includes/css/jquery-ui/base/theme.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='accessibilita-style-css'  href='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/plugins/accessibilita/assets/accessibilita.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.dcjqaccordion.2.9.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Chiudi","currentText":"Oggi","monthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"monthNamesShort":["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],"nextText":"Successivo","prevText":"Precedente","dayNames":["domenica","luned\u00ec","marted\u00ec","mercoled\u00ec","gioved\u00ec","venerd\u00ec","sabato"],"dayNamesShort":["dom","lun","mar","mer","gio","ven","sab"],"dayNamesMin":["D","L","M","M","G","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/wp-a11y.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"Nessun risultato trovato.","oneResult":"Trovato 1 risultato. Usa i tasti freccia su e gi\u00f9 per esplorarlo.","manyResults":"Trovati %d risultati. Usa i tasti freccia su e gi\u00f9 per esplorarli. ","itemSelected":"Elemento selezionato."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/ic1bo.gov.it\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/ic1bo.gov.it\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"it","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/ic1bo.gov.it\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"1","is_ssl":"","bookingInProgress":"Per favore attendi che la prenotazione venga elaborata.","tickets_save":"Salvare biglietto","bookingajaxurl":"http:\/\/ic1bo.gov.it\/wp-admin\/admin-ajax.php","bookings_export_save":"Prenotazioni Export","bookings_settings_save":"Salvare le impostazioni","booking_delete":"Sei sicuro di voler cancellare?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Ricerca","txt_searching":"Ricerca in corso...","txt_loading":"Caricamento in corso ...","event_detach_warning":"Sei sicuro di voler scollegare questo evento ricorrente? Se si esegue questa operazione, questo sar\u00e0 indipendente dal modello di ricorrenza.","delete_recurrence_warning":"Sei sicuro di voler cancellare tutte le ricorrenze di questo evento? Tutti gli eventi saranno spostati nel cestino.","disable_bookings_warning":"Sei sicuro di voler disabilitare le prenotazioni? Se esegui questa operazione e salvi, si perdono tutte le prenotazioni precedenti. Se si desidera impedire ulteriori prenotazioni, riduci il numero di posti disponibili alla quantit\u00e0 di prenotazioni che hai attualmente","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.8'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/sidebar-login/assets/js/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"http:\/\/ic1bo.gov.it\/wp-admin\/admin-ajax.php","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Prego, inserisci il nome utente","i18n_password_required":"Prego, inserisci la password","error_class":"sidebar_login_error"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.7.3'></script>
+<script type='text/javascript'>
+			var dpsp_ajax_url = 'http://ic1bo.gov.it/wp-admin/admin-ajax.php';
+
+			var dpsp_ajax_pull_post_share_counts_data = {
+				action  : 'dpsp_ajax_pull_post_share_counts',
+				post_id : '48'
+			}
+		
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/social-pug/assets/js/front-end.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/jquery/ui/selectmenu.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPFC = {"ajaxurl":"http:\/\/ic1bo.gov.it\/wp-admin\/admin-ajax.php","firstDay":"1","wpfc_theme":"1","wpfc_limit":"3","wpfc_limit_txt":"more ...","timeFormat":"h(:mm)t","defaultView":"month","weekends":"true","header":{"left":"prev,next today","center":"title","right":"month,basicWeek,basicDay"},"wpfc_qtips":"1","wpfc_qtips_classes":"ui-tooltip-light","wpfc_qtips_my":"top center","wpfc_qtips_at":"bottom center"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/wp-fullcalendar/includes/js/main.js?ver=1.2'></script>
+<link rel='https://api.w.org/' href='http://ic1bo.gov.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ic1bo.gov.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ic1bo.gov.it/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="http://ic1bo.gov.it/" />
+<link rel='shortlink' href='http://ic1bo.gov.it/' />
+<link rel="alternate" type="application/json+oembed" href="http://ic1bo.gov.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fic1bo.gov.it%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ic1bo.gov.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fic1bo.gov.it%2F&#038;format=xml" />
+<!-- <meta name="NextGEN" version="2.2.33" /> -->
+    <style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited {
+        text-decoration: none;
+        border: none;
+      }
+    </style>
+           <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 12px 12px 12px 12px;
+            position: relative;
+            z-index: 1000;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #6D9F00;
+            vertical-align: bottom;
+          }
+          .printfriendly a {
+            box-shadow:none;
+          }
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<style type="text/css" data-source="Social Pug"></style><meta name="twitter:card" 		content="summary_large_image" /><meta property="og:url"			content="http://ic1bo.gov.it/" /><meta property="og:type"			content="article" /><meta property="og:title"			content="Home" /><meta property="og:description" 	content="&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;" /><meta property="og:image" 		content="" /><link rel="icon" href="http://ic1bo.gov.it/wp-content/uploads/sites/162/logo-ic1bo-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="http://ic1bo.gov.it/wp-content/uploads/sites/162/logo-ic1bo.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://ic1bo.gov.it/wp-content/uploads/sites/162/logo-ic1bo.jpg" />
+<meta name="msapplication-TileImage" content="http://ic1bo.gov.it/wp-content/uploads/sites/162/logo-ic1bo.jpg" />
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	
+<style>
+.articoli_categoria_evidenza .post_preview:nth-child(odd) {
+    background: rgba(204, 201, 249, 0.58);
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.articoli_categoria_evidenza .post_preview:nth-child(even) {
+    background: rgba(241, 233, 222, 0.58);
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+</style>
+<link rel='stylesheet' id='su-media-shortcodes-css'  href='http://ic1bo.gov.it/wp-content/plugins/shortcodes-ultimate/assets/css/media-shortcodes.css?ver=5.0.2' type='text/css' media='all' />
+</head>
+
+<body>
+<div id="wrapper" class="container">
+    <header>
+        <div class="container testata">
+            <h1 class="hidden">IC 1 BOLOGNA </h1>
+                <div class="row" id="header">
+    <div class="container-fluid">
+        <div id="rimandi" class="hidden-sm hidden-md hidden-lg">
+            <span id="mostra-menu-popup"><button id="show-left-sidebar" class="btn btn-default"><span class="glyphicon glyphicon-menu-right"></span><span class="titleMenu">Mostra men&ugrave; di sinistra</span></button><button id="show-right-sidebar" class="btn btn-default"><span class="glyphicon glyphicon-menu-left"></span><span class="titleMenu">Mostra men&ugrave; di destra</span></button></span>
+            </div><div class="row">
+    <div class="container-fluid"><div id="topnavmenu"><ul id="menu-menu-alto-sopra-intestazione" class="sito"><li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://ic1bo.gov.it/contatti/">Contatti</a></li>
+<li id="menu-item-1442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1442"><a title="Area Riservata" href="http://ic1bo.gov.it/wp-admin">Area Riservata</a></li>
+</ul></div></div></div><div class="row">
+    <div class="col-xs-12 col-sm-12 text-center">                <a href="http://ic1bo.gov.it" title="IC 1 BOLOGNA "><img src="http://ic1bo.gov.it/wp-content/uploads/sites/162/Intestazione10-1.png" alt="IC 1 BOLOGNA " class="img_slide" /></a>
+            
+	</div></div><div class="row">
+    <div class="col-xs-12 col-sm-12 text-center"></div></div>
+    </div>
+</div>
+<div class="row">
+    <div class="container-fluid">
+<div id="topbar" class=""><ul id="menu-menu-principale-orizzontale" class=""><li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item menu-item-51"><a href="http://ic1bo.gov.it/">Home</a></li>
+<li id="menu-item-3695" class="menu-item menu-item-type-post_type_archive menu-item-object-le_scuole menu-item-has-children menu-item-3695"><a href="http://ic1bo.gov.it/le_scuole/">Le Sedi</a>
+<ul class="sub-menu">
+	<li id="menu-item-3697" class="menu-item menu-item-type-post_type menu-item-object-le_scuole menu-item-3697"><a href="http://ic1bo.gov.it/le_scuole/scuola-dell-infanzia-futura/">Infanzia &#8220;FUTURA&#8221;</a></li>
+	<li id="menu-item-3700" class="menu-item menu-item-type-post_type menu-item-object-le_scuole menu-item-3700"><a href="http://ic1bo.gov.it/le_scuole/cesana/">Primaria &#8220;CESANA&#8221;</a></li>
+	<li id="menu-item-3698" class="menu-item menu-item-type-post_type menu-item-object-le_scuole menu-item-3698"><a href="http://ic1bo.gov.it/le_scuole/giovanni-xxiii/">Primaria &#8220;GIOVANNI XXIII&#8221;</a></li>
+	<li id="menu-item-3699" class="menu-item menu-item-type-post_type menu-item-object-le_scuole menu-item-3699"><a href="http://ic1bo.gov.it/le_scuole/morandi/">Primaria &#8220;MORANDI&#8221;</a></li>
+	<li id="menu-item-3701" class="menu-item menu-item-type-post_type menu-item-object-le_scuole menu-item-3701"><a href="http://ic1bo.gov.it/le_scuole/g-dozza-1-bologna/">Secondaria &#8220;G.DOZZA&#8221;</a></li>
+</ul>
+</li>
+<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://ic1bo.gov.it/docenti/">Docenti</a></li>
+<li id="menu-item-3732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3732"><a href="http://ic1bo.gov.it/category/studenti/">Studenti</a>
+<ul class="sub-menu">
+	<li id="menu-item-3752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3752"><a href="http://ic1bo.gov.it/i-nostri-lavori/">I nostri lavori</a></li>
+	<li id="menu-item-3753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3753"><a href="http://ic1bo.gov.it/i-nostri-successi/">I nostri successi</a></li>
+</ul>
+</li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="http://ic1bo.gov.it/genitori/">Genitori</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="http://ic1bo.gov.it/personale-ata/">Personale ATA</a></li>
+<li id="menu-item-3736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3736"><a href="http://ic1bo.gov.it/segreteria-urp/">Segreteria – URP</a></li>
+</ul></div>    </div>
+</div>
+        </div>
+    </header>
+    <!-- chiusura testata -->
+<div class="main-content-site container">
+	<div class="container-fluid" id="contenuto">
+	<div class="row">
+	    <aside>
+        <div class="hidden-xs col-sm-2 no-padding-left no-padding-right" id="leftsidebar">
+                    <div class="row"><div class="col-sm-12 widget"><div><h2 class="widgettitle">Comunicazioni</h2><div class="menu-comunicazioni-container"><ul id="menu-comunicazioni" class="menu"><li id="menu-item-3609" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3609"><a href="http://ic1bo.gov.it/category/news/">News</a></li>
+<li id="menu-item-3619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3619"><a href="http://ic1bo.gov.it/avviso-chiamata-per-competenza-primaria/">Avviso Chiamata Per Competenza Primaria</a></li>
+<li id="menu-item-3608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3608"><a href="http://ic1bo.gov.it/avviso-chiamata-per-competenza/">Avviso Chiamata per Competenza</a></li>
+<li id="menu-item-3607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3607"><a href="http://ic1bo.gov.it/avviso-chiamata-per-competenza-secondaria-primo-grado/">Avviso Chiamata per Competenza Secondaria Primo Grado</a></li>
+<li id="menu-item-3610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3610"><a href="http://ic1bo.gov.it/circolari/">Circolari Docenti</a></li>
+<li id="menu-item-3611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3611"><a href="http://ic1bo.gov.it/circolari-ata/">Circolari ATA</a></li>
+</ul></div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><h2 class="widgettitle">Istituto</h2><div class="menu-istituto-container"><ul id="menu-istituto" class="menu"><li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480"><a href="http://ic1bo.gov.it/istituto/">Istituto</a></li>
+<li id="menu-item-3727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3727"><a href="http://ic1bo.gov.it/mission-vision/">Mission &#038; Vision</a></li>
+<li id="menu-item-1485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1485"><a href="http://ic1bo.gov.it/istituto/dirigenza/">Dirigenza</a></li>
+<li id="menu-item-1484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1484"><a href="http://ic1bo.gov.it/istituto/organigramma/">Organigramma</a></li>
+<li id="menu-item-3495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3495"><a href="http://ic1bo.gov.it/funzionigramma/">Funzionigramma</a></li>
+<li id="menu-item-1483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1483"><a href="http://ic1bo.gov.it/istituto/organi-collegiali/">Organi Collegiali</a></li>
+<li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="http://ic1bo.gov.it/istituto/calendario-scolastico/">Calendario Scolastico</a></li>
+<li id="menu-item-1482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1482"><a href="http://ic1bo.gov.it/istituto/regolamento-istituto/">Regolamento Istituto</a></li>
+<li id="menu-item-3070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3070"><a target="_blank" href="https://nuvola.madisoft.it/bacheca-digitale/bacheca/BOIC808009/4#new_tab">Modulistica</a></li>
+<li id="menu-item-3399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3399"><a href="http://ic1bo.gov.it/bilancio-sociale/">Bilancio Sociale</a></li>
+</ul></div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><h2 class="widgettitle">Area Genitori</h2><div class="menu-area-genitori-container"><ul id="menu-area-genitori" class="menu"><li id="menu-item-3016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3016"><a href="http://ic1bo.gov.it/circolari-2/">Circolari</a></li>
+<li id="menu-item-3019" class="menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-3019"><a href="http://ic1bo.gov.it/eventi/">Eventi</a></li>
+<li id="menu-item-3047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3047"><a href="http://ic1bo.gov.it/libri-di-testo/">Libri di Testo Secondaria &#8220;G.Dozza&#8221; A.S. 2017/2018</a></li>
+<li id="menu-item-3048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3048"><a href="http://ic1bo.gov.it/iscrizioni-2016-2017/">Iscrizioni 2016-2017</a></li>
+<li id="menu-item-3049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3049"><a href="http://ic1bo.gov.it/ricevimento-genitori/">Ricevimento</a></li>
+</ul></div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><h2 class="widgettitle">Documenti</h2><div class="menu-documenti-container"><ul id="menu-documenti" class="menu"><li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><a href="http://ic1bo.gov.it/pof/">POF</a></li>
+<li id="menu-item-3058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3058"><a href="http://ic1bo.gov.it/ptof-2/">PTOF</a></li>
+<li id="menu-item-3059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3059"><a href="http://ic1bo.gov.it/rav/">RAV</a></li>
+<li id="menu-item-3789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3789"><a href="http://ic1bo.gov.it/curricolo-distituto/">Curricolo d&#8217;Istituto</a></li>
+</ul></div></div></div></div>        </div>
+    </aside>
+
+	<div id="contenuto-centrale" class="col-xs-12 col-sm-8">
+		<!-- breadcrumbs -->
+
+	<div id="path">
+			</div>
+	<!-- fine breadcrumbs -->
+            <div class="row">
+                <div class="col-xs-12 col-sm-12">
+                        <article>
+    <div class="post" id="post-48">
+                                    <div class="postentry page">
+            <div class="pf-content"><p><img class="aligncenter wp-image-4583" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/buone-feste-1-300x124.jpg" alt="" width="552" height="228" srcset="http://ic1bo.gov.it/wp-content/uploads/sites/162/buone-feste-1-300x124.jpg 300w, http://ic1bo.gov.it/wp-content/uploads/sites/162/buone-feste-1-768x318.jpg 768w, http://ic1bo.gov.it/wp-content/uploads/sites/162/buone-feste-1.jpg 966w" sizes="(max-width: 552px) 100vw, 552px" /></p>
+<table>
+<tbody>
+<tr>
+<td><a href="http://ic1bo.gov.it/?p=4452&amp;preview=true"><img class="wp-image-4451 alignnone" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/openday_web-300x111.jpg" alt="" width="321" height="124"></a></td>
+<td>&nbsp;</td>
+<td style="text-align: right;"><a href="http://ic1bo.gov.it/?page_id=4605&amp;preview=true"><img class="alignnone wp-image-4558" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/iscrizioni-2018-19b-300x127.jpg" alt="" width="283" height="120" srcset="http://ic1bo.gov.it/wp-content/uploads/sites/162/iscrizioni-2018-19b-300x127.jpg 300w, http://ic1bo.gov.it/wp-content/uploads/sites/162/iscrizioni-2018-19b-768x324.jpg 768w, http://ic1bo.gov.it/wp-content/uploads/sites/162/iscrizioni-2018-19b-1024x433.jpg 1024w" sizes="(max-width: 283px) 100vw, 283px" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>        </div>
+    </div>
+    </article>
+                </div>
+            </div>
+            <div class="row box_evidenza">
+                <div class="col-xs-12 col-sm-12"><section class="articoli_categoria_evidenza">
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/avviso-alle-famiglie-delli-c-n-1/" class="postTitle" title="Avviso alle famiglie dell&#8217;I.C.N.1">Avviso alle famiglie dell&#8217;I.C.N.1</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/AVVISO-AI-GENITORI-1.docx">AVVISO AI GENITORI</a><br />
+<a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/sciopero-SAESE.docx">sciopero SAESE</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/ai-genitori-delli-c-1attivazione-sportello-di-consultazione-psicologica-per-genitori/" class="postTitle" title="Attivazione Sportello di consultazione psicologica per genitori dell&#8217;Istituto">Attivazione Sportello di consultazione psicologica per genitori dell&#8217;Istituto</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/SEGNATURA_1513861811_SPORTELLO-DASCOLTO-2-1.pdf">Comunicato</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article>
+<div class="article_preview"><div class="pf-content"><p><img class="alignnone  wp-image-4589 aligncenter" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/NEW-MEDIA-1-300x180.jpg" alt="" width="628" height="377" srcset="http://ic1bo.gov.it/wp-content/uploads/sites/162/NEW-MEDIA-1-300x180.jpg 300w, http://ic1bo.gov.it/wp-content/uploads/sites/162/NEW-MEDIA-1-768x461.jpg 768w, http://ic1bo.gov.it/wp-content/uploads/sites/162/NEW-MEDIA-1-1024x615.jpg 1024w" sizes="(max-width: 628px) 100vw, 628px" /></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/classi-terze-scuola-secondaria-g-dozza-documento-consiglio-orientativo/" class="postTitle" title="Visione del &#8220;Consiglio Orientativo&#8221; delle classi terze della Secondaria &#8220;G.Dozza&#8221;">Visione del &#8220;Consiglio Orientativo&#8221; delle classi terze della Secondaria &#8220;G.Dozza&#8221;</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/Consiglio-orientativo.pdf">Comunicato</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/settimana-della-legalita-servizio-tgr-er-17-11-2017/" class="postTitle" title="Settimana della legalità &#8211; Servizio TGR ER">Settimana della legalità &#8211; Servizio TGR ER</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><div class="su-youtube su-responsive-media-no"><iframe width="500" height="300" src="https://www.youtube.com/embed/tDn1PDBbwaY" frameborder="0" allowfullscreen="true"></iframe></div>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/comunicato-post-scuola-dellinfanzia-futura/" class="postTitle" title="Servizio post scuola dell’Infanzia “Futura”">Servizio post scuola dell’Infanzia “Futura”</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/SEGNATURA_1506941636_Comunicato-post-Futura-1.pdf">Comunicato</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/obblighi-vaccinali-primarie-e-secondaria-i-grado/" class="postTitle" title="Obblighi vaccinali primarie e secondaria I grado">Obblighi vaccinali primarie e secondaria I grado</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/obblighi-vaccinali-primarie-e-secondaria-I-grado.pdf">Comunicato</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/pubblicazione-graduatoria-personale-docente-di-i-ii-e-iii-fascia-2017-2020/" class="postTitle" title="Graduatoria personale docente di I^ II^ e III^ fascia 2017-2020">Graduatoria personale docente di I^ II^ e III^ fascia 2017-2020</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/firmato_1505296392_SEGNATURA_1505295929_Decreto_pubbl_grad_13_09_17_1.pdf">Decreto</a></p>
+<p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/CARTELLA-GRADUATORIE-2017-2020.rar">Graduatorie 2017-2020</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+
+<div class="post_preview col-xs-12 col-sm-12">
+	<article><header>
+	<h3 class="postTitle"><a href="http://ic1bo.gov.it/ulteriori-chiarimenti-adempimenti-obblighi-vaccinali/" class="postTitle" title="Chiarimenti adempimenti obblighi vaccinali">Chiarimenti adempimenti obblighi vaccinali</a></h3><div style="clear:both"></div>
+	</header>
+	
+<div class="article_preview"><div class="pf-content"><p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/comunicato-n.-3-I.C.-N.-1.pdf">Comunicato</a></p>
+<p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/2017-2018-circolare-miur-ministero-della-salute-n.1679-01-09-2017.pdf">Circolare MIUR n.1679</a></p>
+<p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/2017-2018-nota-usr-er-assessorato-salute.n.16142-del-25-08-2017.pdf">Nota Ufficio Scolastico Regionale</a></p>
+<p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/2017-2018-circolare-miur-n.1622-del-16-08-2017.pdf">Circolare MIUR n.1622</a></p>
+<p><a href="http://ic1bo.gov.it/wp-content/uploads/sites/162/dichiarazione-sostitutiva-per-i-genitori-degli-alunni.docx">Dichiarazione sostitutiva per i genitori degli alunni</a></p>
+</div>
+</div><div style="clear:both"></div></article>
+	
+<div style="clear:both"></div>
+</div>
+</section></div>
+            </div>            <div class="row">
+                <div class="col-xs-12 col-sm-12">
+                                    </div>
+            </div>
+            </div><!-- contenuto-centrale content -->    <aside>
+        <div class="hidden-xs  no-padding-left no-padding-right col-sm-2" id="rightsidebar">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="row">
+	<div class="col-sm-12"><h2 class="widgettitle">Cerca</h2>
+<form method="get" id="searchform" action="/">
+	<div class="input-group">
+		<label class="screen-reader-text" for="s">Cerca:</label>
+		<input type="text" class="form-control" value="" name="s" id="s" placeholder="Cerca nel sito..." />
+	<span class="input-group-addon no-padding"><button title="Cerca"  type="submit" id="searchsubmit2" value="cerca" >  <span class="glyphicon glyphicon-search" aria-hidden="true"></span></button></span>
+	</div>
+</form>
+</div></div><div class="row"><div class="col-sm-12 widget"><div>
+			<a href="https://nuvola.madisoft.it/login?codice=boic808009" target="_blank">
+                <img alt="Registro elettronico" style="width: 100%; height:auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/logo-registroelettronico.png"/>
+            </a></div></div></div><div class="row"><div class="col-sm-12 widget"><div><a href="http://www.iscrizioni.istruzione.it/" target="_blank"><img alt="Iscrizioni on line" style="width: 100%; height: auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/banner_iscrizionionline.png"/></a></div></div></div><div class="row"><div class="col-sm-12 widget"><div><div class="textwidget"><p><a href="https://nuvola.madisoft.it/bacheca-digitale/bacheca/BOIC808009/3" target="_blank" rel="noopener noreferrer"><img class="alignnone size-medium wp-image-2894" src="http://ic1bo.scuoletest.madisoft.it/wp-content/uploads/sites/162/amministrazioneTrasparente-300x111.jpg" alt="amministrazioneTrasparente" width="300" height="111" /></a></p>
+<p>&nbsp;</p>
+</div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><div class="textwidget"><p><a href="https://nuvola.madisoft.it/bacheca-digitale/bacheca/BOIC808009/1" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-3177" style="width: 100%;" src="http://ic1bo.scuoletest.madisoft.it/wp-content/uploads/sites/162/logo-albo.jpg" alt="logo-albo" /></a></p>
+<p><a href="https://nuvola.madisoft.it/bacheca-digitale/bacheca/BOIC808009/8" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-3068" style="width: 100%;" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/logo-albo-sindacale.jpg" alt="logo-albo-sindacale" /></a></p>
+<p><a href="http://ic1bo.gov.it/pon-fse/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-medium wp-image-2979" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/PON-1-300x202.jpg" alt="" width="300" height="202" /></a></p>
+<p><a href="http://www.lacassa.com/ita/Privati/Enti"><img class="alignnone  wp-image-4448" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/cassa.jpg" alt="" width="302" height="129" /></a></p>
+<p><span style="text-decoration: underline;"><strong><em><a href="https://nuvola.madisoft.it/bacheca-digitale/bacheca/BOIC808009/10" target="_blank" rel="noopener noreferrer"><img class="alignnone size-medium wp-image-3435" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/EVEjpg-300x101.jpg" alt="" width="300" height="101" /></a></em></strong></span></p>
+<p><a href="http://ic1bo.gov.it/bes-dsa/"><img class="alignnone  wp-image-3512" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/dsa-bes.jpg" alt="" width="158" height="146" /></a></p>
+</div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><div class="textwidget"></div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><div class="textwidget"><p><a href="http://ic1bo.gov.it/attivazione-sportello-di-ascolto-a-s-20162017/"><img class="alignnone size-full wp-image-3150" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/sportello-di-ascolto-1.jpg" alt="sportello di ascolto" width="267" height="189" /></a></p>
+<p><a href="http://ic1bo.gov.it/altelier-creativi/"><img class="alignnone size-full wp-image-3945" src="http://ic1bo.gov.it/wp-content/uploads/sites/162/atelier.png" alt="" width="225" height="225" /></a></p>
+</div></div></div></div><div class="row"><div class="col-sm-12 widget"><div><a href="http://www.indicazioninazionali.it/" target="_blank"><img alt="Indicazioni Nazionali" style="width: 100%; height: auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/banner_indicazioninazionali.gif"/></a></div></div></div><div class="row"><div class="col-sm-12 widget"><div><a href="http://www.invalsi.it" target="_blank"><img alt="Logo Portale Invalsi" style="width: 100%; height: auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/banner_invalsi.gif"/></a></div></div></div><div class="row"><div class="col-sm-12 widget"><div><a href="http://www.istruzione.it/orientamento/" target="_blank"><img alt="Io Scelgo: orientamento scolastico" style="width: 100%; height: auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/Banner_IoScelgoIoStudio_02.png"/></a></div></div></div><div class="row"><div class="col-sm-12 widget"><div><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/ricerca/risultati?rapida=boic808009&tipoRicerca=RAPIDA&gidf=1" target="_blank"><img alt="la scuola in chiaro" style="width: 100%; height: auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/banner_lascuolainchiaro.gif"/></a></div></div></div><div class="row"><div class="col-sm-12 widget"><div><a href="https://oc4jesemvlas2.pubblica.istruzione.it/trasparenzaPubb/ricercaassenze.do?codScuUt=boic808009&amp;paramDesNomScu=ISTITUTO+COMPRENSIVO+1+-+BOLOGNA&amp;paramDatAnnScoRil=1617&amp;tipoRicerca=S&amp;paramCodScuUt=BOIC808009" target="_blank"><img alt="tasso di assenze: logo al portale MIUR" style="width: 100%; height: auto;" src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/Banner_TassoAssenze.png"/></a></div></div></div>                </div>
+            </div>
+        </div>
+    </aside>
+    </div><!-- row content --></div><!-- container#contenuto --></div>
+<footer>
+    <div id="footer">
+        
+<div id="pieDiPaginaDatiIstituto">
+<strong>ISTITUTO COMPRENSIVO 1 - BOLOGNA</strong> - Via De Carolis, 23, Bologna - 40133 (BO)<br/><abbr title="Codice Meccanografico">Cod. Mecc.</abbr>: boic808009 - <abbr title="Codice Fiscale">Cod. Fisc.</abbr>91153320378 - <abbr title="Codice">Cod.</abbr> Fatturazione: UFKOLY - Codice <abbr title="Indice Pubbliche Amministrazione">IPA</abbr>: istsc_boic808009 <br/><abbr title="Telefono">Tel: </abbr> 0516193303 - <abbr title="Fax">Fax.</abbr> 051568585 - <abbr title="E-mail: ">E-mail: </abbr> <a href="mailto:boic808009@istruzione.it" target="_blank">boic808009@istruzione.it</a> - <abbr title="P.E.C.: ">P.E.C.: </abbr> <a href="mailto:boic808009@pec.istruzione.it" target="_blank">boic808009@pec.istruzione.it</a> 
+</div><div id="footbar"><ul id="menu-menu-pie-di-pagina" class="sito"><li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://ic1bo.gov.it/note-legali/">Note Legali</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://ic1bo.gov.it/privacy/">Privacy</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://ic1bo.gov.it/accessibilita/">Accessibilità</a></li>
+<li id="menu-item-2691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2691"><a href="http://ic1bo.gov.it/elenco-siti-tematici/">Elenco siti tematici</a></li>
+</ul></div>
+        <div class="gototop">
+            <p>
+                <a href="#header" rel="nofollow">Torna all'inizio</a>
+            </p>
+
+            <p>&nbsp;</p>
+        </div>
+        <div class="text-center">
+            <div id="loghiW3C">
+                <a href="https://validator.w3.org/nu/?doc=http://ic1bo.gov.it/" target="_blank" title="HTML 5 Valido!">
+                    <img src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/valid-xhtml10.png" alt="XHTML5 Valido!"/>
+                </a>
+                <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="CSS Valido!">
+                    <img src="http://ic1bo.gov.it/wp-content/themes/temaScuola/include/images/vcss-blue.gif" alt="CSS Valido!"/>
+                </a>
+                <a href="http://www.magellanopa.it/bussola/page.aspx?s=verifica-dlgs-33-2013&amp;qs=i/IwZsp5t0Z/qJNdz1eumw=="
+                   target="_blank" title="Bussola della Trasparenza Report">
+                    <img style="width: 90px;"  alt="bussola della trasparenza" src="http://www.magellanopa.it/bussola/media/bussola-report.png"
+                         title="Bussola della Trasparenza Report"/>
+                </a>
+            </div>
+            <div>
+                <p id="credits">Sito realizzato da
+                    <a href="http://scuoladigitale.info" target="_blank" title="Madisoft">Madisoft</a>
+                </p>
+
+            </div>
+        </div>
+    </div>
+<!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/ic1bo.gov.it\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"http:\/\/ic1bo.gov.it\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"TRUE","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"ic1bo.gov.it","redirection":"","cache":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.40'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/js/js.cookie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/plugins/accessibilita/assets/accessibilita.js?ver=1.0'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/js/temaScuola_functions.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/js/jqueryDatepicker.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/style/bootstrap/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/style/bootstrap/js/ie10-viewport-bug-workaround.js'></script>
+<script type='text/javascript' src='http://code.jquery.com/ui/1.11.2/jquery-ui.js'></script>
+<script type='text/javascript' src='http://ic1bo.gov.it/wp-content/themes/temaScuola/include/js/calendario.js'></script>
+<div id="barraAccessibilita">
+<div class="btn-group-vertical">
+    <a href="#" id="aumentaCarattere" title="aumenta il carattere" class="btn btn-success btn-xs"><span class="fontsize1"><span class="glyphicon glyphicon-text-size" aria-hidden="true"></span><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></span></a>
+    <a href="#" id="resettaCarattere" title="ripristina il carattere" class="btn btn-success btn-xs"><span class="fontsize1"><span class="glyphicon glyphicon-text-size" aria-hidden="true"></span><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></span></a>
+    <a href="#" id="diminuisciCarattere" title="diminuisci il carattere" class="btn btn-success btn-xs"><span class="fontsize1"><span class="glyphicon glyphicon-text-size" aria-hidden="true"></span><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></span></a>
+    <a href="#" id="settaIlCss" title="setta il css ad alto contrasto" class="btn btn-warning btn-xs"><span class="glyphicon glyphicon-adjust"></span></a>
+    <a href="#" id="scalaDiGrigi" title="Scala di grigi" class="btn btn-warning btn-xs"><span class="glyphicon glyphicon-tint"></span></a>
+    
+</div>
+</div>
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+          var pfPlatform = 'Wordpress';
+      (function() {
+            var e = document.createElement('script'); e.type="text/javascript";
+            e.src = 'https://cdn.printfriendly.com/printfriendly.js';
+            document.getElementsByTagName('head')[0].appendChild(e);
+        })();
+      </script>
+
+			<div id="cookie-notice" role="banner" class="cn-top bootstrap" style="color: #fff; background-color: #000;"><div class="cookie-notice-container"><span id="cn-notice-text">Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella cookie policy. Se vuoi saperne di più o negare il consenso a tutti o ad alcuni cookie, consulta la cookie policy.
+Chiudendo questo banner, acconsenti all’uso dei cookie.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie button bootstrap">Ok</a><a href="#" id="cn-refuse-cookie" data-cookie-set="refuse" class="cn-set-cookie button bootstrap">No</a><a href="http://ic1bo.gov.it/cookie-policy/" target="_blank" id="cn-more-info" class="cn-more-info button bootstrap">Leggi di più</a>
+				</div>
+			</div></footer>
+<div id="modal-fade" class="hidden">
+    <div id="close-fade"><button class="btn btn-default" id="close-fade-button">X</button></div>
+</div>
+</div>
+</body>
+</html>

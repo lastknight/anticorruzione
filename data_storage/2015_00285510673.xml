@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n°1</titolo>
+<abstract>Pubblicazione relativa all'anno 2014</abstract>
+<dataPubblicazioneIndice>2016-01-31</dataPubblicazioneIndice>
+<entePubblicatore>Comune di Alba Adriatica</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2015-03-26</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www.comune.alba-adriatica.te.it/avcp/indicedataset.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice><dataset id="ID_1">
+<linkDataset>http://www.comune.alba-adriatica.te.it/avcp/avcp_dataset_2013.xml</linkDataset>
+<dataUltimoAggiornamento>2015-03-18</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.comune.alba-adriatica.te.it/avcp/avcp_dataset_2014.xml</linkDataset>
+<dataUltimoAggiornamento>2015-03-18</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://www.comune.alba-adriatica.te.it/avcp/avcp_dataset_2015.xml</linkDataset>
+<dataUltimoAggiornamento>2015-03-26</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

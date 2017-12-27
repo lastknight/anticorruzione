@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 http://dati.anticorruzione.it/schema/datasetAppaltiL190.xsd"
+                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                        xmlns:legge190="legge190_1_0">
+			<metadata>
+				<titolo>Pubblicazione legge 190</titolo>
+				<abstract>Pubblicazione legge 190</abstract>
+				<dataPubbicazioneDataset>2015-01-31</dataPubbicazioneDataset>
+				<entePubblicatore>Comune di Cessapalombo</entePubblicatore>
+				<dataUltimoAggiornamentoDataset>2015-01-31</dataUltimoAggiornamentoDataset>
+				<annoRiferimento>2014</annoRiferimento>
+				<urlFile>http://www.comune.cessapalombo.mc.it/wp-content/blogs.dir/29/avcp/2014/avcp_2014_00242710432_1.xml</urlFile>
+				<licenza>iodl</licenza>
+			</metadata>
+			<data><lotto>
+					<cig>ZF50CDBF20</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>POR Marche FSE Ob. 2 2007/2013 Asse I. Conferimento incarico professionale per sub-progetto "Insieme in salute"</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01799850431</codiceFiscale>
+											<ragioneSociale>Dott. Cristian Bordoni - Loro Piceno</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01799850431</codiceFiscale>
+												<ragioneSociale>Dott. Cristian Bordoni - Loro Piceno</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>27520.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2013-04-10</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>25200.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZA30A5ADE9</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>ADESIONE CONVENZIONE CONSIP PER FORNITURA ENERGIA ELETTRICA </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>06832931007</codiceFiscale>
+											<ragioneSociale>GALA SPA</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari></aggiudicatari>
+					<importoAggiudicazione>6000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2013-06-12</dataInizio><dataUltimazione>2014-12-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>5642.11</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZA30AACFBD</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>polizza incendio immobili comunali </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01270280439</codiceFiscale>
+											<ragioneSociale>CARASSAI ERMANNO AGENTE GENERALE INA ASSITALIA</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01270280439</codiceFiscale>
+												<ragioneSociale>CARASSAI ERMANNO AGENTE GENERALE INA ASSITALIA</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>260.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2013-07-06</dataInizio><dataUltimazione>2014-12-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>257.56</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZE30CDC123</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>SPESE FUNZIONAMENTO MENSA SCOLASTICA A.S. 2013/2014</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>BRCMNL71R58G157N</codiceFiscale>
+											<ragioneSociale>LA BOTTEGA DI BRACHINI EMANUELA</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>GMNLRT72P15L191L</codiceFiscale>
+											<ragioneSociale>AZIENDA AGRICOLA AGAMENNONI ALBERTO</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>CMPZRR92A43B474B</codiceFiscale>
+											<ragioneSociale>LA PASTA DI GRAZIELLA DI COMPAGNONI AZZURRA</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01182200434</codiceFiscale>
+											<ragioneSociale>QUALICHEM SNC</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>SNCNTN63A12B398B</codiceFiscale>
+											<ragioneSociale>SANCRICCA ANTONIO</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01784110437</codiceFiscale>
+											<ragioneSociale>Il Pescatore di Melonaro</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>BRCMNL71R58G157N</codiceFiscale>
+												<ragioneSociale>LA BOTTEGA DI BRACHINI EMANUELA</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>GMNLRT72P15L191L</codiceFiscale>
+												<ragioneSociale>AZIENDA AGRICOLA AGAMENNONI ALBERTO</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>CMPZRR92A43B474B</codiceFiscale>
+												<ragioneSociale>LA PASTA DI GRAZIELLA DI COMPAGNONI AZZURRA</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>01182200434</codiceFiscale>
+												<ragioneSociale>QUALICHEM SNC</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>SNCNTN63A12B398B</codiceFiscale>
+												<ragioneSociale>SANCRICCA ANTONIO</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>01784110437</codiceFiscale>
+												<ragioneSociale>Il Pescatore di Melonaro</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>20000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2013-09-12</dataInizio><dataUltimazione>2014-06-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>5479.70</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z600CA3F04</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto> Polizze RCA automezzi comunali  </oggetto>
+					<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01715740435</codiceFiscale>
+											<ragioneSociale>VIASSICURA snc di Paolo Battaglioni &amp; C.</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01715740435</codiceFiscale>
+												<ragioneSociale>VIASSICURA snc di Paolo Battaglioni &amp; C.</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>5000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2013-11-30</dataInizio><dataUltimazione>2014-12-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>4537.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z600CEC3F8</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Acquisto pneumatici invernali e convergenza su automezzo di proprietà comunale</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00233660430</codiceFiscale>
+											<ragioneSociale>Salvucci Luciano - San Ginesio</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00233660430</codiceFiscale>
+												<ragioneSociale>Salvucci Luciano - San Ginesio</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>180.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2013-12-18</dataInizio><dataUltimazione>2014-02-21</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>134.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZB50D88886</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Acquisto materiale cancelleria anno 2014</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01043710431</codiceFiscale>
+											<ragioneSociale>ciemme snc </ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>03222970406</codiceFiscale>
+											<ragioneSociale>MYO SRL TORRIANA (RN)</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01043710431</codiceFiscale>
+												<ragioneSociale>ciemme snc </ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>03222970406</codiceFiscale>
+												<ragioneSociale>MYO SRL TORRIANA (RN)</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>1500.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-01-28</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>917.95</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZIF0D43C35</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Acquisto PC per ufficio Segreteria</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>RPNRRT72B18L191Q</codiceFiscale>
+											<ragioneSociale>SR di Raponi Roberto</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>RPNRRT72B18L191Q</codiceFiscale>
+												<ragioneSociale>SR di Raponi Roberto</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>1000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-01-28</dataInizio><dataUltimazione>2014-02-01</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>955.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZEA0DCCE4E</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Interventi urgenti per ripristino viabilità alluvione novembre dicembre 2013</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>GNTFNC44B21B562F</codiceFiscale>
+											<ragioneSociale>GRADER STRADE DI GENTILI FRANCO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>GNTFNC44B21B562F</codiceFiscale>
+												<ragioneSociale>GRADER STRADE DI GENTILI FRANCO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>3325.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-02-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>3325.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZED0DCCE22</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Nolo di mezzi per ripristino viabilità alluvione novembre dicembre 2013 </oggetto>
+					<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00882480437</codiceFiscale>
+											<ragioneSociale>CICCONI UGO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00882480437</codiceFiscale>
+												<ragioneSociale>CICCONI UGO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>24000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-02-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>24000.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z940DCCDAD</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Acquisto nuovo Pik-Up per gruppo comunale protezione civile</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01742420407</codiceFiscale>
+											<ragioneSociale>AVI - ADRIATICA VEICOLI</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01742420407</codiceFiscale>
+												<ragioneSociale>AVI - ADRIATICA VEICOLI</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>22230.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-02-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>22213.12</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z0A0E25975</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Convenzione assistenza programmi, harware e sistemistica anno 2014 </oggetto>
+					<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00384350435</codiceFiscale>
+											<ragioneSociale>HALLEY INFORMATICA SRL</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01574460430</codiceFiscale>
+											<ragioneSociale>Newtec srl - Matelica</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00384350435</codiceFiscale>
+												<ragioneSociale>HALLEY INFORMATICA SRL</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>01574460430</codiceFiscale>
+												<ragioneSociale>Newtec srl - Matelica</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>7500.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-03-05</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>6143.86</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZB911EFB5D</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>RELAZIONE GEOLOGICA OPERE DI MITIGAZIONE RISCHIO FRANA LOCALITA' LA VALLE</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01678800440</codiceFiscale>
+											<ragioneSociale>GEOS STUDIO DI GEOLOGIA</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01678800440</codiceFiscale>
+												<ragioneSociale>GEOS STUDIO DI GEOLOGIA</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>2757.21</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-03-20</dataInizio><dataUltimazione>2014-12-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>2757.21</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZAC11EFCC3</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>PROGETTO OPERE DI MITIGAZIONE RISCHIO FRANA LOCALITA' LA VALLE</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>SLVSLV85H54L191V</codiceFiscale>
+											<ragioneSociale>Ing. SALVATORI SILVIA</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>SLVSLV85H54L191V</codiceFiscale>
+												<ragioneSociale>Ing. SALVATORI SILVIA</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>4958.41</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-03-20</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>2479.20</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z0C0EC871A</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Fornitura bacheca in legno  per aree carsiche</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01712740438</codiceFiscale>
+											<ragioneSociale>SEGALA RENZO LEGNAMI SRL</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01712740438</codiceFiscale>
+												<ragioneSociale>SEGALA RENZO LEGNAMI SRL</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>1200.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-04-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>104.98</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z8A0EC86BF</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Relizzazione materiale informativo valorizzazione aree carsiche </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01678800440</codiceFiscale>
+											<ragioneSociale>GEOS STUDIO DI GEOLOGIA</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01678800440</codiceFiscale>
+												<ragioneSociale>GEOS STUDIO DI GEOLOGIA</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>6000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-04-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>5800.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z330EC86D4</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto> Ripristino sentieri aree carsiche  </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00621150432</codiceFiscale>
+											<ragioneSociale>COOPAF SRL</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00621150432</codiceFiscale>
+												<ragioneSociale>COOPAF SRL</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>2600.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-04-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>2563.50</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z3B0E37A2D</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Acquisto segnaletica stradale e materiale stradale</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti></partecipanti>
+					<aggiudicatari></aggiudicatari>
+					<importoAggiudicazione>20000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-04-16</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZAB0EEC078</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Stampa poster didattici valorizzazione aree carsiche </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01447860436</codiceFiscale>
+											<ragioneSociale>PUBLICOLOR</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01447860436</codiceFiscale>
+												<ragioneSociale>PUBLICOLOR</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>400.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-04-23</dataInizio><dataUltimazione>2014-12-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>378.40</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZC70F25ACB</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Sistemazione museo della carbonaie e casa delle farfalle - lavori in economia su fattura </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00882480437</codiceFiscale>
+											<ragioneSociale>CICCONI UGO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00882480437</codiceFiscale>
+												<ragioneSociale>CICCONI UGO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>3600.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-05-12</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>3741.86</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZF90F511B2</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Fornitura bacheca legno percorso Nordic Walking  </oggetto>
+					<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01712740438</codiceFiscale>
+											<ragioneSociale>SEGALA RENZO LEGNAMI SRL</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01712740438</codiceFiscale>
+												<ragioneSociale>SEGALA RENZO LEGNAMI SRL</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>450.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-05-21</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>448.36</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z3D0F53F1C</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Spese per acquisto vestiario dipendenti comunali</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti></partecipanti>
+					<aggiudicatari></aggiudicatari>
+					<importoAggiudicazione>5000.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-05-21</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZC50F25C37</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Lavori di PIT-Parco Sibillini, miglioramento sistema fruizione delle sentieristica versante Maceratese: Collegamento Casa Farfalle con sentiero E10-</oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>CCCGUO62R26C582O</codiceFiscale>
+											<ragioneSociale>CICCONI Ugo</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>02780350365</codiceFiscale>
+											<ragioneSociale>STUDIO SILVA srl</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01985220449</codiceFiscale>
+											<ragioneSociale>TERRE.IT S.R.L.</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>CCCGUO62R26C582O</codiceFiscale>
+												<ragioneSociale>CICCONI Ugo</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>02780350365</codiceFiscale>
+												<ragioneSociale>STUDIO SILVA srl</ragioneSociale>
+											</aggiudicatario>	<aggiudicatario>
+												<codiceFiscale>01985220449</codiceFiscale>
+												<ragioneSociale>TERRE.IT S.R.L.</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>35024.84</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-06-04</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>35024.84</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZDE0F9D8E8</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Lavori di realizzazione muro di sostegno provvisorio strada comunale Colbottoni</oggetto>
+					<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>PRNVTI65P14E493P</codiceFiscale>
+											<ragioneSociale>PARENZA VITA</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>PRNVTI65P14E493P</codiceFiscale>
+												<ragioneSociale>PARENZA VITA</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>3500.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-06-11</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZB01024A35</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Servizio di RSPP Ex ART 37 D. LGS. 81/2008 e attività di formazione di cui all'accordo Stato-Regioni </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>01049910431</codiceFiscale>
+											<ragioneSociale>SEA sas di Binotti mAndrea &amp; C.</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>01049910431</codiceFiscale>
+												<ragioneSociale>SEA sas di Binotti mAndrea &amp; C.</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>1170.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-07-14</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>360.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZCC11EFB95</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>REDAZIONE PIANO SICUREZZA LAVORI MITIGAZIONE RISCHIO FRANA LOCALITA' LA VALLE</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>BLLSFN78H02I436L</codiceFiscale>
+											<ragioneSociale>Geom. BELLONI STEFANO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>BLLSFN78H02I436L</codiceFiscale>
+												<ragioneSociale>Geom. BELLONI STEFANO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>825.19</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-07-16</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>825.19</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZF40EA90E2</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>LAVORI DI MITIGAZIONE RISCHIO FRANE LOCALITA' VALLE</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00390380434</codiceFiscale>
+											<ragioneSociale>EDIL 2001 snc</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>CCCGUO62R26C582O</codiceFiscale>
+											<ragioneSociale>CICCONI Ugo</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>MPRMRC79B20L191I</codiceFiscale>
+											<ragioneSociale>IMPERATORI MARCO</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01112630437</codiceFiscale>
+											<ragioneSociale>CONTIGIANI E RUANI</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>MSCGPP54L13I661T</codiceFiscale>
+											<ragioneSociale>MOSCATELLI GIUSEPPE</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>00347820433</codiceFiscale>
+											<ragioneSociale>MERLINI SILVANO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00390380434</codiceFiscale>
+												<ragioneSociale>EDIL 2001 snc</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>39837.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-07-23</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>19627.79</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z2F105F50B</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Riparazione impianto termoidraulico scuole </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>NTNNGL63A15L191V</codiceFiscale>
+											<ragioneSociale>ANTONINI ANGELO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>NTNNGL63A15L191V</codiceFiscale>
+												<ragioneSociale>ANTONINI ANGELO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>3693.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-08-02</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>3692.62</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>Z5110FA6F3</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Interventi urgenti ripristino viabilità danneggiata da maltempo maggio 2014 </oggetto>
+					<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>00882480437</codiceFiscale>
+											<ragioneSociale>CICCONI UGO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>00882480437</codiceFiscale>
+												<ragioneSociale>CICCONI UGO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>22816.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-09-29</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>5652.72</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>5645748AA0</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>LAVORI DI COMPLETAMENTO RIQUALIFICAZIONE VALORIZZAZIONE CASTELLO MONTALTO</oggetto>
+					<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>MPRMRC79B20L191I</codiceFiscale>
+											<ragioneSociale>IMPERATORI MARCO</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>00379100431</codiceFiscale>
+											<ragioneSociale>EDILIZIA AZZACCONI srl</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01458920434</codiceFiscale>
+											<ragioneSociale>GLOBEDIL SRL</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>01594860437</codiceFiscale>
+											<ragioneSociale>EUROSCAVI DI VITALI ROBERTO &amp; C. SNC</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>00930330436</codiceFiscale>
+											<ragioneSociale>IMPRESA EDILE STRADALE F.LLI PAZZAGLIA SNC</ragioneSociale>
+										</partecipante>	<partecipante>
+											<codiceFiscale>LDRMRA45P21H876Y</codiceFiscale>
+											<ragioneSociale>ALIDORI MARIO</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>MPRMRC79B20L191I</codiceFiscale>
+												<ragioneSociale>IMPERATORI MARCO</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>55086.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-11-10</dataInizio></tempiCompletamento>
+					<importoSommeLiquidate>0.00</importoSommeLiquidate>
+					</lotto>
+				<lotto>
+					<cig>ZBF1231033</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>00242710432</codiceFiscaleProp>
+						<denominazione>Comune di Cessapalombo</denominazione>
+					</strutturaProponente>
+					<oggetto>Opere urgenti di riparazione copertura spogliatoi impianti sportivi  </oggetto>
+					<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>SMPSMN87L31L191Z</codiceFiscale>
+											<ragioneSociale>SAMPAOLO SIMONE</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>SMPSMN87L31L191Z</codiceFiscale>
+												<ragioneSociale>SAMPAOLO SIMONE</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>3063.00</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2014-12-10</dataInizio><dataUltimazione>2014-12-31</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>3062.26</importoSommeLiquidate>
+					</lotto>
+				</data>
+			</legge190:pubblicazione>

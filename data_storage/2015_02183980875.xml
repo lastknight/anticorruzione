@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<link rel="stylesheet" href="404.css">
+<title>Errore 404 - pagina non trovata </title>
+</head>
+<body>
+<div class="wrapper row2">
+  <div id="container" class="clear">
+ 
+    <div id="fof" class="clear">
+ 
+      <div class="hgroup clear">
+        <h1>404</h1>
+        <h2>Errore! <span>Pagina non trovata</span></h2>
+      </div>
+      <p>La pagina richiesta non è stata trovata!</p>
+      <p><a href="javascript:history.go(-1)">&laquo; Indietro</a></p> 
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

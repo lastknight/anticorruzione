@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-02-09</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Vigasio</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-02-09</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.halleysac.it/c023094/zf/index.php/dataset/appalti-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+									
+			
+		<lotto>
+						<cig>ZC8142332F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80014290235</codiceFiscaleProp>
+				<denominazione>COMUNE DI VIGASIO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO ASSISTENZA DOMICILIARE</oggetto>
+			<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+			<partecipanti>
+													<partecipante>
+						<codiceFiscale>04201270370</codiceFiscale>
+						<ragioneSociale>ANCORA SERVIZI COOP. SOCIALE</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>02050010350</codiceFiscale>
+						<ragioneSociale>CONSORZIO PRIVATA ASSISTENZA</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>02085030233</codiceFiscale>
+						<ragioneSociale>COOP. SOCIALE CERCATE</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>01843260231</codiceFiscale>
+						<ragioneSociale>COOP. SOCIALE PROMOZIONE LAVORO</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>01576970238</codiceFiscale>
+						<ragioneSociale>COOP. SOLIDARIETA' VIGASIO</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>01889870281</codiceFiscale>
+						<ragioneSociale>COOPERATIVA FAI PADOVA</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>04318360288</codiceFiscale>
+						<ragioneSociale>PICCOLI PASSI SCS ONLUS</ragioneSociale>
+					</partecipante>
+									<partecipante>
+						<codiceFiscale>04032100234</codiceFiscale>
+						<ragioneSociale>SFERA COOPERATIVA SOCIALE</ragioneSociale>
+					</partecipante>
+							</partecipanti>
+			<aggiudicatari>
+												
+			</aggiudicatari>
+			<importoAggiudicazione>0</importoAggiudicazione>
+			<tempiCompletamento>
+											</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		</data>
+</legge190:pubblicazione>

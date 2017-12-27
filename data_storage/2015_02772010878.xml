@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2014</abstract>
+    <dataPubblicazioneIndice>2015-02-08</dataPubblicazioneIndice>
+    <entePubblicatore>Università degli Studi di Catania</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-02-08</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://ws1.unict.it/avcp/unict-avcp-2014-index.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://ws1.unict.it/avcp/unict-avcp-2014-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-08</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://ws1.unict.it/avcp/unict-avcp-2014-2.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-08</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

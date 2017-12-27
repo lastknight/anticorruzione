@@ -1,0 +1,911 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HTML>
+  <HEAD>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8" >
+    <LINK rel="SHORTCUT ICON" href="favicon.ico">
+    <TITLE>I.S.I.S. "G.D. Romagnosi"</TITLE>
+    <LINK href="css/layers.css" rel="stylesheet" TYPE="text/css">
+    <LINK href="css/stili.css" rel="stylesheet" TYPE="text/css">
+    <SCRIPT TYPE="text/javascript" src="js/jquery.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" src="js/enscroll-0.6.1.min.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript" src="js/menu.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript">
+      function Vis(elemento)
+      {
+        var TIP = new Array("Tu","Do","Al","At","Ge","Es","Ag");
+        $("#News_INT_"+TIP[elemento]).show(0);
+        for (i=0; i<=6; i++)
+        {
+          if (i!=elemento) {$("#News_INT_"+TIP[i]).hide(0);};
+        }
+      }
+      $(document).ready(function() 
+      {
+        $('#News_T2Tu').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+        $('#News_T2Do').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+        $('#News_T2Al').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+        $('#News_T2At').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+        $('#News_T2Ge').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+        $('#News_T2Es').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+        $('#News_T2Ag').enscroll(
+        {
+          verticalTrackClass: 'vertical-track',
+          verticalHandleClass: 'vertical-handle',
+        })
+      });
+
+    </SCRIPT>  
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' TYPE='text/css'>
+    <!--<LINK href="css/layers_metro.php?P=1" rel="stylesheet" TYPE="text/css" >-->
+    <STYLE type="text/css"> 
+      #Logo {position:absolute;height:100px;width:320px;left:0px;top:0px;overflow: hidden;z-index:10;}#Menu {position:absolute;height:100px;width:760px;left:330px;top:0px;overflow: hidden;z-index:10;}#Corso3 {position:absolute;height:100px;width:210px;left:0px;top:110px;background-color: #0DA414;overflow: hidden;z-index:10;}#Corso4 {position:absolute;height:100px;width:210px;left:220px;top:110px;background-color: #FC0102;overflow: hidden;z-index:10;}#Corso2 {position:absolute;height:100px;width:210px;left:440px;top:110px;background-color: #D4D90E;overflow: hidden;z-index:10;}#Corso1 {position:absolute;height:100px;width:210px;left:660px;top:110px;background-color: #1B2B89;overflow: hidden;z-index:10;}#Corso5 {position:absolute;height:100px;width:100px;left:880px;top:110px;background-color: #A1AfBe;overflow: hidden;z-index:10;}#Foto {position:absolute;height:210px;width:540px;left:0px;top:220px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#News {position:absolute;height:320px;width:430px;left:550px;top:220px;background-color: #EFEFFF;overflow: hidden;z-index:10;}#Varie {position:absolute;height:210px;width:540px;left:110px;top:550px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#DueZero {position:absolute;height:100px;width:210px;left:0px;top:440px;background-color: #CCCCCC;overflow: hidden;z-index:10;}#Passaggi {position:absolute;height:100px;width:100px;left:440px;top:440px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Iscrizioni {position:absolute;height:100px;width:100px;left:0px;top:550px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#OpenDay {position:absolute;height:100px;width:210px;left:660px;top:550px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Moodle {position:absolute;height:100px;width:100px;left:880px;top:550px;background-color: #ffc90e;overflow: hidden;z-index:10;}#Libri {position:absolute;height:100px;width:100px;left:0px;top:660px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Alternanza {position:absolute;height:100px;width:100px;left:660px;top:660px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#PTOF {position:absolute;height:100px;width:210px;left:770px;top:660px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Trasparenza {position:absolute;height:100px;width:100px;left:0px;top:770px;background-color: #c49421;overflow: hidden;z-index:10;}#Albo {position:absolute;height:100px;width:100px;left:110px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#PON {position:absolute;height:100px;width:100px;left:330px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Comunicati {position:absolute;height:100px;width:100px;left:220px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Ecdl {position:absolute;height:100px;width:100px;left:440px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#ScDigi {position:absolute;height:100px;width:100px;left:660px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Qualita {position:absolute;height:100px;width:100px;left:880px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#Incarico {position:absolute;height:100px;width:100px;left:770px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#ClasseViva {position:absolute;height:100px;width:210px;left:220px;top:440px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#AID {position:absolute;height:100px;width:100px;left:550px;top:770px;background-color: #FFFFFF;overflow: hidden;z-index:10;}#xm01000000_gruppo {position:absolute;height:90px;width:210px;left:440px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm02000000_gruppo {position:absolute;height:225px;width:210px;left:550px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm02010000_gruppo {position:absolute;height:225px;width:210px;left:340px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm02010500_gruppo {position:absolute;height:135px;width:210px;left:130px;top:280px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm02020000_gruppo {position:absolute;height:180px;width:210px;left:340px;top:145px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm02030000_gruppo {position:absolute;height:90px;width:210px;left:340px;top:190px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm03000000_gruppo {position:absolute;height:315px;width:210px;left:660px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm04000000_gruppo {position:absolute;height:225px;width:210px;left:770px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm05000000_gruppo {position:absolute;height:315px;width:210px;left:770px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm05010000_gruppo {position:absolute;height:90px;width:210px;left:560px;top:100px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm05020000_gruppo {position:absolute;height:90px;width:210px;left:560px;top:145px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm05050000_gruppo {position:absolute;height:135px;width:210px;left:560px;top:280px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}#xm05050100_gruppo {position:absolute;height:45px;width:210px;left:350px;top:280px;background-color: #4566ab;overflow: hidden;display:none;z-index:20;}    </STYLE>
+    <LINK href="css/nivo_slider.css" rel="stylesheet" TYPE="text/css">
+    <SCRIPT TYPE="text/javascript" src="js/jquery.nivo.slider.pack.js"></SCRIPT>
+    <SCRIPT TYPE="text/javascript">
+      var attivo=''; //variabile globale che mi dice quale menù ho acceso
+      var grassetto='' //variabile per touch/hovering su TouchScreen
+      $(window).load(function() 
+      {
+        scegli_menu('#xm00000000','PRIMA'); //Attivo i menù
+
+        //NivoSlider
+        $('#slider').nivoSlider(
+        {
+          effect: 'random',               // Specify sets like: 'fold,fade,sliceDown'
+          slices: 15,                     // For slice animations
+          boxCols: 8,                     // For box animations
+          boxRows: 4,                     // For box animations
+          animSpeed: 1000,                 // Slide transition speed 5000
+          pauseTime: 10000,                // How long each slide will show 10000
+          startSlide: 0,                  // Set starting Slide (0 index)
+          directionNav: false,             // Next & Prev navigation
+          controlNav: true,               // 1,2,3... navigation
+          controlNavThumbs: false,        // Use thumbnails for Control Nav
+          pauseOnHover: false,             // Stop animation while hovering
+          manualAdvance: false,           // Force manual transitions
+          prevText: 'Prev',               // Prev directionNav text
+          nextText: 'Next',               // Next directionNav text
+          randomStart: false,             // Start on a random slide
+          //beforeChange: function(){},     // Triggers before a slide transition
+          //afterChange: function(){},      // Triggers after a slide transition
+          //slideshowEnd: function(){},     // Triggers after all slides have been shown
+          //lastSlide: function(){},        // Triggers when last slide is shown
+          //afterLoad: function(){}         // Triggers when slider has loaded
+        });
+      });
+    </script>
+    <Link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' TYPE='text/css'>
+  </HEAD>
+  <BODY> 
+    <DIV id="contenitore">
+
+    <DIV id="Menu">
+<DIV id="touch"><DIV style="width:100%; text-align:center"><SPAN class="testo_touch">Rilevato TouchScreen. Un primo click apre i sottomenù. Un secondo click va alla nuova pagina.</SPAN></DIV></DIV>
+        <DIV id="xm00000000" class="Bmenu">
+          <DIV id="xm00000000_sfondo" class="Bsfondo">
+          </DIV>
+          <DIV id="xm00000000_cerchio" class="Bcerchio">
+          </DIV>
+          <DIV id="xm00000000_icona" class="Bicone_Menu">
+            <IMG alt="" id="xm00000000_iconaX" src="img/01_home.png" width="25" height="25">
+          </DIV>
+          <DIV id="xm00000000_testo" class="Btesto_Menu">
+            <DIV style="width:100%; text-align:center">Home</DIV>
+          </DIV>
+          <DIV id="xm00000000_link" class="Blink_Menu">
+            <A href="index.php" onmouseover="scegli_menu('#xm00000000','#xm00000000')" ><IMG alt="" id="xm00000000_img" src="img/trasparente.gif" width="100" height="100"></A>
+          </DIV>
+        </DIV>
+        <DIV id="xm01000000" class="Bmenu">
+          <DIV id="xm01000000_sfondo" class="Bsfondo">
+          </DIV>
+          <DIV id="xm01000000_cerchio" class="Bcerchio">
+          </DIV>
+          <DIV id="xm01000000_icona" class="Bicone_Menu">
+            <IMG alt="" id="xm01000000_iconaX" src="img/01_scuola.png" width="25" height="25">
+          </DIV>
+          <DIV id="xm01000000_testo" class="Btesto_Menu">
+            <DIV style="width:100%; text-align:center">La Scuola</DIV>
+          </DIV>
+          <DIV id="xm01000000_link" class="Blink_Menu">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm01000000')" ><IMG alt="" id="xm01000000_img" src="img/trasparente.gif" width="100" height="100"></A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02000000" class="Bmenu">
+          <DIV id="xm02000000_sfondo" class="Bsfondo">
+          </DIV>
+          <DIV id="xm02000000_cerchio" class="Bcerchio">
+          </DIV>
+          <DIV id="xm02000000_icona" class="Bicone_Menu">
+            <IMG alt="" id="xm02000000_iconaX" src="img/01_offerta.png" width="25" height="25">
+          </DIV>
+          <DIV id="xm02000000_testo" class="Btesto_Menu">
+            <DIV style="width:100%; text-align:center">L'Offerta</DIV>
+          </DIV>
+          <DIV id="xm02000000_link" class="Blink_Menu">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm02000000')" ><IMG alt="" id="xm02000000_img" src="img/trasparente.gif" width="100" height="100"></A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03000000" class="Bmenu">
+          <DIV id="xm03000000_sfondo" class="Bsfondo">
+          </DIV>
+          <DIV id="xm03000000_cerchio" class="Bcerchio">
+          </DIV>
+          <DIV id="xm03000000_icona" class="Bicone_Menu">
+            <IMG alt="" id="xm03000000_iconaX" src="img/01_bacheca.png" width="25" height="25">
+          </DIV>
+          <DIV id="xm03000000_testo" class="Btesto_Menu">
+            <DIV style="width:100%; text-align:center">Bacheca</DIV>
+          </DIV>
+          <DIV id="xm03000000_link" class="Blink_Menu">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm03000000')" ><IMG alt="" id="xm03000000_img" src="img/trasparente.gif" width="100" height="100"></A>
+          </DIV>
+        </DIV>
+        <DIV id="xm04000000" class="Bmenu">
+          <DIV id="xm04000000_sfondo" class="Bsfondo">
+          </DIV>
+          <DIV id="xm04000000_cerchio" class="Bcerchio">
+          </DIV>
+          <DIV id="xm04000000_icona" class="Bicone_Menu">
+            <IMG alt="" id="xm04000000_iconaX" src="img/01_online.png" width="25" height="25">
+          </DIV>
+          <DIV id="xm04000000_testo" class="Btesto_Menu">
+            <DIV style="width:100%; text-align:center">On-Line</DIV>
+          </DIV>
+          <DIV id="xm04000000_link" class="Blink_Menu">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm04000000')" ><IMG alt="" id="xm04000000_img" src="img/trasparente.gif" width="100" height="100"></A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05000000" class="Bmenu">
+          <DIV id="xm05000000_sfondo" class="Bsfondo">
+          </DIV>
+          <DIV id="xm05000000_cerchio" class="Bcerchio">
+          </DIV>
+          <DIV id="xm05000000_icona" class="Bicone_Menu">
+            <IMG alt="" id="xm05000000_iconaX" src="img/01_contatti.png" width="25" height="25">
+          </DIV>
+          <DIV id="xm05000000_testo" class="Btesto_Menu">
+            <DIV style="width:100%; text-align:center">Istituzioni</DIV>
+          </DIV>
+          <DIV id="xm05000000_link" class="Blink_Menu">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm05000000')" ><IMG alt="" id="xm05000000_img" src="img/trasparente.gif" width="100" height="100"></A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm01000000_gruppo">
+        <DIV id="xm01010000" class="SottoMenu">
+          Calendario scolastico
+          <DIV id="xm01010000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=10" onmouseover="scegli_menu('#xm00000000','#xm01010000')">
+              <IMG alt="" id="xm01010000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm01020000" class="SottoMenu">
+          <SPAN class='AAAAAA'>Orario Ricevimento Genitori</SPAN>
+          <DIV id="xm01020000_img0" class="SottoMenu2">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm01020000')">
+              <IMG alt="" id="xm01020000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm02000000_gruppo">
+        <DIV id="xm02010000" class="SottoMenu">
+          <SPAN class='AAAAAA'>Corsi di Studio [+]</SPAN>
+          <DIV id="xm02010000_img0" class="SottoMenu2">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm02010000')">
+              <IMG alt="" id="xm02010000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02020000" class="SottoMenu">
+          Offerta Formativa [+]
+          <DIV id="xm02020000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=15" onmouseover="scegli_menu('#xm00000000','#xm02020000')"onclick="return Pressione('#xm02020000')">
+              <IMG alt="" id="xm02020000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02030000" class="SottoMenu">
+          <SPAN class='AAAAAA'>Passaggi ed Esami [+]</SPAN>
+          <DIV id="xm02030000_img0" class="SottoMenu2">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm02030000')">
+              <IMG alt="" id="xm02030000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02040000" class="SottoMenu">
+          Attività progettuali
+          <DIV id="xm02040000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=1" onmouseover="scegli_menu('#xm00000000','#xm02040000')">
+              <IMG alt="" id="xm02040000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02050000" class="SottoMenu">
+          Open Day
+          <DIV id="xm02050000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=11" onmouseover="scegli_menu('#xm00000000','#xm02050000')">
+              <IMG alt="" id="xm02050000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm02010000_gruppo">
+        <DIV id="xm02010100" class="SottoMenu">
+          Istituto Tecnico
+          <DIV id="xm02010100_img0" class="SottoMenu2">
+            <A href="materiale/pdf_economico_18-19.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02010100')">
+              <IMG alt="" id="xm02010100_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02010200" class="SottoMenu">
+          Alberghiero
+          <DIV id="xm02010200_img0" class="SottoMenu2">
+            <A href="materiale/pdf_alberghiero_18-19.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02010200')">
+              <IMG alt="" id="xm02010200_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02010300" class="SottoMenu">
+          Elettrico
+          <DIV id="xm02010300_img0" class="SottoMenu2">
+            <A href="materiale/pdf_elettrico_18-19.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02010300')">
+              <IMG alt="" id="xm02010300_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02010400" class="SottoMenu">
+          Agrario
+          <DIV id="xm02010400_img0" class="SottoMenu2">
+            <A href="materiale/pdf_cat_18-19.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02010400')">
+              <IMG alt="" id="xm02010400_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02010500" class="SottoMenu">
+          Libri di Testo [+]
+          <DIV id="xm02010500_img0" class="SottoMenu2">
+            <A href="pagina.php?P=5" onmouseover="scegli_menu('#xm00000000','#xm02010500')"onclick="return Pressione('#xm02010500')">
+              <IMG alt="" id="xm02010500_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm02010500_gruppo">
+        <DIV id="xm02010501" class="SottoMenu">
+          Sede
+          <DIV id="xm02010501_img0" class="SottoMenu2">
+            <A href="pagina.php?P=6" onmouseover="scegli_menu('#xm00000000','#xm02010501')">
+              <IMG alt="" id="xm02010501_img0I122" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02010502" class="SottoMenu">
+          Enogastronomico
+          <DIV id="xm02010502_img0" class="SottoMenu2">
+            <A href="pagina.php?P=7" onmouseover="scegli_menu('#xm00000000','#xm02010502')">
+              <IMG alt="" id="xm02010502_img0I122" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02010503" class="SottoMenu">
+          Elettrico
+          <DIV id="xm02010503_img0" class="SottoMenu2">
+            <A href="pagina.php?P=8" onmouseover="scegli_menu('#xm00000000','#xm02010503')">
+              <IMG alt="" id="xm02010503_img0I122" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm02020000_gruppo">
+        <DIV id="xm02020100" class="SottoMenu">
+          PTOF
+          <DIV id="xm02020100_img0" class="SottoMenu2">
+            <A href="materiale/OF - PTOF 2016.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02020100')">
+              <IMG alt="" id="xm02020100_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02020200" class="SottoMenu">
+          PAI
+          <DIV id="xm02020200_img0" class="SottoMenu2">
+            <A href="materiale/OF - PAI 2016.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02020200')">
+              <IMG alt="" id="xm02020200_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02020300" class="SottoMenu">
+          RAV
+          <DIV id="xm02020300_img0" class="SottoMenu2">
+            <A href="materiale/OF - RAV 2016.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02020300')">
+              <IMG alt="" id="xm02020300_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02020400" class="SottoMenu">
+          Atto di Indirizzo
+          <DIV id="xm02020400_img0" class="SottoMenu2">
+            <A href="materiale/OF - Atto di Indirizzo 2016.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm02020400')">
+              <IMG alt="" id="xm02020400_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm02030000_gruppo">
+        <DIV id="xm02030100" class="SottoMenu">
+          Riorientamento e Passaggi
+          <DIV id="xm02030100_img0" class="SottoMenu2">
+            <A href="pagina.php?P=16" onmouseover="scegli_menu('#xm00000000','#xm02030100')">
+              <IMG alt="" id="xm02030100_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm02030200" class="SottoMenu">
+          Corsi di Recupero ed Esami
+          <DIV id="xm02030200_img0" class="SottoMenu2">
+            <A href="pagina.php?P=18" onmouseover="scegli_menu('#xm00000000','#xm02030200')">
+              <IMG alt="" id="xm02030200_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm03000000_gruppo">
+        <DIV id="xm03010000" class="SottoMenu">
+          Tutti
+          <DIV id="xm03010000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=0" onmouseover="scegli_menu('#xm00000000','#xm03010000')">
+              <IMG alt="" id="xm03010000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03020000" class="SottoMenu">
+          Docenti
+          <DIV id="xm03020000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=1" onmouseover="scegli_menu('#xm00000000','#xm03020000')">
+              <IMG alt="" id="xm03020000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03030000" class="SottoMenu">
+          Alunni
+          <DIV id="xm03030000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=2" onmouseover="scegli_menu('#xm00000000','#xm03030000')">
+              <IMG alt="" id="xm03030000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03040000" class="SottoMenu">
+          A.T.A.
+          <DIV id="xm03040000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=3" onmouseover="scegli_menu('#xm00000000','#xm03040000')">
+              <IMG alt="" id="xm03040000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03050000" class="SottoMenu">
+          Genitori
+          <DIV id="xm03050000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=4" onmouseover="scegli_menu('#xm00000000','#xm03050000')">
+              <IMG alt="" id="xm03050000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03060000" class="SottoMenu">
+          Esterni
+          <DIV id="xm03060000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=5" onmouseover="scegli_menu('#xm00000000','#xm03060000')">
+              <IMG alt="" id="xm03060000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm03070000" class="SottoMenu">
+          A.Ge.Ro.
+          <DIV id="xm03070000_img0" class="SottoMenu2">
+            <A href="notizie.php?C=6" onmouseover="scegli_menu('#xm00000000','#xm03070000')">
+              <IMG alt="" id="xm03070000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm04000000_gruppo">
+        <DIV id="xm04010000" class="SottoMenu">
+          Romagnosi 2.0
+          <DIV id="xm04010000_img0" class="SottoMenu2">
+            <A href="http://20.gdromagnosi.it" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm04010000')">
+              <IMG alt="" id="xm04010000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm04020000" class="SottoMenu">
+          Didattica a Distanza
+          <DIV id="xm04020000_img0" class="SottoMenu2">
+            <A href="http://www.gdromagnosi.it/edu/" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm04020000')">
+              <IMG alt="" id="xm04020000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm04030000" class="SottoMenu">
+          Registro Elettronico
+          <DIV id="xm04030000_img0" class="SottoMenu2">
+            <A href="https://web.spaggiari.eu/" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm04030000')">
+              <IMG alt="" id="xm04030000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm04040000" class="SottoMenu">
+          Iscrizioni On-Line
+          <DIV id="xm04040000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=14" onmouseover="scegli_menu('#xm00000000','#xm04040000')">
+              <IMG alt="" id="xm04040000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm04050000" class="SottoMenu">
+          Scuola Digitale
+          <DIV id="xm04050000_img0" class="SottoMenu2">
+            <A href="http://www.gdromagnosi.it/edu/course/view.php?id=39" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm04050000')">
+              <IMG alt="" id="xm04050000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm05000000_gruppo">
+        <DIV id="xm05010000" class="SottoMenu">
+          Amministrazione Trasparente [+]
+          <DIV id="xm05010000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=23" onmouseover="scegli_menu('#xm00000000','#xm05010000')"onclick="return Pressione('#xm05010000')">
+              <IMG alt="" id="xm05010000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05020000" class="SottoMenu">
+          Albo Pretorio On-Line [+]
+          <DIV id="xm05020000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=24" onmouseover="scegli_menu('#xm00000000','#xm05020000')"onclick="return Pressione('#xm05020000')">
+              <IMG alt="" id="xm05020000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05030000" class="SottoMenu">
+          Comunicati
+          <DIV id="xm05030000_img0" class="SottoMenu2">
+            <A href="https://web.spaggiari.eu/sdg/app/default/comunicati.php?sede_codice=COII0003" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm05030000')">
+              <IMG alt="" id="xm05030000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05040000" class="SottoMenu">
+          AVCP
+          <DIV id="xm05040000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=13" onmouseover="scegli_menu('#xm00000000','#xm05040000')">
+              <IMG alt="" id="xm05040000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05050000" class="SottoMenu">
+          PON [+]
+          <DIV id="xm05050000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=21" onmouseover="scegli_menu('#xm00000000','#xm05050000')"onclick="return Pressione('#xm05050000')">
+              <IMG alt="" id="xm05050000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05060000" class="SottoMenu">
+          PTTI
+          <DIV id="xm05060000_img0" class="SottoMenu2">
+            <A href="materiale/ptti.pdf" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm05060000')">
+              <IMG alt="" id="xm05060000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05070000" class="SottoMenu">
+          Conferimento Incarico Triennale
+          <DIV id="xm05070000_img0" class="SottoMenu2">
+            <A href="pagina.php?P=19" onmouseover="scegli_menu('#xm00000000','#xm05070000')">
+              <IMG alt="" id="xm05070000_img0I76" src="img/trasparente.gif" width="200px" height="45px">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm05010000_gruppo">
+        <DIV id="xm05010100" class="SottoMenu">
+          Fino a 30/11/2016
+          <DIV id="xm05010100_img0" class="SottoMenu2">
+            <A href="paginax.php?P=3" onmouseover="scegli_menu('#xm00000000','#xm05010100')">
+              <IMG alt="" id="xm05010100_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05010200" class="SottoMenu">
+          Attuale
+          <DIV id="xm05010200_img0" class="SottoMenu2">
+            <A href="https://web.spaggiari.eu/sdg/app/default/trasparenza.php?sede_codice=COII0003" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm05010200')">
+              <IMG alt="" id="xm05010200_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm05020000_gruppo">
+        <DIV id="xm05020100" class="SottoMenu">
+          Fino a 30/11/2016
+          <DIV id="xm05020100_img0" class="SottoMenu2">
+            <A href="paginax.php?P=9" onmouseover="scegli_menu('#xm00000000','#xm05020100')">
+              <IMG alt="" id="xm05020100_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05020200" class="SottoMenu">
+          Attuale
+          <DIV id="xm05020200_img0" class="SottoMenu2">
+            <A href="https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=COII0003" target="_blank" onmouseover="scegli_menu('#xm00000000','#xm05020200')">
+              <IMG alt="" id="xm05020200_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm05050000_gruppo">
+        <DIV id="xm05050100" class="SottoMenu">
+          Avviso 9035 [+]
+          <DIV id="xm05050100_img0" class="SottoMenu2">
+            <A href="pagina.php?P=17" onmouseover="scegli_menu('#xm00000000','#xm05050100')"onclick="return Pressione('#xm05050100')">
+              <IMG alt="" id="xm05050100_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05050200" class="SottoMenu">
+          <SPAN class='AAAAAA'>Avviso 6076</SPAN>
+          <DIV id="xm05050200_img0" class="SottoMenu2">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm05050200')">
+              <IMG alt="" id="xm05050200_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+        <DIV id="xm05050300" class="SottoMenu">
+          <SPAN class='AAAAAA'>Avviso 10862</SPAN>
+          <DIV id="xm05050300_img0" class="SottoMenu2">
+            <A href="#" onmouseover="scegli_menu('#xm00000000','#xm05050300')">
+              <IMG alt="" id="xm05050300_img0I99" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      <DIV id="xm05050100_gruppo">
+        <DIV id="xm05050101" class="SottoMenu">
+          I nostri documenti
+          <DIV id="xm05050101_img0" class="SottoMenu2">
+            <A href="pagina.php?P=20" onmouseover="scegli_menu('#xm00000000','#xm05050101')">
+              <IMG alt="" id="xm05050101_img0I122" src="img/trasparente.gif" width="100%" height="100%">
+            </A>
+          </DIV>
+        </DIV>
+      </DIV>
+      
+            <DIV id="Logo">
+        <IMG alt="" src="img/logo.png">
+      </DIV>
+      
+            <DIV id="Foto">
+        <DIV class="slider-wrapper futurico-theme">
+          <DIV id="slider" class="nivoSlider">
+            <!-- <IMG alt="" src="img/foto00.jpg" title="#caption0"> -->
+            <IMG alt="" src="img/foto01.jpg" title="#caption1">
+            <IMG alt="" src="img/foto02.jpg" title="#caption2">
+            <IMG alt="" src="img/foto03.jpg" title="#caption3">
+            <IMG alt="" src="img/foto04.jpg" title="#caption4">
+            <IMG alt="" src="img/foto05.jpg" title="#caption5">
+            <IMG alt="" src="img/foto06.jpg" title="#caption6">
+            <IMG alt="" src="img/foto07.jpg" title="#caption7">
+            <IMG alt="" src="img/foto08.jpg" title="#caption8">
+            <IMG alt="" src="img/foto09.jpg" title="#caption9">
+            <IMG alt="" src="img/foto10.jpg" title="#caption10">
+            <IMG alt="" src="img/foto11.jpg" title="#caption11">
+            <IMG alt="" src="img/foto12.jpg" title="#caption12">
+          </DIV>
+          <!-- <DIV id="caption0" class="nivo-html-caption">
+            OPEN DAY 2015/2016
+          </DIV> -->
+          <DIV id="caption1" class="nivo-html-caption">
+            UNA SCUOLA PER IL FUTURO
+          </DIV>
+          <DIV id="caption2" class="nivo-html-caption">
+            PROFESSIONALITA'
+          </DIV>
+          <DIV id="caption3" class="nivo-html-caption">
+            NUOVE TECNOLOGIE
+          </DIV>
+          <DIV id="caption4" class="nivo-html-caption">
+            ESPERIENZE LABORATORIALI
+          </DIV>
+          <DIV id="caption5" class="nivo-html-caption">
+            TEAM MANAGEMENT
+          </DIV>
+          <DIV id="caption6" class="nivo-html-caption">
+            ESPERIENZE REALI
+          </DIV>
+          <DIV id="caption7" class="nivo-html-caption">
+            LINGUE PER L'EUROPA
+          </DIV>
+          <DIV id="caption8" class="nivo-html-caption">
+            PROGETTAZIONE E CAD
+          </DIV>
+          <DIV id="caption9" class="nivo-html-caption">
+            SPORT E TORNEI
+          </DIV>
+          <DIV id="caption10" class="nivo-html-caption">
+            CONCORSI ED EVENTI
+          </DIV>
+          <DIV id="caption11" class="nivo-html-caption">
+            ELETTRONICA ED ELETTROTECNICA
+          </DIV>
+          <DIV id="caption12" class="nivo-html-caption">
+            MOLTO PIU' CHE ELETTRICISTI!
+          </DIV>
+        </DIV>
+      </DIV>
+      
+            <DIV id="News">
+        <DIV id='News_INT_Tu'><DIV id='News_INTTu' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <SPAN class='nero'>Tutte</SPAN> - <A HREF='#' onclick='Vis(1)'>Docenti</A> - <A HREF='#' onclick='Vis(2)'>Alunni</A> - <A HREF='#' onclick='Vis(3)'>A.T.A.</A> - <A HREF='#' onclick='Vis(4)'>Genitori</A> - <A HREF='#' onclick='Vis(5)'>Esterni</A> - <A HREF='#' onclick='Vis(6)'>A.Ge.Ro</A></SPAN></DIV></DIV><DIV id='News_TTu' class='News_T'><DIV id='News_T2Tu' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga2449Tu' class='News_riga'><DIV id='calendario2449Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2449Tu' class='calendario_g'>18</DIV><DIV id='cal_m2449Tu' class='calendario_m'>Dicembre</DIV><DIV id='cal_a2449Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2449Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Alunni<BR></SPAN><SPAN class='news_titolo'>Circ. N° 145: Lectio Brevis - Festività Natalizie</SPAN></DIV><DIV id='rigaV2449Tu' class='News_rigaV'><A HREF='notiziac.php?P=2449'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga63Tu' class='News_riga'><DIV id='calendario63Tu' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63Tu' class='calendario_g'>28</DIV><DIV id='cal_m63Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a63Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63Tu' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2404Tu' class='News_riga'><DIV id='calendario2404Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2404Tu' class='calendario_g'>21</DIV><DIV id='cal_m2404Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2404Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2404Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 104: orari udienze genitori sez. ass. BELDOSSO</SPAN></DIV><DIV id='rigaV2404Tu' class='News_rigaV'><A HREF='notiziac.php?P=2404'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2403Tu' class='News_riga'><DIV id='calendario2403Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2403Tu' class='calendario_g'>21</DIV><DIV id='cal_m2403Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2403Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2403Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 103: orari udienze genitori SEDE </SPAN></DIV><DIV id='rigaV2403Tu' class='News_rigaV'><A HREF='notiziac.php?P=2403'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2397Tu' class='News_riga'><DIV id='calendario2397Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2397Tu' class='calendario_g'>19</DIV><DIV id='cal_m2397Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2397Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2397Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 98: Open Day del 24 nov. 2017</SPAN></DIV><DIV id='rigaV2397Tu' class='News_rigaV'><A HREF='notiziac.php?P=2397'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2389Tu' class='News_riga'><DIV id='calendario2389Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2389Tu' class='calendario_g'>16</DIV><DIV id='cal_m2389Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2389Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2389Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 91: Programma EcoSchool – CONCORSO MIGLIOR ECO-CLASSE</SPAN></DIV><DIV id='rigaV2389Tu' class='News_rigaV'><A HREF='notiziac.php?P=2389'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2380Tu' class='News_riga'><DIV id='calendario2380Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2380Tu' class='calendario_g'>09</DIV><DIV id='cal_m2380Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2380Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2380Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 83: Consigli di classe Novembre - Genitori </SPAN></DIV><DIV id='rigaV2380Tu' class='News_rigaV'><A HREF='notiziac.php?P=2380'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2377Tu' class='News_riga'><DIV id='calendario2377Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2377Tu' class='calendario_g'>07</DIV><DIV id='cal_m2377Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2377Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2377Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 80: indagine conoscitiva viaggio a Strasburgo.</SPAN></DIV><DIV id='rigaV2377Tu' class='News_rigaV'><A HREF='notiziac.php?P=2377'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2359Tu' class='News_riga'><DIV id='calendario2359Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2359Tu' class='calendario_g'>01</DIV><DIV id='cal_m2359Tu' class='calendario_m'>Novembre</DIV><DIV id='cal_a2359Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2359Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 65: conv. Collegio Docenti - 3^ seduta.</SPAN></DIV><DIV id='rigaV2359Tu' class='News_rigaV'><A HREF='notiziac.php?P=2359'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2346Tu' class='News_riga'><DIV id='calendario2346Tu' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2346Tu' class='calendario_g'>22</DIV><DIV id='cal_m2346Tu' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2346Tu' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2346Tu' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 55: intolleranze alimentari a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2346Tu' class='News_rigaV'><A HREF='notiziac.php?P=2346'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV><DIV id='News_INT_Do' style='display: none;'><DIV id='News_INTDo' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <A HREF='#' onclick='Vis(0)'>Tutte</A> - <SPAN class='nero'>Docenti</SPAN> - <A HREF='#' onclick='Vis(2)'>Alunni</A> - <A HREF='#' onclick='Vis(3)'>A.T.A.</A> - <A HREF='#' onclick='Vis(4)'>Genitori</A> - <A HREF='#' onclick='Vis(5)'>Esterni</A> - <A HREF='#' onclick='Vis(6)'>A.Ge.Ro</A></SPAN></DIV></DIV><DIV id='News_TDo' class='News_T'><DIV id='News_T2Do' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga63Do' class='News_riga'><DIV id='calendario63Do' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63Do' class='calendario_g'>28</DIV><DIV id='cal_m63Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a63Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63Do' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2404Do' class='News_riga'><DIV id='calendario2404Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2404Do' class='calendario_g'>21</DIV><DIV id='cal_m2404Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2404Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2404Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 104: orari udienze genitori sez. ass. BELDOSSO</SPAN></DIV><DIV id='rigaV2404Do' class='News_rigaV'><A HREF='notiziac.php?P=2404'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2403Do' class='News_riga'><DIV id='calendario2403Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2403Do' class='calendario_g'>21</DIV><DIV id='cal_m2403Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2403Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2403Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 103: orari udienze genitori SEDE </SPAN></DIV><DIV id='rigaV2403Do' class='News_rigaV'><A HREF='notiziac.php?P=2403'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2397Do' class='News_riga'><DIV id='calendario2397Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2397Do' class='calendario_g'>19</DIV><DIV id='cal_m2397Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2397Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2397Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 98: Open Day del 24 nov. 2017</SPAN></DIV><DIV id='rigaV2397Do' class='News_rigaV'><A HREF='notiziac.php?P=2397'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2389Do' class='News_riga'><DIV id='calendario2389Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2389Do' class='calendario_g'>16</DIV><DIV id='cal_m2389Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2389Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2389Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 91: Programma EcoSchool – CONCORSO MIGLIOR ECO-CLASSE</SPAN></DIV><DIV id='rigaV2389Do' class='News_rigaV'><A HREF='notiziac.php?P=2389'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2380Do' class='News_riga'><DIV id='calendario2380Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2380Do' class='calendario_g'>09</DIV><DIV id='cal_m2380Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2380Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2380Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 83: Consigli di classe Novembre - Genitori </SPAN></DIV><DIV id='rigaV2380Do' class='News_rigaV'><A HREF='notiziac.php?P=2380'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2377Do' class='News_riga'><DIV id='calendario2377Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2377Do' class='calendario_g'>07</DIV><DIV id='cal_m2377Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2377Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2377Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 80: indagine conoscitiva viaggio a Strasburgo.</SPAN></DIV><DIV id='rigaV2377Do' class='News_rigaV'><A HREF='notiziac.php?P=2377'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2359Do' class='News_riga'><DIV id='calendario2359Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2359Do' class='calendario_g'>01</DIV><DIV id='cal_m2359Do' class='calendario_m'>Novembre</DIV><DIV id='cal_a2359Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2359Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 65: conv. Collegio Docenti - 3^ seduta.</SPAN></DIV><DIV id='rigaV2359Do' class='News_rigaV'><A HREF='notiziac.php?P=2359'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2346Do' class='News_riga'><DIV id='calendario2346Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2346Do' class='calendario_g'>22</DIV><DIV id='cal_m2346Do' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2346Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2346Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 55: intolleranze alimentari a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2346Do' class='News_rigaV'><A HREF='notiziac.php?P=2346'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2345Do' class='News_riga'><DIV id='calendario2345Do' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2345Do' class='calendario_g'>22</DIV><DIV id='cal_m2345Do' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2345Do' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2345Do' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 54: degustazione alcolici durante lez. labor. a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2345Do' class='News_rigaV'><A HREF='notiziac.php?P=2345'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV><DIV id='News_INT_Al' style='display: none;'><DIV id='News_INTAl' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <A HREF='#' onclick='Vis(0)'>Tutte</A> - <A HREF='#' onclick='Vis(1)'>Docenti</A> - <SPAN class='nero'>Alunni</SPAN> - <A HREF='#' onclick='Vis(3)'>A.T.A.</A> - <A HREF='#' onclick='Vis(4)'>Genitori</A> - <A HREF='#' onclick='Vis(5)'>Esterni</A> - <A HREF='#' onclick='Vis(6)'>A.Ge.Ro</A></SPAN></DIV></DIV><DIV id='News_TAl' class='News_T'><DIV id='News_T2Al' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga2449Al' class='News_riga'><DIV id='calendario2449Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2449Al' class='calendario_g'>18</DIV><DIV id='cal_m2449Al' class='calendario_m'>Dicembre</DIV><DIV id='cal_a2449Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2449Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Alunni<BR></SPAN><SPAN class='news_titolo'>Circ. N° 145: Lectio Brevis - Festività Natalizie</SPAN></DIV><DIV id='rigaV2449Al' class='News_rigaV'><A HREF='notiziac.php?P=2449'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga63Al' class='News_riga'><DIV id='calendario63Al' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63Al' class='calendario_g'>28</DIV><DIV id='cal_m63Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a63Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63Al' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2404Al' class='News_riga'><DIV id='calendario2404Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2404Al' class='calendario_g'>21</DIV><DIV id='cal_m2404Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2404Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2404Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 104: orari udienze genitori sez. ass. BELDOSSO</SPAN></DIV><DIV id='rigaV2404Al' class='News_rigaV'><A HREF='notiziac.php?P=2404'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2403Al' class='News_riga'><DIV id='calendario2403Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2403Al' class='calendario_g'>21</DIV><DIV id='cal_m2403Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2403Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2403Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 103: orari udienze genitori SEDE </SPAN></DIV><DIV id='rigaV2403Al' class='News_rigaV'><A HREF='notiziac.php?P=2403'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2397Al' class='News_riga'><DIV id='calendario2397Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2397Al' class='calendario_g'>19</DIV><DIV id='cal_m2397Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2397Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2397Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 98: Open Day del 24 nov. 2017</SPAN></DIV><DIV id='rigaV2397Al' class='News_rigaV'><A HREF='notiziac.php?P=2397'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2389Al' class='News_riga'><DIV id='calendario2389Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2389Al' class='calendario_g'>16</DIV><DIV id='cal_m2389Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2389Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2389Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 91: Programma EcoSchool – CONCORSO MIGLIOR ECO-CLASSE</SPAN></DIV><DIV id='rigaV2389Al' class='News_rigaV'><A HREF='notiziac.php?P=2389'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2380Al' class='News_riga'><DIV id='calendario2380Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2380Al' class='calendario_g'>09</DIV><DIV id='cal_m2380Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2380Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2380Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 83: Consigli di classe Novembre - Genitori </SPAN></DIV><DIV id='rigaV2380Al' class='News_rigaV'><A HREF='notiziac.php?P=2380'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2377Al' class='News_riga'><DIV id='calendario2377Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2377Al' class='calendario_g'>07</DIV><DIV id='cal_m2377Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2377Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2377Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 80: indagine conoscitiva viaggio a Strasburgo.</SPAN></DIV><DIV id='rigaV2377Al' class='News_rigaV'><A HREF='notiziac.php?P=2377'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2359Al' class='News_riga'><DIV id='calendario2359Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2359Al' class='calendario_g'>01</DIV><DIV id='cal_m2359Al' class='calendario_m'>Novembre</DIV><DIV id='cal_a2359Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2359Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 65: conv. Collegio Docenti - 3^ seduta.</SPAN></DIV><DIV id='rigaV2359Al' class='News_rigaV'><A HREF='notiziac.php?P=2359'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2346Al' class='News_riga'><DIV id='calendario2346Al' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2346Al' class='calendario_g'>22</DIV><DIV id='cal_m2346Al' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2346Al' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2346Al' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 55: intolleranze alimentari a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2346Al' class='News_rigaV'><A HREF='notiziac.php?P=2346'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV><DIV id='News_INT_At' style='display: none;'><DIV id='News_INTAt' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <A HREF='#' onclick='Vis(0)'>Tutte</A> - <A HREF='#' onclick='Vis(1)'>Docenti</A> - <A HREF='#' onclick='Vis(2)'>Alunni</A> - <SPAN class='nero'>A.T.A.</SPAN> - <A HREF='#' onclick='Vis(4)'>Genitori</A> - <A HREF='#' onclick='Vis(5)'>Esterni</A> - <A HREF='#' onclick='Vis(6)'>A.Ge.Ro</A></SPAN></DIV></DIV><DIV id='News_TAt' class='News_T'><DIV id='News_T2At' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga63At' class='News_riga'><DIV id='calendario63At' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63At' class='calendario_g'>28</DIV><DIV id='cal_m63At' class='calendario_m'>Novembre</DIV><DIV id='cal_a63At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63At' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2404At' class='News_riga'><DIV id='calendario2404At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2404At' class='calendario_g'>21</DIV><DIV id='cal_m2404At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2404At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2404At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 104: orari udienze genitori sez. ass. BELDOSSO</SPAN></DIV><DIV id='rigaV2404At' class='News_rigaV'><A HREF='notiziac.php?P=2404'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2403At' class='News_riga'><DIV id='calendario2403At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2403At' class='calendario_g'>21</DIV><DIV id='cal_m2403At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2403At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2403At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 103: orari udienze genitori SEDE </SPAN></DIV><DIV id='rigaV2403At' class='News_rigaV'><A HREF='notiziac.php?P=2403'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2397At' class='News_riga'><DIV id='calendario2397At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2397At' class='calendario_g'>19</DIV><DIV id='cal_m2397At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2397At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2397At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 98: Open Day del 24 nov. 2017</SPAN></DIV><DIV id='rigaV2397At' class='News_rigaV'><A HREF='notiziac.php?P=2397'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2389At' class='News_riga'><DIV id='calendario2389At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2389At' class='calendario_g'>16</DIV><DIV id='cal_m2389At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2389At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2389At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 91: Programma EcoSchool – CONCORSO MIGLIOR ECO-CLASSE</SPAN></DIV><DIV id='rigaV2389At' class='News_rigaV'><A HREF='notiziac.php?P=2389'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2380At' class='News_riga'><DIV id='calendario2380At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2380At' class='calendario_g'>09</DIV><DIV id='cal_m2380At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2380At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2380At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 83: Consigli di classe Novembre - Genitori </SPAN></DIV><DIV id='rigaV2380At' class='News_rigaV'><A HREF='notiziac.php?P=2380'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2377At' class='News_riga'><DIV id='calendario2377At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2377At' class='calendario_g'>07</DIV><DIV id='cal_m2377At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2377At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2377At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 80: indagine conoscitiva viaggio a Strasburgo.</SPAN></DIV><DIV id='rigaV2377At' class='News_rigaV'><A HREF='notiziac.php?P=2377'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2359At' class='News_riga'><DIV id='calendario2359At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2359At' class='calendario_g'>01</DIV><DIV id='cal_m2359At' class='calendario_m'>Novembre</DIV><DIV id='cal_a2359At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2359At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 65: conv. Collegio Docenti - 3^ seduta.</SPAN></DIV><DIV id='rigaV2359At' class='News_rigaV'><A HREF='notiziac.php?P=2359'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2346At' class='News_riga'><DIV id='calendario2346At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2346At' class='calendario_g'>22</DIV><DIV id='cal_m2346At' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2346At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2346At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 55: intolleranze alimentari a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2346At' class='News_rigaV'><A HREF='notiziac.php?P=2346'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2345At' class='News_riga'><DIV id='calendario2345At' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2345At' class='calendario_g'>22</DIV><DIV id='cal_m2345At' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2345At' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2345At' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 54: degustazione alcolici durante lez. labor. a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2345At' class='News_rigaV'><A HREF='notiziac.php?P=2345'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV><DIV id='News_INT_Ge' style='display: none;'><DIV id='News_INTGe' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <A HREF='#' onclick='Vis(0)'>Tutte</A> - <A HREF='#' onclick='Vis(1)'>Docenti</A> - <A HREF='#' onclick='Vis(2)'>Alunni</A> - <A HREF='#' onclick='Vis(3)'>A.T.A.</A> - <SPAN class='nero'>Genitori</SPAN> - <A HREF='#' onclick='Vis(5)'>Esterni</A> - <A HREF='#' onclick='Vis(6)'>A.Ge.Ro</A></SPAN></DIV></DIV><DIV id='News_TGe' class='News_T'><DIV id='News_T2Ge' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga63Ge' class='News_riga'><DIV id='calendario63Ge' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63Ge' class='calendario_g'>28</DIV><DIV id='cal_m63Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a63Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63Ge' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2404Ge' class='News_riga'><DIV id='calendario2404Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2404Ge' class='calendario_g'>21</DIV><DIV id='cal_m2404Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2404Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2404Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 104: orari udienze genitori sez. ass. BELDOSSO</SPAN></DIV><DIV id='rigaV2404Ge' class='News_rigaV'><A HREF='notiziac.php?P=2404'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2403Ge' class='News_riga'><DIV id='calendario2403Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2403Ge' class='calendario_g'>21</DIV><DIV id='cal_m2403Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2403Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2403Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 103: orari udienze genitori SEDE </SPAN></DIV><DIV id='rigaV2403Ge' class='News_rigaV'><A HREF='notiziac.php?P=2403'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2397Ge' class='News_riga'><DIV id='calendario2397Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2397Ge' class='calendario_g'>19</DIV><DIV id='cal_m2397Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2397Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2397Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 98: Open Day del 24 nov. 2017</SPAN></DIV><DIV id='rigaV2397Ge' class='News_rigaV'><A HREF='notiziac.php?P=2397'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2389Ge' class='News_riga'><DIV id='calendario2389Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2389Ge' class='calendario_g'>16</DIV><DIV id='cal_m2389Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2389Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2389Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 91: Programma EcoSchool – CONCORSO MIGLIOR ECO-CLASSE</SPAN></DIV><DIV id='rigaV2389Ge' class='News_rigaV'><A HREF='notiziac.php?P=2389'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2380Ge' class='News_riga'><DIV id='calendario2380Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2380Ge' class='calendario_g'>09</DIV><DIV id='cal_m2380Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2380Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2380Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 83: Consigli di classe Novembre - Genitori </SPAN></DIV><DIV id='rigaV2380Ge' class='News_rigaV'><A HREF='notiziac.php?P=2380'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2377Ge' class='News_riga'><DIV id='calendario2377Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2377Ge' class='calendario_g'>07</DIV><DIV id='cal_m2377Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2377Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2377Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 80: indagine conoscitiva viaggio a Strasburgo.</SPAN></DIV><DIV id='rigaV2377Ge' class='News_rigaV'><A HREF='notiziac.php?P=2377'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2359Ge' class='News_riga'><DIV id='calendario2359Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2359Ge' class='calendario_g'>01</DIV><DIV id='cal_m2359Ge' class='calendario_m'>Novembre</DIV><DIV id='cal_a2359Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2359Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 65: conv. Collegio Docenti - 3^ seduta.</SPAN></DIV><DIV id='rigaV2359Ge' class='News_rigaV'><A HREF='notiziac.php?P=2359'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2346Ge' class='News_riga'><DIV id='calendario2346Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2346Ge' class='calendario_g'>22</DIV><DIV id='cal_m2346Ge' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2346Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2346Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 55: intolleranze alimentari a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2346Ge' class='News_rigaV'><A HREF='notiziac.php?P=2346'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2345Ge' class='News_riga'><DIV id='calendario2345Ge' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2345Ge' class='calendario_g'>22</DIV><DIV id='cal_m2345Ge' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2345Ge' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2345Ge' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori<BR></SPAN><SPAN class='news_titolo'>Circ. N° 54: degustazione alcolici durante lez. labor. a.s. 2017-18.</SPAN></DIV><DIV id='rigaV2345Ge' class='News_rigaV'><A HREF='notiziac.php?P=2345'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV><DIV id='News_INT_Es' style='display: none;'><DIV id='News_INTEs' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <A HREF='#' onclick='Vis(0)'>Tutte</A> - <A HREF='#' onclick='Vis(1)'>Docenti</A> - <A HREF='#' onclick='Vis(2)'>Alunni</A> - <A HREF='#' onclick='Vis(3)'>A.T.A.</A> - <A HREF='#' onclick='Vis(4)'>Genitori</A> - <SPAN class='nero'>Esterni</SPAN> - <A HREF='#' onclick='Vis(6)'>A.Ge.Ro</A></SPAN></DIV></DIV><DIV id='News_TEs' class='News_T'><DIV id='News_T2Es' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga63Es' class='News_riga'><DIV id='calendario63Es' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63Es' class='calendario_g'>28</DIV><DIV id='cal_m63Es' class='calendario_m'>Novembre</DIV><DIV id='cal_a63Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63Es' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2310Es' class='News_riga'><DIV id='calendario2310Es' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2310Es' class='calendario_g'>05</DIV><DIV id='cal_m2310Es' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2310Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2310Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 26: Programma Ecoschool - CONVOCAZIONE ECOCOMITATO</SPAN></DIV><DIV id='rigaV2310Es' class='News_rigaV'><A HREF='notiziac.php?P=2310'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga52Es' class='News_riga'><DIV id='calendario52Es' class='calendario'><IMG alt='' SRC='img/cal1.png' height='60px' width='55px'><DIV id='cal_g52Es' class='calendario_g'>29</DIV><DIV id='cal_m52Es' class='calendario_m'>Agosto</DIV><DIV id='cal_a52Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews52Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - A.T.A. - Esterni<BR></SPAN><SPAN class='news_titolo'>Pubblicazione Graduatorie provvisorie II e III fascia personale docente Triennio 2017/2020</SPAN></DIV><DIV id='rigaV52Es' class='News_rigaV'><A HREF='notizian.php?P=52'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2268Es' class='News_riga'><DIV id='calendario2268Es' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2268Es' class='calendario_g'>11</DIV><DIV id='cal_m2268Es' class='calendario_m'>Agosto</DIV><DIV id='cal_a2268Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2268Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni<BR></SPAN><SPAN class='news_titolo'>Circ. N° 450: Calendario prove Esami Integrativi e Passaggi a ind. AFM, TUR, CAT</SPAN></DIV><DIV id='rigaV2268Es' class='News_rigaV'><A HREF='notiziac.php?P=2268'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2267Es' class='News_riga'><DIV id='calendario2267Es' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2267Es' class='calendario_g'>11</DIV><DIV id='cal_m2267Es' class='calendario_m'>Agosto</DIV><DIV id='cal_a2267Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2267Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni<BR></SPAN><SPAN class='news_titolo'>Circ. N° 449: calendario prove Passaggi a Indirizzo Enogastronomico a.s. 17/18 </SPAN></DIV><DIV id='rigaV2267Es' class='News_rigaV'><A HREF='notiziac.php?P=2267'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga51Es' class='News_riga'><DIV id='calendario51Es' class='calendario'><IMG alt='' SRC='img/cal1.png' height='60px' width='55px'><DIV id='cal_g51Es' class='calendario_g'>07</DIV><DIV id='cal_m51Es' class='calendario_m'>Agosto</DIV><DIV id='cal_a51Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews51Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Alunni - Genitori - Esterni<BR></SPAN><SPAN class='news_titolo'>ATTENZIONE!!! AGGIORNAMENTO LIBRI DI TESTO SPAGNOLO</SPAN></DIV><DIV id='rigaV51Es' class='News_rigaV'><A HREF='notizian.php?P=51'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga50Es' class='News_riga'><DIV id='calendario50Es' class='calendario'><IMG alt='' SRC='img/cal1.png' height='60px' width='55px'><DIV id='cal_g50Es' class='calendario_g'>06</DIV><DIV id='cal_m50Es' class='calendario_m'>Agosto</DIV><DIV id='cal_a50Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews50Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni<BR></SPAN><SPAN class='news_titolo'>Indirizzi E-Mail per invio comunicazioni riservate al Dirigente</SPAN></DIV><DIV id='rigaV50Es' class='News_rigaV'><A HREF='notizian.php?P=50'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga49Es' class='News_riga'><DIV id='calendario49Es' class='calendario'><IMG alt='' SRC='img/cal1.png' height='60px' width='55px'><DIV id='cal_g49Es' class='calendario_g'>07</DIV><DIV id='cal_m49Es' class='calendario_m'>Luglio</DIV><DIV id='cal_a49Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews49Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Alunni - Esterni<BR></SPAN><SPAN class='news_titolo'>ATTENZIONE!! Aggiornamento libri di testo</SPAN></DIV><DIV id='rigaV49Es' class='News_rigaV'><A HREF='notizian.php?P=49'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga47Es' class='News_riga'><DIV id='calendario47Es' class='calendario'><IMG alt='' SRC='img/cal1.png' height='60px' width='55px'><DIV id='cal_g47Es' class='calendario_g'>24</DIV><DIV id='cal_m47Es' class='calendario_m'>Maggio</DIV><DIV id='cal_a47Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews47Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni<BR></SPAN><SPAN class='news_titolo'>Il Laboratorio Teatrale presenta "Gli Sbandati"</SPAN></DIV><DIV id='rigaV47Es' class='News_rigaV'><A HREF='notizian.php?P=47'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga45Es' class='News_riga'><DIV id='calendario45Es' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g45Es' class='calendario_g'>20</DIV><DIV id='cal_m45Es' class='calendario_m'>Gennaio</DIV><DIV id='cal_a45Es' class='calendario_a'>2017</DIV></DIV><DIV id='testonews45Es' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Il Menù di Pasqua"</SPAN></DIV><DIV id='rigaV45Es' class='News_rigaV'><A HREF='notizian.php?P=45'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV><DIV id='News_INT_Ag' style='display: none;'><DIV id='News_INTAg' class='News_INT'><DIV style='width:100%; text-align:center'><SPAN class='news_big'>ULTIME NEWS</SPAN></DIV><DIV style='width:100%; text-align:center'><SPAN class='news_filtra'>Filtra per: <A HREF='#' onclick='Vis(0)'>Tutte</A> - <A HREF='#' onclick='Vis(1)'>Docenti</A> - <A HREF='#' onclick='Vis(2)'>Alunni</A> - <A HREF='#' onclick='Vis(3)'>A.T.A.</A> - <A HREF='#' onclick='Vis(4)'>Genitori</A> - <A HREF='#' onclick='Vis(5)'>Esterni</A> - <SPAN class='nero'>A.Ge.Ro</SPAN></SPAN></DIV></DIV><DIV id='News_TAg' class='News_T'><DIV id='News_T2Ag' class='News_T2'><TABLE border=0 width='100%'><TR><TD><DIV id='riga63Ag' class='News_riga'><DIV id='calendario63Ag' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g63Ag' class='calendario_g'>28</DIV><DIV id='cal_m63Ag' class='calendario_m'>Novembre</DIV><DIV id='cal_a63Ag' class='calendario_a'>2017</DIV></DIV><DIV id='testonews63Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Dolci serate coi dolci dello Chef Militello"</SPAN></DIV><DIV id='rigaV63Ag' class='News_rigaV'><A HREF='notizian.php?P=63'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga62Ag' class='News_riga'><DIV id='calendario62Ag' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g62Ag' class='calendario_g'>20</DIV><DIV id='cal_m62Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a62Ag' class='calendario_a'>2017</DIV></DIV><DIV id='testonews62Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Alunni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>A.Ge.Ro. - Orario vendita blocchetti Merende Fresce</SPAN></DIV><DIV id='rigaV62Ag' class='News_rigaV'><A HREF='notizian.php?P=62'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2317Ag' class='News_riga'><DIV id='calendario2317Ag' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2317Ag' class='calendario_g'>12</DIV><DIV id='cal_m2317Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2317Ag' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2317Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 32: nomina Comm. Elettorale.</SPAN></DIV><DIV id='rigaV2317Ag' class='News_rigaV'><A HREF='notiziac.php?P=2317'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga59Ag' class='News_riga'><DIV id='calendario59Ag' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g59Ag' class='calendario_g'>09</DIV><DIV id='cal_m59Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a59Ag' class='calendario_a'>2017</DIV></DIV><DIV id='testonews59Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Alunni - Genitori - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>A.Ge.Ro. - Presentazione servizio merende fresche - 12-13 ottobre 2017</SPAN></DIV><DIV id='rigaV59Ag' class='News_rigaV'><A HREF='notizian.php?P=59'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga2310Ag' class='News_riga'><DIV id='calendario2310Ag' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g2310Ag' class='calendario_g'>05</DIV><DIV id='cal_m2310Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a2310Ag' class='calendario_a'>2017</DIV></DIV><DIV id='testonews2310Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 26: Programma Ecoschool - CONVOCAZIONE ECOCOMITATO</SPAN></DIV><DIV id='rigaV2310Ag' class='News_rigaV'><A HREF='notiziac.php?P=2310'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga45Ag' class='News_riga'><DIV id='calendario45Ag' class='calendario'><IMG alt='' SRC='img/cal2.png' height='60px' width='55px'><DIV id='cal_g45Ag' class='calendario_g'>20</DIV><DIV id='cal_m45Ag' class='calendario_m'>Gennaio</DIV><DIV id='cal_a45Ag' class='calendario_a'>2017</DIV></DIV><DIV id='testonews45Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Corso di Cucina "Il Menù di Pasqua"</SPAN></DIV><DIV id='rigaV45Ag' class='News_rigaV'><A HREF='notizian.php?P=45'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga1801Ag' class='News_riga'><DIV id='calendario1801Ag' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g1801Ag' class='calendario_g'>20</DIV><DIV id='cal_m1801Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a1801Ag' class='calendario_a'>2016</DIV></DIV><DIV id='testonews1801Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 43: per nuovo corso agraria, gestione dell'ambiente  e del terr. (ott. 16)</SPAN></DIV><DIV id='rigaV1801Ag' class='News_rigaV'><A HREF='notiziac.php?P=1801'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga1788Ag' class='News_riga'><DIV id='calendario1788Ag' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g1788Ag' class='calendario_g'>17</DIV><DIV id='cal_m1788Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a1788Ag' class='calendario_a'>2016</DIV></DIV><DIV id='testonews1788Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 33: nomina comm. elettorale.</SPAN></DIV><DIV id='rigaV1788Ag' class='News_rigaV'><A HREF='notiziac.php?P=1788'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga1786Ag' class='News_riga'><DIV id='calendario1786Ag' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g1786Ag' class='calendario_g'>14</DIV><DIV id='cal_m1786Ag' class='calendario_m'>Ottobre</DIV><DIV id='cal_a1786Ag' class='calendario_a'>2016</DIV></DIV><DIV id='testonews1786Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 31: Elezioni Consiglio di Istituto 2016</SPAN></DIV><DIV id='rigaV1786Ag' class='News_rigaV'><A HREF='notiziac.php?P=1786'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR><TR><TD><DIV id='riga1757Ag' class='News_riga'><DIV id='calendario1757Ag' class='calendario'><IMG alt='' SRC='img/cal0.png' height='60px' width='55px'><DIV id='cal_g1757Ag' class='calendario_g'>11</DIV><DIV id='cal_m1757Ag' class='calendario_m'>Settembre</DIV><DIV id='cal_a1757Ag' class='calendario_a'>2016</DIV></DIV><DIV id='testonews1757Ag' style='position:absolute; top:2px; left:58px; height:55px; width:297px;'><SPAN class='news_testo'>Docenti - Alunni - A.T.A. - Genitori - Esterni - A.Ge.Ro<BR></SPAN><SPAN class='news_titolo'>Circ. N° 7: Lettera di inizio anno scolastico.</SPAN></DIV><DIV id='rigaV1757Ag' class='News_rigaV'><A HREF='notiziac.php?P=1757'><IMG alt='' SRC='img/trasparente.gif' width='393px' height='61px'></A></DIV></DIV></TD></TR><TR><TD height='0px'></TD></TR></TABLE><BR><BR></DIV></DIV></DIV>      </DIV>  
+      
+            <DIV id="Corso1">
+        <DIV id="Icone_Corso1" class="Icone_Corso">
+          <IMG alt="" src="img/economico.png" width="55" height="55">
+        </DIV>
+        <DIV id="Testo_Corso1" class="Testo_Corso"><SPAN class="dim17">
+          Indirizzo Economico
+        </SPAN></DIV>      
+        <DIV  id="LinkC1" style="position:absolute; left:0px; top:0px; z-index:200;"><A href="materiale\pdf_economico_18-19.pdf" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="200"></A></DIV>        
+      </DIV>
+      
+            <DIV id="Corso2">
+        <DIV id="Icone_Corso2" class="Icone_Corso">
+          <IMG alt="" src="img/cat.png" width="55" height="55">
+        </DIV>
+        <DIV id="Testo_Corso2" class="Testo_Corso"><SPAN class="dim17">
+          C.A.T. e Agrario
+        </SPAN></DIV>  
+        <DIV  id="LinkC2" style="position:absolute; left:0px; top:0px; z-index:200;"><A href="materiale\pdf_cat_18-19.pdf" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="200"></A></DIV>        
+      </DIV>
+      
+            <DIV id="Corso3">
+        <DIV id="Icone_Corso3" class="Icone_Corso">
+          <IMG alt="" src="img/eno.png" width="55" height="55">
+        </DIV>
+        <DIV id="Testo_Corso3" class="Testo_Corso"><SPAN class="dim17">
+          Indirizzo Enogastronomico
+        </SPAN></DIV>  
+        <DIV  id="LinkC3" style="position:absolute; left:0px; top:0px; z-index:200;"><A href="materiale\pdf_alberghiero_18-19.pdf" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="200"></A></DIV>
+      </DIV>
+      
+            <DIV id="Corso4">
+        <DIV id="Icone_Corso4" class="Icone_Corso">
+          <IMG alt="" src="img/elettrico.png" width="55" height="55">
+        </DIV>
+        <DIV id="Testo_Corso4" class="Testo_Corso"><SPAN class="dim17">
+          Elettrico / Elettronico
+        </SPAN></DIV>  
+        <DIV  id="LinkC4" style="position:absolute; left:0px; top:0px; z-index:200;"><A href="materiale\pdf_elettrico_18-19.pdf" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="200"></A></DIV>        
+      </DIV>
+      
+            <DIV id="Corso5">
+        <DIV id="Icone_CorsoSx" class="Icone_Corso_S">
+          <IMG alt="" src="img/fb.png" width="55" height="55">
+        </DIV>
+        <DIV id="Testo_Corso_Sx" class="Testo_Corso_S2">
+          <CENTER><SPAN Style="line-height: 14px">Trovaci su<BR>Facebook<SPAN></CENTER>
+        </DIV>  
+        <DIV  id="Link2" style="position:absolute; left:0px; top:0px; z-index:200;"><A href="https://www.facebook.com/gdromagnosi/" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="100"></A>
+        </DIV>
+      </DIV>
+      
+      <DIV id="Comunicati">
+        <IMG alt="" src="img/ico_metro/comunica.png">
+        <DIV  id="Link2" style="position:absolute; left:0px; top:0px;"><A href="https://web.spaggiari.eu/sdg/app/default/comunicati.php?sede_codice=COII0003" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="210"></A></DIV>
+      </DIV>      
+      
+      
+      
+                  <DIV id="Varie">
+        <DIV id="VarieFoto">
+          <DIV id="x1"><IMG alt="" src="img_vetrina/v005.png" width="210" height="210"></DIV>
+          <DIV id="VarieDida" class="dida">
+            ALMA CASEUM CONTEST          </DIV>
+        </DIV>      
+        <DIV id="VarieTesto">
+          <DIV id="VarieTesto_T">
+            <SPAN class="testoVarie">
+              L'istituto Isis G.D. Romagnosi di Erba è riuscita a superare le preselezioni per partecipare al prestigioso concorso ALMA CASEUM, organizzato dalla scuola internazionale di cucina italiana in collaborazione con il consorzio di tutela del Taleggio. Il team composto dagli alunni di quinta SPANÒ MATTEO e PELLEGRINO GIULIA affronteranno la gara nei giorni 28-29-30 Novembre 2017 presso la sede ALMA accompagnati dai docenti coach CAVALLO VIRGINIA e LA MURA CARMINE.            </SPAN>
+            <!-- <SPAN class="leggi">
+              <BR>Leggi tutto...
+            </SPAN> -->
+          </DIV>
+        </DIV>
+      </DIV>
+      
+<!-- ICONA METRO 01 2.0 -->
+            <DIV id="DueZero">
+        <DIV id="Link1" style="position:absolute; left:0px; top:0px;"><A href="http://20.gdromagnosi.it" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="210"></A></DIV>
+        <DIV style="width:100%; text-align:center">
+        <SPAN class="dim10"><BR></SPAN>
+        <SPAN class="duetitoloISIS">ISIS "G.D. Romagnosi" - ERBA<BR></SPAN>
+        <SPAN class="dim7"><BR></SPAN>
+        <SPAN class="duetitolobig">ROMAGNOSI 2.0<BR></SPAN>
+        <SPAN class="dim8"><BR></SPAN>
+        <SPAN class="duetitolo">La Scuola a portata di Click<BR></SPAN><BR>
+        </DIV>
+      </DIV>
+      
+<!-- ICONA METRO 02 Registro Docenti -->
+      <!-- ICONA METRO 02 [ALT] Classe Viva -->
+            <DIV id="ClasseViva">
+        <A href="https://web.spaggiari.eu" target="_blank"><IMG alt="" src="img/ico_metro/classeviva.png"></A>
+      </DIV>
+           
+
+<!-- ICONA METRO 03 Registro Famiglie -->
+      
+<!-- ICONA METRO 04 Passaggi -->
+            <DIV id="Passaggi">
+        <IMG alt="" src="img/ico_metro/passaggi.png">
+        <DIV  id="Link10" style="position:absolute; left:0px; top:0px;"><A href="paginax.php?P=16"><IMG alt="" src="img/trasparente.gif" height="100" width="210"></A></DIV>
+      </DIV>
+            
+<!-- ICONA METRO 05 Iscrizioni -->
+            <DIV id="Iscrizioni">
+        <DIV id="Link9" style="position:absolute; left:0px; top:0px;"><A href="paginax.php?P=14"><IMG alt="" src="img/trasparente.gif" height="100" width="100"></A></DIV>
+        <IMG alt="" src="img/ico_metro/iscrizioni.png">
+      </DIV>
+      <!-- ICONA METRO 05 [ALT] Composizione Classi -->
+            
+<!-- ICONA METRO 06 Lingue -->
+      <!-- ICONA METRO 06 [ALT] Esami Riparazione -->
+      <!-- ICONA METRO 06 [ALT] OpenDay -->
+            <DIV id="OpenDay">
+        <A href="pagina.php?P=11"><IMG alt="" src="img/ico_metro/openday.png"></A>
+      </DIV>
+      
+<!-- ICONA METRO 07 Didattica Distanza -->
+            <DIV id="Moodle">
+        <A href="http://www.gdromagnosi.it/edu/" target="_blank"><IMG alt="" src="img/ico_metro/distanza.png"></A>
+      </DIV>
+            
+<!-- ICONA METRO 08 Libri Testo -->
+            <DIV id="Libri">
+        <A href="pagina.php?P=5"><IMG alt="" src="img/libri.png">
+        <IMG alt="" src="img/ico_metro/libri.png"></A>
+      </DIV>
+            
+<!-- ICONA METRO 09 Alternanza -->
+            <DIV id="Alternanza">
+        <A href="http://www.gdromagnosi.it/edu/course/view.php?id=43" target="_blank"><IMG alt="" src="img/ico_metro/alternanza.png"></A>
+      </DIV>
+            
+<!-- ICONA METRO 10 PTOF -->
+            <DIV id="PTOF">
+        <A href="pagina.php?P=15"><IMG alt="" src="img/ico_metro/ptof.png"></A>
+      </DIV>
+            
+<!-- ICONA METRO 11 Trasparenza -->
+            <DIV id="Trasparenza">
+        <DIV id="Link3" style="position:absolute; left:10px; top:50px;"><A href="https://www.trasparenzascuole.it/Public/AmministrazioneTrasparente.aspx?Customer_ID=c2465b01-c8d3-4970-9094-772e99b9d209">Amministrazione Trasparente</A></DIV>
+        <DIV id="Link4" style="position:absolute; left:0px; top:0px;"><IMG alt="" src="img/ico_metro/trasparenza.png"></DIV>
+        <DIV id="Link5" style="position:absolute; left:0px; top:0px;"><A href="https://web.spaggiari.eu/sdg/app/default/trasparenza.php?sede_codice=COII0003" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="210"></A></DIV>
+      </DIV>
+            
+<!-- ICONA METRO 12 Albo Pretorio -->
+            <DIV id="Albo">
+        <IMG alt="" src="img/ico_metro/albo.png">
+        <DIV  id="Link2" style="position:absolute; left:0px; top:0px;"><A href="https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=COII0003" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="210"></A></DIV>
+      </DIV>
+      
+<!-- ICONA METRO 13 Comunicazioni -->
+            <DIV id="Comunicati">
+        <IMG alt="" src="img/ico_metro/comunica.png">
+        <DIV  id="Link2" style="position:absolute; left:0px; top:0px;"><A href="https://web.spaggiari.eu/sdg/app/default/comunicati.php?sede_codice=COII0003" target="_blank"><IMG alt="" src="img/trasparente.gif" height="100" width="210"></A></DIV>
+      </DIV>
+      
+<!-- ICONA METRO 13 [ALT] Bussola -->
+      
+<!-- ICONA METRO 14 PON -->
+            <DIV id="PON">
+        <A href="pagina.php?P=21"><IMG alt="" src="img/ico_metro/pon.png"></A>
+      </DIV>
+      
+<!-- ICONA METRO 15 ECDL OLD -->
+<!--       <DIV id="Ecdl">
+        <IMG alt="" src="img/ico_metro/ecdl2.png">
+        <DIV id="data_ecdl">
+          <DIV style="width:100%; text-align:center"><STRONG>
+            <SPAN class="bianco">
+              <SPAN style="font-size:15px">Prossimo Esame</SPAN>
+              <SPAN style="font-size:15px"><BR></SPAN>
+              <SPAN style="font-size:15px"><SPAN style="background-color: #FF0000">Martedì 30 Maggio 2017</SPAN></SPAN>
+            </SPAN>
+          </STRONG></DIV>
+        </DIV>
+
+      </DIV>
+       -->
+			
+<!-- ICONA METRO 15 ECDL OLD -->
+            <DIV id="Ecdl">
+        <IMG alt="" src="img/ico_metro/ecdl1.png">
+      </DIV>
+      <!-- ICONA METRO 15 ECDL OLD -->
+            <DIV id="AID">
+        <A href="materiale/CertificazioneAID.pdf" target="_blank"><IMG alt="" src="img/ico_metro/aid.png"></A>
+      </DIV>
+      
+<!-- ICONA METRO 16 Fai -->
+      <!-- ICONA METRO 16 [ALT] Stage -->
+      <!-- ICONA METRO 16 [ALT 2] Scuola Digitale -->
+            <DIV id="ScDigi">
+        <A href="http://www.gdromagnosi.it/edu/course/view.php?id=39" target="_blank"><IMG alt="" src="img/ico_metro/sc_digi.png"></A>
+      </DIV>
+            
+      
+<!-- ICONA METRO 17 W3C -->
+      <!-- ICONA METRO 17 Incarico Triennale -->
+            <DIV id="Incarico">
+        <A href="pagina.php?P=19"><IMG alt="" src="img/ico_metro/incarico.png"></A>
+      </DIV>
+            
+<!-- ICONA METRO 18 Qualità -->
+            <DIV id="Qualita">
+        <!-- <IMG alt="" src="img/ico_metro/qualita.png"> -->
+        <A href="materiale/ptti.pdf" target="_blank"><IMG alt="" src="img/ico_metro/ptti.png"></A>
+      </DIV>
+      
+            <DIV id="crediti">
+        <TABLE width="980px"><TR><TD><SPAN class="briciole_testo nero dim9">I.S.I.S. "G.D. Romagnosi", Via Carducci, 5 - Erba - 22036 (CO) - Tel. Sede: 031.644072÷644562 Beldosso: 031.611784 - Mail <A href="mailto:cois004003@istruzione.it">cois004003@istruzione.it</A></SPAN></TD>
+        <TD><SPAN class="briciole_testo nero dim9">(C) 2015 - Flavio P. Frigerio</SPAN></TD>
+        </TR></TABLE>
+      </DIV>      
+    </DIV>
+    <SCRIPT TYPE="text/javascript">
+      //verifico se esce da un menù
+      $("body").mousemove(function( event ) 
+      {
+        var id=event.target.id;
+        //var nome = "<BR><BR><BR><BR><BR><BR><BR><BR> target:"+event.target+" id:"+id;
+        //console.log(id);
+        var xnome=id.substr(0,2);
+        if (xnome!="xm")
+        {
+          scegli_menu('#xm00000000','');
+        }
+        //nome=nome+" ->"+xnome;
+        //$("span:first").html(nome);
+      });
+</script>   
+
+
+    
+  </BODY>
+</HTML>

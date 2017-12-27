@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice gareI.C.eD.D.Menfi</titolo>
+    <abstract>gare espletate da I.C.Menfi e D.D.Menfi da 01.12.2012 a 31.12.2013</abstract>
+    <dataPubblicazioneIndice>2014-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE - "S. BIVONA" - MENFI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2014-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC22775/indicecontratti.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2012">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC22775/contratti2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC22775/contratti2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

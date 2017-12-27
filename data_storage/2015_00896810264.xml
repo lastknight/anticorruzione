@@ -1,0 +1,63 @@
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd ">
+    <metadata>
+        <titolo>Zip pubblicazioni</titolo>
+        <abstract>Pubblicazione relativa all'anno 2014</abstract>
+        <dataPubblicazioneIndice>2015-01-30+01:00</dataPubblicazioneIndice>
+        <entePubblicatore>AZIENDA U.L.S.S. N.8 DI ASOLO</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2015-01-30+01:00</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2014</annoRiferimento>
+        <urlFile>http://avcp.ulssasolo.ven.it/trasparenza/2014/Indice.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/1.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/2.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/3.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_4">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/4.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_5">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/5.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_6">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/6.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_7">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/7.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_8">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/8.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_9">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/9.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_10">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/10.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_11">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/11.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_12">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2014/12.xml</linkDataset>
+            <dataUltimoAggiornamento>2015-01-30+01:00</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

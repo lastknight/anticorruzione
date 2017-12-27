@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 - Anno Rif:2014</abstract>
+    <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>Provincia Medio Campidano</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/AvcpIndice.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/AT_Settore_Ambiente_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Lavoro_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Amministrativa_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/AP_Serv_Innov_Tecn_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Tecnica_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/AT_Settore_LL.PP_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Svi_Econ_E_Cult_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_8">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Cultura_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_9">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Presidenza_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_10">
+      <linkDataset>http://www.provincia.mediocampidano.it/trasparenza/resources/avcpcom/2014/Area_Finanziaria_2015-01-30.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

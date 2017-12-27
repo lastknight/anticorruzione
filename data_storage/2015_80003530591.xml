@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+						<metadata>
+							<titolo>Indice pubblicazione</titolo>
+							<abstract>Pubblicazione relativa agli anni 2012 - 2017</abstract>
+							<dataPubblicazioneIndice>2014-01-28</dataPubblicazioneIndice>
+							<entePubblicatore>Provincia di Latina</entePubblicatore>
+							<dataUltimoAggiornamentoIndice>2017-12-21</dataUltimoAggiornamentoIndice>
+							<annoRiferimento>2017</annoRiferimento>
+							<urlFile>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/index.xml</urlFile>
+							<licenza>IODL</licenza>
+						</metadata>
+						<indice><dataset id="ID_1">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2017.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-12-21</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_2">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2016.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-11-29</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_3">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2015.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-09-08</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_4">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2014.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-11-07</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_5">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2013.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-12-14</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_6">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2012.xml</linkDataset>
+							<dataUltimoAggiornamento>2016-08-30</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_7">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset2011.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+						</dataset>
+				<dataset id="ID_8">
+							<linkDataset>http://www.provincia.latina.it/flex/AppData/Redational/avcp-l190/dataset0.xml</linkDataset>
+							<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+						</dataset>
+				
+						</indice>
+					</indici>
+			

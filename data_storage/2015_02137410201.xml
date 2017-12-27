@@ -1,0 +1,260 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
+<head>
+<title>PromoImpresa-Borsa Merci</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<base href="http://www.promoimpresaonline.it/"/>
+
+<link rel="stylesheet" type="text/css" href="css/nav.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/jquery-ui.css" media="screen" />
+<style type="text/css" media="screen">
+<!--
+@import url("css/promoimpresa.css");
+-->
+</style>
+<style type="text/css" media="print">
+<!--
+@import url("css/promoimpresa.css");
+-->
+</style>
+<!-- <link rel="stylesheet" type="text/css" href="niceforms-default.css" media="screen" /> -->
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ieminmax.css">
+<![endif]-->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="include/control.js"></script>
+<script type="text/javascript" src="include/datax.js"></script>
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery-1.9.1.js" type="text/javascript"></script>
+<script src="js/jquery-ui.js" type="text/javascript"></script>
+<script src="js/arpform.js" type="text/javascript"></script>
+<script>
+function setRead(){		
+		document.cookie="Cookie_user=1; expires=Wed, 10 Jul 2020 12:00:00 UTC";
+		return true;
+}
+</script>
+<!-- <script type="text/javascript" src="niceforms.js"></script> -->
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+$(function() {
+	$( "#territorio" ).autocomplete({
+		source: function( request, response ) {
+			$.ajax({
+				url: "http://www.registroimprese.it/home",
+				dataType: "jsonp",
+				data: {
+					p_p_id: "ricercahomepageportlet_WAR_ricercaRIportlet",
+					p_p_lifecycle: 2,
+					p_p_state: "normal",
+					p_p_mode: "view",
+					start: request.term
+				},
+				success: function( data ) {
+					response( $.map( data.response, function( item ) {
+						return {
+							label: item.description,
+							value: item.name
+						}
+					}));
+				}
+			});
+		},
+		minLength: 2
+	});
+});
+</script>
+</head>
+
+<body onload="tab(); " class="main">
+
+<!-- Testo informativa cookie -->
+
+<div id="cookie-notice" style="position: fixed; background-color: #DBDBDB; width: 100%; top: 0px; z-index:200; left: 0; border: BLACK 1px solid; color: #003366; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif;" align="center">
+	Il sito utilizza cookies (propri e di terze parti) per un corretto funzionamento della piattaforma. La prosecuzione della navigazione comporta l'accettazione dei cookies.</br>
+	<a href="javascript:location.reload();" onClick="return setRead();" style="color: #003366; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif;"><u>Chiudi!</u></a>
+	<a href="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/3585077" target="_blank" style="  cursor: pointer; color: #003366; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif;" target="_blank"><u>Leggi Informativa!</u></a>
+</div>			
+
+<!-- Fine testo informativa cookie -->	
+
+<div id="cont_sfondo">
+<div id="contenitore2"><div id="contenitore">
+	<div id="container">
+		<div id="cnt_header4">
+			<div id="cornerleft">
+				<!-- <div id="cornerright"> -->
+				<div id="cornerright2"></div>
+					<div id="header_sx">
+					  <h1 class="out">PromoImpresa-Borsa Merci</h1>
+						<div class="hide">
+							<h2>Menù di navigazione rapido</h2>
+							<ul>
+								<li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=login&amp;old=download%2Easp%3Fln%3D%26idtema%3D1%26idtemacat%3D1%26file%3DInformazioni%2FFiles%2F47689%2Fcontrattial2014%2Exml#main" title="Vai al contenuto della pagina">Contenuto della pagina</a></li>
+								<li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=login&amp;old=download%2Easp%3Fln%3D%26idtema%3D1%26idtemacat%3D1%26file%3DInformazioni%2FFiles%2F47689%2Fcontrattial2014%2Exml#mainmenu" title="Vai al menù principale">Menù Principale</a></li>
+							</ul>
+						</div>
+						<div id="logocontainer">
+							<div id="logocc">
+								<a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=home" title="Vai alla Home Page" accesskey="h"><img src="immagini/logo.gif"  width="255" height="110" alt="Logo di PromoImpresa" style="border:0" /></a>
+							</div>
+						</div>
+					</div>
+					<div id="menutop">
+					<h2>Menu superiore</h2>
+					<ul><li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=61858" class="">Link&nbsp;utili</a></li><li class="pipe">|</li><li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62671" class="">Archivio&nbsp;News</a></li><li class="pipe">|</li><li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;action=read&amp;idinformazione=45762" class="">Scrivici</a></li><li class="pipe">|</li><li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62180" class="">Area&nbsp;riservata</a></li><li class="pipe">|</li><li><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62799" class="">Iscriviti&nbsp;alla&nbsp;newsletter</a></li></ul>
+					</div><!-- end of #menutop -->
+					<!--<div id="header_dx_2"></div>--> <!-- end of #header_dx -->
+					<div id="header_dx_10"></div><!-- end of #header_dx -->
+					<div id="header"></div>
+				<!-- </div> -->
+			</div>
+		</div>
+	</div>
+	    
+    <!--RIFACCIO IN DIV LA PARTE NAVIGATION-->
+   	
+    <div id="navigation">
+    	<a name="mainmenu" accesskey="3" href="default.asp?idtema=1&amp;idtemacat=1&amp;page=login&amp;old=download%2Easp%3Fln%3D%26idtema%3D1%26idtemacat%3D1%26file%3DInformazioni%2FFiles%2F47689%2Fcontrattial2014%2Exml#mainmenu">&nbsp;</a>
+    	<a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=61871" name="sitemap" accesskey="4" class="out">Mappa del sito</a>
+    	<div id="menu_top">
+    		<h2 class="out">Menù Principale</h2>
+    	<ul><li class="pipe2"><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62831" class="">Chi&nbsp;siamo</a></li><li class="pipe2"><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62865" class="">Contatti</a></li><li class="pipe2"><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=61871" class="">Mappa</a></li></ul>
+      
+    	</div><!-- end of #menu -->
+		<div id="date"><span>mercoledì, 27 dicembre 2017</span></div>
+		<div id="homep"><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=home" title="Vai alla Home Page">Home</a></div>
+
+    <div id="submenu">
+
+</div><!-- end of #submenu -->
+<div id="submenu2">
+	
+	<div id="right">
+		<h2 class="out"><a name="cercanelsito" accesskey="2"></a><label for="cercanelsito">Ricerca nel sito</label></h2>
+		<form method="post" action="default.asp" id="search_formdx" style="display:inline;float:right">
+			<p>
+				<input type="hidden" name="index" value="" />
+				<input type="hidden" name="page" value="dati" />
+				<input type="hidden" name="action" value="search" />
+				<input type="hidden" name="regsearch" value="1" />
+			<input type="hidden" name="idtema" value="1" /><input type="hidden" name="idtemacat" value="1" />
+			</p>
+			<p><input type="text" id="cercanelsito" name="testo" size="15" title="Inserire del testo per la ricerca" value="Ricerca nel sito" onclick="this.value='';" onblur="if (this.value=='') this.value='Ricerca nel sito';" /> <input type="button" value="avvia" class="button" onmouseover="className='buttonon'" onfocus="className='buttonon'" onmouseout="className='button'" onblur="className='button'" onclick="if(document.getElementById('search_formdx').cercanelsito.value!='' &amp;&amp; document.getElementById('search_formdx').cercanelsito.value!='Ricerca nel sito'){ document.getElementById('search_formdx').submit();}else{alert('Inserire del testo per la ricerca');document.getElementById('search_formdx').cercanelsito.value='';document.getElementById('search_formdx').cercanelsito.focus();return false;}" onkeypress="if(document.getElementById('search_formdx').cercanelsito.value!='' &amp;&amp; document.getElementById('search_formdx').cercanelsito.value!='Ricerca nel sito'){ document.getElementById('search_formdx').submit();}else{alert('Inserire del testo per la ricerca');document.getElementById('search_formdx').cercanelsito.value='';document.getElementById('search_formdx').cercanelsito.focus();return false;}" /> <input type="submit" name="avanzata" value="guidata" class="button" onmouseover="className='buttonon'" onfocus="className='buttonon'" onmouseout="className='button'" onblur="className='button'" /> <input type="button" onclick="window.location='default.asp?idtema=1&amp;idtemacat=1&amp;page=indicealfabetico'" onkeypress="window.location='default.asp?idtema=1&amp;idtemacat=1&amp;page=indicealfabetico'" name="alfabetica" value="alfabetica" class="button" onmouseover="className='buttonon'" onfocus="className='buttonon'" onmouseout="className='button'" onblur="className='button'" /></p>
+		</form>
+		<h2 class="out"><a name="q" accesskey="6"></a><label for="q">Cerca nel sito con Google</label></h2>
+		<form method="get" action="http://www.google.com/search" id="search_google" style="display:inline;float:right">
+			<p>
+				<input type="text" name="q" size="23" maxlength="255" id="q" title="Cerca nel sito con Google" value="Cerca nel sito con Google" onclick="this.value='';" onblur="if (this.value=='') this.value='Cerca nel sito con Google';" />
+				<input type="hidden" name="hl" value="it"/>
+				<input type="submit" name="btnG" value="cerca" class="button" onmouseover="className='buttonon'" onfocus="className='buttonon'" onmouseout="className='button'" onblur="className='button'" onclick="if(document.getElementById('search_google').q.value!='' &amp;&amp; document.getElementById('search_google').q.value!='Cerca nel sito con Google'){ document.getElementById('search_google').submit();}else{alert('Inserire del testo per la ricerca');document.getElementById('search_google').q.value='';document.getElementById('search_google').q.focus();return false;}" onkeypress="if(document.getElementById('search_google').q.value!='' &amp;&amp; document.getElementById('search_google').q.value!='Cerca nel sito con Google'){ document.getElementById('search_google').submit();}else{alert('Inserire del testo per la ricerca');document.getElementById('search_google').q.value='';document.getElementById('search_google').q.focus();return false;}" />
+				<input type="hidden" name="as_sitesearch" value="http://www.promoimpresaonline.it" />&nbsp;
+			</p>
+		</form>
+	</div>
+	
+
+<!--************************************************************************************************************-->
+
+	<div id="left"><div id="bric_pane">Sei in: <strong>Login</strong></div></div>
+	</div>
+</div><!-- end of #navigation -->
+
+<!-- <div id="rigo"></div> -->
+
+<div id="content"><div id="principale"><a name="main" accesskey="1" href="default.asp?idtema=1&amp;idtemacat=1&amp;page=login&amp;old=download%2Easp%3Fln%3D%26idtema%3D1%26idtemacat%3D1%26file%3DInformazioni%2FFiles%2F47689%2Fcontrattial2014%2Exml#main">&nbsp;</a><div id="impostazioni">
+
+<form method="post" id="flogin" action="https://www.fastmeeting.net/ssl/login/login.asp">
+	<p><input type="hidden" name="idtema" value="1" /><input type="hidden" name="idtemacat" value="1" />
+	<input type="hidden" name="idportal" value="92" />
+	<input type="hidden" name="sid" value="c6678009f1fe8e183fccd3c1ccc469d5" />
+	<input type="hidden" name="old" value="download.asp?ln=&amp;idtema=1&amp;idtemacat=1&amp;file=Informazioni/Files/47689/contrattial2014.xml" />
+	<input type="hidden" name="host" value="http://www.promoimpresaonline.it" />
+	</p>
+	<!--class="login"-->
+	<p style="text-align:center" class="errore">Se sei un utente registrato, inserisci lo "User Name" e la "Password" negli appositi campi e seleziona il tasto "entra", altrimenti <a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=utenti&amp;action=registrazione">registrati</a> adesso. <br/><br/>Per assistenza: <a href="mailto:help@innrete.net">help@innrete.net</a></p>
+	<p>&nbsp;</p>
+	<table border="0" cellspacing="10" cellpadding="4" width="100%">
+	  <tr> 
+		<td align="right" style="width: 50%"><label for="fusername">User Name:</label></td>
+		<td align="left" style="width: 50%"><input name="username" id="fusername" title="Username" type="text" size="12" /></td>
+	  </tr>
+	  <tr> 
+		<td align="right" style="width: 50%"><label for="fpassword">Password:</label></td>
+		<td align="left" style="width: 50%"><input name="password" id="fpassword" title="Password" type="password" size="12" /></td>
+	  </tr>
+	  <tr> 
+		<td colspan="2" align="center"><input type="submit" value="entra" class="button" onmouseover="className='buttonon'" onfocus="className='buttonon'" onmouseout="className='button'" onblur="className='button'" /></td>
+	  </tr>
+	</table>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p style="text-align:center" class="errore"><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=login&amp;action=reqpass">Hai dimenticato la tua password?</a></p>
+</form>
+</div></div><!-- end of #principale --></div><!-- end of #content --><div id="rightside"><div id="rightcolumn"></div><!-- end of #rightcolumn --><div id="sidebar"><div id="ricercarapida"><div class="lista_categorieHP"><h2 class="out">Ricerca rapida corsi</h2><ul class="selected_categoria_1_"><li class="tt0 t0 t0o1"><span class="ssc_1_">Offerte formative</span><ul class="" style="background-color:transparent;padding-top:0.5em"><li style="padding: 0.5em 0.5em 0 0.5em;">
+	<div>
+		<ul style="list-style-type:none" >
+			<li style="padding-bottom: 0">
+			<label for="tp">&nbsp;</label>
+			<select id="tp" name="tp" class="ricercarapida" style="width:100%" onchange="if(''+this.options[this.selectedIndex].value!=''){window.location='default.asp?idtema=1&amp;idtemacat=1&amp;page=cercacat&amp;action=schede&amp;tp='+this.options[this.selectedIndex].value}"><option value="">Ricerca rapida per tipo</option><option value="3">Convegni</option><option value="2">Corsi</option><option value="1">Seminari</option></select></li>
+		</ul>
+		<!-- <h2><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=cercacat">Ricerca avanzata</a></h2> -->
+	</div>
+	</li></ul></li></ul></div><h2 style="text-align: center"><a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=cercacat" style="font-size: 1.2em">Ricerca avanzata</a></h2></div>
+<div id="menu_dx">
+<h2>Accesso rapido</h2><ul><li><a href="./default.asp?index=&amp;idtema=1&amp;idtemacat=1&amp;page=news&amp;tutti=&amp;categoria=100&amp;datadag=&amp;datadam=&amp;datadaa=&amp;dataag=&amp;dataam=&amp;dataaa=&amp;flagattivazione=&amp;inviata=&amp;paginazione=10" class="">News ospiti</a></li><li><a href="./default.asp?ln=&amp;idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62883" class="">Agevolazioni alle imprese</a></li></ul>
+</div>
+<div id="box_login"></div><!-- end of #box_login --><div id="socialicons"><div class="lista_categorieHP"><h2 class="out">Social forum</h2><ul class="selected_categoria_1_"><li class="tt0 t0 t0o1"><!-- <span class="ssc_1_">Seguici su</span> --><ul class="" style="background-color:transparent;padding-left:3.3em;padding-top:0.5em"><li style="padding: 0.5em;width:32px;float:left"><a href="https://www.facebook.com/Promoimpresa?=ts" title="Seguici su Facebook" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;"><img src="immagini/f.png" width="32px" height="32px" alt="Facebook" style="border:none" /></a></li><li style="padding: 0.5em;width:32px;float:left"><a href="https://twitter.com/PromoImpresaBM" title="Seguici su Twitter" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;"><img src="immagini/t.png" width="32px" height="32px" alt="Twitter" style="border:none" /></a></li><li style="padding: 0.5em;width:32px;float:left"><a href="http://goo.gl/maps/enS2G" title="Seguici su Google" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;"><img src="immagini/g.png" width="32px" height="32px" alt="Google" style="border:none" /></a></li></ul></li></ul></div></div><div id="powered"><a href="mailto:help@innrete.net">Contatto per assistenza tecnica</a><br/><a href="http://www.lab-sd.infocamere.it" title="Vai al sito di InfoCamere SCpA - Laboratorio Sistemi Digitali" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="Immagini/powered.gif" id="fi_tecno" alt="Logo di InfoCamere" width="134" height="36" /></a></div><br/></div><!-- end of #sidebar --></div>
+	<div id="footer">
+	
+<div id="scritte">
+    <strong>PromoImpresa-Borsa Merci - Largo Pradella 1 - 46100 Mantova - P.IVA 02137410201 - Tel: +39 0376234350</strong><p>email: <a href="mailto:promoimpresa@mn.camcom.it">promoimpresa@mn.camcom.it</a> - PEC: <a href="mailto:promoimpresa@mn.legalmail.camcom.it">promoimpresa@mn.legalmail.camcom.it</a></p>
+    <p>Risoluzione ottimale: 1024x768 - <a href="http://www.lab-sd.infocamere.it" >Powered by InfoCamere SCpA - Laboratorio Sistemi Digitali</a> - <a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=9079" >Credits</a> - <a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=60801" >Accessibilit&#224;</a> - <a href="default.asp?idtema=1&amp;idtemacat=1&amp;page=informazioni&amp;idcategoria=62632" >Privacy Policy</a></p>
+
+</div><!-- end of #scritte -->
+
+
+<div id="validator">
+	<h2>Validazione</h2>
+	<ul>
+		<li class="disclaimer2"><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww%2Epromoimpresaonline%2Eit%2Fdefault%2Easp%3Fln%3D%26idtema%3D1%26idtemacat%3D1%26page%3Dlogin%26old%3Ddownload%252Easp%253Fln%253D%2526idtema%253D1%2526idtemacat%253D1%2526file%253DInformazioni%252FFiles%252F47689%252Fcontrattial2014%252Exml" title="Attenzione: si apre in una nuova finestra" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="Immagini/xhtml10.gif" width="62" height="22" class="inline" alt="Valid XHTML 1.0 Strict!" /></a></li>
+        <li class="disclaimer2"><a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww%2Epromoimpresaonline%2Eit%2Fdefault%2Easp%3Fln%3D%26idtema%3D1%26idtemacat%3D1%26page%3Dlogin%26old%3Ddownload%252Easp%253Fln%253D%2526idtema%253D1%2526idtemacat%253D1%2526file%253DInformazioni%252FFiles%252F47689%252Fcontrattial2014%252Exml" title="Attenzione: si apre in una nuova finestra" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="Immagini/css10.gif" width="62" height="22" class="inline" alt="Valid CSS!" /></a></li>
+	</ul>		
+
+	
+
+</div><!-- end of #validator -->
+
+	</div><!-- end of #footer -->
+
+
+</div></div><!-- end of #contenitore -->
+</div><!-- end of #cont_sfondo -->
+<script type="text/javascript">
+function printInfo(id, title){
+	//<!--
+	var a = window.open("","","width=300,height=300");
+	a.document.open("text/html");	
+	a.document.write("<html><head><title>" + title + "</title><style type=\"text/css\">@import url(\"css/promoimpresa.css\");</style><style type=\"text/css\" media=\"print\">.noprint{display:none}</style></head><body><div id=\"contenitore\" style=\"font-size:1.1em\"><div class=\"leggi_informazione\"><div class=\"corpo_inf\">" + document.getElementById(id).innerHTML + "</div></div></div></body></html>");
+	a.document.close();
+	a.focus();
+	setTimeout(function(){a.print();a.close();},1000);
+	//-->
+}
+
+function printNews(id, title){
+	//<!--
+	var a = window.open("","","width=300,height=300");
+	a.document.open("text/html");
+	a.document.write("<html><head><title>" + title + "</title><style type=\"text/css\">@import url(\"css/promoimpresa.css\");</style><style type=\"text/css\" media=\"print\">.noprint{display:none}</style></head><body><div id=\"contenitore\" style=\"font-size:1.1em\"><div class=\"div_news\">" + document.getElementById(id).innerHTML + "</div></div></body></html>");
+	a.document.close();
+	a.focus();
+	//a.onload = function(){ a.print(); a.close(); };
+	setTimeout(function(){a.print();a.close();},1000);
+	//-->
+}
+</script>
+</body>
+</html>
+<!-- www3 -->

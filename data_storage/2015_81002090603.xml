@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 Anno 2014</abstract>
+		<dataPubbicazioneDataset>2014-12-31</dataPubbicazioneDataset>
+		<entePubblicatore>COMUNE DI CASTROCIELO</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2014-12-31</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.studiok.it/comuni/castrocielo/avcp/datasetAppalti_2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>5435382B1C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>81002090603</codiceFiscaleProp>
+				<denominazione>COMUNE DI CASTROCIELO</denominazione>
+			</strutturaProponente>
+			<oggetto>Reg. CE Piano di sviluppo rurale del Lazio 2007 / 2013 D.G.R.L. n.368 del 02.09.2011 e ss.mm. e ii. Misura 125 Az, 1 Miglioramento della viabilità rurarle</oggetto>
+			<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01445170606</codiceFiscale>
+					<ragioneSociale>COMAT SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>284804.68</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-21</dataInizio>
+				<dataUltimazione>2014-09-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>143000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig/>
+			<strutturaProponente>
+				<codiceFiscaleProp>81002090603</codiceFiscaleProp>
+				<denominazione>COMUNE DI CASTROCIELO</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori per la costruzione dinuovi lculi e messa in sicurezza dei viali del cimitero comunale</oggetto>
+			<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02820000608</codiceFiscale>
+					<ragioneSociale>CO.GE.CO COSTRUZIONI E APPALTI SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>116559.12</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-09-16</dataInizio>
+				<dataUltimazione>2015-03-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

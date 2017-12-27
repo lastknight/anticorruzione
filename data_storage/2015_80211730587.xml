@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd">
+	<metadata>
+		<titolo>Pubblicazione dati legge 190/2012</titolo>
+		<abstract>Pubblicazione art. 1 comma 32 legge 190/2012</abstract>
+		<dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+		<entePubblicatore>Istituto Superiore di Sanita'</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2015-01-30</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.iss.it/binary/at11/cont/datasetIndiceAppaltiL190_2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.iss.it/binary/at11/cont/datasetAppaltiL190_2015_001.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.iss.it/binary/at11/cont/datasetAppaltiL190_2015_002.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2014</titolo>
+    <abstract>Pubblicazione Legge 190 del 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-24</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO SCIENTIFICO STATALE "G. Ulivi" - "G.ULIVI" - PARMA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-24</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.liceoulivi.it/legge190/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://www.liceoulivi.it/legge190/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-24</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.liceoulivi.it/legge190/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-24</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

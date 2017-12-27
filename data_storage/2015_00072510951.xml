@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-09</dataPubbicazioneDataset>
+		<entePubblicatore>[Comune di Ales]</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-02-05</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://egov3.halleysardegna.com/ales/zf/index.php/dataset/appalti-2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>5561022C84</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI TESORERIA COMUNALE.</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01577330903</codiceFiscale>
+					<ragioneSociale>BANCO DI SARDEGNA S.P.A.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01577330903</codiceFiscale>
+					<ragioneSociale>BANCO DI SARDEGNA S.P.A.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>15361.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-01</dataInizio>
+										<dataUltimazione>2018-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z050D84E4D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DELLA GESTIONE DEL SERVIZIO DI ASSISTENZA DOMICILIARE</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01621770922</codiceFiscale>
+					<ragioneSociale>PASSAPAROLA SOC.COOP SOCIALE</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00669500951</codiceFiscale>
+					<ragioneSociale>SOC.COOP.SOCIALE INSIEME SI PUO'</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00669500951</codiceFiscale>
+					<ragioneSociale>SOC.COOP.SOCIALE INSIEME SI PUO'</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>40.67</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-01</dataInizio>
+										<dataUltimazione>2015-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDD0D850A2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DELLA GESTIONE DEL SERVIZIO DEI PASTI CALDI A DOMICILIO</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z890D85186</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DELLA GESTIONE DEL CENTRO DI AGGREGAZIONE SOCIALE</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02694790920</codiceFiscale>
+					<ragioneSociale>KOINOS - SOC. COOP. SOC. A R.L.</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00647550953</codiceFiscale>
+					<ragioneSociale>ZEROCENTO SOC. COOP.A R.L. ONLUS</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02694790920</codiceFiscale>
+					<ragioneSociale>KOINOS - SOC. COOP. SOC. A R.L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>25.79</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-01</dataInizio>
+										<dataUltimazione>2015-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZE50D851CF</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DELLA GESTIONE DELLA BIBLIOTECA COMUNALE</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01714420922</codiceFiscale>
+					<ragioneSociale>COOPERATIVA LA MEMORIA STORICA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00672810959</codiceFiscale>
+					<ragioneSociale>NUR S.N.C.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01714420922</codiceFiscale>
+					<ragioneSociale>COOPERATIVA LA MEMORIA STORICA</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>24.95</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-01</dataInizio>
+										<dataUltimazione>2015-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7F0D852C0</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DELLA GESTIONE  E LA VALORIZZAZIONE DEL MUSEO DEL GIOCATTOLO</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00549750958</codiceFiscale>
+					<ragioneSociale>CONSORZIO COOP. &quot;SARDEGNA E NATURA&quot;</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00549750958</codiceFiscale>
+					<ragioneSociale>CONSORZIO COOP. &quot;SARDEGNA E NATURA&quot;</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>27300.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-01</dataInizio>
+										<dataUltimazione>2015-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z990D64076</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Liquidazione fatture Ditta Dog Village di Firinu Sonia, Arborea - Mantenimento e custodia cani randagi anno 2013.</oggetto>
+		<sceltaContraente>17-AFFIDAMENTO DIRETTO EX ART. 5 DELLA LEGGE N.381/91</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZIB0D60BDF</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Intervento di  manutenzione straordinaria impianti elettrici scuole dell'infanzia, primaria e media -</oggetto>
+		<sceltaContraente>17-AFFIDAMENTO DIRETTO EX ART. 5 DELLA LEGGE N.381/91</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7B0D5DB3B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Determinazione a contrarre per l'affidamento del servizio di fornitura, installazione e configurazione terminale comandi remoto per l'impianto di climatizzazione del MUSEO DEL GIOCATTOLO- ZEPPARA -  Affidamento tramite cottimo fiduciario - Impegno di</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02029290927</codiceFiscale>
+					<ragioneSociale>DITTA EMILIO LOCHE - SOLEMINIS</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>700.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-17</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDE0CEA538</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>MANUTENZIONE SEMESTRALE DEGLI ESTINTORI E IMPIANTI ANTINCANDIO COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01676970922</codiceFiscale>
+					<ragioneSociale>SARDANTINCENDI DI COCCO MARIO E F. SNC</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>1530.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-20</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>530683284C</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>Comune di Ales</denominazione>
+		</strutturaProponente>
+		<oggetto>Affidamento incarico professionale per la redazione del Piano Particolareggiato del Centro di prima e antica formazionedel Comune di ales e della frazione di Zeppara</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>LFRGNN68H27L219X</codiceFiscale>
+					<ragioneSociale>Arch. Giovanni Alifredi , residente  a Villar Perosa (TO) in Borgata Muretti n° 3 - 10069</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02694380920</codiceFiscale>
+					<ragioneSociale>Criteria S.r.l. - via Cugia 14 -  09129 - Cagliari</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00641030929</codiceFiscale>
+					<ragioneSociale>Ing. Ignazio Serra - via Lunigiana n° 44 - Cagliari</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01731790687</codiceFiscale>
+					<ragioneSociale>ORIANO ASSOCIATI ARCHITETTI - via Conte Chiappinello  60 - 65015 - Montesilvano (PE)</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>DGSRRT41M05H294K</codiceFiscale>
+					<ragioneSociale>Roberto D'Agostino - via delle industrie 25/10 - Venezia</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00194940912</codiceFiscale>
+					<ragioneSociale>Studio associato Mura e Tomasello - via C. Battisti n° 25 - Macomer (NU)</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>4923776C7B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>Comune di Ales</denominazione>
+		</strutturaProponente>
+		<oggetto>L.R. 17/1999 art. 11 bis - Contributi per l'impiantistica sportiva soddisfacenti un'utenza sovracomunale - Programma 2011 - Adeguamento e messa a norma campo sportivo.</oggetto>
+		<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01344080914</codiceFiscale>
+					<ragioneSociale>3S IMPIANTI SNC - Via Aldo Moro n. 31 - 08023 FONNI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02831840927</codiceFiscale>
+					<ragioneSociale>C.E.M.I. di Nicola Usai - Via Pergolesi n. 1 - 09041 DOLIANOVA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02247690924</codiceFiscale>
+					<ragioneSociale>CO.GE.S.T. S.r.l. - Zona P.I.P. - 09013 CARBONIA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01195060916</codiceFiscale>
+					<ragioneSociale>CO.TE.MA di Argiolas Stefano &amp; C. s.a.s. - Via Località Crimenti n. 25 - 08034 LACONI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00972530919</codiceFiscale>
+					<ragioneSociale>DITTA MASSIDDA ANDREA - Via Municipio 1 - 08030 SERRI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01938110812</codiceFiscale>
+					<ragioneSociale>DITTA SAULLO PIETRO - Via Ruggero, 133 - 91011 ALCAMO</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03607841008</codiceFiscale>
+					<ragioneSociale>Euro Elettra S.r.l. - Via Francesco Marconi n. 55 - 00168 ROMA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03319670927</codiceFiscale>
+					<ragioneSociale>General Edile Srl - Via Padre Liccu n. 13 - 09020 SAMATZAI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02267190920</codiceFiscale>
+					<ragioneSociale>ICEA S.r.l. - Zona Industriale Loc. Luceri - 09048 SINNAI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03357790926</codiceFiscale>
+					<ragioneSociale>Il Muretto di Giuseppe Aresti - Loc. Soddu e Pani - VILLACIDRO</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01109050953</codiceFiscale>
+					<ragioneSociale>Impresa Artigiana di Piras Antonino - Via Silvio Pellico, 8 - 09093 POMPU</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03075690929</codiceFiscale>
+					<ragioneSociale>Impresa Edile Geom. Putzu Mauro - Via Lombardia n. 8 - 09030 SARDARA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01045190954</codiceFiscale>
+					<ragioneSociale>Impresa Edile Porcella Mauro - Via C. Battisti n. 58 - 09098 TERRALBA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03213380920</codiceFiscale>
+					<ragioneSociale>PISANO BRUNO COSTRUZIONI S.R.L. - Via Fleming, 13 - 09047 SELARGIUS</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>01032080952</codiceFiscale>
+					<ragioneSociale>S.A.D. S.r.l. - Via Amsicora s.n. - BARATILI SAN PIETRO</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z1B0D60BDF</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>Comune di Ales</denominazione>
+		</strutturaProponente>
+		<oggetto>Manutenzione straordinaria impianti elettrici scuola primaria, infanzia e media.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01111900955</codiceFiscale>
+					<ragioneSociale>Pibiri Impianti Tecnologici - Zona Artigianale - GONNOSNO' (Or)</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>2.48</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-02-05</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF20D2FA9E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI ASSISTENZA DOMICILIARE - AFFIDAMENTO DIRETTO ALLA COOP. SOC. INCONTRO DI GONNOSTRAMATZA DAL 01.01.14 AL 28.02.14</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>7.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9B0D2FBA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO PASTI CALDI - AFFIDAMENTO DIRETTO ALLA COOP. SOC. INCONTRO DI GONNOSTRAMATZA DAL 01.01.14 AL 28.02.14</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>5.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4A0D2FC66</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>GESTIONE DEL C.A.S. - AFFIDAMENTO DIRETTO ALLA COOP. SOC. KOINOS DI SANLURI DAL 01.01.14 AL 28.02.14</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02694790920</codiceFiscale>
+					<ragioneSociale>KOINOS - SOC. COOP. SOC. A R.L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02694790920</codiceFiscale>
+					<ragioneSociale>KOINOS - SOC. COOP. SOC. A R.L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>6.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z100D356A8</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>GESTIONE P.P. L.162/98 PROROGA GENNAIO-FEBBRAIO-MERZO 2014 - AFFIDAMENTO DIRETTO ALLA COOP. INCONTRO DI GONNOSTRAMATZA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>5.73</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9E0D357AC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>GESTIONE P.P. L. 162/98 PROROGA GENNAIO-FEBBRAIO-MARZO 2014 - AFFIDAMENTO DIRETTO ALLA COOP. KOINOS DI SANLURI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02694790920</codiceFiscale>
+					<ragioneSociale>KOINOS - SOC. COOP. SOC. A R.L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02694790920</codiceFiscale>
+					<ragioneSociale>KOINOS - SOC. COOP. SOC. A R.L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>1.75</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z970D37C06</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA MANIFESTI OBBLIGATORI ELEZIONI REGIONALI 2014</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>GASPARI GRAFICHE SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>GASPARI GRAFICHE SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>90.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-22</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z980D498A1</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>ELEZIONI REGIONALI DEL 16/02/2014 FORNITURA MATERIALE PER I SEGGI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>GASPARI GRAFICHE SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>GASPARI GRAFICHE SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>115.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-22</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z2D0D5D8D6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>servizio pulizia uffici giudice di pace periodo gennaio/giugno 2014</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02026790903</codiceFiscale>
+					<ragioneSociale>MIRANCOOP COOPERATIVA SOCIALE A R.L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02026790903</codiceFiscale>
+					<ragioneSociale>MIRANCOOP COOPERATIVA SOCIALE A R.L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>1.13</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZE50D64F10</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Materiale didattico per la scuola dell'infanzia</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02027040019</codiceFiscale>
+					<ragioneSociale>BORGIONE CENTRO DIDATTICO SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02027040019</codiceFiscale>
+					<ragioneSociale>BORGIONE CENTRO DIDATTICO SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>1.50</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-23</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZB80D66540</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Manutenzione fotocopiatrici Istituto Comprensivo Ales</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01070320955</codiceFiscale>
+					<ragioneSociale>M.G. PUNTO OFFICE DI MELIS F. E GHIANI B.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01070320955</codiceFiscale>
+					<ragioneSociale>M.G. PUNTO OFFICE DI MELIS F. E GHIANI B.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>860.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-14</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZC40D6C1B5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>ELEZIONI REGIONALI DELLA SARDEGNA DEL 16/02/2014 - FORNITURA CARBURANTE PER PROCEDURE ELETTORALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00604000950</codiceFiscale>
+					<ragioneSociale>STAZIONE DI SERVIZIO ONNIS VANDA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00604000950</codiceFiscale>
+					<ragioneSociale>STAZIONE DI SERVIZIO ONNIS VANDA</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>160.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-21</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZB00D98132</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>UTENZE TELEFONICHE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00488410010</codiceFiscale>
+					<ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00488410010</codiceFiscale>
+					<ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>15.25</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZEE0D98D01</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Fornitura gas combustibile centrali termiche comunali</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>03316690175</codiceFiscale>
+					<ragioneSociale>LIQUIGAS SPA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>03316690175</codiceFiscale>
+					<ragioneSociale>LIQUIGAS SPA</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>19.68</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZEC0DA671C</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>ELEZIONI REGIONALI DEL 16/2/2014 FORNITURA STUFETTE ALLOGGIO FORZE DELL'ORDINE IN SERVIZIO PRESSO I SEGGI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00042700955</codiceFiscale>
+					<ragioneSociale>F.LLI COCCO SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00042700955</codiceFiscale>
+					<ragioneSociale>F.LLI COCCO SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>45.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-02-03</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZED0DAEEAF</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Elezioni Regionali Sardegna del 16/02/2014: acquisto materiale di consumo per l'ufficio elettorale</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00723370953</codiceFiscale>
+					<ragioneSociale>MARMILLA.NET DI COCCO MASSIMILIANO</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00723370953</codiceFiscale>
+					<ragioneSociale>MARMILLA.NET DI COCCO MASSIMILIANO</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>188.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-02-05</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4D0DB7310</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Manutenzione fotocopiatrici comunali</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01070320955</codiceFiscale>
+					<ragioneSociale>M.G. PUNTO OFFICE DI MELIS F. E GHIANI B.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01070320955</codiceFiscale>
+					<ragioneSociale>M.G. PUNTO OFFICE DI MELIS F. E GHIANI B.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>870.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-02-06</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z440DC7F3F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA ENERGIA ELETTRICA STRUTTURA RICETTIVA CENTRO STORICO ANNO 2014</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>09633951000</codiceFiscale>
+					<ragioneSociale>ENEL SERVIZIO ELETTRICO S.P.A.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>09633951000</codiceFiscale>
+					<ragioneSociale>ENEL SERVIZIO ELETTRICO S.P.A.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>327.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>141.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8B0DD6A16</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>CONSULENZA E ASSISTENZA SOFTWARE ANNO 2014</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>03170580926</codiceFiscale>
+					<ragioneSociale>HALLEY SARDEGNA SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>8.56</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z3E0DF37B9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Materiale per realizzazione murales scuola infanzia</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00042700955</codiceFiscale>
+					<ragioneSociale>F.LLI COCCO SRL</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00042700955</codiceFiscale>
+					<ragioneSociale>F.LLI COCCO SRL</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>180.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-02-20</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9C0DF98A2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Cancelleria per gli uffici</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>03222970406</codiceFiscale>
+					<ragioneSociale>MYO S.R.L. UNIPERSONALE</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>03222970406</codiceFiscale>
+					<ragioneSociale>MYO S.R.L. UNIPERSONALE</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>1.04</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-06</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF80E01184</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Affidamento Diretto per la gestione del servizio pasti caldi a domicilio da marzo 2014 a febbraio 2015</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00368990958</codiceFiscale>
+					<ragioneSociale>COOPERATIVA INCONTRO A R. L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>28.85</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-01</dataInizio>
+										<dataUltimazione>2015-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZCF0E3A01B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AVVISO PER L'ACQUISIZIONE DI MANIFESTAZIONI D'INTERESSE PER L'AFFIDAMENTO DI SERVIZI DI PROGETTAZIONE DI IMPORTO INFERIORE A 100.00 EURO</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z750E385E3</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Dolci per festa di Carnevale</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00638170951</codiceFiscale>
+					<ragioneSociale>CREME CARAMEL DI MONTINI GIUSEPPE</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00638170951</codiceFiscale>
+					<ragioneSociale>CREME CARAMEL DI MONTINI GIUSEPPE</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>81.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-04</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z200E3877D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Rinfresco per giornata intern. donna</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00626810956</codiceFiscale>
+					<ragioneSociale>DREAM'S BAR DI COMINA UMBERTO</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00626810956</codiceFiscale>
+					<ragioneSociale>DREAM'S BAR DI COMINA UMBERTO</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>204.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-03-04</dataInizio>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>5652831FB2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>PROCEDURA NEGOZIATA IMPIANTI SPORTIVI SCUOLE MEDIE</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>5652831FB2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>comune di ales</denominazione>
+		</strutturaProponente>
+		<oggetto>POR SARDEGNA FESR 2007/2013 ASSE II: INCLUSIONE, SERVIZI SOCIALI ISTRUZIONE E LEGALITÀ,
+OBIETTIVO OPERATIVO 2.2.1., LINEE DI ATTIVITÀ A-C  POTENZIAMENTO STRUTTURE SCOLASTICHE -
+SISTEMAZIONE DELLE AREE SPORTIVE ANTISTANTI LA SCUOLA MEDIA STATALE</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+							
+			
+		<lotto>
+						<cig>5767444559</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+				<denominazione>COMUNE DI ALES</denominazione>
+			</strutturaProponente>
+			<oggetto>INTERVENTI DI MANUTENZIONE STRAORDINARIA DI STRADE RURALI. -L.R. 7 Agosto 2009 N°3 ART. 2 comma 6. deliberazione della Giunta Regionale n° 20/18 del 19.05.2010? - AVVISO ESPLORATIVO PER L?ACQUISIZIONE DI MANIFESTAZIONI D?INTERESSE</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+											</partecipanti>
+			<aggiudicatari>
+												
+			</aggiudicatari>
+			<importoAggiudicazione>0</importoAggiudicazione>
+			<tempiCompletamento>
+											</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+				<lotto>
+				<cig>5536650C1B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Programma di edilizia per la locazione a canone sociale - delib. G.R. n. 71/32 del 16.12.2008 Delib GR n.55/7 del 16.12.2009 - REALIZZAZIONE DI ALLOGGI A CANONE SOCIALE  - PROCEDURA APERTA AFFIDAMENTO LAVORI importo a base di gara euro 1.185.096,50</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+							
+			
+		<lotto>
+						<cig>ZBF0F5C628</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+				<denominazione>COMUNE DI ALES</denominazione>
+			</strutturaProponente>
+			<oggetto>Procedura negoziata senza previa pubblicazione di bando - ai sensi dell'art. 122 c. 7 e dell'art. 57 c. 6  ?affidamento del servizio manutenzione impianti termici comunali ? PERIODO GIUGNO- DICEMBRE 2014 - Procedura negoziata con la Ditta Ciemme Cond</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+													<partecipante>
+						<codiceFiscale>01576550923</codiceFiscale>
+						<ragioneSociale>Ciemme Condizionamento di Cau Mariano</ragioneSociale>
+					</partecipante>
+							</partecipanti>
+			<aggiudicatari>
+												
+			</aggiudicatari>
+			<importoAggiudicazione>0</importoAggiudicazione>
+			<tempiCompletamento>
+											</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+				<lotto>
+				<cig>ZC70E3DDAE</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Procedura negoziata senza previa pubblicazione di bando - ai sensi dell'art. 122 c. 7 e dell'art. 57 c. 6  Ã¢â¬Åaffidamento del servizio di manutenzione ordinaria degli impianti di illuminazione pubblica e degli impianti elettrici degli edifici com</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02388550929</codiceFiscale>
+					<ragioneSociale>SIE di Talloru Saverio</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>16.31</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-05-01</dataInizio>
+										<dataUltimazione>2017-05-01</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZC70E3DDAE</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>&quot;Affidamento del servizio di manutenzione ordinaria degli impianti di illuminazione pubblica e degli impianti elettrici degli edifici comunali in ALES e ZEPPARAÃ¢â¬Â triennio 2014-2017 -</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02388550929</codiceFiscale>
+					<ragioneSociale>S.I.E. SARDINIA IMPIANTI ELETTRICI</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>16.31</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-05-01</dataInizio>
+										<dataUltimazione>2014-05-01</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZCD103386F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>Comune di Ales</denominazione>
+		</strutturaProponente>
+		<oggetto>Avviso manifestazione di interesse per affidamento incarico professionale servizi tecnici. Progettazione preliminare, e definitivo-esecutiva, dei lavori del cantiere occupazione, annualità 2013.</oggetto>
+		<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>Per l'affidamento, mediante procedura negoziata senza previa pubblicazione di bando ai sensi dell'art. 122 c. 7 e dell'art. 57 c.6 del D.lgs 163/2006, dei lavori relativi a: 
+RICOSTITUZIONE DEL POTENZIALE FORESTALE ED INTERVENTI PREVENTIVI. P.S.R. 2</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>60484846E4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>AVVISO ESPLORATIVO PER LACQUISIZIONE DI MANIFESTAZIONI DINTERESSE - SUCCESSIVA PROCEDURA NEGOZIATA
+Per l'affidamento, mediante procedura negoziata senza previa pubblicazione di bando ai sensi dell'art. 122 c. 7 e dell'art. 57 c.6 del D.lgs 163/200</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>6061720197</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00072510951</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALES</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO PER LA GESTIONE DEL CANTIERE COMUNALE PER LOCCUPAZIONE
+ANNUALITA 2013- CUP G37H14001260004 CIG 6061720197</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

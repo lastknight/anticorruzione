@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+ARIA 1.0//EN"
+  "http://www.w3.org/WAI/ARIA/schemata/xhtml-aria-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" dir="ltr">
+<head>
+<meta name="language" content="it-it" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<base href="http://www.comuneguiglia.it/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Sito Istituzionale del Comune di Guiglia" />
+	<meta name="generator" content="Joomla! - Open Source Content Management - Versione FAP" />
+	<title>Comune di Guiglia</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="http://www.comuneguiglia.it/index.php/component/search/?layout=blog&amp;id=34&amp;Itemid=101&amp;format=opensearch" rel="search" title="Vai Comune di Guiglia" type="application/opensearchdescription+xml" />
+	<link href="http://www.comuneguiglia.it/modules/mod_news_pro_gk5/interface/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.comuneguiglia.it//templates/accessiblepro/jspro/flexslider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.comuneguiglia.it/plugins/system/fmalertcookies/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.comuneguiglia.it/plugins/system/fmalertcookies/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	
+	<script src="/media/jui/js/jquery.min.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?8f5e69ba1a63f03b69ad7437bd300fbf" type="text/javascript"></script>
+	<script src="http://www.comuneguiglia.it/modules/mod_news_pro_gk5/interface/scripts/engine.mootools.js" type="text/javascript"></script>
+	<script src="http://www.comuneguiglia.it//templates/accessiblepro/jspro/flexslider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});jQuery(window).load(function() {
+  var flex_target = jQuery('.flexslider');
+  flex_target.flexslider({
+    animation: "fade",
+    slideshowSpeed: 5000,
+    animationSpeed: 600,
+    pauseOnHover: true,
+    slideshow: true, // autostart
+    pausePlay: true,
+    controlNav: true,
+    pauseOnHover: true,
+    pauseOnAction: true,
+    selector: ".slides > div",
+    start: function(slider) {
+        flex_target.removeClass('loader');
+    }
+  });
+});
+/* ]]> */
+
+	</script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+        <link href="http://www.comuneguiglia.it/templates/accessiblepro/css/BlueBeigeLight_theme.min.css" rel="stylesheet" type="text/css" />
+                <link href="http://www.comuneguiglia.it/templates/accessiblepro/css/skin_black.min.css" type="text/css" rel="stylesheet" />
+        <link href="http://www.comuneguiglia.it/templates/accessiblepro/css/template_css.min.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.comuneguiglia.it/templates/accessiblepro/css/guiglia_custom.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/* <![CDATA[ */
+    var skin_default = 'white';
+            var fs_default =  "80";
+        var fap_text_external_link = "Questo è un collegamento ad un sito esterno.";
+/* ]]> */
+</script>
+<style type="text/css">
+    .img-intro-left {
+    float: left;
+}
+.img-intro-right {
+    float: right;
+}
+.img-fulltext-left {
+    float: left;
+}
+.img-fulltext-right {
+    float: right;
+}    body, button {
+        font-family: "Open Sans", sans-serif !important;
+    }
+        .item-title {
+        font-family: "Maven Pro" !important;
+    }
+        body.white {
+        background-color: #ffffff !important;
+    }
+    </style>
+<script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/js/fap.js"></script>
+<script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/js/breakpoints.js"></script>
+<script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/js/SlickNav-master/jquery.slicknav.min.js"></script>
+<script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/js/responsive.js"></script>
+            <link href="http://www.comuneguiglia.it/templates/accessiblepro/css/BlueBeige_responsive.min.css" type="text/css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700" /><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Maven+Pro%3A+400%2C700" /><link rel="icon" href="http://www.comuneguiglia.it//images/icone/favicon.png" type="image/png"  />            <script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/jspro/headroom.min.js"></script>
+            <script type="text/javascript" src="http://www.comuneguiglia.it/templates/accessiblepro/jspro/jquery.headroom.js"></script>
+            <script type="text/javascript">
+            /* <![CDATA[ */
+            jQuery(function($){
+                // Keep menu fixed
+                $("body").headroom({
+                    "offset": $('#menu-top').position().top,
+                    "tolerance": 0,
+                    // callback when pinned, `this` is headroom object
+                    onPin : function() {
+                    },
+                    // callback when unpinned, `this` is headroom object
+                    onUnpin : function() {
+                    },
+                    // callback when above offset, `this` is headroom object
+                    onTop : function() {
+                        $('#menu-top').css('width', '100%');
+                        $('#menu-top-bg').hide();
+                    },
+                    // callback when below offset, `this` is headroom object
+                    onNotTop : function() {
+                        if( ! $("body").hasClass('fap-small')){
+                            $('#menu-top').css('width', $('[role=banner]').width());
+                            $('#menu-top-bg').css('height', $('#menu-top').height()).show();
+                        }
+                    },
+                });
+            });
+            /* ]]> */
+            </script>
+                    <script type="text/javascript">
+            /* <![CDATA[ */
+            jQuery(function($){
+                //Check to see if the window is top if not then display button
+                $(window).scroll(function(){
+                    if ($(this).scrollTop() > 100) {
+                        $('.scroll-to-top').fadeIn();
+                    } else {
+                        $('.scroll-to-top').fadeOut();
+                    }
+                });
+                //Click event to scroll to top
+                $('.scroll-to-top').click(function(){
+                    $('html, body').animate({scrollTop : 0},800);
+                    return false;
+                });
+
+            });
+            /* ]]> */
+            </script>
+        
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78735949-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+<body class="transitions white" id="main"><div style="display:none" class="joomla-script-options new">{"csrf.token":"f043d26bd2c8156562400a0192f211a3","system.paths":{"root":"","base":""}}</div>
+    <div id="menu-top-bg"></div>
+    <div id="wrapper" class=" has-right-column">
+        <div role="banner">
+            <div class="hidden">
+                <a id="up"></a>
+                <div>Sito Istituzionale del Comune di Guiglia</div>
+                <!-- accesskeys here! -->
+                <ul>
+                    <li><a accesskey="P" href="#main-content">Vai ai Contenuti</a></li>
+                    <li><a accesskey="M" href="#main-menu">Vai alla Navigazione Principale e al Login</a></li>
+                </ul>
+            </div>
+                        <div id="top" class="clearfix">
+                <div class="padding">
+                <div class="search hidden-phone fap-search">
+	<form action="/index.php" method="post" class="form-inline">
+		<div><label for="mod-search-searchword" class="element-invisible">Cerca nel Sito</label> <input id="mod-search-searchword" name="searchword" maxlength="200"  class="inputbox search-query" type="text" size="20" value="Cerca..."  onblur="if (this.value=='') this.value='Cerca...';" onfocus="if (this.value=='Cerca...') this.value='';" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">Cerca Argomento</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+        </div>
+	</form>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+            document.write('<div id="accessibility-links" class="accessibility-plain">');
+                document.write('<form method="post" action="">');
+                    document.write('<div>');
+                                                document.write('<span class="accessibility-text">Accessibilità:</span>');
+                                                document.write('<button type="button" name="fap_font_size" value="decrease" id="decrease" accesskey="D" onclick="fap_fs_change(-1); return false;" onkeypress="return fap_handle_keypress(event, function(){fs_change(-1);});" title="Diminuisci dimensioni carattere [D]">A-</button>');
+                        document.write('<button type="button"  name="fap_font_size" value="increase" id="increase" accesskey="A" onclick="fap_fs_change(1); return false;" onkeypress="return fap_handle_keypress(event, function(){fs_change(1);});" title="Aumenta dimensioni carattere [A]">A+</button>');
+                        document.write('<button type="button" name="fap_skin" value="contrasthigh" id="contrasthigh" accesskey="X" onclick="fap_skin_change(\'swap\');return false;" onkeypress="return fap_handle_keypress(event, function(){skin_change(\'swap\');});" title="Versione a contrasto elevato [X]">Contrasto</button>');
+                                                document.write('<button class="hidden-small" type="button" name="fap_skin" value="liquid" id="liquid" accesskey="L" onclick="fap_skin_set_variant(\'liquid\'); return false;" onkeypress="return fap_handle_keypress(event, function(){fap_skin_set_variant(\'liquid\');});" title="Imposta larghezza variabile [L]">&lt;-&gt;</button>');
+                                                document.write('<button type="button" name="reset" id="reset" value="Reimposta" accesskey="Z" onclick="fap_skin_change(\'white\'); fap_skin_set_variant(\'\'); fap_fs_set(fs_default); return false;" onkeypress="return fap_handle_keypress(event, function(){skin_change(\'white\'); fap_skin_set_variant(\'\'); fap_fs_set(fs_default);});" title="Torna allo stile predefinito [Z]">Reimposta</button>');
+                    document.write('</div>');
+                document.write('</form>');
+            document.write('</div>');
+            /* ]]> */
+</script>
+<noscript><h2>La funzione di incremento-decremento dei caratteri e di attivazione di alto contrasto necessita javascript. Il tuo browser non supporta javascript oppure javascript è stato disabilitato.</h2></noscript>
+
+                </div>
+            </div>
+                                    <div id="logo">
+                <a href="/" title="Ritorna alla pagina principale.">
+                    <img src="http://www.comuneguiglia.it/images/comune_guiglia2.png" alt="Comune di Guiglia" />                 </a>
+            </div>
+                                                <div id="banner">
+                <div class="padding">
+                		<div class="moduletable hidden-phone">
+					<div class="module-content">
+				
+<div class="ap-slideshow flexslider loader" id="ap-slideshow-96">
+    <div class="slides">
+                                        <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia01.jpg"
+                    alt="Guiglia1"
+                    title="Guiglia1"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia02.jpg"
+                    alt="Guiglia2"
+                    title="Guiglia2"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/04.jpg"
+                    alt="Guiglia3"
+                    title="Guiglia3"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia04.jpg"
+                    alt="Guiglia4"
+                    title="Guiglia4"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia05.jpg"
+                    alt="Guiglia5"
+                    title="Guiglia5"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia06.jpg"
+                    alt="Guiglia6"
+                    title="Guiglia6"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/08.jpg"
+                    alt="Guiglia7"
+                    title="Guiglia7"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia08.jpg"
+                    alt="Guiglia8"
+                    title="Guiglia8"
+                    width ="1250"                                    />
+                                        </div>
+                                                    <div>
+                                                                                            <img
+                    src="http://www.comuneguiglia.it/images/banners/guiglia09.jpg"
+                    alt="Guiglia9"
+                    title="Guiglia9"
+                    width ="1250"                                    />
+                                        </div>
+                    </div>
+</div>
+
+
+			</div>
+		</div>
+	
+                </div>
+            </div>
+                                    <div id="menu-top" class="menu-top clearfix">
+                <div class="padding">
+                		<div class="moduletable_menu">
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu nav-pills">
+<li  class="item-101 current active level-0"><a role="menuitem"  href="/index.php" >Home</a></li><li  class="item-109 level-0"><a role="menuitem"  href="/index.php/il-comune" >Il Comune</a></li><li  class="item-111 level-0"><a role="menuitem"  href="/index.php/uffici" >Uffici</a></li><li  class="item-185 level-0"><a role="menuitem"  href="/index.php/servizi-al-cittadino" >Servizi al Cittadino</a></li><li  class="item-186 level-0"><a role="menuitem"  href="/index.php/ambiente-e-territorio" >Ambiente e Territorio</a></li><li  class="item-198 level-0"><a role="menuitem"  href="/index.php/contatta-il-comune" >Contatta il Comune</a></li></ul>
+</div>
+			</div>
+		</div>
+	
+                                
+                                </div>
+            </div>
+                    </div>                <div role="main" id="main-2" class="maincomponent">
+                    <div class="center-module center-module-pathway">
+              <div class="padding">
+                  
+<div class="breadcrumbs">
+<span class="showHere">Sei qui: </span><span>Home</span></div>
+
+              </div>
+          </div>
+                                <a id="main-content" class="hidden"></a>
+            <div class="padding">
+                <div id="system-message-container">
+	</div>
+
+                                <div class="blog"  >
+			<div class="page-header">
+			<h1> Notizie dal Comune di Guiglia </h1>
+		</div>
+	
+		
+	
+	
+	
+		
+	
+																	<div class="items-row cols-2 row-0 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/233-programma-di-sviluppo-rurale-psr-2014-2020">
+            PROGRAMMA DI SVILUPPO RURALE (PSR 2014-2020)</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/SviluppoRuraleER2.png" alt=""/>
+    </div>
+<div class="article-intro">
+<p>Concessione di contributi per il Comune di Guiglia</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/233-programma-di-sviluppo-rurale-psr-2014-2020" title="Leggi tutto:  PROGRAMMA DI SVILUPPO RURALE (PSR 2014-2020)">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/231-tari-comune-di-guiglia">
+            TARI Comune di Guiglia</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/TARI.jpg" alt="tari guiglia"/>
+    </div>
+<div class="article-intro">
+<p>Comunicato in riferimento alle notizie diffuse dalla stampa e da altri mezzi di comunicazione sull’errata applicazione della tassa rifiuti (TARI) applicata dai Comuni</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/231-tari-comune-di-guiglia" title="Leggi tutto:  TARI Comune di Guiglia">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-1 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/228-riorganizzazione-sportello-cup-guiglia">
+            RIORGANIZZAZIONE SPORTELLO CUP - GUIGLIA</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/CasadellaSalute3.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p><span><span>Dal 1 Novembre 2017 lo sportello CUP di Guiglia cesserà l'attività e l'accesso alle prestazioni sanitarie verrà garantito da una rete multicanale.</span></span></p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/228-riorganizzazione-sportello-cup-guiglia" title="Leggi tutto:  RIORGANIZZAZIONE SPORTELLO CUP - GUIGLIA">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/227-deposito-del-piano-aria-integrato-regionale-pair-2020">
+            DEPOSITO DEL PIANO ARIA REGIONALE (PAIR 2020)</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/documenti/uffici/urbanistica/ambiente/Pair2020A.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p><span></span>94 misure per il risanamento della qualità dell'aria al fine di ridurre i livelli degli inquinanti</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/227-deposito-del-piano-aria-integrato-regionale-pair-2020" title="Leggi tutto:  DEPOSITO DEL PIANO ARIA REGIONALE (PAIR 2020)">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-2 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/224-bando-del-gal-per-le-imprese-artigiane">
+            BANDO DEL GAL PER LE IMPRESE ARTIGIANE</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/logoGAL1.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p>Il Gal Antico Frignano Appennino Reggiano ha pubblicato un bando destinato alle imprese artigiane in possesso dei codici di cui alla Classificazione delle attivita' economiche ATECO 2007</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/224-bando-del-gal-per-le-imprese-artigiane" title="Leggi tutto:  BANDO DEL GAL PER LE IMPRESE ARTIGIANE">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/222-terre-di-castelli-vivi-scopri-assapora">
+            Terre di Castelli – Vivi Scopri Assapora</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/ViviScopriAssaporaUnione1.png" alt=""/>
+    </div>
+<div class="article-intro">
+<p>Terre di Castelli – Vivi Scopri Assapora: Nuovo Portale WEB dedicato al marketing turistico. Questionario ed Iscrizione on-line rivolto agli operatori del settore - ricettività, ristorazione, commercio, artigianato, produzioni locali – dei Comuni dell’Unione.</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/222-terre-di-castelli-vivi-scopri-assapora" title="Leggi tutto:  Terre di Castelli – Vivi Scopri Assapora">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-3 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/221-guiglia-comune-virtuoso-nei-pagamenti">
+            GUIGLIA COMUNE VIRTUOSO NEI PAGAMENTI</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/LOGOGUIGLIA-2016.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p>Secondo i dati Ministero dell'Economia e delle Finanze (MEF), il Comune di Guiglia risulta essere un comune virtuoso</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/221-guiglia-comune-virtuoso-nei-pagamenti" title="Leggi tutto:  GUIGLIA COMUNE VIRTUOSO NEI PAGAMENTI">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/220-commissario-prefettizio">
+            COMMISSARIO STRAORDINARIO</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/LOGOGUIGLIA-2016.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p><span><span>Il Prefetto di Modena con proprio decreto prot. n.60909 del 14/09/2017 ha disposto la sospensione del Consiglio Comunale e la nomina del Dr. Valerio Zambelli quale Commissario Prefettizio del Comune di Guiglia che subentra nelle funzioni di Sindaco, Giunta e Consiglio Comunale con decorrenza dal 14/09/2017.</span></span></p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/220-commissario-prefettizio" title="Leggi tutto:  COMMISSARIO STRAORDINARIO">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-4 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/184-seasons-in-guiglia">
+            SEASONS IN GUIGLIA</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+<div class="article-intro">
+<p>		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><iframe src="https://www.youtube.com/embed/ggC8r7zvAF0" width="100%" height="245" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></div>
+		</div>
+	</p>
+<p>SCOPRI LA BELLEZZA DEL NOSTRO TERRITORIO! GUARDA IL VIDEO...</p></div>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/174-telecamere-contro-abbandono-rifiuti">
+            TELECAMERE CONTRO ABBANDONO RIFIUTI</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/galleria/VideoSorveglianza1.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p style="background:#FFFFFF;margin-top:0cm;margin-right:0cm;margin-bottom:4.5pt;"><span>TELECAMERE CONTRO ABBANDONO RIFIUTI<!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--></span></p>
+<p style="background:#FFFFFF;margin-top:4.5pt;margin-right:0cm;margin-bottom:4.5pt;word-spacing:0px;"><span>L'abbandono dei rifiuti è una forma di inciviltà che danneggia l'ambiente e causa degrado.L'Amministrazione Comunale di Guiglia è decisa a contrastare il fenomeno potenziando l'azione contro i comportamenti scorretti che deturpano in modo inaccettabile il territorio.</span></p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/174-telecamere-contro-abbandono-rifiuti" title="Leggi tutto:  TELECAMERE CONTRO ABBANDONO RIFIUTI">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-5 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/139-sia-sostegno-per-l-inclusione-attiva">
+            SIA - SOSTEGNO PER L'INCLUSIONE ATTIVA</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/documenti/UTC_1.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p class="Default" style="text-align:justify;"><span>Il Sostegno per l’Inclusione Attiva (SIA) è una misura statale di contrasto alla povertà che prevede <strong>l'erogazione di un sussidio economico </strong>alle famiglie in condizioni economiche disagiate, nelle quali siano presenti persone minorenni, figli disabili o una donna in stato di gravidanza accertata; il sussidio è <strong>subordinato all'adesione ad un progetto personalizzato di attivazione sociale e lavorativa</strong>. </span></p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/139-sia-sostegno-per-l-inclusione-attiva" title="Leggi tutto:  SIA - SOSTEGNO PER L'INCLUSIONE ATTIVA">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/69-manutenzione-annuale-dei-fossi-irrigui-e-di-scolo-delle-acque">
+            MANUTENZIONE ANNUALE DEI FOSSI IRRIGUI E DI SCOLO DELLE ACQUE</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/news/consorzio bonifica burana.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p style="text-align:justify;">Divulgato invito alla manutenzione annuale dei fossi irrigui e di scolo delle acque da parte del Corsorzio di Bonifica Burana</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/69-manutenzione-annuale-dei-fossi-irrigui-e-di-scolo-delle-acque" title="Leggi tutto:  MANUTENZIONE ANNUALE DEI FOSSI IRRIGUI E DI SCOLO DELLE ACQUE">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-6 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/54-avviso-pubblico-volontari-civici">
+            AVVISO PUBBLICO - VOLONTARI CIVICI</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/news/albovolontari.jpg" alt=""/>
+    </div>
+<div class="article-intro">
+<p style="text-align:justify;">Il Comune di Guiglia intende offrire ai Cittadini la possibilità di prestare volontariamente la propria opera in attività utili alla collettivià</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/54-avviso-pubblico-volontari-civici" title="Leggi tutto:  AVVISO PUBBLICO - VOLONTARI CIVICI">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					  >
+					    <h3 class="item-title">
+                    <a href="/index.php/123-coimepa-servizi-ha-un-fiore-per-te">
+            COIMEPA SERVIZI HA UN FIORE PER TE</a>
+            </h3>
+
+
+
+		
+
+
+
+
+
+
+        <div class="img-intro-left">
+    <img
+                src="/images/news/coimepa.jpg" alt="coimepa"/>
+    </div>
+<div class="article-intro">
+<p>10 fiori per i 10 anni di COIMEPA SERVIZI</p>
+</div>
+        <p class="readmore">
+                <a href="/index.php/123-coimepa-servizi-ha-un-fiore-per-te" title="Leggi tutto:  COIMEPA SERVIZI HA UN FIORE PER TE">
+                    Leggi tutto...</a>
+        </p>
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+						
+			<div class="items-more">
+			
+<ol class="nav nav-tabs nav-stacked">
+			<li>
+			<a href="/index.php/122-progetto-mi-illumino-meglio">
+				PROGETTO "MI ILLUMINO MEGLIO"</a>
+		</li>
+			<li>
+			<a href="/index.php/121-imu-tasi-tari">
+				IMU-TASI-TARI </a>
+		</li>
+			<li>
+			<a href="/index.php/120-testamento-biologico">
+				TESTAMENTO BIOLOGICO</a>
+		</li>
+			<li>
+			<a href="/index.php/119-basta-file-agli-sportelli-per-fare-pagamenti">
+				BASTA FILE AGLI SPORTELLI PER FARE PAGAMENTI</a>
+		</li>
+			<li>
+			<a href="/index.php/118-adesione-proposta-di-legge-legambiente-sulla-bellezza">
+				ADESIONE PROPOSTA DI LEGGE LEGAMBIENTE SULLA BELLEZZA</a>
+		</li>
+			<li>
+			<a href="/index.php/117-cambio-di-residenza-in-tempo-reale">
+				CAMBIO DI RESIDENZA IN TEMPO REALE</a>
+		</li>
+			<li>
+			<a href="/index.php/116-gruppo-comunale-di-protezione-civile">
+				GRUPPO COMUNALE DI PROTEZIONE CIVILE</a>
+		</li>
+	</ol>
+		</div>
+	
+		</div>
+
+                                            </div>
+        </div>
+                        <div role="complementary">
+                                <div id="sidebar-right">
+                <div class="padding">
+                    		<div class="moduletable">
+					<div class="module-title">"Storie...di Guiglia"</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p>Guarda il video. Per una migliore visione, attiva la modalit&agrave; a schermo intero...</p>
+<p><iframe src="https://www.youtube.com/embed/R6ieB95k1xs?ecver=1" width="300" height="180" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="module-content">
+					<div class="nspMain autoanim hover " id="nsp-nsp-99" data-config="{
+				'animation_speed': 1000,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 1,
+				'links_columns_amount': 0,
+				'links_amount': 0
+			}">		
+				
+					<div class="nspArts right" style="width:100%;">
+								<div class="nspTopInterface">
+										<ul class="nspPagination">
+												<li>1</li>
+												<li>2</li>
+												<li>3</li>
+											</ul>
+										
+										<span class="nspPrev">Prev</span>
+					<span class="nspNext">Next</span>
+									</div>
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages7">
+																	<div class="nspArtPage active nspCol7">
+																				<div class="nspArt nspCol1" style="padding:0 10px 10px 0;">
+								<h4 class="nspHeader tleft fnull has-image"><a href="/index.php/news/70-per-difenderti-segui-i-nostri-consigli"  title="Per difenderti segui i nostri consigli" target="_blank">Per difenderti segui i nostri consigli</a></h4><a href="/index.php/news/70-per-difenderti-segui-i-nostri-consigli" class="nspImageWrapper tleft fleft gkResponsive"  style="margin:0 10px 0 0;" target="_blank"><img  class="nspImage" src="/images/news/truffa.png" alt=""  /></a><p class="nspInfo nspInfo1 tleft fnull">15-03-2016 Hits:778 <a href="/index.php/news" target="_blank">News</a></p><p class="nspText tjustify fnull">Per difenderti da furti e truffe, segui i nostri consigli.Spesso&nbsp; le&nbsp; cronache&nbsp; riportano&nbsp; episodi&nbsp; di&nbsp; criminali&nbsp; che approfittano della&nbsp; buona&nbsp; fede dei cittadini:
+</p><a class="readon fright" href="/index.php/news/70-per-difenderti-segui-i-nostri-consigli" target="_blank">Leggi tutto</a>							</div>
+												</div>
+						<div class="nspArtPage nspCol7">
+																															<div class="nspArt nspCol1" style="padding:0 10px 10px 0;">
+								<h4 class="nspHeader tleft fnull has-image"><a href="/index.php/news/68-progetto-riciclandino"  title="Progetto Riciclandino" target="_blank">Progetto Riciclandino</a></h4><a href="/index.php/news/68-progetto-riciclandino" class="nspImageWrapper tleft fleft gkResponsive"  style="margin:0 10px 0 0;" target="_blank"><img  class="nspImage" src="/images/news/riciclandino.jpg" alt=""  /></a><p class="nspInfo nspInfo1 tleft fnull">09-03-2016 Hits:676 <a href="/index.php/news" target="_blank">News</a></p><p class="nspText tjustify fnull">"E' stato avviato il progetto "Riciclandino", promosso da Hera spa in collaborazione col Comune di Guiglia, che tramite conferimenti con tessere speciali all'Isola Ecologica comunale, permetter&agrave; la raccolta di incentivi economici per l'Istituto Scolastico Comprensivo di Guiglia"
+</p><a class="readon fright" href="/index.php/news/68-progetto-riciclandino" target="_blank">Leggi tutto</a>							</div>
+												</div>
+						<div class="nspArtPage nspCol7">
+																															<div class="nspArt nspCol1" style="padding:0 10px 10px 0;">
+								<h4 class="nspHeader tleft fnull has-image"><a href="/index.php/news/60-donazione-organi-e-tessuti"  title="Donazione organi e tessuti" target="_blank">Donazione organi e tessuti</a></h4><a href="/index.php/news/60-donazione-organi-e-tessuti" class="nspImageWrapper tleft fleft gkResponsive"  style="margin:0 10px 0 0;" target="_blank"><img  class="nspImage" src="/images/news/GIROTONDO.JPG" alt=""  /></a><p class="nspInfo nspInfo1 tleft fnull">10-02-2016 Hits:684 <a href="/index.php/news" target="_blank">News</a></p><p class="nspText tjustify fnull">ANCHE NEL NOSTRO COMUNE DAL 15 FEBBRAIO 2016 E' POSSIBILE DICHIARARE LA PROPRIA VOLONTA' AL MOMENTO DEL RINNOVO DELLA CARTA D'IDENTITA'
+</p><a class="readon fright" href="/index.php/news/60-donazione-organi-e-tessuti" target="_blank">Leggi tutto</a>							</div>
+												</div>
+																</div>
+				</div>
+			</div>
+						
+			</div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="module-title">ACCORDO TERRITORIALE - AFFITTI AGEVOLATI</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><a href="/index.php/accordo-territoriale-affitti-agevolati" target="_blank"><img src="/images/servizi_cittadino/Accordo_Territoriale/immaginecasaAccordo2.jpg" alt="immaginecasaAccordo2" style="margin-right: auto; margin-left: auto; display: block;" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="module-title">Orari Apertura Uffici</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<p><a href="/images/servizi_cittadino/OrarioUffComunaliNovembre2016.pdf" target="_blank"><img src="/images/orario_uffici.jpg" alt="orario uffici" style="display: block; margin-left: auto; margin-right: auto;" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="module-title">Contatta il Comune</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<h3><img src="/images/icone/telefono.png" alt="Telefono" width="30" height="23" style="margin: 0px 10px;" /><strong>059/709911</strong></h3>
+<h3><span><strong><img src="/images/icone/fax.png" alt="Fax" width="30" height="38" style="margin-right: 10px; margin-left: 10px; vertical-align: middle;" /></strong></span><strong>059/709910</strong></h3>
+<h3><span><strong><img src="/images/icone/mail.png" alt="Invia un messaggio" width="30" height="31" style="vertical-align: middle; margin-right: 10px; margin-left: 10px;" /></strong></span><a href="/index.php/contatta-il-comune" target="_blank">SCRIVICI</a></h3>
+<p>&nbsp;</p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="module-title">Rilfedeur - invia una segnalazione</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><br /><a href="https://rilfedeur.provincia.modena.it/rilfedeurWeb/client/castelli.html?idEnte=1" target="_blank" title="Rilfedeur - invia una segnalazione" class="external-link"><img src="/images/icone/rilfedeur.png" alt="rilfedeur" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;</p></div>
+			</div>
+		</div>
+			<div class="moduletable">
+					<div class="module-title">Link Utili</div>
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-203 level-0"><a role="menuitem"  href="http://www.terredicastelli.mo.it/" target="_blank"  class="external-link">Unione Terre di Castelli</a></li><li  class="item-204 level-0"><a role="menuitem"  href="http://www.ausl.mo.it/flex/FixedPages/IT/CartaDeiServizi.php/L/IT/LUOGO/URP2874" target="_blank"  class="external-link">Servizio Sanitario Regionale</a></li><li  class="item-205 level-0"><a role="menuitem"  href="http://www.aspvignola.mo.it/" target="_blank"  class="external-link">ASP Vignola</a></li><li  class="item-206 level-0"><a role="menuitem"  href="http://www.azzurro.it/" target="_blank"  class="external-link">Telefono Azzurro</a></li><li  class="item-207 level-0"><a role="menuitem"  href="http://www.coimepaservizi.com/" target="_blank"  class="external-link">Coimepa Servizi</a></li><li  class="item-208 level-0"><a role="menuitem"  href="http://www.entar.it" target="_blank"  class="external-link">Entar</a></li><li  class="item-209 level-0"><a role="menuitem"  href="http://www.bancopopolare.it/banca-popolare-di-verona/" target="_blank"  class="external-link">Banca Popolare di Verona</a></li><li  class="item-255 level-0"><a role="menuitem"  href="http://www.consorzioburana.it/" target="_blank"  class="external-link">Consorzio della Bonifica Burana</a></li></ul>
+</div>
+			</div>
+		</div>
+	
+                                        
+                                    </div>
+            </div>
+                    </div>                        <div id="footer">
+            <div class="padding">
+                                		<div class="moduletable">
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<h4 style="text-align: center;"><strong><a href="/index.php/uffici/63-settore-servizi-demografici-anagrafe-stato-civile-servizio-elettorale-urp-statistica-servizi-cimiteriali-e-tributi-servizio-gestione-tarsu">URP</a>&nbsp;- <a href="http://www.albo.comune.guiglia.mo.it/" target="_blank" class="external-link">Albo Pretorio</a> -&nbsp;<a href="/index.php/amministrazione-trasparente" rel="author">Amministrazione Trasparente</a> - <a href="/index.php/uffici">Uffici</a> - <a href="/index.php/2-non-categorizzato/114-come-fare-per">Come fare per</a> - <a href="/index.php/servizi-al-cittadino">Rete dei Servizi</a> - <a href="/index.php/2-non-categorizzato/62-privacy">Privacy</a> - <a href="/index.php/2-non-categorizzato/63-note-legali">Note Legali</a><br /></strong></h4>
+<p style="text-align: right;"><strong>________________________________________<br />Comune di Guiglia - Provincia di Modena<br /></strong>Piazza Gramsci, 1 - 41052 Guiglia (MO) - Centralino 059/709911 - Fax 059/709910<br />Codice Fiscale e Partita I.V.A. 00641440367 - Email: guiglia@comune.guiglia.mo.it - PEC: comuneguiglia@cert.comune.guiglia.mo.it<span class="wf_file_text"></span></p>
+<p style="text-align: left;">Realizzato da: <a href="http://www.centromultimediale.net" class="wf_file external-link"><span class="wf_file_text">Centro Multimediale snc</span></a></p></div>
+			</div>
+		</div>
+	
+                            </div>
+
+        </div>
+                <a href="#" class="scroll-to-top button" style="display:none">Torna su&nbsp;<em class="icon-uparrow"></em></a>
+                    </div>
+    
+<!--googleoff: all--><div class="cadre_alert_cookies" id="cadre_alert_cookies" style="opacity:0.9;text-align:left;position:fixed;z-index:10000;left: 0;right: 0;bottom: 0; margin:0px;"><div class="cadre_inner_alert_cookies" style="display: inline-block;width: 100%;margin:auto;max-width:100%;background-color: #666666;border: 0px solid #eeeeee;"><div class="cadre_inner_texte_alert_cookies" style="display: inline-block;padding:10px;color: #ffffff"><div class="cadre_texte "><p>Questo sito utilizza cookie tecnici e di terze parti per migliorare l'esperienza di navigazione dell'utente. Proseguendo la navigazione del sito acconsenti all'uso dei cookie. Questo sito NON utilizza alcun cookie di profilazione.Per maggiori informazioni leggi l'informativa estesa sull'uso dei cookie dove sono specificate le modalit&agrave; per configurare o disattivare i cookie.</p></div><div class="cadre_bouton "><div class=" col-md-6 col-sm-6 btn_readmore" style="margin:0;text-align:center"><a style="color:#eeeeee" class="btn btn-inverse  read_more" href="/index.php/informativa-cookies">Maggiori Informazioni</a></div><div class=" col-md-6 col-sm-6 btn_close" style="margin:0;text-align:center"><button onclick="CloseCadreAlertCookie();" style="color:#eeeeee" class="btn btn-warning  popup-modal-dismiss">Ok, accetto</button></div></div></div></div></div><!--googleon: all--><script type="text/javascript">/*<![CDATA[*/var name = "fmalertcookies" + "=";var ca = document.cookie.split(";");var acceptCookie = false;for(var i=0; i<ca.length; i++) {var c = ca[i];while (c.charAt(0)==" ") c = c.substring(1);if (c.indexOf(name) == 0){ acceptCookie = true; document.getElementById("cadre_alert_cookies").style.display="none";}}var d = new Date();d.setTime(d.getTime() + (120*(24*60*60*1000)));var expires_cookie = "expires="+d.toUTCString();function CloseCadreAlertCookie(){document.getElementById('cadre_alert_cookies').style.display='none'; document.cookie='fmalertcookies=true; '+expires_cookie+'; path=/';}/*]]>*/</script></body>
+</html>

@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+	<metadata>
+		<titolo>Pubblicazione 1 legge 190</titolo>
+		<abstract> Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+		<dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+		<entePubblicatore>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.ospedale.caserta.it/amministrazionetrasparenza/2015/avcp.xml</urlFile>
+		<licenza>IODL 2.0</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>0532076AFE</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Conduzione, gestione e manutenzione impianti termici e antincendio</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08786190150</codiceFiscale>
+					<ragioneSociale>SIRAM SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00961961000</codiceFiscale>
+					<ragioneSociale>COMBUSTIBILI NUOVA PRENESTINA SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00272580630</codiceFiscale>
+					<ragioneSociale>ATI GRADED SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00295800635</codiceFiscale>
+					<ragioneSociale>SIEME SRL (00295800635)</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06959250637</codiceFiscale>
+					<ragioneSociale>EUROTERM SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02402671206</codiceFiscale>
+					<ragioneSociale>MANUTENCOOP FACILITY MANAGEMENT SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02645101219</codiceFiscale>
+					<ragioneSociale>SCOGLIO SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>07149930583</codiceFiscale>
+					<ragioneSociale>COFELY ITALIA SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00961961000</codiceFiscale>
+					<ragioneSociale>COMBUSTIBILI NUOVA PRENESTINA SRL </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4985000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-31</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0269056009</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Conduzione, gestione e manutenzione impianti termici e antincendio</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00272580630</codiceFiscale>
+					<ragioneSociale>ATI GRADED SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00295800635</codiceFiscale>
+					<ragioneSociale>SIEME SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04359700632</codiceFiscale>
+					<ragioneSociale>ATI ELLEMME IMPIANTI SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01061581003</codiceFiscale>
+					<ragioneSociale>ITEON SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00961961000</codiceFiscale>
+					<ragioneSociale>COMBUSTIBILI NUOVA PRENESTINA SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02645101219</codiceFiscale>
+					<ragioneSociale>SCOGLIO SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03609840370</codiceFiscale>
+					<ragioneSociale>CONSORZIO NAZIONALE SERVIZI SOCIETA' COPERATIVA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>07777350633</codiceFiscale>
+					<ragioneSociale>ADIRAMEF SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01698911003</codiceFiscale>
+					<ragioneSociale>ATI COFATHEC SERVIZI SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03855160721</codiceFiscale>
+					<ragioneSociale>ATI INTENSIS SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03708350651</codiceFiscale>
+					<ragioneSociale>DERVIT SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>05237211213</codiceFiscale>
+					<ragioneSociale>ATI DELTA IMPIANTI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01766070047</codiceFiscale>
+					<ragioneSociale>ITEM SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>05093381217</codiceFiscale>
+					<ragioneSociale>TEA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00961961000</codiceFiscale>
+					<ragioneSociale>COMBUSTIBILI NUOVA PRENESTINA SRL </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3379391.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-10-06</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>411890E05D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura gas medicali, produzione aria, gestione e manutenz. Imp. Distrubuz. Gas</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>12906300152</codiceFiscale>
+					<ragioneSociale>AIR LIQUIDE SANITA' SERVICE SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>12906300152</codiceFiscale>
+					<ragioneSociale>AIR LIQUIDE SANITA' SERVICE SPA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>7872375.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-05-31</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>03324434A3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Ristrutturazione A.O. ex art. 20, Legge 67/88</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06116421212</codiceFiscale>
+					<ragioneSociale>CONSORZIO STABILE SOLEDIL SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06411250639</codiceFiscale>
+					<ragioneSociale>CO.GE.PA. COSTRUZIONI PASSARELLI SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03319210617</codiceFiscale>
+					<ragioneSociale>ATI FELICE BELARDO COSTRUZIONI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01956420614</codiceFiscale>
+					<ragioneSociale>BECA COSTRUZIONI SRL (00295800635)</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02722080617</codiceFiscale>
+					<ragioneSociale>MIT</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>07777350633</codiceFiscale>
+					<ragioneSociale>ADIRAMEF SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00601420607</codiceFiscale>
+					<ragioneSociale>ATI ZEPPIERI COSTRUZIONI</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00601420607</codiceFiscale>
+					<ragioneSociale>ATI ZEPPIERI COSTRUZIONI</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02467450587</codiceFiscale>
+					<ragioneSociale>ITEON SPA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>13106280.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura energia elettrica</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08526440154</codiceFiscale>
+					<ragioneSociale>EDISON ENERGIA SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08526440154</codiceFiscale>
+					<ragioneSociale>EDISON ENERGIA SPA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura energia elettrica</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI SPA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-12-31</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>3537598637</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Conduzione e gestione impianti elevatori</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02181000783</codiceFiscale>
+					<ragioneSociale>ATI FORMAN SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>07766950633</codiceFiscale>
+					<ragioneSociale>DI MADERO E FIGLIE SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00299810655</codiceFiscale>
+					<ragioneSociale>PARAVIA ELEVATORS SERVICE SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03986821001</codiceFiscale>
+					<ragioneSociale>MARROCCO ELEVATORS SRL (00295800635)</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04474391218</codiceFiscale>
+					<ragioneSociale>CONSORZIO DEL BO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>05391451217</codiceFiscale>
+					<ragioneSociale>KOME SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06306490639</codiceFiscale>
+					<ragioneSociale>ATI GRIEC.A.M SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06661380631</codiceFiscale>
+					<ragioneSociale>DEL VECCHIO SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02697710610</codiceFiscale>
+					<ragioneSociale>SAS SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05391451217</codiceFiscale>
+					<ragioneSociale>KOME SRL </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>374858.16 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>4868131CC6</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzioni degli immobili consistenti in lavori di tinteggiatura e lavorazioni affini</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01783530619</codiceFiscale>
+					<ragioneSociale>COSTRUZIONI PRISCO DI RIENZO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00167670611</codiceFiscale>
+					<ragioneSociale>CIOFFI SALVATORE</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>05328911218</codiceFiscale>
+					<ragioneSociale>AMBRODECOR SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03394740611</codiceFiscale>
+					<ragioneSociale>B.HOME SRL </ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01514701216</codiceFiscale>
+					<ragioneSociale>APRILIA COSTRUZIONI SRL </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00167670611</codiceFiscale>
+					<ragioneSociale>CIOFFI SALVATORE </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>450000.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>4869023CE0</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili di manutenzione ordinaria e straordinaria da eseguire sugli immobili e loro pertinenze dell'Azienda Ospedaliera     
+       degli immobili consistenti in lavori di tinteggiatura e lavorazioni affini</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03369480615</codiceFiscale>
+					<ragioneSociale>GIUSEPPE DE CRISTOFARO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06106751214</codiceFiscale>
+					<ragioneSociale>ODEIA SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01440770558</codiceFiscale>
+					<ragioneSociale> PERZI COSTRUZIONI DI STEFANO LUISA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02439790615</codiceFiscale>
+					<ragioneSociale>DECOR DI DAVIDE AMATO - IL TIGLIO S.C.A.R.L.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06106751214</codiceFiscale>
+					<ragioneSociale>ODEIA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>150000.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>46739498B9</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO DELLA FORNITURA DI ATTREZZATURE PER LE UU.OO. OCULISTICA E NEUROCHIRURGIA - ACQUISTO TOMOGRAFO A COERENZA OTTICA PER UOC OCULISTICA</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00721920155</codiceFiscale>
+					<ragioneSociale>CARL ZEISS S.P.A. </ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04918311210</codiceFiscale>
+					<ragioneSociale>ALFA INTES INDUSTRIA TERAPEUTICA SPENDORE</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00721920155</codiceFiscale>
+					<ragioneSociale>CARL ZEISS S.P.A. </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>62000.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-09-25</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>62000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>467395098C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO DELLA FORNITURA DI ATTREZZATURE PER LE UU.OO. OCULISTICA E NEUROCHIRURGIA - ACQUISTO SISTEMA VIDEO PER CHIRURGIA ENDOSCOPICA DA DESTINARE ALLA UO NEUROCHIRURGIA</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00674840152</codiceFiscale>
+					<ragioneSociale>B.BRAUN MILANO SPA </ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>11575580151</codiceFiscale>
+					<ragioneSociale>MOVI SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03015600657</codiceFiscale>
+					<ragioneSociale>MENDEL SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04526141215</codiceFiscale>
+					<ragioneSociale>TEC SUD SRL </ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06032681006</codiceFiscale>
+					<ragioneSociale>STRYKER S.R.L </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03015600657</codiceFiscale>
+					<ragioneSociale>MENDEL SRL </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>74019.40 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-10-16</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>74019.40</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>4824696915</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO SISTEMI PER CHIRURGIA MINI INVASIVA</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04761861212</codiceFiscale>
+					<ragioneSociale>VICAMED SRL </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04761861212</codiceFiscale>
+					<ragioneSociale>VICAMED SRL </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>690000.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-04-23</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>690000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>52373806B2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO DELLA FORNITURA DI ATTREZZATURE PER LE UU.OO. OCULISTICA E NEUROCHIRURGIA - ACQUISTO SISTEMA VIDEO PER CHIRURGIA ENDOSCOPICA DA DESTINARE ALLA UO NEUROCHIRURGIA</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06904340632</codiceFiscale>
+					<ragioneSociale>Noviello Intermed s.a.s </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06904340632</codiceFiscale>
+					<ragioneSociale>Noviello Intermed s.a.s </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>60000.00 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-09-18</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>60000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>5227857412</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO ACCESSORI A COMPLETAMENTO ATTREZZATURA PER PARTO IN ACQUA</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05025691212</codiceFiscale>
+					<ragioneSociale>GM MEDICA SRL </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05025691212</codiceFiscale>
+					<ragioneSociale>GM MEDICA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10595.35 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-16</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10595.35</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>52270634D7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02201130610</codiceFiscaleProp>
+				<denominazione>Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano</denominazione>
+			</strutturaProponente>
+			<oggetto>AGGIORNAMENTO TECNOLOGICO SISTEMA TELEMETRICO MARCA GE IN DOTAZIONE ALLA UOC CARDIOCHIRURGIA</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06713240635</codiceFiscale>
+					<ragioneSociale>MEDISOL SAS </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06713240635</codiceFiscale>
+					<ragioneSociale>MEDISOL SAS</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>27603.65 </importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-11-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>27603.65</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

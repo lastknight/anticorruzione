@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione del file XML previsto dalla L. 190/2012</titolo>
+    <abstract>Periodo do riferimento dal 01/01/2014 al 31/12/2014</abstract>
+    <dataPubblicazioneIndice>2015-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE - "3 POLO" - GALLIPOLI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>c:\/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>c:\/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>c:\/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2012">
+      <linkDataset>c:\/gare2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

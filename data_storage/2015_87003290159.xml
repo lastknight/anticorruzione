@@ -1,0 +1,885 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="imagetoolbar" content="no" >
+<meta name="Pragma" content="no-cache" >
+<meta name="robots" content="index, follow">
+<meta name="description" content="Sito Ufficiale di Arcore.">
+<meta name="keywords" content="Arcore, comune, pubblicazioni, news, notizie, bandi, gare, manifestazioni, iniziative, associazioni, servizi, utilità, scuole, farmacie, sport, delibere, determine, ordinanze">
+<meta name="owner" content="Comune di Arcore">
+<meta name="author" content="Si.Net Servizi Informatici - www.sinetinformatica.it">
+<meta name="RATING" content="General">
+<meta name="REVISIT-AFTER" content="5 days">
+<meta name="language" content="italian it">
+
+<title>Comune di Arcore | Sito Ufficiale</title>
+
+<script type="text/javascript" src="/Script/funzioni.js"></script>
+<script type="text/javascript" src="/Script/F_Data.js"></script>
+<script type="text/javascript" src="/Script/Usabilita.js"></script>
+<script type="text/javascript" src="/Script/jquery-1.2.3.js"></script>
+<script type="text/javascript" src="/Script/AC_RunActiveContent.js"></script>
+<script type="text/javascript">
+    function Go_Archivio(foo)	
+    {this.window.location = foo	}
+</script>
+ 
+<script  type="text/javascript">
+function Funzioni_onLoad() {}
+
+function Funzioni_onUnload(){}
+</script>
+
+<link rel="icon" href="/Interfaccia/ARC/favicon.ico" type="image/gif" >
+<link media="screen" href="/interfaccia/ARC/Stili/presentational.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" id="style" href="/Interfaccia/ARC/Stili/Stili.css" title="Stile predefinito"  media="screen">
+<!--link rel="alternative stylesheet" type="text/css" title="Stile dedicato alla stampa" href="/css/Stile_Stampa.css" media="print"-->
+<!--[if IE]><link rel="stylesheet" type="text/css"      href="/Interfaccia/ARC/Stili/alliefix.css" title="Stile fix per Internet Explorer" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/Interfaccia/ARC/Stili/iefix.css" title="Stile fix per Internet inferiore explorer 7" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css"    href="/Interfaccia/ARC/Stili/ie5fix.css" title="Stile fix per Internet inferiore explorer 7" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css"    href="/Interfaccia/ARC/Stili/ie7fix.css" title="Stile fix per Internet explorer 7" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css"    href="/Interfaccia/ARC/Stili/ie6fix.css" title="Stile fix per Internet explorer 6" /><![endif]-->
+
+<!-- RSS AUTODISCOVER -->
+<link rel="alternate" type="application/rss+xml" title="News dal sito del comune di Arcore" href="http://comune.arcore.mb.it/rss/rss.asp">
+<!-- RSS AUTODISCOVER -->
+
+</head>
+<body onLoad="Funzioni_onLoad();" onUnload="Funzioni_onUnload();">
+<script src="/Script/cookiechoices.js" type="text/javascript"></script>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Questo sito utilizza dei cookie tecnici e di terze parti. Continuando con la navigazione l\'utente accetta il loro utilizzo. Per maggiori informazioni e conoscere come disabilitarne l\'uso, consulta l\'informativa estesa. ', 'Ok', 'Ulteriori informazioni', '/Articoli/Pubblicazioni-Obbligatorie/301-Informativa-Cookie.asp');
+  });
+</script>
+<div id="background2">
+    <div id="background2dx">
+        <div id="background1">
+            <div id="background1dx">
+                <div id="container">
+					<div class="Menu_di_Navigazione_Nascosto fuori_browser">
+	<dl>
+		<dt><a id="MNN" Name="MNN"></a>Argomeni presenti in questo sito :</dt>
+			<dd><a href="#MNN-CorpoCentrale" title="Salta al contenuto principale della pagina">Salta il menu' di navigazione</a><span class="nodisplay">|</span></dd>
+			<dd><a href="#MNN-Ricerca" title="Ricerca di informazioni nel sito">Motore di ricerca</a><span class="nodisplay">|</span></dd>
+			
+				<dd><a href="#MNN-orgpol">Organi Politici</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-elez">Elezioni</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-serv">Servizi Comunali</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-inter">Sezione Interattiva</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-pub">Pubblicazioni Obbligatorie</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-notiz">Notiziario Comunale</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-online">Servizi OnLine</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-assoc">Associazioni</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-TERRI">Territorio</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-evid">In Evidenza</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-util">Utilità</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-ATN">Amministrazione Trasparente</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-PGTU">PGTU Piano Generale Traffico Urbano</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-LINK">Link Utili</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-NUM">Numeri Utili</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><a href="#MNN-QPA">Quotidiano PA</a><span class="nodisplay">|</span></dd>
+				
+				
+				<dd><hr class="fuori_browser"></dd>
+				<dd><a href="#MNN-PG">Photogallery</a><span class="nodisplay">|</span></dd>
+				<dd><a href="#MNN-ARCHPP">Archivio In Primo Piano</a><span class="nodisplay">|</span></dd>
+				<dd><a href="#MNN-ARCHIE">Archivio In Evidenza</a><span class="nodisplay">|</span></dd>
+				<dd><a href="#MNN-MENUG">Meù grafico</a><span class="nodisplay">|</span></dd>
+	</dl>
+<hr>
+</div>
+
+                    <div id="Sfondo_Centrale">
+                        <div id="header">
+                            <div id="headertop">
+                                <div class="sx"> &nbsp; </div>
+                                <div class="dx"> </div>
+	                      <div class="floatRemove"><h1 class="position_header">Comune di Arcore Largo V.Vela n.1 20862 Arcore (MB) - tel 039 60171 - fax 039 6017346 - C.F. 87003290159 P.IVA 00988560967 - PEC: <a href="mailto:comune.arcore@pec.regione.lombardia.it">comune.arcore@pec.regione.lombardia.it</a></h1></div>
+
+                                <h1 class="fuori_browser">Comune di Arcore - Sito ufficiale </h1>
+                            </div><!-- headertop -->
+
+                        </div> <!-- Header -->
+                   		<div id="search" class="floatRemove" >
+                            <div class="search_sx">
+                            	<span class="Path"> Stai navigando in : <span class="path"> &gt; </span> <a href="/default.asp"  title="Home Page">Home Page</a> </span>
+                            </div>
+                            <!-- Google CSE Search Box Begins  -->
+                            <div class="search_dx">
+                            
+<!-- Google CSE Search Box Begins  -->
+	<form action="http://comune.arcore.mb.it/search/search_site.asp" id="ricerca"name="ricerca"> 
+	<fieldset>
+	<legend>Tutto il sito</legend>		
+		<input type="hidden" name="cx" value="013051135779847962729:lmbxlxep8um">
+		<input type="hidden" name="cof" value="FORID:10">  
+		<label for="camposearch" class="txt_sinistra">Cerca nel sito </label> <input id="camposearch" class="campo_ricerca" type="text" name="q" size="20">
+		<input type="submit" name="sa" class="bottone_ricerca" value="">
+	</fieldset>
+	</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=it"></script>
+
+                            </div> <!--search_dx-->
+                        </div> <!--Sfondo_Centrale-->
+                    </div> <!--search-->
+                    <div id="wrapper">
+                        <div id="content">
+                            <div class="diecipx"></div>            
+
+<div class="elemento_centrale">
+	<h2>Pagina non Trovata</h2>
+	<div class="Contenitore_elenco_informazioni">
+		<BR>
+		Buongiorno, il sito &egrave; stato recentemente aggiornato, pertanto la pagina da lei cercata potrebbe non essere pi&ugrave; presente su questo sito o potrebbe essere stata sostituita con una nuova.
+        <BR><BR>
+        La preghiamo pertanto a verificare l&acute;indirizzo da lei inserito oppure a tornare in home page per cercare l&acute;informazione che desidera.
+        <BR><BR>
+        La ringraziamo per la visita e le auguriamo una buona navigazione sul sito del Comune di Comune di Arcore 
+		<hr>
+		<address>
+			<a href="http://comune.arcore.mb.it" title="Torna in home page" >http://comune.arcore.mb.it</a>
+		</address>
+	</div>
+</div>
+                        </div><!-- Content -->
+                    </div><!-- Wrapper -->
+                    <div id="navigation">
+                        <div class="diecipx"></div>
+                        
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-orgpol" name="MNN-orgpol" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=32" title="Espandi il menu Organi Politici" accesskey="">Organi Politici</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Organi-Politici/56-Sindaco.asp" title="Accedi alla Voce Sindaco">Sindaco</a></li>
+			
+				<li><a  href="/pubblicazioni/assessori/assessori_elenco.asp?ID_M=64" title="Accedi alla Voce Giunta Comunale">Giunta Comunale</a></li>
+			
+				<li><a  href="/pubblicazioni/consiglio/consiglio_elenco.asp?ID_M=65" title="Accedi alla Voce Consiglio Comunale">Consiglio Comunale</a></li>
+			
+				<li><a  href="/Articoli/Organi-Politici/225-Commissioni-Consiliari.asp" title="Accedi alla Voce Commissioni Consiliari">Commissioni Consiliari</a></li>
+			
+				<li><a  href="/Articoli/Organi-Politici/226-Linee-programmatiche.asp" title="Accedi alla Voce Linee programmatiche">Linee programmatiche</a></li>
+			
+				<li><a  href="/Articoli/Organi-Politici/247-Dichiarazione-sulla-situazione-reddituale-e-patrimoniale-degli-Amministratori.asp" title="Accedi alla Voce Dichiarazione sulla situazione reddituale e patrimoniale degli Amministratori">Dichiarazione sulla situazione reddituale e patrimoniale degli Amministratori</a></li>
+			
+				<li><a  href="/Articoli/Organi-Politici/310-Gemellaggi.asp" title="Accedi alla Voce Gemellaggi">Gemellaggi</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-elez" name="MNN-elez" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=31" title="Espandi il menu Elezioni" accesskey="">Elezioni</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Elezioni/80-Elezioni-On-Line.asp" title="Accedi alla Voce Elezioni On Line">Elezioni On Line</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-serv" name="MNN-serv" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=33" title="Espandi il menu Servizi Comunali" accesskey="">Servizi Comunali</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/pubblicazioni/uffici_sedi/uffici_elenco.asp?ID_M=63" title="Accedi alla Voce Uffici Comunali">Uffici Comunali</a></li>
+			
+					<li><a href="/pubblicazioni/uffici_sedi/uffici_Dettaglio.asp?Id=125&amp;ID_M=63" title="Link Esterno: Ufficio Relazioni con il Pubblico" class="internal">Ufficio Relazioni con il Pubblico</a></li>
+				
+				<li><a  href="/Articoli/Servizi-Comunali/100-Guida-ai-Servizi-Comunali.asp" title="Accedi alla Voce Guida ai Servizi Comunali">Guida ai Servizi Comunali</a></li>
+			
+				<li><a  href="/Articoli/Servizi-Comunali/229-Comitati-di-frazione.asp" title="Accedi alla Voce Comitati di frazione">Comitati di frazione</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-pub" name="MNN-pub" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=34" title="Espandi il menu Pubblicazioni Obbligatorie" accesskey="">Pubblicazioni Obbligatorie</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Pubblicazioni-Obbligatorie/303-Albo-Pretorio.asp" title="Accedi alla Voce Albo Pretorio">Albo Pretorio</a></li>
+			
+				<li><a  href="/Articoli/Pubblicazioni-Obbligatorie/216-Bandi-e-avvisi-di-gara.asp" title="Accedi alla Voce Bandi e avvisi di gara">Bandi e avvisi di gara</a></li>
+			
+				<li><a  href="/Articoli/Pubblicazioni-Obbligatorie/217-Esiti-di-gara.asp" title="Accedi alla Voce Esiti di gara">Esiti di gara</a></li>
+			
+				<li><a  href="/Articoli/Pubblicazioni-Obbligatorie/239-Note-legali.asp" title="Accedi alla Voce Note legali">Note legali</a></li>
+			
+				<li><a  href="/Articoli/Pubblicazioni-Obbligatorie/240-Privacy.asp" title="Accedi alla Voce Privacy">Privacy</a></li>
+			
+				<li><a  href="/Articoli/Pubblicazioni-Obbligatorie/301-Informativa-Cookie.asp" title="Accedi alla Voce Informativa Cookie">Informativa Cookie</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-online" name="MNN-online" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=35" title="Espandi il menu Servizi OnLine" accesskey="">Servizi OnLine</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Servizi-OnLine/307-PORTALE-ON-LINE.asp" title="Accedi alla Voce PORTALE ON-LINE">PORTALE ON-LINE</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/280-Tributi-On-line.asp" title="Accedi alla Voce Tributi On-line">Tributi On-line</a></li>
+			
+					<li><a href="https://www.schoolesuite.it/default1/NSC_Login.aspx?installation_code=arcorecir" title="Link Esterno: School Card" class="internal">School Card</a></li>
+				
+				<li><a  href="/Articoli/Servizi-OnLine/189-Modulistica.asp" title="Accedi alla Voce Modulistica">Modulistica</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/60-Statuto-Comunale.asp" title="Accedi alla Voce Statuto Comunale">Statuto Comunale</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/59-Regolamenti-Comunali.asp" title="Accedi alla Voce Regolamenti Comunali">Regolamenti Comunali</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/102-Anagrafe-On-Line.asp" title="Accedi alla Voce Anagrafe On-Line">Anagrafe On-Line</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/238-Dati-fruibili-da-altre-amministrazioni.asp" title="Accedi alla Voce Dati fruibili da altre amministrazioni">Dati fruibili da altre amministrazioni</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/52-Autocertificazione.asp" title="Accedi alla Voce Autocertificazione">Autocertificazione</a></li>
+			
+				<li><a  href="/Articoli/Servizi-OnLine/234-Polizia-Locale---Infopoint.asp" title="Accedi alla Voce Polizia Locale - Infopoint">Polizia Locale - Infopoint</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-TERRI" name="MNN-TERRI" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=5" title="Espandi il menu Territorio" accesskey="">Territorio</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Territorio/18-Storia-della-citt-.asp" title="Accedi alla Voce Storia della città">Storia della città</a></li>
+			
+				<li><a  href="/Articoli/Territorio/19-Geologia-del-territorio.asp" title="Accedi alla Voce Geologia del territorio">Geologia del territorio</a></li>
+			
+				<li><a  href="/Articoli/Territorio/20-Ville-ed-opere-d--8217-arte.asp" title="Accedi alla Voce Ville ed opere d&#8217;arte">Ville ed opere d&#8217;arte</a></li>
+			
+				<li><a  href="/Articoli/Territorio/222-La-Cintura-Verde-e-i-parchi.asp" title="Accedi alla Voce La Cintura Verde e i parchi">La Cintura Verde e i parchi</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<ul class="Modulo_Banner">
+			<li class="txt_sinistra">
+				<div class="cornice_alta">
+					<div  class="angoloSX_alto"></div>
+				</div>	
+				
+						<a id="MNN-LineaA" name="MNN-LineaA" href="http://www.lineaamica.gov.it/" title="Accedi alla Voce Linea Amica"><img src="/Allegati/Banner/219_Banner_LineaAmica.jpg" alt="Linea Amica" ></a>
+					
+				<div class="cornice_bassa">
+					<div class="angoloSX_basso"></div>
+				</div>	
+			</li>
+		</ul>
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-ATN" name="MNN-ATN" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=91" title="Espandi il menu Amministrazione Trasparente" accesskey="">Amministrazione Trasparente</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Amministrazione-Trasparente/254-Disposizioni-generali.asp" title="Accedi alla Voce Disposizioni generali">Disposizioni generali</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/255-Organizzazione.asp" title="Accedi alla Voce Organizzazione">Organizzazione</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/256-Consulenti-e-collaboratori.asp" title="Accedi alla Voce Consulenti e collaboratori">Consulenti e collaboratori</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/257-Personale.asp" title="Accedi alla Voce Personale">Personale</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/258-Bandi-di-concorso.asp" title="Accedi alla Voce Bandi di concorso">Bandi di concorso</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/259-Performance.asp" title="Accedi alla Voce Performance">Performance</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/260-Enti-controllati.asp" title="Accedi alla Voce Enti controllati">Enti controllati</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/261-Attivit--e-procedimenti.asp" title="Accedi alla Voce Attività e procedimenti">Attività e procedimenti</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/262-Provvedimenti.asp" title="Accedi alla Voce Provvedimenti">Provvedimenti</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/263-Controlli-sulle-imprese.asp" title="Accedi alla Voce Controlli sulle imprese">Controlli sulle imprese</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/264-Bandi-di-gara-e-contratti.asp" title="Accedi alla Voce Bandi di gara e contratti">Bandi di gara e contratti</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/265-Sovvenzioni--contributi--sussidi--vantaggi-economici.asp" title="Accedi alla Voce Sovvenzioni, contributi, sussidi, vantaggi economici">Sovvenzioni, contributi, sussidi, vantaggi economici</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/266-Bilanci.asp" title="Accedi alla Voce Bilanci">Bilanci</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/267-Beni-immobili-e-gestione-patrimonio.asp" title="Accedi alla Voce Beni immobili e gestione patrimonio">Beni immobili e gestione patrimonio</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/268-Controlli-e-rilievi-sull-amministrazione.asp" title="Accedi alla Voce Controlli e rilievi sull'amministrazione">Controlli e rilievi sull'amministrazione</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/269-Servizi-erogati.asp" title="Accedi alla Voce Servizi erogati">Servizi erogati</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/270-Pagamenti-dell-amministrazione.asp" title="Accedi alla Voce Pagamenti dell'amministrazione">Pagamenti dell'amministrazione</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/271-Opere-pubbliche.asp" title="Accedi alla Voce Opere pubbliche">Opere pubbliche</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/272-Pianificazione-e-governo-del-territorio.asp" title="Accedi alla Voce Pianificazione e governo del territorio">Pianificazione e governo del territorio</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/273-Informazioni-ambientali.asp" title="Accedi alla Voce Informazioni ambientali">Informazioni ambientali</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/274-Strutture-sanitarie-private-accreditate.asp" title="Accedi alla Voce Strutture sanitarie private accreditate">Strutture sanitarie private accreditate</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/275-Interventi-straordinari-e-di-emergenza.asp" title="Accedi alla Voce Interventi straordinari e di emergenza">Interventi straordinari e di emergenza</a></li>
+			
+				<li><a  href="/Articoli/Amministrazione-Trasparente/276-Altri-contenuti.asp" title="Accedi alla Voce Altri contenuti">Altri contenuti</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+		<ul class="Modulo_Banner">
+			<li class="txt_sinistra">
+				<div class="cornice_alta">
+					<div  class="angoloSX_alto"></div>
+				</div>	
+				
+						<a id="MNN-AVVISO" name="MNN-AVVISO" href="http://www.avvisopubblico.it" title="Accedi alla Voce AVVISO PUBBLICO"><img src="/Allegati/Banner/295_AVVPUBB.jpg" alt="AVVISO PUBBLICO" ></a>
+					
+				<div class="cornice_bassa">
+					<div class="angoloSX_basso"></div>
+				</div>	
+			</li>
+		</ul>
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-QPA" name="MNN-QPA" href="http://www.ilquotidianodellapa.it/" title="Quotidiano PA" accesskey="">Quotidiano PA</a>
+								
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Quotidiano-PA/305-Il-Quotidiano-della-PA.asp" title="Accedi alla Voce Il Quotidiano della PA">Il Quotidiano della PA</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+	
+                        <div class="floatRemove"></div>
+                    </div><!-- Navigation -->
+                    <div id="extra">
+                                                                <div class="diecipx"></div>
+           <div class="calendario">
+                	<div class="campotitolomenu"><div class="campotitolomenutesto" style="color:#000000;">Eventi in Citta'</div></div>
+            		<div id="calendario" class="calendario_sfondo">
+					
+	<span class="fuori_browser"><a href="#MNN-Salta_Calendario" title="Ricerca di informazioni nel sito">Salta Calendario</a></span>
+<table class="Tabella_Calendario" cellspacing="0" cellpadding="0" title="Eventi in città " summary="Questa tabella descrive Eventi in città disponibili per il mese corrente. E' anche possibile consultare Eventi in citt&aacute; per i mesi precedenti e successivi.">
+	<caption id="calendario_titolo">
+			<span class="mese_prec"><a title="Vai a Novembre"  href="?D=01/11/2017&amp;Data=">&lt;</a>&nbsp;&nbsp;</span>
+			<span class="mese_attuale"><strong>Dicembre&nbsp;2017</strong></span>
+			<span class="mese_succ">&nbsp;&nbsp;<a  title="Vai a "  href="?D=01/01/2018&amp;Data=">&gt;</a></span>
+	</caption>
+    <thead>
+        <tr class="riga_calendario_colorata"><td colspan="7"></td></tr>
+        <tr>
+            <th id="calDayLun" abbr="luned&igrave;" scope="col" class="nome_giorno">Lu&nbsp;</th>
+            <th id="calDayMar" abbr="marted&igrave;" scope="col" class="nome_giorno">Ma&nbsp;</th>
+            <th id="calDayMer" abbr="mercoled&igrave;" scope="col" class="nome_giorno">Me&nbsp;</th>
+            <th id="calDayGio" abbr="gioved&igrave;" scope="col" class="nome_giorno">Gi&nbsp;</th>
+            <th id="calDayVen" abbr="venerd&igrave;" scope="col" class="nome_giorno">Ve&nbsp;</th>
+            <th id="calDaySab" abbr="sabato" scope="col" class="nome_giorno">Sa&nbsp;</th>
+            <th id="calDayDom" abbr="domenica" scope="col" class="nome_giorno">Do&nbsp;</th>
+        </tr>
+        <tr class="riga_calendario_colorata"><td colspan="7"></td></tr>
+    </thead>
+    
+     <tr class="sfondo_cal"><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" headers="calDayVen" align="center">1</td><td scope="row" headers="calDaySab" align="center">2</td><td scope="row" headers="calDayDom" align="center">3</td></tr> 
+     <tr class="sfondo_cal"><td scope="row" headers="calDayLun" align="center">4</td><td class="calendario_giorno_evidenziato" headers="calDayMar"  align="center" ><a class="evidenziato" title="Controlla gli eventi di questo giorno" href="/Pubblicazioni/Calendario/Calendario_dettaglio.asp?data=05/12/2017&amp;D=1/12/2017">5</a></td><td scope="row" headers="calDayMer" align="center">6</td><td scope="row" headers="calDayGio" align="center">7</td><td scope="row" headers="calDayVen" align="center">8</td><td scope="row" headers="calDaySab" align="center">9</td><td scope="row" headers="calDayDom" align="center">10</td></tr> 
+     <tr class="sfondo_cal"><td scope="row" headers="calDayLun" align="center">11</td><td scope="row" headers="calDayMar" align="center">12</td><td scope="row" headers="calDayMer" align="center">13</td><td scope="row" headers="calDayGio" align="center">14</td><td scope="row" headers="calDayVen" align="center">15</td><td scope="row" headers="calDaySab" align="center">16</td><td class="calendario_giorno_evidenziato" headers="calDayDom"  align="center" ><a class="evidenziato" title="Controlla gli eventi di questo giorno" href="/Pubblicazioni/Calendario/Calendario_dettaglio.asp?data=17/12/2017&amp;D=1/12/2017">17</a></td></tr> 
+     <tr class="sfondo_cal"><td scope="row" headers="calDayLun" align="center">18</td><td scope="row" headers="calDayMar" align="center">19</td><td scope="row" headers="calDayMer" align="center">20</td><td scope="row" headers="calDayGio" align="center">21</td><td scope="row" headers="calDayVen" align="center">22</td><td scope="row" headers="calDaySab" align="center">23</td><td scope="row" headers="calDayDom" align="center">24</td></tr> 
+     <tr class="sfondo_cal"><td scope="row" headers="calDayLun" align="center">25</td><td scope="row" headers="calDayMar" align="center">26</td><td scope="row" headers="calDayMer" align="center">27</td><td scope="row" headers="calDayGio" align="center">28</td><td scope="row" headers="calDayVen" align="center">29</td><td scope="row" headers="calDaySab" align="center">30</td><td scope="row" headers="calDayDom" align="center">31</td></tr> 
+     <tr class="sfondo_cal"><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td><td scope="row" >&nbsp;</td></tr>
+</table>
+<span class="fuori_browser"><a name="MNN-Salta_Calendario" href="#" title="Ricerca di informazioni nel sito">Elenco Menu</a></span>
+<!--<div class="chiusura_menu" ><p class="chiusura_menu" ></p></div>-->
+
+  					</div>
+            	</div>
+                <!-- FINE CALENDARIO -->
+
+                        <div class="diecipx"></div>
+                        
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+					<a href="http://www.riscotel.it/calcoloiuc2017/?comune=A376da " title="Accedi alla Voce IUC2017"><img src="/Allegati/Banner/309_calcoloiuc2017_banners_anutel.jpg" alt="IUC2017" ></a>
+				
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+					
+						<a href="/pubblicazioni/Informazioni_M/Informazioni_M_Elenco.asp?ID_M=296" title="Accedi alla Voce PROTEZIONE CIVILE"><img src="/Allegati/Banner/296_PROTCIV.JPG" alt="PROTEZIONE CIVILE" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-inter" name="MNN-inter" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=38" title="Espandi il menu Sezione Interattiva" accesskey="">Sezione Interattiva</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/pubblicazioni/scrivici/scrivici.asp?ID_M=117" title="Accedi alla Voce Scrivici">Scrivici</a></li>
+			
+				<li><a  href="/area_privata/Gateway.asp?ID_M=116" title="Accedi alla Voce Servizio SMS e Newsletter">Servizio SMS e Newsletter</a></li>
+			
+					<li><a  href="mailto:comune.arcore@pec.regione.lombardia.it" title="Link Esterno: Posta Elettronica Certificata" class="internal" >Posta Elettronica Certificata</a></li>
+				
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-notiz" name="MNN-notiz" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=40" title="Espandi il menu Notiziario Comunale" accesskey="">Notiziario Comunale</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/pubblicazioni/Giornale/Giornale_elenco.asp?ID_M=106" title="Accedi alla Voce Informatore Comunale">Informatore Comunale</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-assoc" name="MNN-assoc" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=41" title="Espandi il menu Associazioni" accesskey="">Associazioni</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Associazioni/230-Albo-delle-Associazioni-Riconosciute.asp" title="Accedi alla Voce Albo delle Associazioni Riconosciute">Albo delle Associazioni Riconosciute</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-evid" name="MNN-evid" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=44" title="Espandi il menu In Evidenza" accesskey="">In Evidenza</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/In-Evidenza/282-Facebook---pagina-cultura-e-lavoro---formazione-continua.asp" title="Accedi alla Voce Facebook - pagina cultura e lavoro - formazione continua">Facebook - pagina cultura e lavoro - formazione continua</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/241-Wi-fi-free.asp" title="Accedi alla Voce Wi-fi free">Wi-fi free</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/233-Doneda.asp" title="Accedi alla Voce Doneda">Doneda</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/232-Lavori-di-pubblica-utilit-.asp" title="Accedi alla Voce Lavori di pubblica utilità">Lavori di pubblica utilità</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/228-Fondo-Arcore-solidale.asp" title="Accedi alla Voce Fondo Arcore solidale">Fondo Arcore solidale</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/236-Codice-etico.asp" title="Accedi alla Voce Codice etico">Codice etico</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/237-Patto-di-integrit-.asp" title="Accedi alla Voce Patto di integrità">Patto di integrità</a></li>
+			
+				<li><a  href="/Articoli/In-Evidenza/281-Amianto.asp" title="Accedi alla Voce Amianto">Amianto</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+						<a href="http://www.comune.arcore.mb.it/Articoli/In-Evidenza/Fondo-Arcore-solidale/228-FONDO-ARCORE-SOLIDALE.asp" title="Accedi alla Voce fondosolidale"><img src="/Allegati/Banner/231_FAS.jpg" alt="fondosolidale" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-util" name="MNN-util" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=43" title="Espandi il menu Utilità" accesskey="">Utilità</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Utilit-/185-Trasporti-e-Turismo.asp" title="Accedi alla Voce Trasporti e Turismo">Trasporti e Turismo</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/112-Acqua-e-Gas.asp" title="Accedi alla Voce Acqua e Gas">Acqua e Gas</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/113-Salute.asp" title="Accedi alla Voce Salute">Salute</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/33-Lavoro.asp" title="Accedi alla Voce Lavoro">Lavoro</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/34-Raccolta-Differenziata.asp" title="Accedi alla Voce Raccolta Differenziata">Raccolta Differenziata</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/190-Giustizia---Tribunale.asp" title="Accedi alla Voce Giustizia - Tribunale">Giustizia - Tribunale</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/213-Catasto.asp" title="Accedi alla Voce Catasto">Catasto</a></li>
+			
+				<li><a  href="/Articoli/Utilit-/223-Cimitero.asp" title="Accedi alla Voce Cimitero">Cimitero</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+					<a href="http://www.comune.arcore.mb.it/pubblicazioni/Informazioni_M/Informazioni_M_Elenco.asp?ID_M=107" title="Accedi alla Voce PGT"><img src="/Allegati/Banner/289_PGT.jpg" alt="PGT" ></a>
+				
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+						<a href="http://sportellotelematico.comune.arcore.mb.it/Contatti" title="Accedi alla Voce SUE"><img src="/Allegati/Banner/299_STE.jpg" alt="SUE" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+					
+						<a href="/pubblicazioni/Informazioni_M/Informazioni_M_Elenco.asp?ID_M=297" title="Accedi alla Voce SUAP"><img src="/Allegati/Banner/297_SUAP.jpg" alt="SUAP" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+				
+						<a href="http://www.parcovallelambro.it/" title="Accedi alla Voce Parco Valle Lambro"><img src="/Allegati/Banner/300_PVL.jpg" alt="Parco Valle Lambro" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+					
+						<a href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=292" title="Accedi alla Voce PLIS COLLI BRIANTEI"><img src="/Allegati/Banner/292_PCB.jpg" alt="PLIS COLLI BRIANTEI" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+					
+						<a href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=288" title="Accedi alla Voce POLO CATASTALE"><img src="/Allegati/Banner/288_CATASTO.jpg" alt="POLO CATASTALE" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-PGTU" name="MNN-PGTU" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=93" title="Espandi il menu PGTU Piano Generale Traffico Urbano" accesskey="">PGTU Piano Generale Traffico Urbano</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/PGTU-Piano-Generale-Traffico-Urbano/284-PGTU-Piano-Generale-Traffico-Urbano.asp" title="Accedi alla Voce PGTU Piano Generale Traffico Urbano">PGTU Piano Generale Traffico Urbano</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-LINK" name="MNN-LINK" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=15" title="Espandi il menu Link Utili" accesskey="">Link Utili</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Link-Utili/51-Link-Utili.asp" title="Accedi alla Voce Link Utili">Link Utili</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+		<div class="menu">
+			<div class="campotitolomenu">
+				<div class="campotitolomenutesto">
+					
+						<a id="MNN-NUM" name="MNN-NUM" href="/Pubblicazioni/Espandi_Menu.asp?ID_Menu=14" title="Espandi il menu Numeri Utili" accesskey="">Numeri Utili</a>
+					
+				</div>
+			</div>
+		</div>
+		<ul class="Modulo_menu inUpanddown">
+		
+				<li><a  href="/Articoli/Numeri-Utili/62-Numeri-Utili.asp" title="Accedi alla Voce Numeri Utili">Numeri Utili</a></li>
+			
+		</ul>
+		  <hr class="fuori_browser">
+		  <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+		  <div class="chiusura_menu"> &nbsp; </div>
+
+           
+     
+			<ul class="Modulo_Banner">
+				<li class="txt_destra">
+					<div class="cornice_alta">
+						<div  class="angoloDX_alto"></div>
+					</div>	
+					
+						<a href="/pubblicazioni/Informazioni/Informazioni.asp?ID_M=109" title="Accedi alla Voce Adotta un Cane"><img src="/Allegati/Banner/109_CANE.jpg" alt="Adotta un Cane" ></a>
+					
+					<div class="cornice_bassa">
+						<div class="angoloDX_basso"></div>
+					</div>	
+				</li>
+			</ul>
+	
+<!-- include virtual="/elementi_di_Layout/Menu_Personificazione_Laterale_Intestazione.asp"-->
+
+                        <div class="floatRemove"></div>
+                    </div><!-- Extra -->
+                    <hr class="fuori_browser">
+                    <div class="fuori_browser"><a href="#MNN" title="torna a menu di navigazione">Torna a Menu di Navigazione</a></div>
+                    <div class="floatRemove"></div>
+                 
+             	</div> <!--Container-->
+            </div><!-- background1dx -->
+        </div> <!-- background1 -->
+    </div> <!-- background2dx -->
+</div> <!-- background2 -->
+<div class="chiusura_sito"></div>
+   <div id="footer">
+   <br>
+      <div id="footer_interno">
+                        <div class="sx"><a title="Vai a Sito Si.Net Informatica" href="http://www.sinetinformatica.it/?utm_source=logo&amp;utm_medium=banner&amp;utm_campaign=Cesate"><img alt="Logo Si.Net" src="/Immagini/Banner_Sinet.gif"></a></div>
+                        <div class="cx">
+                         			<p>I contenuti sono di esclusiva proprietà di <strong>COMUNE DI Arcore</strong></p>
+                         		<p><strong>SEDE</strong> : Comune di Arcore, Largo V. Vela n. 1 - 20862 Arcore (MB) <BR> 
+                   		    <strong>tel </strong>039 60171  &shy; <strong>fax</strong> 039 6017346<br> 
+                            <strong>P.Iva </strong>00988560967 - <strong>Codice fiscale:</strong> 87003290159 <acronym title="Indirizzo di Posta Elettronica Certificata"><br>
+                       		<strong>PEC</strong></acronym> <a title="Indirizzo di Posta Elettronica Certificata" href="mailto:comune.arcore@pec.regione.lombardia.it ">comune.arcore@pec.regione.lombardia.it</a>   		                  </p>
+                         </div>
+						 <div class="dx">
+							<a href="http://www.pubbliaccesso.gov.it/logo/logo.php?sid=14a0583f"title="Link a sito esterno - Pubbliaccesso">
+								<img src="http://www.pubbliaccesso.gov.it/logo/tecnica.gif"alt="Logo attestante il superamento, ai sensi dellaLegge n. 4/2004, della verifica tecnicadi accessibilità." />
+							</a>
+						</div>
+								
+                             <!--<a href="http://www.comune.arcore.mi.it/rss/rss.asp" title="Sottoscrivi i feed rss">
+                                <img class="logo_demo" src="/Immagini/Rss.png" alt="sottoscrivi i feed rss" width="24x">
+                            </a>-->
+                        </div>
+                      </div> <!--Footer-->
+
+<!-- Start of google-analytics Code -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-12122035-16");
+		_gat._anonymizeIp();
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+<!-- End of google-analytics Code -->
+</body>
+</html>

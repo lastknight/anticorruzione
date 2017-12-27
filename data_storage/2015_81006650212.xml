@@ -1,0 +1,4319 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+ <metadata>
+   <titolo>Tabella riassuntiva annuale</titolo>
+   <abstract>Aggiudicazioni e affidamenti 2014</abstract>
+   <dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+   <entePubblicatore>COMUNE DI BRENNERO</entePubblicatore>
+   <dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+   <annoRiferimento>2014</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21010/495213E9-61D8-4FA2-BF52-C41B49E41475.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+ <data>
+   <lotto>
+     <cig>52418607B5</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione della caserma dei Vigili del Fuoco a Fleres. Affidamento servizi tecnici: direzione lavori, contabilità e coordinamento della sicurezza in fase di esecuzione.</oggetto>
+     <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+     <partecipanti>
+       <raggruppamento>
+         <membro>
+           <codiceFiscale>BLDRND65C31A952N</codiceFiscale>
+           <ragioneSociale>Baldi Roland Dr. Arch.</ragioneSociale>
+           <ruolo>02-MANDATARIA</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01755370218</codiceFiscale>
+           <ragioneSociale>3M Engineering GmbH/Srl</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02327120214</codiceFiscale>
+           <ragioneSociale>New Engineering Srl</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02521000212</codiceFiscale>
+           <ragioneSociale>Energytech Ingenieure GmbH</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01755370218</codiceFiscale>
+           <ragioneSociale>3M Engineering Srl</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+       </raggruppamento>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatarioRaggruppamento>
+         <membro>
+           <codiceFiscale>BLDRND65C31A952N</codiceFiscale>
+           <ragioneSociale>Baldi Roland Dr. Arch.</ragioneSociale>
+           <ruolo>02-MANDATARIA</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01755370218</codiceFiscale>
+           <ragioneSociale>3M Engineering GmbH/Srl</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02327120214</codiceFiscale>
+           <ragioneSociale>New Engineering Srl</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02521000212</codiceFiscale>
+           <ragioneSociale>Energytech Ingenieure GmbH</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01755370218</codiceFiscale>
+           <ragioneSociale>3M Engineering Srl</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+       </aggiudicatarioRaggruppamento>
+     </aggiudicatari>
+     <importoAggiudicazione>56321.82</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-19</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>26699.52</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>56053121CB</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione e risanamento del serbatoio Reisenschuh. Aggiudicazione definitiva  dei lavori</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02347430213</codiceFiscale>
+           <ragioneSociale>Brunner Matthias   Leiter Paul OHG</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01587250216</codiceFiscale>
+           <ragioneSociale>KLAPFER Bau GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01233570215</codiceFiscale>
+           <ragioneSociale>Nordbau Peskoller  GMbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02583450214</codiceFiscale>
+           <ragioneSociale>Globalbau Srl</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01364630218</codiceFiscale>
+           <ragioneSociale>Bauunternehmen Roland Gufler</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>RNRWTR61T29M067P</codiceFiscale>
+           <ragioneSociale>Rainer Walter - Bauunternehmen</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02602070217</codiceFiscale>
+           <ragioneSociale>Vaja GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02347430213</codiceFiscale>
+           <ragioneSociale>Brunner Matthias   Leiter Paul OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>276094.25</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-10</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>205846.59</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>5021900AF8</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento della sorgente Fuchsgraben. Incarico servizi tecnici. Progetto definitivo, esecutivo, coordinamento della sicurezza in fase di progettazione ed esecuzione e direzione lavori.</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02354970218</codiceFiscale>
+           <ragioneSociale>INGENIEURGEMEINSCHAFT PARDELLER GMBH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01209030210</codiceFiscale>
+           <ragioneSociale>Ingenieurbüro E.U.T. GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02354970218</codiceFiscale>
+           <ragioneSociale>INGENIEURGEMEINSCHAFT PARDELLER GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>26425.95</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-08-27</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>50899317EE</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Nuova sistemazione piazza del paese a Colle Isarco. Appalto dei lavori.</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00110890225</codiceFiscale>
+           <ragioneSociale>Impresa Vendruscolo Srl</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02583450214</codiceFiscale>
+           <ragioneSociale>Globalbau GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02331250213</codiceFiscale>
+           <ragioneSociale>Oberosler Sf Srl</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00474900214</codiceFiscale>
+           <ragioneSociale>S.A.P. OHG/Snc d. Karl Meier   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>316347.08</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-08-26</dataInizio>
+       <dataUltimazione>2014-06-12</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>526952.33</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>527933443C</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione marciapiede a Ladurns. 1° lotto. Appalto dei lavori.</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02602070217</codiceFiscale>
+           <ragioneSociale>Vaja GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01233570215</codiceFiscale>
+           <ragioneSociale>Nordbau Peskoller  GMbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02602070217</codiceFiscale>
+           <ragioneSociale>Vaja GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>99959.06</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-09-16</dataInizio>
+       <dataUltimazione>2014-07-24</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>115370.43</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z010C33F96</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento opera di presa e nuova costruzione del serbatoio Reisenschuh. Incarico per direzione lavori, contabilità e coordinamento della sicurezza nella fase di esecuzione.</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01537190215</codiceFiscale>
+           <ragioneSociale>hbpm Ingenieure GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02354970218</codiceFiscale>
+           <ragioneSociale>INGENIEURGEMEINSCHAFT PARDELLER GMBH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>10613.45</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-12-23</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4160</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8C08CF6A1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento opera di presa e nuova costruzione del serbatoio Reisenschuh. Incarico per la verifica del progetto.</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00768790214</codiceFiscale>
+           <ragioneSociale>Pasquali-Rausa Engineering Srl</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02384790214</codiceFiscale>
+           <ragioneSociale>Studio Associato Concer   Partner Engineering</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02389260213</codiceFiscale>
+           <ragioneSociale>Vieider Ingenieur GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00768790214</codiceFiscale>
+           <ragioneSociale>Pasquali-Rausa Engineering Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>895</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-07-19</dataInizio>
+       <dataUltimazione>2013-11-19</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>5913141E4E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Sistemazione della strada Müllerhof - Hofhöfe a Fleres di Dentro. Aggiudicazione definitiva  dei lavori</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01233570215</codiceFiscale>
+           <ragioneSociale>Nordbau Peskoller  GMbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01647520210</codiceFiscale>
+           <ragioneSociale>Gregorbau GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>RNRWTR61T29M067P</codiceFiscale>
+           <ragioneSociale>Rainer Walter - Bauunternehmen</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02479010213</codiceFiscale>
+           <ragioneSociale>Varesco GmbH/Srl</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00110890225</codiceFiscale>
+           <ragioneSociale>VENDRUSCOLO SAS DI A. VENDRUSCOLO   CO.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>RNRWTR61T29M067P</codiceFiscale>
+           <ragioneSociale>Rainer Walter - Bauunternehmen</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>90122.51</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-05</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZBB10811C2</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Sistemazione della strada Müllerhof - Hofhöfe a Fleres di Dentro. Incarico per direzione lavori e contabilità e coordinamento della sicurezza nella fase di esecuzione.</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02354970218</codiceFiscale>
+           <ragioneSociale>INGENIEURGEMEINSCHAFT PARDELLER GMBH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02353740216</codiceFiscale>
+           <ragioneSociale>iPlan GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>RVRPLA72E31B220S</codiceFiscale>
+           <ragioneSociale>Rovara Paul</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>KRTMTN58L27H786H</codiceFiscale>
+           <ragioneSociale>Krautgasser Geom. Martin</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>NLCSMN73T04A952D</codiceFiscale>
+           <ragioneSociale>Neulichedl Simon Dr. Ing. - Baucon</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4661.02</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-10</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>53285380AA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Appalto del servizio di sgombero neve per la zona di FLeres di Mezzo e di Fuori per le cinque stagioni invernali 2013 - 2018.</oggetto>
+     <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>FLCMTN65C18M067T</codiceFiscale>
+           <ragioneSociale>FLECKINGER MARTIN</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>FLCMTN65C18M067T</codiceFiscale>
+           <ragioneSociale>FLECKINGER MARTIN</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>92100</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-01</dataInizio>
+       <dataUltimazione>2018-04-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>21770</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>5328550A8E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Appalto del servizio di sgombero neve per la zona di Moncucco per le cinque stagioni invernali 2013 - 2018.</oggetto>
+     <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02660480217</codiceFiscale>
+           <ragioneSociale>Waldservice Wipptal OHG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02660480217</codiceFiscale>
+           <ragioneSociale>Waldservice Wipptal OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>106575</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-01</dataInizio>
+       <dataUltimazione>2018-04-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>27431</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>53285266C1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Appalto del servizio di sgombero neve per la zona di Fleres di Dentro per le stagioni invernali 2013 - 2018.</oggetto>
+     <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>90001320218</codiceFiscale>
+           <ragioneSociale>WALDINTERESSENTSCHAFT PFLERSCH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>90001320218</codiceFiscale>
+           <ragioneSociale>WALDINTERESSENTSCHAFT PFLERSCH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>117763</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-01</dataInizio>
+       <dataUltimazione>2018-04-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>24120.25</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z16118FB28</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Servizio per l'apertura delle tombe per il cimitero di Colle Isarco per il periodo 2015 - 2017</oggetto>
+     <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>PRYLND73D11M067M</codiceFiscale>
+           <ragioneSociale>Preyer Alexander</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>PRYLND73D11M067M</codiceFiscale>
+           <ragioneSociale>Preyer Alexander</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>10000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-01-01</dataInizio>
+       <dataUltimazione>2017-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZBC122A38A</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Rimozione di grandi quantità di neve per le stagioni invernali 2014/2015, 2015/2016 e 2016/2017 con camion</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01582420210</codiceFiscale>
+           <ragioneSociale>Haller Wilfried KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01582420210</codiceFiscale>
+           <ragioneSociale>Haller Wilfried KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>24000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+       <dataUltimazione>2017-03-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD9122A965</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura di ghiaia per il servizio invernale a Colle Isarco, Moncucco e Fleres di Dentro per la stagione invernale 2014/2015.</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>20000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+       <dataUltimazione>2015-03-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>5893245B9C</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto di una macchina (trattore) con spargitore autocaricante per il cantiere comunale</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01588250215</codiceFiscale>
+           <ragioneSociale>Komland GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01588250215</codiceFiscale>
+           <ragioneSociale>Komland GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>113505</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-18</dataInizio>
+       <dataUltimazione>2014-12-23</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>58406164CB</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione della caserma dei vigili del fuoco di Fleres. Aggiudicazione definitiva dell'incarico per la la fornitura e del montaggio dell'illuminazione</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01424300216</codiceFiscale>
+           <ragioneSociale>ELECTRO OBRIST A. GMBH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02697910210</codiceFiscale>
+           <ragioneSociale>Leitner Electro GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02625770215</codiceFiscale>
+           <ragioneSociale>Elektro Mima</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01424300216</codiceFiscale>
+           <ragioneSociale>ELECTRO OBRIST A. GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>40708.58</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-13</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZBE122A50F</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Rimozione di grandi quantità di neve per le stagioni invernali 2014/2015, 2015/2016 e 2016/2017 con camion e ruspa adeguata</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>FLCMTN65C18M067T</codiceFiscale>
+           <ragioneSociale>FLECKINGER MARTIN</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>FLCMTN65C18M067T</codiceFiscale>
+           <ragioneSociale>FLECKINGER MARTIN</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>9000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+       <dataUltimazione>2017-03-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z83113B7F5</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione della caserma dei vigili del fuoco di Fleres. Aggiudicazione definitiva fornitura e montaggio dei mobili di serie</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00504790221</codiceFiscale>
+           <ragioneSociale>Cappelletti srl unipersonale</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02361720218</codiceFiscale>
+           <ragioneSociale>REBUS Srl</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00757630215</codiceFiscale>
+           <ragioneSociale>Resch Möbel GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00470860214</codiceFiscale>
+           <ragioneSociale>PEDACTA G.M.B.H.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00124030214</codiceFiscale>
+           <ragioneSociale>Dyco GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00504790221</codiceFiscale>
+           <ragioneSociale>Cappelletti srl unipersonale</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>9895.3</importoAggiudicazione>
+     <tempiCompletamento>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z950A8E6A2</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per creazione di un vano per il deposito di attrezzi ginnici nella Casa culturale di Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>MRARWN66L20M067W</codiceFiscale>
+           <ragioneSociale>Mair Erwin</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>MRARWN66L20M067W</codiceFiscale>
+           <ragioneSociale>Mair Erwin</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1700</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-07-01</dataInizio>
+       <dataUltimazione>2013-09-09</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>900</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZB60B984F5</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di asfaltatura presso la strada interpoderale a Fleres di Fuori (località Asta).</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01233570215</codiceFiscale>
+           <ragioneSociale>Nordbau Peskoller  GMbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00110890225</codiceFiscale>
+           <ragioneSociale>Impresa Vendruscolo Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>10276.2</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-09-30</dataInizio>
+       <dataUltimazione>2013-10-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>10322.45</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA20D01B46</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per esecuzione controlli propri per l'analisi dell'acqua potabile per l'anno 2014.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01531480216</codiceFiscale>
+           <ragioneSociale>Eco Center AG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01531480216</codiceFiscale>
+           <ragioneSociale>Eco Center AG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2614</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-12-31</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1924</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZB60C17B5A</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per la fornitura di un sistema interrato per la raccolta del rifiuto organico.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00838770287</codiceFiscale>
+           <ragioneSociale>Elbi Spa</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00838770287</codiceFiscale>
+           <ragioneSociale>Elbi Spa</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>7995</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-08</dataInizio>
+       <dataUltimazione>2014-07-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>7995</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD80BE9D52</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico aggiuntivo per taglio alberi a Monte Sella. Lebwald.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02660480217</codiceFiscale>
+           <ragioneSociale>Waldservice Wipptal OHG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02660480217</codiceFiscale>
+           <ragioneSociale>Waldservice Wipptal OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>27360</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-01</dataInizio>
+       <dataUltimazione>2013-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>18088</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z000BCAFC6</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per posa di un tubo di protezione nonchè di messa in terra per l'illuminazione pubblica nell'ambito della caserma dei Carabinieri a Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1553.13</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-10-24</dataInizio>
+       <dataUltimazione>2013-10-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1548.63</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z010BCA92E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di risanamento e sistemazione della strada d'acceso "Ladurns-Wiesenhof". Incarico per verifica progetto esecutivo.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>400</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-12-04</dataInizio>
+       <dataUltimazione>2014-01-23</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>416</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z1A0A402C2</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Posa della rete in fibra ottica a Colle Isarco. Incarico per l'elaborazione dello studio, del progetto definitivo, esecutivo, coordinamento della sicurezza in fase di progettazione</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01531460218</codiceFiscale>
+           <ragioneSociale>INGENIEURTEAM G.M.B.H. BERGMEISTER</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>12200</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-06-26</dataInizio>
+       <dataUltimazione>2014-12-16</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z290C4F0F3</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per risanamento lastrico solare presso la sede dell'Associazione sportiva Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00204690218</codiceFiscale>
+           <ragioneSociale>TRENKWALDER   PARTNER OHG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00204690218</codiceFiscale>
+           <ragioneSociale>TRENKWALDER   PARTNER OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1874.66</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-11</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z370A365DB</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per lavori di recinzione al campo sportivo di Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00883080210</codiceFiscale>
+           <ragioneSociale>SPORT BAU G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00883080210</codiceFiscale>
+           <ragioneSociale>SPORT BAU G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>13201</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-07-11</dataInizio>
+       <dataUltimazione>2014-06-06</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>13201</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z4D0C046A3</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto di 1 PC, 1 Monitor con relativo software per la scuola materna in lingua tedesca di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01170810228</codiceFiscale>
+           <ragioneSociale>ALDEBRA SPA - INFORMATION   COMMUNICATION TECHNOLOGY</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01170810228</codiceFiscale>
+           <ragioneSociale>ALDEBRA SPA - INFORMATION   COMMUNICATION TECHNOLOGY</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1340</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-10-28</dataInizio>
+       <dataUltimazione>2013-11-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1340</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z4508FE42E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per accatastamento centro riciclaggio del Comune di Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>BNDKLH56C09B529T</codiceFiscale>
+           <ragioneSociale>BENEDIKTER Geom. Karl Heinz</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>BNDKLH56C09B529T</codiceFiscale>
+           <ragioneSociale>BENEDIKTER Geom. Karl Heinz</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1850</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-04-11</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z5C0BEABF1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione nuovo marciapiede Ladurns 1° lotto. Incarico per il collaudo statico delle opere in cemento armato.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>FLRNRS74B13A952B</codiceFiscale>
+           <ragioneSociale>Florian Andreas Dr. Ing</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>FLRNRS74B13A952B</codiceFiscale>
+           <ragioneSociale>Florian Andreas Dr. Ing</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>227.49</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-11-04</dataInizio>
+       <dataUltimazione>2014-10-02</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>236.59</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z530AD4535</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione caserma dei Vigilli del Fuoco a Fleres. Incarico per assistenza durante l'esecuzione e il collaudo del progetto antincendio e casa clima.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02521000212</codiceFiscale>
+           <ragioneSociale>Energytech Ingenieure GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02521000212</codiceFiscale>
+           <ragioneSociale>Energytech Ingenieure GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2600</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-09-03</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z9B0BCAD6E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Nuova sistemazione piazza del paese a Colle Isarco. Incarico per collaudo statico delle opere in cemento armato.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>FLRNRS74B13A952B</codiceFiscale>
+           <ragioneSociale>Florian Andreas Dr. Ing</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>FLRNRS74B13A952B</codiceFiscale>
+           <ragioneSociale>Florian Andreas Dr. Ing</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>896.4</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-12-04</dataInizio>
+       <dataUltimazione>2014-10-01</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>932.25</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZAB0D3BE34</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per montaggio impianto per rivitalizzazione dell'acqua per l'edificio scolastico di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01301710214</codiceFiscale>
+           <ragioneSociale>UVO-Italia GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01301710214</codiceFiscale>
+           <ragioneSociale>UVO-Italia GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3655.74</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-23</dataInizio>
+       <dataUltimazione>2015-01-28</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3655.74</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z080D3C250</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di manutenzione alla strada d'accesso ai masi "Raut" a Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2480</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-10</dataInizio>
+       <dataUltimazione>2014-01-24</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2480</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE70D5D315</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto arredamento integrativo per l'ufficio tecnico del Comune.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2190</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-02-19</dataInizio>
+       <dataUltimazione>2014-03-27</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4380</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z830DB6E02</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Servizio di manutenzione ascensore scuola elementare Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02890581206</codiceFiscale>
+           <ragioneSociale>MIA S.P.A.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02890581206</codiceFiscale>
+           <ragioneSociale>MIA S.P.A.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>675.75</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>675.75</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2E0DB6EA1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Servizio di manutenzione ascensore edificio pluriuso "Prennerhaus"</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02890581206</codiceFiscale>
+           <ragioneSociale>MIA S.P.A.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02890581206</codiceFiscale>
+           <ragioneSociale>MIA S.P.A.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>675.75</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>675.75</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z3A0DB6EEC</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Servizio di manutenzione ascensore scuola media Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02890581206</codiceFiscale>
+           <ragioneSociale>MIA S.P.A.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02890581206</codiceFiscale>
+           <ragioneSociale>MIA S.P.A.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>575.04</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>575.04</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z9B0DE1805</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Sostituzione porta d'ingresso del Municipio di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00122260219</codiceFiscale>
+           <ragioneSociale>FINSTRAL AG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00122260219</codiceFiscale>
+           <ragioneSociale>FINSTRAL AG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6653.52</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-02-25</dataInizio>
+       <dataUltimazione>2014-05-06</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>6653.52</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7E0DF89AF</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di rifinitura alla piscina di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2995.2</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-03-10</dataInizio>
+       <dataUltimazione>2014-03-14</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2995.2</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7B0E0D737</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di miglioramento all'impianto di riscaldamento nella scuola di Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2330</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-03-03</dataInizio>
+       <dataUltimazione>2014-03-14</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2330</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z490E14E1A</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio tende per casa culturale Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01509750210</codiceFiscale>
+           <ragioneSociale>KAHN KG  des Kahn Andreas   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01509750210</codiceFiscale>
+           <ragioneSociale>KAHN KG  des Kahn Andreas   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2059.6</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-18</dataInizio>
+       <dataUltimazione>2014-07-25</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2059.6</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZB80EA6C1F</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Posa di una condotta secondaria per acque reflue e piovane a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>10586.2</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-02</dataInizio>
+       <dataUltimazione>2014-07-25</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>10572.94</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZB60ED995F</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto vari elettrodomestici per cucina scuola materna Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GGLGTR59E31M067C</codiceFiscale>
+           <ragioneSociale>Gogl Günter - GOPA CENTER</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GGLGTR59E31M067C</codiceFiscale>
+           <ragioneSociale>Gogl Günter - GOPA CENTER</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1323.35</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-04-22</dataInizio>
+       <dataUltimazione>2014-06-20</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1323.35</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZC10EEF285</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione all'edificio presso il campo sportivo di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>610</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-05-07</dataInizio>
+       <dataUltimazione>2014-06-27</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>610</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z640F07F0E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di carpenteria necessari per il parco delle feste di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>767.1</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-02</dataInizio>
+       <dataUltimazione>2014-06-10</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>7676.1</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZBC0F08134</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento delle capanna per il deposito della sabbia del cantiere comunale.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2950</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-05-07</dataInizio>
+       <dataUltimazione>2014-05-23</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2950</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z770F0D784</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di muratura presso il punto di raccolta dell'edificio scolastico di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>MRARWN66L20M067W</codiceFiscale>
+           <ragioneSociale>Mair Erwin</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>MRARWN66L20M067W</codiceFiscale>
+           <ragioneSociale>Mair Erwin</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2050</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-26</dataInizio>
+       <dataUltimazione>2014-07-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2050</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2A0F0DA4B</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Rifacimento muretto e predisposizione per realizzazione nuova recinzione nella Via Strange a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>MRARWN66L20M067W</codiceFiscale>
+           <ragioneSociale>Mair Erwin</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>MRARWN66L20M067W</codiceFiscale>
+           <ragioneSociale>Mair Erwin</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-26</dataInizio>
+       <dataUltimazione>2014-07-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1500</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA50F24CBA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Realizzazione nuova recinzione nella Via Stranghe a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>912</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-26</dataInizio>
+       <dataUltimazione>2014-07-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>912</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7E0F0F0EF</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione al tetto dell'edificio delle prove musicali a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1314</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-26</dataInizio>
+       <dataUltimazione>2014-07-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1314</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE80F0F6F4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fabbricazione e montaggio di una recinzione e di due ringhiere per la scala presso il parco pubblico vicino al parco delle feste.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>PRYLND73D11M067M</codiceFiscale>
+           <ragioneSociale>Preyer Alexander</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>PRYLND73D11M067M</codiceFiscale>
+           <ragioneSociale>Preyer Alexander</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2386.99</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-26</dataInizio>
+       <dataUltimazione>2014-07-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2386.99</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z330EE20AA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento tetti piani degli edifici annessi al Municipio di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>17949</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-02</dataInizio>
+       <dataUltimazione>2014-07-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>17949</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z600F4A6C4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di manutenzione alle strade comunali nella frazione di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>9212.58</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-23</dataInizio>
+       <dataUltimazione>2014-08-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>9180.92</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD50F5A6D4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto di una sabbiera e di un armadio per la piscina di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01432260212</codiceFiscale>
+           <ragioneSociale>STEBO AMBIENTE SRL</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01432260212</codiceFiscale>
+           <ragioneSociale>STEBO AMBIENTE SRL</ragioneSociale>
+       </aggiudicatario>
+       <aggiudicatario>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>926.71</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-05-23</dataInizio>
+       <dataUltimazione>2014-06-20</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>926.71</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z700F63730</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto corpi illuminanti LED per l'illuminazione pubblica.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01230290213</codiceFiscale>
+           <ragioneSociale>Urbis Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01230290213</codiceFiscale>
+           <ragioneSociale>Urbis Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>7519</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-03</dataInizio>
+       <dataUltimazione>2014-06-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>7519</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA10F5BB21</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e posa tubi di protezione per cavi elettrici per l'illuminazione pubblica.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>RNRWTR61T29M067P</codiceFiscale>
+           <ragioneSociale>Rainer Walter - Bauunternehmen</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>RNRWTR61T29M067P</codiceFiscale>
+           <ragioneSociale>Rainer Walter - Bauunternehmen</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4987</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-01</dataInizio>
+       <dataUltimazione>2014-10-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>5989</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z460F97CF4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Realizzazione di uno steccato in legno per recinzione laghetto nel parco comunale di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3200</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-13</dataInizio>
+       <dataUltimazione>2014-07-10</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3200</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZEB0F97D4E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di pavimentazione presso campo sportivo Brennero - Sostituzione tapparelle presso casa sportiva.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01595180215</codiceFiscale>
+           <ragioneSociale>EURO TÜREN GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>WSSNRS70M21M067I</codiceFiscale>
+           <ragioneSociale>WEISSTEINER ANDREAS</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01595180215</codiceFiscale>
+           <ragioneSociale>EURO TÜREN GmbH</ragioneSociale>
+       </aggiudicatario>
+       <aggiudicatario>
+           <codiceFiscale>WSSNRS70M21M067I</codiceFiscale>
+           <ragioneSociale>WEISSTEINER ANDREAS</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4103</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-13</dataInizio>
+       <dataUltimazione>2014-09-05</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4103</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z070FB93FA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di allacciamento primario dell'edificio pluriuso "Prenner-Haus"</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02729180212</codiceFiscale>
+           <ragioneSociale>Fernwärme Brenner GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02729180212</codiceFiscale>
+           <ragioneSociale>Fernwärme Brenner GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>8000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-24</dataInizio>
+       <dataUltimazione>2014-07-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>5830.7</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z620F9C14A</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di allacciamento secondario dell'impianto termico della casa culturale "Prenner-Haus" al teleriscaldamento di Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3449.05</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-18</dataInizio>
+       <dataUltimazione>2014-09-01</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3336.55</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZF40F7732E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura 20.000 sacchi immondizie da 30l</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01664420211</codiceFiscale>
+           <ragioneSociale>CORPUS G.m.b.H./s.r.l.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01664420211</codiceFiscale>
+           <ragioneSociale>CORPUS G.m.b.H./s.r.l.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1580</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-04</dataInizio>
+       <dataUltimazione>2014-07-24</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1580</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z470DEBF97</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e posa di una condotta per l'acqua potabile sotto il Rio Fleres a Fleres di Fuori.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3079.54</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-04-21</dataInizio>
+       <dataUltimazione>2014-05-02</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3079.55</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z490E98921</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto di un server Linux per gli uffici comunali.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00701430217</codiceFiscale>
+           <ragioneSociale>ACS Data Systems GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00701430217</codiceFiscale>
+           <ragioneSociale>ACS Data Systems GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4495</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-04-04</dataInizio>
+       <dataUltimazione>2014-06-12</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4495</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z810E98984</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto di 2 computer per gli uffici comunali.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01170810228</codiceFiscale>
+           <ragioneSociale>ALDEBRA SPA - INFORMATION   COMMUNICATION TECHNOLOGY</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01170810228</codiceFiscale>
+           <ragioneSociale>ALDEBRA SPA - INFORMATION   COMMUNICATION TECHNOLOGY</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1456</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-04-08</dataInizio>
+       <dataUltimazione>2014-05-08</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1456</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZAA0EA9573</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Sistemazione del parco pubblico vicino al parco delle feste e costruzione di un laghetto a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>38957.36</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-05-05</dataInizio>
+       <dataUltimazione>2014-05-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>38957.36</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z350EDA996</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione nuova scuola dell'infanzia a Colle Isarco. Incarico per elaborazione progetto esecutivo.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01387760216</codiceFiscale>
+           <ragioneSociale>PLANUNGSBUERO AGOSTINI-ZANELLA</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01387760216</codiceFiscale>
+           <ragioneSociale>PLANUNGSBUERO AGOSTINI-ZANELLA</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>39638.97</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-05-15</dataInizio>
+       <dataUltimazione>2014-12-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD90EC42D1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto diverso materiale per il cantiere comunale.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01534210214</codiceFiscale>
+           <ragioneSociale>GRAUS G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01534210214</codiceFiscale>
+           <ragioneSociale>GRAUS G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1460.93</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-04-23</dataInizio>
+       <dataUltimazione>2014-09-05</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1460.93</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z490F0E3A1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto ricambi per autoveicolo comunale UNIMOG.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00534750211</codiceFiscale>
+           <ragioneSociale>INTERCOM - DR. LEITNER SRL</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00534750211</codiceFiscale>
+           <ragioneSociale>INTERCOM - DR. LEITNER SRL</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1079.59</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-05-06</dataInizio>
+       <dataUltimazione>2014-05-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1079.59</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0C0F36129</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione caserma dei vigili del fuoco a Fleres. Incarico collaudo statico.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>FLRNRS74B13A952B</codiceFiscale>
+           <ragioneSociale>Florian Andreas Dr. Ing</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>FLRNRS74B13A952B</codiceFiscale>
+           <ragioneSociale>Florian Andreas Dr. Ing</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1147.06</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-26</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z5C0F9C398</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione di una nuova scuola per l'infanzia a Colle Isarco. Liquidazione incarico aggiuntivo per modifiche al progetto definitivo.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01387760216</codiceFiscale>
+           <ragioneSociale>PLANUNGSBUERO AGOSTINI-ZANELLA</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01387760216</codiceFiscale>
+           <ragioneSociale>PLANUNGSBUERO AGOSTINI-ZANELLA</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-11</dataInizio>
+       <dataUltimazione>2014-06-20</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>6240</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z790F9C682</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto die due portabiciclette per la piazza del paese.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>04198550263</codiceFiscale>
+           <ragioneSociale>Fly srl unipersonale</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>04198550263</codiceFiscale>
+           <ragioneSociale>Fly srl unipersonale</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>620</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-12</dataInizio>
+       <dataUltimazione>2014-07-25</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>620</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z930F9C5AC</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto due porte da calcetto.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00458030210</codiceFiscale>
+           <ragioneSociale>HERBERT PLANK SPORT GMBH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00458030210</codiceFiscale>
+           <ragioneSociale>HERBERT PLANK SPORT GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>990</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-12</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>811.47</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z690F9C61E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio di tende per la casa culturale di Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01509750210</codiceFiscale>
+           <ragioneSociale>KAHN KG  des Kahn Andreas   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01509750210</codiceFiscale>
+           <ragioneSociale>KAHN KG  des Kahn Andreas   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>750</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-13</dataInizio>
+       <dataUltimazione>2014-08-08</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>750</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z130F9C773</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione e risanamento del serbatoio Reisenschuh. Incarico per collaudo statico.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>NMRRHR71S22B570U</codiceFiscale>
+           <ragioneSociale>Ing. Richard Neumair</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>NMRRHR71S22B570U</codiceFiscale>
+           <ragioneSociale>Ing. Richard Neumair</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>630</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-13</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z5B0FAA3DA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Pulizia a fondo dei locali della piscina di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00612190215</codiceFiscale>
+           <ragioneSociale>S.R.D. GEBÄUDEREINIGUNG GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00612190215</codiceFiscale>
+           <ragioneSociale>S.R.D. GEBÄUDEREINIGUNG GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>590</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-16</dataInizio>
+       <dataUltimazione>2014-06-20</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>590</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA20FAC4B7</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di sfaltatura su strade comunali - strada d'accesso ai masi Moncucco e Asta/Fleres di Fuori.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>31145</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-14</dataInizio>
+       <dataUltimazione>2014-09-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>31144.38</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8C0FBF3A2</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione caserma dei Vigili del Fuoco a Fleres. Incarico collaudo in corso d'opera.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>BRKBND68R22F132Q</codiceFiscale>
+           <ragioneSociale>Ing. Bernd Oberkofler</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>BRKBND68R22F132Q</codiceFiscale>
+           <ragioneSociale>Ing. Bernd Oberkofler</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1828.32</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-20</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZB20FEB11B</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Scuola materna di Brennero. Risanamento dell'entrata esterna.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>RAURCH80M30B160Y</codiceFiscale>
+           <ragioneSociale>Auer Erich</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>RAURCH80M30B160Y</codiceFiscale>
+           <ragioneSociale>Auer Erich</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4842</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-18</dataInizio>
+       <dataUltimazione>2014-08-29</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4842</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2B0FEB8D7</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori per il montaggio di un sistema interrato per la raccolta del rifiutio organico.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>RAURCH80M30B160Y</codiceFiscale>
+           <ragioneSociale>Auer Erich</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>RAURCH80M30B160Y</codiceFiscale>
+           <ragioneSociale>Auer Erich</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5309</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-18</dataInizio>
+       <dataUltimazione>2014-09-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3729</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z860FDB217</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Esecuzione opere da elettricista presso il parco delle feste a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2001.28</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-04</dataInizio>
+       <dataUltimazione>2014-07-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2001.28</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0F0FE1E39</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione asfalto danneggiato su diverse strade comunali del Comune di Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2946</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-18</dataInizio>
+       <dataUltimazione>2014-09-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2946</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z491024309</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio giochi per il parco pubblico e la scuola materna di Colle Isarco e Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01432260212</codiceFiscale>
+           <ragioneSociale>STEBO AMBIENTE SRL</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01432260212</codiceFiscale>
+           <ragioneSociale>STEBO AMBIENTE SRL</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3471</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-06-18</dataInizio>
+       <dataUltimazione>2014-09-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3471</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z6A0FFFEAB</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio segnaletica stradale nelle località di Brennero e Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01385040223</codiceFiscale>
+           <ragioneSociale>Argu-Traffic des Guntriner Armin</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01385040223</codiceFiscale>
+           <ragioneSociale>Argu-Traffic des Guntriner Armin</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2889.2</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-11</dataInizio>
+       <dataUltimazione>2014-08-08</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2889.2</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z76104F3B0</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio di un WC per bambini nella scuola materna italiana di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2290.8</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-11</dataInizio>
+       <dataUltimazione>2014-08-28</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2189.63</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z10104FD74</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio arredamento per la scuola elementare e media in lingua tedesca di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>8085</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-08</dataInizio>
+       <dataUltimazione>2014-10-24</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>8085</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z321057F37</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione di una strada d'accesso e risanamento muro di sostegno del cimitero di Colle Isarco. Incarico per elaborazione progetto esecutivo e coordinamento della sicurezza nella fase progettuale.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02354970218</codiceFiscale>
+           <ragioneSociale>INGENIEURGEMEINSCHAFT PARDELLER GMBH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02354970218</codiceFiscale>
+           <ragioneSociale>INGENIEURGEMEINSCHAFT PARDELLER GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5654.57</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-07-31</dataInizio>
+       <dataUltimazione>2014-12-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0B1062726</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento del serbatoio per l'acqua potabile di Fleres di Dentro. Incarico per la verifica del progetto.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00768790214</codiceFiscale>
+           <ragioneSociale>Pasquali-Rausa Engineering Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00768790214</codiceFiscale>
+           <ragioneSociale>Pasquali-Rausa Engineering Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1200</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-28</dataInizio>
+       <dataUltimazione>2015-01-28</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0F1073DB3</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Esecuzione opere da pittore sul lato sud dell'edificio comunale di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02337360214</codiceFiscale>
+           <ragioneSociale>KEIM GMBH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02337360214</codiceFiscale>
+           <ragioneSociale>KEIM GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5941.4</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-01</dataInizio>
+       <dataUltimazione>2014-10-16</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>5941.4</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8B10768ED</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione nuova caserma vigili del fuoco a Fleres. Incarico per sopralluogo per allacciamento alla rete di telecomunicazione.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00471850016</codiceFiscale>
+           <ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00471850016</codiceFiscale>
+           <ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>200</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-18</dataInizio>
+       <dataUltimazione>2014-08-29</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>200</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z3D1077151</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Servizio di refezione scolastica - scuola elementare di Fleres - Anno scolastico 2014/2015</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02275200216</codiceFiscale>
+           <ragioneSociale>Bar Buffet Stazione e Hotel Argentum d. Überegger Priska   Co. Sas</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02275200216</codiceFiscale>
+           <ragioneSociale>Bar Buffet Stazione e Hotel Argentum d. Überegger Priska   Co. Sas</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-09</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1243.62</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z9610771C6</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Servizio di refezione scolastica scuole Colle Isarco. Anno scolastico 2014/2015.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>BRHGST56L18I593V</codiceFiscale>
+           <ragioneSociale>Oberhuber August - Restaurant Pizzeria Hotel Lorenz</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>BRHGST56L18I593V</codiceFiscale>
+           <ragioneSociale>Oberhuber August - Restaurant Pizzeria Hotel Lorenz</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>22500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-08</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>5504</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8A107BB04</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Esecuzione di opere da lattoniere presso il cantiere comunale/ isola ecologica a Ponticolo.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>STMMXA65L30M067U</codiceFiscale>
+           <ragioneSociale>STAMPFER MAX</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>930</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-10</dataInizio>
+       <dataUltimazione>2014-09-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>930</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE5107C5D1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio di materiale per l'illuminazione pubblica nella Via Fleres.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4300</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-08-28</dataInizio>
+       <dataUltimazione>2014-09-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4300</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2A107E7BC</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Assistenza e manutenzione impianti termici di pubblici uffici - periodo 01.09.2014 - 31.08.2019</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6240</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-01</dataInizio>
+       <dataUltimazione>2019-01-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1248</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZDA1081340</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura di una lama sgombraneve per il cantiere comunale.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01902620226</codiceFiscale>
+           <ragioneSociale>Rotalnord Auto Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01902620226</codiceFiscale>
+           <ragioneSociale>Rotalnord Auto Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>12490</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-11</dataInizio>
+       <dataUltimazione>2014-11-03</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>12490</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z21109097D</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione di una nuova scuola d'infanzia a Colle Isarco.Incarico  per l'elaborazione di un parere geologico- geotecnico.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01370340216</codiceFiscale>
+           <ragioneSociale>STUDIO ASSOCIATO GEOLOGIA E AMBIENTE - DOTT.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01370340216</codiceFiscale>
+           <ragioneSociale>STUDIO ASSOCIATO GEOLOGIA E AMBIENTE - DOTT.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1516.07</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-10</dataInizio>
+       <dataUltimazione>2014-10-07</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1530</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZC710650B4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione e adeguamenti al campetto giochi della scuola di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00883080210</codiceFiscale>
+           <ragioneSociale>SPORT BAU G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00883080210</codiceFiscale>
+           <ragioneSociale>SPORT BAU G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3800</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-11</dataInizio>
+       <dataUltimazione>2014-09-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3800</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7B10A3A29</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione allo steccato e alla casa sportiva della zona sportiva di Ladurns.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2035</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-15</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZAD10A3AE4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e montaggio di ringhiere per la strada principale di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02691830216</codiceFiscale>
+           <ragioneSociale>Dorner Metallbau GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02691830216</codiceFiscale>
+           <ragioneSociale>Dorner Metallbau GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>13719.12</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-15</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8A10C0DF7</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione all'edificio pluriuso al Brenner. "Prenner-Haus"</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01118140217</codiceFiscale>
+           <ragioneSociale>HOFER G.   CO. KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01118140217</codiceFiscale>
+           <ragioneSociale>HOFER G.   CO. KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3183.4</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-20</dataInizio>
+       <dataUltimazione>2014-11-29</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3183.4</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2710B17A8</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura 10.000 sacchi immondizie per mercato del Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01664420211</codiceFiscale>
+           <ragioneSociale>CORPUS G.m.b.H./s.r.l.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01664420211</codiceFiscale>
+           <ragioneSociale>CORPUS G.m.b.H./s.r.l.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1890</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-16</dataInizio>
+       <dataUltimazione>2014-10-14</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1890</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD910B3ECF</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione di una casetta per i rifiuti sul piazzale dietro al Municicpio di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-15</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZC010B3FEA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto> Lavori di risanamento all'edificio scolastico  di Fleres di Dentro - centrale telefonica..</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02315580213</codiceFiscale>
+           <ragioneSociale>PLANK DACH GMBH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02315580213</codiceFiscale>
+           <ragioneSociale>PLANK DACH GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1525.6</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-10</dataInizio>
+       <dataUltimazione>2014-09-15</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1525.6</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8A10C0DF7</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto> lavori di riparazione all'edificio pluriuso al Brennero - Casa Prenner</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01118140217</codiceFiscale>
+           <ragioneSociale>HOFER G.   CO. KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01118140217</codiceFiscale>
+           <ragioneSociale>HOFER G.   CO. KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3183.4</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-20</dataInizio>
+       <dataUltimazione>2014-11-29</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3183.4</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7110C81C9</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento opera di presa e nuova costruzione del serbatoio "Reisenschuh". Incarico  per la direzione geologica- e idrogeologica .</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02373380217</codiceFiscale>
+           <ragioneSociale>Geo3 - Bürogemeinschaft für Angewandte Geologie - Dr. Geol. Maria-Luise Gögl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02373380217</codiceFiscale>
+           <ragioneSociale>Geo3 - Bürogemeinschaft für Angewandte Geologie - Dr. Geol. Maria-Luise Gögl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1200</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-22</dataInizio>
+       <dataUltimazione>2014-12-01</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1224</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZC510DCF3C</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento dei pavimenti nel centro giovani di Fleres.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01509750210</codiceFiscale>
+           <ragioneSociale>KAHN KG  des Kahn Andreas   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01509750210</codiceFiscale>
+           <ragioneSociale>KAHN KG  des Kahn Andreas   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3100</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-26</dataInizio>
+       <dataUltimazione>2014-10-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3100</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZDA10DD2EF</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Rielaborazione del tipo di frazionamento per la regolarizzazione dei terreni nella Via Fienili e per la verifica della situazione/rilevamento di strade sul territorio comunale.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>RMBRRT43E26H604D</codiceFiscale>
+           <ragioneSociale>RAMBELLI ROBERTO</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>RMBRRT43E26H604D</codiceFiscale>
+           <ragioneSociale>RAMBELLI ROBERTO</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1670</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-29</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8A10E6AEA</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori da idraulico nella caserma dei Vigili del Fuoco di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02283630214</codiceFiscale>
+           <ragioneSociale>MADER G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02283630214</codiceFiscale>
+           <ragioneSociale>MADER G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5327.86</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-09-29</dataInizio>
+       <dataUltimazione>2014-10-08</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>5327.86</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z4310F2999</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di risanamento alla piazza del paese di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02639290218</codiceFiscale>
+           <ragioneSociale>Taubau Gmbh</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-01</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA3110CD9F</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura di arredo urbano per il parco comunale di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>GRBKRL62E02B160W</codiceFiscale>
+           <ragioneSociale>Gruber Karl - Zimmerei</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4300</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-10</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z33110CDD4</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Riparazione e la sostituzione di pompe difettose  nella piscina di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02795470216</codiceFiscale>
+           <ragioneSociale>Hofer Group GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02795470216</codiceFiscale>
+           <ragioneSociale>Hofer Group GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1093.31</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-24</dataInizio>
+       <dataUltimazione>2014-11-10</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZCA1113642</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di riparazione dell'asfalto danneggiato su diverse strade comunali del Comune di Brennero</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>15087.45</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-14</dataInizio>
+       <dataUltimazione>2014-11-21</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>15087.44</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z4B1113773</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di manutenzione straordinaria su diverse strade comunali.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>10500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-13</dataInizio>
+       <dataUltimazione>2014-11-21</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>10425.09</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z18111A22D</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Elaborazione di un tipo di frazionamento per la parcellazione della nuova zona abitativa C 1 zona di espansione S. Antonio di Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>BNDKLH56C09B529T</codiceFiscale>
+           <ragioneSociale>BENEDIKTER Geom. Karl Heinz</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>BNDKLH56C09B529T</codiceFiscale>
+           <ragioneSociale>BENEDIKTER Geom. Karl Heinz</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1850</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-13</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE8111A25A</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Redazione di una stima per l'acquisto del terreno nella nuova zona d'espansione a Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>BNDKLH56C09B529T</codiceFiscale>
+           <ragioneSociale>BENEDIKTER Geom. Karl Heinz</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>BNDKLH56C09B529T</codiceFiscale>
+           <ragioneSociale>BENEDIKTER Geom. Karl Heinz</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1350</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-13</dataInizio>
+       <dataUltimazione>2014-11-21</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z701113879</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura di cloruro di sodio per silos per il servizio invernale 2014/2015.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00534750211</codiceFiscale>
+           <ragioneSociale>INTERCOM - DR. LEITNER SRL</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00534750211</codiceFiscale>
+           <ragioneSociale>INTERCOM - DR. LEITNER SRL</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5820</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-24</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1940</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z331118A14</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Assistenza e manutenzione degli impianti ascensore presso la stazione di Colle Isarco nel periodo dal 09.10.2014 al 08.10.2015 -</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01729590032</codiceFiscale>
+           <ragioneSociale>OTIS SERVIZI Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01729590032</codiceFiscale>
+           <ragioneSociale>OTIS SERVIZI Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1460</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-09</dataInizio>
+       <dataUltimazione>2015-10-08</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZCA112CE22</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto> Fornitura di abbligliamento di sicurezza.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02610720217</codiceFiscale>
+           <ragioneSociale>Rainer Eisenwaren OHG d. Rainer Karl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02610720217</codiceFiscale>
+           <ragioneSociale>Rainer Eisenwaren OHG d. Rainer Karl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1907.57</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-16</dataInizio>
+       <dataUltimazione>2014-10-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1907.57</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z37114659B</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Assistenza e manutenzione impianto telefonico degli uffici comunali per il periodo di 1 anno</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02621100219</codiceFiscale>
+           <ragioneSociale>Telmekom GmbH/Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02621100219</codiceFiscale>
+           <ragioneSociale>Telmekom GmbH/Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>400</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-01-01</dataInizio>
+       <dataUltimazione>2015-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD41155113</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Controllo periodico degli impianti elettrici degli edifici comunali.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-27</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z471172112</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura di lavastoviglie per la casa culturale di Fleres di Dentro.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01471050219</codiceFiscale>
+           <ragioneSociale>Elektro City KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2845</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-06</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z89118F7D6</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione della nuova scuola d'infanzia di Colle Isarco-  Incarico per l'effettuazione dei calcoli casaclima e della dichiarazioni antincendio per le fasi progettuali preliminare, definitiva ed esecutiva.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02381150214</codiceFiscale>
+           <ragioneSociale>Studio Contact GmbH/srl Dr. Ing. Verginer Norbert</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02381150214</codiceFiscale>
+           <ragioneSociale>Studio Contact GmbH/srl Dr. Ing. Verginer Norbert</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-13</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z8D1172440</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico svolgimento delle prestazioni tecniche necessarie per il rinnovo delle concessioni d'utilizzo acqua R/456/0 Brennero e D/2936/0 Fleres.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2100</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-13</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0E11A94CC</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione  caserma dei vigili del fuoco a Fleres. Allacciamento alla rete di energia elettrica e la fornitura di energia</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00188500219</codiceFiscale>
+           <ragioneSociale>ELEKTRIZITÄTSGENOSSENSCHAFT PFLERSCH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00188500219</codiceFiscale>
+           <ragioneSociale>ELEKTRIZITÄTSGENOSSENSCHAFT PFLERSCH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>552.96</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-12</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig> Z7611AAED</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione  caserma dei vigili del fuoco a Fleres. Fornitura di 2000  kg di Pellets</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>478</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-14</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA711A8335</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Frana sulla strada Sasso - misure urgenti di protezione civile- Incarico per lo svolgimento  degli urgenti necessari lavori di messa in sicurezza.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>33788.36</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-13</dataInizio>
+       <dataUltimazione>2014-11-28</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>33788.36</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z5711A8432</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Frana sulla strada Sasso - misure urgenti di protezione civile- Incarico per lo svolgimento  degli urgenti necessari lavori di messa in sicurezza</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01309990214</codiceFiscale>
+           <ragioneSociale>Locher KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01309990214</codiceFiscale>
+           <ragioneSociale>Locher KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>25729.5</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-15</dataInizio>
+       <dataUltimazione>2014-11-14</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig> Z1A11A846</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Frana sulla strada Sasso - misure urgenti di protezione civile- Incarico  per lo svolgimento  degli urgenti necessari lavori di messa in sicurezza. Intervento geologico</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01209030210</codiceFiscale>
+           <ragioneSociale>Ingenieurbüro E.U.T. GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01209030210</codiceFiscale>
+           <ragioneSociale>Ingenieurbüro E.U.T. GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2932.5</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-13</dataInizio>
+       <dataUltimazione>2014-10-23</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZB1119F6C1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Realizzazione di un allacciamento per l'acqua nella zona Lente a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1641.8</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-14</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD111AF47F</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento della strada d'accesso ai masi Bichl - misure urgenti di protezione civile-</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00722290210</codiceFiscale>
+           <ragioneSociale>Aichner Richard   Co. OHG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00722290210</codiceFiscale>
+           <ragioneSociale>Aichner Richard   Co. OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5802</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-24</dataInizio>
+       <dataUltimazione>2014-11-28</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7811B97C7</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Riqualificazione dell'entrata del paese e delle aree di traffico nella zona della casa pluriuso a Fleres di Dentro - Incarico per l'elaborazione di un concetto e di un progetto preliminare.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02570610218</codiceFiscale>
+           <ragioneSociale>Sölva Landscape concepts</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02570610218</codiceFiscale>
+           <ragioneSociale>Sölva Landscape concepts</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3800</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-12</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD911C7BE6</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Incarico per la fornitura ed il montaggio di guardrail nella località di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01385040223</codiceFiscale>
+           <ragioneSociale>Argu-Traffic des Guntriner Armin</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01385040223</codiceFiscale>
+           <ragioneSociale>Argu-Traffic des Guntriner Armin</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4108</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+       <dataUltimazione>2014-12-10</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4108</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA311DFC65</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Abbonamento per le bance dati Leggi d'Italia e Codici d'Italia per l'anno 2015-</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>10209790152</codiceFiscale>
+           <ragioneSociale>Wolters Kluwer Italia Srl - Leggi D'italia Professionali</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>10209790152</codiceFiscale>
+           <ragioneSociale>Wolters Kluwer Italia Srl - Leggi D'italia Professionali</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>600</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-01-01</dataInizio>
+       <dataUltimazione>2015-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0C11E8624</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Lavori di manutenzione al manto stradale nella Via Färber a Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1079.98</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig> Z7411E86B</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Posa di una condotta per acqua potabile al Brennero.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00197290216</codiceFiscale>
+           <ragioneSociale>WIPPTALER BAU AG.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1311.14</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z5512031B1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Sostituzione dello scambiatore di calore  del teleriscaldamento nella caserma dei Vigili del Fuoco di Colle Isarco.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02283630214</codiceFiscale>
+           <ragioneSociale>MADER G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02283630214</codiceFiscale>
+           <ragioneSociale>MADER G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>545.47</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-01</dataInizio>
+       <dataUltimazione>2014-12-05</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z9A11E4381</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Esecuzione dei controlli propri per l'analisi dell'acqua potabile per l'anno 2015</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01531480216</codiceFiscale>
+           <ragioneSociale>Eco Center AG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01531480216</codiceFiscale>
+           <ragioneSociale>Eco Center AG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2683</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-01-01</dataInizio>
+       <dataUltimazione>2015-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z4C12075DC</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione  caserma dei vigili del fuoco a Fleres. Incarico per la fornitura di 5000  kg di Pellets.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01506260213</codiceFiscale>
+           <ragioneSociale>Mitterrutzner Brennstoffe GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1195</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-04</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE9120063E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura e il montaggio di arredamento integrativo per  gli uffici comunali.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00469110217</codiceFiscale>
+           <ragioneSociale>TISCHLEREI SCHNEIDER OHG d. Schneider Gerhard u. Christoph   Co.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3291.56</importoAggiudicazione>
+     <tempiCompletamento>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE21207908</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Frana sulla strada Sasso -  Incarico all'ing. Stefano Moser della MC Engineering per il rilievo dell'area della zona interessata e per l'elaborazione di uno studio di fattibilità per le misure necessarie per l'eliminazione del pericolo.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02549230213</codiceFiscale>
+           <ragioneSociale>MC - Engineering GmbH - Dott. Ing. Stefano Moser</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-09</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z90124A72C</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Fornitura di 1 computer per gli uffici comunali.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01170810228</codiceFiscale>
+           <ragioneSociale>ALDEBRA SPA - INFORMATION   COMMUNICATION TECHNOLOGY</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01170810228</codiceFiscale>
+           <ragioneSociale>ALDEBRA SPA - INFORMATION   COMMUNICATION TECHNOLOGY</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>660</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-29</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z1C126025E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto> Pulizia della stazione di Colle Isarco per il periodo dal 01.01.2015 al 30.06.2015.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00612190215</codiceFiscale>
+           <ragioneSociale>S.R.D. GEBÄUDEREINIGUNG GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00612190215</codiceFiscale>
+           <ragioneSociale>S.R.D. GEBÄUDEREINIGUNG GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>479</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-01-01</dataInizio>
+       <dataUltimazione>2015-06-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z83124BC2E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Costruzione  caserma dei vigili del fuoco a Fleres. Incarico per la posa di una conduttura per l'acqua.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00745940213</codiceFiscale>
+           <ragioneSociale>SCHNEIDER KG des Schneider Roland   Co.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+     </aggiudicatari>
+     <importoAggiudicazione>3830.86</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-22</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z54124BD3D</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Rimozione dei danni causati dal maltempo a Fleres nell'ambito di Reisenschuh.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02347430213</codiceFiscale>
+           <ragioneSociale>Brunner Matthias   Leiter Paul OHG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02347430213</codiceFiscale>
+           <ragioneSociale>Brunner Matthias   Leiter Paul OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>7072.4</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-12-22</dataInizio>
+       <dataUltimazione>2014-12-23</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE30D2EDC0</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Stipula varie polizze assicurative.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01132950211</codiceFiscale>
+           <ragioneSociale>EISENDLE VERSICHERUNGEN G.M.B.H.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01712870219</codiceFiscale>
+           <ragioneSociale>ITAS VERSICHERUNGEN - AGENTUR STERZING</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01132950211</codiceFiscale>
+           <ragioneSociale>EISENDLE VERSICHERUNGEN G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+       <aggiudicatario>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+       <aggiudicatario>
+           <codiceFiscale>01712870219</codiceFiscale>
+           <ragioneSociale>ITAS VERSICHERUNGEN - AGENTUR STERZING</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>25000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>19045.55</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z281011400</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Polizza assicurativa responsabilità civile contro il patrimonio.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4950</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4950</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD610114D1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Assicurazione casco/incendio/furto automezzi.</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>800</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>800</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZD4113B642</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Assicurazione contro rischi di responsabilità civile - autoveicolo Kramer</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>442</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-10-30</dataInizio>
+       <dataUltimazione>2015-10-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>442</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE111B5CD1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006650212</codiceFiscaleProp>
+       <denominazione>COMUNE DI BRENNERO</denominazione>
+     </strutturaProponente>
+     <oggetto>Assicurazione contro i rischi di respansabilità civile UNIMOG</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00423280213</codiceFiscale>
+           <ragioneSociale>ASSICONSULT G.M.B.H.</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1945</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-11-18</dataInizio>
+       <dataUltimazione>2015-11-18</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1945</importoSommeLiquidate>
+   </lotto>
+ </data>
+</legge190:pubblicazione>

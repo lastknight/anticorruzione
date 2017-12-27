@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Amministrazione separata B.U.C. Laces - Pubblicazione legge 190</titolo>
+    <abstract>Indice Amministrazione separata B.U.C. Laces - Pubblicazione legge 190 - Riferimento anni 2014-2015</abstract>
+    <dataPubblicazioneIndice>2015-02-12</dataPubblicazioneIndice>
+    <entePubblicatore>Amministrazione separata B.U.C. Laces</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-09</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/bandi/L190/0472/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0472/esiti_2014_20150202-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0472/esiti_2015_20160209-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-09</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.aterteramo.it/uploads/avcp/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione indice anno 2014</titolo>
+    <abstract>Pubblicazione indice relativo all'anno 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>ATER Teramo</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2014-12-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.aterteramo.it/uploads/avcp/indicedataset_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.aterteramo.it/uploads/avcp/2014/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-12-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
+

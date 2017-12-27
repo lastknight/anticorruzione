@@ -1,0 +1,675 @@
+<!DOCTYPE HTML>
+<html lang="it-it" dir="ltr">
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="http://www.iiscastrolibero.gov.it/iis/index.php/area-riservata" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Area Riservata</title>
+  <link href="/iis/templates/tk_gen_free_ii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/iis/cache/widgetkit/widgetkit-9c767ce3.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.iiscastrolibero.gov.it/iis/modules/mod_djimageslider/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/iis/components/com_jevents/views/geraint/assets/css/modstyle.css" type="text/css" />
+  <style type="text/css">
+html { display:none }
+		/* Styles for DJ Image Slider with module id 94 */
+		#djslider-loader94 {
+			margin: 0 auto;
+			position: relative;
+		}
+		#djslider94 {
+			margin: 0 auto;
+			position: relative;
+			height: 180px; 
+			width: 740px;
+			max-width: 740px;
+		}
+		#slider-container94 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 100%;
+			width: 100%;
+		}
+		#djslider94 ul#slider94 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider94 ul#slider94 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 10px 0px 0 !important;
+			position: relative;
+			height: 180px;
+			width: 240px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider94 li img {
+			width: 100%;
+			height: auto;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider94 li a img, #slider94 li a:hover img {
+			border: 0 !important;
+		}
+		
+  </style>
+  <script src="/iis/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/iis/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/iis/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/iis/cache/widgetkit/widgetkit-0966fe15.js" type="text/javascript"></script>
+  <script src="/iis/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/iis/modules/mod_djimageslider/assets/powertools-1.2.0.js" type="text/javascript"></script>
+  <script src="/iis/modules/mod_djimageslider/assets/slider.js" type="text/javascript"></script>
+  <script type="text/javascript">
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });window.addEvent('domready', function () {if (top == self) {document.documentElement.style.display = 'block'; } else {top.location = self.location; }});(function($){ window.addEvent('domready',function(){this.Slider94 = new DJImageSliderModule({id: '94', slider_type: 0, slide_size: 250, visible_slides: 3, show_buttons: 0, show_arrows: 0, preload: 800},{auto: 1, transition: Fx.Transitions.Cubic.easeInOut, duration: 800, delay: 3800})}); })(document.id);
+  </script>
+
+<link rel="apple-touch-icon-precomposed" href="/iis/templates/tk_gen_free_ii/apple_touch_icon.png" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/base.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/layout.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/menus.css" />
+<style>.wrapper { max-width: 980px; }
+#sidebar-a { width: 25%; }
+#sidebar-b { width: 25%; }
+#maininner { width: 50%; }
+#maininner, #sidebar-a { position: relative; }
+#maininner { left: 25%; }
+#sidebar-a { left: -50%; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/modules.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/tools.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/system.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/extensions.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/custom.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/font2/arial.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/font3/arial.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/style.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/responsive.css" />
+<link rel="stylesheet" href="/iis/templates/tk_gen_free_ii/css/print.css" />
+<script src="/iis/templates/tk_gen_free_ii/warp/js/warp.js"></script>
+<script src="/iis/templates/tk_gen_free_ii/warp/js/responsive.js"></script>
+<script src="/iis/templates/tk_gen_free_ii/warp/js/accordionmenu.js"></script>
+<script src="/iis/templates/tk_gen_free_ii/warp/js/dropdownmenu.js"></script>
+<script src="/iis/templates/tk_gen_free_ii/js/template.js"></script>
+</head>
+
+<body id="page" class="page sidebar-a-left sidebar-b-right sidebars-2  noblog " data-config='{"twitter":1,"plusone":1,"facebook":1}'>
+
+		
+	<div id="block-toolbar"><div>
+		
+		<div class="wrapper">
+		
+			
+		
+		</div>
+		
+	</div></div>
+		
+	<div id="block-header">
+		
+		<div class="wrapper">
+		
+		<div id="toolbar" class="clearfix">
+	
+								<div class="float-left">
+				
+										<time datetime="2017-12-27">Mercoledì, 27 Dicembre 2017</time>
+									
+										
+				</div>
+									
+								
+			</div>
+		
+			<header id="header">
+	
+				<div id="headerbar" class="clearfix">
+				
+						
+					<a id="logo" href="http://www.iiscastrolibero.gov.it/iis">
+<table style="width: 1000px;" align="center" border="0">
+<tbody>
+<tr>
+<td>
+<p><img alt="banner con Sirio e ITS 2015" src="/iis/images/banners/banner_con_Sirio_e_ITS_2015.gif" height="252" width="980" /></p>
+</td>
+</tr>
+</tbody>
+</table></a>
+										
+										
+				</div>
+	
+				
+			
+			</header>
+			
+		</div>
+		
+	</div>
+	
+	
+	
+	<div id="block-menu">
+		
+		<div class="wrapper">
+		
+	<div id="menubar"><div><div class="clearfix">
+					
+						
+										
+				</div></div></div>
+			
+					
+	</div>
+		
+	</div>
+				
+				
+				
+				
+				
+	
+		
+		
+		<div id="block-main">
+		
+		<div id="main" class="wrapper grid-block">
+		
+			<div id="maininner" class="grid-box">
+			
+								
+								
+								
+				<section id="content" class="grid-block">
+<div id="system-message-container">
+</div>
+
+<div id="system">
+	
+	
+	
+	<form class="submission small style" action="/iis/index.php/area-riservata?task=user.login" method="post">
+	
+		<fieldset>
+												<div><label id="username-lbl" for="username" class="">Nome utente</label><input type="text" name="username" id="username" value="" class="validate-username" size="25"/></div>
+																<div><label id="password-lbl" for="password" class="">Password</label><input type="password" name="password" id="password" value="" class="validate-password" size="25"/></div>
+							
+
+						<div>
+				<label for="remember">Ricordami</label>
+				<input type="checkbox" name="remember" class="inputbox" value="yes"  alt="Ricordami" />
+			</div>
+			
+			<div>
+				<button type="submit" class="button">Accedi</button>
+			</div>
+
+			<ul>
+				<li><a href="/iis/index.php/il-tuo-profilo?view=reset">Hai dimenticato la tua password?</a></li>
+				<li><a href="/iis/index.php/il-tuo-profilo?view=remind">Hai dimenticato il tuo nome utente?</a></li>
+											</ul>
+
+		</fieldset>
+
+		<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fcGhvY2Fkb3dubG9hZCZ2aWV3PWNhdGVnb3J5JmlkPTg6YmFuZGktZGktZ2FyYS1lLWNvbnRyYXR0aSZJdGVtaWQ9MjQy" />
+		<input type="hidden" name="3e342fd4d28028ede525adbd312aa822" value="1" />	</form>
+
+</div></section>
+				
+				
+				
+			</div>
+			
+						<aside id="sidebar-a" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-box _menu deepest">
+
+		<h3 class="module-title"><span class="color">La</span> Scuola</h3>	<ul class="menu menu-sidebar"><li class="level1 item101"><a href="/iis/" class="level1"><span>Home</span></a></li><li class="level1 item120"><a href="/iis/index.php/la-storia" class="level1"><span>La storia</span></a></li><li class="level1 item121"><a href="/iis/index.php/dirigenza" class="level1"><span>Dirigenza</span></a></li><li class="level1 item122"><a href="/iis/index.php/organizzazione" class="level1"><span>Organizzazione</span></a></li><li class="level1 item124"><a href="/iis/index.php/organi-collegiali" class="level1"><span>Organi Collegiali</span></a></li><li class="level1 item123"><a href="/iis/index.php/strutture" class="level1"><span>Strutture</span></a></li><li class="level1 item164"><a href="/iis/index.php/dove-siamo" class="level1"><span>Dove siamo</span></a></li><li class="level1 item195"><a href="/iis/index.php/galleria-eventi" class="level1"><span>Galleria eventi</span></a></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/../scuola"><img alt="banner elearningi" src="/iis/images/banners/banner_elearningi.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/amministrazione-trasparente"><img alt="Amministrazione Trasparente" src="/iis/images/banners/banner_amm_trasp.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<div id="djslider-loader94" class="djslider-loader">
+    <div id="djslider94" class="djslider">
+        <div id="slider-container94" class="slider-container">
+        	<ul id="slider94">
+          		          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/0.JPG" alt="0.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/1.JPG" alt="1.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/4.JPG" alt="4.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/5.JPG" alt="5.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/6.JPG" alt="6.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/7.JPG" alt="7.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/9.JPG" alt="9.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/10.JPG" alt="10.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/11.JPG" alt="11.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/12.JPG" alt="12.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/13.JPG" alt="13.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/14.JPG" alt="14.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/15.JPG" alt="15.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/16.JPG" alt="16.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/17.JPG" alt="17.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/18.JPG" alt="18.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/19.JPG" alt="19.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/20.JPG" alt="20.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/21.JPG" alt="21.JPG" />
+															</a>
+																									
+						
+					</li>
+                          			<li>
+          					            											<a  href="http://www.iiscastrolibero.gov.it/iis/index.php/galleria-eventi" target="_self">
+															<img src="/iis/images/phocagallery/istituto/miniature/22.JPG" alt="22.JPG" />
+															</a>
+																									
+						
+					</li>
+                        	</ul>
+        </div>
+                    </div>
+</div>
+	
+<div style="clear: both"></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/liceo-scientifico-a-indirizzo-sportivo"><img alt="banner liceo scientifico sportivo" src="/iis/images/banners/banner_liceo_scientifico_sportivo.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/centro-sportivo-scolastico"><img alt="centrosportivo" src="/iis/images/banners/centrosportivo.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+		<h3 class="module-title">Segreteria</h3>	<ul class="menu menu-sidebar"><li class="level1 item176"><a href="/iis/index.php/orario-di-apertura" class="level1"><span>Orario di Apertura</span></a></li><li class="level1 item178"><a href="/iis/index.php/iscrizioni" class="level1"><span>Iscrizioni</span></a></li><li class="level1 item180"><a href="/iis/index.php/calendario-impegni/month.calendar/2017/12/27/-" class="level1"><span>Calendario Impegni</span></a></li><li class="level1 item181"><a href="/iis/index.php/modulistica" class="level1"><span>Modulistica</span></a></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+		<h3 class="module-title">Documenti</h3>	<ul class="menu menu-sidebar"><li class="level1 item169"><a href="/iis/index.php/annuario" class="level1"><span>Annuario</span></a></li><li class="level1 item170"><a href="/iis/index.php/giornalino" class="level1"><span>Giornalino</span></a></li><li class="level1 item171"><a href="/iis/index.php/p-o-f-p-t-o-f-p-a-i" class="level1"><span>P.O.F. - P.T.O.F - P.A.I.</span></a></li><li class="level1 item172"><a href="/iis/index.php/regolamento-di-istituto" class="level1"><span>Regolamento di Istituto</span></a></li><li class="level1 item264"><a href="/iis/index.php/regolamento-sul-fumo" class="level1"><span>Regolamento sul fumo</span></a></li><li class="level1 item173"><a href="/iis/index.php/calendario-scolastico" class="level1"><span>Calendario Scolastico</span></a></li><li class="level1 item196"><a href="/iis/index.php/orario-di-ricevimento-docenti" class="level1"><span>Orario di ricevimento Docenti</span></a></li><li class="level1 item174"><a href="/iis/index.php/contratto-integrativo" class="level1"><span>Contratto Integrativo</span></a></li><li class="level1 item175"><a href="/iis/index.php/codici-disciplinari" class="level1"><span>Codici Disciplinari</span></a></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<table style="border-color: #ffffff; border-width: 0px; border-style: solid; width: 176px; height: 170px;" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; height: 60px;"><a href="/iis/index.php/normative-regolamenti" class="level1"><span></span></a><a href="/iis/index.php/avvisi-circolari-decreti" class="level1"><span> </span></a>
+<p><img alt="banner servizi" src="/iis/images/banners/banner_servizi.gif" height="64" width="180" style="line-height: 1.3em;" /></p>
+</td>
+</tr>
+<tr>
+<td style="height: 30px;"><a href="/iis/index.php/area-riservata" class="level1"><span>Area Riservata</span></a></td>
+</tr>
+<tr>
+<td style="height: 30px;"><a href="/iis/index.php/contatti" class="level1"><span>Contatti</span></a></td>
+</tr>
+<tr>
+<td style="height: 30px;"><a href="/iis/index.php/p-o-n-p-o-r" class="level1"><span></span></a><a href="/iis/index.php/mappa-del-sito" class="level1"><span>Mappa del Sito</span></a></td>
+</tr>
+</tbody>
+</table>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<center>
+<p><a href="/iis/index.php/archivio"><img alt="archivio1" src="/iis/images/banners/archivio1.gif" height="64" width="180" /></a></p>
+</center>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<center>
+<p><a href="/iis/index.php/curriculm-vitae-studenti" style="color: #0000cc; text-decoration: underline; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; text-align: center;"><img alt="banner cv studenti" src="/iis/images/banners/banner_cv_studenti.gif" height="64" width="180" /></a></p>
+</center>		
+</div></div></aside>
+						
+						<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p><a data-mce-bogus="1" href="http://iiscastrolibero.gov.it/iis/albo/"><img style="display: block; margin-left: auto; margin-right: auto;" alt="banner albo new" src="/iis/images/banners/banner_albo_new.gif" height="64" width="180" /></a></p>
+<p><a href="/iis/index.php/progetti-p-o-n-p-o-r"><img style="display: block; margin-left: auto; margin-right: auto;" alt="banner ponpor new" src="/iis/images/banners/banner_ponpor_new.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/garanzia-giovani-progetto-fixio"><img alt="banner fixio1" src="/iis/images/banners/banner_fixio1.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/7-notizie/8-iscrizione-a-s-2013-14"><img alt="iscrizionionline" src="/iis/images/banners/iscrizionionline.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/bisogni-educativi-speciali"><img alt="banner-bse" src="/iis/images/banners/banner-bse.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/dicono-di-noi"><img alt="diconodinoi" src="/iis/images/banners/diconodinoi.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/alternanza-scuola-lavoro"><img alt="alternanza" src="/iis/images/banners/alternanza.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/7-notizie/9-registro-elettronico"><img alt="banner registro" src="/iis/images/banners/banner_registro.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/component/content/category/67-piano-nazionale-scuola-digitale"><img alt="piano-nazionalke-scuola-digitale" src="/iis/images/piano-nazionalke-scuola-digitale.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/ambienti-digitali-di-apprendimento"><img alt="ambientiDigitalii" src="/iis/images/banners/ambientiDigitalii.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/component/content/category/71-avanguardie-educative"><img alt="logo" src="/iis/images/immagini_icone/logo.png" height="76" width="200" style="vertical-align: middle;" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="/iis/index.php/13-la-scuola/39-pantente-europea-computer"><img alt="banner ecdl" src="/iis/images/banners/banner_ecdl.gif" height="64" width="180" /></a></p>
+<p align="center"><a href="/iis/index.php/13-la-scuola/40-certificazione-cambridge-english-language-assessment"><img alt="banner cambridge" src="/iis/images/banners/banner_cambridge.gif" height="64" width="180" /></a></p>
+<p align="center"><a href="/iis/index.php/13-la-scuola/41-european-business-competence-licence"><img alt="banner-ebcl" src="/iis/images/banners/banner-ebcl.gif" height="64" width="180" /></a></p>
+<p align="center"><a href="/iis/index.php/13-la-scuola/38-trinity-college-london"><img alt="base trinity" src="/iis/images/banners/base_trinity.gif" height="64" width="180" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a target="_blank" href="http://europa.eu/index_it.htm"><img alt="ue1" src="/iis/images/banners/ue1.gif" height="73" width="90" /></a><a target="_blank" href="http://www.istruzione.it"> <img alt="miur1" src="/iis/images/banners/miur1.gif" height="73" width="61" /></a><a target="_blank" href="http://www.calabriascuola.it"><img alt="usr1" src="/iis/images/banners/usr1.gif" height="75" width="64" /></a><a target="_blank" href="http://www.csa.cs.it"> <img alt="usp1" src="/iis/images/banners/usp1.gif" height="75" width="78" /></a><a target="_blank" href="http://www.provincia.cosenza.it"><img alt="prov1" src="/iis/images/banners/prov1.gif" height="75" width="55" /></a><a target="_blank" href="http://www.comune.castrolibero.cs.it"> <img alt="castro1" src="/iis/images/banners/castro1.gif" height="75" width="80" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a target="_blank" href="https://www.youtube.com/user/IISVALENTINIMAJORANA"><img alt="youtube" src="/iis/images/phocagallery/fb/youtube.jpeg" height="65" width="65" /></a><a target="_blank" href="https://www.facebook.com/istitutoistruzionesuperiorecastrolibero"><img alt="facebook" src="/iis/images/phocagallery/fb/facebook.jpg" height="65" width="93" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+			
+<p align="center"><a href="http://www.magellanopa.it/bussola/page.aspx?s=report&amp;qs=vyPffVNA39N4yea9EMHgoMIQTfvk7MQKq9GCh9tcK0w=" title="Bussola della Trasparenza Report"> <img src="http://www.magellanopa.it/bussola/media/bussola-report.png" title="Bussola della Trasparenza Report" /> </a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
+
+				<script language="javascript"  type="text/javascript" ><!--
+	function navLoaded(elem, modid){
+		var myspan = document.getElementById("testspan"+modid);
+		var modbody = myspan.parentNode;
+		modbody.innerHTML=elem.innerHTML;
+	}
+	function callNavigation(link){
+		var body = document.getElementsByTagName('body')[0];
+		if (!document.getElementById('calnav')){
+			myiframe = document.createElement('iframe');
+			myiframe.setAttribute("name","calnav");
+			myiframe.setAttribute("id","calnav");
+			myiframe.style.display = "none";
+			body.appendChild(myiframe);
+		}
+		else {
+			myiframe = document.getElementById('calnav');
+		}
+		myiframe.setAttribute("src",link);
+	}
+	//--></script>
+	<div style="margin:0px;padding:0px;border-width:0px;"><span id='testspan113' style='display:none'></span>
+
+<table style="width:140px;" cellpadding="0" cellspacing="0" align="center" class="mod_events_monthyear" >
+<tr >
+<td><div class="mod_events_link" onmousedown="callNavigation('index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=12&amp;year=2016&amp;modid=113&amp;tmpl=component');">&laquo;</div>
+</td><td><div class="mod_events_link" onmousedown="callNavigation('index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=11&amp;year=2017&amp;modid=113&amp;tmpl=component');">&lt;</div>
+</td><td align="center"><a href="/iis/index.php/calendario-impegni/month.calendar/2017/12/27/-" class = "mod_events_link" title = "Vai al calendario - Mese corrente">Dicembre</a> <a href="/iis/index.php/calendario-impegni/year.listevents/2017/12/27/-" class = "mod_events_link" title = "Vai al calendario - Anno corrente">2017</a> </td><td><div class="mod_events_link" onmousedown="callNavigation('index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=01&amp;year=2018&amp;modid=113&amp;tmpl=component');">&gt;</div>
+</td><td><div class="mod_events_link" onmousedown="callNavigation('index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=12&amp;year=2018&amp;modid=113&amp;tmpl=component');">&raquo;</div>
+</td></tr>
+</table>
+<table style="width:140px;height:; align="center" class="mod_events_table" cellspacing="0" cellpadding="2" >
+<tr class="mod_events_dayname">
+<td class="mod_events_td_dayname"><span class="sunday">D</span></td>
+<td class="mod_events_td_dayname">L</td>
+<td class="mod_events_td_dayname">M</td>
+<td class="mod_events_td_dayname">M</td>
+<td class="mod_events_td_dayname">G</td>
+<td class="mod_events_td_dayname">V</td>
+<td class="mod_events_td_dayname"><span class="saturday">S</span></td>
+</tr>
+<tr>
+<td class="mod_events_td_dayoutofmonth">26</td>
+<td class="mod_events_td_dayoutofmonth">27</td>
+<td class="mod_events_td_dayoutofmonth">28</td>
+<td class="mod_events_td_dayoutofmonth">29</td>
+<td class="mod_events_td_dayoutofmonth">30</td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/01/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">1</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/02/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">2</a></td>
+</tr>
+<tr>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/03/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">3</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/04/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">4</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/05/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">5</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/06/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">6</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/07/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">7</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/08/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">8</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/09/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">9</a></td>
+</tr>
+<tr>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/10/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">10</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/11/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">11</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/12/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">12</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/13/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">13</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/14/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">14</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/15/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">15</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/16/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">16</a></td>
+</tr>
+<tr>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/17/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">17</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/18/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">18</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/19/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">19</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/20/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">20</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/21/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">21</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/22/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">22</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/23/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">23</a></td>
+</tr>
+<tr>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/24/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">24</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/25/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">25</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/26/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">26</a></td>
+<td class='mod_events_td_todaynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/27/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">27</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/28/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">28</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/29/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">29</a></td>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/30/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">30</a></td>
+</tr>
+<tr>
+<td class='mod_events_td_daynoevents'>
+<a href="/iis/index.php/calendario-impegni/day.listevents/2017/12/31/-" class = "mod_events_daylink" title = "Vai al calendario - Giorno corrente">31</a></td>
+<td class="mod_events_td_dayoutofmonth">1</td>
+<td class="mod_events_td_dayoutofmonth">2</td>
+<td class="mod_events_td_dayoutofmonth">3</td>
+<td class="mod_events_td_dayoutofmonth">4</td>
+<td class="mod_events_td_dayoutofmonth">5</td>
+<td class="mod_events_td_dayoutofmonth">6</td>
+</tr>
+</table>
+</div>		
+</div></div></aside>
+			
+		</div>
+		
+	</div>
+		
+		
+	
+	<div id="block-bottom-b">
+	
+		</div>
+	
+	
+		<div id="block-footer">
+	
+		<div class="wrapper">
+			
+			<footer id="footer" class="grid-block">
+	
+								<a id="totop-scroller" href="#page"></a>
+								
+				<div class="module   deepest">
+
+			
+<p style="text-align: center; vertical-align: top;"><span style="color: #ffffff; font-size: 10pt; font-family: Calibri;">Copyright 2013 Istituto di Istruzione Superiore "Maiorana-Valentini" , Via Aldo Cannata 1, 87040 Castrolibero (CS)- Powered by </span><span style="font-size: 10pt; font-family: Calibri;"><a href="http://digitalsolution.altervista.org/sito/" target="_blank">DigiSolution Cosenza</a></span></p>
+<p><a href="http://www.shinystat.com/it" target="_top"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=iiscastrolibero" alt="Utenti online" border="0" /></a></p>		
+</div>	
+			</footer>
+		
+		</div>
+		
+	</div>
+		
+		
+</body>
+</html>

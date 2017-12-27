@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 https://dati.avcp.it/schema/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione legge 190, anno rif. 2014</titolo>
+    <abstract>Pubblicazione legge 190, anno rif. 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-26</dataPubbicazioneDataset>
+    <entePubblicatore>Comune di Castro</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-26</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://dataset.ckube.it/avcp/appaltil190/castro_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZBE0F333FE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio gestione TARI</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl - Trescore Balneario</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl - Trescore Balneario</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-12</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z280DAF856</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura acqua </oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03299640163</codiceFiscale>
+          <ragioneSociale>UNIACQUE SPA - BERGAMO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03299640163</codiceFiscale>
+          <ragioneSociale>UNIACQUE SPA - BERGAMO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>351.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8C0DAF8D1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura gas metano per immobili</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13149000153</codiceFiscale>
+          <ragioneSociale>VIVIGAS SpA - Via Vittorio Emanuele  II n. 4/28 - Roncadelle</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13149000153</codiceFiscale>
+          <ragioneSociale>VIVIGAS SpA - Via Vittorio Emanuele  II n. 4/28 - Roncadelle</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>35000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>28124.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZED0DAF87D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Spese telefono immobili comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM SPA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM SPA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD40DAF89D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Spesa telefonia mobile</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TIM - Telecom Italia spa - MILANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TIM - Telecom Italia spa - MILANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1126.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1126.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8D0DAF81B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione impianti energia elettrica</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02322600541</codiceFiscale>
+          <ragioneSociale>ENEL SOLE SRL - ROMA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02322600541</codiceFiscale>
+          <ragioneSociale>ENEL SOLE SRL - ROMA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>18225.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16709.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z790DAF79E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Energia elettrica  per pubblica illuminazione </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03027910235</codiceFiscale>
+          <ragioneSociale>Multiutility</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03027910235</codiceFiscale>
+          <ragioneSociale>Multiutility</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16150.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1F0DAF7DF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura energia elettrica per immobili comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03027910235</codiceFiscale>
+          <ragioneSociale>Multiutility - spa - Via Enrico Fermi n. 4 - VERONA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03027910235</codiceFiscale>
+          <ragioneSociale>Multiutility - spa - Via Enrico Fermi n. 4 - VERONA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>18000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>18000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6011F3C99</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Sostituzione pneumatici invernali</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>RNLVNI62T13D117K</identificativoFiscaleEstero>
+          <ragioneSociale>Gomme Cantamessi di Rinaldi Ivano - Costa Volpino</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>RNLVNI62T13D117K</identificativoFiscaleEstero>
+          <ragioneSociale>Gomme Cantamessi di Rinaldi Ivano - Costa Volpino</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>656.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-20</dataInizio>
+        <dataUltimazione>2014-11-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z33121C162</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio Sgombero neve</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00393050166</codiceFiscale>
+          <ragioneSociale>Impresa Edile Servizi Pasinelli s.r.l. - Via T. Foresti n. 39 - Solto Collina </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00393050166</codiceFiscale>
+          <ragioneSociale>Impresa Edile Servizi Pasinelli s.r.l. - Via T. Foresti n. 39 - Solto Collina </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-18</dataInizio>
+        <dataUltimazione>2015-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z45121C541</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Videoproiettore</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08376630151</codiceFiscale>
+          <ragioneSociale>Systemax Italy srl - Lacchiarella (Mi)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08376630151</codiceFiscale>
+          <ragioneSociale>Systemax Italy srl - Lacchiarella (Mi)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>227.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF6123B40E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura materiale multimediale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02511020162</codiceFiscale>
+          <ragioneSociale>Leggere s.r.l. - Via GRumello n. 57 - Bergamo </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02511020162</codiceFiscale>
+          <ragioneSociale>Leggere s.r.l. - Via GRumello n. 57 - Bergamo </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2720.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-17</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3C11632CB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura fiori</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03239660164</codiceFiscale>
+          <ragioneSociale>Ditta Idea Verde ss - Via Del Tonale e Della Mendola - Endine Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03239660164</codiceFiscale>
+          <ragioneSociale>Ditta Idea Verde ss - Via Del Tonale e Della Mendola - Endine Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>216.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-10</dataInizio>
+        <dataUltimazione>2014-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>216.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0011A4391</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Gestione condominiale alloggi comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90021880167</codiceFiscale>
+          <ragioneSociale>Condominio Nuovo di Via Garibaldi - Castro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90021880167</codiceFiscale>
+          <ragioneSociale>Condominio Nuovo di Via Garibaldi - Castro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>464.22</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-10</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>464.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5711A4768</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Corso di aggiornamento</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00705281202</codiceFiscale>
+          <ragioneSociale>ANUSCA srl  - Castel San Pietro Terme</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00705281202</codiceFiscale>
+          <ragioneSociale>ANUSCA srl  - Castel San Pietro Terme</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>60.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-10</dataInizio>
+        <dataUltimazione>2014-12-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>60.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0611B86C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura numeri civici e codici della costituzione</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO srl - Via Santarcangiolese - Torriana (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO srl - Via Santarcangiolese - Torriana (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>95.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-17</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F11C646E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione idraulica immobili comunali</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Ditta Thermidraulica  Pasini di Pasini Giovanni</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Ditta Thermidraulica  Pasini di Pasini Giovanni</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-20</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F11C6569</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>contributo GSE e Scambio Sul Posto per impianto Fotovoltaico </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>03684550167</identificativoFiscaleEstero>
+          <ragioneSociale>ESCO Comuni srl - Trescore Balneario</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>03684550167</identificativoFiscaleEstero>
+          <ragioneSociale>ESCO Comuni srl - Trescore Balneario</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2459.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>737.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAD11D8A6A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione del verde</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03239660164</codiceFiscale>
+          <ragioneSociale>Società Agricola Idea Verde ss. - Via Del Tonale  e della Mendola 258 - Endine Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03239660164</codiceFiscale>
+          <ragioneSociale>Società Agricola Idea Verde ss. - Via Del Tonale  e della Mendola 258 - Endine Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7349.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7511D8BFD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura carta per fotocopie</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01754270179</codiceFiscale>
+          <ragioneSociale>Gamma Darfo s.r.l. - Via Montegrappa n. 33 - Rogno</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01754270179</codiceFiscale>
+          <ragioneSociale>Gamma Darfo s.r.l. - Via Montegrappa n. 33 - Rogno</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>84.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-20</dataInizio>
+        <dataUltimazione>2014-11-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8110F19F4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio gestione tributi</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>02725140160</identificativoFiscaleEstero>
+          <ragioneSociale>Ditta Studio Massimi - Via Pezzotta n. 60 - Ranzanico</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>02725140160</identificativoFiscaleEstero>
+          <ragioneSociale>Ditta Studio Massimi - Via Pezzotta n. 60 - Ranzanico</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>840.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-16</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD410FEA9D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto biglietti per stagione teatrale</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00802230151</codiceFiscale>
+          <ragioneSociale>Piccolo Teatro di Milano  - Teatro D&amp;apos;Europa - Milano</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00802230151</codiceFiscale>
+          <ragioneSociale>Piccolo Teatro di Milano  - Teatro D&amp;apos;Europa - Milano</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>672.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-30</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>672.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBD10FF70B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura serie registri stato civile</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO srl- Via Santarcangiolese - Torriana (Rn)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO srl- Via Santarcangiolese - Torriana (Rn)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>320.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-30</dataInizio>
+        <dataUltimazione>2014-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>320.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBC110988D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura Bulbi per tulipani</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09812150150</codiceFiscale>
+          <ragioneSociale>Demetra Società Cooperativa - Via Visconta n. 75 - Besana In Brianza </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09812150150</codiceFiscale>
+          <ragioneSociale>Demetra Società Cooperativa - Via Visconta n. 75 - Besana In Brianza </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>414.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-16</dataInizio>
+        <dataUltimazione>2014-11-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>414.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z77110A74A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>serv. manutenzione programmata caldaie  e gruppi termici</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>ZNLLCU66H13E704W</codiceFiscale>
+          <ragioneSociale>Zanella Luca di Lovere - Servizio tecnico autorizzato Riello</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>ZNLLCU66H13E704W</codiceFiscale>
+          <ragioneSociale>Zanella Luca di Lovere - Servizio tecnico autorizzato Riello</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2252.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-16</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2252.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z931126BF8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico tecnico professionale</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RCCLSU74R56E704H</codiceFiscale>
+          <ragioneSociale>Ing. Rocchini Luisa - Via Cima MOnte - Bossico</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RCCLSU74R56E704H</codiceFiscale>
+          <ragioneSociale>Ing. Rocchini Luisa - Via Cima MOnte - Bossico</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1991.11</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-30</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1991.11</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD21126C48</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico Tecnico Professionale</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03011650169</codiceFiscale>
+          <ragioneSociale>Studio Tecnico Figaroli -  Loc. Pertegalli - Endine  Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03011650169</codiceFiscale>
+          <ragioneSociale>Studio Tecnico Figaroli -  Loc. Pertegalli - Endine  Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1991.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-30</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1991.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE21129EAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura cancelleria</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO - VIA SANTARCANGIOLESE - TORRIANA  (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO - VIA SANTARCANGIOLESE - TORRIANA  (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>454.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-16</dataInizio>
+        <dataUltimazione>2014-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>454.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF1098155</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura Cancelleria</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>03222970406</identificativoFiscaleEstero>
+          <ragioneSociale>MYO - Torriana  (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>03222970406</identificativoFiscaleEstero>
+          <ragioneSociale>MYO - Torriana  (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>319.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-15</dataInizio>
+        <dataUltimazione>2014-09-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>319.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEF1096063</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura prodotti da panificio  per Scuola  Materna</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BLLLCU69A04E704L</codiceFiscale>
+          <ragioneSociale>Panificio Bellini di Bellini Luca</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BLLLCU69A04E704L</codiceFiscale>
+          <ragioneSociale>Panificio Bellini di Bellini Luca</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2245.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-04</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>393.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9E1097A99</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura frutta e verdura per scuola materna</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SGNCDN60T07A794L</codiceFiscale>
+          <ragioneSociale>Signorini Claudio Angelo - Via Coletto - Castro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SGNCDN60T07A794L</codiceFiscale>
+          <ragioneSociale>Signorini Claudio Angelo - Via Coletto - Castro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2612.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-04</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>522.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE71097AAA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura carne scuola materna</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PRSLCU64L30H331I</codiceFiscale>
+          <ragioneSociale>Pris Luca Macelleria - Via Cornello n. 6 - Riva di Solto (Bg)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PRSLCU64L30H331I</codiceFiscale>
+          <ragioneSociale>Pris Luca Macelleria - Via Cornello n. 6 - Riva di Solto (Bg)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2280.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-04</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>447.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z471097BA9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura  piatti scuola materna</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01925490169</codiceFiscale>
+          <ragioneSociale>FARMEC s.a.s. di Trotti Tiziana - Via Montegrappa - ROGNO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01925490169</codiceFiscale>
+          <ragioneSociale>FARMEC s.a.s. di Trotti Tiziana - Via Montegrappa - ROGNO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>78.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-04</dataInizio>
+        <dataUltimazione>2014-09-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>78.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9D10BCF6F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura Buoni pasto</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03105300101</codiceFiscale>
+          <ragioneSociale>QUI GROUP SPA - Via XX Settembre n. 29/7 - !&amp;amp;!&amp;quot;! GENOVA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03105300101</codiceFiscale>
+          <ragioneSociale>QUI GROUP SPA - Via XX Settembre n. 29/7 - !&amp;amp;!&amp;quot;! GENOVA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2105.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-11</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2105.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF010C6B26</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto software</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06711271004</codiceFiscale>
+          <ragioneSociale>Gesint srl - Via Romana n. 36 - Monfalcone</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06711271004</codiceFiscale>
+          <ragioneSociale>Gesint srl - Via Romana n. 36 - Monfalcone</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-16</dataInizio>
+        <dataUltimazione>2015-03-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>153.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCF10C8688</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio gestione sportello TASI</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02383950983</codiceFiscale>
+          <ragioneSociale>Cooperativa Fraternità Sistemi - Via Trepola  n. 195- Ospitaletto</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02383950983</codiceFiscale>
+          <ragioneSociale>Cooperativa Fraternità Sistemi - Via Trepola  n. 195- Ospitaletto</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-16</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5B107F105</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura segnaletica vertic ale</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01917530162</codiceFiscale>
+          <ragioneSociale>SIBESTAR  srl - Largo delle Industrie n. 2 - Torre Boldone</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01917530162</codiceFiscale>
+          <ragioneSociale>SIBESTAR  srl - Largo delle Industrie n. 2 - Torre Boldone</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>776.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-28</dataInizio>
+        <dataUltimazione>2014-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>776.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6510827AE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura scivolo</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02273480166</codiceFiscale>
+          <ragioneSociale>Ghitti Giuseppe s.n.c. di Contessi Giovanni &amp;amp; C.  - Endine Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02273480166</codiceFiscale>
+          <ragioneSociale>Ghitti Giuseppe s.n.c. di Contessi Giovanni &amp;amp; C.  - Endine Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-28</dataInizio>
+        <dataUltimazione>2014-09-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z89108288F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizi di manutenzione idraulica</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Thermoidraulica di Pasini Giovanni - Via S. Francesco - LOVERE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Thermoidraulica di Pasini Giovanni - Via S. Francesco - LOVERE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-20</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1C1082898</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizi manutenzione elettrica</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>ZBNRME60T03C337S</codiceFiscale>
+          <ragioneSociale>ditta Zubani Remo p.i. - Via Rocca - CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>ZBNRME60T03C337S</codiceFiscale>
+          <ragioneSociale>ditta Zubani Remo p.i. - Via Rocca - CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-17</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB510828A7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio cuoca</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 - CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 - CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>18499.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3699.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8610828BB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura materiali di pulizia</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01366740163</codiceFiscale>
+          <ragioneSociale>Ditta Panzeri Giovanni snc - Via Dell&amp;apos;Areonautica - CURNO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01366740163</codiceFiscale>
+          <ragioneSociale>Ditta Panzeri Giovanni snc - Via Dell&amp;apos;Areonautica - CURNO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>563.44</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-29</dataInizio>
+        <dataUltimazione>2014-09-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>563.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB210828D3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di pulizia immobili comunali</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 - CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 - CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3458.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z251082A0A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizi di informatica</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13262400156</codiceFiscale>
+          <ragioneSociale>Santer Reply - Spa - Via Castellanza n. 11 - MILANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13262400156</codiceFiscale>
+          <ragioneSociale>Santer Reply - Spa - Via Castellanza n. 11 - MILANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1F1095D45</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura alimenti per scuola materna</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BNDFRC66R71E704X</codiceFiscale>
+          <ragioneSociale>Alimentari La Piazzetta di Bendotti Federica - Piazza S. Giacomo - CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BNDFRC66R71E704X</codiceFiscale>
+          <ragioneSociale>Alimentari La Piazzetta di Bendotti Federica - Piazza S. Giacomo - CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1425.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-04</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1398.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z460F569BC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Progetto sensibilizzazione convenzione diritti dell&amp;apos;infanzia</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90031260160</codiceFiscale>
+          <ragioneSociale>Comitato Genitori dell&amp;apos;Istituto Comprensivo di Lovere </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90031260160</codiceFiscale>
+          <ragioneSociale>Comitato Genitori dell&amp;apos;Istituto Comprensivo di Lovere </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>160.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-14</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>160.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF30F56B43</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio manutenzione Idraulica</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Ditta Thermidraulica Pasini  di Pasini Giovanni - Via S. Francesco n. 4 - LOVERE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Ditta Thermidraulica Pasini  di Pasini Giovanni - Via S. Francesco n. 4 - LOVERE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-22</dataInizio>
+        <dataUltimazione>2014-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z140F5F43B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio accertamento ICI, TARSU e Perequazione</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02383950983</codiceFiscale>
+          <ragioneSociale>Cooperativa Fraternità  Sistemi - Via Trepola n. 195 - Ospitaletto</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02383950983</codiceFiscale>
+          <ragioneSociale>Cooperativa Fraternità  Sistemi - Via Trepola n. 195 - Ospitaletto</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24590.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-12</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>24590.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z350F5F44D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Noleggio fotocopiatrice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01631170162</codiceFiscale>
+          <ragioneSociale>Ditta Alberti Sergio &amp;amp; Figli - Via Marconi n. 57 - LOVERE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01631170162</codiceFiscale>
+          <ragioneSociale>Ditta Alberti Sergio &amp;amp; Figli - Via Marconi n. 57 - LOVERE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1916.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z570F9876B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Gestione servizio IMU</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02383950983</codiceFiscale>
+          <ragioneSociale>Cooperativa Fraternità Sistemi- Via Trepola n. 195 - Ospitaletto</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02383950983</codiceFiscale>
+          <ragioneSociale>Cooperativa Fraternità Sistemi- Via Trepola n. 195 - Ospitaletto</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-09</dataInizio>
+        <dataUltimazione>2015-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2C1024BE3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>incarico tecnico</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03011650169</codiceFiscale>
+          <ragioneSociale>Studio tecnico Figaroli - Loc. Pertegalli, 4 - Endine Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03011650169</codiceFiscale>
+          <ragioneSociale>Studio tecnico Figaroli - Loc. Pertegalli, 4 - Endine Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4472.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-14</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4472.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z441024B7E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico tenico</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RCCLSU74R56E704H</codiceFiscale>
+          <ragioneSociale>ing. Luisa Rocchini - Via Cima MOnte - BOSSICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RCCLSU74R56E704H</codiceFiscale>
+          <ragioneSociale>ing. Luisa Rocchini - Via Cima MOnte - BOSSICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3380.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-14</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3380.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA110476FE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Attività di sorveglianza sanitaria , aggiornamento PSS e nomina medico </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03533961003</codiceFiscale>
+          <ragioneSociale>Ditta Sintesi SpA - Via Giovanni Giolitti n. 42 - ROMA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03533961003</codiceFiscale>
+          <ragioneSociale>Ditta Sintesi SpA - Via Giovanni Giolitti n. 42 - ROMA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>80.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-24</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>80.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE00EE0BA4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Regolazione premio Polizza Infortuni dipendenti</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker srl - Via Alabarde n. 1 - Darfo Boario terme</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker srl - Via Alabarde n. 1 - Darfo Boario terme</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>74.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-12</dataInizio>
+        <dataUltimazione>2015-01-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>74.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD30EE0C0F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Regolazione premio polizza infortuni  per Gruppo Protezione Civile</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker srl - Via Alabarde n. 1 - Darfo Boario  Terme</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker srl - Via Alabarde n. 1 - Darfo Boario  Terme</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-12</dataInizio>
+        <dataUltimazione>2014-05-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7F0EE0FE4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Predisposizione pratica di rinnovo CPI scuola materna</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03930510163</codiceFiscale>
+          <ragioneSociale>Italclimastudio srl - Via Rondinera n. 43 - ROGNO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03930510163</codiceFiscale>
+          <ragioneSociale>Italclimastudio srl - Via Rondinera n. 43 - ROGNO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-17</dataInizio>
+        <dataUltimazione>2014-05-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8A0EECA34</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Predisposizione corona d&amp;apos;alloro</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03284650169</codiceFiscale>
+          <ragioneSociale>Soc. Agricola Green Flor s.s. di Gratacasolo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03284650169</codiceFiscale>
+          <ragioneSociale>Soc. Agricola Green Flor s.s. di Gratacasolo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-23</dataInizio>
+        <dataUltimazione>2014-05-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>40.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD50F0E516</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Allestimento bozze e stampa manifesti  Elezioni Europee e Amministrative</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>myo  srl di Torriana (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>myo  srl di Torriana (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1022.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-12</dataInizio>
+        <dataUltimazione>2014-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>208.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC30F15002</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Segnaletica stradale incarico alla ditta Sibestar Srl di Torre Boldone</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>01917530162</identificativoFiscaleEstero>
+          <ragioneSociale>SIBESTAR SRL - TORRE BOLDONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>01917530162</identificativoFiscaleEstero>
+          <ragioneSociale>SIBESTAR SRL - TORRE BOLDONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1950.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-05</dataInizio>
+        <dataUltimazione>2014-06-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1950.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z320F32DA2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>sostituzione autista scuolabus</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02562580403</codiceFiscale>
+          <ragioneSociale>MABB SRL AUTONOLEGGIO -VIA COSTITUZIONE N. 17 - SOVERE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02562580403</codiceFiscale>
+          <ragioneSociale>MABB SRL AUTONOLEGGIO -VIA COSTITUZIONE N. 17 - SOVERE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1254.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-12</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1254.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z260F39545</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Gestione condominiale alloggi di proprietà comunale Via Garibaldi n. 22</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90021880167</codiceFiscale>
+          <ragioneSociale>Condominio Nuovo di Via Garibaldi n. 22 - Castro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90021880167</codiceFiscale>
+          <ragioneSociale>Condominio Nuovo di Via Garibaldi n. 22 - Castro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1060.97</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1060.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDD0E68E04</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Approvazione disciplinare e conferimento incarico professionale relativo alla certificazione energetica di n. 1 unità residenziale di proprietà comunale - integrazione</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>LSSDNL76H47H598V</codiceFiscale>
+          <ragioneSociale>Ing. Lussignoli Daniela - Via Boschi n. 10 - Cazzago San Martino</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>LSSDNL76H47H598V</codiceFiscale>
+          <ragioneSociale>Ing. Lussignoli Daniela - Via Boschi n. 10 - Cazzago San Martino</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-03</dataInizio>
+        <dataUltimazione>2014-04-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>40.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBB0E74FCF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Integrazione servizio pulizia</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>955.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-22</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>955.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z180E74FFF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Stampa etichette</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRTRRT41M26C337L</codiceFiscale>
+          <ragioneSociale>Grafiche Martinelli di Martinelli Roberto - Via Montegrappa n. 22 - Rogno</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRTRRT41M26C337L</codiceFiscale>
+          <ragioneSociale>Grafiche Martinelli di Martinelli Roberto - Via Montegrappa n. 22 - Rogno</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-22</dataInizio>
+        <dataUltimazione>2014-04-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0E0E7503E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura ferramenta, chiavi e serrature</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CTTDNL51P13E704X</codiceFiscale>
+          <ragioneSociale>Daniele Cottinelli Ferramenta  - Lovere</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CTTDNL51P13E704X</codiceFiscale>
+          <ragioneSociale>Daniele Cottinelli Ferramenta  - Lovere</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>295.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-22</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>66.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6F0E882CD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Adesione ANUSCA </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00705281202</codiceFiscale>
+          <ragioneSociale>ANUSCA - Castel San Pietro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00705281202</codiceFiscale>
+          <ragioneSociale>ANUSCA - Castel San Pietro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>130.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-28</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>130.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEA0E8F169</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto stampati per Elezioni Europee e Comunali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO S.RL. - Via Santarcangiolese n. 6 Torriana (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO S.RL. - Via Santarcangiolese n. 6 Torriana (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>283.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-28</dataInizio>
+        <dataUltimazione>2014-05-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>263.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z040EA0B90</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura cancelleria</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01754270179</codiceFiscale>
+          <ragioneSociale>Gamma Darfo srl - Via Montegrappa n. 33 - Rogno</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01754270179</codiceFiscale>
+          <ragioneSociale>Gamma Darfo srl - Via Montegrappa n. 33 - Rogno</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>127.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-03</dataInizio>
+        <dataUltimazione>2014-04-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>127.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z750EC31AB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Aggiornamento software ufficio tecnico anno 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07795180152</codiceFiscale>
+          <ragioneSociale>Ditta Starch Srl - Olnago</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07795180152</codiceFiscale>
+          <ragioneSociale>Ditta Starch Srl - Olnago</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-10</dataInizio>
+        <dataUltimazione>2014-04-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEC0EC57A0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio assistenza per timbratrice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01628190165</codiceFiscale>
+          <ragioneSociale>TOSOLINI ORA INFORMATICA SRL - VIA PROVINAILE N. 44- LALLIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01628190165</codiceFiscale>
+          <ragioneSociale>TOSOLINI ORA INFORMATICA SRL - VIA PROVINAILE N. 44- LALLIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-11</dataInizio>
+        <dataUltimazione>2014-04-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>z150ED6913</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Progetto di sensibilizzazione sulla convenzione dei diritti per l&amp;apos;infanzia</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90031260160</codiceFiscale>
+          <ragioneSociale>Comitato Genitori dlel&amp;apos;Istituto Comprensivo di Lovere</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90031260160</codiceFiscale>
+          <ragioneSociale>Comitato Genitori dlel&amp;apos;Istituto Comprensivo di Lovere</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-16</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA20DF598A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione ascensore</oggetto>
+      <sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01041960160</codiceFiscale>
+          <ragioneSociale>Ditta Dentella con sede in Via Papa Giovanni XXIII - Lovere</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01041960160</codiceFiscale>
+          <ragioneSociale>Ditta Dentella con sede in Via Papa Giovanni XXIII - Lovere</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>933.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-20</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>933.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4E0E09DFC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura detersivi</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01366740163</codiceFiscale>
+          <ragioneSociale>Panzeri Giovanni snc - Via dell&amp;apos;Aeronautica - Curno</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01366740163</codiceFiscale>
+          <ragioneSociale>Panzeri Giovanni snc - Via dell&amp;apos;Aeronautica - Curno</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>164.97</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-03</dataInizio>
+        <dataUltimazione>2014-03-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>164.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4C0E35980</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di Tesoreria</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03034840169</codiceFiscale>
+          <ragioneSociale>BANCA POPOLARE DI BERGAMO sPa</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03034840169</codiceFiscale>
+          <ragioneSociale>BANCA POPOLARE DI BERGAMO sPa</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1229.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-14</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC60E35A07</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura vernici e attrezzature</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CRRVTR64S26I873P</codiceFiscale>
+          <ragioneSociale>Carrara Colori di Carrara Valter Giuseppe - Costa Volpino</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CRRVTR64S26I873P</codiceFiscale>
+          <ragioneSociale>Carrara Colori di Carrara Valter Giuseppe - Costa Volpino</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>245.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-06</dataInizio>
+        <dataUltimazione>2014-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>245.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z200E4C915</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio per sostituzione autista scuolabus</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02562580403</codiceFiscale>
+          <ragioneSociale>MABB srl Autonoleggio  - Via Costituzione n. 17 - Sovere</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02562580403</codiceFiscale>
+          <ragioneSociale>MABB srl Autonoleggio  - Via Costituzione n. 17 - Sovere</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>696.72</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-15</dataInizio>
+        <dataUltimazione>2014-03-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>696.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z240E4C92E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio raccolta e smaltimento rifiuti in house</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>VAL CAVALLINA SERVIZI srl - Piazza Salvo D&amp;apos;Acquisto, 80 - Trescore Balneario </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>VAL CAVALLINA SERVIZI srl - Piazza Salvo D&amp;apos;Acquisto, 80 - Trescore Balneario </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>39302.59</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>39302.59</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z270E4CAF8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Corso di formazione per addetti  al primo soccorso ai sensi del D.lgs 81/08 Aggiornamento</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02902460985</codiceFiscale>
+          <ragioneSociale>Società Unipersonale Assocamuna con sede in Piazza Giacomini n. 2 - Cividate Camuno (Bs)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02902460985</codiceFiscale>
+          <ragioneSociale>Società Unipersonale Assocamuna con sede in Piazza Giacomini n. 2 - Cividate Camuno (Bs)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>56.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-13</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>56.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA80E4CE5D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Corso di formazione generale dei lavoratori sulla sicurezza.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02902460985</codiceFiscale>
+          <ragioneSociale>Società Unipersonale Assocamuna - Piazza Giacomini n. 2 - Cividate Camuno (Bs)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02902460985</codiceFiscale>
+          <ragioneSociale>Società Unipersonale Assocamuna - Piazza Giacomini n. 2 - Cividate Camuno (Bs)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>50.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-13</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>50.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z740E600F6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio manutenzione attrezzature antincendio per l&amp;apos;anno 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01472410164</codiceFiscale>
+          <ragioneSociale>SAVE S.r.l. Tecnologia Antincendio - Via Santa Maria n. 43 - Lovere</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01472410164</codiceFiscale>
+          <ragioneSociale>SAVE S.r.l. Tecnologia Antincendio - Via Santa Maria n. 43 - Lovere</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>450.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-07</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>450.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC40E6573C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto PC e Monitor</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03298630165</codiceFiscale>
+          <ragioneSociale>RP INFORMATICA srl con sede in Clusone</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03298630165</codiceFiscale>
+          <ragioneSociale>RP INFORMATICA srl con sede in Clusone</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>728.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-19</dataInizio>
+        <dataUltimazione>2014-04-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>728.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF10D77775</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento servizi tecnici di supporto del responsabile del servizio tecnico e degli uffici comunali geom. Mirco Fiagroli</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03011650169</codiceFiscale>
+          <ragioneSociale>Studio Tecnico Figaroli - Loc. Pertegalli n. 4  Endine Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03011650169</codiceFiscale>
+          <ragioneSociale>Studio Tecnico Figaroli - Loc. Pertegalli n. 4  Endine Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8114.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-06</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8114.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD00D97E0E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura cancelleria</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO  SRL CON SEDE IN  TORRIANA (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO  SRL CON SEDE IN  TORRIANA (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>336.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-30</dataInizio>
+        <dataUltimazione>2014-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>336.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z820D99236</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di pulizia locali ambulatorio comunale e biblioteca </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01793420165</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale Sebina Onlus - Via Rocca n. 9 CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>835.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-15</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>835.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB90D9E1BF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Rilegatura registri e registri di leva</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO srl di Torriana (RN)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO srl di Torriana (RN)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>194.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-31</dataInizio>
+        <dataUltimazione>2014-02-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>194.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA80D9E211</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Software per uffici</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06711271004</codiceFiscale>
+          <ragioneSociale>Gesint srl - sede operativa - Via Romana n. 36 Monfalcone</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06711271004</codiceFiscale>
+          <ragioneSociale>Gesint srl - sede operativa - Via Romana n. 36 Monfalcone</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1737.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-08</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1737.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z200DB5549</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio progettazione preliminare relativo ai lavori di manutenzione straordinaria palestra comunale Via Garibaldi n. 24 in Comune a Castro</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>LSSDNL76H47H598V</codiceFiscale>
+          <ragioneSociale>Ing. Lussignoli Daniela - Via Boschi n. 10  - Cazzago San Martino </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>LSSDNL76H47H598V</codiceFiscale>
+          <ragioneSociale>Ing. Lussignoli Daniela - Via Boschi n. 10  - Cazzago San Martino </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>163.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-24</dataInizio>
+        <dataUltimazione>2014-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>163.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE20DDF927</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Gestione ordinaria amministrazione condominiale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>96003670161</codiceFiscale>
+          <ragioneSociale>Condominio Giugai - Via A. Zubani  - CASTRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>96003670161</codiceFiscale>
+          <ragioneSociale>Condominio Giugai - Via A. Zubani  - CASTRO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2157.98</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2157.98</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA60DDF9A6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione e riparazione scuolabus</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03630190167</codiceFiscale>
+          <ragioneSociale>F.lli Campagnoni Autofficina - Costa Volpino </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03630190167</codiceFiscale>
+          <ragioneSociale>F.lli Campagnoni Autofficina - Costa Volpino </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2049.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-17</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1328.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC90DE6EEF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio ritiro e smaltimento rifiuti cimiteriali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>95173320169</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi s.r.l. - Trescore Balneario</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>95173320169</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi s.r.l. - Trescore Balneario</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-19</dataInizio>
+        <dataUltimazione>2014-03-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF20D36096</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio manutenzione programmata paghe</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13262400156</codiceFiscale>
+          <ragioneSociale>Santer Reply SpA - Milano</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13262400156</codiceFiscale>
+          <ragioneSociale>Santer Reply SpA - Milano</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>190.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-08</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>190.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z320D361C8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio fornitura materiale librario</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02511020162</codiceFiscale>
+          <ragioneSociale>Leggere s.r.l. - Via GRumello - Bergamo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02511020162</codiceFiscale>
+          <ragioneSociale>Leggere s.r.l. - Via GRumello - Bergamo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-08</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>490.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5A0D775FA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento di servizi tecnici di supporto del responsabile del servizio tecnico</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RCCLSU74R56E704H</codiceFiscale>
+          <ragioneSociale>Ing,. Luisa Rocchini - Via Cima Monte - Bossico</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RCCLSU74R56E704H</codiceFiscale>
+          <ragioneSociale>Ing,. Luisa Rocchini - Via Cima Monte - Bossico</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8114.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-08</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8114.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z990DF5913</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio manutenzione degli edifici e delle infrastrutture comunali, impianti idraulici</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Thermoidraulica Pasini di Pasini Giovanni - Via S. Francesco n. 4 - Lovere</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PSNGNN65T02E704T</codiceFiscale>
+          <ragioneSociale>Thermoidraulica Pasini di Pasini Giovanni - Via S. Francesco n. 4 - Lovere</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-20</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC10D05893</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizze assicurative</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l. - Via Alabarde n. 1 - Darfo Boario terme</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02538210986</codiceFiscale>
+          <ragioneSociale>Nord Broker S.r.l. - Via Alabarde n. 1 - Darfo Boario terme</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13140.31</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13140.31</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00D09D87</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di manutenzione  degli edifici comunali, opere edili anno 2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03481700163</codiceFiscale>
+          <ragioneSociale>Impresa Pizio Giacomo s.rl. - Schilpario </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03481700163</codiceFiscale>
+          <ragioneSociale>Impresa Pizio Giacomo s.rl. - Schilpario </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>22297.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-06</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17126.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3C0D09E9E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00542060165</codiceFiscaleProp>
+        <denominazione>Comune di Castro</denominazione>
+      </strutturaProponente>
+      <oggetto>lavori di pulizia strade  comunali, manutenzione del verde sul territorio comunale del Comune di Castro anno 2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03239660164</codiceFiscale>
+          <ragioneSociale>IDEA VERDE - Via del Tonale e della Mendola 258 - Endine Gaiano </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03239660164</codiceFiscale>
+          <ragioneSociale>IDEA VERDE - Via del Tonale e della Mendola 258 - Endine Gaiano </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15860.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-20</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15860.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

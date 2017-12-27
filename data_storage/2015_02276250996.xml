@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+	<metadata>
+		<titolo>Pubblicazione legge 190</titolo>
+		<abstract>Informazioni procedure di affidamento lavori, servizi e forniture anno 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+		<entePubblicatore>AGENZIA REGIONALE PER IL TRASPORTO PUBBLICO LOCALE S.P.A. ATPL LIGURIA S.P.A.</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.atplliguria.it/images/aggiudicatariATPL2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>02276250996</codiceFiscaleProp>
+				<denominazione>AGENZIA REGIONALE PER IL TRASPORTO PUBBLICO LOCALE S.P.A. ATPL LIGURIA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>CONVENZIONE DI SERVIZI LOGISTICI, AMMINISTRATIVI, FINANZIARI</oggetto>
+			<sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA&apos; IN HOUSE</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00616030102</codiceFiscale>
+					<ragioneSociale>FI.L.S.E. S.P.A.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00616030102</codiceFiscale>
+					<ragioneSociale>FI.L.S.E. S.P.A.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>50000</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-11-01</dataInizio>
+				<dataUltimazione>2015-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

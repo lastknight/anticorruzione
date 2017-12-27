@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 https://dati.avcp.it/schema/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione legge 190, anno rif. 2014</titolo>
+    <abstract>Pubblicazione legge 190, anno rif. 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+    <entePubblicatore>Consorzio Servizi Val Cavallina</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://dataset.ckube.it/avcp/appaltil190/csvalcavallina_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>0000000045</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico di revisore contabile.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SVLGVN60P21C800E</codiceFiscale>
+          <ragioneSociale>Ugo Giovanni Savoldelli</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SVLGVN60P21C800E</codiceFiscale>
+          <ragioneSociale>Ugo Giovanni Savoldelli</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-24</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000044</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per prestazioni specifiche in materia fiscale e consulenza per costituzione nuovo soggetto giuridico per gestione servizi sociali.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MNTLRA69M28D110T</codiceFiscale>
+          <ragioneSociale>Studio Lauro Montanelli</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MNTLRA69M28D110T</codiceFiscale>
+          <ragioneSociale>Studio Lauro Montanelli</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-20</dataInizio>
+        <dataUltimazione>2015-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000043</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio sorveglianza sanitaria.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02448820163</codiceFiscale>
+          <ragioneSociale>Tsl Servizi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02448820163</codiceFiscale>
+          <ragioneSociale>Tsl Servizi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-01</dataInizio>
+        <dataUltimazione>2015-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>385.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000042</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per fornitura software.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>384.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-20</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000041</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento di manutenzione straordinaria su immobile.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02703450169</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale L&amp;apos;Innesto</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02703450169</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale L&amp;apos;Innesto</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3746.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-13</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000040</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per manutenzione e sostituzione kit fotocopiatrice.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01611950161</codiceFiscale>
+          <ragioneSociale>Kartenia snc</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01611950161</codiceFiscale>
+          <ragioneSociale>Kartenia snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>334.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-30</dataInizio>
+        <dataUltimazione>2014-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>334.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000039</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento di esecuzione lavori di somma urgenza Fiume Cherio nei Comuni di Borgo di Terzo, Entratico e Trescore Balneario.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01631310164</codiceFiscale>
+          <ragioneSociale>Toninelli Pietro srl,</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01631310164</codiceFiscale>
+          <ragioneSociale>Toninelli Pietro srl,</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-18</dataInizio>
+        <dataUltimazione>2014-10-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000038</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento di esecuzione lavori di somma urgenza Fiume Cherio nei Comuni di Luzzana ed Entratico.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03091200984</codiceFiscale>
+          <ragioneSociale>Avanzini Costruzioni srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03091200984</codiceFiscale>
+          <ragioneSociale>Avanzini Costruzioni srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-18</dataInizio>
+        <dataUltimazione>2014-10-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000037</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per lo studio e stampa del libro riguardante i lavori di Riqualificazione Fiume Cherio.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CTTRFL66P07L388J</codiceFiscale>
+          <ragioneSociale>Raffaello Cattaneo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CTTRFL66P07L388J</codiceFiscale>
+          <ragioneSociale>Raffaello Cattaneo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>31720.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-17</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>14654.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000036</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per progettazione definitiva, esecutiva, direzione lavori e coordinamento alla sicurezza progetto Fiume Cherio III lotto.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>CTTRFL66P07L388J</codiceFiscale>
+            <ragioneSociale>Raffaello Cattaneo</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>NFSSFN65P06A163C</codiceFiscale>
+            <ragioneSociale>Enfissi Stefano</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>FNRPGS58P30G710F</codiceFiscale>
+            <ragioneSociale>Giuseppe fenaroli</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>MRSRST63E21L388N</codiceFiscale>
+            <ragioneSociale>Ernesto Diego Marsetti</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>MZZGNN67B23A794P</codiceFiscale>
+            <ragioneSociale>Giovanni Mazza</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>PLBFMS62E08B393U</codiceFiscale>
+            <ragioneSociale>Fabio Plebani</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>RVLGBT58E22L388K</codiceFiscale>
+            <ragioneSociale>Gianbattista Rivellini</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>PRRMRA75H27C523A</codiceFiscale>
+            <ragioneSociale>Mauro Perracino</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+        </raggruppamento>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>CTTRFL66P07L388J</codiceFiscale>
+            <ragioneSociale>Raffaello Cattaneo</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>NFSSFN65P06A163C</codiceFiscale>
+            <ragioneSociale>Enfissi Stefano</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>FNRPGS58P30G710F</codiceFiscale>
+            <ragioneSociale>Giuseppe fenaroli</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>MRSRST63E21L388N</codiceFiscale>
+            <ragioneSociale>Ernesto Diego Marsetti</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>MZZGNN67B23A794P</codiceFiscale>
+            <ragioneSociale>Giovanni Mazza</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>PLBFMS62E08B393U</codiceFiscale>
+            <ragioneSociale>Fabio Plebani</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>RVLGBT58E22L388K</codiceFiscale>
+            <ragioneSociale>Gianbattista Rivellini</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>PRRMRA75H27C523A</codiceFiscale>
+            <ragioneSociale>Mauro Perracino</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>12000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-14</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4567.68</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000035</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per pratica di rinnovo concessione per l&amp;apos;occupazione e l&amp;apos;uso di area demaniale e relativa pratica catastale per immobile.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SGGFBA61H25A794R</codiceFiscale>
+          <ragioneSociale>Studio Tecnico geom. Soggetti</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SGGFBA61H25A794R</codiceFiscale>
+          <ragioneSociale>Studio Tecnico geom. Soggetti</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3777.47</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-04</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000034</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per assistenza tecnica e riparazione fotocopiatrice multifunzione.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02355120169</codiceFiscale>
+          <ragioneSociale>Gamma Ufficio srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02355120169</codiceFiscale>
+          <ragioneSociale>Gamma Ufficio srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>625.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>625.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000033</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per monitoraggio microbiologico acqua di rete.-</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03684550167</codiceFiscale>
+          <ragioneSociale>E.s.Co Comuni srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03684550167</codiceFiscale>
+          <ragioneSociale>E.s.Co Comuni srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1030.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-19</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000032</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per stesura relazione tecnica di valutazione dei rischi dovuti a fulmini e sovratensioni.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03022210169</codiceFiscale>
+          <ragioneSociale>Studio Progetti Elettrici di Magri Gianluigi</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03022210169</codiceFiscale>
+          <ragioneSociale>Studio Progetti Elettrici di Magri Gianluigi</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1040.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-19</dataInizio>
+        <dataUltimazione>2014-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1040.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000031</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per aggiornamento sistema contabile.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00906740352</codiceFiscale>
+          <ragioneSociale>StudioK srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00906740352</codiceFiscale>
+          <ragioneSociale>StudioK srl </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-19</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000030</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio trasporto alunni Istituto Superiore di Trescore Balneario.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01386360166</codiceFiscale>
+          <ragioneSociale>F.lli Carminati snc</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01386360166</codiceFiscale>
+          <ragioneSociale>F.lli Carminati snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7550.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2491.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000029</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per trasporto scolastico Comune di Trescore Balneario.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01386360166</codiceFiscale>
+          <ragioneSociale>F.lli Caminati snc</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01386360166</codiceFiscale>
+          <ragioneSociale>F.lli Caminati snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>95407.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>31484.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000028</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio trasporto scolastico tratta Gaverina Teme / Casazza.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>01993250164</identificativoFiscaleEstero>
+          <ragioneSociale>Sab Autoservizi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>01993250164</identificativoFiscaleEstero>
+          <ragioneSociale>Sab Autoservizi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>37450.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9383.06</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000027</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio trasporto scolastico tratta Bianzano / Ranzanico / Spinone al Lago / Casazza.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01993250164</codiceFiscale>
+          <ragioneSociale>Sab Autoservizi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01993250164</codiceFiscale>
+          <ragioneSociale>Sab Autoservizi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>53450.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16331.94</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000026</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio trasporto scolastico tratta Grone / Borgo di Terzo.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01627060161</codiceFiscale>
+          <ragioneSociale>F.lli Flaccadori srl </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01627060161</codiceFiscale>
+          <ragioneSociale>F.lli Flaccadori srl </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13074.25</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2876.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000025</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio trasporto scolastico tratta Berzo San Fermo / Borgo di Terzo.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01627060161</codiceFiscale>
+          <ragioneSociale>F.lli Flaccadori srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01627060161</codiceFiscale>
+          <ragioneSociale>F.lli Flaccadori srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13917.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3061.81</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000024</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio trasporto scolastico tratta Entratico / Trescore Balneario.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01386360166</codiceFiscale>
+          <ragioneSociale>F.lli Carminati snc</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01386360166</codiceFiscale>
+          <ragioneSociale>F.lli Carminati snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>21204.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6997.59</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000023</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per revisione, integrazione e aggiornamento determinazione Valore Residuo Impianti reti di distribuzione del gas naturale.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02351020165</codiceFiscale>
+          <ragioneSociale>Pide Ingegneria srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02351020165</codiceFiscale>
+          <ragioneSociale>Pide Ingegneria srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000022</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per stampa volantini e volantini promozionali per manifestazione di valorizzazione turistica e sportiva.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00989320163</codiceFiscale>
+          <ragioneSociale>Tecnograff srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00989320163</codiceFiscale>
+          <ragioneSociale>Tecnograff srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>450.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-11</dataInizio>
+        <dataUltimazione>2014-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000021</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per smaltimento di pneumatici.-</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-25</dataInizio>
+        <dataUltimazione>2014-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>750.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000020</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per consulenza fiscale e gestione contabilità iva.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MNTLRA69M28D110T</codiceFiscale>
+          <ragioneSociale>Studio Montanelli Lauro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MNTLRA69M28D110T</codiceFiscale>
+          <ragioneSociale>Studio Montanelli Lauro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8184.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000019</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per stampa volume.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00949430160</codiceFiscale>
+          <ragioneSociale>Tipografia Signorelli srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00949430160</codiceFiscale>
+          <ragioneSociale>Tipografia Signorelli srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-20</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000018</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per estensione spazio server caselle di posta elettronica.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01567260987</codiceFiscale>
+          <ragioneSociale>CSC Società Cooperativa Sociale</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01567260987</codiceFiscale>
+          <ragioneSociale>CSC Società Cooperativa Sociale</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>288.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-09</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>144.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000017</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento di manutenzione elettrica presso uffici amministrativi.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02395720168</codiceFiscale>
+          <ragioneSociale>Berzi Buonfiglio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02395720168</codiceFiscale>
+          <ragioneSociale>Berzi Buonfiglio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2950.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-09</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2950.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000016</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per Responsabile Unico Procedimento progetto riqualificazione Fiume Cherio III lotto.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSMCM69E57C351G</codiceFiscale>
+          <ragioneSociale>Monica Russo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSMCM69E57C351G</codiceFiscale>
+          <ragioneSociale>Monica Russo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-30</dataInizio>
+        <dataUltimazione>2015-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000015</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per fornitura hardware.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1940.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-14</dataInizio>
+        <dataUltimazione>2014-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1940.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000014</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per consulenza e gestione del personale.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03588330161</codiceFiscale>
+          <ragioneSociale>Studio Catalano</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03588330161</codiceFiscale>
+          <ragioneSociale>Studio Catalano</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3979.97</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3979.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000013</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per gestione servizio SUAP.-</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>66798.44</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>36987.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000012</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per redazione perizia di stima asseverata di immobile.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSMCM69E57C351G</codiceFiscale>
+          <ragioneSociale>Monica Russo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSMCM69E57C351G</codiceFiscale>
+          <ragioneSociale>Monica Russo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3552.64</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-28</dataInizio>
+        <dataUltimazione>2014-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3552.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000011</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per realizzazione opere in carpenteria.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02777440161</codiceFiscale>
+          <ragioneSociale>Eurozeta srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02777440161</codiceFiscale>
+          <ragioneSociale>Eurozeta srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>740.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-28</dataInizio>
+        <dataUltimazione>2014-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>740.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000010</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio gestione calore.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03684550167</codiceFiscale>
+          <ragioneSociale>E.s.co. Comuni srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03684550167</codiceFiscale>
+          <ragioneSociale>E.s.co. Comuni srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>26860.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000009</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per stampa fascicolo promozionale.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02703450169</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale l&amp;apos;Inneso</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02703450169</codiceFiscale>
+          <ragioneSociale>Cooperativa Sociale l&amp;apos;Inneso</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4544.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-19</dataInizio>
+        <dataUltimazione>2014-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4544.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000008</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per attività di modifica modulo protoflow e modulo pec.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000003</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per servizio consulenza mantenimento sistema tutela privacy.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000001</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per gestione servizio di assistenza sistemistica.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000002</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per canone assistenza software applicativo del sistema del protocollo e di archiviazione documentale e modulo pec.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02346750165</codiceFiscale>
+          <ragioneSociale>Team Quality srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1936.69</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1936.69</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000004</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per manutenzione applicativi Sportello Unico attività Produttive.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02598580161</codiceFiscale>
+          <ragioneSociale>Globo srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02598580161</codiceFiscale>
+          <ragioneSociale>Globo srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10000.08</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000005</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per progetto formazione problematiche giuridiche ed amministrative.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRZRME68M11C800F</codiceFiscale>
+          <ragioneSociale>Remo Morzenti Pellegrini</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRZRME68M11C800F</codiceFiscale>
+          <ragioneSociale>Remo Morzenti Pellegrini</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20011.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>20011.46</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000006</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico di consulenza tecnica anno 2014.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSMCM69E57C351G</codiceFiscale>
+          <ragioneSociale>Monica Russo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSMCM69E57C351G</codiceFiscale>
+          <ragioneSociale>Monica Russo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>22464.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>20935.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000007</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per espletamento servizio di raccolta, trasporto e smaltimento rifiuti anno 2014.-</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>Val Cavallina Servizi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1136916.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>95173320169</codiceFiscaleProp>
+        <denominazione>Consorzio Servizi Val Cavallina</denominazione>
+      </strutturaProponente>
+      <oggetto>Incarico per assistenza e manutenzione programma gestione contabilità anno 2014.-</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00906740352</codiceFiscale>
+          <ragioneSociale>Studio K srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00906740352</codiceFiscale>
+          <ragioneSociale>Studio K srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2949.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2949.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

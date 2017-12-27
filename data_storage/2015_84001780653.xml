@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+    <titolo>Pubblicazione dati legge 190</titolo>
+    <abstract>Pubblicazione dati legge 190</abstract>
+    <dataPubbicazioneDataset>2014-01-01</dataPubbicazioneDataset>
+    <entePubblicatore>ISTITUTO DI ISTRUZIONE SUPERIORE CARLO PISACANE</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2014-12-31</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>/datil190.xml</urlFile>
+    <licenza>IODL</licenza>
+</metadata>
+<data>
+    <lotto>
+      <cig> </cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>84001780653</codiceFiscaleProp>
+        <denominazione>ISTITUTO DI ISTRUZIONE SUPERIORE CARLO PISACANE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fatt. n. BP004933 del 29/11/2014 Acquisto prodotti alimentari per mensa scolastica.</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01836980365</codiceFiscale>
+          <ragioneSociale>MARR SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01836980365</codiceFiscale>
+          <ragioneSociale>MARR SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2967.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2967.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>20359284EE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>84001780653</codiceFiscaleProp>
+        <denominazione>ISTITUTO DI ISTRUZIONE SUPERIORE CARLO PISACANE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fatt. n. 15414 del 27/06/2014 - Fornitura pulizie periodo 01/06/2014 al 30/06/2014.</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06466050017</codiceFiscale>
+          <ragioneSociale>MANITAL - Società CONSORTILE PER I SERVIZI INTEGRA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06466050017</codiceFiscale>
+          <ragioneSociale>MANITAL - Società CONSORTILE PER I SERVIZI INTEGRA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>47592.53</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-21</dataInizio>
+        <dataUltimazione>2014-12-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>47592.53</importoSommeLiquidate>
+    </lotto>
+</data>
+</legge190:pubblicazione>

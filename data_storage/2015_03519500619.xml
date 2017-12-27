@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt_indiceAppaltiL190.xsl"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+ <titolo>Indice pubblicazione n 1</titolo>
+ <abstract>Pubblicazione relativa anno 2014</abstract>
+ <dataPubblicazioneIndice>2014-06-01</dataPubblicazioneIndice>
+ <entePubblicatore>AZIENDA SANITARIA LOCALE DI CASERTA</entePubblicatore>
+ <dataUltimoAggiornamentoIndice>2017-01-03</dataUltimoAggiornamentoIndice>
+ <annoRiferimento>2014</annoRiferimento>
+ <urlFile>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/indice.xml</urlFile>
+ <licenza>IODL</licenza>
+ </metadata>
+ <indice>
+   <dataset id="ID_1_TECNOLOGIE">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_tecnologie.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_2_TECNICO_MANUTENTIVO">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_tecnico_manutentivo.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_3_PROVVEDITORATO_ECONOMATO">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_provveditorato.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_4_CONTROLLO_GESTIONE">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_controllo_gestione.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_5_CONTROLLO_GESTIONE_2015">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_controllo_gestione_2015.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_6_TECNOLOGIE_2015">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_tecnologie_2015.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_7_ECONOMATO_2015">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_economato_2015.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_8_PROVVEDITORATO_2015">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_provveditorato_2015.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+    <dataset id="ID_9_TECNICO_MANUTENTIVO_2015">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_tecnico_manutentivo_2015.xml</linkDataset>
+     <dataUltimoAggiornamento>2015-12-31</dataUltimoAggiornamento>
+   </dataset>
+    <dataset id="ID_10_CONTROLLO_GESTIONE_2016_1">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_controllo_gestione_2016_1.xml</linkDataset>
+     <dataUltimoAggiornamento>2016-06-30</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_11_PROVVEDITORATO_2016_1">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_provveditorato_2016_1.xml</linkDataset>
+     <dataUltimoAggiornamento>2016-06-30</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_12_TECNOLOGIE_2016_1">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_tecnologie_2016_1.xml</linkDataset>
+     <dataUltimoAggiornamento>2016-06-30</dataUltimoAggiornamento>
+   </dataset>
+   <dataset id="ID_13_CONTROLLO_GESTIONE_2016_2">
+     <linkDataset>http://www.aslcaserta.it/portale/Portals/0/doc_pub/2015/BANDI/L190/dataset_controllo_gestione_2016_2.xml</linkDataset>
+     <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+   </dataset>
+ </indice>
+</indici>

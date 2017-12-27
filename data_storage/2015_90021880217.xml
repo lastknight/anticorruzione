@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all'anno 2014-2015-2016</abstract>
+    <dataPubblicazioneIndice>2015-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>AVCP</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-20</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>www.snets.it/ssp-sterzing2/Documents/datasetindice.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2014">
+      <linkDataset> www.snets.it/ssp-sterzing2/Documents/esiti_2014_20150128-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset> www.snets.it/ssp-sterzing2/Documents/esiti_2015_20160116-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2016-01-16</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset> www.snets.it/ssp-sterzing2/Documents/esiti_2013_20140214-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-02-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2012">
+      <linkDataset> www.snets.it/ssp-sterzing2/Documents/esiti_2012_20140214-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-02-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016">
+      <linkDataset> www.snets.it/ssp-sterzing2/Documents/esiti_2016_20170119-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

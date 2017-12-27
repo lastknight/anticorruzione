@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="datasetDatasetAppaltiL190.xsd">
+<metadata>
+<titolo>Pubblicazione L190</titolo>
+<abstract>Pubblicazione L190</abstract>
+<dataPubblicazioneIndice>2015-02-02</dataPubblicazioneIndice>
+<entePubblicatore>COMUNE DI CORTE FRANCA</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2015-02-02</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2014</annoRiferimento>
+<urlFile>http://openwebcortefranca.cogeme.com/benefici/appalti/pubblicazione_appalti_2014.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://openwebcortefranca.cogeme.com/benefici/appalti/pubblicazione_legge190_2014.xml</linkDataset>
+<dataUltimoAggiornamento>2015-02-02</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://openwebcortefranca.cogeme.com/benefici/appalti/appalti_utc_2014.xml</linkDataset>
+<dataUltimoAggiornamento>2015-02-02</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+    <dataPubbicazioneDataset>2015-01-20</dataPubbicazioneDataset>
+    <entePubblicatore>SOCIETA' TRASPORTI PUBBLICI DI TERRA D'OTRANTO SPA</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-20</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.stplecce.it/stp/sites/default/files/2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>5951724E01</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00396610750</codiceFiscaleProp>
+        <denominazione>SOCIETA' TRASPORTI PUBBLICI DI TERRA D'OTRANTO SPA</denominazione>
+      </strutturaProponente>
+      <oggetto>Progettazione e realizzazione impianto fotovoltaico</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti></partecipanti>
+      <aggiudicatari></aggiudicatari>
+      <importoAggiudicazione>0</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>605854557E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00396610750</codiceFiscaleProp>
+        <denominazione>SOCIETA' TRASPORTI PUBBLICI DI TERRA D'OTRANTO SPA</denominazione>
+      </strutturaProponente>
+      <oggetto>Copertura assicurativa RCA Inc.-Furto-A.V.</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03178580407</codiceFiscale>
+          <ragioneSociale>UNIPOL ASSICURAZIONI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03178580407</codiceFiscale>
+          <ragioneSociale>UNIPOL ASSICURAZIONI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>310360</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

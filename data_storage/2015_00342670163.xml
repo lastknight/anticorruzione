@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 Anno 2014</abstract>
+		<dataPubbicazioneDataset>2014-12-31</dataPubbicazioneDataset>
+		<entePubblicatore>COMUNE DI SERINA</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2014-12-31</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.studiok.it/comuni/serina/avcp/datasetAppalti_2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig/>
+			<strutturaProponente>
+				<codiceFiscaleProp>00342670163</codiceFiscaleProp>
+				<denominazione>COMUNE DI SERINA</denominazione>
+			</strutturaProponente>
+			<oggetto>CONTRATTO DI APPALTO PER LAVORI DI SOMMA URGENZA OPERE IDRICHE E FOGNARIE</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02665010167</codiceFiscale>
+					<ragioneSociale>M.D.R.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>79854.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-03-26</dataInizio>
+				<dataUltimazione>2014-03-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>79854.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig/>
+			<strutturaProponente>
+				<codiceFiscaleProp>00342670163</codiceFiscaleProp>
+				<denominazione>COMUNE DI SERINA</denominazione>
+			</strutturaProponente>
+			<oggetto>CONTRATTO DI APPALTO LAVORI DI MANUTENZIONE STRADALI VIA BERBENNI FRAZIONE VALPIANA E FRAZIONE CORONE</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BNLMRC61R31I629I</codiceFiscale>
+					<ragioneSociale>BONALDI MARCO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>19900.00</importoAggiudicazione>
+			<tempiCompletamento/>
+			<importoSommeLiquidate>19900.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig/>
+			<strutturaProponente>
+				<codiceFiscaleProp>00342670163</codiceFiscaleProp>
+				<denominazione>COMUNE DI SERINA</denominazione>
+			</strutturaProponente>
+			<oggetto>CONTRTTO DI APPALTO LAVORI DI RICOSTRUZIONE BAITE GEMELLE</oggetto>
+			<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>86440.00</importoAggiudicazione>
+			<tempiCompletamento/>
+			<importoSommeLiquidate>86440.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>58639214BO</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00342670163</codiceFiscaleProp>
+				<denominazione>COMUNE DI SERINA</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI TAGLI PER IL CONTENIMENTO DELL'AVANZATA DEL BOSCO AL FINE DI PRESERVARE LE PRATERIE ALPINE</oggetto>
+			<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti/>
+			<aggiudicatari/>
+			<importoAggiudicazione>61312.00</importoAggiudicazione>
+			<tempiCompletamento/>
+			<importoSommeLiquidate>61312.00</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

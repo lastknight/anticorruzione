@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice PUBBLICAZIONE LEGGE 190/2012</titolo>
+    <abstract>DATI GARE E AFFIDAMENTI</abstract>
+    <dataPubblicazioneIndice>2014-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO SCIENTIFICO STATALE - CAGLIARI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2014-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.liceoalberti.it/AT/scarica/Indicecontratti.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2012">
+      <linkDataset>http://www.liceoalberti.it/AT/scarica/contratti2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.liceoalberti.it/AT/scarica/contratti2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

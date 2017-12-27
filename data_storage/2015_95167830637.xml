@@ -1,0 +1,1116 @@
+
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <title>Istituto Comprensivo Statale Aldo Moro di Napoli</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Istituto Comprensivo Statale “ALDO MORO” di Napoli - ">
+    <meta name="keywords" content="Via Thomas Eliot, istituto comprensivo, aldo moro, scuola aldo moro, scuola elementare, scuole napoli, istruzione napoli, ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/icomoon.css">
+    <link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/bootstrap/bootstrap.css">
+    <!--<link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/superfish.css">-->
+    <link rel="stylesheet" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/default.css">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/style.css">
+    <link rel='stylesheet' href='http://www.icaldomoronapoli.gov.it/themes/scuole/style.php?preview=12' type='text/css' media='all' />
+    <!--<link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/responsive.css">-->
+    <link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/unoslider/unoslider.css">
+    <link rel="stylesheet" type="text/css" href="http://www.icaldomoronapoli.gov.it/themes/scuole/css/unoslider/theme.css">
+    <!-- Owl Carousel Assets -->
+    <link href="http://www.icaldomoronapoli.gov.it/themes/scuole/js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="http://www.icaldomoronapoli.gov.it/themes/scuole/js/owl-carousel/owl.theme.css" rel="stylesheet">
+
+    <!--[if !IE]><!-->
+    <script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/ie10.js"></script>
+    <!--<![endif]-->
+
+    <!--[if lt IE 9]>
+    <script src="http://www.icaldomoronapoli.gov.it/themes/scuole//js/respond.src.js"></script>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+        window.cookieconsent_options = {"message":"Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella cookie policy.","dismiss":"Accetta","learnMore":"Informazioni","link":"http://www.icaldomoronapoli.gov.it/cookies-policy/","theme":"light-bottom"};
+    </script>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+
+</head>
+<body onLoad="goforit()">
+
+<div class="container">
+    <header id="page-header">
+        <div class="bottom-header first-line clearfix">
+            <div class="kp-time col-md-2 col-xs-12">
+                <span id="clock"></span>
+            </div>
+            <!-- kp-time -->
+                <div class="top-news col-md-10">
+        <h2>News In Evidenza:</h2>
+        <div class="list_carousel responsive">
+            <ul id="ca-top-news" class="list-unstyled">
+                                <li>
+                    <a href="http://www.icaldomoronapoli.gov.it/categoria/news-in-evidenza/504/sospensione-delle-attivita-didattiche-in-occasione-delle-festivita-natalizie/">Sospensione delle attività didattiche in occasione delle Festività natalizie</a>
+                </li>
+                                <li>
+                    <a href="http://www.icaldomoronapoli.gov.it/categoria/news-in-evidenza/499/festa-dell-immacolata/">Festa dell'Immacolata</a>
+                </li>
+                                <li>
+                    <a href="http://www.icaldomoronapoli.gov.it/categoria/news-in-evidenza/492/prove-di-evacuazione/">Prove di evacuazione</a>
+                </li>
+                                <li>
+                    <a href="http://www.icaldomoronapoli.gov.it/categoria/news-in-evidenza/488/progetto-openteq-benessere-degli-studenti/">Progetto OpenTeQ. Benessere degli studenti</a>
+                </li>
+                                <li>
+                    <a href="http://www.icaldomoronapoli.gov.it/categoria/news-in-evidenza/487/cyberbullismo-in-area-riservata-i-risultati-del-progetto-open-call-/">Cyberbullismo. In area riservata i risultati del Progetto "Open Call" </a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+
+
+        </div>
+        <div class="top-header clearfix">
+            <div class="logo min col-md-2 col-xs-2">
+                <figure>
+                    <a href="http://www.icaldomoronapoli.gov.it/">
+                        <img src="http://www.icaldomoronapoli.gov.it/logoelement/ministeriale.png" class="img-responsive" alt="logo ministeriale">
+                    </a>
+                </figure>
+            </div>
+            <div class="logo school-int col-md-8 col-sm-8 col-xs-12">
+                <figure>
+                    <a href="http://www.icaldomoronapoli.gov.it/">
+                        <img src="http://www.icaldomoronapoli.gov.it/logoelement/intestazione_scuola.png" class="img-responsive" alt="intestazione scuola">
+                    </a>
+                </figure>
+            </div>
+            <div class="logo school col-md-2 col-xs-2">
+                <figure>
+                    <a href="http://www.icaldomoronapoli.gov.it/">
+                        <img src="http://www.icaldomoronapoli.gov.it/logoelement/logo_scuola.png" class="img-responsive" alt="logo scuola">
+                    </a>
+                </figure>
+            </div>
+        </div>
+        <!-- top-header -->
+        <div class="bottom-header clearfix">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" data-target="#top-nav" data-toggle="collapse" type="button">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Menu Top</span>
+                </div>
+                <div class="navbar-collapse collapse" id="top-nav">
+                    <ul class="sf-menu nav navbar-nav " id="main-menu">
+      <li><a href="http://www.icaldomoronapoli.it//" target="blank">Home</a></li>
+  <li><a href="http://www.icaldomoronapoli.gov.it/categoria/news/">News</a></li>
+  <li><a href="http://www.icaldomoronapoli.it/accedi/" target="blank">Area Riservata</a></li>
+  <li><a href="http://www.icaldomoronapoli.gov.it/contatti/">Contatti</a></li>
+    </ul>
+                </div>
+
+            </nav>
+
+            <!-- top-news -->
+           
+        </div>
+        <!-- bottom-header -->
+    </header>
+    <!-- page-header -->
+
+    <div id="content">
+
+                <div class="top-effect clearfix">
+                    <span class="pull-left"><img src="http://www.icaldomoronapoli.gov.it/themes/scuole/images/top-left-effect.png" class="img-responsive" alt=""></span>
+                    <span class="pull-right"><img src="http://www.icaldomoronapoli.gov.it/themes/scuole/images/top-right-effect.png" class="img-responsive" alt=""></span>
+                </div>
+                                <!-- top-effect -->
+                    <div id="sidebar-main-content" class="col-md-3">
+    <ul class="list-unstyled">
+                <li class="clearfix">
+                <div class="widget navigation">
+
+        <h2 class="widget-title"><span>Menu Principale</span></h2>
+                <div class="sidebar-nav">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-principale">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Menu Principale</span>
+                </div>
+                <div class="lr-padding navbar-collapse collapse" id="menu-principale">
+                    <ul class="side-menu">
+                        <li class="listSchool">
+  <a href="http://www.icaldomoronapoli.it//" target="blank"> Home</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.it/albo-online//" target="blank"> Albo</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/"> Avvisi</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/la-scuola/"> La scuola</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/infanzia-plesso-il-girotondo-/"> Infanzia plesso «Il Girotondo» </a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/infanzia-plesso-n-green-/"> Infanzia plesso «N. Green» </a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/primaria-a-moro-/"> Primaria  «A. Moro»</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/secondaria-di-i-grado-a-moro-/"> Secondaria di I Grado «A. Moro»</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/-a-moro-indirizzo-musicale/"> «A. Moro» indirizzo musicale</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/organigramma/"> Organigramma</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/regolamenti/"> Regolamenti</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/codice-disciplinare/"> CODICE DISCIPLINARE</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/comitato-di-valutazione/"> COMITATO DI VALUTAZIONE</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/didattica/"> Didattica</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/piano-naz-scuola-digitale/"> Piano Naz. Scuola Digitale</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/piano-per-la-formazione-docenti/"> Piano per la Formazione Docenti</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/p-o-n-/" > P.O.N.</a>  <span class="brt"> <i class="icon-chevron-down"></i> <span></span></span>
+  
+  <ul class="sub-menu " >
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/pon-fesr-2014-2020/"> PON FESR 2014-2020</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/pon-fse-f1-c1-e1/"> PON  -  FSE F1 - C1 -E1</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/pon-fse-f3/"> PON  -  FSE F3</a> </li>
+    </ul>
+  </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/sicurezza/"> Sicurezza</a></li>
+<li class="listSchool">
+  <a href="http://www.77circolonapoli.gov.it//" target="blank"> Sito 77° Circolo Napoli</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!-- widget-content -->
+    </div>
+
+        </li>
+                            <li class="clearfix">
+
+                                                                                        <div class="widget navigation">
+
+            <h2 class="widget-title"><span>Scuola Famiglia</span></h2>
+                    <div class="sidebar-nav">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#scuola-famiglia">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Scuola Famiglia</span>
+                </div>
+                <div class="lr-padding navbar-collapse collapse" id="scuola-famiglia">
+                <ul class="side-menu">
+                    <li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/comunicazioni/"> Comunicazioni</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/iscrizioni/"> Iscrizioni</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/calendario-scolastico/"> Calendario Scolastico</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/modulistica-per-famiglie/"> Modulistica per famiglie</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/libri-di-testo/"> Libri di testo</a> </li>
+                </ul>
+                </div>
+            </nav>
+        </div>
+            <!-- widget-content -->
+        </div>
+
+                                                            </li>
+                    <li class="clearfix">
+
+                                                                                        <div class="widget navigation">
+
+            <h2 class="widget-title"><span>Galleria</span></h2>
+                    <div class="sidebar-nav">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#galleria">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Galleria</span>
+                </div>
+                <div class="lr-padding navbar-collapse collapse" id="galleria">
+                <ul class="side-menu">
+                    <li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/galleria-foto//" target="self"> Vita di scuola</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/attivita-e-produzioni-scolastiche/"> Attività e produzioni scolastiche</a> </li>
+                </ul>
+                </div>
+            </nav>
+        </div>
+            <!-- widget-content -->
+        </div>
+
+                                                            </li>
+                    <li class="clearfix">
+
+                                                                                        <div class="widget navigation">
+
+            <h2 class="widget-title"><span>Area Docenti</span></h2>
+                    <div class="sidebar-nav">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#area-docenti">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Area Docenti</span>
+                </div>
+                <div class="lr-padding navbar-collapse collapse" id="area-docenti">
+                <ul class="side-menu">
+                    <li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/comunicazioni-per-docenti/"> Comunicazioni per docenti</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/categoria/modulistica-per-docenti/"> Modulistica per docenti</a> </li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/registro-elettronico/"> Registro elettronico</a></li>
+                </ul>
+                </div>
+            </nav>
+        </div>
+            <!-- widget-content -->
+        </div>
+
+                                                            </li>
+                    <li class="clearfix">
+
+                                                                                        <div class="widget navigation">
+
+            <h2 class="widget-title"><span>Bisogni Educativi Speciali</span></h2>
+                    <div class="sidebar-nav">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bisogni-educativi-speciali">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Bisogni Educativi Speciali</span>
+                </div>
+                <div class="lr-padding navbar-collapse collapse" id="bisogni-educativi-speciali">
+                <ul class="side-menu">
+                    <li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/attivita-rete-b-e-s-/"> Attività rete B.E.S.</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/leggi-e-circolari-b-e-s-/"> Leggi e circolari B.E.S.</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/strumenti-e-supporti-b-e-s-/"> Strumenti e supporti B.E.S. </a></li>
+                </ul>
+                </div>
+            </nav>
+        </div>
+            <!-- widget-content -->
+        </div>
+
+                                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Registro elettronico</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="https://web.spaggiari.eu/home/app/default/login.php?custcode=NAME0180"><img src="http://www.icaldomoronapoli.gov.it/preview/images/Spaggiari.jpg" class="img-responsive" alt="Registro Elettronico"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Sportello Ascolto</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.icaldomoronapoli.gov.it/sportello-ascolto/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/varie/logo_ascolto1.png" class="img-responsive" alt="Sportello Ascolto"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Dislessia Amica</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.dislessiaamica.com/it/progetto"><img src="http://www.icaldomoronapoli.gov.it/preview/images/varie/image002.jpg" class="img-responsive" alt="Dislessia Amica"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Seguici su Facebook</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="https://www.facebook.com/icaldomoronapoli/"><img src="http://placehold.it/200x120" class="img-responsive" alt="seguici su Facebook"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>eTwinning</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.icaldomoronapoli.gov.it/progetto-etwinning-simme-napulitan-simme-internazional-/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/etwinning.png" class="img-responsive" alt="eTwinning"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Progetto MUUMUU</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.progettomuumuu.altervista.org/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/Cattura.PNG" class="img-responsive" alt="Progetto MUUMUU"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+            </ul>
+    </div>
+                <!-- sidebar-main-content -->
+                <div id="main-content" class="col-md-6">
+
+                    <div id="main-col">
+                        
+
+            <ul id="unoslider" class="unoslider">
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Diapositiva2.JPG" title="Locandina "N.GREEN"" alt="Locandina "N.GREEN"" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/I bambini di Tre e quattro anni1.png" title="costruiamo il presepe" alt="costruiamo il presepe" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/Diapositiva1 (1).JPG" title=""UN CORO PER NATALE"" alt=""UN CORO PER NATALE"" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/albero2.png" title="Manifestazione di Natale." alt="Manifestazione di Natale." />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/locandina vivoanapoli41.png" title="Locandina" alt="Locandina" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/cronoprogramma aree a rischio def1.png" title="cronoprogramma aree a rischio" alt="cronoprogramma aree a rischio" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/clublettura2.png" title="Club Lettura" alt="Club Lettura" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/varie/Quattro chiacchiere sul treno-1.jpg" title="Quattro chiacchiere sul treno" alt="Quattro chiacchiere sul treno" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/Diapositiva1.GIF" title="Dislessia Amica" alt="Dislessia Amica" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/Benessere2.jpg" title="Settimana per il Benessere Psicologico in Campania" alt="Settimana per il Benessere Psicologico in Campania" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/ioleggoconlibreria.jpeg" title="#ioleggoperché " alt="#ioleggoperché " />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/scuolaviva/targa moro.jpg" title="Scuola VIVA" alt="Scuola VIVA" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/libriamoci.PNG" title="Libriamoci" alt="Libriamoci" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/etw_qualitylabel_107933_it (1)-1.jpg" title=""Progetto  eTwinning"" alt=""Progetto  eTwinning"" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/le Vésuve de mots.png" title=""Progetto  eTwinning"" alt=""Progetto  eTwinning"" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/quinte_na/IMG-20160427-WA0005_800x450.jpg" title="Quinte a Napoli" alt="Quinte a Napoli" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/codeweek20171.png" title="codeweek" alt="codeweek" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/varie_2016/ADSC02981_782x600.JPG" title="Regalaci" alt="Regalaci" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/varie/portaleScuola.jpg" title="Portale" alt="Portale" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2015/vita_da_social/20150928_112522_800x600.jpg" title="una vita da social 2" alt="una vita da social 2" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/autore_prima/IMG_1061_800x533.JPG" title="Incontro Autore Primaria" alt="Incontro Autore Primaria" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/Legalita/13239023_1047025225374151_3147142510452778892_n_450x600.jpg" title="Porchiano Bene comune 3" alt="Porchiano Bene comune 3" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/slideshow/P3191489_640x480.JPG" title="I bambini della N. Green per Città della Scienza" alt="I bambini della N. Green per Città della Scienza" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.it/preview/images/slideshow/Senza titolo-1 copia2.jpg" title="PON  "Le costellazioni"" alt="PON  "Le costellazioni"" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/mammemurales/IMG-20160609-WA0012_800x600.jpg" title="Mamme e  murales" alt="Mamme e  murales" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/varieattivita/IMG-20170121-WA0008_1024x576.jpg" title="al museo" alt="al museo" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/hydratation/IMG-20160516-WA0003_800x598.jpg" title="Hydratation" alt="Hydratation" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/openday_primaria/P1270061_800x600.JPG" title="open day  primaria" alt="open day  primaria" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/terradeifuochi/IMG-20160526-WA0007_800x480.jpg" title="Terradelfuoco" alt="Terradelfuoco" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/maggio_paestum/IMG-20160505-WA0004_800x600.jpg" title="Maggio a Paestum" alt="Maggio a Paestum" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/varieattivita/IMG-20170227-WA0018_1024x768.jpg" title="foto1" alt="foto1" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2015/accoglienza_2015/OOO_1491_402x600.JPG" title="Accoglienza A.S.  2015/16 secondaria" alt="Accoglienza A.S.  2015/16 secondaria" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2015/libriamoci_3A/IMG_0776_800x533.JPG" title="Libriamoci" alt="Libriamoci" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/botanicoalice/13174169_1037503146326359_9178561169403394299_n.jpg" title="Come Alice" alt="Come Alice" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2015/campus_scuoleArischio/IMG-20150612-WA0012.jpg" title="Torta per festeggiare la fine del campus " alt="Torta per festeggiare la fine del campus " />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/Rgeneration/20160127_092247_800x450.jpg" title="RGeneration" alt="RGeneration" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2013/proj_cont_girotondo_2013/image_3_640x478.jpg" title="Progetto continuità infanzia-primaria." alt="Progetto continuità infanzia-primaria." />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2015/vita_da_social/20150928_101952_800x600.jpg" title="una vita da social" alt="una vita da social" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/slideshow/IMG-20150612-WA0006.jpg" title="Alunni  che dipingono la parete d'ingresso della scuola secondaria." alt="Alunni  che dipingono la parete d'ingresso della scuola secondaria." />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2015/incontro_artificieri/IMG_20151201_113302_800x449.jpg" title="Incontro con artificieri" alt="Incontro con artificieri" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/slideshow/P1040091_640x480.JPG" title="Gli alunni in uno dei laboratori informatici" alt="Gli alunni in uno dei laboratori informatici" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/Legalita/13275371_585902481571444_53950428_o_800x450.jpg" title="Porchiano Bene comune 1" alt="Porchiano Bene comune 1" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/varieattivita/IMG-20170303-WA0013_1024x575.jpg" title="educazione stradale" alt="educazione stradale" />
+                    </li>
+                                    <li>
+                        <img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/scuolaviva/IMG_20170531_105303.jpg" title="laboratorio informatico" alt="laboratorio informatico" />
+                    </li>
+                            </ul>
+                        
+                         <div class="list-post-cat" style="margin-bottom: 50px;">
+        <h2 class="widget-title"><span>Avvisi</span></h2>
+                <ul class="list-unstyled clearfix" id="list-post-cat-1">
+                            <li class="format-standard">
+                    <ul class="kp-metadata clearfix" style="padding-left: 15px;margin-bottom: 2px;">
+                        <li>22-12-2017</li>
+                        <li class="kp-time">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/504/sospensione-delle-attivita-didattiche-in-occasione-delle-festivita-natalizie/">Leggi..</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <div class="item clearfix">
+                                                <div class="pull-left zoom-image">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/504/sospensione-delle-attivita-didattiche-in-occasione-delle-festivita-natalizie/">
+                                <img class="img-responsive" alt="Sospensione delle attività didattiche in occasione delle Festività natalizie" src="http://www.icaldomoronapoli.gov.it/preview/images/NL_BUONE_FESTE_16.jpg">
+                            </a>
+                        </div>
+                                                <div class="item-right">
+                            <h3><a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/504/sospensione-delle-attivita-didattiche-in-occasione-delle-festivita-natalizie/">Sospensione delle attività didattiche in occasione delle Festività natalizie</a></h3>
+                            <p>Come da calendario scolastico regionale, in occasione delle festivit&agrave; natalizie, le attivit&agrave; didattiche saranno sospese da sabato&nbsp;23 dicembre 2017 a sabato 6 gennaio 2018.
+
+Le lez..</p>
+                        </div>
+                        <br>
+                    </div>
+                    <!-- thumbnail -->
+                </li>
+                            <li class="format-standard">
+                    <ul class="kp-metadata clearfix" style="padding-left: 15px;margin-bottom: 2px;">
+                        <li>18-12-2017</li>
+                        <li class="kp-time">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/503/recita-e-concerto-di-natale/">Leggi..</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <div class="item clearfix">
+                                                <div class="pull-left zoom-image">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/503/recita-e-concerto-di-natale/">
+                                <img class="img-responsive" alt="Recita e Concerto di Natale" src="http://www.icaldomoronapoli.gov.it/preview/images/albero.jpg">
+                            </a>
+                        </div>
+                                                <div class="item-right">
+                            <h3><a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/503/recita-e-concerto-di-natale/">Recita e Concerto di Natale</a></h3>
+                            <p>Gioved&igrave; 21 dicembre 2017&nbsp; alle ore 16.00, presso la sede della Scuola Secondaria di I grado in via Mario Palermo, si terr&agrave; la manifestazione&nbsp;&quot;INSIEME aspettando....NATALE&..</p>
+                        </div>
+                        <br>
+                    </div>
+                    <!-- thumbnail -->
+                </li>
+                            <li class="format-standard">
+                    <ul class="kp-metadata clearfix" style="padding-left: 15px;margin-bottom: 2px;">
+                        <li>16-12-2017</li>
+                        <li class="kp-time">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/501/conferenza-di-servizio-sul-dlgs-62-2017/">Leggi..</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <div class="item clearfix">
+                                                <div class="pull-left zoom-image">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/501/conferenza-di-servizio-sul-dlgs-62-2017/">
+                                <img class="img-responsive" alt="Conferenza di Servizio sul DLGS 62/2017" src="http://www.icaldomoronapoli.gov.it/preview/images/varie/miur.jpg">
+                            </a>
+                        </div>
+                                                <div class="item-right">
+                            <h3><a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/501/conferenza-di-servizio-sul-dlgs-62-2017/">Conferenza di Servizio sul DLGS 62/2017</a></h3>
+                            <p>In riferimento alle novit&agrave; introdotte dal d.lgs. n. 62/2017 e dai recenti decreti ministeriali&nbsp;n. 741 e n. 742 del 2017, in vigore dal corrente anno scolastico, il MIUR, in collaborazione ..</p>
+                        </div>
+                        <br>
+                    </div>
+                    <!-- thumbnail -->
+                </li>
+                            <li class="format-standard">
+                    <ul class="kp-metadata clearfix" style="padding-left: 15px;margin-bottom: 2px;">
+                        <li>13-12-2017</li>
+                        <li class="kp-time">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/500/manifestazione-finale-del-progetto-insieme-impareremo-a-volare-/">Leggi..</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <div class="item clearfix">
+                                                <div class="pull-left zoom-image">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/500/manifestazione-finale-del-progetto-insieme-impareremo-a-volare-/">
+                                <img class="img-responsive" alt="Manifestazione finale del progetto "INSIEME impareremo a VOLARE"" src="http://www.icaldomoronapoli.gov.it/preview/images/angelo.jpg">
+                            </a>
+                        </div>
+                                                <div class="item-right">
+                            <h3><a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/500/manifestazione-finale-del-progetto-insieme-impareremo-a-volare-/">Manifestazione finale del progetto "INSIEME impareremo a VOLARE"</a></h3>
+                            <p>Sabato 16 dicembre, a partire dalle ore 9.30 , si terr&agrave; la manifestazione finale del progetto &nbsp;&quot;INSIEME impareremo a VOLARE&quot; nei plessi della Primaria in via Thomas Eliot e della..</p>
+                        </div>
+                        <br>
+                    </div>
+                    <!-- thumbnail -->
+                </li>
+                            <li class="format-standard">
+                    <ul class="kp-metadata clearfix" style="padding-left: 15px;margin-bottom: 2px;">
+                        <li>04-12-2017</li>
+                        <li class="kp-time">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/499/festa-dell-immacolata/">Leggi..</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <div class="item clearfix">
+                                                <div class="pull-left zoom-image">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/499/festa-dell-immacolata/">
+                                <img class="img-responsive" alt="Festa dell'Immacolata" src="http://www.icaldomoronapoli.gov.it/preview/images/immacolata-concezione-guido-reni-large.jpeg">
+                            </a>
+                        </div>
+                                                <div class="item-right">
+                            <h3><a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/499/festa-dell-immacolata/">Festa dell'Immacolata</a></h3>
+                            <p>Si comunica all&#39;utenza che, come da Calendario Scolastico, venerd&igrave; 8 dicembre, festa dell&#39;Immacolata&nbsp;Concezione,&nbsp;la scuola rester&agrave; chiusa.&nbsp;
+
+&nbsp;
+
+Le lezioni..</p>
+                        </div>
+                        <br>
+                    </div>
+                    <!-- thumbnail -->
+                </li>
+                    </ul>
+        <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/" class="btn btn-lg read-more" style="width: 100%;margin-top: 5px;">Leggi Tutto..</a>
+                <!-- widget-content -->
+    </div>
+    <div class="widget clearfix kp-list_cat_news">
+        <h2 class="widget-title"><span>Albo Online</span></h2>
+                <ul class="list-unstyled">
+                                                    <li class="format-gallery">
+                            <div class="item clearfix">
+                                <div class="item-right">
+                                    <h3>
+                                        <a href="albo-online/264/adozione-piano-delle-attivita-personale-ata/">Adozione piano delle attività personale Ata                                            ..</a></h3>
+                                    <ul class="kp-metadata clearfix">
+                                        <li>data pubblicazione 21-12-2017 &nbsp; - &nbsp; </li>
+                                        <li>data scadenza 04-01-2018 </li>
+                                        <li class="kp-time"><a
+                                                href="albo-online/264/adozione-piano-delle-attivita-personale-ata/">
+                                                Leggi</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                                                                                                                                                        </ul>
+        <a href="http://www.icaldomoronapoli.gov.it/albo-online/" class="btn btn-lg read-more" style="width: 100%;margin-top: 5px;">Archivio Albo Online</a>
+              </div>
+                    </div>
+                    <!-- main-col -->
+                    <div class="clearfix"></div>
+                </div>
+                <!-- main-content -->
+                    <div id="sidebar" class="col-md-3">
+    <ul class="list-unstyled">
+                            <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>PON  FESR 2014 2020</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.icaldomoronapoli.gov.it/categoria/pon-fesr-2014-2020/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/pon.png" class="img-responsive" alt="PON_FESR_2014-20"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Amm. Trasparente</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.icaldomoronapoli.it/amministrazione-trasparente/"><img src="http://www.icaldomoronapoli.it/preview/images/Banner_horizon_amm_trasp.jpg" class="img-responsive" alt="Amm. Trasparente"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Piano formazione docenti </span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://hubmiur.pubblica.istruzione.it/web/ministero/cs031016"><img src="http://www.icaldomoronapoli.gov.it/preview/images/varie/Piano formazione docenti.png" class="img-responsive" alt="Piano per la formazione dei docenti "></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>P. N. S. D.</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.icaldomoronapoli.gov.it/categoria/piano-naz-scuola-digitale/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/PSDN.jpg" class="img-responsive" alt="P. N. S. D."></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+                    <li class="clearfix">
+
+                                                                                                    <div class="widget kp-banner">
+        <h2 class="widget-title"><span>Link utili</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.istruzione.it/"><img src="http://www.icaldomoronapoli.it/preview/images/banner_miur.gif" class="img-responsive" alt="MIUR"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.campania.istruzione.it/home/home.shtml"><img src="http://www.icaldomoronapoli.it/preview/images/USRCamp.png" class="img-responsive" alt="USR per la Campania"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.csa.napoli.bdp.it/"><img src="http://www.icaldomoronapoli.it/preview/images/USPNapoli.png" class="img-responsive" alt="CSA Napoli"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href=" 	http://cercalatuascuola.istruzione.it/cercalatuascuola/ "><img src="http://www.icaldomoronapoli.gov.it/preview/images/chiaro.jpg" class="img-responsive" alt="Scuola in chiaro"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href=" 	http://archivio.pubblica.istruzione.it/istanzeonline/index.shtml "><img src="http://www.icaldomoronapoli.gov.it/preview/images/banner_istanzeonline.gif" class="img-responsive" alt="Istanze Online"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href="http://www.iscrizioni.istruzione.it/"><img src="http://www.icaldomoronapoli.it/preview/images/iscrizioni.jpg" class="img-responsive" alt="Iscrizioni online"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                                    <li>
+                        <div class="thumbnail">
+                            <div class="top-item">
+                                <a href=" 	http://www.invalsi.it/invalsi/index.php "><img src="http://www.icaldomoronapoli.gov.it/preview/images/banner_invalsi.gif" class="img-responsive" alt="Invalsi"></a>
+                            </div>
+
+                        </div>
+                    </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                            </li>
+            </ul>
+    </div>
+                <!-- sidebar -->
+                <div class="clearfix"></div>
+            </div>
+            <!-- content -->
+                                                                                                                                                                <div class="widget kp-video">
+        <h2 class="widget-title"><span>=</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/piano-naz-scuola-digitale/465/settimana-europea-del-codice-2017/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/codeweek2017.png" class="img-responsive" alt=""Codeweek 2017""></a>
+                        </div>
+
+                    </div>
+                </li>
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.libriamociascuola.it"><img src="http://www.icaldomoronapoli.gov.it/preview/images/libriamoci.PNG" class="img-responsive" alt="Libriamoci"></a>
+                        </div>
+
+                    </div>
+                </li>
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.caprioperafestival.it"><img src="http://www.icaldomoronapoli.gov.it/preview/images/barbiere-prima-immagine-ok-212x300.jpg" class="img-responsive" alt="Progetto "IL BARBIERE DI SIVIGLIA""></a>
+                        </div>
+
+                    </div>
+                </li>
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.aslnapoli1centro.it/web/promozione-della-salute/6"><img src="http://www.icaldomoronapoli.gov.it/preview/images/logo quadri.PNG" class="img-responsive" alt="Progetto alimentare "Quadrifoglio""></a>
+                        </div>
+
+                    </div>
+                </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                                                                                                                                                <div class="widget kp-video">
+        <h2 class="widget-title"><span>==</span></h2>
+        <div class="widget-content">
+            <ul class="clearfix">
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.fruttanellescuole.gov.it/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/logo.jpg" class="img-responsive" alt="Programma "FRUTTA E VERDURA NELLE SCUOLE""></a>
+                        </div>
+
+                    </div>
+                </li>
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.icaldomoronapoli.gov.it/r-generation/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016/varie_2016/Rgeneration.png" class="img-responsive" alt="RGeneration"></a>
+                        </div>
+
+                    </div>
+                </li>
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.icaldomoronapoli.gov.it/categoria/avvisi/456/-ioleggoperche/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/foto2017-18/varie/ioleggo2017.jpg" class="img-responsive" alt="ioleggoperché "></a>
+                        </div>
+
+                    </div>
+                </li>
+                                <li>
+                    <div class="thumbnail">
+                        <div class="top-item">
+                            <a href="http://www.icaldomoronapoli.gov.it/scuola-viva/"><img src="http://www.icaldomoronapoli.gov.it/preview/images/Foto2016-17/varie/ScuolaVivaMoro.png" class="img-responsive" alt="Scuola VIVA"></a>
+                        </div>
+
+                    </div>
+                </li>
+                            </ul>
+        </div>
+        <!-- widget-content -->
+    </div>
+                    </div>
+        <!-- wraper -->
+
+    <div class="container" style="border-top:1px solid #fff;">
+        <div id="bottom-sidebar">
+            <div class="wraper clearfix">
+                <div class="kp-social clearfix">
+                    <div class="separator"></div>
+                </div>
+                <!-- kp-social -->
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-4  ">
+                        <div class="widget widget-text">
+                            <h2 class="widget-title"><span>Contatti</span></h2>
+                            <ul class="list-unstyled">
+                                <li><i class="icon-map-marker"></i>Via Thomas Eliot - 80147 - Napoli </li>
+                                <li><i class="icon-iphone"></i>Tel. e Fax 081 5615904 </li>
+                                <li><i class="icon-email"></i><span>Email:</span><a href="mailto:naic8b200t@pec.istruzione.it  ">naic8b200t@pec.istruzione.it  </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- widget-text -->
+                                                                    <div class=" col-md-4 col-sm-4 col-xs-12">
+    <div class="widget navigation">
+        <h2 class="widget-title"><span>menu footer</span></h2>
+                <div class="sidebar-nav">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-footer">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">menu footer</span>
+                </div>
+                <div class="lr-padding navbar-collapse collapse" id="menu-footer">
+                    <ul class="footer-menu">
+                        <li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/sicurezza/"> Sicurezza</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/privacy/"> Privacy</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/note-legali/"> Note Legali</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/elenco-siti-tematici/"> Elenco siti tematici</a></li>
+<li class="listSchool">
+  <a href="http://www.icaldomoronapoli.gov.it/urp/"> URP</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!-- widget-content -->
+    </div>
+    </div>
+                                        </div>
+                <!-- row -->
+            </div>
+            <!-- wraper -->
+        </div>
+        <!-- bottom-sidebar -->
+        <footer id="page-footer">
+            <div class="wraper clearfix">
+                <p class="pull-left">Copyrights © 2015 by Istituto Comprensivo Statale “ALDO MORO”</p>
+                <p class="pull-right">Credit by  <a href="http://www.progettohorizon.com" 
+	â€¢	target="_blank">Horizon s.r.l.s.</a></p>
+            </div>
+        </footer>
+ </div>
+
+<!-- page-footer -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jqueryUi.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/bootstrap/bootstrap.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/superfish.js"></script>
+
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jquery.validate.min.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jflickrfeed.min.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/tweetable.jquery.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jquery.timeago.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jquery.prettyPhoto.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/modernizr.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/grid.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/owl-carousel/owl.carousel.min.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/unoslider/unoslider.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/jPages.js"></script>
+<script src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/custom.js"></script>
+<script type="text/javascript" src="http://www.icaldomoronapoli.gov.it/themes/scuole/js/datasource/datasource.js"></script>
+
+
+<script type='text/javascript'>
+    $(document).ready(function() {
+        $("#owl-demo").owlCarousel({
+            itemsCustom : [
+                [0, 1],
+                [700, 3],
+                [1000, 4],
+                [1200, 4],
+                [1400, 4],
+                [1600, 4]
+
+            ],
+            autoPlay: 20000, //Set AutoPlay to 20 seconds
+            navigation : true,
+            pagination :false,
+            navigationText: [
+                "<i class='icon-chevron-left'></i>",
+                "<i class='icon-chevron-right'></i>"
+            ]
+        });
+    });
+    $(document).ready(function(){
+        $('#unoslider').unoslider({
+            slideshow: {
+                speed: 7            },
+            block: {
+                vertical: 8,
+                horizontal: 3
+            },
+            animation: {
+                pattern: 'chess',
+                speed: 100,
+                delay: 80
+            }
+
+        });
+
+    });
+
+
+
+</script>
+</body>
+</html> 

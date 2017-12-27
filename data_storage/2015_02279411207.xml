@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:Legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 2 legge 190</titolo>
+    <abstract>Pubblicazione 2 legge 190 anno 2 rif. 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>ACER SERVIZI s.r.l.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-29</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.acerservizi.it/contents/instance1/files/legge190/Legge190_Acer_Servizi_2014.xml</urlFile>
+    <licenza xsi:type="xsd:string" />
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z2D1219696</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02279411207</codiceFiscaleProp>
+        <denominazione>ACER SERVIZI s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA BUONI ACQUISTO DIPENDENTI ACER SERVIZI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03543000370</codiceFiscale>
+          <ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03543000370</codiceFiscale>
+          <ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1093</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2014-12-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.0000</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F12553DD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02279411207</codiceFiscaleProp>
+        <denominazione>ACER SERVIZI s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI STIMA AREA EDIFICABILE IN CO DI CASTENASO BO - VIA DEL BARGELLO - DESTINATA ALTRI USI ED EDILIZIA CONVENZIONATA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02329861203</codiceFiscale>
+          <ragioneSociale>COSMI VINCENZO INGEGNERE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02329861203</codiceFiscale>
+          <ragioneSociale>COSMI VINCENZO INGEGNERE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-17</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.0000</importoSommeLiquidate>
+    </lotto>
+  </data>
+</Legge190:pubblicazione>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 https://dati.avcp.it/schema/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione legge 190, anno rif. 2014</titolo>
+    <abstract>Pubblicazione legge 190, anno rif. 2014</abstract>
+    <dataPubbicazioneDataset>2015-01-31</dataPubbicazioneDataset>
+    <entePubblicatore>Inerti System Ecology s.r.l.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-31</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://dataset.ckube.it/avcp/appaltil190/inertisystemecology_2014.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZC40EC1FBE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>03397840160</codiceFiscaleProp>
+        <denominazione>Inerti System Ecology s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>telefonia mobile e connessione internet 2014 (dal 01/01/14 al 31/12/14)
+</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>93026890017</codiceFiscale>
+          <ragioneSociale>VODAFONE OMNITEL
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>93026890017</codiceFiscale>
+          <ragioneSociale>VODAFONE OMNITEL
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>529.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF30EC1FAA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>03397840160</codiceFiscaleProp>
+        <denominazione>Inerti System Ecology s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Assistenza fiscale, elaborazione contabilità e redditi, compilazione verbale libri sociali, pagamenti tramite F24 (dal 01/01/14 al 31/12/14)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02921280166</codiceFiscale>
+          <ragioneSociale>STUDIO ALMICI SRL
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02921280166</codiceFiscale>
+          <ragioneSociale>STUDIO ALMICI SRL
+</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEF0EC1F91</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>03397840160</codiceFiscaleProp>
+        <denominazione>Inerti System Ecology s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Service amministrativo 2014 (dal 01/01/14 al 31/12/14)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>VAL CAVALLINA SERVIZI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02544690163</codiceFiscale>
+          <ragioneSociale>VAL CAVALLINA SERVIZI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>450.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

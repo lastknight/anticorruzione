@@ -1,0 +1,4645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 1 Legge 190</titolo>
+    <abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2013</abstract>
+    <dataPubbicazioneDataset>2014-01-24</dataPubbicazioneDataset>
+    <entePubblicatore>Comune di Lequile</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-26</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://amministrazioneaperta.net-impresa.com/public/AmmApertaLequile/Lequile.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>3219873341</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DI STRADE INTERNE</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03304810751</codiceFiscale>
+          <ragioneSociale>MAROCCIA COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00399240753</codiceFiscale>
+          <ragioneSociale>MAGNO ANTONIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03071000750</codiceFiscale>
+          <ragioneSociale>LEZZI SURL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04300440759</codiceFiscale>
+          <ragioneSociale>MELLO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00567630751</codiceFiscale>
+          <ragioneSociale>PANARESE LUIGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04425660752</codiceFiscale>
+          <ragioneSociale>PALUMBO MARCO COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04488920754</codiceFiscale>
+          <ragioneSociale>MERIDIONAL SCAVI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03348870753</codiceFiscale>
+          <ragioneSociale>L.S. &amp; T. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03405380753</codiceFiscale>
+          <ragioneSociale>INGROSSO COSTRUZIONI SAS</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00455980755</codiceFiscale>
+          <ragioneSociale>IMPRESA FRISULLO LUIGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03814830752</codiceFiscale>
+          <ragioneSociale>LA MERIDIONALE COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03365640758</codiceFiscale>
+          <ragioneSociale>LE.GA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04241520750</codiceFiscale>
+          <ragioneSociale>LA STRADA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04494360755</codiceFiscale>
+          <ragioneSociale>LA NUOVA LEZZI STRADE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02857610758</codiceFiscale>
+          <ragioneSociale>STRADALE LEZZI GIANLUCA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04340470758</codiceFiscale>
+          <ragioneSociale>STE.MAR. COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04319720753</codiceFiscale>
+          <ragioneSociale>SOL.EDIL GROUP SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02508880750</codiceFiscale>
+          <ragioneSociale>STRADALE SALENTINA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03570290753</codiceFiscale>
+          <ragioneSociale>TUNDO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02544940733</codiceFiscale>
+          <ragioneSociale>TECNOSCAVI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03724960756</codiceFiscale>
+          <ragioneSociale>T.M. COSTRUZIONI S.A.S.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03442470757</codiceFiscale>
+          <ragioneSociale>RIZZO STRADE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01937800744</codiceFiscale>
+          <ragioneSociale>PROTO GIUSEPPE SAS</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02062980756</codiceFiscale>
+          <ragioneSociale>PIETRO DE PASCALIS SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03965360757</codiceFiscale>
+          <ragioneSociale>S &amp; G COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03969780752</codiceFiscale>
+          <ragioneSociale>SFINGE COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03774180750</codiceFiscale>
+          <ragioneSociale>SCAI APPALTI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03682200757</codiceFiscale>
+          <ragioneSociale>S.M.E. STRADE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02823940735</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE SAN PIETRO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00518650759</codiceFiscale>
+          <ragioneSociale>DE PASCALI PANTALEO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01429490756</codiceFiscale>
+          <ragioneSociale>COSTRUZIONI GUIDA GIOVANNI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03043930753</codiceFiscale>
+          <ragioneSociale>COPPOLA GIULIANO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03574630756</codiceFiscale>
+          <ragioneSociale>DECO SOC.COOP. A R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03433360751</codiceFiscale>
+          <ragioneSociale>EDIL STRADE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01938410758</codiceFiscale>
+          <ragioneSociale>EDIL COS SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03648130759</codiceFiscale>
+          <ragioneSociale>DIELLE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03024430757</codiceFiscale>
+          <ragioneSociale>BIASCO STRADE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04177200757</codiceFiscale>
+          <ragioneSociale>AGM COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04449050758</codiceFiscale>
+          <ragioneSociale>A. RICCARDO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03554670756</codiceFiscale>
+          <ragioneSociale>BRI.ECO. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03676730751</codiceFiscale>
+          <ragioneSociale>CONSORZIO STABILE COSTRUTTORI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03213200755</codiceFiscale>
+          <ragioneSociale>CO.GE.FA. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04168530758</codiceFiscale>
+          <ragioneSociale>CALORA SURL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01936970753</codiceFiscale>
+          <ragioneSociale>GUGLIELMO COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03631460759</codiceFiscale>
+          <ragioneSociale>GRECO COSIMO &amp; C. SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02136220759</codiceFiscale>
+          <ragioneSociale>GIANNOCCARO COSTRUZIONI STRADALI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03839890757</codiceFiscale>
+          <ragioneSociale>I.CO.M. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00457060754</codiceFiscale>
+          <ragioneSociale>IMPRESA COPPOLA DONATO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02670220751</codiceFiscale>
+          <ragioneSociale>IMALTO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02202610743</codiceFiscale>
+          <ragioneSociale>ICOST SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02566550758</codiceFiscale>
+          <ragioneSociale>F.LLI FASANO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04397740756</codiceFiscale>
+          <ragioneSociale>ELLE LAVORI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03194240754</codiceFiscale>
+          <ragioneSociale>ELETTRIC SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01863640759</codiceFiscale>
+          <ragioneSociale>F.LLI PANARESE SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03484770759</codiceFiscale>
+          <ragioneSociale>FRANCO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02234100739</codiceFiscale>
+          <ragioneSociale>FORNARO VINCENZO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02599120751</codiceFiscale>
+          <ragioneSociale>FACHECHI EUGENIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00518650759</codiceFiscale>
+          <ragioneSociale>DE PASCALI PANTALEO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>173419.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-06</dataInizio>
+        <dataUltimazione>2014-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>4521310F07</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI COMPLETAMENTO DELLA FOGNATURA NERA DEL CENTRO ABITATO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00455980755</codiceFiscale>
+          <ragioneSociale>IMPRESA FRISULLO LUIGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04112470754</codiceFiscale>
+          <ragioneSociale>L.G.M. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04323830754</codiceFiscale>
+          <ragioneSociale>ANACLETO LONGO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04138400751</codiceFiscale>
+          <ragioneSociale>CENTONZE STRADE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04323830754</codiceFiscale>
+          <ragioneSociale>ANACLETO LONGO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>50490.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-23</dataInizio>
+        <dataUltimazione>2013-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>55261.48</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>4583776B9B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE </denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE ALLE ATTIVITA' DI POLIIZIA MORTUARIA</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02666970641</codiceFiscale>
+          <ragioneSociale>GLOBAL SERVICE GROUP SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02666970641</codiceFiscale>
+          <ragioneSociale>GLOBAL SERVICE GROUP SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-01</dataInizio>
+        <dataUltimazione>2013-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>47109162DD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO POLIZIA MUNICIPALE - RUP</denominazione>
+      </strutturaProponente>
+      <oggetto>CENSIMENTO E MAPPATURA CAVITA' IPOGEE </oggetto>
+      <sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GRLMHL54B23D862G</codiceFiscale>
+          <ragioneSociale>RTP GRECOLINI MICHELE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>STNMRA58R09L776P</codiceFiscale>
+          <ragioneSociale>STANI MARIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VTLCMN77E18G856I</codiceFiscale>
+          <ragioneSociale>VITALE CARMINE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MNRMRZ65B02C933M</codiceFiscale>
+          <ragioneSociale>RTP ANNIBALI - MAINIERO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>BNCFNC79E16A048Q</codiceFiscale>
+          <ragioneSociale>BIANCO FRANCESCO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MCCDRN80L43C978C</codiceFiscale>
+          <ragioneSociale>MACCHIA DORIANA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>PGLNTN79E16E506G</codiceFiscale>
+          <ragioneSociale>PAGLIARA ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>STNMRA58R09L776P</codiceFiscale>
+          <ragioneSociale>STANI MARIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-22</dataInizio>
+        <dataUltimazione>2013-03-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>47109162DD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO POLIZIA MUNICIPALE - RUP</denominazione>
+      </strutturaProponente>
+      <oggetto>AGGIORNAMENTO PIANO COMUNALE DI PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PTRSNR79H47D862K</codiceFiscale>
+          <ragioneSociale>PETRARCA SERENA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FNTMMM76A22G647U</codiceFiscale>
+          <ragioneSociale>MIMMO FONTANA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>BRDGRL78M42D833I</codiceFiscale>
+          <ragioneSociale>RPT BARDI - FORTUNATO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>TRMLSN71B20Z133L</codiceFiscale>
+          <ragioneSociale>TRAMACERE ALESSANDRO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>SLMMRF74A12E506Y</codiceFiscale>
+          <ragioneSociale>SOLOMBRINO ANDREA FRANCESCO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MCCVTI64M29A271K</codiceFiscale>
+          <ragioneSociale>MACCHIA VITO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VNTLRT55H07H037Z</codiceFiscale>
+          <ragioneSociale>ECO.VE.MA SRL DI ALBERTO VENTURA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03661451215</codiceFiscale>
+          <ragioneSociale>ATP - UGATI - CUCCURULLO - CERVO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>PRLLLN81S54D325A</codiceFiscale>
+          <ragioneSociale>ELENA PAROLO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>GDCGNN75D16E882N</codiceFiscale>
+          <ragioneSociale>GIODICE GIOVANNI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>GLLFNC57E18D005T</codiceFiscale>
+          <ragioneSociale>GALLO FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SLMMRF74A12E506Y</codiceFiscale>
+          <ragioneSociale>SOLOMBRINO ANDREA FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-22</dataInizio>
+        <dataUltimazione>2013-03-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>47801890C1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO SERVIZIO DI MANUTENZIONE DEL CENTRO URBANO</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05182271006</codiceFiscale>
+          <ragioneSociale>PUZZOVIO PIANTE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01937800744</codiceFiscale>
+          <ragioneSociale>PROTO GIUSEPPE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04567721214</codiceFiscale>
+          <ragioneSociale>S &amp; G SERVICE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02917630754</codiceFiscale>
+          <ragioneSociale>VINCENZO VERDESCA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03161940758</codiceFiscale>
+          <ragioneSociale>TUTTOPIOSCINE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04091070757</codiceFiscale>
+          <ragioneSociale>MESSAPIA AMBIENTE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02155320720</codiceFiscale>
+          <ragioneSociale>ARIETE SOC. COOP.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>A &amp; V SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04016470751</codiceFiscale>
+          <ragioneSociale>FRANECO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01841860743</codiceFiscale>
+          <ragioneSociale>MARTINO MARANGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03988440727</codiceFiscale>
+          <ragioneSociale>LA PULITECNICA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>A &amp; V SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>94500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-08-27</dataInizio>
+        <dataUltimazione>2016-08-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>4781729798</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>PO FERS 2007/2013-ASSE VII-LINEAD'INTERVENTO7.2-AZIONE 7.2.1.-LAVORI DI RIFACIMENTO DEL BASOLATO DI LARGO CASTELLO- LIQUIDAZIONE SPESE TECNICHE-CIG 4781729798</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04088580750</codiceFiscale>
+          <ragioneSociale>ING.lUIGI DEL GROSSO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04088580750</codiceFiscale>
+          <ragioneSociale>ING.lUIGI DEL GROSSO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15225.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-04</dataInizio>
+        <dataUltimazione>2013-12-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15225.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>4781729798</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI RIFACIMENTO DEL BASOLATO DI LARGO CASTELLO</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04503690754</codiceFiscale>
+          <ragioneSociale>IMPRE.GI.CO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02629020757</codiceFiscale>
+          <ragioneSociale>NICOLI' SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03972890754</codiceFiscale>
+          <ragioneSociale>EDILSALENTO STRADE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03646480750</codiceFiscale>
+          <ragioneSociale>FANULI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03646480750</codiceFiscale>
+          <ragioneSociale>FANULI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>371299.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-27</dataInizio>
+        <dataUltimazione>2013-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>306339.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>4781729798</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>PO FERS 2007/2013- ASSE VII LINEA D'INTERVENTO 7.2. AZIONE7.2.1. LAVORI DI RIFACIMENTODEL BASOLATO LARGO CASTELLO LIQUIDAZIONE SPESE TECNICHE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>NGRGPP60C19C334R</codiceFiscale>
+          <ragioneSociale>ARCH GIUSEPPE DEL GROSSO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>NGRGPP60C19C334R</codiceFiscale>
+          <ragioneSociale>ARCH GIUSEPPE DEL GROSSO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4440.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-10</dataInizio>
+        <dataUltimazione>2014-01-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4440.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>51915434CF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI REALIZZAZIONE PUNTO SPORT ATTREZZATO PER ATTIVITA MOTORIE</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01404740753</codiceFiscale>
+          <ragioneSociale>SOC. ECOVERDE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03161940758</codiceFiscale>
+          <ragioneSociale>TUTTOPISCINE E CAMPI SPORTIVI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03577500758</codiceFiscale>
+          <ragioneSociale>EMMEPI SPORT SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04061600757</codiceFiscale>
+          <ragioneSociale>CASTIRGNANO VIVAI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00518650759</codiceFiscale>
+          <ragioneSociale>DE PASCALI PANTALEO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00518650759</codiceFiscale>
+          <ragioneSociale>DE PASCALI PANTALEO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>41015.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-18</dataInizio>
+        <dataUltimazione>2014-02-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5203767C5D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>PROGETTO SOCIO EDUCATIVO CREARE INSIEME</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02900450756</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE L'IMPRONTA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02900450756</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE L'IMPRONTA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-05</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>520382081B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>RISCOSSIONE DIRETTA TARES</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01109310753</codiceFiscale>
+          <ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01109310753</codiceFiscale>
+          <ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>17000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-05</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5205345295</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>CONVENZIONE CONSIP</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00891951006</codiceFiscale>
+          <ragioneSociale>KUWAIT PETROLEUM SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00891951006</codiceFiscale>
+          <ragioneSociale>KUWAIT PETROLEUM SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-02</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5607887EBC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO SERVIZIO DI TESORERIA COMUNALE</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04485191219</codiceFiscale>
+          <ragioneSociale>BANCA SAN PAOLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04485191219</codiceFiscale>
+          <ragioneSociale>BANCA SAN PAOLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-13</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>30000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5708259C55</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI EFFICIENTAMENTO ENERGETICO SEDE MUNICIPALE - LOTTO DI COMPLETAMENTO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02629020757</codiceFiscale>
+          <ragioneSociale>NICOLI' SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02629020757</codiceFiscale>
+          <ragioneSociale>NICOLI' SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>96899.96</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-14</dataInizio>
+        <dataUltimazione>2014-06-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>56100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5990053C19</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>GESTIONE DEL SERVIZIO AL PROGETTO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13366030156</codiceFiscale>
+          <ragioneSociale>ADECCO SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13366030156</codiceFiscale>
+          <ragioneSociale>ADECCO SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>88890.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-05</dataInizio>
+        <dataUltimazione>2015-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z000FBD4C3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE STRAORDINARIA IMPIANTO PUBBLICA ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>ANTONIO PENDONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>ANTONIO PENDONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7234.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-19</dataInizio>
+        <dataUltimazione>2014-06-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7234.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z021087ACF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA CARBURANTE AUTOMEZZI DI PROPRIETA' COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00891951006</codiceFiscale>
+          <ragioneSociale>KUWAIT PETROLEUM SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00891951006</codiceFiscale>
+          <ragioneSociale>KUWAIT PETROLEUM SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3536.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-26</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3536.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z04119F14E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>MANIFESTAZIONI CULTURALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04046020758</codiceFiscale>
+          <ragioneSociale>CENTRO MUSICALE DI </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04046020758</codiceFiscale>
+          <ragioneSociale>CENTRO MUSICALE DI </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3050.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-10</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3050.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0611F2261</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE AUTOMEZZI DI PROPRIETA' COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04441310754</codiceFiscale>
+          <ragioneSociale>MACAGNINO SAS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04441310754</codiceFiscale>
+          <ragioneSociale>MACAGNINO SAS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2139.31</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2139.31</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0A10EB444</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>CORSO DI AGIORNAMENTO PERSONALE UFFICIO FINANZIARIO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03791010758</codiceFiscale>
+          <ragioneSociale>PARSEC SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03791010758</codiceFiscale>
+          <ragioneSociale>PARSEC SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>180.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-21</dataInizio>
+        <dataUltimazione>2014-11-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>180.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ORDINARIA IMPIANTI DDI PUBBLICA ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3489.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-29</dataInizio>
+        <dataUltimazione>2013-12-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3489.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE L.L.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI MANUTENZIONE STRAORDINARIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>265.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-15</dataInizio>
+        <dataUltimazione>2013-11-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>265.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURE MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04530370750</codiceFiscale>
+          <ragioneSociale>COMI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04530370750</codiceFiscale>
+          <ragioneSociale>COMI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2016.18</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-03-15</dataInizio>
+        <dataUltimazione>2013-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2016.18</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02709050757</codiceFiscale>
+          <ragioneSociale>FERRAMENTA E COLORI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02709050757</codiceFiscale>
+          <ragioneSociale>FERRAMENTA E COLORI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>443.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-13</dataInizio>
+        <dataUltimazione>2013-06-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>443.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>865.03</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-19</dataInizio>
+        <dataUltimazione>2013-09-03</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>865.03</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI ORDINARIA E STRAORDINARIA MANUTENZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>471.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-05</dataInizio>
+        <dataUltimazione>2013-07-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>471.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03146550755</codiceFiscale>
+          <ragioneSociale>CENTRO COLOR</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03146550755</codiceFiscale>
+          <ragioneSociale>CENTRO COLOR</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1121.31</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-06-11</dataInizio>
+        <dataUltimazione>2013-09-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1121.31</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURE PIANTE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>579.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-03</dataInizio>
+        <dataUltimazione>2013-09-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>579.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA ARREDI </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00307690750</codiceFiscale>
+          <ragioneSociale>DE MATTIA SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00307690750</codiceFiscale>
+          <ragioneSociale>DE MATTIA SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2032.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-14</dataInizio>
+        <dataUltimazione>2013-09-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2032.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA INDUMENTI DA LAVORO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02899730754</codiceFiscale>
+          <ragioneSociale>ANTIRFORTUNISTICA GENERALE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02899730754</codiceFiscale>
+          <ragioneSociale>ANTIRFORTUNISTICA GENERALE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>230.66</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-08</dataInizio>
+        <dataUltimazione>2013-04-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>230.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C3B73A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04000040750</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04000040750</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>370.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-06-04</dataInizio>
+        <dataUltimazione>2013-07-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>370.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C0C42314</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>ARREDI AREE A VERDE E GIOCHI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>6973.23</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-19</dataInizio>
+        <dataUltimazione>2013-07-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6973.23</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0D09CD6C2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA E POSA IN OPERA DI ALBERATURA  NEL PIP</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03158810758</codiceFiscale>
+          <ragioneSociale>VIVAI TARANTINO S.S.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03158810758</codiceFiscale>
+          <ragioneSociale>VIVAI TARANTINO S.S.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4999.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-08</dataInizio>
+        <dataUltimazione>2013-06-13</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4999.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1A0DEB27B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSISTENZA ED AGGIORNAMENTO APPLICATIVI SOFTWARE ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210758</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210758</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9718.52</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-30</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9718.52</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1B0DA7755</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZI INTEGRATIVI SCOLASTICI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02900450756</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE L'IMPRONTA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02900450756</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE L'IMPRONTA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>39954.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-04</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>39954.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z290DBC681</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVAZIONE CENTRO SOCIO EDUCATIVO DIURNO PER DIVERSAMENTE ABILI " CREARE INSIEME"</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02900450756</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE L'IMPRONTA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02900450756</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE L'IMPRONTA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>17500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-07</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2C11E424A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA LIBRI DI TESTO ANNO SCOLASTICO 2014/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03187350750</codiceFiscale>
+          <ragioneSociale>CARTOLIBRERIA EUROPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187350750</codiceFiscale>
+          <ragioneSociale>CARTOLIBRERIA EUROPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>105.66</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-26</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>105.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3110A835C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA E POSA IN OPERA DI APPARATI NETWORKING SCUOLA SANDRO PERTINI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1464.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-08</dataInizio>
+        <dataUltimazione>2014-09-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1464.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z340E163E5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZI DI CONNETTIVITA' RUPAR PROROGA CONTRATTO 2014/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02734350750</codiceFiscale>
+          <ragioneSociale>CLIOCOM SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02734350750</codiceFiscale>
+          <ragioneSociale>CLIOCOM SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5035.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-02</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5035.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z390B7F1A1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>COPERTURA ASSICUARATIVA GRUPPO COMUNALE DI PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-30</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1190.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A0D820C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSEGNAZIONE SOMME PER LOBRI RIVISTE E CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06188330150</codiceFiscale>
+          <ragioneSociale>MAGGIOLI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06188330150</codiceFiscale>
+          <ragioneSociale>MAGGIOLI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-23</dataInizio>
+        <dataUltimazione>2014-01-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>205.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A0D820C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSEGNAZIONE SOMME PER LIBRI RIVISTE  CANCELLEERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-23</dataInizio>
+        <dataUltimazione>2014-02-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>209.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A0DFCBAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO COPIE UFFICI COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3F115D57A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>RISCOSSIONE TARI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01109310753</codiceFiscale>
+          <ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01109310753</codiceFiscale>
+          <ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4880.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-18</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4880.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4011C2A76</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>PARTECIPAZIONE SEMINARIO FORMAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07189200723</codiceFiscale>
+          <ragioneSociale>MADIACONSULT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07189200723</codiceFiscale>
+          <ragioneSociale>MADIACONSULT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>390.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-04-10</dataInizio>
+        <dataUltimazione>2014-05-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>390.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z410D823A5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02360410753</codiceFiscale>
+          <ragioneSociale>CAMPURE DI CASTRI' DI LECCE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02360410753</codiceFiscale>
+          <ragioneSociale>CAMPURE DI CASTRI' DI LECCE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3502.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-01</dataInizio>
+        <dataUltimazione>2013-11-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1751.09</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z410D823A5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3502.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-30</dataInizio>
+        <dataUltimazione>2013-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>463.39</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z410D823A5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90039910758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90039910758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3502.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-31</dataInizio>
+        <dataUltimazione>2013-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>220.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z410D823A5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND DI CAMPI SALENTINA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND DI CAMPI SALENTINA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3502.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-29</dataInizio>
+        <dataUltimazione>2013-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>646.14</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z41122158E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>CORSO DI FORMAZIONE PERSONALE UFFICI FINANZIARI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>214.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-09</dataInizio>
+        <dataUltimazione>2014-10-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>214.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z43116A27E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO ATTREZZATURE E D.P.I.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05602670969</codiceFiscale>
+          <ragioneSociale>BRICOMAN ITALIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05602670969</codiceFiscale>
+          <ragioneSociale>BRICOMAN ITALIA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8294.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-21</dataInizio>
+        <dataUltimazione>2014-12-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z43118762D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>MANIFESTAZIONI CULTURALI E MANIFESTAZIONI ESTIVE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04592140752</codiceFiscale>
+          <ragioneSociale>PARTY COLOR DI CENTONZE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04592140752</codiceFiscale>
+          <ragioneSociale>PARTY COLOR DI CENTONZE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-17</dataInizio>
+        <dataUltimazione>2014-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4508468BC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AL RINNOVO CONTRATTUALE ANNO 2013 - PAGAMENTO CANONI TRIMESTRALI - MINISTERO DELLE INFRASTRUTTURE ROMA</oggetto>
+      <sceltaContraente>25-AFFIDAMENTO DIRETTO A SOCIETA' RAGGRUPPATE/CONSORZIATE O CONTROLLATE NELLE CONCESSIONI DI LL.PP</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97158180584</codiceFiscale>
+          <ragioneSociale>MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI ROMA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97158180584</codiceFiscale>
+          <ragioneSociale>MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI ROMA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-01</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1234.06</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4508468BC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AL RINNOVO CONTRATTUALE ANNO 2013 E PAGAMENTO CANONI DI ABBONAMENTO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02224410023</codiceFiscale>
+          <ragioneSociale>BANCA SELLA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02224410023</codiceFiscale>
+          <ragioneSociale>BANCA SELLA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>14.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z450C7BF56</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PIANTE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>880.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-29</dataInizio>
+        <dataUltimazione>2013-10-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>880.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z480D82297</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSEGNAZIONE SOMME PER RIPARAZIONE VEICOLI DELLA PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CPTNTN60M08E538J</codiceFiscale>
+          <ragioneSociale>AUTOFFICINA ANTONIO CAPUTO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CPTNTN60M08E538J</codiceFiscale>
+          <ragioneSociale>AUTOFFICINA ANTONIO CAPUTO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>592.01</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-17</dataInizio>
+        <dataUltimazione>2014-01-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>592.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z48102641A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA ATTREZZATURE MANIFESTAZIONE SCOLASTICA DI FINE ANNO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04592140752</codiceFiscale>
+          <ragioneSociale>PARTY COLOR DI CENTONZE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04592140752</codiceFiscale>
+          <ragioneSociale>PARTY COLOR DI CENTONZE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-12</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4E1092744</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>OPERE DI URBANIZZAZIONE PIP - INDAGINE GEOLOGICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RLNLCU67R03E506O</codiceFiscale>
+          <ragioneSociale>ORLANDUCCI LUCA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RLNLCU67R03E506O</codiceFiscale>
+          <ragioneSociale>ORLANDUCCI LUCA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3111.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-29</dataInizio>
+        <dataUltimazione>2014-09-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3111.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z510D82213</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02360410753</codiceFiscale>
+          <ragioneSociale>PENSIONE CINOFILA CAMPURE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02360410753</codiceFiscale>
+          <ragioneSociale>PENSIONE CINOFILA CAMPURE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-01</dataInizio>
+        <dataUltimazione>2013-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>861.19</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z510D82213</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA AMICO MIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA AMICO MIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-31</dataInizio>
+        <dataUltimazione>2013-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2258.59</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z510D82213</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO</oggetto>
+      <sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90039910758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90039910758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-31</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z520D8215D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DERIVANTI DA PROVENTI DELLE SANZIONI AMMINISTRATIVE ANNO 2013</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03946320755</codiceFiscale>
+          <ragioneSociale>2M SEGNALETICA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03946320755</codiceFiscale>
+          <ragioneSociale>2M SEGNALETICA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-09</dataInizio>
+        <dataUltimazione>2014-01-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>963.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5A077D3AC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO POLIZIA MUNICIPALE - RUP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI ATTREZZATURA VARIA PER IL POTENZIAMENTO DELLA STRUTTURA COMUNALE DI PROTEZIONE CIVILE - FONDI FESR 2007 - 2013 - OBIETTIVO CONVERGENZA - LINEA DI INTERVENTO 2.3 - AZIONE 2.3.2 </oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02644800985</codiceFiscale>
+          <ragioneSociale>DITTA ROSENFIRE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03946320755</codiceFiscale>
+          <ragioneSociale>DITTA 2M SEGNALETICA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02644800985</codiceFiscale>
+          <ragioneSociale>DITTA ROSENFIRE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8150.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-22</dataInizio>
+        <dataUltimazione>2013-11-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4219.26</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5A0D03FC1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSEGNAZIONE SOMME PER COMMISSIONE COMUNALE VIGILIANZA SUI PUBBLICI SPETTACOLI - LIQUIDAZIONE COMPENSI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BRGRRT78C17D862B</codiceFiscale>
+          <ragioneSociale>BERGAMO ROBERTO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BRGRRT78C17D862B</codiceFiscale>
+          <ragioneSociale>BERGAMO ROBERTO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-12-17</dataInizio>
+        <dataUltimazione>2013-01-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5A116A1D4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MATERIALE MANUTENZIONE STRADE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BSCVNI75S05E506W</codiceFiscale>
+          <ragioneSociale>CENTRO COLOR RAG. IVAN BISCONTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BSCVNI75S05E506W</codiceFiscale>
+          <ragioneSociale>CENTRO COLOR RAG. IVAN BISCONTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>395.71</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-17</dataInizio>
+        <dataUltimazione>2014-10-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>395.71</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5D1038EEC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SPESE PER CUSTODIA CANI RANDAGI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3294.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-21</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3294.09</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z61077D399</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO POLIZIA MUNICIPALE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI UN SISTEMA RADIO IN BANDA VHF - FONDI FESR 2007 - 2013 - OBIETTIVO CONVERGENZA - LINEA DI INTERVENTO 2.3 - AZIONE 2.3.2 </oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07064470151</codiceFiscale>
+          <ragioneSociale>DITTA TP SRL </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01559090616</codiceFiscale>
+          <ragioneSociale>DITTA TECH - TRON </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00353550361</codiceFiscale>
+          <ragioneSociale>DITTA EMC </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07064470151</codiceFiscale>
+          <ragioneSociale>DITTA TP SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6174.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-17</dataInizio>
+        <dataUltimazione>2013-09-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6174.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z610DE9789</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTI SU STRUTTURE INFORMATICHE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z611209CDB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SPESE TELEFONICHE E POSTALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1333.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-02</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1333.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6C0C9D27A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER ATTIVITA' DI PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1026.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>608.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6C0C9D27A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER ATTIVITA' DI PROTEZIONE CIVILE </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1026.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-27</dataInizio>
+        <dataUltimazione>2013-12-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>414.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6C0EC13CA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURE </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>375.76</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-05</dataInizio>
+        <dataUltimazione>2013-12-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>375.76</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6C0EC13CA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE STRAORDINARIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PDNNTN67D14I115X</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PDNNTN67D14I115X</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>872.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-13</dataInizio>
+        <dataUltimazione>2013-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>872.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6C0F029F3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI MESSA IN SICUREZZA E MANUTENZIONE STRAORDINARIA STRADE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04138400751</codiceFiscale>
+          <ragioneSociale>CENTONZE STRADE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04138400751</codiceFiscale>
+          <ragioneSociale>CENTONZE STRADE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>32357.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-09</dataInizio>
+        <dataUltimazione>2014-06-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>28515.63</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z720D04057</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUINE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AD ATTIVITA' DI RANDAGISMO </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>STRUTTURA AMICO MIO CARMIANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>STRUTTURA AMICO MIO CARMIANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3406.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-10-31</dataInizio>
+        <dataUltimazione>2012-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3406.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7210C405D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PER LAVORI DI ORDINARIA MANUTENZIONE PRESSO EDIFICI SCOLASTICI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>NSTGMN70P11Z112L</codiceFiscale>
+          <ragioneSociale>IDROTECNICA DI GERMANO NASTRINI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>NSTGMN70P11Z112L</codiceFiscale>
+          <ragioneSociale>IDROTECNICA DI GERMANO NASTRINI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-08</dataInizio>
+        <dataUltimazione>2014-09-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7308C57EB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER ATTIVITA' DI PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03433050758</codiceFiscale>
+          <ragioneSociale>BONSEGNA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03433050758</codiceFiscale>
+          <ragioneSociale>BONSEGNA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>62.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-30</dataInizio>
+        <dataUltimazione>2013-08-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>62.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7308C57EB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER ATTIVITA' DI PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>416.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-08</dataInizio>
+        <dataUltimazione>2013-01-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>416.24</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z760DE984B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ABBONAMENTI,STAMPATI CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z771168172</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTI DI MAUTENZIONE PUBBLICA ILLUMUNAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL IMPIANTI SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL IMPIANTI SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7908C1FB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2584.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-01</dataInizio>
+        <dataUltimazione>2013-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1439.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7908C1FB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA AMICO MIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA AMICO MIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2854.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-01</dataInizio>
+        <dataUltimazione>2013-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1110.78</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7908C1FB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80008810758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80008810758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2854.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-01</dataInizio>
+        <dataUltimazione>2013-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>147.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7908C1FB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80008810758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80008810758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2854.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-01</dataInizio>
+        <dataUltimazione>2013-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>147.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7908C1FB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2854.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-06-01</dataInizio>
+        <dataUltimazione>2013-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>156.05</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7A077D379</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO POLIZIA MUNICIPALE - RUP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI N. 1 PICK - UP ATTREZZATO CON MODULO ANTINCENDIO - DI N. 1 CARRELLO APPENDICE/RIMORCHIO - DI N. 1 CICLOMOTORE ECOLOGICO - FONDI FESR 2007 - 2013 - OBIETTIVO CONVERGENZA - LINEA DI INTERVENTO 2.3 AZIONE 2.3.2 </oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02644800985</codiceFiscale>
+          <ragioneSociale>DITTA ROSENFIRE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03433050758</codiceFiscale>
+          <ragioneSociale>BONSEGNA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02644800985</codiceFiscale>
+          <ragioneSociale>DITTA ROSENFIRE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>37665.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-07</dataInizio>
+        <dataUltimazione>2013-11-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7A0F773A2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DI MESSA IN SICUREZZA SCUOLA SANDRO PERTINI - VIDEOSORVEGLIANZA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03482920752</codiceFiscale>
+          <ragioneSociale>COMSAT DI BRUNO MARRA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03482920752</codiceFiscale>
+          <ragioneSociale>COMSAT DI BRUNO MARRA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>28771.05</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-09</dataInizio>
+        <dataUltimazione>2014-07-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>28771.05</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7C0B9F4C9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02360410753</codiceFiscale>
+          <ragioneSociale>PENSIONE CINOFILA CAMPURE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02360410753</codiceFiscale>
+          <ragioneSociale>PENSIONE CINOFILA CAMPURE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-01</dataInizio>
+        <dataUltimazione>2013-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1765.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7C0B9F4C9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-01</dataInizio>
+        <dataUltimazione>2013-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2874.74</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7C0B9F4C9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80008810758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80008810758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-01</dataInizio>
+        <dataUltimazione>2013-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7F1234A72</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO MENSA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03483260752</codiceFiscale>
+          <ragioneSociale>DI PIU' SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03483260752</codiceFiscale>
+          <ragioneSociale>DI PIU' SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>17000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-18</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z800DE980C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE AUTOMEZZI DI PROPRIETA' COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>6000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5918.13</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z800DE980C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE AUTOMEZZI DI PROPRIETA' COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03821360751</codiceFiscale>
+          <ragioneSociale>BARBA E DELLE DONNE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03821360751</codiceFiscale>
+          <ragioneSociale>BARBA E DELLE DONNE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5918.13</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z810B7F268</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNEDI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SEGNALETICA STRADALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03946320755</codiceFiscale>
+          <ragioneSociale>2M SEGNALETICA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03946320755</codiceFiscale>
+          <ragioneSociale>2M SEGNALETICA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-01</dataInizio>
+        <dataUltimazione>2013-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>604.96</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z830B888F5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>PROGETTO NONNI VIGILI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-24</dataInizio>
+        <dataUltimazione>2014-09-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>420.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8A0DE97CD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>AGGIORNAMENTO SITO INTERNET ATTIVITA' ISTITUZIONALE ANNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1936.14</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-30</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1936.14</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8A0DE97CD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>AGGIORNAMENTO SITO INTERNET COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1936.14</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-30</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1936.14</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z91123C00D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>RINNOVO POLIZZE PARCO AUTOMEZZI COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4628.64</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-12</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4628.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>z92099758e</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>QRTDTR61M07C334N</codiceFiscale>
+          <ragioneSociale>PENSIONE CINOFILA CAMPURE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>QRTDTR61M07C334N</codiceFiscale>
+          <ragioneSociale>PENSIONE CINOFILA CAMPURE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-12</dataInizio>
+        <dataUltimazione>2013-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4693.41</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z92099758E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSEGNAZIONE SOMME PER RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03194640755</codiceFiscale>
+          <ragioneSociale>F.LLI DE CARLO SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-30</dataInizio>
+        <dataUltimazione>2013-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>321.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z92099758E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA AMICO MIO CARMIANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03394050755</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA AMICO MIO CARMIANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-01</dataInizio>
+        <dataUltimazione>2013-03-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3453.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z92099758E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>90039910758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE ONLUS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>90039910758</codiceFiscale>
+          <ragioneSociale>L'ARCA ASSOCIAZIONE ONLUS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-03-30</dataInizio>
+        <dataUltimazione>2013-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z92099758E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-01</dataInizio>
+        <dataUltimazione>2013-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1050.28</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z92099758E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ATTIVITA' CONNESSE AL RANDAGISMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04416450759</codiceFiscale>
+          <ragioneSociale>DOGLAND</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-08-01</dataInizio>
+        <dataUltimazione>2013-08-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>343.24</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z980DE98A2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>MANIFESTAZIONE CARNEVALE 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04592140752</codiceFiscale>
+          <ragioneSociale>PARTY COLOR DI CENTONZE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04592140752</codiceFiscale>
+          <ragioneSociale>PARTY COLOR DI CENTONZE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-13</dataInizio>
+        <dataUltimazione>2014-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z991065E17</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTI DI ORDINARIA MANUTENZIONE SU IMPIANTI DI PUBBLICA ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL IMPIANTI SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL IMPIANTI SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9D116A23D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI ATTREZZATURE SCOLASTICHE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00307690750</codiceFiscale>
+          <ragioneSociale>DE MATTIA SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00307690750</codiceFiscale>
+          <ragioneSociale>DE MATTIA SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2049.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-22</dataInizio>
+        <dataUltimazione>2014-10-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9E0DE974F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA CARBURANTE AUTOMEZZI DI PROPRIETA' COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00891951006</codiceFiscale>
+          <ragioneSociale>KUWAIT PETROLEUM SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00891951006</codiceFiscale>
+          <ragioneSociale>KUWAIT PETROLEUM SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE DI IMMOBILI COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02885740759</codiceFiscale>
+          <ragioneSociale>SIGNORE GUIDO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02885740759</codiceFiscale>
+          <ragioneSociale>SIGNORE GUIDO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>665.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-03-11</dataInizio>
+        <dataUltimazione>2013-03-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>665.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI MATERIALE IDRAULICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04000040750</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04000040750</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>289.76</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-05</dataInizio>
+        <dataUltimazione>2014-02-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>289.76</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03146550755</codiceFiscale>
+          <ragioneSociale>CENTRO COLOR</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03146550755</codiceFiscale>
+          <ragioneSociale>CENTRO COLOR</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>166.98</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-12-19</dataInizio>
+        <dataUltimazione>2012-12-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>166.98</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>DISOSTRUZIONE RETE FOGNANTE E PULIZIA POZZETTI SCUOLE COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02795140751</codiceFiscale>
+          <ragioneSociale>AUTOSPURGO DI TARANTINO DAVIDE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02795140751</codiceFiscale>
+          <ragioneSociale>AUTOSPURGO DI TARANTINO DAVIDE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>217.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-03</dataInizio>
+        <dataUltimazione>2013-02-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>217.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE BITUME</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1742.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-03</dataInizio>
+        <dataUltimazione>2013-02-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1742.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI E FORNITURE DI MANUTENZIONE ORDINARIA E STRAORDINARIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>NSRGMN70P11Z112L</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>NSRGMN70P11Z112L</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>296.33</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-20</dataInizio>
+        <dataUltimazione>2013-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>296.33</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F0A37FED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>STAMPE PLOTTAGGI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03677230751</codiceFiscale>
+          <ragioneSociale>DIGITAL COPJ</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03677230751</codiceFiscale>
+          <ragioneSociale>DIGITAL COPJ</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>183.12</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-12-30</dataInizio>
+        <dataUltimazione>2012-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>183.12</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9F10C3FBF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PER LAVORI DI STRAORDINARIA MANUTENZIONE PRESSO IL CIMITERO COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>NSTGMN70P11Z112L</codiceFiscale>
+          <ragioneSociale>IDROTECNICA DI GERMNANO NASTRINI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>NSTGMN70P11Z112L</codiceFiscale>
+          <ragioneSociale>IDROTECNICA DI GERMNANO NASTRINI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-16</dataInizio>
+        <dataUltimazione>2014-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA10BC83E8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ORDINARIA IMPIANTI DI PUBBLICA ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>877.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-26</dataInizio>
+        <dataUltimazione>2013-11-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>877.73</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA10BC83E8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ORDINARIA IMPIANTI DI PUBBLICA ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>ANTONIO PEDONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>ANTONIO PEDONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4803.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-25</dataInizio>
+        <dataUltimazione>2013-09-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4803.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA10BC83E8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ORDINARIA DI PUBBLICAZIONE ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3885.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-08</dataInizio>
+        <dataUltimazione>2013-10-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3885.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA21210C80</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>PULIZIA EDIFICI COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02784560753</codiceFiscale>
+          <ragioneSociale>MAGAZZINI M.I.G. SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02784560753</codiceFiscale>
+          <ragioneSociale>MAGAZZINI M.I.G. SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1103.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-03</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1103.73</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA30ACD959</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSEGNAZIONE SOMME PER ABBONAMENTI</oggetto>
+      <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>TELNET- NET IMPRESA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>TELNET- NET IMPRESA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1248.72</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-04</dataInizio>
+        <dataUltimazione>2013-05-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1248.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA5116A174</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA CRISANTEMI PER CIMITERO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1215.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-29</dataInizio>
+        <dataUltimazione>2014-10-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1215.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA70FEFC94</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA LIBRI DI TESTO SCUOLE ANNO SCOLASTICO 2014/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03345070753</codiceFiscale>
+          <ragioneSociale>INFORMATICA 2000</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03345070753</codiceFiscale>
+          <ragioneSociale>INFORMATICA 2000</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11158.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-26</dataInizio>
+        <dataUltimazione>2014-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11158.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA710A6179</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO E POSA IN OPERA DI TENDAGGI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02650620756</codiceFiscale>
+          <ragioneSociale>FAGGIANO ORONZA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02650620756</codiceFiscale>
+          <ragioneSociale>FAGGIANO ORONZA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13674.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-08</dataInizio>
+        <dataUltimazione>2014-09-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13674.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI APPARATI PASSIVI E CONFIGURAZIONI IN RETE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2052.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-22</dataInizio>
+        <dataUltimazione>2013-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2052.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTI DI PUBBLICA ILLUMINAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL S.N.C</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03515890758</codiceFiscale>
+          <ragioneSociale>REDIL S.N.C</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1595.39</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-23</dataInizio>
+        <dataUltimazione>2013-02-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1595.39</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>DISOSTRUZIONE RETE FOGNANTE E PULIZIA POZZETTI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02795140751</codiceFiscale>
+          <ragioneSociale>AUTOSPURGO DI TARANTINO DAVIDE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02795140751</codiceFiscale>
+          <ragioneSociale>AUTOSPURGO DI TARANTINO DAVIDE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>447.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-08</dataInizio>
+        <dataUltimazione>2013-06-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>447.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE IDRAULICO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04000040750</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04000040750</codiceFiscale>
+          <ragioneSociale>IDROTECNICA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>245.87</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-08</dataInizio>
+        <dataUltimazione>2013-04-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>245.87</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>INDUMENTI DA LAVORO PER OPERAI COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02899730754</codiceFiscale>
+          <ragioneSociale>ANTINFORTUNISTICA GENERALE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02899730754</codiceFiscale>
+          <ragioneSociale>ANTINFORTUNISTICA GENERALE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>45.98</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-20</dataInizio>
+        <dataUltimazione>2013-05-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>45.98</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE UFFICIO LL.PP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE EDILE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04530370750</codiceFiscale>
+          <ragioneSociale>Comi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04530370750</codiceFiscale>
+          <ragioneSociale>Comi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>257.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-18</dataInizio>
+        <dataUltimazione>2013-06-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>257.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE IMPIANTI TERMICI COMUNALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04033820756</codiceFiscale>
+          <ragioneSociale>ELLE-ESSE IMPIANTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04033820756</codiceFiscale>
+          <ragioneSociale>ELLE-ESSE IMPIANTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1388.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-17</dataInizio>
+        <dataUltimazione>2013-01-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1388.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB00ACF84E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02709050757</codiceFiscale>
+          <ragioneSociale>FERRAMENTA E COLORI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02709050757</codiceFiscale>
+          <ragioneSociale>FERRAMENTA E COLORI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>307.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-14</dataInizio>
+        <dataUltimazione>2013-05-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>307.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB30CB2F0D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA E POSA IN OPERA DI DISPOSITIVO ACUSTICO CIMITERO COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03586510756</codiceFiscale>
+          <ragioneSociale>PEDONE ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>235.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-31</dataInizio>
+        <dataUltimazione>2013-11-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>235.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>zb40d82344</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE AL RINNOVO CONTRATTO MCTC ROMA </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97158180584</codiceFiscale>
+          <ragioneSociale>MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI ROMA CED</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97158180584</codiceFiscale>
+          <ragioneSociale>MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI ROMA CED</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1177.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB50B7F2B2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE ALLA POLIZIA MORTUARIA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01289900381</codiceFiscale>
+          <ragioneSociale>ARGEMA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01289900381</codiceFiscale>
+          <ragioneSociale>ARGEMA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-01</dataInizio>
+        <dataUltimazione>2013-09-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>508.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB80B7C085</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>COPERTURA ASSICURATIVA POLIZZA VEICOLO PROTEZIONE CIVILE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>844.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-17</dataInizio>
+        <dataUltimazione>2014-09-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>844.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBCOC5ABA4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO POLIZIA MUNICIPALE - RUP</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI ATTREZZATURA VARIA PER IL GRUPPO COMUNALE DI PROTEZIONE CIVILE - ACQUISTO DI DIVISE </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02644800985</codiceFiscale>
+          <ragioneSociale>DITTA ROSENFIRE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02644800985</codiceFiscale>
+          <ragioneSociale>DITTA ROSENFIRE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5937.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-11</dataInizio>
+        <dataUltimazione>2014-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC910A61D0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI PULIZIA STRAORDINARIA SCUOLA SANDRO PERTINI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04234000752</codiceFiscale>
+          <ragioneSociale>CAM SARVICE DI CIRFERA ANNA MARIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04234000752</codiceFiscale>
+          <ragioneSociale>CAM SARVICE DI CIRFERA ANNA MARIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3416.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-08</dataInizio>
+        <dataUltimazione>2014-09-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3416.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCA108E1BD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MATERIALE MANUTENZIONE STRADE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150680759</codiceFiscale>
+          <ragioneSociale>ETTORE MAGLIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>352.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-18</dataInizio>
+        <dataUltimazione>2014-07-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>351.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCD1125076</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO REFEZIONE SCOLASTICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03483260752</codiceFiscale>
+          <ragioneSociale>DI PIU' SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03483260752</codiceFiscale>
+          <ragioneSociale>DI PIU' SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-18</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCF109461D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTI VARI SU STRUTTURE INFORMATICHE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03580830754</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDA1228272</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MODULI SOFTWARE TASI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BNCCPI52R26F970B</codiceFiscale>
+          <ragioneSociale>BONACCHI JACOPO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BNCCPI52R26F970B</codiceFiscale>
+          <ragioneSociale>BONACCHI JACOPO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3346.33</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-09</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3346.33</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDB0BAAC3F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME DESTINATE ALLA MANUTENZIONE DEI MEZZI DI POLIZIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00325430759</codiceFiscale>
+          <ragioneSociale>OFFICINA ELETTRAUTO ROBERTO GRECO </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00325430759</codiceFiscale>
+          <ragioneSociale>OFFICINA ELETTRAUTO ROBERTO GRECO </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-23</dataInizio>
+        <dataUltimazione>2013-09-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>146.41</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04142430752</codiceFiscale>
+          <ragioneSociale>MAVRE'</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04142430752</codiceFiscale>
+          <ragioneSociale>MAVRE'</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-01</dataInizio>
+        <dataUltimazione>2013-02-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>54.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYOSRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03222970406</codiceFiscale>
+          <ragioneSociale>MYOSRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-11-17</dataInizio>
+        <dataUltimazione>2013-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>466.63</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03977590755</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA LILLINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03977590755</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA LILLINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-01</dataInizio>
+        <dataUltimazione>2013-02-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>278.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01913760680</codiceFiscale>
+          <ragioneSociale>CELNETWORK SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01913760680</codiceFiscale>
+          <ragioneSociale>CELNETWORK SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-01</dataInizio>
+        <dataUltimazione>2013-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>90.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00089070403</codiceFiscale>
+          <ragioneSociale>GRAFICHE GASPARI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00089070403</codiceFiscale>
+          <ragioneSociale>GRAFICHE GASPARI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-01</dataInizio>
+        <dataUltimazione>2013-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>79.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00334040755</codiceFiscale>
+          <ragioneSociale>DITTA ANTONIO ROMANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00334040755</codiceFiscale>
+          <ragioneSociale>DITTA ANTONIO ROMANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-12-03</dataInizio>
+        <dataUltimazione>2013-02-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>435.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02066400405</codiceFiscale>
+          <ragioneSociale>MAGGIOLI EDITORE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02066400405</codiceFiscale>
+          <ragioneSociale>MAGGIOLI EDITORE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-02-26</dataInizio>
+        <dataUltimazione>2013-05-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>267.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF08C579D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SOMME PER LIBRI RIVISTE CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03269090407</codiceFiscale>
+          <ragioneSociale>EDK EDITORE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03269090407</codiceFiscale>
+          <ragioneSociale>EDK EDITORE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-01</dataInizio>
+        <dataUltimazione>2013-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>87.12</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF11F3992</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>ABBONAMENTI,STAMPATI,CANCELLERIA E VARIE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732210756</codiceFiscale>
+          <ragioneSociale>NET IMPRESA S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2434.66</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-23</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2434.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE00DFCC4C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE TIPOGRAFICO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04602430755</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA QUARTA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04602430755</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA QUARTA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-02-21</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE1123BF10</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>RINNOVO POLIZZA INFORTUNI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02571410758</codiceFiscale>
+          <ragioneSociale>ADRIATECA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>257.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-12</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>257.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEF10D419A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>PULIZIA AREA VERDE DI PROPRIETA' COMUNALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03779100753</codiceFiscale>
+          <ragioneSociale>AMBIENTE E VERDE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>366.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-15</dataInizio>
+        <dataUltimazione>2014-09-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>366.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEF10DBB2E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE - UFFICIO LL.PP.</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE INFISSI SCUOLA SANDRO PERTINI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MNZDRD59P07E506M</codiceFiscale>
+          <ragioneSociale>PORTARREDO DI MONZILLO DINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MNZDRD59P07E506M</codiceFiscale>
+          <ragioneSociale>PORTARREDO DI MONZILLO DINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1342.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-22</dataInizio>
+        <dataUltimazione>2014-09-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1342.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF00C01668</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80008810758</codiceFiscaleProp>
+        <denominazione>COMUNE DI LEQUILE</denominazione>
+      </strutturaProponente>
+      <oggetto>SEGNALETICA STRADALE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02279190751</codiceFiscale>
+          <ragioneSociale>NUOVA FISE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02279190751</codiceFiscale>
+          <ragioneSociale>NUOVA FISE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-10-01</dataInizio>
+        <dataUltimazione>2012-10-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>800.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

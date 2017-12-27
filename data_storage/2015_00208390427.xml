@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2014</abstract>
+		<dataPubbicazioneDataset>2015-01-10</dataPubbicazioneDataset>
+		<entePubblicatore>&amp;lt;font color=red&amp;gt;[Impostare il Nome del Comune nella funzione Impostazioni Generali]&amp;lt;/font&amp;gt;</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-10</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://www.comune.cupramontana.an.it/c042016/zf/index.php/dataset/appalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+								<lotto>
+						<cig>5828315DAD</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00208390427</codiceFiscaleProp>
+				<denominazione>COMUNE DI CUPRAMONTANA</denominazione>
+			</strutturaProponente>
+			<oggetto>MENSA SCOLASTICA PRESSO SCUOLE INFANZIA</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+											</partecipanti>
+			<aggiudicatari>
+								    				    	<aggiudicatario>
+							<codiceFiscale>00353180391</codiceFiscale>
+							<ragioneSociale>GEMOS Soc. Coop.</ragioneSociale>
+						</aggiudicatario>
+									
+							</aggiudicatari>
+			<importoAggiudicazione>186264.00</importoAggiudicazione>
+			<tempiCompletamento>
+								<dataInizio>2014-09-15</dataInizio>
+												<dataUltimazione>2017-06-30</dataUltimazione>
+							</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+				<lotto>
+						<cig>5828385773</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00208390427</codiceFiscaleProp>
+				<denominazione>COMUNE DI CUPRAMONTANA</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO RISTORAZIONE PRESSO FONDAZIONE PAPA GIOVANNI PAOLO II</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+											</partecipanti>
+			<aggiudicatari>
+								    				    	<aggiudicatario>
+							<codiceFiscale>00353180391</codiceFiscale>
+							<ragioneSociale>GEMOS Soc. Coop.</ragioneSociale>
+						</aggiudicatario>
+									
+							</aggiudicatari>
+			<importoAggiudicazione>587693.73</importoAggiudicazione>
+			<tempiCompletamento>
+								<dataInizio>2014-10-01</dataInizio>
+												<dataUltimazione>2017-12-31</dataUltimazione>
+							</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+							</data>
+</legge190:pubblicazione>

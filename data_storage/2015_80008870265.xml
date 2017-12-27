@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n. 1</titolo>
+		<abstract>Pubblicazione relativa all'anno 2014</abstract>
+		<dataPubblicazioneIndice>2014-06-26</dataPubblicazioneIndice>
+		<entePubblicatore>Provincia di Treviso</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2015-01-29</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://amministrazionetrasparente.provincia.treviso.it/indicedataset2014.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://amministrazionetrasparente.provincia.treviso.it/dataset2014_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

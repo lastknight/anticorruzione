@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Istituto comprensivo in lingua tedesca Malles Venosta - Pubblicazione legge 190</titolo>
+    <abstract>Istituto comprensivo in lingua tedesca Malles Venosta - Pubblicazione legge 190; anno rif. 2014, foglio 1</abstract>
+    <dataPubblicazioneIndice>2015-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto comprensivo in lingua tedesca Malles Venosta</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>www.snets.it/ssp-mals/L190/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>www.snets.it/ssp-mals/L190/dataset2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>www.snets.it/ssp-mals/L190/dataset2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>www.snets.it/ssp-mals/L190/dataset2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-21</dataUltimoAggiornamento>
+    </dataset>
+</indice>
+</indici>

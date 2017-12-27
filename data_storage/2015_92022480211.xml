@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Istituto Comprensivo in lingua tedesca Valle aurina - Pubblicazione legge 190</titolo>
+    <abstract>Istituto Comprensivo in lingua tedesca Valle aurina - Pubblicazione legge 190; Anno rif. 2012, 2013, 2014, 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>AVCP</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>www.snets.it/ssp-ahrntal/trvw/av/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>www.snets.it/ssp-ahrntal/trvw/av/esiti_2012_20140402-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-04-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>www.snets.it/ssp-ahrntal/trvw/av/esiti_2013_20140402-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>www.snets.it/ssp-ahrntal/trvw/av/esiti_2014_20150204-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2015-02-04</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>www.snets.it/ssp-ahrntal/trvw/av/esiti_2015_20160128-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

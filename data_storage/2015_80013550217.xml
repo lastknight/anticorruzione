@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all'anno 2010</abstract>
+    <dataPubblicazioneIndice>2010-08-13</dataPubblicazioneIndice>
+    <entePubblicatore>AVCP</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2010-12-19</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2010</annoRiferimento>
+    <urlFile>www.ic-bz-europa2.it/download/albo/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset> http://www.ic-bz-europa2.it/download/albo/avcp/esiti_2012_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2013-03-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.ic-bz-europa2.it/download/albo/avcp/esiti_2013_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2013-03-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.ic-bz-europa2.it/download/albo/avcp/esiti_2014_20150210-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  <dataset id="ID_4">
+      <linkDataset>http://www.ic-bz-europa2.it/download/albo/avcp/esiti_2015_20160209-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://www.ic-bz-europa2.it/download/albo/avcp/esiti_2016_20170124-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-13</dataUltimoAggiornamento>
+      </dataset>
+  </indice>
+</indici>

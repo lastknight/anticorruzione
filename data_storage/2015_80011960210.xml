@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+ <metadata>
+   <titolo>AVCP File 2014</titolo>
+   <abstract>AVCP File 2014</abstract>
+   <dataPubbicazioneDataset>2015-01-30</dataPubbicazioneDataset>
+   <entePubblicatore>ÖBPB SENIROENZENTRUM VÖLS AM SCHLERN</entePubblicatore>
+   <dataUltimoAggiornamentoDataset>2015-01-30</dataUltimoAggiornamentoDataset>
+   <annoRiferimento>2014</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21501/8560C7EA-CF59-4BDE-9A96-D08F3E9CF8B2.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+ <data>
+   <lotto>
+     <cig>ZC207FFDA1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80011960210</codiceFiscaleProp>
+       <denominazione>SENIORENZENTRUM VÖLS AM SCHLERN</denominazione>
+     </strutturaProponente>
+     <oggetto>LIEFERUNG VON LEBENSMITTELN UND VERBRAUCHSMATERIAL</oggetto>
+     <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02273380218</codiceFiscale>
+           <ragioneSociale>J. Delago des Rainer Delago</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02273380218</codiceFiscale>
+           <ragioneSociale>J. Delago des Rainer Delago</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3901.3</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZCE0D330A5</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80011960210</codiceFiscaleProp>
+       <denominazione>SENIORENZENTRUM VÖLS AM SCHLERN</denominazione>
+     </strutturaProponente>
+     <oggetto>LIEFERUNG VON GETRÄNKEN 2014</oggetto>
+     <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01474590211</codiceFiscale>
+           <ragioneSociale>Spögler Gerold KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01474590211</codiceFiscale>
+           <ragioneSociale>Spögler Gerold KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2014-01-01</dataInizio>
+       <dataUltimazione>2014-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>5239.08</importoSommeLiquidate>
+   </lotto>
+ </data>
+</legge190:pubblicazione>

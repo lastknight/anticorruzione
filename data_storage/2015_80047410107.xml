@@ -1,0 +1,49 @@
+<html>
+<title>Istituto Comprensivo Sestri
+    </title>
+<head> 
+
+ <link href="../../css/xfonts.css" rel="stylesheet" media="screen">
+
+    <style type="text/css">
+
+.box1{
+    background-color:#B9E4F5;
+
+    font-family:'OpenSans';
+    left:auto;
+    right:auto;
+    height:800px;
+    color:#fff;
+    padding:0px;
+
+}
+.testo{
+
+  font-size:30px;
+    color:#2E2F84;
+}
+.testo a{
+font-size:35px;
+
+    color:#2E2F84;
+}
+.testo1{
+
+ font-size:40px;
+    text-transform: uppercase;
+    color:#2E2F84;
+}
+    
+
+</style>
+</head>
+<body bgcolor="#B9E4F5">
+<div class="box1">
+
+ <div class='testo1'> <center><strong> Istituto Comprensivo Sestri</center></strong><br></div>
+   <div class='testo'> <strong><center> Ci siamo trasferiti, ora ci puoi trovare all'indirizzo:</center></strong><br>
+    <a href="http://www.icsestri.gov.it/pvw/app/GEME0042/pvw_sito.php" target:"_blank"><center>www.icsestri.gov.it </center></a></div>
+
+</body>
+</html>

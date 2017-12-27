@@ -1,0 +1,479 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it">
+
+<head>
+  <base href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Liceo, Ariosto, Classico, Linguistico, Scientifico, Tecnologico, Scienze Sociali, scuole, scuola, studi, umanistici, scientifici, progetto, beni, culturali, ambientali, laboratorio, informatico, scienze, natura, lingua, lingue, latina, greca, latino, greco, informatica, fisica, attività, teatrale" />
+  <meta name="description" content="Il Liceo Ariosto di Ferrara è la scuola storica della città; innesta sugli studi classici e scientifici propri della tradizione liceale quali il Latino, il Greco, la Filosofia, la Fisica, la Matematica, studi avanzati relativi alle lingue straniere e all'uso delle moderne tecnologie per favorire una preparazione completa nella formazione della personalità dello studente" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Download</title>
+  <link href="/templates/ja_purity_ii/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link href="/component/ninjarsssyndicator/?feed_id=1&amp;format=raw" rel="alternate" type="application/rss+xml" title="Liceo Statale Ariosto" />
+  <link rel="stylesheet" href="http://www.liceoariosto.it/components/com_docman/themes/default/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.liceoariosto.it/components/com_docman/themes/default/css/theme15.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.liceoariosto.it/modules/mod_eventlistcalqajax/mod_eventlistcalqajax.css" type="text/css" />
+  <style type="text/css">
+    <!--
+.gn_clear { clear:both; height:0; line-height:0; }
+.gn_header_1 { background-color:#EFEFEF; border:0px solid #EFEFEF; border-bottom:none; padding:5px; }
+.gn_slider_1 { border:0px solid #EFEFEF; padding:5px; height:100px; background-color:#333; overflow:hidden; border-bottom:none; }
+.gn_slider_1 .gn_opacitylayer { height:100%; filter:progid:DXImageTransform.Microsoft.alpha(opacity=100); -moz-opacity:1; opacity:1; }
+.gn_pagination_1 { border:0px solid #EFEFEF; border-top:none; padding:2px 5px; text-align:right; background-color:#333; }
+.gn_pagination_1 a:link { font-weight:bold; padding:0 2px; }
+.gn_pagination_1 a:hover, .gn_pagination_1 a.selected { color:#000; }
+    -->
+  </style>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/modules/mod_globalnews/scripts/slider.js"></script>
+  <script type="text/javascript">
+window.addEvent("domready", function() {
+	var JTooltips = new Tips($$(".hasTip"), { maxTitleChars: 50, fixed: false});
+});function addLoadEvent(func) { if (typeof window.onload != 'function') { window.onload = func; } else { var oldonload = window.onload; window.onload = function() { if (oldonload) { oldonload(); } func(); } } }addLoadEvent(function(){GN_ContentSlider('gn_slider_1_1',3000,'','<a href=\"/component/content/category/11-notizie-flash.html\">Altri articoli...</a>');});
+  </script>
+
+
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/ja_purity_ii/css/addons.css" type="text/css" />
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/ja_purity_ii/css/layout.css" type="text/css" />
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/ja_purity_ii/css/template.css" type="text/css" />
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/ja_purity_ii/css/typo.css" type="text/css" />
+
+<!--[if IE]>
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/ja_purity_ii/css/ie.css" type="text/css" />
+<![endif]-->
+
+<!--[if lt IE 7.0]>
+<link rel="stylesheet" href="http://www.liceoariosto.it/templates/ja_purity_ii/css/ie7minus.css" type="text/css" />
+<style>
+.main { width: expression(document.body.clientWidth < 770? "770px" : document.body.clientWidth > 1200? "1200px" : "auto"); }
+</style>
+<![endif]-->
+
+<!--[if IE 7.0]>
+<style>
+.clearfix { display: inline-block; } /* IE7xhtml*/
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+var siteurl='http://www.liceoariosto.it/';
+var tmplurl='http://www.liceoariosto.it/templates/ja_purity_ii';
+</script>
+
+<script language="javascript" type="text/javascript" src="http://www.liceoariosto.it/templates/ja_purity_ii/js/ja.script.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.liceoariosto.it/templates/ja_purity_ii/js/ja.ddmod.js"></script>
+
+
+<link href="http://www.liceoariosto.it/templates/ja_purity_ii/css/menu/mega.css" rel="stylesheet" type="text/css" /><script src="http://www.liceoariosto.it/templates/ja_purity_ii/js/menu/mega.js" language="javascript" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="http://www.liceoariosto.it/templates/ja_purity_ii/js/ja.rightcol.js"></script>
+
+<!--Width of template -->
+<style type="text/css">
+.main {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+
+</head>
+
+<body id="bd" class="fs4 Others">
+
+<div id="ja-wrapper">
+	<a name="Top" id="Top"></a>
+
+	<!-- HEADER -->
+	<div id="ja-header" class="wrap">
+<div class="main" style="background-image: url(http://www.liceoariosto.it/templates/ja_purity_ii/images/header/header1.jpg);">
+<div class="inner clearfix">
+
+	<div class="ja-headermask">&nbsp;</div>
+
+		<div class="logo-text">
+		<h1><a href="/index.php" title="Liceo Statale Ariosto"><span>Liceo Ariosto Ferrara</span></a></h1>
+		<p class="site-slogan">PROGETTIAMO I PROSSIMI CENTOCINQUANTANNI</p>
+	</div>
+		
+	<ul class="ja-usertools-screen">
+	<li><img style="cursor: pointer;" src="http://www.liceoariosto.it/templates/ja_purity_ii/images/auto-hilite.png" title="Full Screen" alt="Full Screen" id="ja-tool-auto" onclick="switchTool('ja_purity_ii_ja_screen','auto');return false;" /></li>
+
+	<li><img style="cursor: pointer;" src="http://www.liceoariosto.it/templates/ja_purity_ii/images/wide.png" title="Wide Screen" alt="Wide Screen" id="ja-tool-wide" onclick="switchTool('ja_purity_ii_ja_screen','980');return false;" /></li>
+
+	<li><img style="cursor: pointer;" src="http://www.liceoariosto.it/templates/ja_purity_ii/images/narrow.png" title="Narrow Screen" alt="Narrow Screen" id="ja-tool-narrow" onclick="switchTool('ja_purity_ii_ja_screen','770');return false;" /></li>
+</ul>
+	<ul class="ja-usertools-font">
+	<li><img style="cursor: pointer;" title="Increase font size" src="http://www.liceoariosto.it/templates/ja_purity_ii/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ii_ja_font','inc'); return false;" /></li>
+	<li><img style="cursor: pointer;" title="Default font size" src="http://www.liceoariosto.it/templates/ja_purity_ii/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ii_ja_font',4); return false;" /></li>
+	<li><img style="cursor: pointer;" title="Decrease font size" src="http://www.liceoariosto.it/templates/ja_purity_ii/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ii_ja_font','dec'); return false;" /></li>
+</ul>
+<script type="text/javascript">var CurrentFontSize=parseInt('4');</script>	
+	
+</div>
+
+</div>
+</div>
+	<!-- //HEADER -->
+
+	<!-- MAIN NAVIGATION -->
+	<div id="ja-mainnav" class="wrap">
+<div class="main clearfix">
+	<div class="ja-megamenu">
+<ul class="megamenu level0"><li class="mega first"><a href="http://www.liceoariosto.it/" class="mega first" id="menu1" title="Home"><span class="has-image" style="background-image:url(http://www.liceoariosto.it//images/stories/home-1.png);"><span class="menu-title">Home</span><span class="menu-desc">&nbsp;</span></span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu9" title="Studenti"><span class="has-image" style="background-image:url(http://www.liceoariosto.it//images/stories/alunni.png);"><span class="menu-title">Studenti</span><span class="menu-desc">&nbsp;</span></span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/studenti/assemblee-distituto.html" class="mega first" id="menu99" title="Assemblee d'Istituto"><span class="menu-title">Assemblee d'Istituto</span></a></li><li class="mega"><a href="/studenti/orientamento.html" class="mega" id="menu71" title="Orientamento"><span class="menu-title">Orientamento</span></a></li><li class="mega"><a href="/studenti/alternanza-scuola-lavoro.html" class="mega" id="menu114" title="Alternanza Scuola Lavoro"><span class="menu-title">Alternanza Scuola Lavoro</span></a></li><li class="mega"><a href="/studenti/libri-di-testo.html" class="mega" id="menu16" title="Libri di testo"><span class="menu-title">Libri di testo</span></a></li><li class="mega"><a href="/studenti/programmazioni.html" class="mega" id="menu58" title="Programmazioni"><span class="menu-title">Programmazioni</span></a></li><li class="mega"><a href="/studenti/materiali.html" class="mega" id="menu17" title="Materiali"><span class="menu-title">Materiali</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu18" title="Attività extracurricolari"><span class="menu-title">Attività extracurricolari</span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/studenti/attivita-extracurricolari/certificazioni-linguistiche-internazionali.html" class="mega first" id="menu66" title="Certificazioni linguistiche internazionali"><span class="menu-title">Certificazioni linguistiche internazionali</span></a></li><li class="mega last"><a href="/studenti/attivita-extracurricolari/nuova-ecdl.html" class="mega last" id="menu67" title="Nuova ECDL"><span class="menu-title">Nuova ECDL</span></a></li></ul></div></div></div></li><li class="mega"><a href="/studenti/sportello-help.html" class="mega" id="menu28" title="Sportello Help"><span class="menu-title">Sportello Help</span></a></li><li class="mega"><a href="/studenti/progetto-qpunto-di-vistaq.html" class="mega" id="menu98" title="Progetto "Punto di vista""><span class="menu-title">Progetto "Punto di vista"</span></a></li><li class="mega"><a href="/studenti/crediti-e-debiti.html" class="mega" id="menu19" title="Crediti e debiti"><span class="menu-title">Crediti e debiti</span></a></li><li class="mega"><a href="/studenti/prove-invalsi.html" class="mega" id="menu73" title="Prove INVALSI"><span class="menu-title">Prove INVALSI</span></a></li><li class="mega"><a href="http://archivio.pubblica.istruzione.it/argomenti/esamedistato/home.html" target="_blank" class="mega" id="menu36" title="Esame di Stato"><span class="menu-title">Esame di Stato</span></a></li><li class="mega last"><a href="https://web.spaggiari.eu/home/app/default/login.php?custcode=FELG0001" target="_blank" class="mega last" id="menu97" title="Registro e pagelle online"><span class="menu-title">Registro e pagelle online</span></a></li></ul></div></div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu11" title="Famiglie"><span class="has-image" style="background-image:url(http://www.liceoariosto.it//images/stories/family.png);"><span class="menu-title">Famiglie</span><span class="menu-desc">&nbsp;</span></span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/famiglie/appuntamenti.html" class="mega first" id="menu62" title="Appuntamenti"><span class="menu-title">Appuntamenti</span></a></li><li class="mega"><a href="/famiglie/avvisi-e-comunicati.html" class="mega" id="menu12" title="Avvisi e comunicati"><span class="menu-title">Avvisi e comunicati</span></a></li><li class="mega"><a href="/famiglie/alternanza-scuola-lavoro.html" class="mega" id="menu157" title="Alternanza Scuola Lavoro"><span class="menu-title">Alternanza Scuola Lavoro</span></a></li><li class="mega"><a href="/famiglie/iscrizioni.html" class="mega" id="menu29" title="Iscrizioni"><span class="menu-title">Iscrizioni</span></a></li><li class="mega haschild"><a href="/famiglie/documenti.html" class="mega haschild" id="menu30" title="Documenti"><span class="menu-title">Documenti</span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/famiglie/documenti/documenti-ufficiali-della-scuola.html" class="mega first" id="menu31" title="Documenti ufficiali della Scuola"><span class="menu-title">Documenti ufficiali della Scuola</span></a></li><li class="mega"><a href="/famiglie/documenti/modulistica.html" class="mega" id="menu32" title="Modulistica"><span class="menu-title">Modulistica</span></a></li><li class="mega"><a href="/famiglie/documenti/programmi-di-studio.html" class="mega" id="menu33" title="Programmi di studio"><span class="menu-title">Programmi di studio</span></a></li><li class="mega last"><a href="/famiglie/documenti/prove-invalsi.html" class="mega last" id="menu74" title="Prove INVALSI"><span class="menu-title">Prove INVALSI</span></a></li></ul></div></div></div></li><li class="mega"><a href="/famiglie/consulta-dei-genitori.html" class="mega" id="menu158" title="Consulta dei Genitori"><span class="menu-title">Consulta dei Genitori</span></a></li><li class="mega"><a href="/famiglie/regolamenti.html" class="mega" id="menu34" title="Regolamenti"><span class="menu-title">Regolamenti</span></a></li><li class="mega"><a href="/famiglie/rapporto-scuola-famiglia.html" class="mega" id="menu37" title="Rapporto Scuola - Famiglia"><span class="menu-title">Rapporto Scuola - Famiglia</span></a></li><li class="mega"><a href="/famiglie/punto-di-ascolto-per-genitori.html" class="mega" id="menu94" title="Punto di ascolto per genitori"><span class="menu-title">Punto di ascolto per genitori</span></a></li><li class="mega last"><a href="https://web.spaggiari.eu/home/app/default/login.php?custcode=FELG0001" target="_blank" class="mega last" id="menu35" title="Registro e pagelle online"><span class="menu-title">Registro e pagelle online</span></a></li></ul></div></div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu13" title="Docenti"><span class="has-image" style="background-image:url(http://www.liceoariosto.it//images/stories/docenti.png);"><span class="menu-title">Docenti</span><span class="menu-desc">&nbsp;</span></span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/docenti/impegni-collegiali.html" class="mega first" id="menu41" title="Impegni collegiali"><span class="menu-title">Impegni collegiali</span></a></li><li class="mega"><a href="/docenti/documenti.html" class="mega" id="menu42" title="Documenti"><span class="menu-title">Documenti</span></a></li><li class="mega"><a href="/docenti/google-apps.html" class="mega" id="menu75" title="Google Apps"><span class="menu-title">Google Apps</span></a></li><li class="mega"><a href="https://web.spaggiari.eu/home/app/default/login.php?custcode=FELG0001" target="_blank" class="mega" id="menu44" title="Registro online"><span class="menu-title">Registro online</span></a></li><li class="mega"><a href="https://noipa.mef.gov.it" target="_blank" class="mega" id="menu70" title="NoiPA"><span class="menu-title">NoiPA</span></a></li><li class="mega last"><a href="https://serverfarm.pubblica.istruzione.it/pel/jsp/posta_don_reg.jsp" target="_blank" class="mega last" id="menu65" title="e-mail @istruzione.it"><span class="menu-title">e-mail @istruzione.it</span></a></li></ul></div></div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu14" title="Personale ATA"><span class="has-image" style="background-image:url(http://www.liceoariosto.it//images/stories/people.png);"><span class="menu-title">Personale ATA</span><span class="menu-desc">&nbsp;</span></span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="https://web.spaggiari.eu/home/app/default/login.php?custcode=FELG0001" target="_blank" class="mega first" id="menu96" title="Registro e Bacheca web"><span class="menu-title">Registro e Bacheca web</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="https://noipa.mef.gov.it" target="_blank" class="mega" id="menu103" title="NoiPA"><span class="menu-title">NoiPA</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega last"><a href="/personale-ata/link-di-interesse-personale-ata-collegamenti-esterni-per-il-personale-scolastico.html" class="mega last" id="menu56" title="Link di interesse personale ATA"><span class="menu-title">Link di interesse personale ATA</span><span class="menu-desc">Collegamenti esterni per il personale Scolastico</span></a></li></ul></div></div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu15" title="Area riservata"><span class="has-image" style="background-image:url(http://www.liceoariosto.it//images/stories/login.png);"><span class="menu-title">Area riservata</span><span class="menu-desc">Login-Logout</span></span></a><div class="childcontent cols1 " style="width: 200px;"><div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-content"><div class="ja-moduletable moduletable  clearfix" id="Mod32">
+						<h3><span>Login (Docenti e ATA)</span></h3>
+				<div class="ja-box-ct clearfix">
+		<form action="index.php" method="post" name="form-login" id="form-login" >
+		<fieldset class="input">
+	<p id="form-login-username">
+		<label for="username">
+			Nome utente<br />
+			<input name="username" id="username" type="text" class="inputbox" alt="username" size="18" />
+		</label>
+	</p>
+	<p id="form-login-password">
+		<label for="passwd">
+			Password<br />
+			<input type="password" name="passwd" id="passwd" class="inputbox" size="18" alt="password" />
+		</label>
+	</p>
+		<input type="submit" name="Submit" class="button" value="Login" />
+	</fieldset>
+	<ul>
+		<li>
+			<a href="/component/user/reset.html">
+			Password dimenticata?			</a>
+		</li>
+		<li>
+			<a href="/component/user/remind.html">
+			Nome utente dimenticato?			</a>
+		</li>
+			</ul>
+	
+	<input type="hidden" name="option" value="com_user" />
+	<input type="hidden" name="task" value="login" />
+	<input type="hidden" name="return" value="L2JhbmRpLWRpLWdhcmEtZS1jb250cmF0dGkvY2F0X3ZpZXcuaHRtbA==" />
+	<input type="hidden" name="cb40e3b1c38ef4174373f531b8a09207" value="1" /></form>
+		</div>
+    </div></div></div></li></ul></div></div></div></li><li class="mega last"><a href="/privacy-e-copyright.html" class="mega last" id="menu102" title="Privacy e Copyright"><span class="menu-title">Privacy e Copyright</span><span class="menu-desc">&nbsp;</span></a></li></ul>
+</div></div>
+</div>
+
+
+<ul class="no-display">
+    <li><a href="/bandi-di-gara-e-contratti/cat_view.html#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>
+	<!-- //MAIN NAVIGATION -->
+	
+	
+	<!-- MAIN CONTAINER -->
+	<div id="ja-container" class="wrap ja-l1r1">
+	<div class="main clearfix">
+
+		<div id="ja-mainbody" style="width:80%">
+			<!-- CONTENT -->
+<div id="ja-main" style="width:75%">
+<div class="inner clearfix">
+	
+	
+
+	
+	<div id="ja-contentwrap" class="">
+				<div id="ja-content" class="column" style="width:100%">
+
+			<div id="ja-current-content" class="column" style="width:100%">
+								
+								<div class="ja-content-main clearfix">
+					<div id="dm_header">
+<div>
+<a href="http://www.liceoariosto.it/bandi-di-gara-e-contratti.html">
+<img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/home.png" alt="Indice Download" /><br />
+Indice Download		</a>
+</div>
+<div>
+<a href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/search_form.html">
+<img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/search.png" alt="Cerca documento" /><br />
+Cerca documento		</a>
+</div>
+</div>
+<div class="clr"></div>
+<div id="dm_cats">
+<h3>Categorie<span>File</span></h3>
+<div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/79-alternanza-scuola-lavoro.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">1</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/79-alternanza-scuola-lavoro.html">Alternanza Scuola Lavoro</a>
+<div class="dm_description"><p><strong>L’Alternanza scuola-lavoro (ASL)</strong>, resa obbligatoria anche per i licei a partire dall’a.s. 2015/16 dalla legge 107/2015, prevede una serie di attività di formazione in aula e uno stage in ambito extrascolastico che può essere svolto sia nel periodo dell'attività scolastica che durante l'interruzione delle lezioni, eventualmente anche all'estero.</p></div>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/109-consulta-dei-genitori.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">8</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/109-consulta-dei-genitori.html">Consulta dei Genitori</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/63-bes-bisogni-educativi-speciali.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">10</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/63-bes-bisogni-educativi-speciali.html">BES - Bisogni Educativi Speciali</a>
+<div class="dm_description"><p>L’espressione “Bisogni Educativi Speciali” (BES) è entrata nel vasto uso  in Italia dopo l’emanazione della Direttiva ministeriale del 27  dicembre 2012 <em>“Strumenti di intervento per alunni con Bisogni Educativi Speciali e organizzazione territoriale per l’inclusione scolastica</em>“.</p>
+<p>In questa sezione sono stati raccolti materiali e documentazioni che possono fornire ai docenti e alle famiglie un supporto alla conoscenza dei  vari problemi raccolti sotto l’acronimo BES e all’attuazione di  interventi didattici maggiormente mirati ed efficaci.</p></div>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/61-biblioteca.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">18</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/61-biblioteca.html">Biblioteca</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/71-curriculum-vitae.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">22</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/71-curriculum-vitae.html">Curriculum Vitae</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/23-documenti.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">107</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/23-documenti.html">Documenti</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/29-avvisi-e-comunicati.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">16</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/29-avvisi-e-comunicati.html">Avvisi e comunicati</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/2-files.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">22</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/2-files.html">Files</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/43-prove-invalsi.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">4</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/43-prove-invalsi.html">Prove INVALSI</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/16-albo-pretorio.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">135</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/16-albo-pretorio.html">Albo Pretorio</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/12-pubblicazioni.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">33</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/12-pubblicazioni.html">Pubblicazioni</a>
+</div>
+<div class="clr"></div>
+<div class="dm_row">
+<a class="dm_icon" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/1-materiali-didattici.html"><img src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/32x32/folder.png" alt="folder icon" /></a>    <span class="dm_files">14</span>
+<a class="dm_name" href="http://www.liceoariosto.it/bandi-di-gara-e-contratti/cat_view/1-materiali-didattici.html">Materiali didattici</a>
+<div class="dm_description"><p>In questa sezione trovate i documenti che i <em>prof </em>della scuola ritengono utili ai fini didattici (testi, ipertesti, questionari, schemi, software di pubblico dominio, link web, ecc.) e mettono a disposizione degli utenti.</p></div>
+</div>
+<div class="clr"></div>
+</div>
+</div>
+				</div>
+				
+							</div>
+
+			
+		</div>
+		
+			</div>
+
+	
+</div>
+</div>
+<!-- //CONTENT -->			<!-- LEFT COLUMN--> 
+<div id="ja-left" class="column sidebar" style="width:25%">
+
+		
+		<div class="ja-colswrap clearfix ja-l1">
+			<div class="ja-col  column" style="width:100%">
+				<div class="ja-moduletable moduletable  clearfix" id="Mod62">
+						<div class="ja-box-ct clearfix">
+		
+<form action="index.php"  method="post" class="search">
+	<label for="mod_search_searchword">
+		Cerca	</label>
+	<input name="searchword" id="mod_search_searchword" class="inputbox" type="text" size="20" value="" /><br /><input type="submit" value="OK" class="button"/>	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="task"   value="search" />
+</form>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable_menu  clearfix" id="Mod1">
+						<h3><span>Liceo</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="menu"><li class="item2"><a href="/il-liceo.html"><span>Il Liceo</span></a></li><li class="item3"><a href="/percorsi-liceali.html"><span>Percorsi liceali</span></a></li><li class="item5"><a href="/organizzazione.html"><span>Organizzazione</span></a></li><li class="item6"><a href="/sicurezza-nella-scuola.html"><span>Sicurezza nella scuola</span></a></li><li class="item7"><a href="/regolamenti.html"><span>Regolamenti</span></a></li><li class="item20"><a href="/carta-dei-servizi.html"><span>Carta dei servizi</span></a></li><li class="item21"><a href="/piano-triennale-dellofferta-formativa-ptof.html"><span>Piano Triennale dell’Offerta Formativa (PTOF)</span></a></li><li class="item23"><a href="/gli-ambienti.html"><span>Gli ambienti</span></a></li><li class="item63"><a href="/la-biblioteca-del-liceo.html"><span>La biblioteca del Liceo</span></a></li><li class="item40"><a href="/pubblicazioni.html"><span>Pubblicazioni</span></a></li><li class="item48"><a href="/i-musei-del-liceo.html"><span>I Musei del Liceo</span></a></li><li class="item166"><a href="/video-gallery.html"><span>Video Gallery</span></a></li></ul>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod44">
+						<h3><span>Segreteria</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="menu"><li class="item25"><a href="/orari-e-recapiti.html"><span>Orari e recapiti</span></a></li><li class="item26"><a href="/iscrizioni.html"><span>Iscrizioni</span></a></li><li class="item64"><a href="/richiesta-certificati.html"><span>Richiesta certificati</span></a></li><li class="item27"><a href="/rapporto-scuola-famiglia.html"><span>Rapporto Scuola-Famiglia</span></a></li><li class="item46"><a href="/uso-e-affitto-dei-locali.html"><span>Uso e affitto dei locali</span></a></li><li class="item47"><a href="/albo-online.html"><span>Albo online</span></a></li><li class="item76"><a href="/amministrazione-trasparente.html"><span>Amministrazione Trasparente</span></a></li><li class="item159"><a href="/accesso-agli-atti-amministrativi.html"><span>Accesso agli Atti Amministrativi</span></a></li></ul>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod45">
+						<h3><span>Didattica</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="menu"><li class="item45"><a href="/orario-delle-lezioni.html"><span>Orario delle lezioni</span></a></li><li class="item22"><a href="/calendario.html"><span>Calendario</span></a></li><li class="item69"><a href="/libri-di-testo.html"><span>Libri di testo</span></a></li><li class="item59"><a href="/programmazioni.html"><span>Programmazioni</span></a></li><li class="item39"><a href="/attivita-e-progetti.html"><span>Attività e progetti</span></a></li><li class="item60"><a href="/lim-e-didattica.html"><span>LIM e didattica</span></a></li><li class="item95"><a href="/bes-bisogni-educativi-speciali.html"><span>BES - Bisogni Educativi Speciali</span></a></li><li class="item38"><a href="/materiali.html"><span>Materiali</span></a></li></ul>		</div>
+    </div>
+	
+		</div>
+			</div>
+		
+	
+</div>
+<!-- //LEFT COLUMN--> 
+		</div>
+
+		<!-- RIGHT COLUMN--> 
+<div id="ja-right" class="column sidebar" style="width:20%">
+
+	
+		<div class="ja-colswrap clearfix ja-r1">
+
+			<div class="ja-col  column" style="width:100%">
+				<div class="ja-module ja-box-br module" id="Mod29">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<h3><span>Agenda scolastica</span></h3>
+				<div class="jamod-content ja-box-ct clearfix">
+		 
+<script type="text/javascript">
+function mod_eventlistcalqajax_click29(url) {
+    var myFadeOut = new Fx.Style('eventcalq29', 'opacity', {duration: 500, onComplete: function() { 
+	myAjax = new Ajax(url, {method: 'get', update: $('eventcalq29'), 
+		onComplete: function() { 
+		    var myFadeIn   = new Fx.Style('eventcalq29', 'opacity', {duration: 500}).start(0, 1);
+		    var myTooltips = new Tips($$('#eventcalq29 .hasTip'), { maxTitleChars: 50, fixed: false}); 
+		}, 
+		onFailure: function(resp) { 
+		    $('eventcalq29').setHTML("AJAX failure:<br />"+resp.responseText);
+		    var myFadeIn = new Fx.Style('eventcalq29', 'opacity', {duration: 500}).start(0, 1);
+		}
+	    });
+	    myAjax.request(); 
+	}});
+    myFadeOut.start(1, 0);
+} 
+</script>
+<div class="eventcalq" align="center" id="eventcalq29"><table class="mod_eventlistcalqajax_calendar" cellspacing="0" cellpadding="0">
+<caption class="mod_eventlistcalqajax_calendar-month"><a href="#" onClick="mod_eventlistcalqajax_click29('http://www.liceoariosto.it/modules/mod_eventlistcalqajax/mod_ajaxloader.php?modid=29&amp;Itemid=87&amp;el_mcal_month=11&amp;el_mcal_year=2017'); return false;"> &lt;&lt;</a>&nbsp;<span class="evtq_home"><a href="#" onClick="mod_eventlistcalqajax_click29('http://www.liceoariosto.it/modules/mod_eventlistcalqajax/mod_ajaxloader.php?modid=29&amp;Itemid=87&amp;el_mcal_month=12&amp;el_mcal_year=2017'); return false;">Dicembre&nbsp;2017</a></span><a href="#" onClick="mod_eventlistcalqajax_click29('http://www.liceoariosto.it/modules/mod_eventlistcalqajax/mod_ajaxloader.php?modid=29&amp;Itemid=87&amp;el_mcal_month=1&amp;el_mcal_year=2018'); return false;"> &gt;&gt;</a>&nbsp;</caption><tr><th class="mod_eventlistcalqajax_daynames" abbr="Lun">&nbsp;Lu&nbsp;</th><th class="mod_eventlistcalqajax_daynames" abbr="Mar">&nbsp;Ma&nbsp;</th><th class="mod_eventlistcalqajax_daynames" abbr="Mer">&nbsp;Me&nbsp;</th><th class="mod_eventlistcalqajax_daynames" abbr="Gio">&nbsp;Gi&nbsp;</th><th class="mod_eventlistcalqajax_daynames" abbr="Ven">&nbsp;Ve&nbsp;</th><th class="mod_eventlistcalqajax_daynames" abbr="Sab">&nbsp;Sa&nbsp;</th><th class="mod_eventlistcalqajax_daynames" abbr="Dom">&nbsp;Do&nbsp;</th></tr>
+<tr><td class="mod_eventlistcalqajax">&nbsp;</td><td class="mod_eventlistcalqajax">&nbsp;</td><td class="mod_eventlistcalqajax">&nbsp;</td><td class="mod_eventlistcalqajax">&nbsp;</td><td class="mod_eventlistcalqajax_calday">&nbsp;&nbsp;1</td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="2 Eventi::Il Liceo apre le aule&lt;br /&gt;Festa di compleanno del Liceo&lt;br /&gt;" ><a href="/calendario/day/20171202.html">&nbsp;&nbsp;2</a></span></td><td class="mod_eventlistcalqajax_calday">&nbsp;&nbsp;3</td></tr>
+<tr><td class="mod_eventlistcalqajax_calday">&nbsp;&nbsp;4</td><td class="mod_eventlistcalqajax_calday">&nbsp;&nbsp;5</td><td class="mod_eventlistcalqajax_calday">&nbsp;&nbsp;6</td><td class="mod_eventlistcalqajax_calday">&nbsp;&nbsp;7</td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Festività - Immacolata Concezione&lt;br /&gt;" ><a href="/calendario/details/213-festivita-immacolata-concezione.html">&nbsp;&nbsp;8</a></span></td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Sospensione attività didattica&lt;br /&gt;" ><a href="/calendario/details/157-sospensione-attivita-didattica.html">&nbsp;&nbsp;9</a></span></td><td class="mod_eventlistcalqajax_calday">10</td></tr>
+<tr><td class="mod_eventlistcalqajax_calday">11</td><td class="mod_eventlistcalqajax_calday">12</td><td class="mod_eventlistcalqajax_calday">13</td><td class="mod_eventlistcalqajax_calday">14</td><td class="mod_eventlistcalqajax_calday">15</td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Il Liceo apre le aule&lt;br /&gt;" ><a href="/calendario/details/218-il-liceo-apre-le-aule.html">16</a></span></td><td class="mod_eventlistcalqajax_calday">17</td></tr>
+<tr><td class="mod_eventlistcalqajax_calday">18</td><td class="mod_eventlistcalqajax_calday">19</td><td class="mod_eventlistcalqajax_calday">20</td><td class="mod_eventlistcalqajax_calday">21</td><td class="mod_eventlistcalqajax_calday">22</td><td class="mod_eventlistcalqajax_calday">23</td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">24</a></span></td></tr>
+<tr><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">25</a></span></td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">26</a></span></td><td class="mod_eventlistcalqajax_caltodaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">27</a></span></td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">28</a></span></td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">29</a></span></td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">30</a></span></td><td class="mod_eventlistcalqajax_caldaylink"><span class="editlinktip hasTip" title="1 Evento::Vacanze natalizie&lt;br /&gt;" ><a href="/calendario/details/4-vacanze-natalizie.html">31</a></span></td></tr>
+</table>
+</div> 		</div>
+	</div></div></div>
+	</div>
+		<div class="ja-module ja-box-br module_black" id="Mod36">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<h3><span>Notizie Flash</span></h3>
+				<div class="jamod-content ja-box-ct clearfix">
+		
+<div style="float:left;width:100%;">
+  <div class="globalnews" style="margin:2px">
+    
+<div id="gn_slider_1_1" class="gn_slider_1">
+  <div class="gn_opacitylayer">
+      <div class="gn_news">
+	<a href="/component/content/article/11-notizie-flash/1290-chiusura-scuola.html">CHIUSURA SCUOLA</a> <br /> La scuola rimarrà chiusa il giorno 30 dicembre 2017. L'ingresso nei giorni 27, 28 e 29 2017, 2, 3, 4 e 5 gennaio 2018 sarà in Via Arianuova n. 19... <a href="/component/content/article/11-notizie-flash/1290-chiusura-scuola.html" >Leggi tutto...</a>	</div>
+      <div class="gn_news">
+	<a href="/component/content/article/11-notizie-flash/781-avviso-n-154-scrutini-trimestre-pagelle-e-attivita-di-recupero.html">AVVISO n. 154: scrutini trimestre – pagelle e attività di recupero</a> <br /> Si informano le famiglie degli studenti che le valutazioni trimestrali saranno consultabili solo tramite il REGISTRO ONLINE alla voce... <a href="/component/content/article/11-notizie-flash/781-avviso-n-154-scrutini-trimestre-pagelle-e-attivita-di-recupero.html" >Leggi tutto...</a>	</div>
+      <div class="gn_news">
+	<a href="/component/content/article/11-notizie-flash/1283-consulta-dei-genitori.html">CONSULTA DEI GENITORI - SPOSTAMENTO INCONTRO DEL 5 DICEMBRE 2017</a> <br /> Si comunica che l'incontro inizialmente previsto per il 5 dicembre p.v., si terrà il 18 gennaio 2018 alle ore 17.30 in aula Patruno (vedi Bollettino... <a href="/component/content/article/11-notizie-flash/1283-consulta-dei-genitori.html" >Leggi tutto...</a>	</div>
+      <div class="gn_news">
+	<a href="/component/content/article/11-notizie-flash/1282-autogestione-orientamento-post-diploma.html">AUTOGESTIONE ORIENTAMENTO POST-DIPLOMA</a> <br /> In allegato l'organizzazione dell'assemblea autogestita dagli studenti del Liceo Ariosto 	</div>
+      <div class="gn_news">
+	<a href="/component/content/article/11-notizie-flash/1276-28-novembre-2017-sorveglianza-uscita-da-scuola.html">28 NOVEMBRE 2017 - SORVEGLIANZA USCITA DA SCUOLA C.SO B. ROSSETTI - VIA DOSSO DOSSI</a> <br /> Nella giornata di martedì 28 novembre 2017, a causa della partita della SPAL, non è effettuato da parte del personale della polizia municipale il... <a href="/component/content/article/11-notizie-flash/1276-28-novembre-2017-sorveglianza-uscita-da-scuola.html" >Leggi tutto...</a>	</div>
+    </div>
+</div>
+<div class="gn_pagination_1" id="paginate-gn_slider_1_1"></div>
+  </div>
+</div>
+<div class="gn_clear"></div>
+		</div>
+	</div></div></div>
+	</div>
+		<div class="ja-module ja-box-br module" id="Mod27">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<h3><span>Ultimi inserimenti</span></h3>
+				<div class="jamod-content ja-box-ct clearfix">
+		<div class="mod_docman_catdown"><ul class="mod_docman_latestdown"><li><a href="http://www.liceoariosto.it/studenti/materiali/cat_view/16-albo-pretorio/118-avvisi-selezione-formatori.html?orderby=dmdate_published"><img border="0" src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/16x16/pdf.png" alt="file icon" /> Avviso Collaborazioni Plurime alle scuole<br />(AVVISI Selezione Formatori)</a></li><li><a href="http://www.liceoariosto.it/studenti/materiali/cat_view/23-documenti/4-documenti-riservati/33-verbali-consiglio-di-istituto.html?orderby=dmdate_published"><img border="0" src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/16x16/pdf.png" alt="file icon" /> Verbale Consiglio di Istituto 31/10/2017<br />(Verbali Consiglio di Istituto)</a></li><li><a href="http://www.liceoariosto.it/studenti/materiali/cat_view/23-documenti/4-documenti-riservati/33-verbali-consiglio-di-istituto.html?orderby=dmdate_published"><img border="0" src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/16x16/pdf.png" alt="file icon" /> Verbale Consiglio di Istituto 15/09/2017<br />(Verbali Consiglio di Istituto)</a></li><li><a href="http://www.liceoariosto.it/studenti/materiali/cat_view/16-albo-pretorio/106-sciopero-del-personale.html?orderby=dmdate_published"><img border="0" src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/16x16/pdf.png" alt="file icon" /> Dati sciopero del 15/12/2017<br />(Sciopero del personale)</a></li><li><a href="http://www.liceoariosto.it/studenti/materiali/cat_view/23-documenti/4-documenti-riservati/116-proposte-formative.html?orderby=dmdate_published"><img border="0" src="http://www.liceoariosto.it/components/com_docman/themes/default/images/icons/16x16/zip.png" alt="file icon" /> Corsi Universitari di formazione permanente<br />(Proposte Formative)</a></li></ul></div>		</div>
+	</div></div></div>
+	</div>
+		<div class="ja-module ja-box-br module" id="Mod54">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<div class="jamod-content ja-box-ct clearfix">
+		<div style="text-align:left" class="ninjarss-">
+        <div style="text-align:left;float:left;padding-right:10px;">
+					<a href="/component/ninjarsssyndicator/?feed_id=1&amp;format=raw" title="Liceo Statale Ariosto" target="_self"><img src="http://www.liceoariosto.it/components/com_ninjarsssyndicator/assets/images/buttons/rss20.gif" alt="Liceo Statale Ariosto" /></a>						  
+		    </div>
+</div>
+		</div>
+	</div></div></div>
+	</div>
+	
+		</div>
+	
+	
+	</div>
+	
+	
+</div>
+<!-- RIGHT COLUMN--> 
+
+	</div>
+	</div>
+	<!-- //MAIN CONTAINER -->
+
+	
+	<!-- FOOTER -->
+	<div class="ja-navhelper wrap">
+<div class="main clearfix">
+
+	<div class="ja-breadcrums">
+		<strong>Sei qui:</strong> <span class="breadcrumbs pathway">
+<span class="name">Bandi di gara e contratti</span></span>
+	</div>
+    
+    <ul class="ja-links">
+		<li class="layout-switcher">&nbsp;</li>
+		<li class="top"><a href="/bandi-di-gara-e-contratti/cat_view.html#Top" title="Back to Top">Top</a></li>
+	</ul>
+	
+	<ul class="no-display">
+		<li><a href="/bandi-di-gara-e-contratti/cat_view.html#ja-content" title="Skip to content">Skip to content</a></li>
+	</ul>
+
+</div>
+</div>
+
+<div id="ja-footer" class="wrap">
+<div class="main clearfix">
+
+<div class="ja-footnav">
+	
+</div>
+	
+<div class="inner">
+	<div class="ja-copyright">
+		 <small>Copyright &copy; 2011 Liceo Statale Ariosto ■ VIA ARIANUOVA, 19 - 44121 FERRARA ■ Telefono: 0532 205415 - 0532 207348 ■ Fax: 0532 209765<br /></small> 
+<small>Posta istituzionale: <a href="mailto:fepc020005@istruzione.it"><strong>FEPC020005@istruzione.it</strong></a> ■ info: <a href="mailto:ariosto@liceoariosto.it"><strong>ariosto@liceoariosto.it</strong></a> ■ Codice fiscale: <strong>80008080386</strong> - Codice meccanografico: <strong>FEPC020005</strong></small>
+
+	</div>
+</div>
+
+</div>
+</div>
+
+	<!-- //FOOTER -->
+
+</div>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Dati trasparenza UNIVPM</titolo>
+		<abstract>Pubblicazione relativa all’anno 2014</abstract>
+		<dataPubblicazioneIndice>2015-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>ANAC</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2015-01-31</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2014</annoRiferimento>
+		<urlFile>http://nia-php.univpm.it/avcp/distribution/indice.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="cad">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/cad_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="cesmi">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/cesmi_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="csal">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/csal_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="d3a">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/d3a_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="dicea">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/dicea_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-02-05</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="dii">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/dii_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="diism">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/diism_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="dimsc">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/dimsc_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="disbsp">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/disbsp_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="disclimo">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/disclimo_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="disco">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/disco_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="dises">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/dises_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="disva">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/disva_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-02-05</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="dm">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/dm_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="econ">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/econ_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="pecon">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/pecon_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="ping">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/ping_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="pmed">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/pmed_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="sag">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/sag_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="sia">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/sia_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="simau">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/simau_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="sitt">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/sitt_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+		<dataset id="ssge">
+			<linkDataset>http://nia-php.univpm.it/avcp/distribution/xml-files/ssge_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>		
+		</dataset>
+	</indice>
+</indici>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://anticorruzione.demosdata.it/templates/xml/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Comune di Castana Indice pubblicazioni L190 2012</titolo>
+<abstract>Comune di Castana Indice pubblicazioni L190 2012</abstract>
+<dataPubblicazioneIndice>2014-01-25</dataPubblicazioneIndice>
+<entePubblicatore>Comune di Castana</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2015-01-24</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2014</annoRiferimento>
+<urlFile>http://anticorruzione.demosdata.it/xml/018036/main.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018036/1.xml</linkDataset>
+<dataUltimoAggiornamento>2015-01-24</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018036/2.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-25</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018036/3.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-25</dataUltimoAggiornamento>
+</dataset>
+
+</indice>
+</indici>

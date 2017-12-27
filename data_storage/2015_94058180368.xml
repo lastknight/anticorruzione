@@ -1,0 +1,365 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="it"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="it"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="it"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="it"> <!--<![endif]-->
+<head>
+	<meta charset="ISO-8859-1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Benvenuti sul sito dell'IIS Primo Levi di Vignola</title>
+	<meta name="description" content="Istituto di Istruzione Superiore 'Primo Levi' - Vignola">
+	<meta name="copyright" content="Copyright 2015-2017 Istituto di Istruzione Superiore 'Primo Levi' - Vignola">
+	<meta name="author" content="Aitec srl">
+	<!--<meta name="viewport" content="width=device-width">-->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic|Roboto:400,700,400italic,700italic">
+	<link rel="stylesheet" href="/css/style.css?170831">
+	<script src="/js/libs/modernizr-2.5.3.min.js"></script>
+</head>
+<body>
+	<!--[if lt IE 7]><p class=chromeframe>Il tuo browser è <em>antico!</em> <a href="http://browsehappy.com/">Aggiornalo ad un browser differente</a> o <a href="http://www.google.com/chromeframe/?redirect=true">installa Google Chrome Frame</a> per visualizzare questo sito.</p><![endif]-->
+	<header id="top" class="clearfix">
+		<div class="wrap">
+			<a href="/" title="Home page dell'Istituto di Istruzione Superiore 'Primo Levi'" id="logo" class="clearfix">
+				<h1>IIS "Primo Levi"</h1>
+				<img src="/img/logo-levi.png" class="lps">
+				<h3>Scienza, Tecnologia, Impresa</h3>
+			</a>			
+			<div id="banner">
+				<div class="fdh"><img src="/img/b/istituto.jpg"></div>
+				<div class="fdh"><img src="/img/b/studenti_3.jpg"></div>
+				<div class="fdh"><img src="/img/b/ciliegi.jpg"></div>
+				<div class="fdh"><img src="/img/b/chiocciola-barozzi.jpg"></div>
+			</div>			
+		</div>
+	</header>
+	<div id="principale" class="clearfix">
+		<div class="wrap clearfix">
+			<nav id="m_up" class="clearfix"><table><tr><td><div class="menu"><p><strong><a href="/" title="Home">Home</a></strong></p></div></td><td>		<div class="menu">
+      <p><strong><a href="/liceo_scientifico_scienze_applicate/index.htm" title="Liceo Scientifico Scienze Applicate">Liceo Scientifico Scienze Applicate</a></strong></p>
+		</div>
+</td><td>		<div class="menu">
+      <p><strong><a href="/tecnico_tecnologico/index.htm" title="Tecnico Tecnologico">Tecnico Tecnologico</a></strong></p>
+		</div>
+</td><td>		<div class="menu">
+      <p><strong><a href="/professionale_commerciale/index.htm" title="Professionale Commerciale">Professionale Commerciale</a></strong></p>
+		</div>
+</td><td>		<div class="menu">
+      <p><strong><a href="/professionale_manutenzione/index.htm" title="Professionale Manutenzione">Professionale Manutenzione</a></strong></p>
+		</div>
+</td><td>		<div class="menu">
+      <p><strong><a href="/contatti/index.htm" title="Contatti">Contatti</a></strong></p>
+		</div>
+</td><td nowrap="nowrap">		<div class="menu">
+<form action="/esito_ricerca.htm" method="post" name="frmCerca" id="frmCerca"><input type="hidden" name="k" value="1" /><input type="text" name="key" id="key" value="" placeholder="Cerca..." /><input type="image" value="Cerca" id="bcerca" src="/img/p_cerca.png" alt="Avvia la ricerca" /></form>
+		</div>
+</td></tr></table></nav>
+			<nav id="m_sx">		<div class="menu">
+      <p><strong><a href="/circolari/index.htm" title="Circolari">Circolari</a></strong></p>
+      <ul>
+				<li><a href="/circolari/circolari_a_s__1718/index.htm" title="Circolari a.s. 17-18">Circolari a.s. 17-18</a></li>
+				<li><a href="/circolari/circolari_a_s__1617/index.htm" title="Circolari a.s. 16-17">Circolari a.s. 16-17</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/albo_online/index.htm" title="Albo ONLINE">Albo ONLINE</a></strong></p>
+      <ul>
+				<li><a href="/albo_online/atti_in_corso_di_pubblicazione/index.htm" title="Atti in corso di pubblicazione">Atti in corso di pubblicazione</a></li>
+				<li><a href="/albo_online/archivio_atti_pubblicati/index.htm" title="Archivio atti pubblicati">Archivio atti pubblicati</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/dirigenza/index.htm" title="Dirigenza">Dirigenza</a></strong></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/bacheca_sindacale/index.htm" title="Bacheca Sindacale">Bacheca Sindacale</a></strong></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/amministrazione_trasparente/" title="Amministrazione Trasparente"><img alt="" 
+src="/files/image/banner_am_tras.png" style="height:70px; width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/pon/fondi_strutturali_europei.htm"><img alt="" src="/files/image/banner-pon.png" 
+style="height:70px; width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="http://hubmiur.pubblica.istruzione.it/web/ministero/operazione-trasparenza/altri-
+contenuti-corruzione" target="_blank"><img alt="" src="/files/image/banner_anticorr.png" 
+style="height:70px; width:100%" /></a></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/anac/index.htm" title="ANAC">ANAC</a></strong></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="http://istruzioneer.it/category/formazione-in-servizio/piano-nazionale-formazione/" 
+target="_blank"><img alt="" src="/files/image/banner-formaz.png" style="height:73px; 
+width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/formazione_rete_ambito_11/home_formazione_rete_ambito_11.htm"><img alt="" 
+src="/files/image/banner_formazioneambito11.png" style="height:70px; width:100%" /></a></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/presentazione/index.htm" title="Presentazione">Presentazione</a></strong></p>
+      <ul>
+				<li><a href="/presentazione/patto_di_corresponsabilita_educativa/index.htm" title="Patto di corresponsabilità educativa">Patto di corresponsabilità educativa</a></li>
+				<li><a href="/presentazione/organigramma/index.htm" title="Organigramma">Organigramma</a></li>
+				<li><a href="/presentazione/consiglio_di_istituto/index.htm" title="Consiglio di Istituto">Consiglio di Istituto</a></li>
+				<li><a href="/presentazione/coordinatori_di_dipartimenti/index.htm" title="Coordinatori di Dipartimenti">Coordinatori di Dipartimenti</a></li>
+				<li><a href="/presentazione/coordinatori_dei_consigli_di_classe/index.htm" title="Coordinatori dei Consigli di classe">Coordinatori dei Consigli di classe</a></li>
+				<li><a href="/presentazione/regolamento_di_istituto/index.htm" title="Regolamento di Istituto">Regolamento di Istituto</a></li>
+				<li><a href="/presentazione/regolamento_per_acquisizione_in_economia/index.htm" title="	Regolamento per acquisizione in economia">	Regolamento per acquisizione in economia</a></li>
+				<li><a href="/presentazione/regolamento_per_incarichi_di_collaborazione_esperti_esterni/index.htm" title="Regolamento per incarichi di collaborazione esperti esterni">Regolamento per incarichi di collaborazione esperti esterni</a></li>
+				<li><a href="/presentazione/regolamento_comitato_valutazione_docenti/index.htm" title="Regolamento Comitato Valutazione Docenti">Regolamento Comitato Valutazione Docenti</a></li>
+				<li><a href="/presentazione/regolamento_contratti_di_sponsorizzazione/index.htm" title="Regolamento contratti di sponsorizzazione">Regolamento contratti di sponsorizzazione</a></li>
+				<li><a href="/presentazione/coordinatori_dei_laboratori/index.htm" title="Coordinatori dei laboratori">Coordinatori dei laboratori</a></li>
+				<li><a href="/presentazione/genitori_e_studenti_rappresentanti_nei_cdc/index.htm" title="Genitori e Studenti rappresentanti nei CDC">Genitori e Studenti rappresentanti nei CDC</a></li>
+				<li><a href="/presentazione/associazione_in_viaggio_con_il_levi/index.htm" title="Associazione In Viaggio con il Levi">Associazione In Viaggio con il Levi</a></li>
+				<li><a href="/presentazione/comitato_tecnico_scientifico/index.htm" title="Comitato Tecnico Scientifico">Comitato Tecnico Scientifico</a></li>
+				<li><a href="/presentazione/codice_disciplinare/index.htm" title="Codice Disciplinare">Codice Disciplinare</a></li>
+				<li><a href="/presentazione/codice_di_comportamento/index.htm" title="Codice di comportamento">Codice di comportamento</a></li>
+				<li><a href="/presentazione/calendario_scolastico_1718/index.htm" title="Calendario scolastico 17-18">Calendario scolastico 17-18</a></li>
+				<li><a href="/presentazione/piano_annuale_delle_attivita/index.htm" title="Piano annuale delle attività">Piano annuale delle attività</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/informazioni_e_servizi/index.htm" title="Informazioni e Servizi">Informazioni e Servizi</a></strong></p>
+      <ul>
+				<li><a href="/informazioni_e_servizi/orario_delle_lezioni/index.htm" title="Orario delle lezioni">Orario delle lezioni</a></li>
+				<li><a href="/informazioni_e_servizi/libri_di_testo_201718/index.htm" title="Libri di testo 2017-18">Libri di testo 2017-18</a></li>
+				<li><a href="/informazioni_e_servizi/criteri_iscrizioni/index.htm" title="Criteri iscrizioni">Criteri iscrizioni</a></li>
+				<li><a href="/informazioni_e_servizi/ricevimenti_settimanali/index.htm" title="Ricevimenti settimanali">Ricevimenti settimanali</a></li>
+				<li><a href="/informazioni_e_servizi/ricevimenti_generali/index.htm" title="Ricevimenti generali">Ricevimenti generali</a></li>
+			</ul>
+		</div>
+		<div class="menu_blocco">
+<p><a 
+href="http://www.istitutolevi.gov.it/amministrazione_trasparente/altri_contenuti/informativa_acces
+so_civico.htm"><img alt="" src="/files/image/banner_acc_civ.png" style="height:50px; 
+width:100%" /></a></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/fopags/index.htm" title="FoPAGS">FoPAGS</a></strong></p>
+      <ul>
+				<li><a href="/fopags/forum_provinciale_delle_associazioni_dei_genitori_della_scuola/index.htm" title="Forum Provinciale delle Associazioni dei Genitori della Scuola">Forum Provinciale delle Associazioni dei Genitori della Scuola</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/modulistica/index.htm" title="Modulistica">Modulistica</a></strong></p>
+      <ul>
+				<li><a href="/modulistica/genitori_e_alunni/index.htm" title="Genitori e alunni">Genitori e alunni</a></li>
+				<li><a href="/modulistica/docenti/index.htm" title="Docenti">Docenti</a></li>
+				<li><a href="/modulistica/ata/index.htm" title="Ata">Ata</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/benemerenze/index.htm" title="Benemerenze">Benemerenze</a></strong></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/elenco_diplomati/index.htm" title="Elenco diplomati">Elenco diplomati</a></strong></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/graduatorie/index.htm" title="Graduatorie">Graduatorie</a></strong></p>
+      <ul>
+				<li><a href="/graduatorie/personale_docente/index.htm" title="Personale Docente">Personale Docente</a></li>
+				<li><a href="/graduatorie/personale_ata/index.htm" title="Personale Ata">Personale Ata</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/il_sito/index.htm" title="Il Sito">Il Sito</a></strong></p>
+      <ul>
+				<li><a href="/il_sito/ufficio_relazioni_con_il_pubblico/index.htm" title="Ufficio Relazioni con il pubblico">Ufficio Relazioni con il pubblico</a></li>
+				<li><a href="/il_sito/privacy/index.htm" title="Privacy">Privacy</a></li>
+				<li><a href="/il_sito/note_legali/index.htm" title="Note Legali">Note Legali</a></li>
+				<li><a href="/il_sito/elenco_siti_tematici/index.htm" title="Elenco Siti tematici">Elenco Siti tematici</a></li>
+			</ul>
+		</div>
+</nav>
+			<nav id="m_dx">		<div class="menu_blocco">
+<p style="text-align:center"><a href="https://web.spaggiari.eu/home/app/default/login.php?
+custcode=MOII0002" target="_blank" 
+title="spaggiari"><img alt="" 
+src="/files/image/registro elettronico.png" style="width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<a href="/ar-login.htm" title="Area Riservata Docenti"><img alt="" src="/files/image/banner_area_riservata.png" style="width:100%" /></a>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/documenti_15_maggio/index.htm" title="Documenti 15 Maggio">Documenti 15 Maggio</a></strong></p>
+      <ul>
+				<li><a href="/documenti_15_maggio/esame_di_stato_1617/index.htm" title="Esame di stato 16/17">Esame di stato 16/17</a></li>
+			</ul>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/ecdl/index.htm#" title="ECDL"><img alt="" 
+src="/files/image/banner_ecdl.png" style="width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/open_day/" 
+title="Open Day - Giorni di apertura della scuola"><img alt="" 
+src="/files/image/banner_openday.png" style="width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<p style="text-align:center"><a href="/BANNER_CORSI/home_grammatica.htm"><img alt="" 
+src="/files/image/banner_gramm_valenziale2.png" style="height:60px; width:100%" /></a>
+</p>
+		</div>
+		<div class="menu_blocco">
+<p style="text-align:center"><a href="/valutazione_in_progress/home.htm">
+<img alt="" src="/files/image/banner_valuta_prog.png" style="height:70px; width:100%" /></a>
+</p>
+		</div>
+		<div class="menu_blocco">
+<p style="text-align:center"><strong><a 
+href="/presentazione/associazione_in_viaggio_con_il_levi/5x1000.htm"><img 
+alt="" src="/files/image/banner_in_viaggio_con_il_levi.png" style="width:100%" /></a>
+</strong></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/simulimpresa_2017/index.htm" title="Simulimpresa 2017">Simulimpresa 2017</a></strong></p>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/vita_della_scuola/vita_Levi.htm"><img alt="" src="/files/image/vita scuola.png" 
+style="height:70px; width:100%" /></a></p>
+		</div>
+		<div class="menu_blocco">
+<p style="text-align:center"><a 
+href="/progetti_di_istituto/corso_informatica_nonni/home_nonni.htm"><img alt="" 
+src="/files/image/banner_nonni.png" style="height:100%; width:100%" /></a></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/area_didattica/index.htm" title="Area Didattica">Area Didattica</a></strong></p>
+      <ul>
+				<li><a href="/area_didattica/ptof_201617__201819/index.htm" title="PTOF 2016/17 - 2018/19">PTOF 2016/17 - 2018/19</a></li>
+				<li><a href="/area_didattica/rav__rapporto_di_autovalutazione/index.htm" title="RAV - Rapporto di autovalutazione">RAV - Rapporto di autovalutazione</a></li>
+				<li><a href="/area_didattica/pdm__piano_di_miglioramento/index.htm" title="PDM - Piano di miglioramento">PDM - Piano di miglioramento</a></li>
+				<li><a href="/area_didattica/pai__piano_annuale_per_l_inclusivita/index.htm" title="PAI - Piano Annuale per l&#39;Inclusività">PAI - Piano Annuale per l&#39;Inclusività</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/alternanza_scuolalavoro/index.htm" title="Alternanza Scuola-Lavoro">Alternanza Scuola-Lavoro</a></strong></p>
+      <ul>
+				<li><a href="/alternanza_scuolalavoro/progetto_alternanza_scuolalavoro/index.htm" title="Progetto Alternanza Scuola-Lavoro">Progetto Alternanza Scuola-Lavoro</a></li>
+				<li><a href="/alternanza_scuolalavoro/sicurezza_nei_luoghi_di_lavoro_aziende_partner/index.htm" title="Sicurezza nei luoghi di lavoro Aziende partner">Sicurezza nei luoghi di lavoro Aziende partner</a></li>
+			</ul>
+		</div>
+		<div class="menu_blocco">
+<p><a href="/sicuramente_tecnico/sicuramente_tecnico.htm"><img alt="" 
+src="/files/image/banner_sicur_tecnico.png" style="height:70px; width:100%" /></a></p>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/pnsd/index.htm" title="PNSD">PNSD</a></strong></p>
+      <ul>
+				<li><a href="/pnsd/piano_nazionale_scuola_digitale/index.htm" title="Piano Nazionale Scuola Digitale">Piano Nazionale Scuola Digitale</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/progetti_di_istituto/index.htm" title="Progetti di Istituto">Progetti di Istituto</a></strong></p>
+      <ul>
+				<li><a href="/progetti_di_istituto/giornalino_di_istituto/index.htm" title="Giornalino di Istituto">Giornalino di Istituto</a></li>
+				<li><a href="/progetti_di_istituto/ecdl/index.htm" title="ECDL">ECDL</a></li>
+				<li><a href="/progetti_di_istituto/certificazioni_linguistiche_trinity_e_cambridge/index.htm" title="Certificazioni linguistiche TRINITY e CAMBRIDGE">Certificazioni linguistiche TRINITY e CAMBRIDGE</a></li>
+				<li><a href="/progetti_di_istituto/iefp/index.htm" title="IeFP">IeFP</a></li>
+				<li><a href="/progetti_di_istituto/clil/index.htm" title="CLIL">CLIL</a></li>
+				<li><a href="/progetti_di_istituto/corso_informatica_nonni/index.htm" title="Corso Informatica Nonni">Corso Informatica Nonni</a></li>
+				<li><a href="/progetti_di_istituto/integrazione_e_inclusione/index.htm" title="Integrazione e inclusione">Integrazione e inclusione</a></li>
+				<li><a href="/progetti_di_istituto/legalita/index.htm" title="Legalità">Legalità</a></li>
+				<li><a href="/progetti_di_istituto/educazione_alla_salute/index.htm" title="Educazione alla salute">Educazione alla salute</a></li>
+			</ul>
+		</div>
+		<div class="menu">
+      <p><strong><a href="/progetti_degli_indirizzi/index.htm" title="Progetti degli Indirizzi">Progetti degli Indirizzi</a></strong></p>
+      <ul>
+				<li><a href="/progetti_degli_indirizzi/l_s_s_a_/index.htm" title="L.S.S.A.">L.S.S.A.</a></li>
+				<li><a href="/progetti_degli_indirizzi/i_t_t_/index.htm" title="I.T.T.">I.T.T.</a></li>
+				<li><a href="/progetti_degli_indirizzi/i_p_s_c_/index.htm" title="I.P.S.C.">I.P.S.C.</a></li>
+				<li><a href="/progetti_degli_indirizzi/i_p_i_a_/index.htm" title="I.P.I.A.">I.P.I.A.</a></li>
+			</ul>
+		</div>
+		<div class="menu_blocco">
+<div class="b_social clearfix">
+<a href="/sezione_servizio/webmail.htm" class="s_wb" 
+title="WebMail">WebMail</a>
+<a href="https://www.youtube.com/channel/UC9VO5Eno0m0AFJE92fiufuw" 
+target="_blank" 
+class="s_yt" title="YouTube">YouTube</a>
+<a href="https://it-it.facebook.com/primolevi.vignola" target="_blank" class="s_fb" 
+title="Facebook">Facebook</a>
+</div>
+		</div>
+</nav>
+			
+			
+			<div id="contenuto">
+	  	<div id="pp" class="bp0">
+      <h2 class="tit">Errore 404 - Pagina non trovata</h2>
+      <div class="det_p">La pagina che stavate cercando non esiste o non è più presente.<br />Utilizzate le voci di menu od il motore di ricerca per ottenere tutte le informazioni che desiderate.<br /><br />Scusandoci per eventuali inconvenienti vi auguriamo una buona navigazione.      </div>
+    </div>
+    </div>
+		</div>
+	</div>
+	<footer>		
+		<div class="wrap clearfix">
+			<div id="flinkr" class="flinkr clearfix">
+				<a target="_blank" href="http://www.istruzione.it/"><img width="139" height="45" alt="Portale Ministero dell'Istruzione, Università e Ricerca" src="/img/ban_miur.png" title="MIUR"></a>
+				<a target="_blank" href="http://archivio.pubblica.istruzione.it/fondistrutturali/default.shtml"><img width="139" height="45" alt="" src="/img/ban_pon.png" title="PON"></a>
+				<a target="_blank" href="http://www.mo.istruzioneer.it/"><img width="139" height="45" alt="" src="/img/ban_ut_viii.png" title="UT VIII Modena"></a>
+				<a target="_blank" href="http://www.istruzioneer.it/"><img width="139" height="45" alt="" src="/img/ban_usr.png" title="U.S.R. Emilia-Romagna"></a>
+				<!--<a target="_blank" href="https://iscrizioni.pubblica.istruzione.it/iscrizionionlinefamiglia/"><img width="139" height="45" alt="" src="/img/ban_iscrizioni.png" title="Iscrizioni on line"></a>-->
+				<a target="_blank" href="https://web.spaggiari.eu/"><img width="139" height="45" alt="" src="/img/ban_re.png" title="Registro Elettronico"></a>
+				<a target="_blank" href="http://iostudio.pubblica.istruzione.it/web/guest/home"><img width="139" height="45" alt="Portale IoStudio" src="/img/ban_iostudio.png" title="IoStudio"></a>
+				<a target="_blank" href="http://www.indire.it/"><img width="139" height="45" alt="Portale Indire" src="/img/ban_indire.png" title="Portale Indire"></a>
+				<a target="_blank" href="http://www.istruzione.it/orientamento/"><img width="139" height="45" alt="Io scelgo, io studio" src="/img/ban_ioscelgo.png" title="Io scelgo, io studio"></a>
+				<a target="_blank" href="http://www.programmailfuturo.it/"><img width="139" height="45" alt="Programma il futuro" src="/img/ban_futuro.png" title="Programma il futuro"></a>
+				<a target="_blank" href="http://formiur.formez.it/"><img width="139" height="45" alt="For MIUR" src="/img/ban_formiur.png" title="For MIUR"></a>
+				<a target="_blank" href="http://www.invalsi.it/invalsi/index.php"><img width="139" height="45" alt="Portale Invalsi" src="/img/ban_invalsi.png" title="Portale Invalsi"></a>
+				<a target="_blank" href="http://www.magellanopa.it/bussola/page.aspx?s=verifica-dlgs-33-2013&qs=i/IwZsp5t0Z/qJNdz1eumw=="><img width="139" height="45" alt="Bussola della trasparenza" src="/img/ban_bussola.png" title="Bussola della trasparenza"></a>
+			</div>
+			<p><strong>Istituto di Istruzione Superiore 'Primo Levi'</strong><br />
+			Via Resistenza, 800 – 41058 Vignola (MO)<br />
+			Tel. 059 771195 - Fax 059 764354<br />
+			Email: <a href="mailto:mois00200c@istruzione.it" title="Scrivi una email all'indirizzo mois00200c@istruzione.it">mois00200c@istruzione.it</a><br />
+			PEC: <a href="mailto:mois00200c@pec.istruzione.it" title="Scrivi una email all'indirizzo PEC dell'Istituto di Istruzione Superiore 'Primo Levi': mois00200c@pec.istruzione.it">mois00200c@pec.istruzione.it</a><br />
+			C.F. 94058180368</p>
+			<p class="dx"><em>Ultimo aggiornamento: Mercoledì, 27 Dicembre 2017 ore 11:22</em>
+			<br />Sei il visitatore n&deg; 2.294.802<br />&copy; 2015-2017 Istituto di Istruzione Superiore 'Primo Levi'<br /><a href="/info/informativa_privacy_e_cookie.htm">Informativa privacy e cookie</a><br /><br />Sito realizzato con <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valida il foglio di stile di questa pagina">stile</a> e <a href="http://validator.w3.org/check?uri=referer" title="Valida il codice di questa pagina">criterio</a> da <a href="http://aitec.it" title="Collegamento al sito http://aitec.it">Aitec.it</a></p>
+		</div>
+	</footer>
+
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+	<script src="/js/plugins.js"></script>
+	<script src="/js/script.js"></script>
+	<script>
+	$(document).ready(function() {
+       var faders = $('.fdh');
+       var faderIndex = faders.length-1;
+       function nextFade() {
+         $(faders[faderIndex]).fadeOut(1000, function() {
+           faderIndex++;
+           if (faderIndex >= faders.length) faderIndex = 0;
+           $(faders[faderIndex]).fadeIn(1000, nextFade).delay(2500);
+         });
+       }
+       nextFade();
+	});
+	</script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-42871556-46', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+  </script>
+
+<div id="cookie-notice">
+  Questo sito utilizza cookie, anche di terze parti, per migliorare l'esperienza di navigazione. Se vuoi saperne di pi&ugrave; <a href="/info/informativa_privacy_e_cookie.htm#cookie">clicca qui</a>.<br>Chiudendo questo banner acconsenti all'uso dei cookie.<a href="/404.htm?cookie=ok" id="cookie-button">OK</a></div>
+
+</body>
+</html>

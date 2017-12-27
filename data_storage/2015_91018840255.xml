@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice contratti2014</titolo>
+    <abstract>gare 2014</abstract>
+    <dataPubblicazioneIndice>2015-01-26</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO DI FELTRE -   - FELTRE</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2015-01-26</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2014</annoRiferimento>
+    <urlFile>http://www.comprensivofeltre.it/avcp/2014/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2014">
+      <linkDataset>http://www.comprensivofeltre.it/avcp/2014/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201482002210258">
+      <linkDataset>http://www.comprensivofeltre.it/avcp/2014/gare201482002210258.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201482004000251">
+      <linkDataset>http://www.comprensivofeltre.it/avcp/2014/gare201482004000251.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
