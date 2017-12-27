@@ -1,0 +1,105 @@
+    <div class="container">
+
+      <div class="page-header">
+        <h3 class="page-title"><%=@scheda['ragione']%></h3>
+
+        <ol class="breadcrumb">
+          <li><%= @titolo %></li>
+        </ol>
+      </div> <!-- /.page-header -->
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Dati per <%=@scheda['ragione']%>
+              </h4>
+            </div> 
+
+            <div class="portlet-body">
+
+              <table class="table table table-hover m-0">
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Valore</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                  <tr>
+                    <th scope="row">Ragione Sociale</th>
+                    <td><%=@scheda['ragione']%></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Codice Fiscale</th>
+                    <td><%=@scheda['fiscale']%></td>
+                  </tr>
+                </tbody>
+              </table>
+
+            </div>
+
+          </div>
+        </div> 
+      </div> 
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Analisi dei Lotti per <%=@scheda['ragione']%>
+              </h4>
+            </div> 
+
+            <div class="portlet-body">
+				
+	            <p class="text-muted">
+	                <strong>ATTENZIONE:</strong> In questa tabella sono riportate le informazioni che è stato possibile desumere dal parsing del file XML fornito, ove questo sia ancora accedibile e correttamente formattato. Non si risponde di eventuali errori di visualizzazione e per qualunque controllo completo si prega di fare riferimento al file pubblicato disponibile all'indirizzo <a href="<%=url%>"><%=url%></a><br/>
+	            </p>
+
+              <table class="table table table-hover m-0">
+                <thead>
+                  <tr>
+                    <th>Annno</th>
+                    <th>Descrizione</th>
+                    <th>Tipologia</th>
+                    <th>Importo</th>
+                    <th>Committente</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+					<% @data.each do |d|
+					
+					if !d[6].nil?
+					%>
+                  <tr>
+					<%
+					anno = d[6].split("_")[0].strip
+					fiscale = d[6].split("_")[1].strip
+					c = $r.hgetall("aggr:#{fiscale}:#{anno}")
+					%>
+                    <td><%=anno%></td>
+                    <td><%=d[1]%> (<%=d[0]%>)</td>
+                    <td><%=d[2]%></td>
+                    <td><%=num_to_currency(d[5].to_s)%></td>
+                    <td><A href="/scheda/<%=fiscale%>/<%=anno%>"><%=c["ragione"]%></a></td>
+                  </tr>
+				  <% 
+				  end
+				  end %>
+                </tbody>
+              </table>
+
+            </div>
+
+          </div>
+        </div> 
+      </div> 
+	  
+    </div> <!-- /.container -->

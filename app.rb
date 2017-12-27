@@ -8,7 +8,17 @@ require 'nokogiri'
 $r = Redis.new
 
 def num_to_currency price
-  "€ #{price.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse}"
+  "€#{price.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse}"
+end
+
+def parse_azienda(f)
+  results = []
+  File.open("./company_storage/company_#{f}", "r") do |f|
+    f.each_line do |line|
+      results << line.split("||")
+    end
+  end rescue nil
+  results
 end
 
 def parse_xml(f)
@@ -52,4 +62,12 @@ get '/scheda/*/*' do |fiscale, anno|
   @titolo = "#{@scheda['ragione']} - Dati AntiCorruzione Legge 190/12 art.1 comma 32 - Anno #{anno}"
   
   erb :scheda_190
+end
+
+get '/azienda/*' do |fiscale|
+  @scheda = $r.hgetall "company:#{fiscale}"
+  @data = parse_azienda(fiscale)
+  @titolo = "#{@scheda["ragione"]} - Dati AntiCorruzione Legge 190/12 art.1 comma 32"
+
+  erb :azienda_190
 end
