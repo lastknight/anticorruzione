@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Verano</abstract>
+   <dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Verano</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21112/21112indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_76E10735-AE3D-4239-8B3F-7DF36A938A45'>
+      <linkDataset>http://data.gvcc.net/avcp/21112/76E10735-AE3D-4239-8B3F-7DF36A938A45.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_146ADE72-7C37-4798-B8EE-CC7E7ED8C772'>
+      <linkDataset>http://data.gvcc.net/avcp/21112/146ADE72-7C37-4798-B8EE-CC7E7ED8C772.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_29E337A8-0F11-4141-94A7-168FC098F320'>
+      <linkDataset>http://data.gvcc.net/avcp/21112/29E337A8-0F11-4141-94A7-168FC098F320.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

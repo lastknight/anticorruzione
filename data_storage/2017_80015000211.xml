@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Circolo di scuola elementare in lingua tedesca Bolzano - Pubblicazione legge 190</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+    <entePubblicatore>Circolo di scuola elementare in lingua tedesca Bolzano</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>www.unsereschule.it/files/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset> www.unsereschule.it/files/esiti_2016_20170131-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

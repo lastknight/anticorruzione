@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Olang</abstract>
+   <dataPubblicazioneIndice>2017-02-03</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Olang</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-03</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21106/21106indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_4669B57E-D259-476A-8E93-540D32EC217A'>
+      <linkDataset>http://data.gvcc.net/avcp/21106/4669B57E-D259-476A-8E93-540D32EC217A.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_8BB10108-BAC2-4216-BFAA-5962E8FAF0E7'>
+      <linkDataset>http://data.gvcc.net/avcp/21106/8BB10108-BAC2-4216-BFAA-5962E8FAF0E7.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_EB9D1F51-37AB-4537-9D89-3A4F6F60439D'>
+      <linkDataset>http://data.gvcc.net/avcp/21106/EB9D1F51-37AB-4537-9D89-3A4F6F60439D.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

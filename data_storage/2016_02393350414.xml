@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+    <dataPubbicazioneDataset>2016-01-19</dataPubbicazioneDataset>
+    <entePubblicatore>MMS ECOLOGICA S.R.L.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-18</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.gruppomarchemultiservizi.it/istituzionale/AVCP_MMS_Ecologica.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>5625844156</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02393350414</codiceFiscaleProp>
+        <denominazione>MMS Ecologica S.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Conferimento rifiuto umido FORSU CER 200108 per anni 1</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02175430392</codiceFiscale>
+          <ragioneSociale>Herambiente S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02175430392</codiceFiscale>
+          <ragioneSociale>Herambiente S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>80000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-01-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>80000.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

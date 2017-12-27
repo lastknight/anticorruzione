@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Procedure di scelta avviate nel 2016 ed attive stipulate negli anni precedenti</abstract>
+    <dataPubblicazioneIndice>2017-01-26</dataPubblicazioneIndice>
+    <entePubblicatore>I.C. G. ARCOLEO - V. DA FELTRE DI CALTAGIRONE - "G. ARCOLEO - V. DA FELTRE" - CALTAGIRONE</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-26</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC15388/2016/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC15388/2016/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201691013590871">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC15388/2016/gare201691013590871.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

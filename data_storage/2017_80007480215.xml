@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Liceo Artistico Cademia Ortisei - Pubblicazione legge 190</titolo>
+    <abstract>Liceo Artistico Cademia Ortisei - Pubblicazione legge 190; anni di riferimento 2015-2016</abstract>
+    <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+    <entePubblicatore>Liceo Artistico Cademia Ortisei</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>www.cademia.it/files/indicedataset.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2015">
+      <linkDataset>www.cademia.it/files/esiti_2015_20160127-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016">
+      <linkDataset>www.cademia.it/files/esiti_2016_20170217-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

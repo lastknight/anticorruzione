@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190</titolo>
+    <abstract>Indice Pubblicazione Legge 190 - Anni di riferimento 2014-2015</abstract>
+    <dataPubblicazioneIndice>2015-08-07</dataPubblicazioneIndice>
+    <entePubblicatore>Turismo &amp; Tempo Libero SPA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-09</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/bandi/l190/0451/indicedataset.xml?L190q=0451/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0451/esiti_2014_20150211-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-11</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0451/esiti_2015_20160120-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

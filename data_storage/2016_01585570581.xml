@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°3</titolo>
+    <abstract>Pubblicazione relativa all’anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-25</dataPubblicazioneIndice>
+    <entePubblicatore>RFI Rete Ferroviaria Italiana</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-21</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_INDICE_2015.XML</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1167">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2013_01_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1168">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2013_02_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1169">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2013_03_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-19</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1170">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2014_01_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-19</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1171">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2014_02_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1172">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2014_03_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1173">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2014_04_AGG_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1180">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2015_01.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1181">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2015_02.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_1182">
+      <linkDataset>http://www.rfi.it/cms-file/allegati/rfi_2014/ANAC/2015/ANAC_RFI_2015_03.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-21</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione RAI</titolo>
+    <abstract>Indice pubblicazione RAI</abstract>
+    <dataPubblicazioneIndice>2016-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>Rai Radiotelevisione Italiana SpA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.fornitori.rai.it/Fornitori/RAI2015_indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_Acquisti_2015_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_Acquisti_2015_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+	   <dataset id="ID_3">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_Acquisti_2015_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_Altre_Direzioni_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+	<dataset id="ID_5">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_CSRE_Affidamenti_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+	   <dataset id="ID_6">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSE_Affidamenti_2015_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSE_Affidamenti_2015_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+	   <dataset id="ID_8">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_Affidamenti_2015_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_9">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_Affidamenti_2015_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+		<dataset id="ID_10">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_Aggiornamenti.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+	</indice>
+</indici>

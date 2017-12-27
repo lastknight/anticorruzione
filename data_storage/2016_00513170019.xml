@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Aggiornamento al 31/01/2016</titolo>
+    <abstract>Aggiornamento al 31/01/2016</abstract>
+    <dataPubbicazioneDataset>2016-02-01</dataPubbicazioneDataset>
+    <entePubblicatore>SITAF</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-02-01</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.sitaf.it/avcp/dataset3.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>4581801DC8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00513170019</codiceFiscaleProp>
+        <denominazione>SITAF</denominazione>
+      </strutturaProponente>
+      <oggetto>A32 Torino-Bardonecchia "Servizi assicurativi 2012-2014 - Polizza All Risks A32"</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>00079760328</codiceFiscale>
+            <ragioneSociale>Assicurazioni Generali S.p.A.</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00409920584</codiceFiscale>
+            <ragioneSociale>INA Assitalia S.p.A.</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+        </raggruppamento>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>00079760328</codiceFiscale>
+            <ragioneSociale>Assicurazioni Generali S.p.A.</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00409920584</codiceFiscale>
+            <ragioneSociale>INA Assitalia S.p.A.</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>1920000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1920000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5445313E6D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00513170019</codiceFiscaleProp>
+        <denominazione>SITAF</denominazione>
+      </strutturaProponente>
+      <oggetto>T4 Traforo Autostradale del Fréjus Galleria di Sicurezza Lotto 2 Opere Civili lato Italia: "Incarico professionale per l'attività di collaudo statico"</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SRNSRA46M10A271S</codiceFiscale>
+          <ragioneSociale>Serini Sauro</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>TRCNTN58A23E819W</codiceFiscale>
+          <ragioneSociale>Turco Antonio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>TRCNTN58A23E819W</codiceFiscale>
+          <ragioneSociale>Turco Antonio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>32958.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2017-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>540508948B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00513170019</codiceFiscaleProp>
+        <denominazione>SITAF</denominazione>
+      </strutturaProponente>
+      <oggetto>A32 Torino-Bardonecchia "Servizio di locazione veicoli senza conducente"</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00879960524</codiceFiscale>
+          <ragioneSociale>Arval Service Lease Italia S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00879960524</codiceFiscale>
+          <ragioneSociale>Arval Service Lease Italia S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1960380.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>654135.79</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

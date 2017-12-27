@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°4</titolo>
+    <abstract>Pubblicazione relativa all'anno 2012 2013 2014 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto comprensivo in lingua tedesca Silandro</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.ssp-schlanders.it/datasetindice.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.ssp-schlanders.it/esiti_2012_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.ssp-schlanders.it/esiti_2013_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.ssp-schlanders.it/esiti_2014_20150124-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.ssp-schlanders.it/esiti_2015_20160114-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

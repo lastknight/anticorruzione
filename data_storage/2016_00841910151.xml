@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione art 1 legge 190</titolo>
+		<abstract>Pubblicazione dati ai sensi dell'art. 1 comma 32 legge n. 190/2012 rif anni 2014 - 2015 </abstract>
+		<dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+		<entePubblicatore>COMUNE DI VAREDO</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.comune.varedo.mi.it/upload/varedo/gestionedocumentale/avcp_dataset_varedo_indice_2015_784_7110.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_0">
+			<linkDataset>http://www.comune.varedo.mi.it/upload/varedo/gestionedocumentale/avcp_dataset_varedo_2014_784_7114.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+		</dataset >
+		<dataset id="ID_1">
+			<linkDataset>http://www.comune.varedo.mi.it/upload/varedo/gestionedocumentale/avcp_dataset_varedo_2015_784_7118.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+		</dataset >
+	</indice>
+</indici>
+
+
+

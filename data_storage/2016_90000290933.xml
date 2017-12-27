@@ -1,0 +1,2441 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<!--<title>
+IIS Il Tagliamento Spilimbergo
+ </title>-->
+<!--<meta name="description" content="Sito della Scuola">-->
+<!--<meta name="keywords" content="scuola, news">-->
+
+<title>Istituto Istruzione Superiore Il Tagliamento Spilimbergo</title>
+
+
+
+<meta name="description" content="Sito Web istituzionale dell' Istituto Istruzione Superiore Il Tagliamento Spilimbergo" />
+
+
+
+<meta name="keywords" content="Istituto,Istruzione,Superiore,Spilimbergo,Scuole Spilimbergo,Istituti Spilimbergo,Scuola Secondaria,Istituto Istruzione Superiore Il Tagliamento Spilimbergo">
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link type="image/vnd.microsoft.icon" rel="shortcut icon" href="../../custom/PNII0001/img/favicon.ico">
+<!-- <link href="../../img/corsonline.png" rel="icon">
+
+<link href="../../img/corsonline.png" rel="apple-touch-icon"> -->
+
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="author" content="Istituto Istruzione Superiore Il Tagliamento Spilimbergo">
+
+
+<link href="../../css/bootstrap.min.css" rel="stylesheet">
+<!--[if lt IE 8]>
+<link href="../../css/bootstrap-ie7fix.min.css" rel="stylesheet">
+<![endif]-->
+<link href="../../css/font-awesome.min.css" rel="stylesheet">
+<link href="../../css/fullcalendar.css" rel="stylesheet" media="screen">
+<link href="../../css/fullcalendar.print.css" rel="stylesheet" media="print">
+<link href="../../css/jquery.qtip.min.css" rel="stylesheet" media="screen">
+<link href="../../css/common.css?ver=001" rel="stylesheet">
+<link href="../../custom/PNII0001/css/style.css" rel="stylesheet" media="screen">
+<link href="/auth/css/AuthApi2.css" rel="stylesheet" type="text/css"  media="all">
+
+<link rel="StyleSheet" href="../../css/testo_default.css" type="text/css" media="all">
+<link rel="StyleSheet" href="../../custom/PNII0001/css/testo_default.css" type="text/css" media="all">
+
+<style>
+.editor-pane{width:100%;}
+
+.z-editor {font-size: 14px;color: #333333;}
+.z-editor * {margin:0;padding:0;}
+
+.editor-pane .editor-commands .sep
+{
+color:silver;
+}
+.editor-pane .editor-commands .command{
+padding: 0 1em;
+margin: 0 0;
+cursor: pointer;
+border: 1px dotted silver;
+line-height: 38px;
+}
+.editor-pane .editor-commands .command:hover{
+background-color: #FFFAB5;
+}
+</style>
+
+
+
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- <script src="//code.jquery.com/jquery.js"></script>-->
+
+<script src="../../lib/js/jquery-1.11.0.min.js"></script>
+<script src="../../lib/js/jquery.qtip.min.js"></script>
+<script src="../../lib/js/jquery.scrollTo.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../../lib/js/bootstrap.min.js"></script>
+
+<script src="../../lib/js/jquery.bootstrap.newsbox.js"></script>
+
+<script src="../../lib/js/moment.min.js"></script>
+<script src="../../lib/js/moment-range.js"></script>
+<script src="../../lib/js/d3.v3.min.js"></script>
+<script src="/auth/lib/js/jquery-AuthApi2.js"></script>
+<script src="../../lib/js/fullcalendar.min.js"></script>
+<script src="../../lib/js/jscript.js?v=0001"></script>
+
+<script src="/home/lib/js/privacy.js" type="text/javascript"></script>
+<script src="../../../commons/lib/jsx/jQuery/external/cookie/jquery.cookie.min.js" type="text/javascript"></script>
+
+<script src="../../custom/PNII0001/lib/js/modernizr.js" type="text/javascript"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-559b82235e674374" async="async"></script>
+
+
+
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="../../lib/js/html5shiv.js"></script>
+<script src="../../lib/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- Gallery -->
+<link rel="stylesheet" href="../../css/gallery.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../../css/flexslider.css" type="text/css" media="screen" />
+
+
+<script type="text/javascript" src="../../lib/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/tinymce_4.0.16_jquery/tinymce/js/tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/tinymce_4.0.16_jquery/tinymce/js/tinymce/jquery.tinymce.min.js"></script>
+<script type="text/javascript" src="../../lib/js/jquery.colorbox.min.js"></script>
+<script type="text/javascript" src="../../lib/js/jquery.form.js"></script>
+<script type="text/javascript" src="../../lib/js/jquery.imgareaselect.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/captcha/jquery.plugin.min.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/captcha/jquery.realperson.min.js?v=001"></script>
+<script type="text/javascript" src="../../lib/js/readmore.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="../../css/jquery-ui-1.10.2.custom/css/custom-theme/jquery-ui-1.10.2.custom.css">
+<link rel="stylesheet" type="text/css" media="all" href="../../css/imgareaselect/imgareaselect-default.css">
+<link rel="stylesheet" type="text/css" media="all" href="../../../commons/lib/jsx/jQuery/plugins/gallery/css/blueimp-gallery.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../../../commons/lib/jsx/jQuery/plugins/captcha/jquery.realperson.css">
+
+<style>
+.blueimp-gallery-carousel {
+position: relative;
+z-index: auto;
+//padding-bottom:50%;
+max-width: 640px;
+margin: 1em auto;
+box-shadow: 0 0 10px #000;
+}
+
+.nowrap{
+white-space:nowrap;
+}
+
+.editor-pane{width:100%;}
+
+.z-editor {font-size: 14px;color: #333333;}
+.z-editor * {margin:0;padding:0;}
+
+.editor-pane .editor-commands .sep{
+color:silver;
+}
+.editor-pane .editor-commands .command{
+padding: 0 1em;
+margin: 0 0;
+cursor: pointer;
+border: 1px dotted silver;
+line-height: 38px;
+}
+
+.editor-pane .editor-commands .command:hover{
+background-color: #FFFAB5;
+}
+</style>
+
+<script type="text/javascript">
+var calendar_date = {"y":2017,"m":11,"d":27};
+var sede_codice = 'PNII0001';
+var eventi_tipo = [];
+var colorbox_color = ['428BCA', '87ad3a', 'ad3a87', 'ad603a'];
+var image_list = [];
+
+$(document).on('focusin', function(e) {
+if ($(e.target).closest(".mce-window").length) {
+e.stopImmediatePropagation();
+}
+});
+
+var calendar_lang = {
+'allDayText': 'tutto il giorno',
+'monthNames':[
+'Gennaio',
+'Febbraio',
+'Marzo',
+'Aprile',
+'Maggio',
+'Giugno',
+'Luglio',
+'Agosto',
+'Settembre',
+'Ottobre',
+'Novembre',
+'Dicembre'
+],
+'monthNamesShort':[
+'Gen',
+'Feb',
+'Mar',
+'Apr',
+'Mag',
+'Giu',
+'Lug',
+'Ago',
+'Set',
+'Ott',
+'Nov',
+'Dic'
+],
+'dayNames':[
+'Domenica',
+'Lunedì',
+'Martedì',
+'Mercoledì',
+'Giovedì',
+'Venerdì',
+'Sabato'
+],
+'dayNamesShort':[
+'Dom',
+'Lun',
+'Mar',
+'Mer',
+'Gio',
+'Ven',
+'Sab'
+],
+'weekNumberTitle' : 'W',
+'timeFormat':{
+// for agendaWeek and agendaDay
+agenda: 'H:mm{ - H:mm}', // 5:00 - 6:30
+
+// for all other views
+'': 'H(:mm)'            // 7p
+},
+'columnFormat':{
+month: 'ddd',    // Mon
+week: 'ddd d/M', // Mon 9/7
+day: 'dddd d/MMM'  // Monday 9/7
+},
+'titleFormat':{
+month: 'MMMM yyyy',                             // September 2009
+week: "d MMM[ yyyy]{ '&#8212;'[ d] MMM yyyy}", // Sep 7 - 13 2009
+day: 'dddd, d MMM yyyy'                  // Tuesday, Sep 8, 2009
+},
+'buttonText':{
+prev:     '&lsaquo;', // <
+next:     '&rsaquo;', // >
+prevYear: '&laquo;',  // <<
+nextYear: '&raquo;',  // >>
+today:    'oggi',
+month:    'mese',
+week:     'sett.',
+day:      'giorno'
+}
+};
+
+$(document).ready( function() {
+setHandlers();
+
+$('#select_anno_scol').change(function(){
+window.location.href=updateQueryStringParameter(window.location.href, 'anno_scol', $('#select_anno_scol').val());
+});
+
+$('#cambia_lingua').change(function(){
+var dati = $('form#formlang').serialize();
+$.ajax({
+type: "POST",
+url: "/home/app/default/langset.php",
+data: dati,
+success: function(){location.replace(window.location.href.replace('#',''))},
+dataType: 'text'
+});
+});
+
+if (typeof(addthis) == 'undefined') {
+$('.addthis_toolbox').click(function(){
+alert('Attenzione: disabilitare gli adblocker e le funzioni antitracciamento del browser, altrimenti non è possibile condividere le pagine.');
+});
+}
+else{
+addthis.addEventListener('addthis.menu.share', eventHandler);
+}
+
+$('.elimina_commento').click(function() {
+var object=$(this);
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+sede_codice: 'PNII0001',
+id_commento : object.attr('id'),
+ope: 'elimina_commento'
+},
+success: function(txt){
+if(txt.status=='OK'){
+object.parents('.riga_commento').remove();
+}
+else{
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+});
+
+$('.emozione').click(function() {
+//mi salvo la variabile emozione cliccata
+var emozione=$(this).attr('alt');
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+data: {
+sede_codice: 'PNII0001',
+emozione : emozione,
+page: 'oggi_mi_sento'
+},
+success: function(txt){
+if(txt=='OK'){
+$('.emozione').each(function(){
+if($(this).attr('alt')== emozione){
+$(this).attr('src','../../custom/SMARTY01/img/'+emozione+'_click.png');
+}
+else{
+$(this).attr('src','../../custom/SMARTY01/img/'+$(this).attr('alt')+'.png');
+}
+});
+}
+else{
+alert('Per dire come ti senti devi accedere');
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+});
+
+$('#captcha').realperson({
+regenerate: 'Clicca per rigenerare'
+});
+
+$('#access_font').click(function() {
+if (! $('body').hasClass( "fontsize" ) ){
+$('body').addClass('fontsize');
+}
+});
+
+$('#access_black').click(function() {
+if (! $('body').hasClass( "desaturated" ) ){
+$('body').addClass('desaturated');
+}
+});
+
+$('#access_contrast').click(function() {
+if (! $('#contrasto').length){
+$('head').append( $("<link href='../../css/contrasto.css' id='contrasto' rel='stylesheet' type='text/css' />") );
+}
+});
+
+$('#access_stop').click(function() {
+$('body').removeClass('desaturated');
+$('body').removeClass('fontsize');
+$('#contrasto').remove();
+});
+
+$(".export_calendario").click(function() {
+var link=$(this).attr('ref');
+$('#div_export').load(link,function(){
+// initialize input widgets first
+$('.date_export').datepicker({
+dateFormat: 'dd-mm-yy',
+autoclose: true,
+language: 'it',
+todayBtn: true,
+todayHighlight: true
+});
+
+$('#div_export').dialog({
+width: 450,
+height: 455,
+title: "Export",
+autoOpen: true,
+resizable: false,
+draggable: false,
+modal: true,
+position: "center",
+open: function(){
+$('.ui-dialog-titlebar-close').css('display','none');
+$('.ui-widget-content').css('border','none');
+},
+close: function(){
+$(this).dialog('destroy');
+},
+buttons: {
+Annulla: function(){
+$(this).dialog('close');
+},
+Conferma: function(){
+var data1=$('#dal').val();
+var data2=$('#al').val();
+$('#dal').val(data1.substring(6)+'-'+data1.substring(3,5)+'-'+data1.substring(0,2));
+$('#al').val(data2.substring(6)+'-'+data2.substring(3,5)+'-'+data2.substring(0,2));
+$('#div_export form').submit();
+$(this).dialog('close');
+}
+}
+});
+});
+});
+
+$('.readmore').readmore({
+speed: 75,
+maxHeight: 500,
+moreLink: '<a href="#">Leggi tutto</a>',
+lessLink: '<a href="#">Chiudi</a>'
+});
+
+if ($('.video_indice-item').length > 0){
+$('.video_indice-item').click(function(){
+var attuale=$(this);
+$('#video_box').dialog({
+modal: true,
+width: 820,
+height: 570,
+title: attuale.attr('data-title'),
+buttons: {
+'Chiudi': function(){
+$(this).dialog('close');
+}
+},
+open: function(){
+$('#player-1').attr('src', attuale.attr('data-link'));
+}
+});
+});
+}
+
+// PARTE PER LA MODIFICA2
+
+//
+
+$(".newsscroll").bootstrapNews({
+newsPerPage: 4,
+navigation: true,
+autoplay: true,
+direction:'up', // up or down
+animationSpeed: 'normal',
+newsTickerInterval: 4000, //4 secs
+pauseOnHover: true,
+onStop: null,
+onPause: null,
+onReset: null,
+onPrev: function(){
+setHandlers();
+},
+onNext: function(){
+setHandlers();
+},
+onToDo: null
+});
+
+//$('.login-button-container').hover($(this).css({'background':'#fff'}););
+// richiesta login: inizio
+$('#login_button').click(function(){
+button=this;
+$.AuthApi({
+action: "authenticate",                  // action richiesta
+authCid: $('[name="custcode"]').val(),   // codice cliente (opzionale)
+authLogin: $('[name="login"]').val(),    // login
+authPass: $('[name="password"]').val(),  // password
+authPin: '',  // pin
+authAllowAccountChoice: false,
+//authTarget: $('[name="target1"]').val(),  // target app/progetto (opzionale)
+authCompleted: function(json){           // callback autenticazione (opzionale)
+if (!json.data.auth.loggedIn)
+{
+if (json.data.auth.verified)
+{
+if (json.data.pfolio !== undefined && json.data.pfolio.fullList !== undefined && json.data.pfolio.fullList.length>1) {
+$('<div class="select_account_popup"></div>').dialog({
+autoOpen: true,
+width: 600,
+height: 400,
+title: 'Seleziona login account',
+draggable: false,
+resizable: false,
+modal: true,
+open: function()
+{
+var table = '<table style="width:100%;">';
+
+json.data.pfolio.fullList.forEach(function(profilo)
+{
+table += '<tr style="vertical-align:top;border-bottom:1px solid #eee;">';
+table +=     '<td style="vertical-align:top;text-align:left;width:70%;">';
+table +=         '<div style="width: 100%;">';
+table +=             '<p style="margin:0px;padding:0px;"><span class="graytext">'+profilo.nome+'</span></p>';
+table +=             '<p style="margin:0px;padding:0px;"><span class="graytext">'+profilo.account_desc+'</span></p>';
+table +=             '<p style="margin:0px;padding:0px;"><strong>'+profilo.sede_codice+'.'+profilo.account_string+'</strong></p>';
+table +=         '</div>';
+table +=     '</td>';
+table +=     '<td style="vertical-align:top;text-align:left;width:30%;vertical-align:middle;">';
+table +=         '<div class="select_button" account="'+profilo.account_string+'" style="width: 100%;text-align:center;border-radius:5px;background-color:#4f9127;padding-top:3px;padding-bottom:3px;font-weight:bold;color:#fff;cursor:pointer;">Seleziona</div>';
+table +=     '</td>';
+table += '</tr>';
+});
+
+table += '</table>';
+
+$(this).html(table);
+
+$(this).find('.select_button').unbind().click(function()
+{
+var xaccount = $(this).attr('account');
+//faccio il post con la seconda chiamata
+var ajaxOptions = {
+'url':  '/auth/app/default/AuthApi4.php?a=aLoginSam',
+'data': {'uid': xaccount},
+'async': true,
+'type': "POST",
+'success': function(jsonr){
+if (jsonr.data.auth.loggedIn){
+location.replace(window.location.href.replace('#',''));
+}else{
+//errore;
+}
+}
+};
+$.ajax(ajaxOptions);
+});
+}
+});
+}
+}else if (json.data.auth.errors!='') {
+if (json.data.auth.actionRequested == 'changePasswordDialogCode') {
+//code
+}else{
+var errore = json.data.auth.errors[0];
+if(parseInt($('[name="login"]').val())==$('[name="login"]').val()){
+errore = '<span style="font-size:14px;">Attenzione se prima usavate' +
+' il codice scuola e utente solo numerico ora il codice scuola' +
+' va scritto nel campo login seguito da un punto' +
+' e da utente numerico.  Esempio: MIXX0005.123456</span>';
+}
+$('.error-message').find('p').html(errore);
+$('.error-message').slideDown();
+setTimeout(function(){
+$('.error-message').slideUp();
+$('.error-message').find('p').html('');
+},5000);
+}
+}
+}
+else
+{
+location.replace(window.location.href.replace('#',''));
+}
+
+},
+onDialogOpen: function(code, dialog){    // callback apertura dialog (opzionale)
+if(code=="changePasswordDialog"){
+
+// cambio posizionamento del dialog
+$(dialog).dialog( "option", "width", "520px" );
+$(dialog).css('width','500px');
+$(dialog).dialog( "option", "position", "center" );
+$(dialog).find('.header').css('background-color','#FFF').css('padding','10px').find('br').remove();
+$(dialog).find('.header').before('<div style="padding:10px;border-bottom:1px solid #666;">Password scaduta</div>');
+$(dialog).find('label').remove();
+$(dialog).find('.hint:last').remove();
+$(dialog).find('#aapi-dlg-pnew').css('width','250px').before('<br/><br/>');
+$(dialog).find('#aapi-dlg-rnew').css('width','250px')
+$(dialog).closest('.ui-dialog')
+.find('.ui-dialog-buttonpane')
+.css('border','none')
+.find('.ui-button')
+.css('background-color','#EEE')
+.css('width','100px')
+.css('border','1px solid #DDD');
+
+
+
+$(dialog).find('input').css('padding','5px').css('border','1px solid #CCC').css('border-radius','5px').css('color','#666');
+}
+if(code=='accountChoiceDialog'){
+// cambio dimesioni, posizionamento e stili del dialog
+//$(dialog)
+//.dialog( "option", "width", 400)
+//.dialog( "option", "position", { my: "left top", at: "center", of: $('#login_container') } )
+//.find(' .item .codes').css('color','red');
+}
+}
+});
+});
+// richiesta login: fine
+
+$('.mylogin_button').keypress(function(e){
+if(e.which == 13){//Enter key pressed
+$('#login_button').click();//Trigger search button click event
+}
+});
+
+$('#esci').click( function() {
+$.ajax({
+url: '/home/app/default/logout.php'	,
+data: null,
+success: function(txt){
+location.replace('?sede_codice=PNII0001');
+},
+error: function(){
+location.replace('?sede_codice=PNII0001');
+}
+});
+});
+
+$('#accedi').click( function() {
+$.ajax({
+url: 'https://web.spaggiari.eu/home/app/default/logout.php'	,
+data: null,
+success: function(txt){
+window.location.href = 'https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=PNII0001';
+},
+error: function(){
+window.location.href = 'https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=PNII0001';
+}
+});
+});
+
+$('#fullcalendar_day').fullCalendar({
+'defaultView' : 'agendaDay',
+'header':{
+left:	'prev,next,    ,today',
+center:	'title',
+right:	'agendaWeek,agendaDay,month'
+},
+'firstDay': 1,
+'allDayText'        : calendar_lang.allDayText,
+'timeFormat'        : calendar_lang.timeFormat,
+'columnFormat'      : calendar_lang.columnFormat,
+'titleFormat'       : calendar_lang.titleFormat,
+'buttonText'        : calendar_lang.buttonText,
+'monthNames'        : calendar_lang.monthNames,
+'monthNamesShort'   : calendar_lang.monthNamesShort,
+'dayNames'          : calendar_lang.dayNames,
+'dayNamesShort'     : calendar_lang.dayNamesShort,
+'weekNumberTitle'   : calendar_lang.weekNumberTitle,
+'firstHour'         : '8',
+'axisFormat': 'H:mm',
+'eventSources': [{
+// your event source
+url: 'pvw_sito.php?page=calendar_feed&sede_codice=PNII0001&tipologia='
+}],
+eventRender: function(event, jqElement, view) {
+if (view.name == 'month') {
+jqElement.height(50);
+jqElement.qtip({
+content: event.title
+});
+}
+},
+dayRender: function (date, cell) {
+cell.find('div.fc-day-number').text($.fullCalendar.formatDate(date,"dd-MMMM",calendar_lang));
+}
+});
+
+$('#fullcalendar_day').fullCalendar( 'gotoDate', calendar_date.y, calendar_date.m, calendar_date.d )
+
+$('#insert_commento').click( function() {
+if($('#content_commento').val()){
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+ope: 'insert_commento',
+sede_codice: 'PNII0001',
+page: $('#page_id').val(),
+evento_codice: 'COM',
+evento_stato: 'moderare',
+evento_tipo: 'commento_pagina',
+valore: $('#content_commento').val(),
+},
+success: function(json){
+if (json.status=='OK') {
+$('#content_commento').hide();
+$('#insert_commento').hide();
+$('#content_commento').parent().append('Il tuo commento è stato inserito correttamente ed è in fase di moderazione.');
+}
+else{
+alert(json.errore);
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+}
+});
+
+$('#insert_pdc').click( function() {
+if($('#messaggio').val()){
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+ope: 'posta_del_cuore',
+sede_codice: 'PNII0001',
+nickname: $('#nickname').val(),
+valore: $('#messaggio').val(),
+},
+success: function(json){
+if (json.status=='OK') {
+$('#posta_del_cuore').hide();
+$('#posta_del_cuore').parent().append('Il tuo messaggio è stato inserito correttamente, troverai la risposta in settimana.');
+}
+else{
+alert(json.errore);
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+}
+else{
+$('#messaggio_errore').html('Non è possibile inviare un messaggio vuoto.');
+}
+});
+
+$('.mi_piace').click( function() {
+var oggetto=$(this);
+
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+ope: 'mi_piace',
+sede_codice: 'PNII0001',
+page: oggetto.attr('page_id'),
+evento_codice: 'MPC',
+evento_tipo: 'mi_piace_pagina'
+},
+success: function(json){
+if (json.status=='OK') {
+if(json.mi_piace==1){
+oggetto.find('.img_mi_piace').attr('src','../../img/liked.png');
+}
+else{
+oggetto.find('.img_mi_piace').attr('src','../../img/like.png');
+}
+
+oggetto.find('.num_mi_piace').html(json.counter);
+}
+else{
+alert(json.errore);
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+});
+});
+
+// media query change
+function WidthChange(mq) {
+$('.dropdown').removeClass('open');
+$('.navbar-collapse').removeClass('in');
+$('.login-collapse').removeClass('in');
+
+var indice_width= ($('.colonna_indice').length > 0) ? parseInt($('.colonna_indice').css('width').replace(/[^-\d\.]/g, '')) : 0;
+var widget_width= ($('.colonna_widget').length > 0) ? parseInt($('.colonna_widget').css('width').replace(/[^-\d\.]/g, '')) : 0;
+
+if ($('.colonna_indice').hasClass('hidden')) {
+indice_width=0;
+}
+
+if ($('.colonna_widget').hasClass('hidden')) {
+widget_width=0;
+}
+
+if (mq.matches) {
+// window width is at least 768px
+$('.navbar-collapse').addClass('show');
+
+$('.flusso_principale').css('margin-left', -(indice_width + widget_width) + 'px');
+$('.flusso_principale').css('left', (indice_width + widget_width) + 'px');
+$('.flusso_principale_interno').css('margin-right', (indice_width + widget_width) + 'px');
+}
+else {
+// window width is less than 768px
+$('.navbar-collapse').removeClass('show');
+$('.flusso_principale').css('margin-left', '0px');
+$('.flusso_principale').css('left', '0px');
+$('.flusso_principale_interno').css('margin-right', '0px');
+}
+}
+
+function setHandlers(){
+
+$(".link-to-file").unbind().click(function() {
+var id_doc = $(this).attr('id_doc');
+var action = $(this).attr('action');
+var sede_codice = $(this).attr('sede_codice');
+
+if (action!='' && id_doc!='') {
+if (action=='page') {
+window.location.href = "pvw_sito.php?page=" + id_doc + "&sede_codice=" + sede_codice;
+}
+else if (action=='comunicati') {
+window.location.href = "pvw_sito.php?page=" + id_doc + "&sede_codice=" + sede_codice + "&categorie=9999&visua_storico=0";
+}
+else if (action=='dcvv') {
+window.open("dcvv.php?cd=" + id_doc + "&sede_codice=" + sede_codice, "_blank");
+}
+else {
+window.open("view_documento.php?a=" + action + "&id_documento=" + id_doc + "&sede_codice=" + sede_codice, "_blank");
+}
+}
+});
+
+$('#sondaggio_show_results').unbind().click(function(){
+var id_sondaggio = $(this).attr('id_sondaggio');
+$.ajax({
+url: '?',
+data: {
+page: 'sondaggio_show_res',
+id_sondaggio:id_sondaggio
+},
+type : 'POST',
+async: false,
+timeout: 30000,
+success: function(txt){
+$('#sondaggio_main').html(txt);
+setHandlers();
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+alertUI('Errore durante il salvataggio dei dati.');
+}
+});
+});
+
+$('.sondaggio_risposta_utente').unbind().click(function(){
+var id_sondaggio = $(this).attr('id_sondaggio');
+var domanda_id = $(this).attr('domanda_id');
+var risposta_id  = $(this).attr('risposta_id');
+
+$.ajax({
+url: '?',
+data: {
+page: 'sondaggio_insert_ris',
+domanda_id: domanda_id,
+risposta_id:risposta_id,
+id_sondaggio:id_sondaggio
+},
+type : 'POST',
+async: false,
+timeout: 30000,
+success: function(txt){
+$('#sondaggio_main').html('');
+
+$.ajax({
+url: '?',
+data: {
+page: 'sondaggio_show_new',
+id_sondaggio:id_sondaggio,
+},
+type : 'POST',
+async: false,
+timeout: 30000,
+success: function(txt){
+$('#sondaggio_main').html(txt);
+setHandlers();
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+alertUI('Errore durante il salvataggio dei dati.');
+}
+});
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+alertUI('Errore durante il salvataggio dei dati.');
+}
+});
+});
+}
+
+function eventHandler(evt) {
+if (evt.type == 'addthis.menu.share') {
+console.log(evt.data); // evt.data is an object hash containing all event data
+console.log(evt.data.service); // evt.data.service is specific to the "addthis.menu.share" event
+}
+}
+
+function updateQueryStringParameter(uri, key, value) {
+var re = new RegExp("([?|&])" + key + "=.*?(&|$)", "i");
+separator = uri.indexOf('?') !== -1 ? "&" : "?";
+if (uri.match(re)) {
+return uri.replace(re, '$1' + key + "=" + value + '$2');
+}
+else {
+return uri + separator + key + "=" + value;
+}
+}
+
+// PARTE PER LA MODIFICA3
+
+//
+</script>
+
+
+<style>
+.desaturated {
+filter: grayscale(100%)!important;
+-moz-filter: grayscale(100%)!important;
+-ms-filter: grayscale(100%)!important;
+-o-filter: grayscale(100%)!important;
+filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale")!important;
+-webkit-filter: grayscale(100%)!important;
+-webkit-filter: grayscale(1)!important;
+filter: gray!important;
+}
+
+.fontsize, .fontsize h1, .fontsize h2, .fontsize  h3, .fontsize h4 , .fontsize h5, .fontsize  h6, .fontsize  p, .fontsize  li, .fontsize  label, .fontsize  input, .fontsize  select, .fontsize  textarea, .fontsize legend, .fontsize  code, .fontsize  pre , .fontsize dd, .fontsize dt, .fontsize blockquote  {
+font-size: 125% !important; line-height: 1.4;
+}
+
+.descrizione_classifica{
+font-size:14px;
+}
+
+.col-medaglia{
+width:19%;
+position: relative;
+min-height: 1px;
+padding-left: 7px!important;
+float: left;
+margin-left: 5px;
+padding-right: 5px!important;
+}
+
+h5{
+height: 61px;
+}
+
+ul.faq {
+list-style: none;
+margin: 0;
+}
+
+ul.faq li {
+margin-top: 30px;
+}
+
+ul.faq li:first-child {
+margin-top: 0;
+}
+
+ul.faq li span.number {
+display: block;
+float: left;
+width: 50px;
+height: 50px;
+line-height: 50px;
+text-align: center;
+background: #34495e;
+color: #fff;
+font-size: 24px;
+}
+
+ul.faq li > span {
+margin-left: -20px;
+}
+
+ul.faq li > div {
+margin-left: 50px;
+}
+
+ul.faq li > div h3 {
+margin-top: 0;
+}
+
+/* Espandi Collassa */
+.div-contenitore {
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+.intestazione {
+margin: 1px;
+color: #fff;
+padding: 5px 10px;
+cursor: pointer;
+position: relative;
+background-color:#c30;
+}
+
+.corpo-testo {
+padding: 15px 10px;
+background-color:#fafafa;
+}
+
+p {
+padding: 5px 0;
+}
+
+.col-post{
+width:100%;
+float:left;
+margin-left: 43px;
+}
+
+.col-img{
+width:100%;
+padding-left:5px;
+padding-right:5px;
+float:left;
+}
+
+.col-img2{
+padding-left:5px;
+padding-right:5px;
+float:right;
+}
+
+.col-post2{
+width:100%;
+float:right;
+margin-right: 43px;
+}
+
+/* Espandi Collassa */
+.div-contenitore {
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+.intestazione {
+margin: 1px;
+color: #fff;
+padding: 5px 10px;
+cursor: pointer;
+position: relative;
+background-color:#c30;
+}
+
+.corpo-testo {
+padding: 15px 10px;
+background-color:#fafafa;
+}
+
+.paragrafo_pdc {
+padding-top: 7px;
+padding-left: 5px;
+font-size: 14px!important;
+font-family: "Montserrat-Light"!important;
+}
+
+.mi_scrive{
+font-size: 25px;
+font-family: "banhart";
+color: #000;
+}
+
+.sezione{
+font-size: 35px;
+font-family: "Montserrat-Light";
+color: #000;
+}
+
+.form-group{
+font-family: "Montserrat-Light"!important;
+}
+
+.back0{
+background: #0096db!important;
+border-radius:10px;
+background-size: cover;color:#fff;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+.back1{
+border-radius:10px;
+background: #AF1554!important;
+background-size: cover;
+color:#fff;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+.back2{
+border-radius:10px;
+background: #f3cc27!important;
+border-radius:10px;
+background-size: cover;
+color:#000;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+.back3{
+background: #659A4A!important;
+border-radius:10px;
+background-size: cover;
+color:#fff;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+a.classifica {
+color: black;
+}
+
+.contenit{
+height: auto;
+width: 70%;
+}
+.contenit2{
+height: auto;
+width: 70%;
+float:right;
+}
+</style>
+
+
+
+<!-- Start GoogleAnalytics js -->
+<script>
+//GA-PVW
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-55851196-10', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End GoogleAnalytics js -->		
+</head>
+<body class="index">
+<div class="container maincontent">
+<div class="spg-top">
+
+<div id="testata-alta" class="row header">
+
+<div class="col-xs-12 col-sm-4">
+<a href="https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=PNII0001">
+<img class="logo_tagliamento" src="../../custom/PNII0001/img/logo.png" alt="Logo IIS Il Tagliamento">
+</a>
+</div>
+<div class="col-sm-4">
+
+
+</div>
+<div class="col-sm-4 hidden-xs search">
+<div class="pull-right">
+
+<form class="navbar-right" role="search">
+<div class="input-group search-shadow">
+
+<input type="text" name="cerca_sito" class="form-control" placeholder="Cerca nel sito">
+<input name="page" type="hidden" value="-2" />
+<span class="input-group-btn">
+
+<button class="btn btn-search" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+
+</span>
+
+</div>
+
+
+
+</form>
+
+</div>
+
+</div>
+
+
+<div class="school-name name-adapter" >
+<font style="color:#00374f;"> I.I.S. Il Tagliamento  </font> <font style="color:#5ea443;"> | I.T.Ag. </font> <font style="color:#2d3884;"> | I.T.I.</font> <font style="color:#c43527;"> | I.P.S.C. | I.T.E.T. </font>
+
+</div>
+
+<div class="school-name1 name-adapter">
+Via degli Alpini 1 33097 Spilimbergo | Pn
+
+</div>
+
+<div class="school-name2 name-adapter">
+PEC: pnis00400g@pec.istruzione.it | Cod.Mec. PNIS00400G | Codice univoco ufficio UFID2W
+
+</div>
+
+</div>
+
+<!--    <div class="sotto-testata-address">
+
+
+</div>-->
+
+
+
+
+
+<div class="row menu">
+<nav class="navbar navbar-ulivi" role="navigation">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav">
+<li class="hidden-sm hidden-md hidden-lg">
+<form role="search">
+<div class="input-group">
+<input type="text" name="cerca_sito" class="form" placeholder="Cerca nel sito">
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+</span>
+</div>
+</form>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Istituto <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910444" >Storia</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1967901" >Organigramma</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910450" >Dirigenza</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910454" >Organi Collegiali</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1977704" >Comitato Tecnico Scientifico </a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1973464" >Regolamenti d'Istituto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1968158" >Regolamenti per il personale</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1979228" >Qualità</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1969993" >PON</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970283" >Elenco dei siti tematici</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2081736" >Eventi </a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Didattica <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=PNII0001&amp;page=1977124" >Calendario scolastico regionale e Orario delle lezioni</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2067044" >Piano Annuale Attività</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910630" >Orientamento</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1956973" >Indirizzi di studio</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911158" >PTOF</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910704" >Contenuti essenziali di Dipartimento</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910707" >Tutorial</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1968941" >Documenti 15 maggio</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1973270" >ECDL</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910662" >Alternanza scuola lavoro</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Studenti e Genitori <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=PNII0001&amp;page=1971936" >CV studente</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911156" >Spazio ascolto</a></li>
+
+
+<li><a href="http://www.comune.spilimbergo.pn.it/sportello-dascolto/index.html" target="_blank">Sportello ascolto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910733" >Ricevimenti settimanali</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1969260" >Ricevimenti generali</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970087" >Recuperi e sportelli</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2076785" >Modulistica</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970197" >Libri di testo</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2084991" >Diploma di maturità</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Docenti e ATA <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970738" >Formazione </a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1971568" >ANARPE</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911128" >Graduatorie d'Istituto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2062447" >Bandi</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Segreteria <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910987" >Ufficio Relazioni con il Pubblico</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1904695" >Albo Pubblicità legale</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910988" >Normativa</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Azienda <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=PNII0001&amp;page=2116434" >Prodotti del mese</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910989" >Azienda agraria</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970221" >Fattoria sociale e didattica</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911102" >DO RE MI FA L'Orto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2060460" >Articolo terraèvita - 31 luglio 2017</a></li>
+
+
+</ul>
+</li>
+
+
+<li>
+<a href="?sede_codice=PNII0001&amp;page=2054470" >Intranet</a>
+</li>
+
+
+<li>
+<a href="?sede_codice=PNII0001&amp;page=1904731" >News</a>
+</li>
+
+
+<li>
+<a href="?sede_codice=PNII0001&amp;page=1911152" >Contatti</a>
+</li>
+
+
+</ul>
+</div>
+</nav>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="row pre-content">
+<div class="col-md-12">
+<ol class="breadcrumb">
+<li class="active"><a style="color:#000; font-size:14px; font-weight:bold;" href="?sede_codice=PNII0001">Home</a></li>
+
+
+
+<li class="pull-right user-bc">
+Vuoi autenticarti? [ <a id="accedi" href="#">Accedi</a> ]
+</li>
+
+
+</ol>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="row">
+<div id="slider" class="carousel slide carouselhp" data-ride="carousel">
+<!-- Wrapper for slides -->
+<div class="carousel-inner">
+
+<div class="item active">
+<a href="?sede_codice=PNII0001&amp;page=2112750" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2106804" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>Buon Natale</h4>
+
+
+
+<p>e felice 2018</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2116425" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2110103" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>INCONTRO TECNICO</h4>
+
+
+
+<p>sui principi dell'agricoltura Biologica</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2117157" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2110827" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>Bandi “Agricoltura”</h4>
+
+
+
+<p>selezione per 1 830 volontari da impiegare in progetti di servizio civile</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2108854" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2102189" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>Redazione scolastica</h4>
+
+
+
+<p>Scegli tu il nome della rivista d'Istituto</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=1977124" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2060279" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>Orario Scolastico 2017/2018</h4>
+
+
+
+<p>Orario e calendario scolastico 2017/18</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2073983" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2064547" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>Tecnico superiore per l'automazione ed i sistemi meccatronici (macchine agricole)</h4>
+
+
+
+<p>MITS Portogruaro</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2071345" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2061304" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>10^ edizione della Mostra Concorso dei Fieni</h4>
+
+
+
+<p>Regolamento</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2011720" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1991484" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>&quot;Bullismo e non solo&quot;</h4>
+
+
+
+<p>Progetto multidisciplinare delle classi 2CA-2EA-2AC</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=PNII0001&amp;page=2001350" >
+<img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1981060" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>Lean Experience Factory </h4>
+
+
+
+<p>sui temi della &quot;lean organization&quot;</p>
+
+
+</div>
+</a>
+</div>
+
+
+</div>
+<!-- Controls -->
+<a class="left carousel-control" href="#slider" data-slide="prev" style="height:95%;"></a>
+<a class="right carousel-control" href="#slider" data-slide="next" style="height:95%;"></a>
+
+</div>
+</div>
+
+
+
+
+<div class="row content">
+
+<div class="col-lg-9 col-sm-9 homepage">
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1979986"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1966012" alt="Agraria Agroalimentare e Agroindustria"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1979986">Agraria, Agroalimentare e Agroindustria</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Ami la vita all'aria aperta e sei sensibile ai temi della sostenibilità ambientale?</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1978817"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1961157" alt="Meccanica Meccatronica ed Energia"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1978817">Meccanica Meccatronica ed Energia</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Sei interessato a materie tecniche, scientifiche e tecnologiche?</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1971426"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1954906" alt="Nuovo indirizzo Tecnico Turistico"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1971426">Nuovo indirizzo Tecnico Turistico</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Sei curioso e creativo, ti piace viaggiare e comunicare con gli altri?</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-6 col-md-6 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1911158"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2104238" alt="PTOF  Piano Triennale dellOfferta Formativa"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col6"><a href="?sede_codice=PNII0001&amp;page=1911158">PTOF - Piano Triennale dell'Offerta Formativa</a></h3>
+<div class="hp_testo_flusso_principale_col6">
+<p></p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-6 col-md-6 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1956973"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1954184" alt="Indirizzi di studio"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col6"><a href="?sede_codice=PNII0001&amp;page=1956973">Indirizzi di studio</a></h3>
+<div class="hp_testo_flusso_principale_col6">
+<p>Agraria, Agroalimentare e Agrindustria - Meccanica, Meccatronica ed Energia - Turistico, Commerciale</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=2098118"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2094543" alt="Polo inclusione"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=2098118">Polo inclusione</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Nota dell’USR del FVG del 06 ottobre 2017</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1910630"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2044444" alt="Orientamento"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1910630">Orientamento</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Pagina dell'Orientamento in Entrata ed Uscita</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=2109025"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2102325" alt="SOS dislessia"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=2109025">SOS dislessia</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Scuola amica della dislessia e Ampliamente</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1911156"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1966003" alt="Spazio ascolto"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1911156">Spazio ascolto</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Servizio per promuovere il benessere psico-sociale a scuola</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1970738"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2044445" alt="Formazione Permanente"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1970738">Formazione Permanente</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>L'Istituto organizza corsi di formazione per il personale</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1977124"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2057768" alt="Orario scolastico"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1977124">Orario scolastico</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Calendario scolastico e Piantina dell'Istituto</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1970197"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1953031" alt="Libri di testo per ciascun indirizzo"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1970197">Libri di testo per ciascun indirizzo</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Elenco dei libri di testo in adozione e in comodato per l'anno scolastico 2017-2018 e link al sito AIE</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1970690"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=2099381" alt="Fax for Peace"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1970690">Fax for Peace</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Concorso internazionale sul tema della pace e della tolleranza rivolto a studenti e artisti</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="col-sm-4 col-md-4 1 sez_hidden">
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1971561"><img src="pvw_img.php?sede_codice=PNII0001&amp;doc=1982158" alt="Modulistica studenti e famiglie"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=PNII0001&amp;page=1971561">Modulistica studenti e famiglie</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Esoneri - autorizzazioni - rimborso libri di testo e trasporto scolastico - domanda stage</p>
+</div>
+
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+
+
+
+</div>
+<div class="col-sm-3 col-lg-3 widgets">
+
+
+
+<a href="https://web.spaggiari.eu/home/app/default/login.php?target=cvv&amp;mode=&amp;custcode=PNII0001"><img class="thumbnail1" src="../../img/classeviva.png" alt="ClasseViva"></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1904693"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1948180" alt=""></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1910630"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1951903" alt=""></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1910662"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=2049770" alt=""></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1971936"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1955261" alt=""></a>
+
+
+<div class="row trasparenza">
+<div class="col-xs-6 sx">
+<a href="?sede_codice=PNII0001&amp;page=1904696" style="font-size:1px; color:transparent;">
+<img style="margin-bottom:1px;" alt="logo amministrazione trasparente" title="Accesso alla sezione Amministrazione trasparente; contenuti: documenti, informazioni e dati previsti dal Decreto legislativo - 14 marzo 2013, n. 33."  class="thumbnail" src="../../img/trasparenza.png"/>
+Amministrazione Trasparente
+
+</a>
+
+
+</div>
+<div class="col-xs-6 dx">
+<a href="?sede_codice=PNII0001&amp;page=1904695" style="font-size:1px; color:transparent;">
+<img style="margin-bottom:1px;" class="thumbnail" src="../../img/albo_online.png" alt="Albo Online">
+Albo online
+</a>
+</div>
+</div>
+
+
+
+
+
+
+<a href="?sede_codice=PNII0001&amp;page=1969993"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1893849" alt=""></a>
+
+
+<a href="http://www.istruzione.it/pagoinrete/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1954044" alt="Pago in rete"></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=2103278"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=2096392" alt=""></a>
+
+
+<a href="https://www.facebook.com/ISSILTAGLIAMENTO/?ref=aymt_homepage_panel"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1961867" alt="Facebook Istituto Superiore Spilimbergo"></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1973270"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1893850" alt=""></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1970454"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1953946" alt=""></a>
+
+
+<a href="http://www.magellanopa.it/bussola/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1954176" alt="bussola della trasparenza"></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=2057705"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=2045324" alt=""></a>
+
+
+<a href="http://pprn.infoteca.it/bw5ne5/opac.aspx?web=SBCO"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1894773" alt="Biblioteca Web"></a>
+
+
+<a href="?sede_codice=PNII0001&amp;page=1910994"  class="  banner"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1895514" alt=""></a>
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSewnuxH6RFHFIsDLjwlrY0b8A33XFW1Ykwy_47Pf3knD6sa-Q/viewform?usp=sf_link"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=PNII0001&amp;doc=1954039" alt="SOS PC"></a>
+
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title"></h3>
+</div>
+<div class="panel-body">
+<div id="cal1904689" class="calendari"  data-tipologia=""></div>
+</div>
+</div>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+<div class="container footer">
+<div class="footer_text">
+<div class="row visible-sm visible-md visible-lg links">
+<div class="col-sm-12 col-md-12">
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Istituto</label><li>
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910444" >Storia</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1967901" >Organigramma</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910450" >Dirigenza</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910454" >Organi Collegiali</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1977704" >Comitato Tecnico Scientifico </a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1973464" >Regolamenti d'Istituto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1968158" >Regolamenti per il personale</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1979228" >Qualità</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1969993" >PON</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970283" >Elenco dei siti tematici</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2081736" >Eventi </a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Didattica</label><li>
+
+<li><a href="?sede_codice=PNII0001&amp;page=1977124" >Calendario scolastico regionale e Orario delle lezioni</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2067044" >Piano Annuale Attività</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910630" >Orientamento</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1956973" >Indirizzi di studio</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911158" >PTOF</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910704" >Contenuti essenziali di Dipartimento</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910707" >Tutorial</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1968941" >Documenti 15 maggio</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1973270" >ECDL</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910662" >Alternanza scuola lavoro</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Studenti e Genitori</label><li>
+
+<li><a href="?sede_codice=PNII0001&amp;page=1971936" >CV studente</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911156" >Spazio ascolto</a></li>
+
+
+<li><a href="http://www.comune.spilimbergo.pn.it/sportello-dascolto/index.html" target="_blank">Sportello ascolto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910733" >Ricevimenti settimanali</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1969260" >Ricevimenti generali</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970087" >Recuperi e sportelli</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2076785" >Modulistica</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970197" >Libri di testo</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2084991" >Diploma di maturità</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Docenti e ATA</label><li>
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970738" >Formazione </a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1971568" >ANARPE</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911128" >Graduatorie d'Istituto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2062447" >Bandi</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Segreteria</label><li>
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910987" >Ufficio Relazioni con il Pubblico</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1904695" >Albo Pubblicità legale</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910988" >Normativa</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Azienda</label><li>
+
+<li><a href="?sede_codice=PNII0001&amp;page=2116434" >Prodotti del mese</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1910989" >Azienda agraria</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1970221" >Fattoria sociale e didattica</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=1911102" >DO RE MI FA L'Orto</a></li>
+
+
+<li><a href="?sede_codice=PNII0001&amp;page=2060460" >Articolo terraèvita - 31 luglio 2017</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Intranet</label><li>
+<li><a href="?sede_codice=PNII0001&amp;page=2054470" >Intranet</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>News</label><li>
+<li><a href="?sede_codice=PNII0001&amp;page=1904731" >News</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Contatti</label><li>
+<li><a href="?sede_codice=PNII0001&amp;page=1911152" >Contatti</a></li>
+</ul>
+</div>
+
+
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12" style="text-align:right;cursor:pointer;margin-bottom:20px;">
+<img id="access_font" style="width:20px;" src="../../img/access01.png" alt="font">
+<img id="access_black" style="width:20px;" src="../../img/access03.png" alt="nero">
+<img id="access_contrast" style="width:20px;" src="../../img/access02.png" alt="contrasto">
+<img id="access_stop" style="width:20px;" src="../../img/access05.png"  alt="annulla effetti">
+</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<div class="row low-row">
+<div class="col-xs-7 col-md-10 privacy">
+<p class="info" id="prova">
+
+<strong> IIS Il Tagliamento</strong> - via degli Alpini 1, 33097 Spilimbergo (PN) <br>
+Tel. 042740392 - PEC: pnis00400g@pec.istruzione.it - Cod. Mec. PNIS00400G - Codice univoco ufficio: UFID2W
+</p>
+
+<a href="https://web.spaggiari.eu/pvw/img/legali.pdf" target="_blank" >Note legali</a>
+-
+<a href="http://www.spaggiari.eu/privacy/privacy.pdf" target="_blank">Privacy</a>
+-
+<a href="https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=PNII0001&page=-10" target="_blank">Policy sui Cookie</a>
+-
+<a href="mailto:pnis00400g@pec.istruzione.it">Comunicazioni privacy</a>
+-
+<a href="http://www.spaggiari.eu/privacy/elenco_siti_tematici.pdf" target="_blank">Elenco siti tematici</a>
+-
+<a href="http://www.istruzione.it/urp/" target="_blank">URP</a>
+
+</div>
+
+</div>
+</div>
+</div>
+<div class="row">  <br>          <div class="col-xs-1 col-md-1">
+<a href="" target="_blank"> <img src="../../img/icone social-06.png"></a>
+</div>
+<div class="col-xs-1 col-md-1">
+<a href="" target="_blank"> <img src="../../img/icone social-07.png"></a>
+</div>
+
+<br> <br>
+<!-- BACK TO TOP -->
+<a href="#0" class="cd-top">Top</a>
+<script src="../../custom/PNII0001/lib/js/main.js"></script> <!-- Gem jQuery -->
+<!-- FINE BACK TO TOP -->
+
+
+
+
+
+<div class="visualizzato_tot_volte visualizzato_tot_volte_custom">
+
+visualizzata 103177 volte
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width:100%; background-color:#000;" class="row">
+<div class="col-xs-5 prima-visione-web-float text-right pvw-adapter">
+<a class="autumn" href="#" title="Prima Visione Web - Gruppo Editoriale Spaggiari"><img src="../../img/pvb-logo-white.png" alt="Prima Visione Web"></a>
+</div> <div class="pvw_footer">  Copyright @ 2015 | Engineered and powered by Gruppo Spaggiari S.p.A. | Divisione Publishing & New Social Media | P.IVA 00150470342 <br> <br><a class="pvw_footer2"  style="color:#fff!important;"href="http://www.spaggiari.eu/privacy/privacy.pdf" target="_blank"> Company Info </a>- <a class="pvw_footer3" href="#" style="color:#fff!important;" target="_blank">Privacy</a> - <a class="pvw_footer3"  style="color:#fff!important;" href="mailto:pnis00400g@pec.istruzione.it">Comunicazioni Privacy</a></div></div>
+
+
+
+
+<!-- Start Alexa Certify js -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Pl+fk1acFH00EO", domain:"spaggiari.eu",dynamic: true};
+(function(){var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as,s);})();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Pl+fk1acFH00EO" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify js -->  	
+</body>
+</html>
+
+
+
+

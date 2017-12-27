@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice INDICE</titolo>
+    <abstract>GARE PUBBLICATE ANNO 2015 DAL 01/01/2015 AL 31/08/2015</abstract>
+    <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO D'ISTRUZIONE SUPERIORE "G.B. VICO - UMBERTO I - R. GAGLIARDI" -   - RAGUSA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SG28150/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28150/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201580003370881">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28150/2015/gare201580003370881.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201592020860885">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28150/2015/gare201592020860885.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

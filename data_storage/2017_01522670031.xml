@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Indice Pubblicazione</titolo>
+    <abstract>Pubblicazione relativa all’anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-03</dataPubblicazioneIndice>
+    <entePubblicatore>AZIENDA SANITARIA LOCALE ASL NO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-03</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://trasparenza.asl.novara.it/documents/2829052/6669286/Indice_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.asl.novara.it/documents/2829052/6669286/Dataset_2016_I.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.asl.novara.it/documents/2829052/6669286/Dataset_2016_II.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

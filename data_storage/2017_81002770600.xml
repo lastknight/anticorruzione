@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 Anno 2017</abstract>
+		<dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+		<entePubblicatore>COMUNE DI SANT'AMBROGIO SUL GARIGLIANO</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2017</annoRiferimento>
+		<urlFile>http://www.studiok.it/comuni/santambrogiogar/avcp/datasetAppalti_2017.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>Z9A16E882B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>81002770600</codiceFiscaleProp>
+				<denominazione>COMUNE DI SANT'AMBROGIO SUL GARIGLIANO</denominazione>
+			</strutturaProponente>
+			<oggetto>ABBONAMENTO LEGGI D'ITALIA TRIENNIO 2016-2019
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>WOLTERS KLUWER ITALIA SRL LEGGI D'ITALIA PROFESSIONALE</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>WOLTERS KLUWER ITALIA SRL LEGGI D'ITALIA PROFESSIONALE</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2852.46</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-30</dataInizio>
+				<dataUltimazione>2018-12-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z0E1CA4FA5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>81002770600</codiceFiscaleProp>
+				<denominazione>COMUNE DI SANT'AMBROGIO SUL GARIGLIANO</denominazione>
+			</strutturaProponente>
+			<oggetto>INCARICO DI ASSISTENZA E CONSULENZA NELLA FASE DI DETERMINAZIOINE GESTIONE ED ESECUZIONE DI TUTTI I CONTRATTI RELATIVI ALLA COPERTURA ASSICURATIVA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04387960653</codiceFiscale>
+					<ragioneSociale>LENZA BROKER ASSIOCURAZIONI</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04387960653</codiceFiscale>
+					<ragioneSociale>LENZA BROKER ASSIOCURAZIONI</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>0.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-21</dataInizio>
+				<dataUltimazione>2019-12-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

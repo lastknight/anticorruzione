@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Adempimenti LG190/2012</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2016-01-01</dataPubblicazioneIndice>
+    <entePubblicatore>CITTÀ DI TROIA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-12-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.comune.troia.fg.it/upload/cms/trasparenza/L190_AVCP_INDICE_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.comune.troia.fg.it/upload/cms/trasparenza/L190_AVCP_Dataset_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

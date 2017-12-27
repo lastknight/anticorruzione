@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 http://dati.avcp.it/schema/datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione 1 legge 190</titolo>
+		<abstract>Pubblicazione 1 legge 190 anno 1 rif. 2013</abstract>
+		<dataPubbicazioneDataset>2017-01-30</dataPubbicazioneDataset>
+		<entePubblicatore>COMUNE DI SOSSANO</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2017-01-30</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://l190.unionebassovicentino.it/2016/avcp_dataset_sossano_2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>Z0C19F70B8</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Esecuzione lavori agricoli su terreni comunali in localita' Prati Comunali</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00851200246</codiceFiscale>
+					<ragioneSociale>Montesello Gianfranco e Luigi s.n.c. con sede in Sossano (VI</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00851200246</codiceFiscale>
+					<ragioneSociale>Montesello Gianfranco e Luigi s.n.c. con sede in Sossano (VI</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>7800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-20</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZC91A383E5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo polizze cauzioni a favore dell'Amministrazione Prov.le di Vicenza per lavori effettuati su suolo provinciale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00875360018</codiceFiscale>
+					<ragioneSociale>REALE MUTUA ASSICURAZIONI</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00875360018</codiceFiscale>
+					<ragioneSociale>REALE MUTUA ASSICURAZIONI</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>103.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-08</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZC91A383E5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo polizze cauzioni a favore dell'Amministrazione Prov.le di Vicenza per lavori effettuati su suolo provinciale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05380900968</codiceFiscale>
+					<ragioneSociale>ZURICH INSURANCE DI GRENDENE ASSICURAZIONI SNC</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05380900968</codiceFiscale>
+					<ragioneSociale>ZURICH INSURANCE DI GRENDENE ASSICURAZIONI SNC</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>103.30</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-08</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3B1A6E793</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Spese legali vertenza SIT</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>11220251000</codiceFiscale>
+					<ragioneSociale>STUDIO LEGALE MANZI E ASSOCIATI</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>11220251000</codiceFiscale>
+					<ragioneSociale>STUDIO LEGALE MANZI E ASSOCIATI</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2620.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8F1A73B01</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Trasferimento servizio connettivita'</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02508710247</codiceFiscale>
+					<ragioneSociale>Telemar S.P.A.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02508710247</codiceFiscale>
+					<ragioneSociale>Telemar S.P.A.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>205.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-29</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z321A7B211</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA PRODOTTO DA SEMINA &quot;SOIA DA SEME&quot;.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00163060247</codiceFiscale>
+					<ragioneSociale>COOPSEMENTI SOC. COOP. AGRICOLA </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00163060247</codiceFiscale>
+					<ragioneSociale>COOPSEMENTI SOC. COOP. AGRICOLA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7E1ABA7C4</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA FASCIE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FGGRRT74M13F464Y</codiceFiscale>
+					<ragioneSociale>FAGGIONATO ROBERTO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FGGRRT74M13F464Y</codiceFiscale>
+					<ragioneSociale>FAGGIONATO ROBERTO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>260.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-07-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB1BA8391</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CORONE DI ALLORO PER RICORRENZA IV NOVEMBRE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02362990240</codiceFiscale>
+					<ragioneSociale>FERRARO SNC DI FERRARO ARNEODO &amp; C</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02362990240</codiceFiscale>
+					<ragioneSociale>FERRARO SNC DI FERRARO ARNEODO &amp; C</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>150.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-10-19</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8B1809309</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80014630240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80014630240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB3184F6A6</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione di Sollievo D.A. </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DMRNGL29C30B923Q</codiceFiscale>
+					<ragioneSociale>D'Amore Angelo</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DMRNGL29C30B923Q</codiceFiscale>
+					<ragioneSociale>D'Amore Angelo</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA1184F6B3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione di Sollievo F.M. </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FRNMRA39M44C544P</codiceFiscale>
+					<ragioneSociale>Franceschetto Maria</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FRNMRA39M44C544P</codiceFiscale>
+					<ragioneSociale>Franceschetto Maria</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>850.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF31A6BA10</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione di Sollievo F.M. - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FRNMRA39M44C544P</codiceFiscale>
+					<ragioneSociale>Franceschetto Maria</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FRNMRA39M44C544P</codiceFiscale>
+					<ragioneSociale>Franceschetto Maria</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>450.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZED1A6BB63</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;San Giuseppe&quot; di Orgiano_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80008610240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;San Giuseppe&quot; di Orgiano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80008610240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;San Giuseppe&quot; di Orgiano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z941A6BBE9</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80014630240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80014630240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2650.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z621A6BC29</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;Don Simionati e Cav. Soattin&quot; di Barbarano Vicentino_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00842830242</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;Don Simionati e Cav. Soattin&quot; di Barbarano Vicentino</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00842830242</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;Don Simionati e Cav. Soattin&quot; di Barbarano Vicentino</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEA1A6BC8A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Prestazione di INTEGRAZIONE SCOLASTICA HCP 2014 per G.G. e D.G.D.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>GRFLGU56P26E249I</codiceFiscale>
+					<ragioneSociale>Garofano Luigi                                                                                 </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>GRFLGU56P26E249I</codiceFiscale>
+					<ragioneSociale>Garofano Luigi                                                                                 </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEA1A6BC8A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Prestazione di INTEGRAZIONE SCOLASTICA HCP 2014 per G.G. e D.G.D.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DGBRRT71P12E290Z</codiceFiscale>
+					<ragioneSociale>De Gobbi Roberto</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DGBRRT71P12E290Z</codiceFiscale>
+					<ragioneSociale>De Gobbi Roberto</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF11A6BD72</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione Integrativa di Trasporto SOMS - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00623310240</codiceFiscale>
+					<ragioneSociale>Societa' Operaia di Mutuo Soccorso di Barbarano - Mossano - Villaga</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00623310240</codiceFiscale>
+					<ragioneSociale>Societa' Operaia di Mutuo Soccorso di Barbarano - Mossano - Villaga</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z2A1A6BDBC</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione Integrativa di Trasporto AIRONE - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03507750242</codiceFiscale>
+					<ragioneSociale>Associazione di promozione sociale Airone</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03507750242</codiceFiscale>
+					<ragioneSociale>Associazione di promozione sociale Airone</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZCA1A6EAD2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014 Giallogioia_Esternalizzazione Sportello</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03904410242</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>23700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z181A6EAE3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione Integrativa Giallogioia - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>11500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z391A6EAF5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione Integrativa Casa Bianca - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01856170244</codiceFiscale>
+					<ragioneSociale>Casa Bianca Societa' Cooperativa Sociale</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01856170244</codiceFiscale>
+					<ragioneSociale>Casa Bianca Societa' Cooperativa Sociale</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>14250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5A1A6EB07</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014_Prestazione di Sollievo D.A. - PROROGA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DMRNGL29C30B923Q</codiceFiscale>
+					<ragioneSociale>D'Amore Angelo</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DMRNGL29C30B923Q</codiceFiscale>
+					<ragioneSociale>D'Amore Angelo</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>850.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z701C5F7BC</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014 Giallogioia_Esternalizzazione Sportello (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>21500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA41C5F806</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014 - Airone prestazioni integrative (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03507750242</codiceFiscale>
+					<ragioneSociale>Associazione di promozione sociale Airone</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03507750242</codiceFiscale>
+					<ragioneSociale>Associazione di promozione sociale Airone</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZBE1C5F82B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014 - SOMS prestazioni integrative (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00623310240</codiceFiscale>
+					<ragioneSociale>Societa' Operaia di Mutuo Soccorso di Barbarano - Mossano - Villaga</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00623310240</codiceFiscale>
+					<ragioneSociale>Societa' Operaia di Mutuo Soccorso di Barbarano - Mossano - Villaga</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z101C5F855</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014 - Casa Bianca prestazioni integrative (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01856170244</codiceFiscale>
+					<ragioneSociale>Casa Bianca Societa' Cooperativa Sociale</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01856170244</codiceFiscale>
+					<ragioneSociale>Casa Bianca Societa' Cooperativa Sociale</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>13200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z1F1C5F874</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Progetto Home Care Premium 2014 - GialloGioia prestazioni integrative (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03904410243</codiceFiscale>
+					<ragioneSociale>GialloGioia Societa' Cooperativa Sociale</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3D1C5F8B2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;San Giuseppe&quot; di Orgiano_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 (Proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80008610240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;San Giuseppe&quot; di Orgiano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80008610240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;San Giuseppe&quot; di Orgiano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEC1C5F8CD</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80014630240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80014630240</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;A. Michelazzo&quot; di Sossano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z501C5F8EA</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80006390241</codiceFiscaleProp>
+				<denominazione>Comune di Sossano</denominazione>
+			</strutturaProponente>
+			<oggetto>Casa di Riposo &quot;Don Simionati e Cav. Soattin&quot; di Barbarano Vicentino_PRESTAZIONE INTEGRATIVA - PROGETTO HOME CARE PREMIUM 2014 (proroga 01/01/17 - 30/06/17)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00842830242</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;Don Simionati e Cav. Soattin&quot; di Barbarano Vicentino</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00842830242</codiceFiscale>
+					<ragioneSociale>Casa di Riposo &quot;Don Simionati e Cav. Soattin&quot; di Barbarano Vicentino</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

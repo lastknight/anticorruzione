@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 http://avcp.rup.cr.it/bundles/rupavcp/xsd/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione n.1/2015 legge 190</titolo>
+    <abstract>Pubblicazione legge 190, dataset 1 relativo all'anno 2015</abstract>
+    <dataPubbicazioneDataset>2016-01-28</dataPubbicazioneDataset>
+    <entePubblicatore>Comune di Corte De&#039; Frati</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-28</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.unionedeicomuni.cr.it/sites/default/files/UnioneDeiComuni/dataset-2015-CORTE.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+      <lotto>
+      <cig>Z5F1615B24</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00323930198</codiceFiscaleProp>
+        <denominazione>Comune di Corte De&#039; Frati</denominazione>
+      </strutturaProponente>
+      <oggetto>IMPEGNO DI SPESA PER INCARICO PROFESSIONALE FRAZIONAMENTO AREE DEL COMUNE DI CORTE DE’ FRATI DA ALIENARE – STUDIO TECNICO GEOMETRA FILIPPO BONOLDI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+                    <partecipante>
+                      <codiceFiscale>BNLFPP78H29D150K</codiceFiscale>
+                    <ragioneSociale>Studio Tecnico Geometra Filippo Bonoldi</ragioneSociale>
+        </partecipante>
+            </partecipanti>
+      <aggiudicatari>
+                    <aggiudicatario>
+                      <codiceFiscale>BNLFPP78H29D150K</codiceFiscale>
+                    <ragioneSociale>Studio Tecnico Geometra Filippo Bonoldi</ragioneSociale>
+        </aggiudicatario>
+            </aggiudicatari>
+      <importoAggiudicazione>1395.68</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-16</dataInizio>
+        <dataUltimazione>2015-12-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1015.04</importoSommeLiquidate>
+    </lotto>
+      <lotto>
+      <cig>ZF912B6C82</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00323930198</codiceFiscaleProp>
+        <denominazione>Comune di Corte De&#039; Frati</denominazione>
+      </strutturaProponente>
+      <oggetto>AGGIORNAMENTO INVENTARIO DEL PATRIMONIO COMUNALE AL 31/12/2014 - DITTA MAD DI GAVARDO (BS)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+                    <partecipante>
+                      <codiceFiscale>00638910984</codiceFiscale>
+                    <ragioneSociale>MAD SRL</ragioneSociale>
+        </partecipante>
+            </partecipanti>
+      <aggiudicatari>
+                    <aggiudicatario>
+                      <codiceFiscale>00638910984</codiceFiscale>
+                    <ragioneSociale>MAD SRL</ragioneSociale>
+        </aggiudicatario>
+            </aggiudicatari>
+      <importoAggiudicazione>462.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-02</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>462.00</importoSommeLiquidate>
+    </lotto>
+    </data>
+</legge190:pubblicazione>

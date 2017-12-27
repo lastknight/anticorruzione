@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune</abstract>
+   <dataPubblicazioneIndice>2016-02-08</dataPubblicazioneIndice>
+   <entePubblicatore>Comune</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-08</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21118/21118indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_017390C1-991E-4380-9BEF-98FA9C109649'>
+      <linkDataset>http://data.gvcc.net/avcp/21118/017390C1-991E-4380-9BEF-98FA9C109649.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-08</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_92C21D7A-AA79-4315-909E-05FBC704AA6B'>
+      <linkDataset>http://data.gvcc.net/avcp/21118/92C21D7A-AA79-4315-909E-05FBC704AA6B.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_480E4F20-F2A1-41B8-9DCA-DD0620E3CC1B'>
+      <linkDataset>http://data.gvcc.net/avcp/21118/480E4F20-F2A1-41B8-9DCA-DD0620E3CC1B.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_2D8C534D-04E7-49DC-BE7B-50BC485A523A'>
+      <linkDataset>http://data.gvcc.net/avcp/21118/2D8C534D-04E7-49DC-BE7B-50BC485A523A.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

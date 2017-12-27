@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' > 
+<metadata>
+<titolo>PUBBLICAZIONE DATI AVCP</titolo>
+<abstract></abstract>
+<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+<entePubblicatore>AUTORITA' PORTUALE DI PAELRMO</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2017</annoRiferimento>
+<urlFile>http://www.portpalermo.it/avcp/2017/datasetIndiceAppalti_2017.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id='ID_1'>
+<linkDataset>http://www.portpalermo.it/avcp/2017/dataset1.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_2'>
+<linkDataset>http://www.portpalermo.it/avcp/2017/dataset2.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_3'>
+<linkDataset>http://www.portpalermo.it/avcp/2017/dataset3.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_4'>
+<linkDataset>http://www.portpalermo.it/avcp/2017/dataset4.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_5'>
+<linkDataset>http://www.portpalermo.it/avcp/2017/dataset5.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_6'>
+<linkDataset>http://www.portpalermo.it/avcp/2017/dataset6.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

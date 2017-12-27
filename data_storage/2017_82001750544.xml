@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-28</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Spello</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-28</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c054050/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>Z8615B8A84</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>82001750544</codiceFiscaleProp>
+			<denominazione>COMUNE DI SPELLO</denominazione>
+		</strutturaProponente>
+		<oggetto>Indizione di gara con procedura negoziata. Appalto per anni due del servizio di ritracciatura di segnaletica stradale orizzontale. Nomina commissione di gara.</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>03098250545</codiceFiscale>
+					<ragioneSociale>AP Service srl</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03103050542</codiceFiscale>
+					<ragioneSociale>CMB Service srl</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02530270541</codiceFiscale>
+					<ragioneSociale>FB Segnaletica Stradale srl</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02730460546</codiceFiscale>
+					<ragioneSociale>Segnal Sistem srl</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02255630549</codiceFiscale>
+					<ragioneSociale>Simoss srl</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03383060542</codiceFiscale>
+					<ragioneSociale>Vertical srl</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-15</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8617527E4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>82001750544</codiceFiscaleProp>
+			<denominazione>COMUNE DI SPELLO</denominazione>
+		</strutturaProponente>
+		<oggetto>Acquisto materiale informatico e software relativo all'applicazione &quot;Multa&quot; per le necessit della polizia municipale. Impegno di spesa</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>Grafiche E. Gaspari srl</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>GASPARI GRAFICHE S.R.L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>4782.40</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-02</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

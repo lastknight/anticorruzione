@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Kuens/Comune di Caines</abstract>
+   <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Kuens/Comune di Caines</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21014/21014indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_A0E0CA10-4647-4125-8546-FBE9E3A54748'>
+      <linkDataset>http://data.gvcc.net/avcp/21014/A0E0CA10-4647-4125-8546-FBE9E3A54748.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_14531E5D-E70A-47D3-B4A3-BC14985743B2'>
+      <linkDataset>http://data.gvcc.net/avcp/21014/14531E5D-E70A-47D3-B4A3-BC14985743B2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>REGIONE EMILIA-ROMAGNA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-03-09</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://wwwservizi.regione.emilia-romagna.it/trasparenza/AVCP/RER_AL_2017-01-31.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://wwwservizi.regione.emilia-romagna.it/trasparenza/AVCP/RER_AL_2017-01-31_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-09</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://wwwservizi.regione.emilia-romagna.it/trasparenza/AVCP/RER_AL_2017-01-31_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-09</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://wwwservizi.regione.emilia-romagna.it/trasparenza/AVCP/RER_AL_2017-01-31_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-09</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

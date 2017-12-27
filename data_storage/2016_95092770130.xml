@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<!--[if IE 8]>			<html class="ie ie8"> <![endif]-->
+<!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
+
+	<head>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.cfpcomo.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/it/node/1" />
+<link rel="canonical" href="/it/home-page" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+	  	<title>CFP Como | Home Page</title>
+
+	  	<meta name="keywords" content="servizi per il lavoro, formazione, corsi di qualifica, diplomi">
+		<meta name="description" content="CFP Como è il punto di riferimento per la formazione professionale favorendo l’inserimento nel mercato del lavoro, nel sistema scolastico e universitario.">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Libs CSS -->
+		<link rel="stylesheet" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/css/fonts/font-awesome/css/font-awesome.css">
+		<link rel="stylesheet" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/css/swiper.min.css">
+
+		<script>
+			window.paceOptions = {
+				ajax: false,
+				restartOnRequestAfter: false,
+	  			restartOnPushState: false,
+			}
+		</script>
+
+		<style type="text/css" media="all">
+@import url("http://www.cfpcomo.com/sites/all/modules/simplenews/simplenews.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/modules/date/date_api/date.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/modules/filebrowser/css/filebrowser_style.css?p1axu2");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.cfpcomo.com/sites/all/modules/facebook_pull/facebook_pull.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/lightgallery/css/lightgallery.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/css/swiper.min.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/modules/webform/css/webform.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/libraries/fontawesome/css/font-awesome.css?p1axu2");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#0779BF;}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/css/bootstrap.min.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/css/app.css?p1axu2");
+@import url("http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/css/editor.css?p1axu2");
+</style>
+	  	<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/misc/drupal.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/misc/form.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/misc/ajax.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/default/files/languages/it_41s8Jx_NzvMya0GHGa_WZMGhwFX2PguBUOtIR3Ap6dw.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/views/js/base.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/misc/progress.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/views/js/ajax_view.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/views_load_more/views_load_more.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/webform/js/webform.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/pace.min.js?p1axu2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"it\/","ajaxPageState":{"theme":"cfpcomo","theme_token":"tb4SrTdtA3hyQY7msZwyQzyPaGxWweT9TJR7cbCmlv8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"public:\/\/languages\/it_41s8Jx_NzvMya0GHGa_WZMGhwFX2PguBUOtIR3Ap6dw.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/views_load_more\/views_load_more.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/themes\/cfpcomo\/assets\/js\/pace.min.js":1},"jquery_version":"1.10","css":{"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/filebrowser\/css\/filebrowser_style.css":1,"sites\/all\/modules\/facebook_pull\/facebook_pull.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/themes\/cfpcomo\/assets\/lightgallery\/css\/lightgallery.css":1,"sites\/all\/themes\/cfpcomo\/assets\/css\/swiper.min.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"0":1,"sites\/all\/themes\/cfpcomo\/assets\/css\/bootstrap.min.css":1,"sites\/all\/themes\/cfpcomo\/assets\/css\/app.css":1,"sites\/all\/themes\/cfpcomo\/assets\/css\/editor.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EUtilizzando il sito, accetti che questo possa impostare cookie per consentire una migliore navigazione.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, accetto\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ECookie policy\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003ENascondi\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMaggiori informazioni\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/it\/cookie-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"it","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"urlIsAjaxTrusted":{"\/it\/home-page":true,"\/it\/views\/ajax":true,"\/it\/system\/ajax":true},"better_exposed_filters":{"views":{"slideshow_home":{"displays":{"default":{"filters":[]}}},"news_in_evidenza":{"displays":{"default":{"filters":[]}}},"news_carousel":{"displays":{"default":{"filters":[]}}}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:a8e93574082486b07f695a191da231ec":{"view_name":"news_in_evidenza","view_display_id":"default","view_args":"","view_path":"node\/1","view_base_path":null,"view_dom_id":"a8e93574082486b07f695a191da231ec","pager_element":0},"views_dom_id:e1765fe9eeb28936da4b6199b41613c5":{"view_name":"news_carousel","view_display_id":"default","view_args":"","view_path":"node\/1","view_base_path":"node\/1","view_dom_id":"e1765fe9eeb28936da4b6199b41613c5","pager_element":0}}},"ajax":{"edit-webform-ajax-submit-674":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-674","progress":{"message":"","type":"throbber"},"event":"click","url":"\/it\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Invia"}}}});
+//--><!]]>
+</script>
+	  	<script>
+	    	var GlobalApp = GlobalApp || {};
+	    	GlobalApp.THEME = 'http://www.cfpcomo.com/sites/all/themes/cfpcomo/';
+			GlobalApp.ASSETS_IMGS = GlobalApp.THEME+'/assets/imgs';
+			GlobalApp.BASE_URL = "http://www.cfpcomo.com";
+			GlobalApp.BASE_URL_LANG = "http://www.cfpcomo.com/it/";
+	    		  	</script>
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/ico" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="57x57" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/manifest.json">
+		<link rel="mask-icon" href="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/safari-pinned-tab.svg" color="#000000">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-TileImage" content="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/favicons/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+
+		<!-- Web Fonts  -->
+		
+		<!-- Head Libs -->
+		<script src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/modernizr.js"></script>
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+				
+	</head>
+
+	<body class="html front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-pagina i18n-it"  data-spy="scroll" data-offset="110">
+		<!-- MOBILE MENU -->
+		<div id="cs-collapse-nav">
+			<a id="cs-collapse-close" href="#"></a>
+			<div class="cfpup-btn-wrapper">
+				<a class="cfp-up-btn" href="http://upcfpcomo.com/">
+					CFPUP
+					<i class="fa fa-lock" aria-hidden="true"></i>
+				</a>
+				<a class="cfp-home-btn" href="http://www.cfpcomo.com">HOME</a>
+			</div>
+		</div>
+
+		<div id="app-container">
+			<div id="wrapper">
+				<header id="header">
+	<div class="container">
+		<div class="row no-gutters">
+			<div id="brand" class="col-sm-2">
+				<a id="logo" href="http://www.cfpcomo.com" title="CFP Como" rel="home">CFP Como</a>
+				<a id="logo-mini" href="http://www.cfpcomo.com" title="CFP Como" rel="home">CFP Como</a>
+			</div>
+
+			<div id="top-bar-header" class="col-sm-10">
+				<div class="right-wrapper">
+					<div id="socials">
+						<ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/scuolacfpcomo/" title="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li class="leaf"><a href="https://www.youtube.com/channel/UC_sAwGhjIa8ONCmirqwBcDQ" title="" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+<li class="last leaf"><a href="https://www.instagram.com/cfpcomo/" title="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+</ul>					</div>
+					<div class="cfpup-btn-wrapper">
+						<a class="cfp-up-btn" href="http://upcfpcomo.com/">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</a>
+					</div>
+					<div class="ddl-corsi-wrapper">
+						<label>Corsi e servizi</label>
+						
+						<div id="dropdown-elenco-corsi-wrapper">
+							<a id="btn-elenco-corsi" href="#">Scegliere</a>
+							<div id="dropdown-elenco-corsi">
+																<ul class="menu"><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti" title="Genitori e studenti" class="accordion-toggle">Genitori e studenti</a><div class="sub-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma" title="Corsi di qualifica e diploma" class="accordion-toggle">Corsi di qualifica e diploma</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/cucina" title="Cucina">Cucina</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/sala-e-bar" title="Sala e bar">Sala e bar</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/panificazione-e-pasticceria" title="Panificazione e pasticceria">Panificazione e pasticceria</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/acconciatura" title="Acconciatura">Acconciatura</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/estetica" title="Estetica">Estetica</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/calendario-festivit%C3%A0-e-vacanze">Calendario festività e vacanze</a></li>
+</ul></div></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18" title="Disoccupati over 18" class="accordion-toggle">Disoccupati over 18</a><div class="sub-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/servizi-il-lavoro" title="Servizi per il lavoro" class="accordion-toggle">Servizi per il lavoro</a><div class="sub-menu"><ul><li class="first last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/servizi-il-lavoro/servizi-il-lavoro" title="Servizi per il lavoro">Servizi per il lavoro</a></li>
+</ul></div></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/formazione" title="Formazione" class="accordion-toggle">Formazione</a><div class="sub-menu"><ul><li class="first last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/formazione/ristorativo-alberghiero" title="Ristorativo - Alberghiero">Ristorativo - Alberghiero</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/offerte-di-lavoro" title="Offerte di lavoro">Offerte di lavoro</a></li>
+</ul></div></li>
+<li class="last expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende" title="Aziende" class="accordion-toggle">Aziende</a><div class="sub-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/tirocinio" class="accordion-toggle">Tirocinio</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/tirocinio/tirocinio-curriculare">Curriculare</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/tirocinio/tirocinio-extra-curriculare">Extra curriculare</a></li>
+</ul></div></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/apprendistato-di-1%C2%B0-livello-articolo-43">Apprendistato di 1° livello (Articolo 43)</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/apprendistato-di-2%C2%B0-livello-articolo-44-0">Apprendistato di 2° livello (Articolo 44)</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/ricerca-lavoro-e-personale">Ricerca lavoro e personale</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/formazione-continua">Formazione continua</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/eventi-e-seminari">Eventi e seminari</a></li>
+</ul></div></li>
+</ul>							</div>
+						</div>
+
+					</div>
+					<div class="search-wrapper">
+						<label>Cerca</label>
+						<form action="/it/home-page" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Form di ricerca</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Cerca </label>
+ <input title="Inserisci i termini da cercare." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="search-button form-submit" type="submit" id="edit-submit" name="op" value="" /></div><input type="hidden" name="form_build_id" value="form-y4HQXfG3jrtA6Y8zD9_JMku5gKs5aaAZ6lxNmvWeaG0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>					</div>
+				</div>
+			</div>
+			<div id="bottom-bar-header" class="col-sm-10">
+				<!-- NAVIGATION -->
+				<div id="navigation">
+					<a id="logo-mini" href="http://www.cfpcomo.com"></a>
+					<nav id="nav-main">
+						<ul class="menu"><li class="first expanded dropdown"><div class="toggle-sub-menu"></div><a href="/it/cfp" class="dropdown-toggle" data-toggle="dropdown">CFP<span class="plus"></span></a><div class="dropdown-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/chi-siamo">Chi Siamo</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/amministratore-unico">Amministratore unico</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/accreditamenti-qualit%C3%A0">Accreditamenti / Qualità</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/il-nostro-staff">Il Nostro staff</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/statuto-regolamenti-codice-etico-e-piano-programma">Statuto, regolamenti, codice etico e piano programma</a></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/cfp/carta-dei-servizi-e-pof" class="accordion-toggle">Carta dei servizi e POF</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/carta-dei-servizi-e-pof/la-carta-dei-servizi">La carta dei servizi</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/carta-dei-servizi-e-pof/pof">POF</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/cfp/link-utili">Link Utili</a></li>
+</ul></div></li>
+<li class="expanded dropdown"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente-legge-332013" class="dropdown-toggle" data-toggle="dropdown">Amministrazione trasparente<span class="plus"></span></a><div class="dropdown-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201718" title="Bandi 2017/18" class="accordion-toggle">Bandi 2017/18</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201718/split-payment">Split Payment</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201718/acquisti-fornitori" title="Acquisti Fornitori">Acquisti Fornitori</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201718/risorse-umane" title="Risorse Umane">Risorse Umane</a></li>
+</ul></div></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201617" title="Bandi 2016/17" class="accordion-toggle">Bandi 2016/17</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201617/acquisti-fornitori" title="Acquisti Fornitori">Acquisti Fornitori</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente/bandi-201617/risorse-umane" title="Risorse Umane">Risorse Umane</a></li>
+</ul></div></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/node/698/adempimenti-legge-19012" class="accordion-toggle">Adempimenti legge 190/12</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/node/698/adempimenti-legge-19012/responsabile-della-prevenzione-della-corruzione">Responsabile della Prevenzione della Corruzione</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/node/698/adempimenti-legge-19012/altri-contenuti-corruzione">Altri Contenuti - Corruzione</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/node/698/adempimenti-legge-19012/piano-triennale-la-prevenzione-della-corruzione">Piano Triennale per la Prevenzione della Corruzione</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/amministrazione-trasparente-legge-332013/compilance-231-modello-ogc-odv">Compilance 231 - Modello OGC - ODV</a></li>
+</ul></div></li>
+<li class="expanded dropdown"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi" class="dropdown-toggle" data-toggle="dropdown">Corsi e servizi<span class="plus"></span></a><div class="dropdown-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti" title="Genitori e studenti" class="accordion-toggle">Genitori e studenti</a><div class="sub-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma" title="Corsi di qualifica e diploma" class="accordion-toggle">Corsi di qualifica e diploma</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/cucina" title="Cucina">Cucina</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/sala-e-bar" title="Sala e bar">Sala e bar</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/panificazione-e-pasticceria" title="Panificazione e pasticceria">Panificazione e pasticceria</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/acconciatura" title="Acconciatura">Acconciatura</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/corsi-di-qualifica-e-diploma/estetica" title="Estetica">Estetica</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/genitori-e-studenti/calendario-festivit%C3%A0-e-vacanze">Calendario festività e vacanze</a></li>
+</ul></div></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18" title="Disoccupati over 18" class="accordion-toggle">Disoccupati over 18</a><div class="sub-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/servizi-il-lavoro" title="Servizi per il lavoro" class="accordion-toggle">Servizi per il lavoro</a><div class="sub-menu"><ul><li class="first last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/servizi-il-lavoro/servizi-il-lavoro" title="Servizi per il lavoro">Servizi per il lavoro</a></li>
+</ul></div></li>
+<li class="expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/formazione" title="Formazione" class="accordion-toggle">Formazione</a><div class="sub-menu"><ul><li class="first last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/formazione/ristorativo-alberghiero" title="Ristorativo - Alberghiero">Ristorativo - Alberghiero</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/disoccupati-over-18/offerte-di-lavoro" title="Offerte di lavoro">Offerte di lavoro</a></li>
+</ul></div></li>
+<li class="last expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende" title="Aziende" class="accordion-toggle">Aziende</a><div class="sub-menu"><ul><li class="first expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/tirocinio" class="accordion-toggle">Tirocinio</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/tirocinio/tirocinio-curriculare">Curriculare</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/tirocinio/tirocinio-extra-curriculare">Extra curriculare</a></li>
+</ul></div></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/apprendistato-di-1%C2%B0-livello-articolo-43">Apprendistato di 1° livello (Articolo 43)</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/apprendistato-di-2%C2%B0-livello-articolo-44-0">Apprendistato di 2° livello (Articolo 44)</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/ricerca-lavoro-e-personale">Ricerca lavoro e personale</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/formazione-continua">Formazione continua</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/corsi-e-servizi/aziende/eventi-e-seminari">Eventi e seminari</a></li>
+</ul></div></li>
+</ul></div></li>
+<li class="expanded dropdown"><div class="toggle-sub-menu"></div><a href="/it/progetti" class="dropdown-toggle" data-toggle="dropdown">Progetti<span class="plus"></span></a><div class="dropdown-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/progetti/azioni-di-sistema">Azioni di Sistema</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/progetti/progetti-fase-di-sviluppo">Progetti in fase di sviluppo</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/progetti/progetto-riorganizzazione">Progetto riorganizzazione</a></li>
+</ul></div></li>
+<li class="expanded dropdown"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0" class="dropdown-toggle" data-toggle="dropdown">Internazionalità<span class="plus"></span></a><div class="dropdown-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/partenariato">Partenariato</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/erasmus">Erasmus +</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/apprendisti-europa">Apprendisti in Europa</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/progetti-regionali">Progetti regionali (Internazionalizzazione)</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/tirocinio-formativo-giovani-europei">Tirocinio formativo per Giovani Europei</a></li>
+<li class="last expanded dropdown-submenu"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/progetti-conclusi" class="accordion-toggle">Progetti conclusi</a><div class="sub-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/progetti-conclusi/progetti-leonardo">Progetti Leonardo</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/progetti-conclusi/progetti-erasmus">Progetti Erasmus</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/progetti-conclusi/progetti-interreg">Progetti Interreg</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/internazionalit%C3%A0/progetti-conclusi/progetti-internazionali">Progetti Internazionali</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/node/799/tirocinio-formativo-di-giovani-europei">Tirocinio Formativo di Giovani Europei</a></li>
+</ul></div></li>
+</ul></div></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/news-eventi">News &amp; Eventi</a></li>
+<li class="expanded dropdown"><div class="toggle-sub-menu"></div><a href="/it/media-room" class="dropdown-toggle" data-toggle="dropdown">Media Room<span class="plus"></span></a><div class="dropdown-menu"><ul><li class="first leaf"><div class="toggle-sub-menu"></div><a href="/it/media-room/dicono-di-noi">Dicono di Noi</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/media-room/photo-gallery">Photo Gallery</a></li>
+<li class="leaf"><div class="toggle-sub-menu"></div><a href="/it/media-room/video-gallery">Video Gallery</a></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/media-room/area-download">Area Download</a></li>
+</ul></div></li>
+<li class="last leaf"><div class="toggle-sub-menu"></div><a href="/it/dove-siamo-contatti">Contatti</a></li>
+</ul>					</nav>
+				</div>
+				<!-- /NAVIGATION -->
+				<!-- LANGUAGE SELECTOR -->
+				<div id="lang-selector">
+					<div id="lang_sel"><a class="lang_sel_sel" href="#"><span class="flag flag-it">it</span></a><div id="lang-dropdown"><ul><li><a href="http://www.cfpcomo.com/it/home-page"><span class="flag flag-it">it</span></a></li></ul>				</div>
+
+				<button id="cs-collapse-btn" class="btn" type="button"> 
+					<span class="icon-bar-txt">MENU</span>
+					<span class="icon-bar-container">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span> 
+						<span class="icon-bar"></span> 
+						<span class="icon-bar"></span>
+					</span>
+				</button>
+
+				<!-- <a id="cs-collapse-btn" href="#"><i class="icon icon-bars"></i></a> -->
+			</div>
+		</div>
+	</div>
+</header>
+
+
+<div id="home-slider" class="row no-gutters">
+	<div class="col-md-8">
+		<div class="view view-slideshow-home view-id-slideshow_home view-display-id-default view-dom-id-3464e64affdd7d5693c08456a122088a">
+        
+  
+  
+      <div class="view-content">
+      <div class="swiper-container">
+	<div class="swiper-wrapper">
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"><span class="date-display-single">22/12/2017</span></div>
+			
+						<div class="title">LABORATORI DI ORIENTAMENTO PER ALLIEVI DELLA TERZA MEDIA  A.F. 2018-2019 </div>
+			
+						<div class="text">Come anticipato in occasione dell’Open Day del 16 dicembre 2017, il Centro di Formazione Professionale organizza un...</div>
+			
+			<a class="btn" href="/news/laboratori-di-orientamento-allievi-della-terza-media-af-2018-2019">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/slide_default.jpg');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"><span class="date-display-single">17/12/2017</span></div>
+			
+						<div class="title">AVVISO INTERNAZIONALITA&#039; IV ANNI ALTERNANZA</div>
+			
+						<div class="text">Si pubblica in allegato ilò BANDO/AVVISO per ESPERIENZE DI INTERNAZIONALITA' rivolto agli allievi delle Classi IV in...</div>
+			
+			<a class="btn" href="/news/avviso-internazionalita-iv-anni-alternanza">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/news/immagini/GIAPPONE.JPG');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"><span class="date-display-single">12/11/2017</span></div>
+			
+						<div class="title">CALENDARIO SERATE A TAVOLA 2017 / 18</div>
+			
+						<div class="text">In questa pagina trovate in allegato il CALENDARIO PER GLI EVENTI 2017&nbsp;/ 2018: Cene d'Autore (GRANDI CHEF) e i...</div>
+			
+			<a class="btn" href="/evento/calendario-serate-tavola-2017-18">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/eventi/immagini/Serate%20a%20Tavola.JPG');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"><span class="date-display-single">11/12/2017</span></div>
+			
+						<div class="title">GIORNATE DI APPROFONDIMENTO E STUDIO - SETTORE BENESSERE (ESTETICA)</div>
+			
+						<div class="text">Giornate di approfondimento e di Studio - Settore Estetica: qui di seguito è possibile scaricare la BROCHURE dell'...</div>
+			
+			<a class="btn" href="/news/giornate-di-approfondimento-e-studio-settore-benessere-estetica">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/news/immagini/estetica_3.jpg');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"><span class="date-display-single">15/12/2017</span></div>
+			
+						<div class="title">L&#039;ARTISTA LEONARDO GERMINARIO E IL DONO DEL PRESEPE AL C.F.P.</div>
+			
+						<div class="text">Leonardo Germinario, in arte Leo Germi, della classe 1926, nasce a di Santeramo in Colle (Ba). La sua passione per l’...</div>
+			
+			<a class="btn" href="/photogallery/lartista-leonardo-germinario-e-il-dono-del-presepe-al-cfp">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/photogallery/IMG_9894%20%28BN%29.JPG');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"></div>
+			
+						<div class="title">Erasmus +</div>
+			
+						<div class="text">TIROCINI IN EUROPA: IL PROGRAMMA ERASMUS PLUS
+ 
+
+Cinquanta studenti dei terzi e dei quarti anni possono scegliere, ogni...</div>
+			
+			<a class="btn" href="/internazionalità/erasmus">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/ERASMUS_ok.jpg');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"></div>
+			
+						<div class="title">IL BAR A 360° ed. 2017 / 2018</div>
+			
+						<div class="text">Descrizione
+Il CFP di Como propone il corso “IL BAR A 360°”, un’offerta formativa dedicata a chi vuole acquisire le...</div>
+			
+			<a class="btn" href="/corsi-e-servizi/disoccupati-over-18/formazione/ristorativo-alberghiero/il-bar-360°-ed-2017-2018">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/corsi/immagini-header/BAR.jpg');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"></div>
+			
+						<div class="title">TECNICHE DI PASTICCERIA ed. 2017 / 2018</div>
+			
+						<div class="text">Descrizione Corso
+Il corso si pone l’obiettivo di formare la figura professionale dell’aiuto pasticcere attraverso...</div>
+			
+			<a class="btn" href="/corsi-e-servizi/disoccupati-over-18/formazione/ristorativo-alberghiero/tecniche-di-pasticceria-ed">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/corsi/immagini-header/PAST.jpg');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"></div>
+			
+						<div class="title">SCUOLA DI CUCINA - ed. 2017 / 2018</div>
+			
+						<div class="text">Aspetti Generali
+Il corso è rivolto alle persone che per necessità lavorativa o per diletto personale vogliono...</div>
+			
+			<a class="btn" href="/corsi-e-servizi/disoccupati-over-18/formazione/ristorativo-alberghiero/scuola-di-cucina-ed-2017-2018">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/default/files/corsi/immagini-header/CUCINA.jpg');"></div>
+		  </div>
+				  <div class="swiper-slide">
+		    
+			<div class="content-slide" data-swiper-parallax="-1000">
+
+						<div class="data"><span class="date-display-single">18/12/2017</span></div>
+			
+						<div class="title">Scheda interesse Corsi di QUALIFICA/DIPLOMA e ALTERNANZA / APPRENDISTATO Art.43</div>
+			
+						<div class="text">Sei interessato ad iscrivere tuo figlio/a presso il nostro CFP per un CORSO DI QUALIFCA TRIENNALE ?
+Voui iscrivere tuo...</div>
+			
+			<a class="btn" href="/news/scheda-interesse-corsi-di-qualificadiploma-e-alternanza-apprendistato-art43">leggi tutto</a>
+
+		</div>
+	
+<div class="immagine-slide" style="background-image:url('http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/imgs/slide_default.jpg');"></div>
+		  </div>
+			</div>
+
+	<div class="swiper-pagination"></div>
+</div>
+	
+
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>	</div>
+	<div class="col-md-4">
+		<div class="view view-news-in-evidenza view-id-news_in_evidenza view-display-id-default view-dom-id-a8e93574082486b07f695a191da231ec">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+
+
+<div class="content-slide" data-swiper-parallax="-1000">
+
+		<div class="date"><span class="date-display-single">22/12/2017</span></div>
+	
+		<div class="title"><a href="/it/news/laboratori-di-orientamento-allievi-della-terza-media-af-2018-2019">LABORATORI DI ORIENTAMENTO PER ALLIEVI...</a></div>
+	
+		<div class="text">Come anticipato in occasione dell’Open Day del 16 dicembre 2017, il Centro di Formazione...</div>
+	
+	<a class="btn" href="/news/laboratori-di-orientamento-allievi-della-terza-media-af-2018-2019">
+		<span class="more-info-label">leggi tutto</span>
+	</a>
+
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+
+
+<div class="content-slide" data-swiper-parallax="-1000">
+
+		<div class="date"><span class="date-display-single">21/12/2017</span></div>
+	
+		<div class="title"><a href="/it/news/orario-16-settimana-settore-alimentazione-e-benessere">ORARIO 16^ SETTIMANA SETTORE...</a></div>
+	
+		<div class="text">Si pubblica l'orario della 16^ settimana Settore Alimentazione  e Settore Benessere</div>
+	
+	<a class="btn" href="/news/orario-16-settimana-settore-alimentazione-e-benessere">
+		<span class="more-info-label">leggi tutto</span>
+	</a>
+
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    
+
+
+<div class="content-slide" data-swiper-parallax="-1000">
+
+		<div class="date"><span class="date-display-single">20/12/2017</span></div>
+	
+		<div class="title"><a href="/it/news/orario-15-settimana-alternanza-apprendistato">ORARIO 15^ SETTIMANA ALTERNANZA /...</a></div>
+	
+		<div class="text">Si pubblica l'orario della 15 ^ settimana dei percorsi in Alternanza / Apprendistato </div>
+	
+	<a class="btn" href="/news/orario-15-settimana-alternanza-apprendistato">
+		<span class="more-info-label">leggi tutto</span>
+	</a>
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>	</div>
+</div>
+
+<div id="content">
+	<section>
+
+		<div class="field field-name-field-sezioni field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="row-txt" style="background-color:#ffffff;">
+	<div style="padding:80px 0;">
+		<div class="container">
+			<div class="row">
+				
+					<div class="col-md-4">
+						<div class="txt">
+							<h3><span style="color:#3498db;">CENTRO<br />
+FORMAZIONE<br />
+PROFESSIONALE</span><br /><span style="color:#666666;">COMO</span></h3>
+						</div>
+					</div>
+					<div class="col-md-8">
+												<div class="txt">
+							<p class="rtejustify">Dal 1972 CFP è il punto di riferimento per la formazione professionale che rappresenta un percorso&nbsp;di studi che consente al tempo stesso l’inserimento nel mercato del lavoro e la possibilità di rientrare&nbsp;nel sistema scolastico e universitario, acquisendo la mentalità secondo cui continuare ad apprendere,&nbsp;anche dopo l’ingresso nel mondo del lavoro, è la chiave del proprio successo professionale e personale.</p>
+
+<h4><span class="cfp_margine_sopra_30px"><span class="cfp_margine_sotto_30px"><span class="cfp_testo_light">Il C.F.P. è accreditato dalla Regione Lombardia ad operare nei settori:</span></span></span></h4>
+
+<ul>
+	<li>Formazione, Orientamento (D.D. Istruzione Formazione e Lavoro n. 13095 del 8 settembre 2005)</li>
+	<li>Lavoro (Iscrizione Albo n. 0064 del 29 gennaio 2008</li>
+</ul>
+						</div>
+											</div>
+
+								</div>
+		</div>
+	</div>
+</div>
+</div><div class="field-item odd"><div class="row-tre-box-home" style="background-color:#ffffff;">
+
+	<div style="padding:20px 0;">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-4">
+										<a class="row-tre-box-home-item" href="/it/corsi-e-servizi/genitori-e-studenti">
+											<span style="background-color:#00A3F1;">
+														<span class="icona"><img src="http://www.cfpcomo.com/sites/default/files/styles/thumbnail/public/home/boxes/icons/icon-box-1.png?itok=ItqidJOD"></span>
+							
+														<span class="testo"><h6>Sai già cosa farai da grande?<br />
+<br />
+Qual&nbsp;è la scelta giusta<br />
+per il futuro professionale<br />
+di tuo figlio/a?</h6>
+</span>
+							
+														<span class="titolo"><h4><span class="cfp_maiuscolo"><span class="cfp_testo_light">Informazioni<br />
+utili <span class="cfp_testo_bold">per GENITORI<br />
+E STUDENTI</span></span></span></h4>
+</span>
+													</span>
+										</a>
+									</div>
+
+				<!--  -->
+
+
+				<div class="col-md-4">
+										<a class="row-tre-box-home-item" href="/it/corsi-e-servizi/disoccupati-over-18">
+											<span style="background-color:#86827B;">
+														<span class="icona"><img src="http://www.cfpcomo.com/sites/default/files/styles/thumbnail/public/home/boxes/icons/icon-box-2.png?itok=2bN6FU1O"></span>
+							
+														<span class="testo"><h6>Sei in cerca&nbsp;<br />
+di un impiego<br />
+e non riesci a trovarlo?</h6>
+</span>
+							
+														<span class="titolo"><h4><span class="cfp_maiuscolo"><span class="cfp_testo_light">Informazioni&nbsp;<br />
+utili <span class="cfp_testo_bold">per&nbsp;<br />
+disoccupati</span></span></span></h4>
+</span>
+													</span>
+										</a>
+									</div>
+
+				<!--  -->
+				
+				<div class="col-md-4">
+										<a class="row-tre-box-home-item" href="/it/corsi-e-servizi/aziende">
+											<span style="background-color:#79C12F;">
+														<span class="icona"><img src="http://www.cfpcomo.com/sites/default/files/styles/thumbnail/public/home/boxes/icons/icon-box-3.png?itok=ZM1HseG4"></span>
+							
+														<span class="testo"><h6>Cerchi personale da inserire&nbsp;<br />
+nell’organico aziendale?</h6>
+
+<h6>Hai bisogno di organizzare&nbsp;<br />
+un corso di formazione?</h6>
+</span>
+							
+														<span class="titolo"><h4><span class="cfp_maiuscolo"><span class="cfp_testo_light">Informazioni&nbsp;<br />
+utili <span class="cfp_testo_bold">PER<br />
+le aziende</span></span></span></h4>
+</span>
+													</span>
+										</a>
+									</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+</div><div class="field-item even"><div class="row-laboratori-ed-eventi-home" style="background-color:#ffffff;">
+
+	<div style="padding:50px 0;">
+		<div class="container">
+
+						<div class="row">
+				<div class="col-md-12 laboratori-ed-eventi-title">
+					<h1>Laboratori ed eventi</h1>
+				</div>
+			</div>
+			
+			<div class="row gutters-10 laboratori-ed-eventi-top-row">
+
+				<div class="col-md-8">
+										<a class="row-laboratori-ed-eventi-home-item box-1" href="/it/corsi-e-servizi/disoccupati-over-18/formazione/ristorativo-alberghiero">
+											<span class="image-bg" style="background-image:url('http://www.cfpcomo.com/sites/default/files/styles/large/public/home/boxes/bg/h-box-1.jpg?itok=Odv0zCHB');"></span>
+						<span class="box-multiply-layer" style="background-color:#C10808;"></span>
+						<span class="box-content">	
+							<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+														<span class="titolo"><p><span class="cfp_testo_bold">Progetti</span><br />
+per il futuro</p>
+</span>
+																					<span class="testo"><p>CORSI A CATALOGO: Scopri la nostra Proposta</p>
+</span>
+													</span>
+										</a>
+									</div>
+
+				<!--  -->
+
+				<div class="col-md-4">
+
+										<a class="row-laboratori-ed-eventi-home-item box-2" href="http://www.cucinalariana.com/">
+											<span class="image-bg" style="background-image:url('http://www.cfpcomo.com/sites/default/files/styles/large/public/home/boxes/bg/h-box-2_0.jpg?itok=8nIvbJpk');"></span>
+						<span class="box-opacity-layer" style="background-color:#ffffff;"></span>
+						<span class="box-content">	
+							<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+														<span class="testo"><p class="cfp_testo_grande_bianco"><span style="color:#000000;"><span style="font-size:14px;"><span class="cfp_titolo_regular"><strong>Scopri il Portale della CUCINA DEL LAGO DI COMO</strong></span></span></span></p>
+</span>
+																					<span class="titolo"><p>CUCINA<br />
+<span class="cfp_testo_bold">LARIANA</span></p>
+</span>
+													</span>
+										</a>
+										
+				</div>
+
+			</div>
+			<div class="row gutters-10 laboratori-ed-eventi-bottom-row">
+				
+				<div class="col-md-8">
+
+										<a class="row-laboratori-ed-eventi-home-item box-3 half-height" href="/it/corsi-e-servizi/disoccupati-over-18/offerte-di-lavoro">
+											<span class="image-bg" style="background-image:url('http://www.cfpcomo.com/sites/default/files/styles/large/public/home/Fotolia_54750641_L.jpg?itok=fBbvModr');"></span>
+						<span class="box-multiply-layer" style="background-color:#586d78;"></span>
+						<span class="box-content">		
+							<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+														<span class="titolo"><p><strong><font face="ProximaNova-Bold, sans-serif">IN EVIDENZA</font></strong></p>
+</span>
+							
+														<span class="testo"><p><span style="font-size: 1em;">AZIENDE DEL SETTORE CHE ASSUMONO! Scopri di più sulla nostra Bacheca</span></p>
+</span>
+													</span>
+										</a>
+					
+					<!--  -->
+
+					<div class="row gutters-10 half-height">
+						<div class="col-md-6">
+														<a class="row-laboratori-ed-eventi-home-item box-5" href="/it/media-room/photo-gallery">
+															<span class="image-bg" style="background-image:url('http://www.cfpcomo.com/sites/default/files/styles/large/public/home/boxes/bg/PH_GALLERY.jpg?itok=8eJ7iXPV');"></span>
+								<span class="bottom-bar" style="background-color:#C10808"></span>
+								<span class="box-content">	
+									<span class="bottom-bar-content">
+																				<span class="testo"><p>Sfoglia la nostra GALLERIA FOTOGRAFICA</p>
+</span>
+										
+																				<span class="titolo"><p><span class="cfp_testo_bold">PHOTO</span> GALLERY</p>
+</span>
+																			</span>
+								</span>
+														</a>
+													</div>
+						<div class="col-md-6">
+														<a class="row-laboratori-ed-eventi-home-item box-6" href="/it/media-room/video-gallery">
+															<span class="image-bg" style="background-image:url('http://www.cfpcomo.com/sites/default/files/styles/large/public/home/boxes/bg/VIDEO_Gallery.jpg?itok=fbIt6XYW');"></span>
+								<span class="box-content">
+									<span class="bottom-bar">
+																				<span class="testo"><p>Visiona la&nbsp;nostra&nbsp;RASSEGNA VIDEO&nbsp;</p>
+</span>
+										
+																				<span class="titolo"><p><span class="cfp_testo_bold">VIDEO</span> GALLERY</p>
+</span>
+																			</span>
+								</span>
+														</a>
+													</div>
+					</div>
+
+				</div>
+
+				<!--  -->
+	
+				<div class="col-md-4">
+
+					<a class="row-laboratori-ed-eventi-home-item box-4" href="http://www.cfpcomo.com/it/evento/scuola-aperta-open-day-20172018">
+						<span class="image-bg" style="background-image:url('http://www.cfpcomo.com/sites/default/files/styles/large/public/home/boxes/bg/cfp.JPG?itok=LnEbP_MS');"></span>
+						<span class="box-multiply-layer" style="background-color:#aeb3a7;"></span>
+						<span class="box-content">
+							
+														<span class="titolo-item">L&#039;evento del mese</span>
+														
+														<span class="centered-box">
+								<span class="titolo">Scuola Aperta!  OPEN DAY 2017/2018: </span>
+								<span class="testo"><p>Il Centro di Formazione di Como è lieto di INVITARVI ALLA <strong>GIORNATA DELLA SCUOLA APERTA (OPEN DAY) il giorno SABATO 16 DICEMBRE 2017 dalle ore 14:0...</strong></p></span>
+							</span>
+														<span class="bottom-bar">
+								<span class="titolo"><span class="cfp_testo_bold">Scopri<br></span>l'evento</span>
+								<i class="fa fa-chevron-right" aria-hidden="true"></i>
+							</span>
+						</span>
+					</a>
+
+					
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+</div><div class="field-item odd"><div class="row-txt" style="background-color:#ffffff;">
+	<div style="padding:30px 0;">
+		<div class="container">
+			<div class="row">
+									<div class="col-md-12">
+												<div class="txt">
+							<h2 class="cfp_titolo_sezione rtecenter"><span style="color:#c0392b;">In primo piano</span></h2>
+						</div>
+											</div>
+					
+							</div>
+		</div>
+	</div>
+</div>
+</div><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-pb-vista">
+  <div class="content">
+    <div class="field field-name-field-vista field-type-viewfield field-label-hidden"><div class="field-items"><div class="field-item even"><div class="view view-news-carousel view-id-news_carousel view-display-id-default view-dom-id-e1765fe9eeb28936da4b6199b41613c5">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="news-carousel">
+	<div class="swiper-container">
+		<div class="swiper-wrapper">
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/laboratori-di-orientamento-allievi-della-terza-media-af-2018-2019">
+						<span class="date"><span class="date-display-single">22/12/2017</span></span>
+			
+						<span class="title">LABORATORI DI ORIENTAMENTO PER ALLIEVI...</span>
+			
+						<span class="text">Come anticipato in occasione dell’Open Day del 16 dicembre 2017, il Centro di Formazione Professionale organizza un percorso di orientamento destinato ai ragazzi interessati a iscriversi ai percorsi previsti per l’Anno Formativo 2018 - 2019.
+
+In allegato tutte le INDICAZIONI per i genitori
+
+La...</span>
+					</a>
+		<a class="view-more-btn" href="/news/laboratori-di-orientamento-allievi-della-terza-media-af-2018-2019">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/orario-16-settimana-settore-alimentazione-e-benessere">
+						<span class="date"><span class="date-display-single">21/12/2017</span></span>
+			
+						<span class="title">ORARIO 16^ SETTIMANA SETTORE...</span>
+			
+						<span class="text">Si pubblica l'orario della 16^ settimana Settore Alimentazione&nbsp; e Settore Benessere</span>
+					</a>
+		<a class="view-more-btn" href="/news/orario-16-settimana-settore-alimentazione-e-benessere">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/orario-15-settimana-alternanza-apprendistato">
+						<span class="date"><span class="date-display-single">20/12/2017</span></span>
+			
+						<span class="title">ORARIO 15^ SETTIMANA ALTERNANZA /...</span>
+			
+						<span class="text">Si pubblica l'orario della 15 ^ settimana dei percorsi in Alternanza / Apprendistato&nbsp;</span>
+					</a>
+		<a class="view-more-btn" href="/news/orario-15-settimana-alternanza-apprendistato">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/scheda-interesse-corsi-di-qualificadiploma-e-alternanza-apprendistato-art43">
+						<span class="date"><span class="date-display-single">18/12/2017</span></span>
+			
+						<span class="title">Scheda interesse Corsi di QUALIFICA/...</span>
+			
+						<span class="text">Sei interessato ad iscrivere tuo figlio/a presso il nostro CFP per un CORSO DI QUALIFCA TRIENNALE ?
+Voui iscrivere tuo figlio/a ad un QUARTO ANNO (ORDINAMENTALE - DUALE)&nbsp; o in Apprendistato ?
+
+COMPILA&nbsp;i moduli che trovi in allegato qui sotto per&nbsp;segnalare il tuo&nbsp;interesse e...</span>
+					</a>
+		<a class="view-more-btn" href="/news/scheda-interesse-corsi-di-qualificadiploma-e-alternanza-apprendistato-art43">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/avviso-internazionalita-iv-anni-alternanza">
+						<span class="date"><span class="date-display-single">17/12/2017</span></span>
+			
+						<span class="title">AVVISO INTERNAZIONALITA&#039; IV ANNI...</span>
+			
+						<span class="text">Si pubblica in allegato ilò BANDO/AVVISO per ESPERIENZE DI INTERNAZIONALITA' rivolto agli allievi delle Classi IV in ALTERNANZA SCUOLA LAVORO.
+
+Per info e adesioni:
+
+
+c_bernasconi@cfpcomo.com
+
+c_dallariva@cfpcomo.com
+
+
+La Direzione</span>
+					</a>
+		<a class="view-more-btn" href="/news/avviso-internazionalita-iv-anni-alternanza">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/giornate-di-approfondimento-e-studio-settore-benessere-estetica">
+						<span class="date"><span class="date-display-single">11/12/2017</span></span>
+			
+						<span class="title">GIORNATE DI APPROFONDIMENTO E STUDIO -...</span>
+			
+						<span class="text">Giornate di approfondimento e di Studio - Settore Estetica: qui di seguito è possibile scaricare la BROCHURE dell'evento previsto presso il CFP di Como&nbsp;
+
+- 15 gennaio 2018
+
+- 22 gennaio 2018
+
+&nbsp;</span>
+					</a>
+		<a class="view-more-btn" href="/news/giornate-di-approfondimento-e-studio-settore-benessere-estetica">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/colloqui-con-i-genitori-0">
+						<span class="date"><span class="date-display-single">06/12/2017</span></span>
+			
+						<span class="title">COLLOQUI CON I GENITORI</span>
+			
+						<span class="text">Qui di seguito pubblichiamo le date dei colloqui con i genitori, suddivisi per Settore e Annualità.
+</span>
+					</a>
+		<a class="view-more-btn" href="/news/colloqui-con-i-genitori-0">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/grandi-chef-al-cfp-pietro-volontè-sabato-2-dicembre-2017">
+						<span class="date"><span class="date-display-single">23/11/2017</span></span>
+			
+						<span class="title">GRANDI CHEF AL CFP: Pietro Volontè -...</span>
+			
+						<span class="text">LO STELLATO PIETRO VOLONTE' APRE LA RASSEGNA DEI GRANDI CHEF AL CFP
+&nbsp;
+Classe ‘85, Pietro Volontè nasce in una famiglia di gastronomi e in lui è subito forte la passione per la cucina. Ex allievo del CFP, annovera numerose ed importanti esperienze internazionali: “Da Candida” a Campione d’...</span>
+					</a>
+		<a class="view-more-btn" href="/news/grandi-chef-al-cfp-pietro-volontè-sabato-2-dicembre-2017">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" style="background-image:url('http://www.cfpcomo.com/sites/default/files/news/immagini/CAS_9928.jpg');">
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/orario-corsi-iv-alternanza-apprendistato">
+						<span class="date"><span class="date-display-single">22/11/2017</span></span>
+			
+						<span class="title">ORARIO CORSI IV ALTERNANZA APPRENDISTATO</span>
+			
+						<span class="text">Viene pubblicato l'Orario Settimanale - Settore Ristorativo / Alberghiero, Agroalimentare e Settore Benessere.
+</span>
+					</a>
+		<a class="view-more-btn" href="/news/orario-corsi-iv-alternanza-apprendistato">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+						  <div class="swiper-slide">
+			    
+
+
+<div class="row no-gutter">
+	<div class="col-md-5 nc-info">
+		<a href="/news/cfp-radio">
+						<span class="date"><span class="date-display-single">22/10/2017</span></span>
+			
+						<span class="title">CFP IN RADIO </span>
+			
+						<span class="text">  Il CFP ha deciso di collaborare con l'emittente radiofonica CiaoComo realizzando la trasmissione   "CFP in radio"   Il progetto si pone come obiettivo di offrire agli Allievi la possibilità di collaborare in prima persona all'organizzazione e alla gestione di un progetto didatticamente innovativo...</span>
+					</a>
+		<a class="view-more-btn" href="/news/cfp-radio">
+			+<span class="more-info-label">scopri <span class="text-highlight">di più</span></span>
+		</a>
+	</div>
+	<div class="col-md-7 nc-img" >
+	</div>
+</div>
+
+			  </div>
+					</div>
+        <div class="cfp-pagination"></div>
+        <div class="cfp-gallery-next"></div>
+        <div class="cfp-gallery-prev"></div>
+	</div>
+</div>
+
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div>  </div>
+</div>
+</div><div class="field-item odd"><div class="mondo-social">
+	<div class="mondo-social-titolo">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+											<h2>Dal Mondo Social</h2>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-4">
+
+						<div class="social-media-item">
+							<div class="social-media-item-icon">
+								<a href="https://www.facebook.com/scuolacfpcomo/" title="" target="_blank">
+									<i class="fa fa-facebook" aria-hidden="true"></i>
+								</a>
+							</div>
+							<div class="facebook-widget">
+								<ul class="facebook-feed">
+  <li class="item">
+      <span class="facebook-feed-picture"><img alt="CFP Como" src="//graph.facebook.com/661750170695162/picture" /></span>
+    <span class="facebook-feed-from"><a href="//facebook.com/profile.php?id=661750170695162">CFP Como</a></span>
+        <span class="facebook-feed-message">
+      E&#039; esattamente così che vogliamo ricordare il maestro Gualtiero Marchesi: mentre faceva ciò che tanto amava.
+In cucina, parlando di cucina, trasmettendo generosamente la sua arte ai giovani aspiranti chef, con un perfetto equilibrio fra rigore e simpatia.
+I suoi piatti continueranno a parlare, per lui.                    <a href="https://www.facebook.com/scuolacfpcomo/photos/a.671567936380052.1073741828.661750170695162/685672048302974/?type=3" target="_blank"><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/26047409_685672048302974_4881321057239508065_n.jpg?oh=506f3ccb34ab21c63f8897b5930093a3&amp;oe=5AFE671A" /></a>                </span>
+    <span class="facebook-feed-time">
+              1 ora 11 min ago.          </span>
+  </li>
+  <li class="item">
+      <span class="facebook-feed-picture"><img alt="CFP Como" src="//graph.facebook.com/661750170695162/picture" /></span>
+    <span class="facebook-feed-from"><a href="//facebook.com/profile.php?id=661750170695162">CFP Como</a></span>
+        <span class="facebook-feed-message">
+      Buon viaggio ai nostri allievi e ai loro tutor che oggi tornano dopo un mese all&#039;estero in tirocinio con il progetto Ersamus. 
+Questo sarà un Natale ancora più intenso, certamente pieno di emozioni contrastanti. Siamo orgogliosi di voi✌️                      </span>
+    <span class="facebook-feed-time">
+              4 giorni 15 ore ago.          </span>
+  </li>
+</ul>
+							</div>		
+						</div>
+
+					</div>
+					<div class="col-md-4">
+
+						<div class="social-media-item">
+							<div class="social-media-item-icon">
+								<a href="https://www.youtube.com/channel/UC_sAwGhjIa8ONCmirqwBcDQ" title="" target="_blank">
+									<i class="fa fa-youtube" aria-hidden="true"></i>
+								</a>
+							</div>
+
+							<div class="youtube-channel-widget">
+
+							<div class="video-container">
+							                <iframe width="720" height="405" src="https://www.youtube-nocookie.com/embed/jMF2qRAZBy0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+							            </div><div class="video-container">
+							                <iframe width="720" height="405" src="https://www.youtube-nocookie.com/embed/WOzHizlfa-o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+							            </div>							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4">
+						
+						<div class="social-media-item">
+							<div class="social-media-item-icon">
+								<a href="https://www.instagram.com/cfpcomo/" title="" target="_blank">
+									<i class="fa fa-instagram" aria-hidden="true"></i>
+								</a>
+							</div>
+
+							
+							<!-- <div class="row"> -->
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/BcwiITFANWi/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c31.0.257.257/25010718_657602674409953_4304755389028630528_n.jpg"></a>
+									</div>
+									
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/BcrWyunA7GJ/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/25023046_199384320633961_8369493578761633792_n.jpg"></a>
+									</div>
+									
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/BcVITjzAHeo/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/24838352_851984451592912_8609534009535365120_n.jpg"></a>
+									</div>
+									
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/Bb9283Dg8fw/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c130.0.819.819/23969466_134305393955982_5647481720467881984_n.jpg"></a>
+									</div>
+									
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/Bb64I1kAmIf/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/24125536_262421164283496_130296817995743232_n.jpg"></a>
+									</div>
+									
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/Bb3yjMmgIIe/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.810.810/23969711_462576054138033_7979646737402822656_n.jpg"></a>
+									</div>
+									
+								
+									<div class="col-xs-4" style="padding:1px">
+										<a class="thumb-instagram" href="https://www.instagram.com/p/Bbwy-9SA8xs/" target="_blank"><img class="img-responsive" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/23734997_376968266092095_4413999711858458624_n.jpg"></a>
+									</div>
+									
+															<!-- </div> -->
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div></div></div></div>
+	</section>
+</div>
+<div id="footer">
+	<footer>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<div class="footer-col-padder footer-col-padder-frist">
+						<div id="brand" class="col-sm-2">
+							<a id="logo" href="http://www.cfpcomo.com" title="CFP Como" rel="home">CFP Como</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="footer-col-padder">
+						<div class="footer-box">
+							<p><strong>Agenzia per la Formazione,<br />l&#39;Orientamento ed il Lavoro<br />della Provincia di Como<br />Centro di Formazione Professionale</strong></p><p><br />CFP Como - Via Bellinzona, 88<br />Como Monte Olimpino (CO)<br />Tel 031/571055 031/574000<br />P.IVA 03095420133 - Cod.Fisc. 95092770130</p>						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="footer-col-padder">
+						<div class="footer-box footer-box-form">
+							<h4>NEWSLETTER</h4>
+
+							<div class="row">
+								<div id="webform-ajax-wrapper-674"><form class="webform-client-form webform-client-form-674" action="/it/home-page" method="post" id="webform-client-form-674" accept-charset="UTF-8"><div><fieldset class="webform-component-fieldset col-md-6 webform-component--colonna-1 form-wrapper"><legend><span class="fieldset-legend">Colonna 1</span></legend><div class="fieldset-wrapper"><div  class="form-item webform-component webform-component-textfield webform-component--colonna-1--nome-e-cognome">
+  <label class="element-invisible" for="edit-submitted-colonna-1-nome-e-cognome">Nome e cognome <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input required="required" placeholder="Nome e cognome" type="text" id="edit-submitted-colonna-1-nome-e-cognome" name="submitted[colonna_1][nome_e_cognome]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+</div></fieldset>
+<fieldset class="webform-component-fieldset col-md-6 webform-component--colonna-2 form-wrapper"><legend><span class="fieldset-legend">Colonna 2</span></legend><div class="fieldset-wrapper"><div  class="form-item webform-component webform-component-newsletter-email webform-component--colonna-2--e-mail">
+  <label class="element-invisible">E-Mail </label>
+ <div class="form-item form-type-textfield form-item-submitted-colonna-2-e-mail-newsletter-email-address">
+ <input placeholder="E-Mail" type="text" id="edit-submitted-colonna-2-e-mail-newsletter-email-address" name="submitted[colonna_2][e_mail][newsletter_email_address]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div id="edit-submitted-colonna-2-e-mail-newsletter-selection" class="form-checkboxes"><div class="form-item form-type-checkbox form-item-submitted-colonna-2-e-mail-newsletter-selection-13">
+ <input type="checkbox" id="edit-submitted-colonna-2-e-mail-newsletter-selection-13" name="submitted[colonna_2][e_mail][newsletter_selection][13]" value="13" class="form-checkbox" />  <label class="option" for="edit-submitted-colonna-2-e-mail-newsletter-selection-13">CFP Como newsletter </label>
+
+</div>
+<div class="form-item form-type-checkbox form-item-submitted-colonna-2-e-mail-newsletter-selection-47">
+ <input type="checkbox" id="edit-submitted-colonna-2-e-mail-newsletter-selection-47" name="submitted[colonna_2][e_mail][newsletter_selection][47]" value="47" class="form-checkbox" />  <label class="option" for="edit-submitted-colonna-2-e-mail-newsletter-selection-47">Newsletter 2 </label>
+
+</div>
+</div>
+</div>
+</div></fieldset>
+<fieldset class="webform-component-fieldset col-md-12 webform-component--colonna-full form-wrapper"><legend><span class="fieldset-legend">Colonna full</span></legend><div class="fieldset-wrapper"><div  class="form-item webform-component webform-component-markup webform-component--colonna-full--privacy">
+ <p>Ai sensi e per gli effetti degli articoli 7, 13 e 23 del D.Lgs. n. 196/2003, dichiaro di aver preso visione dell’<a class="disclaimer no-animation" href="node/729" target="_blank">informativa</a>&nbsp;di CFP Como sul trattamento dei dati personali.</p>
+
+</div>
+<div  class="form-item webform-component webform-component-checkboxes webform-component--colonna-full--acconsento">
+  <label class="element-invisible" for="edit-submitted-colonna-full-acconsento">Acconsento <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <div id="edit-submitted-colonna-full-acconsento" class="form-checkboxes"><div class="form-item form-type-checkbox form-item-submitted-colonna-full-acconsento-1">
+ <input required="required" type="checkbox" id="edit-submitted-colonna-full-acconsento-1" name="submitted[colonna_full][acconsento][1]" value="1" class="form-checkbox" />  <label class="option" for="edit-submitted-colonna-full-acconsento-1">Acconsento </label>
+
+</div>
+</div>
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-14iXWLgZCKLjG4mu-JrwbEdwQANp2udfVPKuGxB2sB8" />
+<input type="hidden" name="form_id" value="webform_client_form_674" />
+<input type="hidden" name="webform_ajax_wrapper_id" value="webform-ajax-wrapper-674" />
+<div class="form-actions"><input class="webform-submit button-primary form-submit" type="submit" id="edit-webform-ajax-submit-674" name="op" value="Invia" /></div></div></form></div>							</div>
+			           	</div>
+			        </div>
+				</div>
+				<div class="col-md-3">
+					<div class="footer-col-padder footer-col-padder-last">
+						<div id="footer-navigation">
+
+							<ul id="main-menu-level-2-id" class="links"><li class="menu-458 first"><a href="/it/cfp">CFP</a></li>
+<li class="menu-967"><a href="/it/amministrazione-trasparente-legge-332013">Amministrazione trasparente</a></li>
+<li class="menu-547"><a href="/it/corsi-e-servizi">Corsi e servizi</a></li>
+<li class="menu-595"><a href="/it/progetti">Progetti</a></li>
+<li class="menu-596"><a href="/it/internazionalit%C3%A0">Internazionalità</a></li>
+<li class="menu-597"><a href="/it/news-eventi">News &amp; Eventi</a></li>
+<li class="menu-598"><a href="/it/media-room">Media Room</a></li>
+<li class="menu-600 last"><a href="/it/dove-siamo-contatti">Contatti</a></li>
+</ul>
+							<ul>
+								<li>
+									<a class="disclaimer no-animation" href="node/729" target="_blank">PRIVACY POLICY</a>
+								</li>
+								<li>
+									<a class="disclaimer no-animation" href="node/745" target="_blank">COOKIE POLICY</a>
+								</li>
+							</ul>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</footer>
+</div>
+
+<div id="credits">
+    <a href="http://www.red-apple.it" target="_blank">
+		<span style="background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxpdmVsbG9fMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHdpZHRoPSIxOTEuOHB4IiBoZWlnaHQ9IjE1LjlweCIgdmlld0JveD0iMCAwIDE5MS44IDE1LjkiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDE5MS44IDE1LjkiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTguOCw1LjVjMCwwLTAuNC00LjgsNC43LTUuNUMxMy41LDAsMTMuNyw1LDguOCw1LjUiLz4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMC40LDcuNWMwLDAtNC41LDIuMi03LTIuMWMtMS4yLDAuMy0yLjcsMC44LTQuMiwxLjVjLTQsMS43LTYuNSwzLjQtNy41LDUuMUMxLDEzLjEsMC45LDE0LjMwMSwxLjIsMTUuODAxDQoJaDcuNkw3LjYsMTNjLTAuNC0wLjg5OSwwLjYtMS44LDIuOC0yLjY5OWMyLjItMC45LDMuNi0wLjcsNC4yLDAuNjk4bDAuMywwLjgwMmwwLjMsMC44bDEsMi4zbDAuNCwxaDcuM0wyMC40LDcuNXoiLz4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0zNy40LDE1LjVsLTItMy4zOThoLTIuMVYxNS41aC0wLjlWNy44MDFoMy40YzEuNSwwLDIuNiwwLjgsMi42LDIuMWMwLDEuMS0wLjgsMS45LTEuOSwyLjFsMi4xLDMuNUgzNy40eg0KCSBNMzUuNiw4LjVoLTIuNHYyLjgwMWgyLjRjMSwwLDEuOC0wLjUsMS44LTEuNFMzNi42LDguNSwzNS42LDguNSIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSI0MC41LDE1LjUgNDAuNSw3LjcgNDYsNy43IDQ2LDguNSA0MS40LDguNSA0MS40LDExLjIgNDUuMywxMS4yIDQ1LjMsMTEuOSA0MS40LDExLjkgNDEuNCwxNC43IA0KCTQ2LDE0LjcgNDYsMTUuNSAiLz4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik01My4yLDE0LjdjLTAuNSwwLjUtMS4zLDAuNy0yLjIsMC43aC0zVjcuN2gzYzAuOSwwLDEuNywwLjMsMi4yLDAuN2MwLjksMC44LDAuOSwyLDAuOSwzLjENCglDNTQuMSwxMi42LDU0LjEsMTMuOSw1My4yLDE0LjcgTTUyLjUsOWMtMC41LTAuMzk4LTEuMS0wLjYtMS43LTAuNmgtMS45djYuMmgxLjljMC43LDAsMS4zLTAuMiwxLjctMC42MDINCgljMC42LTAuNiwwLjYtMS42OTgsMC42LTIuNkM1My4xLDEwLjYsNTMuMSw5LjYsNTIuNSw5Ii8+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNjQuNSwxNS41bC0wLjctMS42OTlINjBMNTkuMywxNS41aC0xbDMuMy03LjY5OGgwLjhsMy4yLDcuNjk4SDY0LjV6IE02MS45LDguOUw2MC4yLDEzaDMuM0w2MS45LDguOXoiLz4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik03MC4zLDEyLjMwMUg2OFYxNS41aC0xVjcuODAxaDMuM2MxLjYsMCwyLjcsMC44OTgsMi43LDIuM0M3MywxMS40LDcxLjksMTIuMzAxLDcwLjMsMTIuMzAxIE03MC4yLDguNWgtMi4zDQoJVjExLjZoMi4zYzEuMSwwLDEuOS0wLjUsMS45LTEuNVM3MS4zLDguNSw3MC4yLDguNSIvPg0KPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTc4LjEsMTIuMzAxaC0yLjNWMTUuNWgtMC45VjcuODAxaDMuM2MxLjYsMCwyLjcsMC44OTgsMi43LDIuM0M4MC44LDExLjQsNzkuNywxMi4zMDEsNzguMSwxMi4zMDEgTTc4LDguNQ0KCWgtMi4zVjExLjZINzhjMS4xLDAsMS45LTAuNSwxLjktMS41Uzc5LjEsOC41LDc4LDguNSIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSI4Mi42LDE1LjUgODIuNiw3LjcgODMuNiw3LjcgODMuNiwxNC43IDg4LjEsMTQuNyA4OC4xLDE1LjUgIi8+DQo8cG9seWdvbiBmaWxsPSIjRkZGRkZGIiBwb2ludHM9Ijg5LjcsMTUuNSA4OS43LDcuNyA5NS4yLDcuNyA5NS4yLDguNSA5MC43LDguNSA5MC43LDExLjIgOTQuNiwxMS4yIDk0LjYsMTEuOSA5MC43LDExLjkgOTAuNywxNC43IA0KCTk1LjIsMTQuNyA5NS4yLDE1LjUgIi8+DQo8cmVjdCB4PSIxMDAuMyIgeT0iNy45IiBmaWxsPSIjRkZGRkZGIiB3aWR0aD0iMC45IiBoZWlnaHQ9IjcuNiIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSIxMDkuMywxNS41IDEwNC42LDkuNCAxMDQuNiwxNS41IDEwMy43MDEsMTUuNSAxMDMuNzAxLDcuOSAxMDQuNiw3LjkgMTA5LjIwMSwxMy45IDEwOS4yMDEsNy45IA0KCTExMC4xLDcuOSAxMTAuMSwxNS41ICIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSIxMTUuMjAxLDguNiAxMTUuMjAxLDE1LjUgMTE0LjMsMTUuNSAxMTQuMyw4LjYgMTExLjgsOC42IDExMS44LDcuOSAxMTcuNzAxLDcuOSAxMTcuNzAxLDguNiAiLz4NCjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iMTE5LjQsMTUuNSAxMTkuNCw3LjkgMTI0LjgsNy45IDEyNC44LDguNiAxMjAuMyw4LjYgMTIwLjMsMTEuMzAxIDEyNC4xLDExLjMwMSAxMjQuMSwxMiAxMjAuMywxMiANCgkxMjAuMywxNC43IDEyNC44LDE0LjcgMTI0LjgsMTUuNSAiLz4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMzEuNzAxLDE1LjVsLTItMy4zOThIMTI3LjZWMTUuNWgtMC44OTlWNy45SDEzMGMxLjUsMCwyLjYwMiwwLjgsMi42MDIsMi4xYzAsMS4xMDItMC44MDEsMS44MDItMS44OTgsMg0KCWwyLjEsMy40aC0xLjF2MC4xSDEzMS43MDF6IE0xMjkuOSw4LjZoLTIuM3YyLjhoMi4zYzEsMCwxLjctMC41LDEuNy0xLjRDMTMxLjYsOS4xLDEzMSw4LjYsMTI5LjksOC42Ii8+DQo8cG9seWdvbiBmaWxsPSIjRkZGRkZGIiBwb2ludHM9IjE0MC4zLDE1LjUgMTM1LjYsOS40IDEzNS42LDE1LjUgMTM0LjcwMSwxNS41IDEzNC43MDEsNy45IDEzNS42LDcuOSAxNDAuMjAxLDEzLjkgMTQwLjIwMSw3LjkgDQoJMTQxLjEsNy45IDE0MS4xLDE1LjUgIi8+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTQ4LjcwMSwxNS41TDE0OCwxMy44MDFoLTMuNzk5TDE0My41LDE1LjVoLTFsMy4yMDEtNy42aDAuNzk5bDMuMjAxLDcuNkgxNDguNzAxeiBNMTQ2LjEsOWwtMS42MDEsNGgzLjMwMQ0KCUwxNDYuMSw5eiIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSIxNTMuNzAxLDguNiAxNTMuNzAxLDE1LjUgMTUyLjcwMSwxNS41IDE1Mi43MDEsOC42IDE1MC4yMDEsOC42IDE1MC4yMDEsNy45IDE1Ni4yMDEsNy45IA0KCTE1Ni4yMDEsOC42ICIvPg0KPHJlY3QgeD0iMTU3LjgiIHk9IjcuOSIgZmlsbD0iI0ZGRkZGRiIgd2lkdGg9IjAuOSIgaGVpZ2h0PSI3LjYiLz4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xNjYuMjAxLDE0LjdjLTAuNjAxLDAuNS0xLjQsMC44LTIuMjAxLDAuOGMtMC43OTksMC0xLjYtMC4zLTIuMTk5LTAuOEMxNjEsMTQsMTYxLDEzLjIsMTYxLDExLjYNCgljMC0xLjYwMiwwLTIuNCwwLjgwMS0zLjEwMmMwLjYwMS0wLjUsMS40LTAuOCwyLjE5OS0wLjhjMC44MDEsMCwxLjYwMiwwLjMsMi4yMDEsMC44QzE2Nyw5LjIsMTY3LDEwLDE2NywxMS42DQoJQzE2NywxMy4yLDE2NywxNCwxNjYuMjAxLDE0LjcgTTE2NS41LDkuMWMtMC4zOTgtMC4zLTAuODk4LTAuNS0xLjUtMC41Yy0wLjYsMC0xLjEsMC4yLTEuNSwwLjVjLTAuNSwwLjUtMC42LDEtMC42LDIuNg0KCWMwLDEuNjAyLDAuMSwyLjEwMiwwLjYsMi42MDJjMC40LDAuMywwLjksMC41LDEuNSwwLjVjMC42MDIsMCwxLjEwMi0wLjIsMS41LTAuNWMwLjUtMC41LDAuNjAyLTEsMC42MDItMi42MDINCglDMTY2LjEsMTAuMSwxNjYsOS42LDE2NS41LDkuMSIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSIxNzQuOCwxNS41IDE3MC4xLDkuNCAxNzAuMSwxNS41IDE2OS4yMDEsMTUuNSAxNjkuMjAxLDcuOSAxNzAuMSw3LjkgMTc0LjcwMSwxMy45IDE3NC43MDEsNy45IA0KCTE3NS42LDcuOSAxNzUuNiwxNS41ICIvPg0KPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTE4My4yMDEsMTUuNWwtMC43MDEtMS42OTloLTMuNzk5TDE3OCwxNS41aC0xbDMuMjAxLTcuNkgxODFsMy4yMDEsNy42SDE4My4yMDF6IE0xODAuNiw5TDE3OSwxM2gzLjMwMQ0KCUwxODAuNiw5eiIvPg0KPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSIxODUuNiwxNS41IDE4NS42LDcuOSAxODYuNSw3LjkgMTg2LjUsMTQuNyAxOTEsMTQuNyAxOTEsMTUuNSAiLz4NCjwvc3ZnPg0K); background-repeat: no-repeat; background-attachment: scroll; background-position: center; height: 19px; width: 185px; display: inline-block;"></span>
+    </a>
+</div>			</div>
+		</div>
+			
+		<div id="overlay-wrap">
+			<a id="overlay-close" href="#">Chiudi</a>
+			<div id="overlay">
+				<div id="overlay-content"></div>
+			</div>
+		</div>
+
+		<a id="scrollToTop" href="#"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+
+		<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/views/view.home.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/swiper.jquery.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/jquery.hc-sticky.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/custom/ricerca_corso/ricerca_corso.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/jquery.easing.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/bootstrap.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/eModal.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/gsap/TweenMax.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/gsap/plugins/ScrollToPlugin.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/jquery.nicescroll.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/app.js?p1axu2"></script>
+
+		<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/lightgallery/js/lightgallery-all.min.js?p1axu2"></script>
+<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/themes/cfpcomo/assets/js/views/view.pagina.js?p1axu2"></script>
+		<script type="text/javascript" src="http://www.cfpcomo.com/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?p1axu2"></script>
+
+	</body>
+</html>

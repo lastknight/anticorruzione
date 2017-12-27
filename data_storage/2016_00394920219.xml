@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Meran - Comune di Merano</abstract>
+   <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Meran - Comune di Merano</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21051/21051indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_EB0DC4B4-8728-4715-8696-165073372ADB'>
+      <linkDataset>http://data.gvcc.net/avcp/21051/EB0DC4B4-8728-4715-8696-165073372ADB.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_C6757108-ED8D-435C-93CA-DB776FB6DD1E'>
+      <linkDataset>http://data.gvcc.net/avcp/21051/C6757108-ED8D-435C-93CA-DB776FB6DD1E.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-22</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_7C59AEC6-6603-412E-BEB9-B10FFD51DE57'>
+      <linkDataset>http://data.gvcc.net/avcp/21051/7C59AEC6-6603-412E-BEB9-B10FFD51DE57.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_4CEA9B9A-919C-487B-972A-6B3DA1A45B79'>
+      <linkDataset>http://data.gvcc.net/avcp/21051/4CEA9B9A-919C-487B-972A-6B3DA1A45B79.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Avelengo</abstract>
+   <dataPubblicazioneIndice>2016-02-02</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Avelengo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-02</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21005/21005indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_23EF96D1-17BA-41C3-AAF8-DA31C1FD07B8'>
+      <linkDataset>http://data.gvcc.net/avcp/21005/23EF96D1-17BA-41C3-AAF8-DA31C1FD07B8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_7512457B-A6D9-4B25-9739-AE95D98B84A6'>
+      <linkDataset>http://data.gvcc.net/avcp/21005/7512457B-A6D9-4B25-9739-AE95D98B84A6.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_E22E8300-3FE1-4682-9505-8739FA40A8A1'>
+      <linkDataset>http://data.gvcc.net/avcp/21005/E22E8300-3FE1-4682-9505-8739FA40A8A1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_B1429700-E0E6-49AD-AD80-683BF22C8110'>
+      <linkDataset>http://data.gvcc.net/avcp/21005/B1429700-E0E6-49AD-AD80-683BF22C8110.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

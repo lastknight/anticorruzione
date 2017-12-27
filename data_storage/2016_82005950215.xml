@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comunità comprensoriale Val Venosta</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>Comunità comprensoriale Val Venosta</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21126/21126indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_CA67BB16-9535-4C56-92B9-6FE2DD14E9C9'>
+      <linkDataset>http://data.gvcc.net/avcp/21126/CA67BB16-9535-4C56-92B9-6FE2DD14E9C9.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_BACD463B-B576-4048-8EF0-40D8A5EAFCBA'>
+      <linkDataset>http://data.gvcc.net/avcp/21126/BACD463B-B576-4048-8EF0-40D8A5EAFCBA.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_9BFF52D2-225D-4586-9066-3A88556280D3'>
+      <linkDataset>http://data.gvcc.net/avcp/21126/9BFF52D2-225D-4586-9066-3A88556280D3.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_899083AC-F278-4049-827D-D6D124AB49F8'>
+      <linkDataset>http://data.gvcc.net/avcp/21126/899083AC-F278-4049-827D-D6D124AB49F8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

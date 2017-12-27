@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Istituto Comprensivo in lingua tedesca Bolzano Gries - Pubblicazione legge 190</titolo>
+    <abstract>Indice Istituto Comprensivo in lingua tedesca Bolzano Gries - Pubblicazione legge 190 - anno rif. 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Comprensivo in lingua tedesca Bolzano Gries</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-03</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.sspgries.it/L190/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.sspgries.it/L190/esiti_2016_20170203-1.xml </linkDataset>
+      <dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

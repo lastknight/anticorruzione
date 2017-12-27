@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="it-IT">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="it-IT">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="it-IT">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="it-IT">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title> &raquo; AVCP</title>
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://icsulbiateronco.gov.it/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://icsulbiateronco.gov.it/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='http://icsulbiateronco.gov.it';var et_post_id='2129';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>AVCP | IC Sulbiate Ronco</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="IC Sulbiate Ronco &raquo; Feed" href="http://icsulbiateronco.gov.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IC Sulbiate Ronco &raquo; Feed dei commenti" href="http://icsulbiateronco.gov.it/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/icsulbiateronco.gov.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi Child v.2.3.1" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='theme-my-login-css'  href='http://icsulbiateronco.gov.it/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='AlboPretorio-ui-style-css'  href='http://icsulbiateronco.gov.it/wp-content/plugins/albo-pretorio-on-line/css/jquery-ui-custom.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://icsulbiateronco.gov.it/wp-content/plugins/cookie-notice/css/front.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='UserAccessManagerLoginForm-css'  href='http://icsulbiateronco.gov.it/wp-content/plugins/user-access-manager/assets/css/uamLoginForm.css?ver=2.1.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='divi-style-css'  href='http://icsulbiateronco.gov.it/wp-content/themes/DiviChild/style.css?ver=3.0.71' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://icsulbiateronco.gov.it/wp-includes/css/dashicons.min.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='AlboPretorio-css'  href='http://icsulbiateronco.gov.it/wp-content/plugins/albo-pretorio-on-line/css/style.css?ver=4.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-content/plugins/albo-pretorio-on-line/js/Albo.jquery.tabs.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.9.1'></script>
+<link rel='https://api.w.org/' href='http://icsulbiateronco.gov.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://icsulbiateronco.gov.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://icsulbiateronco.gov.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='ottobre &#8211; dicembre 2015' href='http://icsulbiateronco.gov.it/amm-trasparente/ottobre-dicembre-2015/' />
+<link rel='next' title='decreto aggiudicazione bandi Sulbiate as 2015/2016' href='http://icsulbiateronco.gov.it/amm-trasparente/decreto-aggiudicazione-bandi-sulbiate-as-20152016/' />
+<meta name="generator" content="WordPress 4.9.1" />
+<link rel="canonical" href="http://icsulbiateronco.gov.it/amm-trasparente/avcp-2/" />
+<link rel='shortlink' href='http://icsulbiateronco.gov.it/?p=2129' />
+<link rel="alternate" type="application/json+oembed" href="http://icsulbiateronco.gov.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ficsulbiateronco.gov.it%2Famm-trasparente%2Favcp-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://icsulbiateronco.gov.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ficsulbiateronco.gov.it%2Famm-trasparente%2Favcp-2%2F&#038;format=xml" />
+
+<link rel="stylesheet" href="http://icsulbiateronco.gov.it/wp-content/plugins/count-per-day/counter.css" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #bdbded; }
+</style>
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="http://icsulbiateronco.gov.it/wp-content/cache/et/global/et-divi-customizer-global-15138555959202.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="amm-trasparente-template-default single single-amm-trasparente postid-2129 custom-background et_pb_button_helper_class et_non_fixed_nav et_boxed_layout et_show_nav et_hide_primary_logo et_hide_mobile_logo et_cover_background et_pb_gutter et_pb_gutters2 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns3 et_header_style_centered et_right_sidebar et_divi_theme unknown">
+	<div id="page-container">
+
+	
+		<header id="main-header" class="et_nav_text_color_dark">
+
+<div class="descrizione" style="background-color: #fff; font-size: 18px; text-align: center; padding-top: 10px; margin-bottom: 20px; line-height: 26px;"><span style="font-weight: 700; font-size: 24px;"><img src="/wp-content/uploads/2015/06/logo_miur.png"/><br/>Istituto Comprensivo Montessori</span><br/>
+<span>Via IV Novembre, 7 - 20884 Sulbiate MB<br/>tel:039623775 - fax:0396840862<br/>
+MIIC8DJ008@istruzione.it - P.I. 94037050153</span></div>
+
+			<div class="container clearfix">
+
+
+				<div id="et-top-navigation">
+					<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-437"><a href="http://icsulbiateronco.gov.it/">Home</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-92"><a href="#">Istituto</a>
+<ul class="sub-menu">
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://icsulbiateronco.gov.it/pof/">PTOF – POF</a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="http://icsulbiateronco.gov.it/regolamenti/">Regolamenti</a></li>
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://icsulbiateronco.gov.it/carta-servizi/">Carta dei servizi</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://icsulbiateronco.gov.it/r-a-v/">RAV – PdM</a></li>
+</ul>
+</li>
+<li id="menu-item-93" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-93"><a href="#">Organizzazione</a>
+<ul class="sub-menu">
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-97"><a href="http://icsulbiateronco.gov.it/dirigenza/">Dirigenza</a>
+	<ul class="sub-menu">
+		<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://icsulbiateronco.gov.it/dirigenza/ds/">Dirigente Scolastico</a></li>
+		<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://icsulbiateronco.gov.it/dirigenza/dsga/">Direttore Servizi Generali Amministrativi</a></li>
+	</ul>
+</li>
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-100"><a href="http://icsulbiateronco.gov.it/organigramma/">Organigramma</a>
+	<ul class="sub-menu">
+		<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://icsulbiateronco.gov.it/organigramma/staff-presidenza/">Staff di presidenza</a></li>
+		<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://icsulbiateronco.gov.it/organigramma/funzioni-strumentali/">Funzioni strumentali</a></li>
+		<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://icsulbiateronco.gov.it/organigramma/commissioni/">Commissioni</a></li>
+		<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://icsulbiateronco.gov.it/organigramma/docenti-del-collegio/">Docenti del collegio</a></li>
+		<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://icsulbiateronco.gov.it/organigramma/personale-ata/">Personale ATA</a></li>
+	</ul>
+</li>
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94"><a href="http://icsulbiateronco.gov.it/consiglio-distituto/">Consiglio d&#8217;istituto</a>
+	<ul class="sub-menu">
+		<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://icsulbiateronco.gov.it/consiglio-distituto/composizione/">Composizione</a></li>
+		<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://icsulbiateronco.gov.it/consiglio-distituto/verbali/">Verbali e Convocazioni</a></li>
+	</ul>
+</li>
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://icsulbiateronco.gov.it/rspp/">RSPP</a></li>
+	<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://icsulbiateronco.gov.it/rsl/">RSL</a></li>
+</ul>
+</li>
+<li id="menu-item-135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Le scuole</a>
+<ul class="sub-menu">
+	<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-185"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/">Scuola dell&#8217;infanzia</a>
+	<ul class="sub-menu">
+		<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/dove-siamo/">Dove siamo</a></li>
+		<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/formazione-sezioni/">Formazione sezioni</a></li>
+		<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/organizzazione/">Organizzazione</a></li>
+		<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/orario-sezioni-docenti/">Orario sezioni e docenti</a></li>
+		<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/rappresentanti-consiglio-intersezione/">Rappresentanti del consiglio di intersezione</a></li>
+		<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/gallery/">Gallery</a></li>
+		<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/progetti/">Progetti &#038; Eventi</a></li>
+		<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/uscite-didattiche/">Uscite didattiche</a></li>
+		<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/calendario/">Calendario</a></li>
+		<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="http://icsulbiateronco.gov.it/scuola-infanzia/mensa-scolastica/">Mensa scolastica</a></li>
+	</ul>
+</li>
+	<li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-203"><a href="http://icsulbiateronco.gov.it/primaria-ronco/">Scuola primaria Ronco</a>
+	<ul class="sub-menu">
+		<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-dove-siamo/">Dove siamo</a></li>
+		<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-formazione-classi-prime/">Formazione classi prime</a></li>
+		<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-organizzazione/">Organizzazione</a></li>
+		<li id="menu-item-591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-591"><a href="http://icsulbiateronco.gov.it/primaria-ronco/libri-di-testo/">Libri di testo</a></li>
+		<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-orario-classi-docenti/">Orario classi e docenti</a></li>
+		<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-rappresentanti-consiglio-interclasse/">Rappresentanti del consiglio di interclasse</a></li>
+		<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="http://icsulbiateronco.gov.it/primaria-ronco/gallery-ronco1/">Gallery</a></li>
+		<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-progetti/">Progetti &#038; Eventi</a></li>
+		<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-uscite-didattiche/">Uscite didattiche</a></li>
+		<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-calendario/">Calendario</a></li>
+		<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="http://icsulbiateronco.gov.it/primaria-ronco/pr-mensa-scolastica/">Mensa scolastica</a></li>
+	</ul>
+</li>
+	<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-329"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/">Scuola primaria Sulbiate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-dove-siamo/">Dove siamo</a></li>
+		<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-formazione-classi-prime/">Formazione classi prime</a></li>
+		<li id="menu-item-992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-992"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-organizzazione/">Organizzazione</a></li>
+		<li id="menu-item-592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-592"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/libri-di-testo/">Libri di testo</a></li>
+		<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-orario-classi-docenti/">Orario classi e docenti</a></li>
+		<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-rappresentanti-consiglio-interclasse/">Rappresentanti del consiglio di interclasse</a></li>
+		<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/gallery-sulb1/">Gallery</a></li>
+		<li id="menu-item-339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-progetti/">Progetti &#038; Eventi</a></li>
+		<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-uscite-didattiche/">Uscite didattiche</a></li>
+		<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-calendario/">Calendario</a></li>
+		<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="http://icsulbiateronco.gov.it/primaria-sulbiate/ps-mensa-scolastica/">Mensa scolastica</a></li>
+	</ul>
+</li>
+	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-343"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/">Scuola secondaria Ronco</a>
+	<ul class="sub-menu">
+		<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-dove-siamo/">Dove siamo</a></li>
+		<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-formazione-classi-prime/">Formazione classi prime</a></li>
+		<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-organizzazione/">Organizzazione</a></li>
+		<li id="menu-item-587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-587"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/libri-di-testo/">Libri di testo</a></li>
+		<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-orario-classi-docenti/">Orario classi e docenti</a></li>
+		<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-orario-ricevimento-parenti/">Orario ricevimento parenti</a></li>
+		<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-rappresentanti-consiglio-classe/">Rappresentanti del consiglio di classe</a></li>
+		<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/gallery-ronco-2/">Gallery</a></li>
+		<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-progetti/">Progetti &#038; Eventi</a></li>
+		<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-ampliamento-offerta-formativa/">Ampliamento offerta formativa</a></li>
+		<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-uscite-didattiche/">Uscite didattiche</a></li>
+		<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-calendario/">Calendario</a></li>
+		<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="http://icsulbiateronco.gov.it/secondaria-ronco/sr-mensa-scolastica/">Mensa scolastica</a></li>
+	</ul>
+</li>
+	<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-348"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/">Scuola secondaria Sulbiate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-dove-siamo/">Dove siamo</a></li>
+		<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-formazione-classi-prime/">Formazione classi prime</a></li>
+		<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-organizzazione/">Organizzazione</a></li>
+		<li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/libri-di-testo/">Libri di testo</a></li>
+		<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-orario-classi-docenti/">Orario classi e docenti</a></li>
+		<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-orario-ricevimento-parenti/">Orario ricevimento parenti</a></li>
+		<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-rappresentanti-consiglio-classe/">Rappresentanti del consiglio di classe</a></li>
+		<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/gallery-sulb-2/">Gallery</a></li>
+		<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-progetti/">Progetti &#038; Eventi</a></li>
+		<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-ampliamento-offerta-formativa/">Ampliamento offerta formativa</a></li>
+		<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-uscite-didattiche/">Uscite didattiche</a></li>
+		<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-calendario/">Calendario</a></li>
+		<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://icsulbiateronco.gov.it/secondaria-sulbiate/ss-mensa-scolastica/">Mensa scolastica</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132"><a href="#">Genitori</a>
+<ul class="sub-menu">
+	<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="http://icsulbiateronco.gov.it/circolari-genitori/">Circolari</a></li>
+	<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="http://icsulbiateronco.gov.it/modulistica-genitori/">Modulistica</a></li>
+</ul>
+</li>
+<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-109"><a href="#">Docenti</a>
+<ul class="sub-menu">
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://icsulbiateronco.gov.it/area-riservata-docenti/">Area Riservata</a></li>
+	<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://icsulbiateronco.gov.it/modulistica/">Modulistica</a></li>
+</ul>
+</li>
+<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-133"><a href="#">ATA</a>
+<ul class="sub-menu">
+	<li id="menu-item-1189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1189"><a href="http://icsulbiateronco.gov.it/area-riservata-ata/">Area Riservata ATA</a></li>
+	<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://icsulbiateronco.gov.it/modulistica-ata/">Modulistica</a></li>
+</ul>
+</li>
+<li id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134"><a href="#">Contatti</a>
+<ul class="sub-menu">
+	<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://icsulbiateronco.gov.it/segreteria-urp/">Segreteria e URP</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="http://icsulbiateronco.gov.it/indirizzi/">Indirizzi</a></li>
+</ul>
+</li>
+<li id="menu-item-4702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4702"><a href="http://icsulbiateronco.gov.it/iscrizioni-2016-2017/">Iscrizioni 2018-2019</a></li>
+</ul>					</nav>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Seleziona una pagina</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+		<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+											<article id="post-2129" class="et_pb_post post-2129 amm-trasparente type-amm-trasparente status-publish hentry tipologie-informazioni-sulle-singole-procedure-in-formato-tabellare">
+											<div class="et_post_meta_wrapper">
+							<h1 class="entry-title">AVCP</h1>
+
+						<p class="post-meta"><span class="published">26 Gen 2016</span></p>
+												</div> <!-- .et_post_meta_wrapper -->
+				
+					<div class="entry-content">
+					<p><a href="http://icsulbiateronco.gov.it/wp-content/uploads/avcp/MIIC8DJ008_201516_2015_20160126_0243.xml">Avcp dataset 2015.xml</a></p>
+					</div> <!-- .entry-content -->
+					<div class="et_post_meta_wrapper">
+					
+					
+										</div> <!-- .et_post_meta_wrapper -->
+				</article> <!-- .et_pb_post -->
+
+						</div> <!-- #left-area -->
+
+				<div id="sidebar">
+		<div id="bcn_widget-2" class="et_pb_widget widget_breadcrumb_navxt">Dove sei: <!-- Breadcrumb NavXT 5.7.1 -->
+<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to IC Sulbiate Ronco." href="http://icsulbiateronco.gov.it" class="home">IC Sulbiate Ronco</a></span> &gt; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Vai a Amministrazione trasparente." href="http://icsulbiateronco.gov.it/trasparenza/">Amministrazione trasparente</a></span> &gt; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to the Informazioni sulle singole procedure in formato tabellare Tipologia archives." href="http://icsulbiateronco.gov.it/trasparenza/informazioni-sulle-singole-procedure-in-formato-tabellare/">Informazioni sulle singole procedure in formato tabellare</a></span> &gt; <span typeof="v:Breadcrumb"><span property="v:title">AVCP</span></span></div> <!-- end .et_pb_widget --><div id="search-2" class="et_pb_widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://icsulbiateronco.gov.it/">
+				<div>
+					<label class="screen-reader-text" for="s">Ricerca per:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Cerca" />
+				</div>
+			</form></div> <!-- end .et_pb_widget --><div id="text-2" class="et_pb_widget widget_text"><h4 class="widgettitle">Trasparenza</h4>			<div class="textwidget"><a href="https://web.spaggiari.eu/sdg/app/default/trasparenza.php?sede_codice=MIME0209&referer=http://www.icsulbiateronco.gov.it" ><img class="box-wid" src="/wp-content/uploads/2015/05/tasparenza.png" width="194" height="74"></a>
+
+<a href="http://icsulbiateronco.gov.it/trasparenza/">Pubblicazioni amministrazione trasparente fino al 10/03/2017 </a>
+
+<a href="https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=MIME0209&referer=http://www.icsulbiateronco.gov.it" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/albo.png" width="194" height="74"></a>
+<a href="http://icsulbiateronco.gov.it/albo-storico/">Pubblicazioni Albo on Line fino al 10/03/2017 </a>
+<a href="/albo-online/graduatorie/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/09/GRADUATORIE.png" width="194" height="74"></a>
+<a href="http://icsulbiateronco.gov.it/amm-trasparente/avcp-2/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/avcp.png" width="194" height="74"></a></div>
+		</div> <!-- end .et_pb_widget --><div id="text-3" class="et_pb_widget widget_text"><h4 class="widgettitle">Link Utili</h4>			<div class="textwidget"><a href="https://web.spaggiari.eu/" target="blank" ><img class="box-wid" src="wp-content/uploads/2017/09/classeviva_banner_solologo.png" width="194" height="74"></a>
+<a href="https://sites.google.com/icsulbiateronco.gov.it/orientamento" target="blank" ><img class="box-wid" src="wp-content/uploads/2017/10/logo-orienta-e1507893325213.png" width="194" height="74"></a>
+<a href="
+https://cartadeldocente.istruzione.it/" target="blank" ><img class="box-wid" src="wp-content/uploads/2017/09/carta-docente.jpg" width="194" height="74"></a>
+<a href="/pon-2014-2020/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2016/02/pon.jpg" width="194" height="74"></a>
+<a href="http://www.istruzione.it/"><img class="box-wid" src="/wp-content/uploads/2015/05/miur.png" width="194" height="74"></a>
+<a href="http://www.istruzione.lombardia.gov.it/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/usr.png" width="194" height="74"></a>
+<a href="http://www.istruzione.lombardia.gov.it/monza/"><img class="box-wid" src="/wp-content/uploads/2015/05/usr_mb.png" width="194" height="74"></a>
+<a href="http://www.istruzione.lombardia.gov.it/milano/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/usr_mi.png" width="194" height="74"></a>
+<a href="http://www.invalsi.it/invalsi/index.php"><img class="box-wid" src="/wp-content/uploads/2015/05/invalsi.png" width="194" height="74"></a>
+<a href="http://www.indire.it/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/indire.png" width="194" height="74"></a>
+<a href="https://noipa.mef.gov.it/"><img class="box-wid" src="/wp-content/uploads/2015/05/noi_pa.png" width="194" height="74"></a>
+<a href="http://www.istruzione.it/iscrizionionline/"><img class="box-wid" src="/wp-content/uploads/2015/05/iscrizioni.png" width="194" height="74"></a>
+<a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/chiaro.png" width="194" height="74"></a>
+<a href="http://labuonascuola.gov.it/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/buonascuola.png" width="194" height="74"></a>
+<a href=" http://www.istruzione.it/pagoinrete" target="blank" ><img class="box-wid" src="wp-content/uploads/2017/01/pago.png" width="194" height="74"></a></div>
+		</div> <!-- end .et_pb_widget --><div id="text-4" class="et_pb_widget widget_text"><h4 class="widgettitle">Territorio</h4>			<div class="textwidget"><a href="http://www.comune.roncobriantino.mb.it/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/ronco.png" width="194" height="74"></a>
+<a href="http://www.comune.sulbiate.mb.it/"><img class="box-wid" src="/wp-content/uploads/2015/05/SULBIATE.png" width="194" height="74"></a>
+<a href="http://www.comune.aicurzio.mi.it/" target="blank" ><img class="box-wid" src="/wp-content/uploads/2015/05/AICURZIO.png" width="194" height="74"></a>
+</div>
+		</div> <!-- end .et_pb_widget --><div id="countperday_widget-2" class="et_pb_widget widget_countperday_widget"><h4 class="widgettitle">Statistiche</h4><ul class="cpd"><li class="cpd-l"><span id="cpd_number_getuserall" class="cpd-r">93288</span>Totale visitatori:</li><li class="cpd-l"><span id="cpd_number_getusertoday" class="cpd-r">30</span>Oggi:</li><li class="cpd-l"><span id="cpd_number_getuseryesterday" class="cpd-r">86</span>Ieri:</li><li class="cpd-l"><span id="cpd_number_getuserlastweek" class="cpd-r">890</span>La scorsa settimana:</li></ul></div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+	</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="rss-3" class="fwidget et_pb_widget widget_rss"><h4 class="title"><a class="rsswidget" href="http://www.istruzione.lombardia.it/categorie/comunicazioni/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://icsulbiateronco.gov.it/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://www.istruzione.lombardia.gov.it/">USR Lombardia – Comunicazioni</a></h4><ul><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/nuovo-sito-usr-2016/'>Nuovo sito dell’USR Lombardia</a></li><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/protlo_21768_16_novembre_2016/'>Seminario “Peripezie dell’amicizia: Lessing e il Trinummus di Plauto”</a></li><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/protlo_21763_16_novembre_2016/'>Convegno “Il futuro del passato: L’insegnamento delle materie classiche nella scuola di domani”</a></li></ul></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="rss-4" class="fwidget et_pb_widget widget_rss"><h4 class="title"><a class="rsswidget" href="http://www.istruzione.lombardia.it/categorie/in-evidenza/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://icsulbiateronco.gov.it/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://www.istruzione.lombardia.gov.it/">USR Lombardia – In evidenza</a></h4><ul><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/decrlo_3163_16_novembre_2016/'>RETTIFICA: Pubblicazione Graduatorie del concorso di cui al D.D.G. 106 del 23 febbraio 2016 – Classe di concorso A45 – Scienze economico-aziendali. Regione Lombardia</a></li><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/protlo_21598_15_novembre_2016/'>Concorso per titoli ed esami D.D.G. 106 del 23 febbraio 2016 – Avviso di pubblicazione griglie di valutazione – Classe di concorso AC24-25 (Spagnolo)</a></li><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/protlo_21504_14_novembre_2016/'>Concorso per titoli ed esami D.D.G. 106 del 23 febbraio 2016 – Avviso di pubblicazione griglia di valutazione prova orale– Classe di concorso A20 Fisica</a></li></ul></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="rss-5" class="fwidget et_pb_widget widget_rss"><h4 class="title"><a class="rsswidget" href="http://www.istruzione.lombardia.gov.it/monza/categorie/comunicazioni/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://icsulbiateronco.gov.it/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://www.istruzione.lombardia.gov.it/monza">Ambito territoriale di Monza e Brianza</a></h4><ul><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/monza/protmb6566_17/'>Organizzazione e avvio dei corsi linguistici CLIL</a></li><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/monza/protmb6541_17/'>Convocazione dell’assemblea plenaria della Consulta provinciale degli studenti e del Consiglio di presidenza</a></li><li><a class='rsswidget' href='http://www.istruzione.lombardia.gov.it/monza/decreto-protlo4711_17/'>Scuola in ospedale – Commissione, DM n.851 art.7</a></li></ul></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-menu-bottom" class="bottom-nav"><li id="menu-item-382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="http://icsulbiateronco.gov.it/trasparenza/">Amministrazione trasparente</a></li>
+<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="http://icsulbiateronco.gov.it/segreteria-urp/">URP</a></li>
+<li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a href="http://icsulbiateronco.gov.it/elenco-siti-tematici/">Elenco siti tematici</a></li>
+<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="http://icsulbiateronco.gov.it/privacy/">Privacy</a></li>
+<li id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="http://icsulbiateronco.gov.it/note-legali/">Note legali</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				
+						<p id="footer-info">P.I. 94037050153 | Powered by: <a href="http://www.dadonet.it">Dadonet</a></p>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<link rel='stylesheet' id='et-builder-googlefonts-css'  href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"http:\/\/icsulbiateronco.gov.it\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"TRUE","cookieTime":"604800","cookiePath":"\/","cookieDomain":"","redirection":"","cache":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-content/plugins/cookie-notice/js/front.js?ver=1.2.39'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_shortcodes_strings = {"previous":"Precedente","next":"Avanti"};
+var et_pb_custom = {"ajaxurl":"http:\/\/icsulbiateronco.gov.it\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/icsulbiateronco.gov.it\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/icsulbiateronco.gov.it\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"63c6c56915","subscription_failed":"Si prega di verificare i campi di seguito per assicurarsi di aver inserito le informazioni corrette.","et_ab_log_nonce":"f8b397b857","fill_message":"Compila i seguenti campi:","contact_error_message":"Per favore, correggi i seguenti errori:","invalid":"E-mail non valido","captcha":"Captcha","prev":"Indietro","previous":"Precedente","next":"Accanto","wrong_captcha":"Hai inserito un numero errato nei captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"2129","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-content/themes/Divi/js/custom.min.js?ver=3.0.71'></script>
+<script type='text/javascript' src='http://icsulbiateronco.gov.it/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom" style="color: #fff; background-color: #898989;"><div class="cookie-notice-container"><span id="cn-notice-text">Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Continuando a navigare nel sito ne accetti l'utilizzo.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie button">Ok</a><a href="http://icsulbiateronco.gov.it/privacy/" target="_blank" id="cn-more-info" class="cn-more-info button">Maggiori Informazioni</a>
+				</div>
+			</div></body>
+</html>

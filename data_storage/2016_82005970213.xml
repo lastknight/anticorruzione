@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Silandro</abstract>
+   <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Silandro</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21093/21093indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_35E4FF9D-601E-419B-BB30-C62AE6A995A7'>
+      <linkDataset>http://data.gvcc.net/avcp/21093/35E4FF9D-601E-419B-BB30-C62AE6A995A7.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_BF93F3FE-8A45-4D0D-90D0-DF00999814E8'>
+      <linkDataset>http://data.gvcc.net/avcp/21093/BF93F3FE-8A45-4D0D-90D0-DF00999814E8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_F3D74EF2-A366-4724-A84D-A25A71E15F54'>
+      <linkDataset>http://data.gvcc.net/avcp/21093/F3D74EF2-A366-4724-A84D-A25A71E15F54.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

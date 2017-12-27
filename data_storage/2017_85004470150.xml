@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice pubblicazione 2016</titolo>
+    <abstract>Pubblicazione relativa all'anno 2017</abstract>
+    <dataPubblicazioneIndice>2017-01-23</dataPubblicazioneIndice>
+    <entePubblicatore>CORE - Consorzio Recuperi Energetici - S.p.A.</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-23</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.coresesto.it/anac190/rif2016/IndiceDataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.coresesto.it/anac190/rif2016/Dati_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

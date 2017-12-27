@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+	<titolo> Pubblicazione dati Legge 190 - Regione Siciliana</titolo>
+	<abstract> Pubblicazione dati Legge 190 - Anno di riferimento:2016 aggiornamento del 2017-02-20 14:25:18</abstract>
+	<dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+	<entePubblicatore>REGIONE SICILIANA</entePubblicatore>
+	<dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+	<annoRiferimento>2016</annoRiferimento><urlFile>http://www.regione.sicilia.it/L190/indiceL190_2016.xml</urlFile>
+
+	<licenza>IODL 2.0</licenza>
+	</metadata>
+  <indice>
+
+  	<dataset id="ID_1">
+  	<linkDataset>http://www.regione.sicilia.it/L190/1_2016.xml</linkDataset>
+	  <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+  	</dataset>     
+
+  	<dataset id="ID_2">
+  	<linkDataset>http://www.regione.sicilia.it/L190/2_2016.xml</linkDataset>
+	  <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+  	</dataset>
+    
+    <dataset id="ID_3">
+  	<linkDataset>http://www.regione.sicilia.it/L190/CUCfarmaci2016.xml</linkDataset>
+	  <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+  	</dataset>     
+</indice></indici>

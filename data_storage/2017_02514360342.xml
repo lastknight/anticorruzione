@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="legge190_1_0">
+  <metadata xmlns="">
+    <titolo>Pubblicazione 1 Legge 190 Anno 2016 </titolo>
+    <abstract>Contratti 2016</abstract>
+    <dataPubbicazioneDataset>2017-01-23</dataPubbicazioneDataset>
+    <entePubblicatore>Alfa - Agenzia Logistica Filiere Agro-Alimentari S.r.l.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-01-31</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.sttholding.com/avcp/xmlfiles/DataSet_Alfa_-_Agenzia_Logistica_Filiere_Agro-Alimentari_Srl_2016.xml</urlFile>
+    <licenza xsi:type="xsd:string">IODL</licenza>
+  </metadata>
+  <data xmlns="">
+    <lotto>
+      <cig>Z031B7ADA4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02514360342</codiceFiscaleProp>
+        <denominazione>Alfa - Agenzia Logistica Filiere Agro-Alimentari S.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento incarico tecnico professionale volto alla sistemazione delle Stalline di Maria Luigia
+</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BIAGLI83R47G337H</codiceFiscale>
+          <ragioneSociale>BIA ARCH. GIULIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BIAGLI83R47G337H</codiceFiscale>
+          <ragioneSociale>BIA ARCH. GIULIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-05</dataInizio>
+        <dataUltimazione>2017-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1.87</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XC719514F3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02514360342</codiceFiscaleProp>
+        <denominazione>Alfa - Agenzia Logistica Filiere Agro-Alimentari S.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento incarico di vigilanza fissa presso il fabbricato denominato ex stalline di Maria Luigia </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03169660150</codiceFiscale>
+          <ragioneSociale>I.V.R.I. SPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>13063491008</codiceFiscale>
+          <ragioneSociale>METROSERVICES GENERAL CONTRACTOR SPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02592110346</codiceFiscale>
+          <ragioneSociale>SECURDUCALE VIGILANZA SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02592110346</codiceFiscale>
+          <ragioneSociale>SECURDUCALE VIGILANZA SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-20</dataInizio>
+        <dataUltimazione>2017-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>88.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X9F19514F4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02514360342</codiceFiscaleProp>
+        <denominazione>Alfa - Agenzia Logistica Filiere Agro-Alimentari S.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di messa in sicurezza delle stalline di Maria Luigia</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02379960343</codiceFiscale>
+          <ragioneSociale>RO.VI SAS</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02138180340</codiceFiscale>
+          <ragioneSociale>SPAGGIARI GIOVANNI SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02138180340</codiceFiscale>
+          <ragioneSociale>SPAGGIARI GIOVANNI SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5734.77</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-05</dataInizio>
+        <dataUltimazione>2016-07-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5734.77</importoSommeLiquidate>
+    </lotto>
+  </data>
+</pubblicazione>

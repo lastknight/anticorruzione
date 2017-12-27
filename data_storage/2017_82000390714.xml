@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Adempimenti LG190/2012</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-07</dataPubblicazioneIndice>
+    <entePubblicatore>COMUNE DI BICCARI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-07</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.comune.biccari.fg.it/Upload/cms/amministrazione_trasparente/bandi_di_gara_e_contratti/anac/L190_AVCP_INDICE_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.comune.biccari.fg.it/Upload/cms/amministrazione_trasparente/bandi_di_gara_e_contratti/anac/L190_AVCP_Dataset_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-07</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

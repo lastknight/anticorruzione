@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Tubre</abstract>
+   <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Tubre</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21103/21103indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_E769CE4A-9D5D-4DBC-ACCB-140E4B6E5004'>
+      <linkDataset>http://data.gvcc.net/avcp/21103/E769CE4A-9D5D-4DBC-ACCB-140E4B6E5004.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_25FC959A-5B9D-403B-89B5-01A0574FF9D8'>
+      <linkDataset>http://data.gvcc.net/avcp/21103/25FC959A-5B9D-403B-89B5-01A0574FF9D8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_75678F93-407D-4184-83C6-42BA61359B9B'>
+      <linkDataset>http://data.gvcc.net/avcp/21103/75678F93-407D-4184-83C6-42BA61359B9B.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

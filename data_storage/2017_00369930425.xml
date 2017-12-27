@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Pubblicazione articolo 1 comma 32 legge 190</titolo>
+    <abstract>Indice Pubblicazione articolo 1 comma 32 legge 190 anno 2016</abstract>
+    <dataPubblicazioneIndice>2016-12-31</dataPubblicazioneIndice>
+    <entePubblicatore>Provincia di Ancona</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-12-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.provincia.ancona.it/Engine/RAServeFile.php/f/Trasparenza/Avcp/datasetIndiceAppaltiL190_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.provincia.ancona.it/Engine/RAServeFile.php/f/Trasparenza/Avcp/datasetAppaltiL190_2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.provincia.ancona.it/Engine/RAServeFile.php/f/Trasparenza/Avcp/datasetAppaltiL190_2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.provincia.ancona.it/Engine/RAServeFile.php/f/Trasparenza/Avcp/datasetAppaltiL190_2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.provincia.ancona.it/Engine/RAServeFile.php/f/Trasparenza/Avcp/datasetAppaltiL190_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://www.provincia.ancona.it/Engine/RAServeFile.php/f/Trasparenza/Avcp/datasetAppaltiL190_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

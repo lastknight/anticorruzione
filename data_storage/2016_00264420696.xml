@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2016-01-27</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di FRESAGRANDINARIA (CH)</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c069036/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>X1A13C6F74</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00264420696</codiceFiscaleProp>
+			<denominazione>COMUNE DI FRESAGRANDINARIA</denominazione>
+		</strutturaProponente>
+		<oggetto>DITTA SAN SALVO DIESEL S.R.L. CON SEDE A SAN SALVO. ART. 183 DEL D.LGS. N. 267/2000 &quot;IMPEGNO DI SPESA&quot; PER REVISIONE, MANUTENZIONE E RIPARAZIONE SCUOLABUS.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00128180692</codiceFiscale>
+                        						<ragioneSociale>SAN SALVO DIESEL SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

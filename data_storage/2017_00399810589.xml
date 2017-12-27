@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Indice pubblicazioni AVCP IPZS</titolo>
+        <abstract>Anno di pubblicazione: 2017</abstract>
+        <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+        <entePubblicatore>Istituto Poligrafico e Zecca dello Stato S.p.A.</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.ipzs.it/albofornitori/avcp/index_ipzs_2016.xml</urlFile>
+        <licenza>IODL 2.0 - http://www.dati.gov.it/iodl/2.0/</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2016_1.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.ipzs.it/albofornitori/avcp/pubblicazione_2016_2.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

@@ -65,5 +65,51 @@
           </div>
         </div> 
       </div> 
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="portlet portlet-boxed">
+
+            <div class="portlet-header">
+              <h4 class="portlet-title">
+                Analisi dei Lotti per <%=@scheda['ragione']%>
+              </h4>
+            </div> 
+
+            <div class="portlet-body">
+				
+	            <p class="text-muted">
+	                <strong>ATTENZIONE:</strong> In questa tabella sono riportate le informazioni che è stato possibile desumere dal parsing del file XML fornito, ove questo sia ancora accedibile e correttamente formattato. Non si risponde di eventuali errori di visualizzazione e per qualunque controllo completo si prega di fare riferimento al file pubblicato disponibile all'indirizzo <a href="<%=@scheda['url']%>"><%=@scheda['url']%></a><br/>
+	            </p>
+
+              <table class="table table table-hover m-0">
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Descrizione</th>
+                    <th>Tipologia</th>
+                    <th>Aggiudicatario</th>
+                    <th>Importo</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+					<% @data.each do |d|%>
+                  <tr>
+                    <td><%=d[0]%></td>
+                    <td><%=d[1]%></td>
+                    <td><%=d[2]%></td>
+                    <td><%=d[4]%> (<%=d[3]%>)</td>
+                    <td><%=d[5]%></td>
+                  </tr>
+				  <% end %>
+                </tbody>
+              </table>
+
+            </div>
+
+          </div>
+        </div> 
+      </div> 
 	  
     </div> <!-- /.container -->

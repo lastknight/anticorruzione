@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-20</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Vigasio</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-20</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.halleysac.it/c023094/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>Z8716DC6CC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80014290235</codiceFiscaleProp>
+			<denominazione>COMUNE DI VIGASIO</denominazione>
+		</strutturaProponente>
+		<oggetto>Avviso per l'affidamento dei servizi cimiteriali</oggetto>
+		<sceltaContraente>05-DIALOGO COMPETITIVO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6916E702D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>80014290235</codiceFiscaleProp>
+			<denominazione>COMUNE DI VIGASIO</denominazione>
+		</strutturaProponente>
+		<oggetto>BANDO DI GARA PER L'AFFIDAMENTO DEL SERVIZIO DI TESORERIA COMUNALE PER IL QUINQUENNIO 2016/2020.</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>03700430238</codiceFiscale>
+					<ragioneSociale>BANCO POPOLARE</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>1970-01-12</dataInizio>
+										<dataUltimazione>2020-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

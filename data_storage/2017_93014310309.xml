@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2016-01-28 15:27:45</abstract>
+		<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Comunita' montana del Gemonese, Canal del Ferro e Val Canale</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile><![CDATA[http://www.cm-gemonesecanaldelferrovalcanale.it/fileadmin/user_cm/Amministrazione_trasparente/AVCP_xml_2016/indice_C06002_avcp_dataset_2016.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://www.cm-gemonesecanaldelferrovalcanale.it/fileadmin/user_cm/Amministrazione_trasparente/AVCP_xml_2015/C06002_avcp_dataset_2012.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset><![CDATA[http://www.cm-gemonesecanaldelferrovalcanale.it/fileadmin/user_cm/Amministrazione_trasparente/AVCP_xml_2015/C06002_avcp_dataset_2013.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_3'>
+			<linkDataset><![CDATA[http://www.cm-gemonesecanaldelferrovalcanale.it/fileadmin/user_cm/Amministrazione_trasparente/AVCP_xml_2015/C06002_avcp_dataset_2014.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_4'>
+			<linkDataset><![CDATA[http://www.cm-gemonesecanaldelferrovalcanale.it/fileadmin/user_cm/Amministrazione_trasparente/AVCP_xml_2015/C06002_avcp_dataset_2015.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_5'>
+			<linkDataset><![CDATA[http://www.cm-gemonesecanaldelferrovalcanale.it/fileadmin/user_cm/Amministrazione_trasparente/AVCP_xml_2016/C06002_avcp_dataset_2016.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

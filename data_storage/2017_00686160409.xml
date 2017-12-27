@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazioni 2016</titolo>
+    <abstract>Indice delle pubblicazioni di bandi di gara e contratti della Fondazione Centro Ricerche Marine</abstract>
+    <dataPubblicazioneIndice>2016-06-30</dataPubblicazioneIndice>
+    <entePubblicatore>Fondazione Centro Ricerche Marine</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-15</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.centroricerchemarine.it/public/datasets/indice_dataset_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.centroricerchemarine.it/public/datasets/dataset_2016_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.centroricerchemarine.it/public/datasets/dataset_2016_12.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

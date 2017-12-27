@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Lagundo</abstract>
+   <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Lagundo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-15</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21038/21038indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_EC002404-FB04-48AD-959C-77BBABA88701'>
+      <linkDataset>http://data.gvcc.net/avcp/21038/EC002404-FB04-48AD-959C-77BBABA88701.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-09</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_58458612-9FC6-40CE-8758-8A7A6F6A0487'>
+      <linkDataset>http://data.gvcc.net/avcp/21038/58458612-9FC6-40CE-8758-8A7A6F6A0487.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif.2010</abstract>
+  <dataPubbicazioneDataset>2017-12-27</dataPubbicazioneDataset>
+  <entePubblicatore>Avvocatura dello Stato</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2017-12-27</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2016</annoRiferimento>
+  <urlFile>http://www.avvocaturastato.it/new_amministrazione_aperta_xml/2016/98093490179</urlFile>
+  <licenza>IODL</licenza>
+  </metadata>
+  <data>
+
+    
+    <lotto>
+      <cig>Z441849514</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio pulizia locali anno 2016</oggetto>
+       <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03144970989</codiceFiscale>
+          <ragioneSociale><![CDATA[NET SERVICE SAS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03283590176</codiceFiscale>
+          <ragioneSociale><![CDATA[BARTOLINI PULIZIE ED AFFINI SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00329590178</codiceFiscale>
+          <ragioneSociale><![CDATA[CANDOR]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02482860984</codiceFiscale>
+          <ragioneSociale><![CDATA[CBS GROUP]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01615490172</codiceFiscale>
+          <ragioneSociale><![CDATA[DOMUS DI LECCHI GUALTIERO & C.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03081080164</codiceFiscale>
+          <ragioneSociale><![CDATA[ECOLOGIA AMBIENTALE]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05803271211</codiceFiscale>
+          <ragioneSociale><![CDATA[ENCAN SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>LNTFNC55E08B157X</codiceFiscale>
+          <ragioneSociale><![CDATA[IMPRESA DI PULIZIE LINUS DI LINETTI]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MCRGPL67P23B157B</codiceFiscale>
+          <ragioneSociale><![CDATA[MACRI GIANPAOLO]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03712360985</codiceFiscale>
+          <ragioneSociale><![CDATA[MINERVA SOC. COOP. SOCIALE A R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07984820154</codiceFiscale>
+          <ragioneSociale><![CDATA[PULIEXECUTIVE SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03131230173</codiceFiscale>
+          <ragioneSociale><![CDATA[PULISTA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02076190178</codiceFiscale>
+          <ragioneSociale><![CDATA[PULITORI ED AFFINI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02805640980</codiceFiscale>
+          <ragioneSociale><![CDATA[PETRARCA SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03144970989</codiceFiscale>
+          <ragioneSociale><![CDATA[NET SERVICE SAS]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10080.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-03-01</dataInizio>
+        <dataUltimazione>2017-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10080.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z6A18C9F85</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Abbonamento annuale impersonale mezzi trasporto pubblici </oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03513620173</codiceFiscale>
+          <ragioneSociale><![CDATA[BRESCIA TRASPORTI SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03513620173</codiceFiscale>
+          <ragioneSociale><![CDATA[BRESCIA TRASPORTI SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>485.01</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-03-02</dataInizio>
+        <dataUltimazione>2017-03-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>485.01</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZE318F0E60</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Interventi su impianto elettrico</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>MGSMRA48D07C417W</codiceFiscale>
+          <ragioneSociale><![CDATA[MAGISTRI Impianti Elettrici ]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MGSMRA48D07C417W</codiceFiscale>
+          <ragioneSociale><![CDATA[MAGISTRI Impianti Elettrici ]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>490.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-03-15</dataInizio>
+        <dataUltimazione>2016-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>490.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z18192B2FE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura e sostituzione centrale impianto antintrusione</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03166250179</codiceFiscale>
+          <ragioneSociale><![CDATA[FARCO SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03166250179</codiceFiscale>
+          <ragioneSociale><![CDATA[FARCO SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>720.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-03-31</dataInizio>
+        <dataUltimazione>2017-04-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>720.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZA2199E345</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Interventi di manutenzione impianto idrico sanitario </oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03766220986</codiceFiscale>
+          <ragioneSociale><![CDATA[BEGNI SRL ]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03766220986</codiceFiscale>
+          <ragioneSociale><![CDATA[BEGNI SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>662.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-05-19</dataInizio>
+        <dataUltimazione>2016-06-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>662.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z9E19A8BD0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di interpretariato LIS</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>04928591009</codiceFiscale>
+          <ragioneSociale><![CDATA[Ente Naz.le Protezione e Assistenza Sordi Onlus]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04928591009</codiceFiscale>
+          <ragioneSociale><![CDATA[Ente Naz.le Protezione e Assistenza Sordi Onlus]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>280.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-04-30</dataInizio>
+        <dataUltimazione>2016-05-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>280.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZE819EF6A1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Riparazione urgente impianto elettrico</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>MGSMRA48D07C417W</codiceFiscale>
+          <ragioneSociale><![CDATA[MAGISTRI Impianti Elettrici]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MGSMRA48D07C417W</codiceFiscale>
+          <ragioneSociale><![CDATA[MAGISTRI Impianti Elettrici]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>209.39</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-05-19</dataInizio>
+        <dataUltimazione>2016-05-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>209.39</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZA419F8AFB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento di ripristino funzionalità impianto antintrusione</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03166250179</codiceFiscale>
+          <ragioneSociale><![CDATA[FARCO SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03166250179</codiceFiscale>
+          <ragioneSociale><![CDATA[FARCO SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1040.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-05-23</dataInizio>
+        <dataUltimazione>2016-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1040.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZCD1A5289D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto alimentatori stampanti Zebra</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>08619981007</codiceFiscale>
+          <ragioneSociale><![CDATA[PC Project Srl]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08619981007</codiceFiscale>
+          <ragioneSociale><![CDATA[PC Project Srl]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>350.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-06-17</dataInizio>
+        <dataUltimazione>2016-07-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>350.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z141A528C1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto arredi</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>01952150264</codiceFiscale>
+          <ragioneSociale><![CDATA[Proced Srl]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01952150264</codiceFiscale>
+          <ragioneSociale><![CDATA[Proced Srl]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1229.51</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-06-17</dataInizio>
+        <dataUltimazione>2016-07-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1229.51</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZF31A70785</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto cancelleria</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[Office Depot Italia Srl]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[Office Depot Italia Srl]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>160.61</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-06-29</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>160.61</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z0B1A707BD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto materiale igienico</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[Office Depot Italia Srl]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[Office Depot Italia Srl]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>228.42</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-06-29</dataInizio>
+        <dataUltimazione>2016-06-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>228.42</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z221A7F06D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>effettuazione di n. 14 visite mediche ed esami Ergovision (D.Lgs. 81/08)</oggetto>
+       <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03533961003</codiceFiscale>
+          <ragioneSociale><![CDATA[SINTESI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02569860980</codiceFiscale>
+          <ragioneSociale><![CDATA[SINERMED SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07874490019</codiceFiscale>
+          <ragioneSociale><![CDATA[EXITONE SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01604190171</codiceFiscale>
+          <ragioneSociale><![CDATA[C.B.F. SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03533961003</codiceFiscale>
+          <ragioneSociale><![CDATA[SINTESI SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>742.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-07-02</dataInizio>
+        <dataUltimazione>2016-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>742.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZA91BE08DC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di manutenzione gruppo statico di continuità 2017-2018</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>10030570153</codiceFiscale>
+          <ragioneSociale><![CDATA[BORRI S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10030570153</codiceFiscale>
+          <ragioneSociale><![CDATA[BORRI SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2444.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1222.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z341BF04AE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ascensore triennio 2017-2019</oggetto>
+       <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>08710640155</codiceFiscale>
+          <ragioneSociale><![CDATA[ELMA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08710640155</codiceFiscale>
+          <ragioneSociale><![CDATA[ELMA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4212.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1404.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z8E1BFB5E4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Rilegatura riviste giuridiche</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03145440172</codiceFiscale>
+          <ragioneSociale><![CDATA[La Legatoria di Vizzardi]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03145440172</codiceFiscale>
+          <ragioneSociale><![CDATA[La Legatoria di Vizzardi ]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>61.50</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-11-15</dataInizio>
+        <dataUltimazione>2016-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>61.50</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z381BFD2AD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di manutenzione affrancatrice anno 2017</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>01179300171</codiceFiscale>
+          <ragioneSociale><![CDATA[ARICI S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01179300171</codiceFiscale>
+          <ragioneSociale><![CDATA[ARICI S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>270.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2017-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>270.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z411C22B30</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di manutenzione impianto di riscaldamento 2017-2018</oggetto>
+       <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>00668170178</codiceFiscale>
+          <ragioneSociale><![CDATA[SORBITERMICA S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00668170178</codiceFiscale>
+          <ragioneSociale><![CDATA[SORBITERMICA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2280.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1140.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZCA1C22BD6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione impianto di condizionamento 2017-2018</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>00668170178</codiceFiscale>
+          <ragioneSociale><![CDATA[SORBITERMICA S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00668170178</codiceFiscale>
+          <ragioneSociale><![CDATA[SORBITERMICA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2800.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1400.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z171C24FE9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto bandiere</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>04960590653</codiceFiscale>
+          <ragioneSociale><![CDATA[CENTRO FORNITURE SNC]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04960590653</codiceFiscale>
+          <ragioneSociale><![CDATA[CENTRO FORNITURE SNC]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>120.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-11-29</dataInizio>
+        <dataUltimazione>2016-11-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>120.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z7D1C256D0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di manutenzione estintori anno 2017</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>02225700984</codiceFiscale>
+          <ragioneSociale><![CDATA[Antincendio Domenighini Srl]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02225700984</codiceFiscale>
+          <ragioneSociale><![CDATA[Antincendio Domenighini Srl]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>273.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2017-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>273.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z7A1C294C1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>attivazione abbonamenti codici giuridici</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>PCLGPP53R26B157T</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBRERIA GIURIDICA PICELLI]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PCLGPP53R26B157T</codiceFiscale>
+          <ragioneSociale><![CDATA[LIBRERIA GIURIDICA PICELLI]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>629.97</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-11-29</dataInizio>
+        <dataUltimazione>2016-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>629.97</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z571C3B07B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto materiale informatico</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>01121130197</codiceFiscale>
+          <ragioneSociale><![CDATA[C2 S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01121130197</codiceFiscale>
+          <ragioneSociale><![CDATA[C2 S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2452.50</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-11-29</dataInizio>
+        <dataUltimazione>2016-12-13</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2452.50</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z9D1C3B1B3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto materiale igienico sanitario</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICE DEPOT ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICE DEPOT ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>620.60</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-11-29</dataInizio>
+        <dataUltimazione>2016-11-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>620.60</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z031C3B355</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto cancelleria</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICE DEPOT ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03675290286</codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICE DEPOT ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>272.81</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-11-29</dataInizio>
+        <dataUltimazione>2016-11-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>272.81</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z7B1C44082</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di manutenzione impianti rilevazione fumi e antintrusione 2017-2018</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03166250179</codiceFiscale>
+          <ragioneSociale><![CDATA[FARCO S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03166250179</codiceFiscale>
+          <ragioneSociale><![CDATA[FARCO S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2636.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1318.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>ZD81C7970D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto carta per fotocopiatrici</oggetto>
+       <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>06262520155</codiceFiscale>
+          <ragioneSociale><![CDATA[DUBINI S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06262520155</codiceFiscale>
+          <ragioneSociale><![CDATA[DUBINI S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2040.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-12-13</dataInizio>
+        <dataUltimazione>2016-12-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2040.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z1C1C7AAF9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>gestione servizi di salute e sicurezza sul lavoro</oggetto>
+       <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>03533961003</codiceFiscale>
+          <ragioneSociale><![CDATA[SINTESI S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07874490019</codiceFiscale>
+          <ragioneSociale><![CDATA[EXITONE S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03533961003</codiceFiscale>
+          <ragioneSociale><![CDATA[SINTESI S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1950.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2017-01-01</dataInizio>
+        <dataUltimazione>2017-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1950.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z121CAC46B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio teleallarme anno 2017</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>00868700170</codiceFiscale>
+          <ragioneSociale><![CDATA[VCB SECURITAS SOC. COOP. p. A,]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00868700170</codiceFiscale>
+          <ragioneSociale><![CDATA[VCB SECURITAS SOC. COOP. p. A]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>480.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>480.00</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z6B17F859B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura estintori a polvere</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>02225700984</codiceFiscale>
+          <ragioneSociale><![CDATA[Antincendio Domenighini S.r.l.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02225700984</codiceFiscale>
+          <ragioneSociale><![CDATA[Antincendio Domenighini S.r.l.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1052.32</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-01-12</dataInizio>
+        <dataUltimazione>2016-03-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1052.32</importoSommeLiquidate>
+     </lotto>
+    <lotto>
+      <cig>Z3E17F8F0C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>98093490179</codiceFiscaleProp>
+        <denominazione>Avv. Distr. Brescia</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio manutenzione estintori anno 2016</oggetto>
+       <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+       <partecipanti>
+        <partecipante>
+          <codiceFiscale>02225700984</codiceFiscale>
+          <ragioneSociale><![CDATA[Antincendio Domenighini S.r.l.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02225700984</codiceFiscale>
+          <ragioneSociale><![CDATA[Antincendio Domenighini S.r.l.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>260.00</importoAggiudicazione>
+       <tempiCompletamento>
+        <dataInizio>2016-01-12</dataInizio>
+        <dataUltimazione>2016-11-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>260.00</importoSommeLiquidate>
+     </lotto>
+  </data>
+</legge190:pubblicazione>
+

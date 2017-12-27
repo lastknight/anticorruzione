@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- generator="Drupal, CRAbruzzo module" -->
+<indici xsi:noNamespaceSchemaLocation="datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione legge 190/2012</titolo>
+<abstract>Pubblicazione legge 190/2012 anno di riferimento 2014</abstract>
+<dataPubblicazioneIndice>2013-01-01</dataPubblicazioneIndice>
+<entePubblicatore>Consiglio regionale dell'Abruzzo</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-23</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www2.consiglio.regione.abruzzo.it/damm/gare/indicedataset/indicedataset.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.consiglio.regione.abruzzo.it/appalti/dataset.xml/2016</linkDataset>
+<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.consiglio.regione.abruzzo.it/appalti/dataset.xml/2015</linkDataset>
+<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://www.consiglio.regione.abruzzo.it/appalti/dataset.xml/2014</linkDataset>
+<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_4">
+<linkDataset>http://www.consiglio.regione.abruzzo.it/appalti/dataset.xml/2013</linkDataset>
+<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_5">
+<linkDataset>http://www.consiglio.regione.abruzzo.it/appalti/dataset.xml/2012</linkDataset>
+<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

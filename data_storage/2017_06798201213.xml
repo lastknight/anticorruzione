@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  <metadata>
+    <titolo><![CDATA[Pubblicazione legge 190]]></titolo>
+    <abstract><![CDATA[ ]]></abstract>
+    <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+    <entePubblicatore><![CDATA[A.O.R.N. DEI COLLI MONALDI - COTUGNO - CTO]]></entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento><![CDATA[2016]]></annoRiferimento>
+    <urlFile><![CDATA[http://www.ospedalideicolli.it/moduli/2016_avcpLegge190.xml]]></urlFile>
+    <licenza><![CDATA[IODL]]></licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1" >
+      <linkDataset>http://www.ospedalideicolli.it/moduli/avcpLegge190_f4b4441d-784a-4d97-b840-a1e512917baa_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2" >
+      <linkDataset>http://www.ospedalideicolli.it/moduli/avcpLegge190_f4b4441d-784a-4d97-b840-a1e512917baa_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

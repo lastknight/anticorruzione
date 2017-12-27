@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Agenzia per i procedimenti e la vigilanza in materia di contratti pubblici di lavori, servizi e forniture - Pubblicazione legge 190,</titolo>
+    <abstract>Indice Agenzia per i procedimenti e la vigilanza in materia di contratti pubblici di lavori, servizi e forniture - Pubblicazione legge 190 - Anno di riferimento 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-12</dataPubblicazioneIndice>
+    <entePubblicatore>Agenzia per i procedimenti e la vigilanza in materia di contratti pubblici di lavori, servizi e forniture</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-12</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/acp/trasparenza/L190/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.provincia.bz.it/acp/trasparenza/L190/esiti_2016_20170215-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

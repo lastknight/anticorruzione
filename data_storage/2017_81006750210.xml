@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Marktgemeinde Innichen</abstract>
+   <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+   <entePubblicatore>Marktgemeinde Innichen</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-15</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21077/21077indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_40E8B17B-F125-473A-B2F8-C3A912062539'>
+      <linkDataset>http://data.gvcc.net/avcp/21077/40E8B17B-F125-473A-B2F8-C3A912062539.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_6E195B49-8EC2-4893-9038-5D2FF08AE26A'>
+      <linkDataset>http://data.gvcc.net/avcp/21077/6E195B49-8EC2-4893-9038-5D2FF08AE26A.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

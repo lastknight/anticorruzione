@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Margreid a.d.W. -  Comune Magrè s.S.d.V.</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Margreid a.d.W. -  Comune Magrè s.S.d.V.</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21045/21045indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_01ED8413-C1D0-49CA-B83D-9905F0172EFF'>
+      <linkDataset>http://data.gvcc.net/avcp/21045/01ED8413-C1D0-49CA-B83D-9905F0172EFF.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_A953E306-912B-404F-B26F-529A7294F41D'>
+      <linkDataset>http://data.gvcc.net/avcp/21045/A953E306-912B-404F-B26F-529A7294F41D.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_E99195C1-F6E8-45DC-9143-77928AA3CA45'>
+      <linkDataset>http://data.gvcc.net/avcp/21045/E99195C1-F6E8-45DC-9143-77928AA3CA45.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

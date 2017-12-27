@@ -1,0 +1,968 @@
+<!doctype html>
+
+<!--[if lt IE 10]>
+<html class="ie9 no-js grve-responsive" lang="it-IT" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js grve-responsive" lang="it-IT" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+	<head>
+		<meta charset="UTF-8">
+
+		<!-- viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+		<!-- allow pinned sites -->
+		<meta name="application-name" content="SEAB Biella" />
+
+		
+		<link rel="pingback" href="http://www.seab.biella.it/xmlrpc.php">
+
+		<title>Home Page - SEAB Biella</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.seab.biella.it/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home Page - SEAB Biella" />
+<meta property="og:url" content="http://www.seab.biella.it/" />
+<meta property="og:site_name" content="SEAB Biella" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home Page - SEAB Biella" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.seab.biella.it\/","name":"SEAB Biella","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.seab.biella.it\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SEAB Biella &raquo; Feed" href="http://www.seab.biella.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SEAB Biella &raquo; Feed dei commenti" href="http://www.seab.biella.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SEAB Biella &raquo; Home Page Feed dei commenti" href="http://www.seab.biella.it/home-page/feed/" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="application-name" content="SEAB Biella">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+		var disableStr = 'ga-disable-UA-103188578-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-103188578-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('set', 'anonymizeIp', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.seab.biella.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.seab.biella.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.seab.biella.it/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.3.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='grve-awesome-fonts-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-basic-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/basic.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-grid-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/grid.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-theme-style-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/theme-style.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-elements-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/elements.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-woocommerce-layout-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/woocommerce-layout.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-woocommerce-smallscreen-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/woocommerce-smallscreen.css?ver=3.5.8' type='text/css' media='only screen and (max-width: 959px)' />
+<link rel='stylesheet' id='grve-woocommerce-extrasmallscreen-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/woocommerce-extrasmallscreen.css?ver=3.5.8' type='text/css' media='only screen and (max-width: 767px)' />
+<link rel='stylesheet' id='grve-woocommerce-general-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/woocommerce.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-style-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis-child/style.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='grve-responsive-css'  href='http://www.seab.biella.it/wp-content/themes/osmosis/css/responsive.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.seab.biella.it/wp-content/plugins/tablepress/css/default.min.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.seab.biella.it/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-grve_osmosis_options-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C800%2C600%2C700%2C600italic%2C300&#038;ver=1513766149' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.seab.biella.it","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.3.1'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/www.seab.biella.it\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Visualizza carrello","cart_url":"http:\/\/www.seab.biella.it","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.6'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.4'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/themes/osmosis/js/modernizr.custom.js?ver=2.8.3'></script>
+<link rel='https://api.w.org/' href='http://www.seab.biella.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.seab.biella.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.seab.biella.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.1" />
+<meta name="generator" content="WooCommerce 3.2.6" />
+<link rel='shortlink' href='http://www.seab.biella.it/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.seab.biella.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.seab.biella.it%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.seab.biella.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.seab.biella.it%2F&#038;format=xml" />
+<!-- Dynamic css -->
+<style type="text/css">
+ body { font-size: 14px; font-family: "Open Sans"; font-weight: 400; } input[type='text'], input[type='input'], input[type='password'], input[type='email'], input[type='number'], input[type='date'], input[type='url'], input[type='tel'], input[type='search'], textarea, select { font-family: "Open Sans"; } #grve-header .grve-logo.grve-logo-text a { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 18px; text-transform: uppercase; } #grve-header #grve-main-menu ul li ul li a { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 11px; text-transform: uppercase; } #grve-header #grve-main-menu > ul > li > a, #grve-header .grve-responsive-menu-text { font-family: "Open Sans"; font-weight: 800; font-style: normal; font-size: 12px; text-transform: uppercase; } h1, .grve-h1, .woocommerce h1.grve-widget-title { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 48px; text-transform: none; } h2, .grve-h2, .woocommerce h2.grve-widget-title { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 36px; text-transform: none; } h3, .grve-h3 { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 30px; text-transform: none; } h4, .grve-h4, .woocommerce h1 { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 24px; text-transform: none; } h5, .grve-h5, #reply-title, .grve-product-name, .woocommerce h2, .woocommerce-billing-fields h3, #order_review_heading { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 20px; text-transform: none; } h6, .grve-h6, .mfp-title, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a { font-family: "Open Sans"; font-weight: 600; font-style: normal; font-size: 14px; text-transform: none; } #grve-page-title .grve-title { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 60px; text-transform: uppercase; } #grve-page-title .grve-description { font-family: "Open Sans"; font-weight: 600; font-style: italic; font-size: 24px; text-transform: none; } #grve-portfolio-title .grve-title { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 60px; text-transform: uppercase; } #grve-portfolio-title .grve-description { font-family: "Open Sans"; font-weight: 600; font-style: italic; font-size: 24px; text-transform: none; } #grve-product-title .grve-title { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 60px; text-transform: uppercase; } #grve-post-title .grve-title, #grve-main-content.grve-simple-style .grve-post-simple-title { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 40px; text-transform: uppercase; } #grve-header[data-fullscreen='no'] #grve-feature-section .grve-title { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 60px; text-transform: uppercase; } #grve-header[data-fullscreen='no'] #grve-feature-section .grve-description { font-family: "Open Sans"; font-weight: 600; font-style: italic; font-size: 24px; text-transform: none; } #grve-header[data-fullscreen='yes'] #grve-feature-section .grve-title { font-family: "Open Sans"; font-weight: 800; font-style: normal; font-size: 70px; text-transform: uppercase; } #grve-header[data-fullscreen='yes'] #grve-feature-section .grve-description { font-family: "Open Sans"; font-weight: 600; font-style: italic; font-size: 28px; text-transform: none; } .grve-leader-text p, p.grve-leader-text { font-family: "Open Sans"; font-weight: 300; font-style: normal; font-size: 28px; text-transform: none; } .grve-subtitle p, .grve-subtitle, .grve-accordion .grve-title, .grve-toggle .grve-title, blockquote, .woocommerce div.product span.price, .woocommerce div.product p.price, .woocommerce #content div.product span.price, .woocommerce #content div.product p.price, .woocommerce-page div.product span.price, .woocommerce-page div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page #content div.product p.price { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 18px; text-transform: none; } .grve-small-text, small, #grve-meta-bar .grve-meta-elements a, #grve-meta-bar .grve-meta-elements li.grve-field-date, #grve-anchor-menu a, .grve-tags, .grve-categories, #grve-post-title #grve-social-share ul li .grve-like-counter, #grve-portfolio-bar #grve-social-share ul li .grve-like-counter, .grve-blog .grve-like-counter, .grve-blog .grve-post-author, .grve-blog .grve-post-date, .grve-pagination ul li, #grve-header-options ul.grve-options a span, .grve-pagination .grve-icon-nav-right, .grve-pagination .grve-icon-nav-left, #grve-comments .grve-comment-item .grve-comment-date, #grve-comments .comment-reply-link, #grve-comments .comment-edit-link, .grve-newsletter label, #grve-footer-bar .grve-social li, #grve-footer-bar .grve-copyright, #grve-footer-bar #grve-second-menu, #grve-share-modal .grve-social li a, #grve-language-modal .grve-language li a, .grve-bar-title, .grve-percentage, .grve-tabs-title li, .grve-pricing-table ul li, .logged-in-as, .widget.widget_recent_entries li span.post-date, cite, label, .grve-testimonial-name, .grve-hr .grve-divider-backtotop, .grve-slider-item .grve-slider-content span.grve-title, .grve-gallery figure figcaption .grve-caption, .widget.widget_calendar caption, .widget .rss-date, .widget.widget_tag_cloud a, .grve-widget.grve-latest-news .grve-latest-news-date, .grve-widget.grve-comments .grve-comment-date, .wpcf7-form p, .wpcf7-form .grve-one-third, .wpcf7-form .grve-one-half, .mfp-counter, .grve-related-post .grve-caption, .grve-comment-nav ul li a, .grve-portfolio .grve-like-counter span, .grve-portfolio .grve-portfolio-btns, .grve-portfolio .grve-filter, .grve-blog .grve-filter, .grve-image-hover .grve-caption, .grve-portfolio .grve-hover-style-2 figcaption .grve-caption, ul.grve-fields li, .grve-team-social li a, .grve-carousel-wrapper .grve-post-item .grve-caption, .grve-blog .grve-like-counter span, .grve-blog .grve-post-comments span, .grve-add-cart, .grve-map-infotext p, a.grve-infotext-link, #grve-meta-responsive, .woocommerce span.onsale, .woocommerce nav.woocommerce-pagination ul li, .woocommerce #content nav.woocommerce-pagination ul li, .woocommerce-page nav.woocommerce-pagination ul li, .woocommerce-page #content nav.woocommerce-pagination ul li, .woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count, .woocommerce-review-link, .product_meta, table.shop_table td.product-name, .woocommerce .related h2, .woocommerce .upsells.products h2, .woocommerce-page .related h2, .woocommerce-page .upsells.products h2, .woocommerce .cross-sells h2, .woocommerce .cart_totals h2, .woocommerce .shipping-calculator-button, .woocommerce-page .shipping-calculator-button, .woocommerce-info:not(.woocommerce-Message), #grve-shop-modal .cart_list.product_list_widget li a, .woocommerce .widget_price_filter .price_slider_amount, .woocommerce-page .widget_price_filter .price_slider_amount, .woocommerce ul.cart_list li a, .woocommerce ul.product_list_widget li a, .woocommerce-page ul.cart_list li a, .woocommerce-page ul.product_list_widget li a, .woocommerce.widget_product_tag_cloud .tagcloud a, .grve-menu-description { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 10px !important; text-transform: uppercase; } .grve-author-info .grve-read-more, .more-link, .grve-read-more, .grve-blog.grve-isotope[data-type='pint-blog'] .grve-isotope-item .grve-media-content .grve-read-more span, .grve-newsletter input[type='submit'], .grve-search button[type='submit'], #grve-above-footer .grve-social li, .grve-btn, input[type='submit'], input[type='reset'], input[type='button'], button, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button, #grve-shop-modal a.button { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 11px !important; text-transform: uppercase; } #grve-main-content .vc_tta-tab > a, #grve-main-content .vc_tta-panel-title { font-family: "Open Sans"; font-weight: 700; font-style: normal; font-size: 10px !important; text-transform: uppercase; } #grve-main-content .vc_tta-accordion .vc_tta-panel-title { font-family: "Open Sans"; font-weight: 400; font-style: normal; font-size: 18px !important; text-transform: none; } 
+</style><!-- Dynamic css -->
+<style type="text/css">
+ #grve-top-bar { line-height: 40px; background-color: #303030; color: #c9c9c9; } #grve-top-bar a { color: #c9c9c9; } #grve-top-bar a:hover { color: #e65603; } #grve-top-bar .grve-language ul li a, #grve-top-bar .grve-top-bar-menu ul.sub-menu { background-color: #222222; color: #808080; } #grve-top-bar .grve-language ul li a:hover { background-color: #e65603; color: #ffffff; } #grve-header[data-overlap='yes'][data-header-position='above-feature'][data-topbar='yes'] #grve-header-wrapper, #grve-header[data-overlap='yes'][data-header-position='above-feature'][data-topbar='yes'] #grve-inner-header { top: 40px; } #grve-top-bar, #grve-top-bar ul li.grve-topbar-item ul li a, #grve-top-bar ul.grve-bar-content, #grve-top-bar ul.grve-bar-content > li { border-color: #4f4f4f !important; } #grve-header #grve-inner-header { height: 130px; line-height: 130px; } #grve-header #grve-header-wrapper { height: 130px; } #grve-header #grve-inner-header .grve-logo img { max-height: 130px; } #grve-header #grve-header-options a.grve-open-button, #grve-header #grve-header-options a .grve-icon { width: 70px; height: 70px; line-height: 70px; } #grve-header[data-safebutton='right'] #grve-header-options { right: 0px; } #grve-header[data-safebutton='left'] #grve-header-options { left: 20px; } #grve-header .grve-menu-options { height: 130px; line-height: 130px; } #grve-header #grve-header-options .grve-options-wrapper, #grve-header #grve-header-options ul.grve-options li a .grve-icon::before { width: 70px; } #grve-header #grve-header-options ul.grve-options { line-height: 70px; } #grve-header #grve-header-options ul.grve-options li a { padding-left: 70px; } #grve-main-menu-responsive { color: #808080; background-color: #222222; } #grve-main-menu-responsive li a { color: #808080; background-color: #222222; } #grve-main-menu-responsive li a:hover { color: #ffffff; } #grve-main-menu-responsive ul li.current-menu-item > a, #grve-main-menu-responsive ul li.current-menu-parent > a, #grve-main-menu-responsive ul li.current_page_item > a, #grve-main-menu-responsive ul li.current_page_ancestor > a { color: #ffffff; } #grve-main-menu-responsive .grve-close-menu-button { color: #ffffff; background-color: #e65603; } #grve-main-menu-responsive .grve-menu-options li a { color: #808080 !important; } #grve-main-menu-responsive ul li a .label { color: #ffffff; background-color: #e65603; } #grve-main-menu-responsive.grve-style-2 .grve-more-btn:before, #grve-main-menu-responsive.grve-style-2 .grve-more-btn:after { background-color: #808080; } #grve-main-menu-responsive.grve-style-2 .grve-more-btn.close:before, #grve-main-menu-responsive.grve-style-2 .grve-more-btn.close:after { background-color: #ffffff; } #grve-header.grve-default #grve-inner-header, #grve-header.grve-default[data-sticky-header='shrink'] { background-color: rgba(255,255,255,1); } #grve-header.grve-default #grve-main-menu > ul > li > a, #grve-header.grve-default .grve-menu-options li a, #grve-header.grve-default .grve-logo.grve-logo-text a, #grve-header.grve-default .grve-responsive-menu-text { color: #3C3A35; } #grve-header.grve-default .grve-menu-button-line { background-color: #3C3A35; } #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li:hover > a, #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li.current-menu-ancestor > a, #grve-header[data-menu-type='simply'].grve-default #grve-main-menu > ul > li.active > a, #grve-header.grve-default .grve-menu-options li a:hover { color: #e65603; } #grve-header[data-menu-type='button'].grve-default #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='button'].grve-default #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='button'].grve-default #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='button'].grve-default #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='button'].grve-default #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='button'].grve-default #grve-main-menu > ul > li:hover > a, #grve-header.grve-default .grve-menu-options li a .grve-purchased-items { color: #ffffff; background-color: #e65603; } #grve-header[data-menu-type='box'].grve-default #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='box'].grve-default #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='box'].grve-default #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='box'].grve-default #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='box'].grve-default #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='box'].grve-default #grve-main-menu > ul > li:hover > a { color: #ffffff; background-color: #e65603; } #grve-header.grve-default #grve-main-menu ul li ul a, #grve-header.grve-default #grve-header-options ul.grve-options a, #grve-header.grve-default #grve-main-menu ul li a:hover .label, #grve-header.grve-default #grve-main-menu > ul > li.megamenu > ul > li > a:hover, #grve-header.grve-default #grve-main-menu > ul > li.megamenu > ul { color: #808080; background-color: #222222; } #grve-header.grve-default #grve-main-menu ul li.current-menu-item > a, #grve-header.grve-default #grve-main-menu > ul > li.megamenu > ul > li > a { color: #ffffff; } #grve-header.grve-default #grve-main-menu ul li ul a:hover, #grve-header.grve-default #grve-header-options ul.grve-options a:hover, #grve-header.grve-default #grve-main-menu ul li a .label { color: #ffffff; background-color: #e65603; } #grve-header.grve-default #grve-main-menu > ul > li.megamenu > ul > li { border-color: #4f4f4f; } #grve-header.grve-default #grve-header-options > li > a.grve-open-button, #grve-language-modal .grve-language li a:hover, #grve-language-modal .grve-language li a.active, #grve-share-modal .grve-social li a:hover { color: #3C3A35; background-color: rgba(230,86,3,0); } #grve-header.grve-default #grve-header-options > li:hover > a.grve-open-button { color: #e65603; background-color: rgba(34,34,34,0); } #grve-header.grve-light #grve-inner-header, #grve-header.grve-light[data-sticky-header='shrink'] { background-color: rgba(60,58,53,0); } #grve-header.grve-light #grve-main-menu > ul > li > a, #grve-header.grve-light .grve-menu-options li a, #grve-header.grve-light .grve-logo.grve-logo-text a, #grve-header.grve-light .grve-responsive-menu-text { color: #ffffff; } #grve-header.grve-light .grve-menu-button-line { background-color: #ffffff; } #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li:hover > a, #grve-header[data-menu-type='simply'].grve-light #grve-main-menu > ul > li.current-menu-ancestor > a, #grve-header.grve-light .grve-menu-options li a:hover { color: #e65603; } #grve-header[data-menu-type='button'].grve-light #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='button'].grve-light #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='button'].grve-light #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='button'].grve-light #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='button'].grve-light #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='button'].grve-light #grve-main-menu > ul > li:hover > a, #grve-header.grve-light .grve-menu-options li a .grve-purchased-items { color: #ffffff; background-color: #e65603; } #grve-header[data-menu-type='box'].grve-light #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='box'].grve-light #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='box'].grve-light #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='box'].grve-light #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='box'].grve-light #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='box'].grve-light #grve-main-menu > ul > li:hover > a { color: #ffffff; background-color: #e65603; } #grve-header.grve-light #grve-main-menu ul li ul a, #grve-header.grve-light #grve-header-options ul.grve-options a, #grve-header.grve-light #grve-main-menu ul li a:hover .label, #grve-header.grve-light #grve-main-menu > ul > li.megamenu > ul > li > a:hover, #grve-header.grve-light #grve-main-menu > ul > li.megamenu > ul { color: #808080; background-color: #222222; } #grve-header.grve-light #grve-main-menu ul li.current-menu-item > a, #grve-header.grve-light #grve-main-menu > ul > li.megamenu > ul > li > a { color: #ffffff; } #grve-header.grve-light #grve-main-menu ul li ul a:hover, #grve-header.grve-light #grve-header-options ul.grve-options a:hover, #grve-header.grve-light #grve-main-menu ul li a .label { color: #ffffff; background-color: #e65603; } #grve-header.grve-light #grve-main-menu > ul > li.megamenu > ul > li { border-color: #4f4f4f; } #grve-header.grve-light #grve-header-options > li > a.grve-open-button { color: #ffffff; background-color: rgba(230,86,3,0); } #grve-header.grve-light #grve-header-options > li:hover > a.grve-open-button { color: #e65603; background-color: rgba(34,34,34,0); } #grve-header.grve-dark #grve-inner-header, #grve-header.grve-light[data-sticky-header='shrink'] { background-color: rgba(255,255,255,0); } #grve-header.grve-dark #grve-main-menu > ul > li > a, #grve-header.grve-dark .grve-menu-options li a, #grve-header.grve-dark .grve-logo.grve-logo-text a, #grve-header.grve-dark .grve-responsive-menu-text { color: #3C3A35; } #grve-header.grve-dark .grve-menu-button-line { background-color: #3C3A35; } #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li:hover > a, #grve-header[data-menu-type='simply'].grve-dark #grve-main-menu > ul > li.current-menu-ancestor > a, #grve-header.grve-dark .grve-menu-options li a:hover { color: #e65603; } #grve-header[data-menu-type='button'].grve-dark #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='button'].grve-dark #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='button'].grve-dark #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='button'].grve-dark #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='button'].grve-dark #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='button'].grve-dark #grve-main-menu > ul > li:hover > a, #grve-header.grve-dark .grve-menu-options li a .grve-purchased-items { color: #ffffff; background-color: #e65603; } #grve-header[data-menu-type='box'].grve-dark #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='box'].grve-dark #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='box'].grve-dark #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='box'].grve-dark #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='box'].grve-dark #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='box'].grve-dark #grve-main-menu > ul > li:hover > a { color: #ffffff; background-color: #e65603; } #grve-header.grve-dark #grve-main-menu ul li ul a, #grve-header.grve-dark #grve-header-options ul.grve-options a, #grve-header.grve-dark #grve-main-menu ul li a:hover .label, #grve-header.grve-dark #grve-main-menu > ul > li.megamenu > ul > li > a:hover, #grve-header.grve-dark #grve-main-menu > ul > li.megamenu > ul { color: #808080; background-color: #222222; } #grve-header.grve-dark #grve-main-menu ul li.current-menu-item > a, #grve-header.grve-dark #grve-main-menu > ul > li.megamenu > ul > li > a { color: #ffffff; } #grve-header.grve-dark #grve-main-menu ul li ul a:hover, #grve-header.grve-dark #grve-header-options ul.grve-options a:hover, #grve-header.grve-dark #grve-main-menu ul li a .label { color: #ffffff; background-color: #e65603; } #grve-header.grve-dark #grve-main-menu > ul > li.megamenu > ul > li { border-color: #4f4f4f; } #grve-header.grve-dark #grve-header-options > li > a.grve-open-button { color: #3C3A35; background-color: rgba(230,86,3,0); } #grve-header.grve-dark #grve-header-options > li:hover > a.grve-open-button { color: #e65603; background-color: rgba(34,34,34,0); } #grve-header.grve-default.grve-header-sticky #grve-inner-header, #grve-header.grve-light.grve-header-sticky #grve-inner-header, #grve-header.grve-dark.grve-header-sticky #grve-inner-header { background-color: rgba(255,255,255,1); } #grve-header[data-sticky-header='advanced'][data-safebutton='right'].grve-header-sticky #grve-inner-header .grve-container { padding-right: 70px; } #grve-header[data-sticky-header='advanced'][data-safebutton='left'].grve-header-sticky #grve-inner-header .grve-container { padding-left: 70px; } /* Sticky Logo */ #grve-header.grve-header-sticky .grve-logo a.grve-sticky { display: inline-block; } #grve-header.grve-header-sticky #grve-main-menu > ul > li > a, #grve-header.grve-header-sticky .grve-menu-options li a, #grve-header.grve-header-sticky .grve-logo.grve-logo-text a, #grve-header.grve-header-sticky .grve-responsive-menu-text { color: #3C3A35; } #grve-header.grve-header-sticky .grve-menu-button-line { background-color: #3C3A35; } /* Sticky Simply Menu Type */ #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li:hover > a, #grve-header[data-menu-type='simply'].grve-header-sticky #grve-main-menu > ul > li.current-menu-ancestor > a, #grve-header.grve-header-sticky .grve-menu-options li a:hover { color: #e65603; } /* Sticky Button Menu Type */ #grve-header[data-menu-type='button'].grve-header-sticky #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='button'].grve-header-sticky #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='button'].grve-header-sticky #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='button'].grve-header-sticky #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='button'].grve-header-sticky #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='button'].grve-header-sticky #grve-main-menu > ul > li:hover > a, #grve-header.grve-header-sticky .grve-menu-options li a .grve-purchased-items { color: #ffffff; background-color: #e65603; } /* Sticky Box Menu Type */ #grve-header[data-menu-type='box'].grve-header-sticky #grve-main-menu > ul > li.current-menu-item > a, #grve-header[data-menu-type='box'].grve-header-sticky #grve-main-menu > ul > li.current-menu-parent > a, #grve-header[data-menu-type='box'].grve-header-sticky #grve-main-menu > ul > li.current_page_item > a, #grve-header[data-menu-type='box'].grve-header-sticky #grve-main-menu > ul > li.current_page_ancestor > a, #grve-header[data-menu-type='box'].grve-header-sticky #grve-main-menu > ul > li.active > a, #grve-header[data-menu-type='box'].grve-header-sticky #grve-main-menu > ul > li:hover > a { color: #ffffff; background-color: #e65603; } /* Sticky Submenu Colors */ #grve-header.grve-header-sticky #grve-main-menu ul li ul a, #grve-header.grve-header-sticky #grve-header-options ul.grve-options a, #grve-header.grve-header-sticky #grve-main-menu ul li a:hover .label, #grve-header.grve-header-sticky #grve-main-menu > ul > li.megamenu > ul > li > a:hover, #grve-header.grve-header-sticky #grve-main-menu > ul > li.megamenu > ul { color: #808080; background-color: #222222; } #grve-header.grve-header-sticky #grve-main-menu ul li.current-menu-item > a, #grve-header.grve-header-sticky #grve-main-menu > ul > li.megamenu > ul > li > a { color: #ffffff; } #grve-header.grve-header-sticky #grve-main-menu > ul > li.megamenu > ul > li, #grve-header.grve-header-sticky #grve-main-menu ul li.divider { color: #808080; } #grve-header.grve-header-sticky #grve-main-menu ul li ul a:hover, #grve-header.grve-header-sticky #grve-header-options ul.grve-options a:hover, #grve-header.grve-header-sticky #grve-main-menu ul li a .label { color: #ffffff; background-color: #e65603; } #grve-header.grve-header-sticky #grve-main-menu > ul > li.megamenu > ul > li { border-color: #4f4f4f; } #grve-header.grve-header-sticky #grve-header-options > li > a.grve-open-button { color: #e65603; background-color: rgba(25,25,24,0); } #grve-header.grve-header-sticky #grve-header-options > li:hover > a.grve-open-button { color: #222222; background-color: rgba(34,34,34,0); } #grve-header[data-logo-background='colored'].grve-default .grve-logo, #grve-header[data-logo-background='advanced'].grve-default .grve-logo { background-color: #e65603; } #grve-header.grve-default .grve-logo a.grve-dark, #grve-header.grve-default .grve-logo a.grve-light, #grve-header.grve-default .grve-logo a.grve-sticky { display: none; } #grve-header[data-logo-background='colored'].grve-light .grve-logo, #grve-header[data-logo-background='advanced'].grve-light .grve-logo { background-color: #e65603; } #grve-header[data-logo-background='colored'].grve-dark .grve-logo, #grve-header[data-logo-background='advanced'].grve-dark .grve-logo { background-color: #e65603; } #grve-header[data-logo-background='colored'].grve-header-sticky .grve-logo, #grve-header[data-logo-background='advanced'].grve-header-sticky .grve-logo { background-color: #e65603; } #grve-page-title, #grve-main-content.grve-error-404 { background-color: #303030; } #grve-portfolio-title { background-color: #303030; } #grve-page-title.grve-blog-title { background-color: #303030; } #grve-post-title { background-color: #303030; } #grve-product-title.grve-product-tax-title { background-color: #303030; } #grve-product-title { background-color: #303030; } #grve-anchor-menu { height: 70px; line-height: 70px; } #grve-anchor-menu, #grve-anchor-menu.grve-responsive-bar ul li, #grve-anchor-menu ul li ul { background-color: #252525; } #grve-anchor-menu ul li a { color: #b2b2b2; background-color: transparent; } #grve-anchor-menu ul li.current-menu-item a, #grve-anchor-menu ul li a:hover, #grve-anchor-menu ul li.primary-button a, #grve-anchor-menu ul li.current > a { color: #ffffff; background-color: #e65603; } #grve-anchor-menu ul li, #grve-anchor-menu ul li ul li, #grve-anchor-menu.grve-responsive-bar ul li, #grve-anchor-menu.grve-responsive-bar ul li ul, #grve-anchor-menu.grve-incontainer > ul > li:first-child { border-color: #303030; } #grve-meta-bar { height: 70px; line-height: 70px; } #grve-meta-bar { background-color: #252525; } #grve-meta-bar ul li, #grve-meta-bar ul li a, #grve-post-title #grve-social-share.in-bar ul li a { color: #b2b2b2 !important; background-color: transparent !important; } #grve-meta-bar ul li.current-menu-item a, #grve-meta-bar ul li a:hover, #grve-post-title #grve-social-share.in-bar ul li a:hover { color: #ffffff !important; background-color: #e65603 !important; } #grve-meta-bar ul.grve-post-nav li a { width: 70px; } #grve-meta-bar ul li, #grve-post-title #grve-social-share.in-bar ul li a { border-color: #303030 !important; } #grve-portfolio-bar { background-color: #252525; } #grve-portfolio-bar ul li a, #grve-portfolio-bar #grve-social-share ul li .grve-like-counter { color: #b2b2b2; background-color: transparent; } #grve-portfolio-bar ul li a:hover { color: #ffffff; background-color: #e65603; } #grve-portfolio-bar ul li, #grve-portfolio-bar #grve-social-share ul li a { border-color: #303030; } .grve-breadcrumbs { background-color: #ffffff; border-color: #e0e0e0; } .grve-breadcrumbs ul li { color: #b2b2b2; } .grve-breadcrumbs ul li a { color: #6e6e6e; } .grve-breadcrumbs ul li a:hover { color: #e65603; } #grve-page-breadcrumbs { line-height: 60px; } #grve-post-breadcrumbs { line-height: 60px; } #grve-portfolio-breadcrumbs { line-height: 60px; } #grve-product-breadcrumbs { line-height: 60px; } #grve-main-content { background-color: #ffffff; } a { color: #e65603; } a:hover { color: #e58302; } #grve-above-footer { background-color: #303030; } #grve-above-footer .grve-social li a, #grve-above-footer .grve-social li:after { color: #ffffff; } #grve-above-footer .grve-social li a:hover { color: #e65603; } #grve-above-footer .grve-newsletter { color: #ffffff; } #grve-above-footer .grve-newsletter input[type='submit'] { background-color: #e65603; color: #ffffff; } #grve-above-footer .grve-newsletter input[type='submit']:hover { background-color: #2d2c29; color: #e65603; } #grve-footer-area { background-color: #252525; } /* Widget Title Color */ #grve-footer-area h1, #grve-footer-area h2, #grve-footer-area h3, #grve-footer-area h4, #grve-footer-area h5, #grve-footer-area h6, #grve-footer-area .grve-widget-title, #grve-footer-area .widget.widget_recent_entries li span.post-date, #grve-footer-area .widget.widget_rss .grve-widget-title a { color: #ffffff; } /* Footer Text Color */ #grve-footer-area, #grve-footer-area .widget.widget_tag_cloud a{ color: #ffffff; } #grve-footer-area a, #grve-footer-area .widget li a { color: #ffffff; } /* Footer Text Hover Color */ #grve-footer-area a:hover, #grve-footer-area .widget li a:hover { color: #e65603; } #grve-footer-area input, #grve-footer-area input[type='text'], #grve-footer-area input[type='input'], #grve-footer-area input[type='password'], #grve-footer-area input[type='email'], #grve-footer-area input[type='number'], #grve-footer-area input[type='date'], #grve-footer-area input[type='url'], #grve-footer-area input[type='tel'], #grve-footer-area input[type='search'], #grve-footer-area .grve-search button[type='submit'], #grve-footer-area textarea, #grve-footer-area select, #grve-footer-area .widget.widget_calendar table th, #grve-footer-area .grve-widget.grve-social li a, #grve-footer-area .widget.widget_tag_cloud a { border-color: #444444; } #grve-footer-bar { background-color: rgba(34,34,34,1); color: #7a7a7a; } #grve-footer-bar a, #grve-footer-bar #grve-second-menu li a, #grve-footer-bar .grve-social li a, #grve-footer-bar .grve-social li:after { color: #7a7a7a; } #grve-footer-bar a:hover, #grve-footer-bar #grve-second-menu li a:hover, #grve-footer-bar .grve-social li a:hover { color: #47a22b; } .grve-dark-overlay:before { background-color: #000000; } .grve-light-overlay:before { background-color: #ffffff; } .grve-primary-1-overlay:before { background-color: #e65603; } .grve-primary-2-overlay:before { background-color: #47a22b; } .grve-primary-3-overlay:before { background-color: #86C8B7; } .grve-primary-4-overlay:before { background-color: #252525; } .grve-primary-5-overlay:before { background-color: #8CB6CF; } #grve-main-content, .grve-bg-light, #grve-main-content .grve-sidebar-colored.grve-bg-light a, #grve-anchor-menu, #grve-main-content .grve-post-author a, #grve-main-content .widget.widget_categories li a, #grve-main-content .widget.widget_pages li a, #grve-main-content .widget.widget_archive li a, #grve-main-content .widget.widget_nav_menu li a, #grve-main-content .widget.widget_tag_cloud a, #grve-main-content .widget.widget_meta a, #grve-main-content .widget.widget_recent_entries a, #grve-main-content .widget.widget_recent_comments a.url, #grve-main-content .grve-widget.grve-comments a.url, #grve-main-content .grve-widget.grve-latest-news a, #grve-social-share-responsive ul li a, #grve-main-content .grve-widget.grve-social li a, .grve-tags li a, .grve-categories li a, #grve-comments .grve-comment-item .grve-comment-date a:hover, .grve-pagination ul li a, .grve-filter ul li:after, input[type='text'], input[type='input'], input[type='password'], input[type='email'], input[type='number'], input[type='date'], input[type='url'], input[type='tel'], input[type='search'], textarea, select, #grve-meta-responsive ul li a, .grve-map-infotext p, #grve-main-content .grve-portfolio .grve-light.grve-caption, #grve-main-content .grve-grve-gallery .grve-light.grve-caption, #grve-main-content .grve-image-hover .grve-light.grve-team-identity, .grve-team .grve-team-social li a, .grve-comment-nav ul li a, .grve-pagination ul li:after, .grve-search button[type='submit'] .grve-icon-search, .grve-top-btn, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span, .woocommerce #content nav.woocommerce-pagination ul li a, .woocommerce #content nav.woocommerce-pagination ul li span, .woocommerce-page nav.woocommerce-pagination ul li a, .woocommerce-page nav.woocommerce-pagination ul li span, .woocommerce-page #content nav.woocommerce-pagination ul li a, .woocommerce-page #content nav.woocommerce-pagination ul li span, .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce-page .star-rating span:before, .woocommerce-page .woocommerce-product-rating a, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a, ul.product-categories li a, .woocommerce.widget_product_tag_cloud .tagcloud a, .product_meta a, .grve-testimonial-grid.grve-border-mode .grve-isotope-item-inner { color: #6e7177; } .grve-testimonial .owl-controls .owl-page span { background-color: #6e7177; } .grve-iso-spinner svg path { fill: #6e7177; } #grve-main-content h1, #grve-main-content h2, #grve-main-content h3, #grve-main-content h4, #grve-main-content h5, #grve-main-content h6, #grve-main-content .grve-post-title, .grve-blog .grve-read-more, #grve-main-content .more-link, #grve-main-content .widget.widget_rss cite, #grve-main-content .widget.widget_rss .grve-widget-title a, #grve-main-content .widget.widget_recent_comments a:hover, #grve-main-content .grve-widget.grve-comments a:hover, #grve-main-content .widget.widget_recent_entries li span.post-date, #grve-main-content .grve-widget.grve-comments .grve-comment-date, #grve-main-content .grve-widget.grve-latest-news .grve-latest-news-date, .widget.widget_calendar table th, .grve-tags li:first-child, .grve-categories li:first-child, #grve-comments .comment-reply-link:hover, #grve-comments .grve-comment-item .grve-author a, #grve-comments .comment-edit-link, #respond .comment-reply-title small a:hover, #respond .comment-notes, #grve-main-content .grve-read-more:hover, #grve-main-content .more-link:hover, .grve-label-post.format-quote .grve-post-meta .grve-like-counter span, #grve-share-modal .grve-social li a, #grve-language-modal .grve-language li a, .grve-accordion .grve-title.active, .grve-toggle .grve-title.active, #grve-meta-responsive ul li span, input[type='text']:hover, input[type='input']:hover, input[type='password']:hover, input[type='email']:hover, input[type='number']:hover, input[type='date']:hover, input[type='url']:hover, input[type='tel']:hover, input[type='search']:hover, textarea:hover, select:hover, input[type='text']:focus, input[type='password']:focus, input[type='email']:focus, input[type='number']:focus, input[type='date']:focus, input[type='url']:focus, input[type='tel']:focus, input[type='search']:focus, textarea:focus, #grve-main-content .grve-portfolio .grve-light.grve-title, #grve-main-content .grve-grve-gallery .grve-light.grve-title, #grve-main-content .grve-image-hover.grve-style-1 .grve-light.grve-team-name, .grve-related-wrapper small, .grve-product-name a, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .woocommerce ul.cart_list li a, .woocommerce ul.product_list_widget li a, .woocommerce-page ul.cart_list li a, .woocommerce-page ul.product_list_widget li a, .product_meta { color: #454545; } #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_categories li a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_pages li a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_archive li a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_nav_menu li a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_tag_cloud a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_meta a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_recent_entries a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_recent_comments a.url:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .grve-widget.grve-comments a.url:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .grve-widget.grve-latest-news a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .grve-widget.grve-social li a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_rss .grve-widget-title a:hover, #grve-main-content .grve-sidebar-colored.grve-bg-primary-1 .widget.widget_rss a { color: #000000 !important; } .grve-color-primary-1, .grve-color-primary-1:before, .grve-color-primary-1:after, #grve-main-content .grve-primary-1 h1, #grve-main-content .grve-primary-1 h2, #grve-main-content .grve-primary-1 h3, #grve-main-content .grve-primary-1 h4, #grve-main-content .grve-primary-1 h5, #grve-main-content .grve-primary-1 h6, #grve-meta-responsive li a:hover, #grve-feature-section .grve-title.grve-primary-1, #grve-page-title .grve-title.grve-primary-1, #grve-post-title .grve-title.grve-primary-1, #grve-portfolio-title .grve-title.grve-primary-1, #grve-product-title .grve-title.grve-primary-1, .grve-portfolio .grve-primary-1 .grve-like-counter, #grve-feature-section .grve-goto-section.grve-primary-1, ul.grve-fields li:before, .widget.widget_calendar a, #grve-main-content .grve-post-title:hover, #grve-main-content .grve-post-author a:hover, .grve-blog.grve-isotope[data-type='pint-blog'] .grve-isotope-item .grve-media-content .grve-post-icon, .grve-blog.grve-isotope[data-type='pint-blog'] .grve-isotope-item.grve-label-post.format-quote a .grve-post-icon:before, #grve-main-content .widget.widget_categories li a:hover, #grve-main-content .widget.widget_archive li a:hover, #grve-main-content .widget.widget_pages li a:hover, #grve-main-content .widget.widget_nav_menu li a:hover, #grve-main-content .widget.widget_nav_menu li.current-menu-item a, #grve-main-content .widget li .rsswidget, #grve-main-content .widget.widget_recent_comments a.url:hover, #grve-main-content .widget.widget_recent_comments a, #grve-main-content .grve-widget.grve-comments a.url:hover, #grve-main-content .grve-widget.grve-comments a, #grve-main-content .widget.widget_meta a:hover, #grve-main-content .widget.widget_recent_entries a:hover, #grve-main-content .widget.grve-contact-info a, #grve-main-content .grve-widget.grve-latest-news a:hover, .grve-tags li a:hover, .grve-categories li a:hover, #grve-main-content .grve-read-more, #grve-main-content .more-link, #grve-comments .comment-reply-link, #grve-comments .grve-comment-item .grve-author a:hover, #grve-comments .grve-comment-item .grve-comment-date a, #grve-comments .comment-edit-link:hover, #respond .comment-reply-title small a, .grve-blog .grve-like-counter span, .grve-pagination ul li a.current, .grve-pagination ul li a:hover, .grve-accordion .grve-title.active:before, .grve-toggle .grve-title.active:before, .grve-filter ul li.selected, .grve-portfolio-item .grve-portfolio-btns li a:hover, #grve-main-content figure.grve-style-1 .grve-team-social li a:hover, #grve-main-content figure.grve-style-2 .grve-team-social li a:hover, #grve-main-content .grve-team a:hover .grve-team-name.grve-dark, #grve-main-content .grve-team a:hover .grve-team-name, .grve-hr .grve-divider-backtotop:after, .grve-testimonial-name span, .grve-testimonial-name:before, .grve-list li:before, #grve-feature-section .grve-description.grve-primary-1, #grve-page-title .grve-description.grve-primary-1, #grve-portfolio-title .grve-description.grve-primary-1, .grve-carousel-wrapper .grve-custom-title-content.grve-primary-1 .grve-caption, .grve-comment-nav ul li a:hover, .grve-pagination ul li .current, .grve-search button[type='submit']:hover .grve-icon-search, .grve-product-item .star-rating span:before, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce table.cart a.remove:hover, .woocommerce #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover, .woocommerce-page div.product p.price, .woocommerce-page .single_variation, .woocommerce-page tr.order-total td, .woocommerce-checkout .product-quantity, .woocommerce .widget_price_filter .price_slider_amount span.from, .woocommerce-page .widget_price_filter .price_slider_amount span.from, .woocommerce .widget_price_filter .price_slider_amount span.to, .woocommerce-page .widget_price_filter .price_slider_amount span.to, .woocommerce ul.cart_list li a:hover, .woocommerce ul.product_list_widget li a:hover, .woocommerce-page ul.cart_list li a:hover, .woocommerce-page ul.product_list_widget li a:hover, ul.product-categories li a:hover, .woocommerce.widget_product_tag_cloud .tagcloud a:hover, .product_meta a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-MyAccount-navigation ul li a:hover { color: #e65603; } .grve-color-primary-2, .grve-color-primary-2:before, .grve-color-primary-2:after, #grve-main-content .grve-primary-2 h1, #grve-main-content .grve-primary-2 h2, #grve-main-content .grve-primary-2 h3, #grve-main-content .grve-primary-2 h4, #grve-main-content .grve-primary-2 h5, #grve-main-content .grve-primary-2 h6, #grve-feature-section .grve-title.grve-primary-2, #grve-feature-section .grve-goto-section.grve-primary-2, #grve-page-title .grve-title.grve-primary-2, #grve-post-title .grve-title.grve-primary-2, #grve-portfolio-title .grve-title.grve-primary-2, .grve-portfolio .grve-primary-2 .grve-like-counter, #grve-product-title .grve-title.grve-primary-2, .grve-blog.grve-isotope[data-type='pint-blog'] .grve-isotope-item.grve-label-post.format-link a .grve-post-icon:before, #grve-feature-section .grve-description.grve-primary-2, #grve-page-title .grve-description.grve-primary-2, #grve-portfolio-title .grve-description.grve-primary-2, .grve-carousel-wrapper .grve-custom-title-content.grve-primary-2 .grve-caption { color: #47a22b; } .grve-color-primary-3, .grve-color-primary-3:before, .grve-color-primary-3:after, #grve-main-content .grve-primary-3 h1, #grve-main-content .grve-primary-3 h2, #grve-main-content .grve-primary-3 h3, #grve-main-content .grve-primary-3 h4, #grve-main-content .grve-primary-3 h5, #grve-main-content .grve-primary-3 h6, #grve-feature-section .grve-title.grve-primary-3, #grve-feature-section .grve-goto-section.grve-primary-3, #grve-page-title .grve-title.grve-primary-3, #grve-post-title .grve-title.grve-primary-3, #grve-portfolio-title .grve-title.grve-primary-3, .grve-portfolio .grve-primary-3 .grve-like-counter, #grve-product-title .grve-title.grve-primary-3, #grve-feature-section .grve-description.grve-primary-3, #grve-page-title .grve-description.grve-primary-3, #grve-portfolio-title .grve-description.grve-primary-3, .grve-carousel-wrapper .grve-custom-title-content.grve-primary-3 .grve-caption { color: #86C8B7; } .grve-color-primary-4, .grve-color-primary-4:before, .grve-color-primary-4:after, #grve-main-content .grve-primary-4 h1, #grve-main-content .grve-primary-4 h2, #grve-main-content .grve-primary-4 h3, #grve-main-content .grve-primary-4 h4, #grve-main-content .grve-primary-4 h5, #grve-main-content .grve-primary-4 h6, #grve-feature-section .grve-title.grve-primary-4, #grve-feature-section .grve-goto-section.grve-primary-4, #grve-page-title .grve-title.grve-primary-4, #grve-post-title .grve-title.grve-primary-4, #grve-portfolio-title .grve-title.grve-primary-4, .grve-portfolio .grve-primary-4 .grve-like-counter, #grve-product-title .grve-title.grve-primary-4, #grve-feature-section .grve-description.grve-primary-4, #grve-page-title .grve-description.grve-primary-4, #grve-portfolio-title .grve-description.grve-primary-4, .grve-carousel-wrapper .grve-custom-title-content.grve-primary-4 .grve-caption { color: #252525; } .grve-color-primary-5, .grve-color-primary-5:before, .grve-color-primary-5:after, #grve-main-content .grve-primary-5 h1, #grve-main-content .grve-primary-5 h2, #grve-main-content .grve-primary-5 h3, #grve-main-content .grve-primary-5 h4, #grve-main-content .grve-primary-5 h5, #grve-main-content .grve-primary-5 h6, #grve-feature-section .grve-title.grve-primary-5, #grve-feature-section .grve-goto-section.grve-primary-5, #grve-page-title .grve-title.grve-primary-5, #grve-post-title .grve-title.grve-primary-5, #grve-portfolio-title .grve-title.grve-primary-5, .grve-portfolio .grve-primary-5 .grve-like-counter, #grve-product-title .grve-title.grve-primary-5, #grve-feature-section .grve-description.grve-primary-5, #grve-page-title .grve-description.grve-primary-5, #grve-portfolio-title .grve-description.grve-primary-5, .grve-carousel-wrapper .grve-custom-title-content.grve-primary-5 .grve-caption { color: #8CB6CF; } #grve-main-content .grve-dark h1, #grve-main-content .grve-dark h2, #grve-main-content .grve-dark h3, #grve-main-content .grve-dark h4, #grve-main-content .grve-dark h5, #grve-main-content .grve-dark h6, .grve-carousel-wrapper .grve-custom-title-content.grve-dark .grve-caption { color: #000000; } #grve-main-content .grve-light h1, #grve-main-content .grve-light h2, #grve-main-content .grve-light h3, #grve-main-content .grve-light h4, #grve-main-content .grve-light h5, #grve-main-content .grve-light h6, .grve-carousel-wrapper .grve-custom-title-content.grve-light .grve-caption { color: #ffffff; } #grve-tags-categories, #grve-about-author, #grve-comments, #grve-comments .grve-comment-item, #grve-comments .children:before, #grve-comments .children article.comment, #grve-main-content .widget.widget_tag_cloud a, #grve-meta-social-responsive, #grve-main-content .grve-widget.grve-social li a, #grve-post-area article.grve-single-post, #respond, .grve-related-wrapper small, #respond input[type='text'], #respond textarea, .grve-blog.grve-large-media .grve-blog-item, .grve-blog.grve-small-media .grve-blog-item, .grve-newsletter-form input[type='email'], .grve-search input[type='text'], #grve-share-modal .grve-social li a, #grve-social-share-responsive ul li a, #grve-language-modal .grve-language li a, .grve-accordion-wrapper li, .grve-toggle-wrapper li, .grve-bar, .grve-pricing-table, .grve-pricing-table ul li, #grve-main-content .widget.widget_tag_cloud a, #grve-main-content table, #grve-main-content tr, #grve-main-content td, #grve-main-content th, pre, hr, .grve-hr.grve-element, .grve-title-double-line span:before, .grve-title-double-line span:after, .grve-title-double-bottom-line span:after, #grve-main-content input, #grve-main-content input[type='text'], #grve-main-content input[type='input'], #grve-main-content input[type='password'], #grve-main-content input[type='email'], #grve-main-content input[type='number'], #grve-main-content input[type='date'], #grve-main-content input[type='url'], #grve-main-content input[type='tel'], #grve-main-content input[type='search'], .grve-search button[type='submit'], #grve-main-content textarea, #grve-main-content select, #grve-newsletter-modal input, #grve-newsletter-modal input[type='text'], #grve-newsletter-modal input[type='input'], #grve-newsletter-modal input[type='password'], #grve-newsletter-modal input[type='email'], #grve-newsletter-modal input[type='number'], #grve-newsletter-modal input[type='date'], #grve-newsletter-modal input[type='url'], #grve-newsletter-modal input[type='tel'], #grve-newsletter-modal input[type='search'], #grve-newsletter-modal textarea, #grve-newsletter-modal select, .grve-portfolio-description + ul.grve-fields, .grve-portfolio-info + .widget, .grve-related-post, .grve-carousel-wrapper .grve-post-item .grve-content, .grve-blog.grve-border-mode .grve-isotope-item-inner, .grve-blog.grve-border-mode .grve-read-more, .woocommerce .product_meta, #grve-shop-modal .cart_list.product_list_widget li, #grve-shop-modal .cart_list.product_list_widget, .grve-filter ul li, .woocommerce.widget_product_tag_cloud .tagcloud a, .woocommerce ul.products li .grve-product-item, .woocommerce-page ul.products li .grve-product-item, .woocommerce ul.products li .grve-product-item .grve-product-media, .woocommerce-page ul.products li .grve-product-item .grve-product-media, .woocommerce div.product .woocommerce-tabs ul.tabs, .woocommerce #content div.product .woocommerce-tabs ul.tabs, .woocommerce-page div.product .woocommerce-tabs ul.tabs, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs, .woocommerce #content div.product .woocommerce-tabs, .woocommerce div.product .woocommerce-tabs, .woocommerce-page #content div.product .woocommerce-tabs, .woocommerce-page div.product .woocommerce-tabs, .grve-testimonial-grid.grve-border-mode .grve-isotope-item-inner { border-color: #e4e4e4; } .grve-bg-dark { background-color: #000000; color: #ffffff; } .grve-bg-light { background-color: #ffffff; } .grve-bg-primary-1, .grve-bar-line.grve-primary-1-color, #grve-header #grve-main-menu > ul > li.primary-button > a, #grve-feature-section .grve-style-4 .grve-title.grve-primary-1 span, .grve-tabs-title li.active, #grve-social-share-responsive ul li a:hover, #grve-share-modal .grve-social li a:hover, #grve-language-modal .grve-language li a:hover, #grve-language-modal .grve-language li a.active, #grve-main-content .grve-widget.grve-social li a:hover, #grve-footer-area .grve-widget.grve-social li a:hover, .grve-portfolio .grve-dark .grve-like-counter, .grve-portfolio .grve-light .grve-like-counter, #grve-feature-section .grve-style-1 .grve-title:after, #grve-feature-section .grve-style-4 .grve-title:before, #grve-feature-section .grve-style-4 .grve-title span:before, #grve-feature-section .grve-style-4 .grve-title:after, #grve-feature-section .grve-style-4 .grve-title span:after, .widget.widget_calendar caption, .grve-element.grve-social ul li a, #grve-post-title #grve-social-share.grve-primary-1 ul li a, .wpcf7-validation-errors, .grve-title-line span:after, blockquote:before, .grve-blog.grve-isotope[data-type='pint-blog'] .grve-isotope-item .grve-media-content .grve-read-more:before, .grve-blog.grve-isotope[data-type='pint-blog'] .grve-isotope-item .grve-media-content .more-link:before, .grve-blog .grve-label-post.format-quote a, input[type='submit'], input[type='reset'], input[type='button'], button, .grve-testimonial .owl-controls .owl-page.active span, .grve-testimonial .owl-controls.clickable .owl-page:hover span, .grve-slider-item .grve-slider-content span:after, .grve-pricing-feature .grve-pricing-header, .grve-modal-content a.grve-close-modal, .woocommerce span.onsale, .woocommerce input.checkout-button, #grve-shop-modal a.button.checkout, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle { background-color: #e65603; color: #ffffff; } .grve-btn.grve-btn-line.grve-bg-primary-1 { color: #e65603; border-color: #e65603; } #grve-social-share-responsive ul li a:hover, #grve-main-content .grve-widget.grve-social li a:hover, #grve-footer-area .grve-widget.grve-social li a:hover, #grve-main-content .widget.widget_tag_cloud a:hover, #grve-footer-area .widget.widget_tag_cloud a:hover { border-color: #e65603; } .grve-btn.grve-bg-primary-1:hover, .grve-tabs-title li:hover, #grve-header #grve-main-menu > ul > li.primary-button > a:hover, .grve-element.grve-social ul li a:hover, .grve-modal-content a.grve-close-modal:hover, #grve-post-title #grve-social-share.grve-primary-1 ul li a:hover { background-color: #e58302; border-color: #e58302; color: #ffffff; } /* Tagcloud Hover */ .widget.widget_tag_cloud a:hover, .woocommerce.widget_product_tag_cloud .tagcloud a:hover { border-color: #e65603; background-color: #e65603; color: #ffffff !important; } .grve-bg-primary-2, .grve-pricing-header, .grve-bar-line.grve-primary-2-color, #grve-feature-section .grve-style-4 .grve-title.grve-primary-2 span, .grve-blog .grve-label-post.format-link a, #grve-post-title #grve-social-share.grve-primary-2 ul li a { background-color: #47a22b; color: #ffffff; } .grve-btn.grve-btn-line.grve-bg-primary-2 { color: #47a22b; border-color: #47a22b; } .grve-btn.grve-bg-primary-2:hover, #grve-post-title #grve-social-share.grve-primary-2 ul li a:hover { background-color: #164823; border-color: #164823; color: #ffffff; } .grve-bg-primary-3, .grve-bar-line.grve-primary-3-color, #grve-feature-section .grve-style-4 .grve-title.grve-primary-3 span, #grve-post-title #grve-social-share.grve-primary-3 ul li a { background-color: #86C8B7; color: #ffffff; } .grve-btn.grve-btn-line.grve-bg-primary-3 { color: #86C8B7; border-color: #86C8B7; } .grve-btn.grve-bg-primary-3:hover, #grve-post-title #grve-social-share.grve-primary-3 ul li a:hover { background-color: #58b49c; border-color: #58b49c; color: #ffffff; } .grve-bg-primary-4, .grve-bar-line.grve-primary-4-color, #grve-feature-section .grve-style-4 .grve-title.grve-primary-4 span, #grve-post-title #grve-social-share.grve-primary-4 ul li a { background-color: #252525; color: #ffffff; } .grve-btn.grve-btn-line.grve-bg-primary-4 { color: #252525; border-color: #252525; } .grve-btn.grve-bg-primary-4:hover, #grve-post-title #grve-social-share.grve-primary-4 ul li a:hover { background-color: #555555; border-color: #555555; color: #ffffff; } .grve-bg-primary-5, .grve-bar-line.grve-primary-5-color, #grve-feature-section .grve-style-4 .grve-title.grve-primary-5 span, #grve-post-title #grve-social-share.grve-primary-5 ul li a { background-color: #8CB6CF; color: #ffffff; } .grve-btn.grve-btn-line.grve-bg-primary-5 { color: #8CB6CF; border-color: #8CB6CF; } .grve-btn.grve-bg-primary-5:hover, #grve-post-title #grve-social-share.grve-primary-5 ul li a:hover { background-color: #619CBE; border-color: #619CBE; color: #ffffff; } .grve-portfolio .grve-hover-style-3 .grve-like-counter { color: #6e7177; } .grve-portfolio .grve-hover-style-3 .grve-light-overlay .grve-portfolio-btns:hover, .grve-portfolio .grve-hover-style-3 .grve-dark-overlay .grve-portfolio-btns:hover { background-color: #e65603; color: #ffffff; } .compose-mode .vc_element .grve-row { margin-top: 30px; } .compose-mode .vc_vc_column .wpb_column { width: 100% !important; margin-bottom: 30px; border: 1px dashed rgba(125, 125, 125, 0.4); } .compose-mode .vc_controls > .vc_controls-out-tl { left: 15px; } .compose-mode .vc_controls > .vc_controls-bc { bottom: 15px; } .compose-mode .vc_welcome .vc_buttons { margin-top: 60px; } .compose-mode .grve-image img { opacity: 1; } .compose-mode #grve-inner-header { top: 0 !important; } .compose-mode .vc_controls > div { z-index: 9; } .compose-mode .grve-bg-image { opacity: 1; } .compose-mode #grve-theme-wrapper .grve-section[data-section-type='fullwidth-background'], .compose-mode #grve-theme-wrapper .grve-section[data-section-type='fullwidth-element'] { visibility: visible; } .compose-mode .grve-animated-item { opacity: 1; } #grve-main-content .vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tabs-list { padding-right: 30px; } #grve-main-content .vc_tta-tabs.vc_tta-tabs-position-right .vc_tta-tabs-list { padding-left: 30px; } #grve-main-content .vc_tta-accordion .vc_tta-controls-icon-position-left.vc_tta-panel-title > a { padding-left: 20px; } #grve-main-content .vc_tta-accordion .vc_tta-controls-icon-position-left .vc_tta-controls-icon { left: 0; } #grve-main-content .vc_tta-panel-body { padding: 0; margin-top: 12px; } #grve-main-content .vc_tta-accordion .vc_tta-panel-body { padding-left: 20px; margin-top: 0px; } #grve-main-content .vc_tta-accordion .vc_tta-panel { margin-bottom: 1.786em; padding-bottom: 1.286em; border-bottom: 1px solid; border-color: rgba(225, 227, 229, 0.5); } #grve-main-content .vc_tta-accordion .vc_tta-panel:last-child { border-bottom: none; } #grve-main-content .vc_tta-tab > a { border: none; color: #6e7177; background-color: rgba(225, 227, 229, 0.5); line-height: 3.5em; margin-right: 1px; padding: 0 3em; } #grve-main-content .vc_tta-tab > a:hover, #grve-main-content .vc_tta-tab.vc_active > a { background-color: #e65603; color: #fff; } #grve-main-content .vc_tta-panel.vc_active .vc_tta-panel-title { background-color: #e65603; color: #fff; border: none; } #grve-main-content .vc_tta-panel-title { font-size: 1.077em; font-weight: 600; border: none; background-color: rgba(225, 227, 229, 0.5); color: #6e7177; } #grve-main-content .vc_tta-accordion .vc_tta-panel-title, #grve-main-content .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title { background-color: transparent; color: #6e7177; } 
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.seab.biella.it/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://www.seab.biella.it/wp-content/uploads/2017/05/cropped-seab-icona-sito-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.seab.biella.it/wp-content/uploads/2017/05/cropped-seab-icona-sito-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.seab.biella.it/wp-content/uploads/2017/05/cropped-seab-icona-sito-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.seab.biella.it/wp-content/uploads/2017/05/cropped-seab-icona-sito-1-270x270.png" />
+<!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-103188578-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<style type="text/css" title="dynamic-css" class="options-output">#grve-above-footer{padding-top:0;padding-bottom:0;}#grve-footer-area{padding-top:60px;padding-bottom:80px;}#grve-footer-bar{padding-top:10px;padding-bottom:10px;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1499331353269{margin-bottom: 60px !important;}.vc_custom_1499336018428{padding-top: 30px !important;padding-bottom: 30px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+	<body id="grve-body" class="home page-template-default page page-id-4090 parent-home-page wpb-js-composer js-comp-ver-5.4.4 vc_responsive">
+	
+<h1 class="heading-master-seo">SEAB: Società Ecologica Area Biellese</h1>
+<h2 class="heading-master-seo">Gestione della raccolta e riciclaggio rifiuti</h2>
+
+		
+		
+		
+		<!-- Responsive Menu -->
+		<nav id="grve-main-menu-responsive" class="grve-style-2 grve-align-left">
+			<a class="grve-close-menu-button grve-icon-close" href="#"></a>
+			<div class="grve-menu-scroll">
+								<ul id="menu-main-menu" class="grve-menu"><li id="menu-item-4451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4090 current_page_item menu-item-4451"><a href="http://www.seab.biella.it/"><span class="grve-item">Home</span></a></li>
+<li id="menu-item-4755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4755"><a href="http://www.seab.biella.it/azienda/"><span class="grve-item">Azienda</span></a></li>
+<li id="menu-item-4449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4449"><a href="http://www.seab.biella.it/societa-trasparente/"><span class="grve-item">Trasparenza</span></a></li>
+<li id="menu-item-6269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6269"><a href="http://www.seab.biella.it/societa-trasparente/bandi-di-gara-e-contratti/"><span class="grve-item">Bandi di Gara</span></a></li>
+<li id="menu-item-4567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4567"><a href="http://www.seab.biella.it/faq/"><span class="grve-item">FAQ</span></a></li>
+<li id="menu-item-4447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4447"><a href="http://www.seab.biella.it/contatti/"><span class="grve-item">Contatti</span></a></li>
+</ul>			</div>
+		</nav>
+		<!-- End Responsive Menu -->
+
+				<!-- Theme Wrapper -->
+		<div id="grve-theme-wrapper">
+
+			<header id="grve-header" data-gotosection="yes" data-fullscreen="no" data-overlap="yes" data-sticky-header="advanced" data-logo-background="transparent" data-logo-align="left" data-menu-align="right" data-menu-type="simply" data-safebutton="right" data-topbar="no" data-menu-options="no" data-header-position="above-feature" data-backtotop="yes" class="grve-light">
+												<!-- Logo, Main Navigation, Header Options -->
+				<div id="grve-inner-header">
+
+					
+						<div class="grve-container">
+										<div class="grve-logo ">
+					<a class="grve-default" href="http://www.seab.biella.it/"><img src="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-footer-black.png" alt="SEAB Biella" title="SEAB Biella" data-at2x="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-retina-black.png" width="318" height="92" style="height:102px;"></a>
+				<a class="grve-dark" href="http://www.seab.biella.it/"><img src="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-black.png" alt="SEAB Biella" title="SEAB Biella" data-at2x="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-retina-black.png" width="413" height="119" style="height:129px;"></a>
+				<a class="grve-light" href="http://www.seab.biella.it/"><img src="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo.png" alt="SEAB Biella" title="SEAB Biella" data-at2x="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-retina.png" width="413" height="119" style="height:129px;"></a>
+				<a class="grve-sticky" href="http://www.seab.biella.it/"><img src="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-sticky.png" alt="SEAB Biella" title="SEAB Biella" data-at2x="//www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-retina-black.png" width="280" height="80" style="height:90px;"></a>
+					<span>SEAB Biella</span>
+			</div>
+						
+					
+					
+						<!-- Main Menu -->
+																								
+													<div class="grve-responsive-menu-button">
+								<div class="grve-menu-button">
+									<div class="grve-menu-button-line"></div>
+									<div class="grve-menu-button-line"></div>
+									<div class="grve-menu-button-line"></div>
+								</div>
+							</div>
+						
+						<nav id="grve-main-menu" class="grve-menu-pointer-arrow" data-animation-style="fade-in">
+							<ul id="menu-main-menu-1" class="grve-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4090 current_page_item menu-item-4451"><a href="http://www.seab.biella.it/"><span class="grve-item">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4755"><a href="http://www.seab.biella.it/azienda/"><span class="grve-item">Azienda</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4449"><a href="http://www.seab.biella.it/societa-trasparente/"><span class="grve-item">Trasparenza</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6269"><a href="http://www.seab.biella.it/societa-trasparente/bandi-di-gara-e-contratti/"><span class="grve-item">Bandi di Gara</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4567"><a href="http://www.seab.biella.it/faq/"><span class="grve-item">FAQ</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4447"><a href="http://www.seab.biella.it/contatti/"><span class="grve-item">Contatti</span></a></li>
+</ul>						</nav>
+						<!-- End Main Menu -->
+
+					
+						</div>
+
+							<!-- Safe Options -->
+		<ul id="grve-header-options">
+			<li>
+				<a class="grve-open-button grve-icon-safebutton" href="#"></a>
+				<nav class="grve-options-wrapper">
+					<ul class="grve-options">
+										<li><a href="#grve-search-modal" class="grve-open-popup-link"><i class="grve-icon grve-icon-search"></i><span>Cerca nel sito</span></a></li>
+									    <li><a href="#grve-email-modal" class="grve-open-popup-link"><i class="grve-icon grve-icon-envelope"></i><span>Scrivici una EMail</span></a></li>
+					</ul>
+				</nav>
+			</li>
+		</ul>
+		<!-- End Safe Options -->
+					
+								</div>
+				<div class="clear"></div>
+
+				<!-- End Logo, Main Navigation, Header Options -->
+
+					<div id="grve-feature-section" class="grve-with-revslider">
+		<div class="grve-feature-section-inner" data-item="revslider">
+			<div class="grve-feature-element grve-revslider">
+				<link href="http://fonts.googleapis.com/css?family=Open+Sans:700%2C600%7CRoboto:700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.6.3.1 auto mode -->
+	<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-4" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-slide02-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-slide02.jpg"  alt="" title="seab-slide02"  width="1902" height="640" data-bgposition="center top" data-kenburns="on" data-duration="6000" data-ease="Linear.easeNone" data-scalestart="103" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<h3 class="tp-caption opensans-white-small   tp-resizeme" 
+			 id="slide-4-layer-2" 
+			 data-x="['left','left','center','center']" data-hoffset="['22','22','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['227','201','184','111']" 
+						data-fontsize="['48','42','36','28']"
+			data-lineheight="['58','50','28','36']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":350,"speed":1490,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Expo.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 58px; letter-spacing: 0px;font-family:Open Sans;">TENIAMO PULITO IL MONDO </h3>
+
+		<!-- LAYER NR. 2 -->
+		<h4 class="tp-caption opensans-white   tp-resizeme" 
+			 id="slide-4-layer-3" 
+			 data-x="['left','left','center','center']" data-hoffset="['22','22','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+						data-fontsize="['24','20','18','16']"
+			data-lineheight="['32','28','24','22']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":510,"speed":1490,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Expo.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; line-height: 32px; font-weight: 600; letter-spacing: 1px;font-family:Open Sans;"><i>rispetta l’ambiente, rispetta te stesso...</i> </h4>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption rev-btn " 
+			 id="slide-4-layer-6" 
+			 data-x="['left','left','center','center']" data-hoffset="['20','21','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['366','317','278','188']" 
+						data-width="['none','181','181','181']"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/news-seab\/","delay":""}]'
+			data-responsive_offset="on" 
+			data-responsive="off"
+			data-frames='[{"delay":670,"speed":1490,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 14px; line-height: 20px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: 2px;font-family:Roboto;background-color:rgb(230,86,3);border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">AREA NEWS </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-7" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-slide01-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-slide01.jpg"  alt="" title="seab-slide01"  width="1902" height="640" data-bgposition="center top" data-kenburns="on" data-duration="5000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="105" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 4 -->
+		<h3 class="tp-caption opensans-white-small   tp-resizeme" 
+			 id="slide-7-layer-2" 
+			 data-x="['left','left','center','center']" data-hoffset="['22','22','1','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['227','201','186','109']" 
+						data-fontsize="['48','42','36','28']"
+			data-lineheight="['58','50','28','36']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":350,"speed":1490,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Expo.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 58px; letter-spacing: 0px;font-family:Open Sans;">TENIAMO PULITO IL MONDO </h3>
+
+		<!-- LAYER NR. 5 -->
+		<h4 class="tp-caption opensans-white   tp-resizeme" 
+			 id="slide-7-layer-3" 
+			 data-x="['left','left','center','center']" data-hoffset="['22','22','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+						data-fontsize="['24','20','18','16']"
+			data-lineheight="['32','28','24','22']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":510,"speed":1490,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Expo.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; line-height: 32px; font-weight: 600; letter-spacing: 1px;font-family:Open Sans;"><i>più si differenzia, meno si inquina</i> </h4>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption rev-btn " 
+			 id="slide-7-layer-6" 
+			 data-x="['left','left','center','center']" data-hoffset="['20','21','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['367','317','271','181']" 
+						data-width="['none','181','181','181']"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/raccolta-differenziata\/","delay":""}]'
+			data-responsive_offset="on" 
+			data-responsive="off"
+			data-frames='[{"delay":670,"speed":1490,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 14px; line-height: 20px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: 2px;font-family:Roboto;background-color:rgb(230,86,3);border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SEZIONE RACCOLTA DIFFERENZIATA </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-8" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-slide05-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-slide05.jpg"  alt="" title="seab-slide05"  width="1902" height="640" data-bgposition="center top" data-kenburns="on" data-duration="7000" data-ease="Linear.easeNone" data-scalestart="107" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<h3 class="tp-caption opensans-white-small   tp-resizeme" 
+			 id="slide-8-layer-2" 
+			 data-x="['left','left','center','center']" data-hoffset="['22','22','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['227','201','189','104']" 
+						data-fontsize="['48','42','36','28']"
+			data-lineheight="['58','50','28','36']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":350,"speed":1490,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Expo.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 58px; letter-spacing: 0px;font-family:Open Sans;">TENIAMO PULITO IL MONDO </h3>
+
+		<!-- LAYER NR. 8 -->
+		<h4 class="tp-caption opensans-white   tp-resizeme" 
+			 id="slide-8-layer-3" 
+			 data-x="['left','left','center','center']" data-hoffset="['22','22','-1','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+						data-fontsize="['24','20','18','16']"
+			data-lineheight="['32','28','24','22']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":510,"speed":1490,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Expo.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; line-height: 32px; font-weight: 600; letter-spacing: 1px;font-family:Open Sans;"><i>ama e rispetta il luogo in cui vivi</i> </h4>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption rev-btn " 
+			 id="slide-8-layer-6" 
+			 data-x="['left','left','center','center']" data-hoffset="['20','21','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['366','317','269','187']" 
+						data-width="['none','181','181','181']"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/aree-servite\/","delay":""}]'
+			data-responsive_offset="on" 
+			data-responsive="off"
+			data-frames='[{"delay":670,"speed":1490,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 14px; line-height: 20px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: 2px;font-family:Roboto;background-color:rgb(230,86,3);border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">ELENCO AREE SERVITE </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.opensans-white-small,.opensans-white-small{font-size:40px;line-height:60px;font-weight:700;font-family:\"Open Sans\";color:#ffffff;text-decoration:none;background-color:transparent;border-width:0px;border-color:rgb(0,0,0);border-style:none;text-shadow:none;text-transform:uppercase}.tp-caption.opensans-white,.opensans-white{font-size:60px;line-height:60px;font-weight:700;font-family:\"Open Sans\";color:#ffffff;text-decoration:none;background-color:transparent;border-width:0px;border-color:rgb(0,0,0);border-style:none;text-shadow:none;text-transform:uppercase}";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_2_1'), responsiveLevels: [1240,1024,778,480], gridwidth: [1160,1024,778,480], gridheight: [640,560,480,320], sliderLayout: 'auto'});
+			
+var revapi2,
+	tpj=jQuery;
+tpj.noConflict();			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_2_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_2_1");
+	}else{
+		revapi2 = tpj("#rev_slider_2_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//www.seab.biella.it/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"auto",
+			dottedOverlay:"none",
+			delay:5000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				touch:{
+					touchenabled:"on",
+					touchOnDesktop:"off",
+					swipe_threshold: 75,
+					swipe_min_touches: 1,
+					swipe_direction: "horizontal",
+					drag_block_vertical: false
+				}
+				,
+				arrows: {
+					style:"metis",
+					enable:true,
+					hide_onmobile:true,
+					hide_under:580,
+					hide_onleave:false,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+				,
+				bullets: {
+					enable:true,
+					hide_onmobile:false,
+					hide_over:580,
+					style:"ares",
+					hide_onleave:true,
+					hide_delay:200,
+					hide_delay_mobile:1200,
+					direction:"horizontal",
+					h_align:"center",
+					v_align:"bottom",
+					h_offset:0,
+					v_offset:20,
+					space:5,
+					tmp:'<span class="tp-bullet-title">{{title}}</span>'
+				}
+			},
+			responsiveLevels:[1240,1024,778,480],
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:[1160,1024,778,480],
+			gridheight:[640,560,480,320],
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner0",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		<script>
+					var htmlDivCss = unescape("%23rev_slider_2_1%20.metis.tparrows%20%7B%0A%20%20background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%20%20padding%3A10px%3B%0A%20%20transition%3Aall%200.3s%3B%0A%20%20-webkit-transition%3Aall%200.3s%3B%0A%20%20width%3A60px%3B%0A%20%20height%3A60px%3B%0A%20%20box-sizing%3Aborder-box%3B%0A%20%7D%0A%20%0A%20%23rev_slider_2_1%20.metis.tparrows%3Ahover%20%7B%0A%20%20%20background%3Argba%28255%2C255%2C255%2C0.75%29%3B%0A%20%7D%0A%20%0A%20%23rev_slider_2_1%20.metis.tparrows%3Abefore%20%7B%0A%20%20color%3Argb%280%2C%200%2C%200%29%3B%20%20%0A%20%20%20transition%3Aall%200.3s%3B%0A%20%20-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%23rev_slider_2_1%20.metis.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20transform%3Ascale%281.5%29%3B%0A%20%20%7D%0A%20%0A.ares.tp-bullets%20%7B%0A%7D%0A.ares.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.ares%20.tp-bullet%20%7B%0A%09width%3A13px%3B%0A%09height%3A13px%3B%0A%09position%3Aabsolute%3B%0A%09background%3Argba%28229%2C%20229%2C%20229%2C%201%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.ares%20.tp-bullet%3Ahover%2C%0A.ares%20.tp-bullet.selected%20%7B%0A%09background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%7D%0A.ares%20.tp-bullet-title%20%7B%0A%20%20position%3Aabsolute%3B%0A%20%20color%3A136%2C%20136%2C%20136%3B%0A%20%20font-size%3A12px%3B%0A%20%20padding%3A0px%2010px%3B%0A%20%20font-weight%3A600%3B%0A%20%20right%3A27px%3B%0A%20%20top%3A-4px%3B%20%20%0A%20%20background%3Argba%28255%2C255%2C255%2C0.75%29%3B%0A%20%20visibility%3Ahidden%3B%0A%20%20transform%3Atranslatex%28-20px%29%3B%0A%20%20-webkit-transform%3Atranslatex%28-20px%29%3B%0A%20%20transition%3Atransform%200.3s%3B%0A%20%20-webkit-transition%3Atransform%200.3s%3B%0A%20%20line-height%3A20px%3B%0A%20%20white-space%3Anowrap%3B%0A%7D%20%20%20%20%20%0A%0A.ares%20.tp-bullet-title%3Aafter%20%7B%0A%20%20%20%20width%3A%200px%3B%0A%09height%3A%200px%3B%0A%09border-style%3A%20solid%3B%0A%09border-width%3A%2010px%200%2010px%2010px%3B%0A%09border-color%3A%20transparent%20transparent%20transparent%20rgba%28255%2C255%2C255%2C0.75%29%3B%0A%09content%3A%22%20%22%3B%0A%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20right%3A-10px%3B%0A%09top%3A0px%3B%0A%7D%0A%20%20%20%20%0A.ares%20.tp-bullet%3Ahover%20.tp-bullet-title%7B%0A%20%20visibility%3Avisible%3B%0A%20%20%20transform%3Atranslatex%280px%29%3B%0A%20%20-webkit-transform%3Atranslatex%280px%29%3B%0A%7D%0A%0A.ares%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%20%7B%0A%20%20%20%20background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%7D%0A.ares%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3Atransparent%20transparent%20transparent%20rgba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%7D%0A.ares.tp-bullets%3Ahover%20.tp-bullet-title%20%7B%0A%20%20visibility%3Ahidden%3B%0A%20%20%0A%7D%0A.ares.tp-bullets%3Ahover%20.tp-bullet%3Ahover%20.tp-bullet-title%20%7B%0A%20%20%20%20visibility%3Avisible%3B%0A%20%20%20%20transform%3AtranslateX%280px%29%20translatey%280px%29%3B%0A%20%20-webkit-transform%3AtranslateX%280px%29%20translatey%280px%29%3B%0A%7D%0A%0A%0A%2F%2A%20VERTICAL%20%2A%2F%0A.ares.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%20%7B%20right%3Aauto%3B%20left%3A27px%3B%20%20transform%3Atranslatex%2820px%29%3B%20-webkit-transform%3Atranslatex%2820px%29%3B%7D%20%20%0A.ares.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%3Aafter%20%7B%20%0A%20%20border-width%3A%2010px%2010px%2010px%200%20%21important%3B%0A%20%20border-color%3A%20transparent%20rgba%28255%2C255%2C255%2C0.75%29%20transparent%20transparent%3B%0A%20%20right%3Aauto%20%21important%3B%0A%20%20left%3A-10px%20%21important%3B%20%20%20%0A%7D%0A.ares.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3A%20%20transparent%20rgba%28255%2C%20255%2C%20255%2C%201%29%20transparent%20transparent%20%21important%3B%0A%7D%0A%0A%0A%0A%2F%2A%20HORIZONTAL%20BOTTOM%20%26%26%20CENTER%20%2A%2F%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet-title%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet-title%20%7B%20top%3A-35px%3B%20left%3A50%25%3B%20right%3Aauto%3B%20transform%3A%20translateX%28-50%25%29%20translateY%28-10px%29%3B-webkit-transform%3A%20translateX%28-50%25%29%20translateY%28-10px%29%3B%20%7D%20%20%0A%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet-title%3Aafter%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet-title%3Aafter%20%7B%20%0A%20%20border-width%3A%2010px%2010px%200px%2010px%3B%0A%20%20border-color%3A%20rgba%28255%2C255%2C255%2C0.75%29%20transparent%20transparent%20transparent%3B%0A%20%20right%3Aauto%3B%0A%20%20left%3A50%25%3B%0A%20%20margin-left%3A-10px%3B%0A%20%20top%3Aauto%3B%0A%20%20bottom%3A-10px%3B%0A%20%20%20%20%0A%7D%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3A%20%20rgba%28255%2C%20255%2C%20255%2C%201%29%20transparent%20transparent%20transparent%3B%0A%7D%0A%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet%3Ahover%20.tp-bullet-title%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet%3Ahover%20.tp-bullet-title%7B%0A%20%20%20transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%20%20-webkit-transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%7D%0A%0A%0A%2F%2A%20HORIZONTAL%20TOP%20%2A%2F%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%20%7B%20top%3A25px%3B%20left%3A50%25%3B%20right%3Aauto%3B%20transform%3A%20translateX%28-50%25%29%20translateY%2810px%29%3B-webkit-transform%3A%20translateX%28-50%25%29%20translateY%2810px%29%3B%20%7D%20%20%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%3Aafter%20%7B%20%0A%20%20border-width%3A%200%2010px%2010px%2010px%3B%0A%20%20border-color%3A%20%20transparent%20transparent%20rgba%28255%2C255%2C255%2C0.75%29%20transparent%3B%0A%20%20right%3Aauto%3B%0A%20%20left%3A50%25%3B%0A%20%20margin-left%3A-10px%3B%0A%20%20bottom%3Aauto%3B%0A%20%20top%3A-10px%3B%0A%20%20%20%20%0A%7D%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3A%20%20transparent%20transparent%20%20rgba%28255%2C%20255%2C%20255%2C%201%29%20transparent%3B%0A%7D%0A%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet%3Ahover%20.tp-bullet-title%7B%0A%20%20%20transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%20%20-webkit-transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%7D%0A%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER -->						<div id="grve-feature-goto" class="grve-goto-section grve-icon-nav-down  grve-medium grve-square grve-goto-bounce grve-light"></div>
+			</div>
+		</div>
+	</div>
+				<!-- End Feature Section -->
+
+							<div id="grve-newsletter-modal" class="grve-modal">
+				<div class="grve-modal-content">
+					<a href="#" class="grve-close-modal grve-icon-close"></a>
+					<div class="grve-newsletter">
+											</div>
+				</div>
+			</div>
+	
+				
+							<div id="grve-search-modal" class="grve-modal">
+				<div class="grve-modal-content">
+					<a href="#" class="grve-close-modal grve-icon-close"></a>
+					<form class="grve-search" method="get" action="http://www.seab.biella.it/" >
+	<button type="submit" class="grve-search-btn"><i class="grve-icon-search"></i></button>
+	<input type="text" class="grve-search-textfield" value="" name="s" placeholder="Cerca ..." />
+</form>				</div>
+			</div>
+	
+				
+	<div id="grve-shop-modal" class="grve-modal">
+		<div class="grve-modal-content">
+			<a href="#" class="grve-close-modal grve-icon-close"></a>
+			<div class="grve-cart-popup">
+				<div class="widget_shopping_cart_content"></div>
+			</div>
+		</div>
+	</div>
+
+
+						<div id="grve-language-modal" class="grve-modal">
+			<div class="grve-modal-content">
+				<a href="#" class="grve-close-modal grve-icon-close"></a>
+				<ul class="grve-language">
+
+
+				</ul>
+			</div>
+		</div>
+
+				        <div id="grve-email-modal" class="grve-modal">
+            <div class="grve-modal-content">
+                <a href="#" class="grve-close-modal grve-icon-close"></a>
+                <div class="grve-custom-content" style="text-align: center;">
+                    <a href="mailto:info@seabiella.it">Clicca qui per scriverci un'E-Mail</a>
+                </div>
+            </div>
+        </div>
+
+				<div class="grve-popup-overlay"></div>
+
+			</header>
+
+
+
+		<div id="grve-main-content">
+
+						
+						<div id="grve-anchor-menu" class="grve-fields-bar">
+					<div class="grve-icon-menu"></div>
+					<ul id="menu-anchor-home-page" class="menu"><li id="menu-item-4543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4543"><a href="#chi-siamo">Chi siamo</a></li>
+<li id="menu-item-4678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4678"><a href="#news-seab">Le News di SEAB</a></li>
+<li id="menu-item-4752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4752"><a href="#bandi-concorsi">Bandi e Concorsi Aperti</a></li>
+<li id="menu-item-4544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4544"><a href="#servizi">Servizi</a></li>
+<li id="menu-item-4657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4657"><a href="#raccolta-differenziata">Raccolta Differenziata</a></li>
+<li id="menu-item-4658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4658"><a href="#ecocentri">Ecocentri</a></li>
+<li id="menu-item-7991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7991"><a href="#calendario-riuso">Calendario Riuso</a></li>
+<li id="menu-item-4659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4659"><a href="#scuola">Scuola</a></li>
+<li id="menu-item-4680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4680"><a href="#comuni-serviti">Comuni Serviti</a></li>
+<li id="menu-item-7114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7114"><a href="#area-aziende">Area Aziende</a></li>
+</ul>			</div>
+						<div class="grve-container ">
+
+				<!-- Content Area -->
+				<div id="grve-content-area">
+
+					<!-- Content -->
+					<div id="page-4090" class="post-4090 page type-page status-publish hentry">
+
+						<div id="chi-siamo" class="grve-section grve-feature-header"  style="padding-top: 60px;padding-bottom: 30px;margin-bottom: 0px;" data-section-title="CHI SIAMO" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h3 class="grve-element grve-align-center grve-title-line grve-h3 major" style=""><span>Chi Siamo</span></h3></div>  </div></div><div  class="grve-section"  style="padding-top: 40px;padding-bottom: 80px;margin-bottom: 0px;" data-section-title="" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1-2 grve-tablet-column-1 grve-tablet-sm-column-1"><div class="grve-element grve-image grve-animated-item grve-fadeInLeft grve-align-center" style="" data-delay="200"><img width="570" height="570" src="http://www.seab.biella.it/wp-content/uploads/2015/02/seab1.jpg" class="attachment-full size-full" alt="" srcset="http://www.seab.biella.it/wp-content/uploads/2015/02/seab1.jpg 570w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab1-150x150.jpg 150w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab1-300x300.jpg 300w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab1-120x120.jpg 120w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab1-560x560.jpg 560w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab1-80x80.jpg 80w" sizes="(max-width: 570px) 100vw, 570px" /></div></div><div class="wpb_column grve-column grve-bookmark grve-column-1-2 grve-tablet-column-1 grve-tablet-sm-column-1"><div class="grve-element grve-text"><p style="text-align: justify;"><strong>Seab Spa</strong> è la società in <em>house providing</em> <strong>appartenente ai 78 comuni biellesi</strong> che si occupa della <strong>raccolta e dello smaltimento dei rifiuti</strong> in 65 di essi.<br />
+Con poco meno di 200 dipendenti, ogni giorno operiamo per la pulizia del nostro territorio per un bacino che supera le 162.000 utenze.</p>
+</div><div class="grve-element grve-box-icon grve-align-left" style="">  <div class="grve-icon grve-medium grve-simple grve-no-shape grve-color-primary-1 fa fa-map-marker"></div>  <div class="grve-box-content"><h4 class="grve-box-title"><span>SPORTELLO TARIFFA RIFIUTI BIELLA</span></h4>    <p class="">Biella, Viale Roma 14 &#8211; Piano terra &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211;<br />
+ORARIO: Lunedì 8.30 &#8211; 12.30 | Martedì 14.00 &#8211; 16.00 | Mercoledì 8.30 – 12.30<br />
+Giovedì 8.30 – 16.00 orario continuato | Venerdì 8.30 – 12.30</p>  </div></div><div class="grve-element grve-box-icon grve-align-left" style="">  <div class="grve-icon grve-medium grve-simple grve-no-shape grve-color-primary-1 fa fa-file-o"></div>  <div class="grve-box-content"><h4 class="grve-box-title"><span>UFFICIO AMMINISTRATIVO/PROTOCOLLO </span></h4>    <p class="">Biella, Viale Roma 14 &#8211; Primo piano &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211;<br />
+ORARIO AL PUBBLICO: da Lunedì a Giovedì dalle ore 9.00 alle ore 12.30 e dalle ore 14.00 alle ore 17.00 &#8211; Venerdì dalle ore 9.00 alle ore 12.30 e dalle ore 14.00 alle ore 15.00</p>  </div></div><div class="grve-element grve-box-icon grve-align-left" style="">  <div class="grve-icon grve-medium grve-simple grve-no-shape grve-color-primary-1 fa fa-map-marker"></div>  <div class="grve-box-content"><h4 class="grve-box-title"><span>SPORTELLO TARIFFA RIFIUTI COSSATO</span></h4>    <p class="">Cossato, presso Municipio in Piazza Angiono &#8211; Primo Piano &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; ORARIO: Lunedì 9.00 &#8211; 12.15 | Martedì 13.30 &#8211; 15.30 | Mercoledì 9.00 – 12.15 e dalle 13.30 alle 15.30 &#8211; Giovedì 13.30 – 15.30 | Venerdì 9.00 – 13.00.</p>  </div></div><div class="grve-element grve-box-icon grve-align-left" style="">  <div class="grve-icon grve-medium grve-outline grve-no-shape grve-color-primary-1 fa fa-phone"></div>  <div class="grve-box-content"><h4 class="grve-box-title"><span>NUMERO VERDE</span></h4>    <p class=""> 800.399760 oppure 800.256463 da Lunedì a Giovedì dalle ore 8.30 alle ore 17.00 &#8211; il Venerdì dalle 8.30 alle 15.30. Per prenotazione ritiro domiciliare di verde o ingombranti e segnalazioni.</p>  </div></div><div class="grve-element grve-align-left"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-1 mybutton" href="http://www.seab.biella.it/azienda/" target="_self" style=""><span>+ info su SEAB</span></a></div></div>  </div></div><div id="news-seab" class="grve-section"  style="background-color:#ededed;padding-top: 60px;padding-bottom: 80px;margin-bottom: 0px;" data-section-title="NEWS" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h4 class="grve-element grve-align-center grve-title-line grve-h4 major" style="margin-bottom: 60px;"><span>Le News di SEAB</span></h4></div></div><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1">		<div class="grve-element grve-blog grve-blog-grid grve-isotope" style="" data-type="2-columns" data-layout="fitRows" data-spinner="no">
+			<div class="grve-isotope-container">
+			<article id="post-8671" class="grve-blog-item grve-isotope-item post-8671 post type-post status-publish format-standard has-post-thumbnail hentry category-news-seab tag-feste tag-festivita tag-natale tag-natalizie tag-raccolta tag-rifiuti tag-servizio tag-variazione" itemscope itemType="http://schema.org/BlogPosting">
+				<div class="grve-isotope-item-inner">							<div class="grve-media grve-image-hover">
+			<a href="http://www.seab.biella.it/news-seab/variazione-servizio-raccolta-rifiuti-biella/" target="_self"><img width="553" height="315" src="http://www.seab.biella.it/wp-content/uploads/2017/12/seab-news-553x315.jpg" class="attachment-grve-image-small-rect-horizontal size-grve-image-small-rect-horizontal wp-post-image" alt="" /></a>
+		</div>
+
+											<div class="grve-post-content">
+							<a href="http://www.seab.biella.it/news-seab/variazione-servizio-raccolta-rifiuti-biella/" rel="bookmark"><h5 class="grve-post-title" itemprop="name headline">Variazione servizio raccolta rifiuti Città di Biella</h5></a>									<span class="grve-hidden">
+			<span class="grve-structured-data" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+			   <span itemprop='url' >http://www.seab.biella.it/wp-content/uploads/2017/12/seab-news.jpg</span>
+			   <span itemprop='height' >553</span>
+			   <span itemprop='width' >465</span>
+			</span>
+						<span class="grve-structured-data" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<span itemprop="name">SEAB Biella</span>
+			</span>
+			<span class="grve-structured-data" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+				<span itemprop='name'>SEAB Biella</span>
+				<span itemprop='logo' itemscope itemtype='http://schema.org/ImageObject'>
+					<span itemprop='url'>http://www.seab.biella.it/wp-content/uploads/2017/12/seab-news.jpg</span>
+				</span>
+			</span>
+						<time class="grve-structured-data" itemprop="datePublished" datetime="2017-12-18T16:12:37+00:00">18 dicembre 2017</time>
+			<time class="grve-structured-data" itemprop="dateModified"  datetime="2017-12-20T11:34:10+00:00">20 dicembre 2017</time>
+			<span class="grve-structured-data" itemprop="mainEntityOfPage" itemscope itemtype="http://schema.org/WebPage" itemid="http://www.seab.biella.it/news-seab/variazione-servizio-raccolta-rifiuti-biella/"></span>
+		</span>
+								<div class="grve-post-meta">
+									<time class="grve-post-date" datetime="2017-12-18T16:12:37+00:00">
+		18 dicembre 2017	</time>
+							</div>
+							<div itemprop="articleBody"><p>Seab Spa ricorda che è operativa per il servizio di raccolta rifiuti tutti i giorni tranne il 25.12 e il 01.01 di ogni anno. Pertanto si informano le gentili utenze della Città di Biella che&hellip;</p><a class="grve-read-more" href="http://www.seab.biella.it/news-seab/variazione-servizio-raccolta-rifiuti-biella/"><span>maggiori informazioni</span></a></div>						</div>
+					
+				</div>			</article>
+
+			<article id="post-8637" class="grve-blog-item grve-isotope-item post-8637 post type-post status-publish format-standard has-post-thumbnail hentry category-news-seab tag-aumenti tag-errori tag-rimborsi tag-tari" itemscope itemType="http://schema.org/BlogPosting">
+				<div class="grve-isotope-item-inner">							<div class="grve-media grve-image-hover">
+			<a href="http://www.seab.biella.it/news-seab/rimborsi-tari/" target="_self"><img width="553" height="315" src="http://www.seab.biella.it/wp-content/uploads/2017/12/seab-news-553x315.jpg" class="attachment-grve-image-small-rect-horizontal size-grve-image-small-rect-horizontal wp-post-image" alt="" /></a>
+		</div>
+
+											<div class="grve-post-content">
+							<a href="http://www.seab.biella.it/news-seab/rimborsi-tari/" rel="bookmark"><h5 class="grve-post-title" itemprop="name headline">Rimborsi Tari: a Biella non ci sono stati errori.</h5></a>									<span class="grve-hidden">
+			<span class="grve-structured-data" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+			   <span itemprop='url' >http://www.seab.biella.it/wp-content/uploads/2017/12/seab-news.jpg</span>
+			   <span itemprop='height' >553</span>
+			   <span itemprop='width' >465</span>
+			</span>
+						<span class="grve-structured-data" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<span itemprop="name">SEAB Biella</span>
+			</span>
+			<span class="grve-structured-data" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+				<span itemprop='name'>SEAB Biella</span>
+				<span itemprop='logo' itemscope itemtype='http://schema.org/ImageObject'>
+					<span itemprop='url'>http://www.seab.biella.it/wp-content/uploads/2017/12/seab-news.jpg</span>
+				</span>
+			</span>
+						<time class="grve-structured-data" itemprop="datePublished" datetime="2017-11-30T16:13:46+00:00">30 novembre 2017</time>
+			<time class="grve-structured-data" itemprop="dateModified"  datetime="2017-12-20T11:35:04+00:00">20 dicembre 2017</time>
+			<span class="grve-structured-data" itemprop="mainEntityOfPage" itemscope itemtype="http://schema.org/WebPage" itemid="http://www.seab.biella.it/news-seab/rimborsi-tari/"></span>
+		</span>
+								<div class="grve-post-meta">
+									<time class="grve-post-date" datetime="2017-11-30T16:13:46+00:00">
+		30 novembre 2017	</time>
+							</div>
+							<div itemprop="articleBody"><p>Biella ha sempre seguito le linee guida del Ministero dell’Economia e confermiamo che non ci sono stati aumenti ingiustificati nella TARI sulla parte variabile, calcolata in base al numero di occupanti del nucleo famigliare. Il&hellip;</p><a class="grve-read-more" href="http://www.seab.biella.it/news-seab/rimborsi-tari/"><span>maggiori informazioni</span></a></div>						</div>
+					
+				</div>			</article>
+
+			</div>
+		</div>
+<div class="grve-element grve-align-center grve-animated-item grve-fadeInUp" data-delay="200"><a class="grve-btn grve-btn-large grve-square grve-bg-primary-1 grve-btn-line" href="/news-seab/" target="_self" style=""><span>Leggi tutte le News</span></a></div></div></div></div>  </div></div><div id="bandi-concorsi" class="grve-section bandi-concorsi mrwhite"  style="background-color:#e65603;padding-top: 60px;padding-bottom: 80px;margin-bottom: 0px;" data-section-title="BANDI" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-callout grve-btn-right" style="">  <div class="grve-callout-wrapper"><h3 class="grve-callout-content"><span>Bandi di Gara e Contratti</span></h3>    <p class="">Cliacca su &#8220;Maggiori Informazioni&#8221; e accedi direttamente alla sezione <strong>bandi di gara aperti</strong></p>  </div>  <div class="grve-button-wrapper"><a class="grve-btn grve-btn-extralarge grve-square grve-white-color grve-btn-line" href="http://www.seab.biella.it/societa-trasparente/bandi-di-gara-e-contratti/bandi-di-gara/bandi-di-gara-2017/" target="_self" style=""><span>Maggiori Informazioni</span></a>  </div></div></div>  </div></div><div id="servizi" class="grve-section service"  style="background-color:#ffffff;padding-top: 40px;padding-bottom: 20px;margin-bottom: 0px;" data-section-title="SERVIZI" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h4 class="grve-element grve-align-center grve-title-line grve-h4 major" style="margin-bottom: 60px;"><span>Servizi</span></h4></div></div><div  class="grve-row vc_custom_1499331353269"><div class="wpb_column grve-column grve-bookmark grve-column-1-2"><div class="grve-element grve-box-icon grve-align-center" style=""><a href="http://www.seab.biella.it/aree-servite/" target="_self"><div class="grve-icon grve-large grve-simple grve-no-shape grve-color-primary-2 grve-image-icon"><img width="57" height="56" src="http://www.seab.biella.it/wp-content/uploads/2015/02/seab-calendari-raccolte.png" class="attachment-full size-full" alt="" srcset="" /></div></a>  <div class="grve-box-content"><a href="http://www.seab.biella.it/aree-servite/" target="_self"><h5 class="grve-box-title"><span>Calendari Raccolte</span></h5></a>  </div></div><div class="grve-element grve-text"><p style="text-align: justify;"><a title="Calendari Raccolta" href="http://www.seab.biella.it/aree-servite/">Visualizza il calendario del servizio di raccolta rifiuti attivo sul tuo comune.</a></p>
+</div></div><div class="wpb_column grve-column grve-bookmark grve-column-1-2"><div class="grve-element grve-box-icon grve-align-center" style=""><a href="http://www.seab.biella.it/richiesta-di-prenotazione/" target="_self"><div class="grve-icon grve-large grve-simple grve-no-shape grve-color-primary-1 grve-image-icon"><img width="57" height="56" src="http://www.seab.biella.it/wp-content/uploads/2015/02/seab-richiesta-prenotazione.png" class="attachment-full size-full" alt="" srcset="" /></div></a>  <div class="grve-box-content"><a href="http://www.seab.biella.it/richiesta-di-prenotazione/" target="_self"><h5 class="grve-box-title"><span>Richieste di prenotazione</span></h5></a>  </div></div><div class="grve-element grve-text"><p style="text-align: justify;"><a title="Richieste di Prenotazione" href="http://www.seab.biella.it/richiesta-di-prenotazione/">Accedi al servizio di prenotazione per il ritiro domiciliare gratuito di ingombranti e frazione verde.</a></p>
+</div></div></div></div>  </div></div><div  class="grve-section tarip"  style="background-color:#e65603;padding-top: 40px;padding-bottom: 40px;" data-section-title="" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-box-icon grve-align-center white" style=""><a href="http://www.seab.biella.it/tariffa-puntuale/" target="_self"><div class="grve-icon grve-large grve-simple grve-no-shape grve-color-primary-1 grve-image-icon"><img width="78" height="77" src="http://www.seab.biella.it/wp-content/uploads/2017/12/seab-tarip-icon.png" class="attachment-full size-full" alt="" srcset="" /></div></a>  <div class="grve-box-content"><a href="http://www.seab.biella.it/tariffa-puntuale/" target="_self"><h5 class="grve-box-title"><span>Tariffa puntuale</span></h5></a>  </div></div><div class="grve-element grve-text"><p style="text-align: center;"><span style="color: #ffffff;"><a style="color: #ffffff;" title="Tariffa puntuale" href="http://www.seab.biella.it/tariffa-puntuale/">Entra nell’area dedicata agli utenti dei comuni di Biella, Cossato e Gaglianico.</a></span></p>
+</div></div>  </div></div><div  class="grve-section"  style="background-color:#ffffff;padding-top: 40px;padding-bottom: 40px;" data-section-title="" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-align-center"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-1 grve-btn-line mybutton" href="http://www.seab.biella.it/servizi/" target="_self" style=""><span>visita la pagina SERVIZI</span></a></div></div>  </div></div><div id="raccolta-differenziata" class="grve-section"  style="background-color:#ededed;padding-top: 60px;padding-bottom: 80px;margin-bottom: 0px;" data-section-title="RACC. DIFFERENZIATA" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h3 class="grve-element grve-align-center grve-title-line grve-h3 major" style="margin-bottom: 60px;"><span>Raccolta Differenziata</span></h3></div></div><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1-2"><div class="grve-element grve-text"><p style="text-align: right;"><strong>Differenziare i rifiuti</strong> è il modo più efficace per limitare il consumo di materie prime preziose, per salvaguardare il nostro pianeta, per rispettare l’ambiente che ci circonda,  noi stessi, e i nostri figli. L’<strong>obiettivo</strong> è quello di limitare il più possibile il conferimento di materiale indifferenziato alla discarica, sia per ragioni economiche relative ai costi di smaltimento, ma soprattutto per <strong>contingentare lo spreco di materie prime riutilizzando materiali a cui è possibile dare una seconda vita.</strong></p>
+</div><div  class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<div id="text-10" class="grve-widget widget widget_text"><h5 class="grve-widget-title">Brochure Informativa in formato PDF</h5>			<div class="textwidget"><table>
+<tbody>
+<tr>
+<td style="padding: 10px; vertical-align: middle;"><img style="width: 48px;" src="http://www.seab.biella.it/wp-content/uploads/2017/07/ita-flag.png" /></td>
+<td style="padding: 10px; text-align: left;"><a title="File PDF" href="http://www.seab.biella.it/wp-content/uploads/2017/10/Generico-aggiornato-al-4.10.pdf" target="_blank" rel="noopener">Scarica la Brochure Informativa in formato PDF. Clicca qui »</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+		</div><div id="text-11" class="grve-widget widget widget_text">			<div class="textwidget"><table>
+<tbody>
+<tr>
+<td style="padding: 10px; vertical-align: middle;"><img style="width: 48px;" src="http://www.seab.biella.it/wp-content/uploads/2017/07/eng-flag.png" /></td>
+<td style="padding: 10px; text-align: left;"><a title="File PDF" href="http://www.seab.biella.it/wp-content/uploads/2017/07/seab-biella-allegato-in-progress.pdf" target="_BLANK">Download the Information Leaflet in PDF format. Click here »</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+		</div><div id="text-12" class="grve-widget widget widget_text">			<div class="textwidget"><table>
+<tbody>
+<tr>
+<td style="padding: 10px; vertical-align: middle;"><img style="width: 48px;" src="http://www.seab.biella.it/wp-content/uploads/2017/07/fra-flag.png" /></td>
+<td style="padding: 10px; text-align: left;"><a title="File PDF" href="http://www.seab.biella.it/wp-content/uploads/2017/07/seab-biella-allegato-in-progress.pdf" target="_BLANK">Télécharger la brochure d&#8217;information en format PDF. Cliquez ici »</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+		</div><div id="text-13" class="grve-widget widget widget_text">			<div class="textwidget"><table>
+<tbody>
+<tr>
+<td style="padding: 10px; vertical-align: middle;"><img style="width: 48px;" src="http://www.seab.biella.it/wp-content/uploads/2017/07/ger-flag.png" /></td>
+<td style="padding: 10px; text-align: left;"><a title="File PDF" href="http://www.seab.biella.it/wp-content/uploads/2017/07/seab-biella-allegato-in-progress.pdf" target="_BLANK">Informationen zum Download Broschüre im PDF-Format. Klicken Sie hier »</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+		</div><div id="text-14" class="grve-widget widget widget_text">			<div class="textwidget"><table>
+<tbody>
+<tr>
+<td style="padding: 10px; vertical-align: middle;"><img style="width: 48px;" src="http://www.seab.biella.it/wp-content/uploads/2017/07/spa-flag.png" /></td>
+<td style="padding: 10px; text-align: left;"><a title="File PDF" href="http://www.seab.biella.it/wp-content/uploads/2017/07/seab-biella-allegato-in-progress.pdf" target="_BLANK">Información de descarga del folleto en formato PDF. Haga clic aquí »</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+		</div>
+		</div>
+	</div>
+<div class="grve-element grve-align-right"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-1 mybutton" href="http://www.seab.biella.it/raccolta-differenziata/" target="_self" style=""><span>Leggi tutto</span></a></div></div><div class="wpb_column grve-column grve-bookmark grve-column-1-2"><div class="grve-element grve-image grve-animated-item grve-fadeInRight grve-align-center" style="" data-delay="200"><img width="600" height="600" src="http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata.jpg" class="attachment-full size-full" alt="" srcset="http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata.jpg 600w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata-150x150.jpg 150w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata-300x300.jpg 300w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata-120x120.jpg 120w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata-560x560.jpg 560w, http://www.seab.biella.it/wp-content/uploads/2015/02/seab-raccolta-differenziata-80x80.jpg 80w" sizes="(max-width: 600px) 100vw, 600px" /></div></div></div></div>  </div></div><div id="ecocentri" class="grve-section grve-middle-content ecocentri"  style="color:#ffffff;padding-top: 80px;padding-bottom: 100px;margin-bottom: 0px;" data-section-title="ECOCENTRI" data-section-type="fullwidth-background" data-image-type="animated" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h3 class="grve-element grve-align-center grve-title-line grve-h3 grve-animated-item grve-fadeInDown mrwhite" style="margin-bottom: 60px;" data-delay="200"><span>Ecocentri</span></h3></div></div><div class="grve-element grve-text grve-animated-item grve-fadeIn" data-delay="200"><p style="text-align: center;">Sono <span style="font-size: 20px;">7</span>, dislocati sul territorio della provincia di Biella. <strong>Al servizio delle utenze</strong> per accogliere gratuitamente tutti quei materiali che non possono essere conferiti tramite raccolta domiciliare. <strong>Consulta l’elenco per trovare quello più vicino e gli orari in cui accedere</strong>. Ricordati di portare un <span style="text-decoration: underline;">documento di identità che ti verrà chiesto all’ingresso</span>.</p>
+</div><div class="grve-element grve-align-center grve-animated-item grve-fadeInUp" data-delay="200"><a class="grve-btn grve-btn-large grve-square grve-bg-primary-1 grve-btn-line" href="http://www.seab.biella.it/ecocentri/" target="_self" style=""><span>Maggiori Informazioni</span></a></div></div>  </div>  <div class="grve-pattern grve-light-overlay grve-overlay-10"></div>  <div class="grve-bg-image"   style="background-image: url(http://www.seab.biella.it/wp-content/uploads/2015/02/seab-ecocentri-1920x480.jpg);"></div></div><div id="calendario-riuso" class="grve-section mrwhite"  style="background-color:#e65603;color:#ffffff;padding-top: 50px;padding-bottom: 50px;margin-bottom: 0px;" data-section-title="GIORNATE RIUSO" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-callout grve-animated-item grve-fadeIn mrwhite grve-btn-right" style="">  <div class="grve-callout-wrapper"><h4 class="grve-callout-content"><span>Calendario Giornate del Riuso</span></h4>    <p class="">Tutti i cittadini potranno portare materiali ingombranti che non utilizzano più (elettrodomestici, mobili, giocattoli, ecc.) e metterli a disposizione di chiunque volesse prelevarli ed eventualmente riutilizzarli.</p>  </div>  <div class="grve-button-wrapper"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-4" href="http://www.seab.biella.it/calendario-delle-giornate-del-riuso-2017/" target="_self" style=""><span>Scopri di +</span></a>  </div></div></div>  </div></div><div id="scuola" class="grve-section school-line"  style="padding-top: 80px;padding-bottom: 100px;margin-bottom: 0px;" data-section-title="SCUOLA" data-section-type="fullwidth-background" data-image-type="fixed-bg" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h3 class="grve-element grve-align-center grve-title-line grve-h3 major mrwhite" style="margin-bottom: 60px;"><span>Scuola</span></h3><div class="grve-element grve-align-center"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-1 specialbutton" href="http://www.seab.biella.it/visita-ecocentro/" target="_self" style=""><span>Pianifica una visita guidata all'Ecocentro SEAB</span></a></div><div class="grve-element grve-align-center"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-1 grve-btn-line specialbutton" href="http://www.seab.biella.it/educazione-ambientale-in-classe/" target="_self" style=""><span>pianifica una lezione di educazione ambientale in classe</span></a></div></div>  </div>  <div class="grve-dark-overlay grve-overlay-30"></div>  <div class="grve-bg-image"   style="background-image: url(http://www.seab.biella.it/wp-content/uploads/2015/02/seab-area-scuole-e-formazione-1920x780.jpg);"></div></div><div id="comuni-serviti" class="grve-section comuni-serviti"  style="padding-top: 60px;margin-bottom: 0px;" data-section-title="COMUNI SERVITI" data-section-type="fullwidth-element" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1"><h3 class="grve-element grve-align-center grve-title-line grve-h3 major" style="margin-bottom: 60px;"><span>Comuni Serviti</span></h3></div></div><div  class="grve-row"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-text"><div class="overlay" onClick="style.pointerEvents='none'"></div>
+<iframe src="https://www.google.com/maps/d/embed?mid=1AawNkvl78trSjN5xM3CGBGrLf3c" width="100%" height="850" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
+
+
+
+
+
+</div></div></div><div  class="grve-row vc_custom_1499336018428"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-align-center grve-animated-item grve-fadeInUp" data-delay="200"><a class="grve-btn grve-btn-large grve-square grve-bg-primary-1 grve-btn-line" href="http://www.seab.biella.it/aree-servite/" target="_self" style=""><span>AREE SERVITE</span></a></div></div></div></div>  </div></div><div id="area-aziende" class="grve-section"  style="background-color:#e65603;color:#ffffff;padding-top: 50px;padding-bottom: 50px;margin-bottom: 0px;" data-section-title="AREA AZIENDE" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-callout grve-animated-item grve-fadeIn mysize1 area-aziende grve-btn-right" style="">  <div class="grve-callout-wrapper"><h4 class="grve-callout-content"><span>Area dedicata alle AZIENDE</span></h4>    <p class="">Entra per visionare la modulistica relativa alle aziende</p>  </div>  <div class="grve-button-wrapper"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-4" href="http://www.seab.biella.it/area-aziende/" target="_self" style=""><span>Sei un'azienda? ENTRA</span></a>  </div></div></div>  </div></div><div  class="grve-section grve-feature-footer"  style="background-color:#303030;color:#ffffff;padding-top: 30px;padding-bottom: 30px;margin-bottom: 0px;" data-section-title="" data-section-type="fullwidth-background" data-image-type="none" data-full-height="no">  <div  class="grve-row grve-bookmark"><div class="wpb_column grve-column grve-bookmark grve-column-1"><div class="grve-element grve-callout grve-animated-item grve-fadeInUp mysize1 grve-btn-right" style="">  <div class="grve-callout-wrapper">    <p class="grve-leader-text">Desideri richiedere maggiori informazioni o hai bisogno di altri dettagli?</p>  </div>  <div class="grve-button-wrapper"><a class="grve-btn grve-btn-medium grve-square grve-bg-primary-1 grve-btn-line" href="http://www.seab.biella.it/contatti/" target="_self" style=""><span>Clicca e Scrivici</span></a>  </div></div></div>  </div></div>
+
+					</div>
+					<!-- End Content -->
+
+					
+				</div>
+								
+			</div>
+
+		</div>
+
+	
+							<!-- Section bottom Bar -->
+				<div id="grve-above-footer" class="grve-bookmark">
+					<div class="grve-container">
+
+																		</div>
+				</div>
+				<!-- End Section Bottom Bar -->
+
+				
+			<footer id="grve-footer" data-sticky-footer="no">
+
+				<div class="grve-container">
+				
+				<div class="logo-line-footer"><a title="SEAB Biella" href="/"><img src="http://www.seab.biella.it/wp-content/uploads/2017/05/seab-logo-footer.png" alt="Seab Biella" /></a></div>
+
+							<div id="grve-footer-area" class="grve-section" data-section-type="fullwidth-background">
+				<div class="grve-row">
+	<div class="grve-column-1-3 grve-tablet-column-1-3"><div id="nav_menu-6" class="grve-widget widget widget_nav_menu"><h5 class="grve-widget-title">SEAB.BIELLA.IT</h5><div class="menu-footer-01-container"><ul id="menu-footer-01" class="menu"><li id="menu-item-4707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4090 current_page_item menu-item-4707"><a href="http://www.seab.biella.it/">Home</a></li>
+<li id="menu-item-4708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4708"><a href="http://www.seab.biella.it/azienda/">Azienda</a></li>
+<li id="menu-item-4711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4711"><a href="http://www.seab.biella.it/servizi/">Servizi</a></li>
+<li id="menu-item-4712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4712"><a href="http://www.seab.biella.it/raccolta-differenziata/">Raccolta Differenziata</a></li>
+<li id="menu-item-4713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4713"><a href="http://www.seab.biella.it/ecocentri/">Ecocentri</a></li>
+<li id="menu-item-5888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5888"><a href="http://www.seab.biella.it/aree-servite/">Aree Servite</a></li>
+</ul></div></div></div><div class="grve-column-1-3 grve-tablet-column-1-3"><div id="nav_menu-7" class="grve-widget widget widget_nav_menu"><h5 class="grve-widget-title">SCOPRI DI PIU&#8217;</h5><div class="menu-footer-02-container"><ul id="menu-footer-02" class="menu"><li id="menu-item-4717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4717"><a href="http://www.seab.biella.it/societa-trasparente/">Trasparenza</a></li>
+<li id="menu-item-6270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6270"><a href="http://www.seab.biella.it/societa-trasparente/bandi-di-gara-e-contratti/">Bandi e Concorsi</a></li>
+<li id="menu-item-4718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4718"><a href="http://www.seab.biella.it/faq/">FAQ</a></li>
+<li id="menu-item-4719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4719"><a href="http://www.seab.biella.it/contatti/">Contatti</a></li>
+</ul></div></div></div><div class="grve-column-1-3 grve-tablet-column-1-3"><div id="text-2" class="grve-widget widget widget_text"><h5 class="grve-widget-title">SEAB SPA</h5>			<div class="textwidget"><p>Società ecologica area biellese S.p.A.<br />
+P.IVA 02132350022<br />
+C.S. 200.000,00 Euro interamente versato<br />
+Registro imprese: Biella 02132350022<br />
+R.E.A. n. 181199</p>
+<p>Sito Web: <a title="SEAB Biella" href="/">www.seab.biella.it</a><br />
+EMail: <a title="EMail SEAB Biella" href="mailto:info@seabiella.it">info@seabiella.it</a></p>
+<p>Numero Verde: 800 399 760</p>
+</div>
+		</div></div>				</div>
+			</div>
+									<div id="grve-footer-bar" class="grve-section" data-section-type="fullwidth-background" data-align-center="yes">
+
+					<div class="grve-row">
+												<div class="grve-column-1-2">
+							<div class="grve-copyright">
+								<p style="text-align: center;">Copyright 2017 SEAB - All Rights Reserved - <a title="Realizzazione Siti Web Professionali, Webdesign, Seo - Sem" href="https://www.softplaceweb.com/" target="_blank" rel="dofollow">Realizzazione Siti Web</a></p>							</div>
+						</div>
+												
+					</div>
+				</div>
+
+	
+				</div>
+							</footer>
+
+		</div> <!-- end #grve-theme-wrapper -->
+
+		<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    if ( '7700' == event.detail.contactFormId ) {
+        window.location.replace("/richiesta-di-contatto-per-educazione-ambientale-inviata-correttamente/");
+    }
+    if ( '5288' == event.detail.contactFormId ) {
+        window.location.replace("/richiesta-di-contatto-per-visita-ecocentro-inviata-correttamente/");
+    }
+    if ( '5237' == event.detail.contactFormId ) {
+        window.location.replace("/richiesta-di-contatto-inviata-correttamente/");
+    }
+    if ( '5342' == event.detail.contactFormId ) {
+        window.location.replace("/richiesta-di-prenotazione-inviata-correttamente/");
+    }
+}, false );
+</script>
+			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel='stylesheet' id='font-awesome-css'  href='http://www.seab.biella.it/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.4.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.seab.biella.it\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/www.seab.biella.it\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/www.seab.biella.it\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_b26399bc4804c61046a984e6bb253427"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.6'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-includes/js/comment-reply.min.js?ver=4.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var grve_plugins_data = {"retina_support":"default"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/themes/osmosis/js/plugins.js?ver=3.5.8'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/themes/osmosis/js/smartresize.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/themes/osmosis/js/isotope.pkgd.min.js?ver=2.0.0'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/themes/osmosis/js/packery-mode.pkgd.min.js?ver=0.1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var grve_main_data = {"siteurl":"http:\/\/www.seab.biella.it\/wp-content\/themes\/osmosis","ajaxurl":"http:\/\/www.seab.biella.it\/wp-admin\/admin-ajax.php","grve_wp_gallery_popup":"0","grve_row_stellar_auto":"1","grve_string_weeks":"Settimane","grve_string_days":"Giorni","grve_string_hours":"Ore","grve_string_minutes":"Min","grve_string_seconds":"Sec"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/themes/osmosis/js/main.js?ver=3.5.8'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://www.seab.biella.it/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.4'></script>
+
+	</body>
+
+</html>

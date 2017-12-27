@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>CCA</titolo>
+    <abstract>Affidamenti 2016</abstract>
+    <dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+    <entePubblicatore>Consorzio Canavesano Ambiente</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>https://www.comune.ivrea.to.it/images/opendata/AVCP/anac_2016/CCA2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>6775592366</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>08841520011</codiceFiscaleProp>
+        <denominazione>Consorzio Canavesano Ambiente</denominazione>
+      </strutturaProponente>
+      <oggetto>INCARICO DI DIRETTORE ESECUZIONE DEL CONTRATTO SERVIZI DI RACCOLTA E TRASPORTO RSU E ASSIMILATI
+</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CMMFBA75P29M088A</codiceFiscale>
+          <ragioneSociale>CAMINITI FABIO </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>GRSMHL70H05A326Z</codiceFiscale>
+          <ragioneSociale>GROSJACQUES MICHEL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04788690750</codiceFiscale>
+          <ragioneSociale>SMART ENGINEERING SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01030520074</codiceFiscale>
+          <ragioneSociale>TECNICAER ENGINEERING SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03976140750</codiceFiscale>
+          <ragioneSociale>VITRUVIO SNC di Causo Francesco e Lopez Lara</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CMMFBA75P29M088A</codiceFiscale>
+          <ragioneSociale>CAMINITI FABIO </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>60935.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-01</dataInizio>
+        <dataUltimazione>2018-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z121ADB1AE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>08841520011</codiceFiscaleProp>
+        <denominazione>Consorzio Canavesano Ambiente</denominazione>
+      </strutturaProponente>
+      <oggetto>Elaborazione e invio modello UNICO </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02037190044</codiceFiscale>
+          <ragioneSociale>ENTI REV SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02037190044</codiceFiscale>
+          <ragioneSociale>ENTI REV SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>180.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>180.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z711ADB1CB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>08841520011</codiceFiscaleProp>
+        <denominazione>Consorzio Canavesano Ambiente</denominazione>
+      </strutturaProponente>
+      <oggetto>Elaborazione stipendi e servizi accessori </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02650070044</codiceFiscale>
+          <ragioneSociale>ENTI SERVICE SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02650070044</codiceFiscale>
+          <ragioneSociale>ENTI SERVICE SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1240.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2017-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

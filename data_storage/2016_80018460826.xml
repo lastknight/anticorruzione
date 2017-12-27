@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it"> 
+<head>
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1" />
+	<title>ePublic S.r.l. - Soluzioni - Ep-Gov</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+	<meta name="copyright" content="ePublic S.r.l." />
+	<meta name="distribution" content="public" />
+	<meta name="URL" content="www.epublic.it" />
+	<meta name="document-classification" content="regional Italy" />
+	<meta name="author" content="www.epublic.it" />
+	<meta name="distribution" content="public" />
+	<meta name="robots" content="all,index,follow" />
+	<meta name="Generator" content="ePublic.it" />
+	<meta name="revisit-after" content="10 days" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta name="description" content="EPublic è una Web Agency specializzata nella progettazione e realizzazione di siti web per gli Enti della Pubblica Amministrazione." />
+	<meta name="keywords" content="epublic, sito web, siti web, PA, pubblica, amministrazione, azienda, enti, privati, soluzioni, internet, piemonteweb, w3c, accessibilita, usabilita, accessibilità, usabilità, web design, internet, web publishing" />
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="stylesheet" href="css/ep2012_font.css" type="text/css" />
+	<link href='https://fonts.googleapis.com/css?family=Roboto:300,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/ep2012.css" type="text/css" />
+	<!--[if IE 6]><link rel="stylesheet" href="css/ep2012_IE6.css" type="text/css" /><![endif]-->
+	<!--[if gt IE 6]><link rel="stylesheet" href="css/ep2012_IE.css" type="text/css" /><![endif]-->
+	
+ 	<script type="text/javascript" src="js/external.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	
+	<script type="text/javascript">	
+	$(document).ready(function() {
+        $("#accordion > li").click(function(){
+            if(false == $("ul",this).is(':visible')) {
+                $('#accordion ul').slideUp(500);
+                $('#accordion .close').removeClass('close').addClass('open')
+            }
+            $("ul",this).slideToggle(500);
+            $(this).toggleClass('open').toggleClass('close')
+        });
+	});	
+	</script>
+	
+</head>
+
+<body><h1 class="hidden">ePublic S.r.l. - Internet Solutions &amp; Graphic Design</h1>
+<p class="hidden"><a href="#content">Salta ai contenuti</a></p>
+<div id="container">
+  <div id="mainmenu">
+    <ul>
+    <li><a href="index.asp">Home</a></li>
+    <li><a href="azienda.asp">Azienda</a></li>
+    <li><a href="news.asp">News</a></li>
+    <li><a href="servizi.asp">Servizi</a></li>
+	  <li><a href="soluzioni.asp">Soluzioni</a></li>
+	  <li><a href="portfolio.asp">Portfolio</a></li>
+	  <li><a href="contatti.asp">Contatti</a></li>
+	</ul>
+  </div>
+  <!--<div id="header">
+    <p>Comunicare online con Cittadini ed Imprese</p>
+  </div>-->
+  
+  <div id="shadow"></div>
+  <div id="main">
+    <div id="rightbar">
+      <img id="logo" src="http://www.epublic.it/img/Logo_dx.png" alt="" />
+      <div id="social">
+        <a href="NewsRss.asp" rel="_blank" id="ico_rss" title="Ricevi le News di ePublic"></a>
+        <a href="http://www.facebook.com/ePublicsrl" rel="_blank" id="ico_fb" title="ePublic su Facebook"></a>
+        <a href="http://twitter.com/ePublicsrl" rel="_blank" id="ico_tw" title="ePublic su Twitter"></a>
+        <a href="http://www.youtube.com/user/epublicNovara/videos" rel="_blank" id="ico_yt" title="Canale YouTube di ePublic"></a>
+      </div>
+    </div>
+
+	<div id="breadcrumbs">Ti trovi in: <a href="soluzioni.asp">Soluzioni</a> &gt; Ep-Gov</div>
+	<h2>Ep-Gov</h2>
+  <div id="sottomenu">
+	  <p>Soluzioni</p>
+    <ul>
+			<li><a href="soluzioni_comweb.asp" title="Comweb">ComWeb</a></li>
+			<li><a href="soluzioni_uniweb.asp" title="UniWeb">UniWeb</a></li>
+			<li><a href="soluzioni_turweb.asp" title="TurWeb">TurWeb</a></li>
+			<li><a href="soluzioni_entweb.asp" title="EntWeb">EntWeb</a></li>
+			<li><a href="soluzioni_intranet.asp" title="Ep-Intranet">Ep-Intranet</a></li>
+			<li class="current" title="Ep-Gov">Ep-Gov</li>
+			<li><a href="soluzioni_pol.asp" title="PagoOnline">PagoOnline</a></li>
+	  </ul>
+	</div>
+  <div id="content">
+		<h3 class="subtitle" id="epgov"><span>Servizi &quot;stand-alone&quot; per la Pubblica Amministrazione</span></h3>
+		<img class="imgright" src="img/Box_EpGov.jpg" alt="" />
+		<div id="desc_soluzione">
+      <p><strong>Ep-Gov</strong> è la nuova famiglia di servizi &quot;stand-alone&quot; pensati da ePublic per gli enti della Pubblica Amministrazione e le Società Partecipate.</p>
+      <p><strong>Ep-Gov</strong> comprende le stesse funzionalità già presenti nelle soluzioni <a href="soluzioni_comweb.asp">Ep-Comweb</a> e <a href="soluzioni_uniweb.asp">Ep-Uniweb</a> ma esternalizzate in modo che anche gli enti che non utilizzano una piattaforma ePublic per il proprio sito web possano usufruirne.<br />
+      &Egrave; possibile acquistare uno o più prodotti come se fossero applicazioni indipendenti, per questo abbiamo voluto definirli servizi &quot;stand-alone&quot;.</p>
+      <p><em>Il Sito Web del Vostro Ente non include la sezione dedicata alla &quot;Amministrazione Trasparente&quot;?</em></p>
+      <p>Potete mettervi in regola utilizzando <strong>GOVTRS</strong>, la soluzione per la pubblicazione online dei dati relativi all'&quot;Amministrazione Trasparente&quot; che consente di adempiere agli obblighi sanciti dal D.Lgs 14.03.2013 n.33 pubblicato sulla Gazzetta Ufficiale n.80 del 05.04.2013.</p>
+      <!--<p><strong>GOVTRS</strong> è solo il primo di un'amplia offerta di servizi che verranno prossimamente resi disponibili.</p>-->
+    </div>
+	  <!--<div id="portfolio">
+		   <ul id="accordion"><li class="open"><a>Elenco degli enti che utilizzano la soluzione GOVTRS</a><ul>
+<li><span>Aree Protette Parco Ticino </span><a rel="_blank" href="http://egov.epublic.it/parcoticinolagomaggiore" title="egov.epublic.it/parcoticinolagomaggiore">egov.epublic.it/parcoticinolagomaggiore</a></li>
+<li><span>ATL Novara </span><a rel="_blank" href="http://egov.epublic.it/turismonovara.it" title="egov.epublic.it/turismonovara.it">egov.epublic.it/turismonovara.it</a></li>
+<li><span>Centro Servizi Courmayeur </span><a rel="_blank" href="http://egov.epublic.it/centroservizicourmayeur" title="egov.epublic.it/centroservizicourmayeur">egov.epublic.it/centroservizicourmayeur</a></li>
+<li><span>Comune di Campobello di Mazara </span><a rel="_blank" href="http://egov.epublic.it/campobellodimazara" title="egov.epublic.it/campobellodimazara">egov.epublic.it/campobellodimazara</a></li>
+<li><span>Comune di Capizzi </span><a rel="_blank" href="http://egov.epublic.it/capizzi" title="egov.epublic.it/capizzi">egov.epublic.it/capizzi</a></li>
+<li><span>Comune di Caprileone </span><a rel="_blank" href="http://egov.epublic.it/caprileone" title="egov.epublic.it/caprileone">egov.epublic.it/caprileone</a></li>
+<li><span>Comune di Caronia </span><a rel="_blank" href="http://egov.epublic.it/caronia" title="egov.epublic.it/caronia">egov.epublic.it/caronia</a></li>
+<li><span>Comune di Castellumberto </span><a rel="_blank" href="http://egov.epublic.it/castellumberto" title="egov.epublic.it/castellumberto">egov.epublic.it/castellumberto</a></li>
+<li><span>Comune di Cerami </span><a rel="_blank" href="http://egov.epublic.it/cerami" title="egov.epublic.it/cerami">egov.epublic.it/cerami</a></li>
+<li><span>Comune di Cesaro </span><a rel="_blank" href="http://egov.epublic.it/cesaro" title="egov.epublic.it/cesaro">egov.epublic.it/cesaro</a></li>
+<li><span>Comune di Fondachelli Fantina </span><a rel="_blank" href="http://egov.epublic.it/fondachellifantina" title="egov.epublic.it/fondachellifantina">egov.epublic.it/fondachellifantina</a></li>
+<li><span>Comune di Isola delle Femmine </span><a rel="_blank" href="http://egov.epublic.it/isoladellefemmine" title="egov.epublic.it/isoladellefemmine">egov.epublic.it/isoladellefemmine</a></li>
+<li><span>Comune di Librizzi </span><a rel="_blank" href="http://egov.epublic.it/librizzi" title="egov.epublic.it/librizzi">egov.epublic.it/librizzi</a></li>
+<li><span>Comune di Militello Rosmarino </span><a rel="_blank" href="http://egov.epublic.it/militellorosmarino" title="egov.epublic.it/militellorosmarino">egov.epublic.it/militellorosmarino</a></li>
+<li><span>Comune di Mistretta </span><a rel="_blank" href="http://egov.epublic.it/mistretta" title="egov.epublic.it/mistretta">egov.epublic.it/mistretta</a></li>
+<li><span>Comune di Reitano </span><a rel="_blank" href="http://egov.epublic.it/reitano" title="egov.epublic.it/reitano">egov.epublic.it/reitano</a></li>
+<li><span>Comune di Rodi Milici </span><a rel="_blank" href="http://egov.epublic.it/rodimilici" title="egov.epublic.it/rodimilici">egov.epublic.it/rodimilici</a></li>
+<li><span>Comune di San Fratello </span><a rel="_blank" href="http://egov.epublic.it/sanfratello" title="egov.epublic.it/sanfratello">egov.epublic.it/sanfratello</a></li>
+<li><span>Comune di San Teodoro </span><a rel="_blank" href="http://egov.epublic.it/santeodoro" title="egov.epublic.it/santeodoro">egov.epublic.it/santeodoro</a></li>
+<li><span>Comune di Sperlinga </span><a rel="_blank" href="http://egov.epublic.it/sperlinga" title="egov.epublic.it/sperlinga">egov.epublic.it/sperlinga</a></li>
+<li><span>Comune di Ucria </span><a rel="_blank" href="http://egov.epublic.it/ucria" title="egov.epublic.it/ucria">egov.epublic.it/ucria</a></li>
+<li><span>Comune di Vette dei Nebrodi </span><a rel="_blank" href="http://egov.epublic.it/vettedeinebrodi" title="egov.epublic.it/vettedeinebrodi">egov.epublic.it/vettedeinebrodi</a></li>
+<li><span>Comune di Villabate </span><a rel="_blank" href="http://egov.epublic.it/villabate" title="egov.epublic.it/villabate">egov.epublic.it/villabate</a></li>
+<li><span>Consorzio Eco3 </span><a rel="_blank" href="http://egov.epublic.it/consorzioeco3" title="egov.epublic.it/consorzioeco3">egov.epublic.it/consorzioeco3</a></li>
+<li><span>Monteriggioni A.D. 1213 s.r.l. </span><a rel="_blank" href="http://egov.epublic.it/monteriggioniad1213srl" title="egov.epublic.it/monteriggioniad1213srl">egov.epublic.it/monteriggioniad1213srl</a></li>
+<li><span>Museo Reg. Scienze Naturali </span><a rel="_blank" href="http://egov.epublic.it/museoscienze" title="egov.epublic.it/museoscienze">egov.epublic.it/museoscienze</a></li>
+<li><span>Soc. Idroelettrica Fiume Toce </span><a rel="_blank" href="http://egov.epublic.it/societaidroelettricafiumetocesrl" title="egov.epublic.it/societaidroelettricafiumetocesrl">egov.epublic.it/societaidroelettricafiumetocesrl</a></li>
+<li><span>Soc. Idroelettrica Rio Vova </span><a rel="_blank" href="http://egov.epublic.it/societaidroelettricariovovasrl" title="egov.epublic.it/societaidroelettricariovovasrl">egov.epublic.it/societaidroelettricariovovasrl</a></li>
+<li><span>Unione Comuni del Corleonese </span><a rel="_blank" href="http://egov.epublic.it/comunidelcorleonese" title="egov.epublic.it/comunidelcorleonese">egov.epublic.it/comunidelcorleonese</a></li>
+<li><span>Unione Costa e Monti Saraceni </span><a rel="_blank" href="http://egov.epublic.it/unionedellacostaedeimontisaraceni" title="egov.epublic.it/unionedellacostaedeimontisaraceni">egov.epublic.it/unionedellacostaedeimontisaraceni</a></li>
+</ul></li></ul>
+
+		</div>-->
+	</div>
+  </div> <!-- Chiusura #main -->
+<hr />
+  <div id="footer">
+	  <div id="subfooter">
+		<div id="slogan"><strong>Tra voi e il vostro pubblico c'è... ePublic.</strong><br />
+		Per costruire un rapporto positivo con tutti i cittadini, ePublic è la soluzione giusta. Siamo specializzati nella progettazione e realizzazione di piattaforme web pensate su misura per gli Enti della Pubblica Amministrazione.
+		</div>
+		  <div id="bottommenu">
+			<ul>
+			  <li><strong>Azienda</strong></li>
+			  <li><a href="azienda.asp">Chi siamo</a></li>
+			  <li><a href="azienda_filosofia.asp">La Filosofia</a></li>
+			  <li><a href="azienda_partners.asp">I Partners</a></li>
+			  <li><a href="azienda_pw.asp">PiemonteWeb</a></li>
+			</ul>
+			<ul>
+			  <li><a href="news.asp"><strong>News</strong></a></li>
+			</ul>
+			<ul>
+			  <li><strong>Servizi</strong></li>
+			  <li><a href="servizi.asp">Enti Pubblici</a></li>
+			  <li><a href="servizi_aziende.asp">Aziende</a></li>
+			  <li><a href="servizi_stampa.asp">Media/Stampa</a></li>
+			</ul>
+			<ul>
+				<li><strong>Soluzioni</strong></li>
+			  <li><a href="soluzioni_comweb.asp">ComWeb</a></li>
+			  <li><a href="soluzioni_uniweb.asp">UniWeb</a></li>
+			  <li><a href="soluzioni_turweb.asp">TurWeb</a></li>
+			  <li><a href="soluzioni_entweb.asp">EntWeb</a></li>
+			  <li><a href="soluzioni_intranet.asp">Ep-Intranet</a></li>
+			  <li><a href="soluzioni_epgov.asp">Ep-Gov</a></li>
+			  <li><a href="soluzioni_pol.asp">PagoOnline</a></li>
+			</ul>
+			<ul>
+			  <li><strong>Portfolio</strong></li>
+			  <li><a href="portfolio.asp?Tabella=Comuni">ComWeb</a></li>
+			  <li><a href="portfolio.asp?Tabella=UniWeb">UniWeb</a></li>
+			  <!--<li><a href="portfolio.asp?Tabella=TurWeb">TurWeb</a></li>-->
+			  <li><a href="portfolio.asp?Tabella=EntWeb">EntWeb</a></li>
+			  <li><a href="portfolio.asp?Tabella=Enti">Altri Enti</a></li>
+			  <li><a href="portfolio.asp?Tabella=Aziende">Privati</a></li>
+			</ul>
+			<ul>
+			  <li><strong>Contatti</strong></li>
+			  <li><a href="contatti.asp">Dove siamo</a></li>
+			  <li><a href="contatti_scrivici.asp">Scrivici</a></li>
+				<li><a href="richiesta_demo.asp">Demo</a></li>
+				<li><a href="richiesta_preventivo.asp">Preventivo</a></li>
+			</ul>
+		  </div>
+	  </div>
+	  <div id="datifooter">
+		<p><strong>ePublic S.r.l.</strong> Corso XXIII Marzo n° 21 28100 Novara - Tel. 0321.397395 - Fax 0321.630228 - email: <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#101;&#112;&#117;&#98;&#108;&#105;&#99;&#46;&#105;&#116;">&#105;&#110;&#102;&#111;&#64;&#101;&#112;&#117;&#98;&#108;&#105;&#99;&#46;&#105;&#116;</a> - P.Iva 01902060035<br />
+		<strong>ePublic S.r.l.</strong> 2003 - 2017 &copy; Tutti i diritti Riservati <a href="http://s2.shinystat.com/cgi-bin/shinystatv.cgi?L=0&amp;USER=epublic" rel="_blank" title="vai alle statistiche del sito" class="hidden"><img src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=epublic" alt="" class="hidden" />Statistiche</a></p>
+	  </div>
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31572565-1']);
+  _gaq.push(['_setDomainName', 'epublic.it']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  </div>
+</div> <!-- Chiusura #container -->
+</body>
+</html>

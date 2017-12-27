@@ -1,0 +1,86 @@
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" 
+xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"> 
+ <metadata>
+ <titolo>Pubblicazione 1 legge 190</titolo>
+ <abstract>Pubblicazione legge 190 anno rif. 2016</abstract>
+ <dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+ <entePubblicatore>Consorzio per lo Sviluppo industriale Isernia Venafro</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+ <annoRiferimento>2016</annoRiferimento>
+ <urlFile>
+ <![CDATA[http://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1201527&NodoSel=44]]>
+ </urlFile>
+ <licenza>IODL</licenza>
+ </metadata>
+ <data>
+ <lotto>
+ <cig>6621989E2E</cig>
+ <strutturaProponente>
+ <codiceFiscaleProp>00071600944</codiceFiscaleProp>
+ <denominazione>Consorzio per lo Sviluppo Industriale Isernia - Venafro</denominazione>
+ </strutturaProponente>
+ <oggetto>
+ CONCESSIONE DI SERVIZI - GESTIONE IMPIANTO DI DEPURAZIONE
+ </oggetto>
+ <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+ <partecipanti>
+ <raggruppamento>
+ <membro>
+ <codiceFiscale>00293120614</codiceFiscale>
+ <ragioneSociale>
+ So.t.eco. S.p.A.
+ </ragioneSociale>
+ <ruolo>04-CAPOGRUPPO</ruolo>
+ </membro>
+ <membro>
+ <codiceFiscale>04939710630</codiceFiscale>
+ <ragioneSociale>
+ B-Energy S.p.A.
+ </ragioneSociale>
+ <ruolo>03-ASSOCIATA</ruolo>
+ </membro>
+ </raggruppamento>
+<raggruppamento>
+ <membro>
+ <codiceFiscale>00832950703</codiceFiscale>
+ <ragioneSociale>
+ Ecogreen s.r.l.
+ </ragioneSociale>
+ <ruolo>04-CAPOGRUPPO</ruolo>
+ </membro>
+ <membro>
+ <codiceFiscale>00926570946</codiceFiscale>
+ <ragioneSociale>
+ Idresia Infrastrutture s.r.l.
+ </ragioneSociale>
+ <ruolo>03-ASSOCIATA</ruolo>
+ </membro>
+ </raggruppamento>
+ </partecipanti>
+ <aggiudicatari>
+ <aggiudicatarioRaggruppamento>
+ <membro>
+ <codiceFiscale>00832950703</codiceFiscale>
+ <ragioneSociale>
+ Ecogreen s.r.l.
+ </ragioneSociale>
+ <ruolo>04-CAPOGRUPPO</ruolo>
+ </membro>
+ <membro>
+ <codiceFiscale>00926570946</codiceFiscale>
+ <ragioneSociale>
+ Idresia Infrastrutture s.r.l.
+ </ragioneSociale>
+ <ruolo>03-ASSOCIATA</ruolo>
+ </membro>
+ </aggiudicatarioRaggruppamento>
+ </aggiudicatari>
+ <importoAggiudicazione>500490.00</importoAggiudicazione>
+ <tempiCompletamento>
+ <dataInizio>2017-02-06</dataInizio>
+ <dataUltimazione>2025-08-04</dataUltimazione>
+ </tempiCompletamento>
+ <importoSommeLiquidate>0.00</importoSommeLiquidate>
+ </lotto>
+ </data>
+</legge190:pubblicazione>

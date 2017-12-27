@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Völs am Schlern</abstract>
+   <dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Völs am Schlern</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21031/21031indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_C641F4AB-8569-4019-8ED8-A6816B4777EB'>
+      <linkDataset>http://data.gvcc.net/avcp/21031/C641F4AB-8569-4019-8ED8-A6816B4777EB.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_69380CD0-3CAC-41B6-8C0B-9B4E74F279D9'>
+      <linkDataset>http://data.gvcc.net/avcp/21031/69380CD0-3CAC-41B6-8C0B-9B4E74F279D9.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

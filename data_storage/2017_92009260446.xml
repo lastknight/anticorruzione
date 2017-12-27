@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+   <titolo>LEGGE 190/2012</titolo>
+   <abstract>INDICE AFFIDAMENTI 2016</abstract>
+   <dataPubblicazioneIndice>2015-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>CONSORZIO BACINO IMBRIFERO FIUME DEL TRONTO</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-23 </dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://www.bimtronto-ap.it/files/Anac_2016/Indice_Affidamenti_2016.xml</urlFile>
+   <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+  <dataset id ="ID_1">
+    <linkDataset>http://www.bimtronto-ap.it/files/Anac_2016/Affidamenti_2014_Agg.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_2">
+    <linkDataset>http://www.bimtronto-ap.it/files/Anac_2016/Affidamenti_2015_Agg.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_3">
+    <linkDataset>http://www.bimtronto-ap.it/files/Anac_2016/Affidamenti_2016.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+  </dataset>
+  </indice>
+  </indici>

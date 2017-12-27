@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente CC Salto-Sciliar</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>CC Salto-Sciliar</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21121/21121indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_0A252766-93B3-4F1E-9F7B-64F82DC56E8B'>
+      <linkDataset>http://data.gvcc.net/avcp/21121/0A252766-93B3-4F1E-9F7B-64F82DC56E8B.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_14FE4FE3-74DE-4E6F-A155-7B8C23C28CB5'>
+      <linkDataset>http://data.gvcc.net/avcp/21121/14FE4FE3-74DE-4E6F-A155-7B8C23C28CB5.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

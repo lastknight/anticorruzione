@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n 1</titolo>
+<abstract>Pubblicazione relativa all'anno 2016</abstract>
+<dataPubblicazioneIndice>2017-01-20</dataPubblicazioneIndice>
+<entePubblicatore>Comune di Cesano Maderno</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-11-24</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.comune.cesano-maderno.mb.it/trasparenza/indicedataset_2016.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.comune.cesano-maderno.mb.it/trasparenza/avcp_dataset_2016.xml </linkDataset>
+<dataUltimoAggiornamento>2017-11-24</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.comune.cesano-maderno.mb.it/trasparenza/avcp_sup40k_2016.xml </linkDataset>
+<dataUltimoAggiornamento>2017-11-24</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

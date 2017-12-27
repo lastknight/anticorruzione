@@ -1,0 +1,31 @@
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd ">
+    <metadata>
+        <titolo>Zip pubblicazioni</titolo>
+        <abstract>Pubblicazione relativa all'anno 2013</abstract>
+        <dataPubblicazioneIndice>2017-02-17Z</dataPubblicazioneIndice>
+        <entePubblicatore>AGENZIA REGIONALE SANITARIA - REGIONE PUGLIA</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-17Z</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.sanita.puglia.it/avcp/2016/ares/dataset2016.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1505">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/ares/1505.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_1438">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/ares/1438.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_1405">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/ares/1405.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_1445">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/ares/1445.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

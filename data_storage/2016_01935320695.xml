@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.sangritana.it/uploads/avcp/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione indice anno 2015</titolo>
+    <abstract>Pubblicazione indice relativo all'anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>Sangritana</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.sangritana.it/uploads/avcp/indicedataset_2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.sangritana.it/uploads/avcp/2015/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.sangritana.it/uploads/avcp/2015/dataset2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.sangritana.it/uploads/avcp/2015/smartcig_dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.sangritana.it/uploads/avcp/2015/smartcig_dataset2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://www.sangritana.it/uploads/avcp/2015/previous_dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

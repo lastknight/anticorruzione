@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+<titolo>Pubblicazione 1 legge 190</titolo>
+<abstract>Pubblicazione 1 legge 190 anno 1 rif. 2016</abstract>
+<dataPubbicazioneDataset>2017-01-31</dataPubbicazioneDataset>
+<entePubblicatore>ASA S.C.R.L.</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2017-01-31</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.autolineeandriesi.it/datasetASA2016.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>67545406BC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>06593840728</codiceFiscaleProp>
+<denominazione>ASA S.C.R.L.</denominazione>
+</strutturaProponente>
+<oggetto>Gara per la fornitura di n. 5 autobus da destinarsi a TPL del Comune di Andria</oggetto>
+<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04879190728</codiceFiscale>
+<ragioneSociale>Di Pinto e Dalessandro S.p.A.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>13098511002</codiceFiscale>
+<ragioneSociale>Industria Italiana Autobus S.p.A.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01091011005</codiceFiscale>
+<ragioneSociale>Romana Diesel S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01091011005</codiceFiscale>
+<ragioneSociale>Romana Diesel S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>648000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2016-10-26</dataInizio>
+<dataUltimazione>2016-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>

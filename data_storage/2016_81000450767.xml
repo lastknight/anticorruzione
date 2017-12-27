@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Adempimenti AVCP 2015</titolo>
+    <abstract>Bandi di gara 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO DI SCUOLA MATERNA, ELEMENTARE E MEDIA - "RACIOPPI" - SPINOSO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.icspinoso.gov.it/wp/126-2/bandi-2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://www.icspinoso.gov.it/wp/126-2/bandi-2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201596060650767">
+      <linkDataset>http://www.icspinoso.gov.it/wp/126-2/bandi-2015/gare201596060650767.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

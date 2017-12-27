@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione indice 2016 - art. 1, comma 32, L. 190/2012 e art. 37, d.lgs. 33/2013</titolo>
+    <abstract>Pubblicazione dei dati concernenti i contratti pubblici di lavori, servizi e forniture riferiti al periodo 1.1.2016-31.12.2016</abstract>
+    <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+    <entePubblicatore>AZIENDA SANITARIA UNIVERSITARIA INTEGRATA DI TRIESTE</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.ass1.sanita.fvg.it/avcp-xml/2016/indice_anticorruzione_2016.xml</urlFile>
+    <licenza>GGAP</licenza>
+  </metadata>
+  <indice>
+    <dataset id="Anticorruzione_ASUITS_2016_1">
+      <linkDataset>http://www.ass1.sanita.fvg.it/avcp-xml/2016/anticorruzione_asuits_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="Anticorruzione_ASUITS_2016_2">
+      <linkDataset>http://www.ass1.sanita.fvg.it/avcp-xml/2016/anticorruzione_asuits_2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="Anticorruzione_ASUITS_2016_3">
+      <linkDataset>http://www.ass1.sanita.fvg.it/avcp-xml/2016/anticorruzione_asuits_2016_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

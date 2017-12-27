@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+ <titolo>Indice pubblicazione</titolo>
+ <abstract>Pubblicazione relativa anno 2016</abstract>
+ <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+ <entePubblicatore>Zetema Progetto Cultura S.r.l.</entePubblicatore>
+ <dataUltimoAggiornamentoIndice>2017-02-15</dataUltimoAggiornamentoIndice>
+ <annoRiferimento>2016</annoRiferimento>
+ <urlFile>http://www.zetema.it/wp-content/uploads/2017/avcp_zetema2016.xml</urlFile>
+ <licenza>IODL</licenza>
+ </metadata>
+ <indice>
+ <dataset id="ID_1">
+ <linkDataset>http://www.zetema.it/wp-content/uploads/2017/avcp_zetema2016_1.xml</linkDataset>
+ <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+ </dataset>
+ <dataset id="ID_2">
+ <linkDataset>http://www.zetema.it/wp-content/uploads/2017/avcp_zetema2016_2.xml</linkDataset>
+ <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+ </dataset>
+ <dataset id="ID_3">
+ <linkDataset>http://www.zetema.it/wp-content/uploads/2017/avcp_zetema2016_3.xml</linkDataset>
+ <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+ </dataset>
+ <dataset id="ID_4">
+ <linkDataset>http://www.zetema.it/wp-content/uploads/2017/avcp_zetema2016_4.xml</linkDataset>
+ <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+ </dataset>
+ </indice>
+</indici>

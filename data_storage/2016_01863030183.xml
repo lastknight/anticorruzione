@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://anticorruzione.demosdata.it/templates/xml/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Comune di Calvignano Indice pubblicazioni L190 2012</titolo>
+<abstract>Comune di Calvignano Indice pubblicazioni L190 2012</abstract>
+<dataPubblicazioneIndice>2014-01-31</dataPubblicazioneIndice>
+<entePubblicatore>Comune di Calvignano</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2016-02-12</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://anticorruzione.demosdata.it/xml/018025/main.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018025/1.xml</linkDataset>
+<dataUltimoAggiornamento>2016-02-12</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018025/2.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018025/3.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_4">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018025/4.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_5">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018025/5.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

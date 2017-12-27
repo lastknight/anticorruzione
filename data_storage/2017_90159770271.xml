@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Istituto Comprensivo Statale Alvise Pisani  </title>
+
+<link rel="stylesheet" href="http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.icalvisepisani.gov.it/wsite/ppp2015/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" type="image/ico" href="" />
+<link rel="alternate" type="application/rss+xml" title="Istituto Comprensivo Statale Alvise Pisani RSS Feed" href="http://www.icalvisepisani.gov.it/wsite/feed/" />
+<link rel="pingback" href="http://www.icalvisepisani.gov.it/wsite/xxx.php" />
+
+
+
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<title>Istituto Comprensivo Statale Alvise Pisani</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='AlboPretorio-ui-style-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/albo-pretorio-on-line/css/jquery-ui-custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/captcha/css/front_end_style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.icalvisepisani.gov.it/wsite/inclusione/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/captcha/css/desktop_style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='EG-Attachments-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/eg-attachments/css/eg-attachments.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/mappress-google-maps-for-wordpress/css/mappress.css' type='text/css' media='all' />
+<link rel='stylesheet' id='notes-widget-wrapper-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/notes-widget-wrapper/public/css/notes-widget-wrapper-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sidebar-login-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/sidebar-login/assets/css/sidebar-login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/sitemap/css/page-list.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/css/wpa-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ui-font.css-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/toolbar/fonts/css/a11y-toolbar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ui-a11y.css-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/toolbar/css/a11y.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ui-fontsize.css-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/toolbar/css/a11y-fontsize.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_parent_style-css'  href='http://www.icalvisepisani.gov.it/wsite/ppp2015/aspetto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-responsive-css'  href='http://www.icalvisepisani.gov.it/wsite/ppp2015/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-fonts-css'  href='http://www.icalvisepisani.gov.it/wsite/ppp2015/font/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-css'  href='http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-print-css'  href='http://www.icalvisepisani.gov.it/wsite/ppp2015/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='AlboPretorio-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/albo-pretorio-on-line/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wppb_stylesheet-css'  href='http://www.icalvisepisani.gov.it/wsite/plag/profile-builder/assets/css/style-front-end.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/jquery/ui/tabs.min.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/albo-pretorio-on-line/js/Albo.jquery.tabs.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/notes-widget-wrapper/public/js/notes-widget-wrapper-public.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/sidebar-login/assets/js/jquery.blockUI.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"http:\/\/www.icalvisepisani.gov.it\/wsite\/wp-admin\/admin-ajax.php","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Prego, inserisci il nome utente","i18n_password_required":"Prego, inserisci la password","error_class":"sidebar_login_error"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/sidebar-login/assets/js/sidebar-login.min.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/js/skiplinks.webkit.js'></script>
+<link rel='https://api.w.org/' href='http://www.icalvisepisani.gov.it/wsite/wp-json/' />
+<link rel="canonical" href="http://www.icalvisepisani.gov.it/wsite/" />
+<link rel='shortlink' href='http://www.icalvisepisani.gov.it/wsite/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.icalvisepisani.gov.it/wsite/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.icalvisepisani.gov.it%2Fwsite%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.icalvisepisani.gov.it/wsite/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.icalvisepisani.gov.it%2Fwsite%2F&#038;format=xml" />
+
+	
+	<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/xmlhttprequest.js'></script>
+	<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/ec3.js'></script>
+	<script type='text/javascript'></script>
+
+<style type='text/css' media='screen'>
+@import url(http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/ec3.css);
+.ec3_ec {
+ background-image:url(http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/ec.png) !IMPORTANT;
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/ec.png');
+}
+#ec3_shadow0 {
+ background-image:url(http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/shadow0.png) !IMPORTANT;
+ background-image:none;
+}
+#ec3_shadow0 div {
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/shadow0.png',sizingMethod='scale');
+}
+#ec3_shadow1 {
+ background-image:url(http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/shadow1.png) !IMPORTANT;
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/shadow1.png',sizingMethod='crop');
+}
+#ec3_shadow2 {
+ background-image:url(http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/shadow2.png) !IMPORTANT;
+ background-image:none;
+}
+#ec3_shadow2 div {
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/shadow2.png',sizingMethod='scale');
+}
+</style>
+
+
+<style type='text/css'>
+	
+		.wpa-visible-ltr#skiplinks a,  .wpa-visible-ltr#skiplinks a:visited {  }
+		.wpa-visible-ltr#skiplinks a:active, #skiplinks a:hover, .wpa-visible-ltr#skiplinks a:focus { background-color: #f1f1f1; box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6); clip: auto; color: #21759b; display: block; font-size: 14px; font-weight: bold; height: auto; line-height: normal; padding: 15px 23px 14px; position: absolute; left: 5px; top: 5px; text-decoration: none; text-transform: none; width: auto; z-index: 100000;  }
+		
+</style>
+
+    <style type="text/css">
+                h1, h2, h3, h4 {
+            color: #00004d;
+        }
+        input, textarea, select {
+            box-shadow: 0 0 3px #00004d;
+        }
+        a:link, a:visited, a:hover, a:active {
+            color: #00004d;
+        }
+        
+        #topbar, #header ul.sito, #footer, #rightsidebar h2, .hdate, .sotto-pagine li:hover, #centrecontent a img:hover, .showall_widget a:hover {
+            background-color: #00004d;
+        }
+        
+        #wrapper, #topbar, #header ul.sito, #footer {
+            box-shadow: 0 0 1px #00004d;
+        }
+        .posttitle, .pagetitle, #leftsidebar h2 {
+            border-color: #00004d;
+        }
+
+        #centrecontent img {
+            border-color: #C2E2ED;
+        }
+        
+        #sidebarleft-100-background, #topbar ul li a:hover, #topbar ul li.current_page_item a, .showall_widget {
+            background-color: #C2E2ED;
+        }
+
+        .col-com2, .sotto-pagine, .pagecat, .riassunto, .postmeta, .secondo-menu {
+            background-color: #C2E2ED;
+        }
+        input#submit{
+            background-color: #C2E2ED;
+            border-bottom: 1px solid #00004d;
+        }
+    </style>
+
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://www.icalvisepisani.gov.it/wsite/ppp2015/images/pattern_default_pasw2015.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+
+</head>
+
+
+<body class="custom-background">
+
+<div id="wrapper" >
+
+<div id="sidebarleft-100-background"></div>
+
+<div id="header" style="height: 125px; background: url(http://www.icalvisepisani.gov.it/wsite/ppp2015/images/header-default-pasw2015.jpg);color:##00004d;">
+
+        <ul id="menu-menu-superiore" class="sito"><li><a href="http://www.icalvisepisani.gov.it/wsite/il-sito/mappa-del-sito/">Mappa del sito</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/il-sito/accessibilita/">Accessibilità</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/il-sito/glossario/">Glossario</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/contatti/">Contatti</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/dove-siamo/">Dove siamo</a></li>
+</ul>    <div class="clear"></div>
+    <div id="header-interno">
+
+        <a href="http://www.icalvisepisani.gov.it/wsite"><img style="max-height:110px;" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/logo_stra.png" alt="" class="logo"/></a>
+
+<div class="contatti">
+veic86400p@istruzione.it <img src="http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/icone/c-email.png" alt="icona email"/><br/>veic86400p@pec.istruzione.it <img src="http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/icone/c-email.png" alt="icona pec_email"/><br/>C. Fisc. 90159770271 tel +39 049 9800893  <img src="http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/icone/c-email.png" alt="cod.fiscale"/><br/>Via Fossolovara, 37 - 30039 Stra (VE)  <img src="http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/icone/c-indirizzo.png" alt="icona indirizzo"/><br/>tel 049 9800893  <img src="http://www.icalvisepisani.gov.it/wsite/contenuti/themes/pasw2015-child/icone/c-telefono.png" alt="icona telefono"/><br/></div>
+
+                <h1 style="color:##00004d;">
+                <a style="color:##00004d;" href="http://www.icalvisepisani.gov.it/wsite">
+                    Istituto Comprensivo Statale Alvise Pisani                </a>
+				</h1>
+								<br/>
+
+
+    </div>
+</div>
+
+<div id="topbar">
+
+        <form class="topsearch-div" method="get" id="searchform" action='http://www.icalvisepisani.gov.it/wsite' >
+            <div><label class="screen-reader-text" for="s">Cerca:</label>
+                <input placeholder="Cerca..." type="text" value="" name="s" id="s" />
+            </div>
+        </form>
+
+<ul id="menu-menu-orizzontale" class="menu-principale-responsivo"><li class="current-menu-item current_page_item"><a href="http://www.icalvisepisani.gov.it/wsite/">Home</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/area-utenti/area-docenti/">Docenti</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/area-utenti/area-personale-ata/">Personale ATA</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/area-utenti/area-studenti/">Studenti</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/area-utenti/area-famiglie/">Famiglie</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/segreteria/iscrizioni/">Iscrizioni</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/registro/">Registro</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/avcp-xml/">Avcp Xml</a></li>
+</ul>
+</div>
+
+<div id="container"><div id="leftsidebar" class="column">
+  <ul>
+<li id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widgettitle">Albi d&#8217;Istituto</h2>
+<div class="menu-albi-distituto-container"><ul id="menu-albi-distituto" class="menu"><li><a href="http://www.icalvisepisani.gov.it/wsite/amministrazione-digitale/albo-pubblicita-legale/">Albo-Pubblicità legale</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/bacheca-sindacale/">Bacheca sindacale</a></li>
+</ul></div></li>
+<li id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widgettitle">Comunicazioni</h2>
+<div class="menu-comunicazioni-container"><ul id="menu-comunicazioni" class="menu"><li><a href="http://www.icalvisepisani.gov.it/wsite/circolari/">Circolari</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/news/">News</a></li>
+</ul></div></li>
+<li id="nav_menu-4" class="widget widget_nav_menu"><h2 class="widgettitle">La Scuola</h2>
+<div class="menu-la-scuola-container"><ul id="menu-la-scuola" class="menu"><li><a href="http://www.icalvisepisani.gov.it/wsite/la-scuola/dirigenza/">Dirigente Scolastico</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/la-scuola/organigramma/">Organigramma</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/la-scuola/organi-collegiali/">Organi collegiali</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/segreteria/">Segreteria</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/pof/">PTOF</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/rapporti-scuola-famiglia/">Orari della scuola</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/libri-di-testo/">Libri di testo</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/la-scuola/calendario/">Calendario scolastico</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/segreteria/calendario-impegni/">Calendario riunioni</a></li>
+</ul></div></li>
+<li id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widgettitle">Le Sedi</h2>
+<div class="menu-le-sedi-container"><ul id="menu-le-sedi" class="menu"><li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/">Plessi Scolastici</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/bosco-incantato-infanzia/">Bosco incantato – Infanzia</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/lalbero-delle-farfalle-infanzia/">L&#8217;Albero delle farfalle &#8211; Infanzia</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/don-orione-primaria/">Don Orione – Primaria</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/don-milani-primaria/">Don Milani – Primaria</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/italia-k2-primaria/">Italia K2 – Primaria</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/carlo-goldoni-secondaria-1/">Carlo Goldoni – Secondaria 1°</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/plessi-scolastici/giuseppe-baldan-secondaria-1/">Giuseppe Baldan – Secondaria 1°</a></li>
+</ul></div></li>
+<li id="nav_menu-7" class="widget widget_nav_menu"><h2 class="widgettitle">Regolamenti</h2>
+<div class="menu-regolamenti-container"><ul id="menu-regolamenti" class="menu"><li><a href="http://www.icalvisepisani.gov.it/wsite/la-scuola/regolamento-distituto/">Regolamento d&#8217;istituto</a></li>
+</ul></div></li>
+<li id="nav_menu-6" class="widget widget_nav_menu"><h2 class="widgettitle">La Didattica</h2>
+<div class="menu-la-didattica-container"><ul id="menu-la-didattica" class="menu"><li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/">Didattica</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/inclusione-e-sostegno/">Inclusione e sostegno</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/curricolo/">Curricolo</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/formazione-e-autoformazione/">Formazione e Autoformazione</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/p-n-s-d/">P.N.S.D.</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/l-i-m/">L.I.M.</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/risorse-digitali/">Risorse dal Web</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/g_suite/">G Suite</a></li>
+<li><a href="http://www.icalvisepisani.gov.it/wsite/didattica/carta-del-docente/">Carta del Docente</a></li>
+</ul></div></li>
+  </ul>
+</div>
+<div id="centrecontent"  class="column">
+
+
+
+            <div class="homec">
+            <p><a href="http://www.icalvisepisani.gov.it/wsite/pon-2014-2020/"><img class="size-large wp-image-7154 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2009/10/banner_PON_14_20_circolari_FESR_definitivo-1-1024x178.jpg" alt="banner_pon_14_20_circolari_fesr_definitivo-1" width="85%" srcset="http://www.icalvisepisani.gov.it/wsite/docume/2009/10/banner_PON_14_20_circolari_FESR_definitivo-1-1024x178.jpg 1024w, http://www.icalvisepisani.gov.it/wsite/docume/2009/10/banner_PON_14_20_circolari_FESR_definitivo-1-300x52.jpg 300w, http://www.icalvisepisani.gov.it/wsite/docume/2009/10/banner_PON_14_20_circolari_FESR_definitivo-1-768x133.jpg 768w, http://www.icalvisepisani.gov.it/wsite/docume/2009/10/banner_PON_14_20_circolari_FESR_definitivo-1-180x31.jpg 180w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+            <div class="clear"></div>
+        </div>
+    
+
+
+
+    
+<div class="stickyc">
+                    <div class="stickyc-col" style="width: 46%; border-right: 1px dotted #25385D;">
+                <ul>
+                    <li id="black-studio-tinymce-2" class="widget widget_black_studio_tinymce"><div id="notes-widget-wrapper-2" class="notes-widget-wrapper thumb-tack-colour-red background-colour-yellow text-colour-red font-size-plus-20 font-style-kaushan-script " ><div class="notes-widget-wrapper-pushpin"></div><div class="textwidget"><p style="text-align: center;">Benvenuti nel sito dell'Istituto Comprensivo Statale</p>
+<p style="text-align: center;"><a href="http://www.icalvisepisani.gov.it/wsite/segreteria/iscrizioni/"><img class="alignnone wp-image-9378" src="http://www.icalvisepisani.gov.it/wsite/docume/2017/12/logo_iscrizioni-300x43.png" alt="logo_iscrizioni" width="461" height="66" /></a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Clicca sul logo sottostante per  accedere al <br />
+ <strong><em>Registro Elettronico</em></strong></p>
+<p style="text-align: center;"><a href="https://nuvola.madisoft.it/login"><img class="wp-image-7647 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/nuvola-300x144.png" alt="https://nuvola.madisoft.it/login" width="100%" /></a></p>
+<h3 style="text-align: center;"> </h3>
+<h3 style="text-align: center;"><a href="http://www.icalvisepisani.gov.it/wsite/docume/2014/10/Certificato-EuWeekCode.png"><br />
+</a> </h3></div></div></li>
+				<style>
+					#notes-widget-wrapper-2.notes-widget-wrapper iframe {
+						height:200px;
+					}
+					#notes-widget-wrapper-2.notes-widget-wrapper {
+											}
+				</style>
+			                </ul>
+            </div>
+                                    <div class="stickyc-col" style="width: 46%;">
+                <ul>
+                    				
+
+				<li id="pasw2015_posts-2" class="widget widget_pasw2015_posts"><h2 class="widgettitle">Circolari<span class="showall_widget after_widget_title"><a href=http://www.icalvisepisani.gov.it/wsite/category/circolari/ title="Tutti gli articoli della categoria Circolari" >Mostra Tutto &rsaquo;</a></span></h2>
+<ul>					<li ><h3><span class="hdate">21 Dic 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/12/21/circ-103-invito-al-concerto-di-natale-per-i-genitori-della-sc-baldan/">
+				    CIRC. 103 &#8211; Invito al &#8220;CONCERTO DI NATALE&#8221; per i genitori  della Sc. BALDAN</a></h3>
+                          <p>invito-per-i-genitori-baldan</p>
+</li>					<li ><h3><span class="hdate">21 Dic 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/12/21/bando-di-concorso-valorizzazione-cultura-cinese/">
+				    BANDO DI CONCORSO &#8220;VALORIZZAZIONE CULTURA CINESE&#8221;</a></h3>
+                          <p>bando-del-concorso-valorizzazione-cultura-cinese</p>
+</li>					<li ><h3><span class="hdate">20 Dic 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/12/20/circ-101-sciopero-saese-del-08012018-comune-di-stra/">
+				    CIRC. 101 SCIOPERO SAESE DEL 08/01/2018 COMUNE DI STRA</a></h3>
+                          <p>circ-101-stra-sciopero-del-08-01-2018</p>
+</li>					<li ><h3><span class="hdate">20 Dic 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/12/20/circ-100-sciopero-saese-del-08012018-comune-fiesso/">
+				    CIRC. 100 SCIOPERO SAESE DEL 08/01/2018  COMUNE FIESSO</a></h3>
+                          <p>circ-100-fiesso-sciopero-8-gennaio-2018</p>
+</li></ul></li>
+				
+
+				<li id="pasw2015_posts-3" class="widget widget_pasw2015_posts"><h2 class="widgettitle">News<span class="showall_widget after_widget_title"><a href=http://www.icalvisepisani.gov.it/wsite/category/news/ title="Tutti gli articoli della categoria News" >Mostra Tutto &rsaquo;</a></span></h2>
+<ul>					<li ><h3><span class="hdate">29 Nov 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/11/29/chiusura-uffici-di-segreteria-sabato-9-dicembre-2016/">
+				    CHIUSURA UFFICI DI SEGRETERIA SABATO 9 DICEMBRE 2016</a></h3>
+                          <p>chiusura-uffici-di-segreteria-il-9-dicembre-2017</p>
+</li>					<li ><h3><span class="hdate">14 Nov 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/11/14/lotta-al-cyberbullismo-incontro-sabato-18-novembre-2017-ore-1730-co-comune-di-fiesso-dartico/">
+				    LOTTA AL CYBERBULLISMO &#8211; Incontro sabato 18 novembre 2017 ore 17,30 c/o Comune di Fiesso D&#8217;Artico</a></h3>
+                          <p>incontro-lotta-al-cyberbullismo</p>
+</li>					<li ><h3><span class="hdate">25 Ago 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/08/25/graduatorie-provvisorie-di-istituto/">
+				    GRADUATORIE PROVVISORIE DI ISTITUTO DOCENTI</a></h3>
+                          <p>Si pubblicano, le graduatorie di istituto docenti &nbsp;PROVVISORIE.<br />
+segnatura_1503661588_pubblicazione-grad-provv<br />
+II-fascia-infanzia-grad-provv-sito<br />
+II-fascia-primaria-grad-provv-sito<br />
+II-fascia-sec-1-grado-grad-provv-sito<br />
+III-fascia-sec-1-grado-grad-provv-sito</p>
+</li>					<li ><h3><span class="hdate">21 Ago 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/08/21/graduatoria-definitiva-1-fascia-distituto-personale-ata/">
+				    Graduatoria DEFINITIVA 1 fascia d&#8217;istituto personale ata</a></h3>
+                          <p>All&#8217;albo di questo istituto è pubblicata la graduatoria in oggetto.</p>
+</li>					<li ><h3><span class="hdate">2 Ago 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/08/02/neoassunti-in-ruolo-scuola-primaria-avviso-per-candidature/">
+				    NEOASSUNTI IN RUOLO SCUOLA PRIMARIA &#8211; AVVISO PER CANDIDATURE</a></h3>
+                          <p>E&#8217; pubblicato per i neoassunti in ruolo della Scuola Primaria e della Scuola Sec. 1 grado, nell&#8217;albo di questo sito, l&#8217;avviso relativo ai posti vacanti e disponibili presso questo Istituto e le modalità di messa a disposizione per l&#8217;assegnazione triennale di sede.</p>
+</li>					<li ><h3><span class="hdate">6 Lug 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/07/06/scuola-sec-di-1-grado-incarichi-docenti-ex-lege-1072015/">
+				    Scuola Sec. di 1° grado – incarichi docenti ex lege 107/2015</a></h3>
+                          <p>Si pubblicano i posti disponibili dopo i trasferimenti ai fini dell&#8217;individuazione docenti ex legge 107/2015<br />
+firmato_segnatura_1499340963_determina-chiamata-diretta-2017_18-sm-con-scadenza<br />
+firmato_segnatura_1499341262_avviso-chiamata-diretta-2017_18-sm-con-scadenza</p>
+</li>					<li ><h3><span class="hdate">4 Lug 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/07/04/scuola-primaria-incarichi-docenti-ex-lege-1072015/">
+				    Scuola Primaria &#8211; incarichi docenti ex lege 107/2015</a></h3>
+                          <p>Si comunica che all&#8217;Albo è pubblicato l&#8217;AVVISO per l&#8217;indivuduazione dei docenti per il conferimento incarichi ex Lege 107/2015</p>
+</li>					<li ><h3><span class="hdate">12 Giu 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/06/12/scuola-primaria-determina-pubblicazione-posti-dopo-i-trasferimenti-a-s-201718/">
+				    Scuola Primaria &#8211; determina pubblicazione posti dopo i trasferimenti a.s. 2017/18</a></h3>
+                          <p>Si comunica che all&#8217;Albo Pretorio è pubblicata la determina specificata in oggetto.<br />
+&nbsp;</p>
+</li>					<li ><h3><span class="hdate">1 Giu 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/06/01/ritiro-diplomi-a-s-20122013-20132014-20142015-20152016/">
+				    RITIRO DIPLOMI A.S. 2012/2013 &#8211; 2013/2014 &#8211; 2014/2015 &#8211; 2015/2016</a></h3>
+                          <p>SI COMUNICA CHE I DIPLOMI DI LICENZA  DELLA SCUOLA SECONDARIA DI PRIMO GRADO<br />
+DEI SUDDETTI ANNI SCOLASTICI PER CHI NON L&#8217;AVESSE ANCORA FATTO,<br />
+SONO DA RITIRARE PRESSO LA SEGRETERIA DELL&#8217;I.C. PISANI NEL SEGUENTE ORARIO :<br />
+TUTTI I GIORNI DAL LUNEDI&#8217; AL VENERDI&#8217;  DALLE ORE 11.30 ALLE ORE 13.30.<br />
+SOLO PER IL MESE DI GIUGNO: SABATO DALLE ORE  10.00 ALLE [&#8230;]</p>
+</li>					<li ><h3><span class="hdate">22 Mag 17</span> <a href="http://www.icalvisepisani.gov.it/wsite/2017/05/22/unavventura-letteraria/">
+				    Un’avventura letteraria</a></h3>
+                          <p>Il plesso “G. Baldan” ha partecipato all’XI edizione de Le Vie d’Europa,  il convegno-concorso ideato e organizzato da Diesse Firenze e Toscana, tenuto il 31 marzo al Teatro Aurora di Scandicci e dedicato, quest’anno, al grande drammaturgo inglese William Shakespeare. Titolo del convegno: “Who is it that can tell me who I am?”</p>
+<p>Hanno partecipato [&#8230;]</p>
+</li></ul></li>
+<li id="eo_event_list_widget-2" class="widget EO_Event_List_Widget"><h2 class="widgettitle">Eventi</h2>
+
+
+	<ul id="" class="eo-events eo-events-widget" > 
+		<li class="eo-no-events" > Nessun evento in programma </li>
+	</ul>
+
+</li>
+                </ul>
+            </div>
+                <div class="clear"></div>
+    </div>
+
+
+
+
+
+<div id="sotto-hp">
+
+        
+        
+        
+</div>
+
+</div>
+<div id="rightsidebar" class="column">
+<ul>
+<li id="black-studio-tinymce-3" class="widget widget_black_studio_tinymce"><h2 class="widgettitle">Trasparenza</h2>
+<div class="textwidget"><p><a href="http://www.icalvisepisani.gov.it/wsite/amministrazione-digitale/albo-pubblicita-legale/"><img class="size-full wp-image-7164 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/logo-albo-online.jpg" alt="logo-albo-online" width="80%" /></a>  <a href="http://www.icalvisepisani.gov.it/wsite/amministrazione-digitale/amministrazione-trasparente/"><img class="size-full wp-image-7165 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/trasparenza_banner.png" alt="trasparenza_banner" width="80%" /></a></p></div></li>
+<li id="wp_sidebarlogin-2" class="widget widget_wp_sidebarlogin"><h2 class="widgettitle">Accesso Personale Scolastico</h2>
+
+		<form name="loginform" id="loginform" action="http://www.icalvisepisani.gov.it/wsite/PaG1na_pR1vata/" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Nome utente</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			<script class="cptch_to_remove">
+				(function( timeout ) {
+					setTimeout(
+						function() {
+							var notice = document.getElementById("cptch_time_limit_notice_62");
+							if ( notice )
+								notice.style.display = "block";
+						},
+						timeout
+					);
+				})(120000);
+			</script>
+			<span id="cptch_time_limit_notice_62" class="cptch_time_limit_notice cptch_to_remove">Time limit is exhausted. Please reload the CAPTCHA.</span><span class="cptch_wrap cptch_math_actions">
+				<label class="cptch_label" for="cptch_input_62"><span class="cptch_span"><input id="cptch_input_62" class="cptch_input " type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+					<span class="cptch_span">&nbsp;&minus;&nbsp;</span>
+					<span class="cptch_span">1</span>
+					<span class="cptch_span">&nbsp;=&nbsp;</span>
+					<span class="cptch_span">quattro</span>
+					<input type="hidden" name="cptch_result" value="e84=" /><input type="hidden" name="cptch_time" value="1514368184" />
+					<input type="hidden" name="cptch_form" value="general" />
+				</label><span class="cptch_reload_button_wrap hide-if-no-js">
+					<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+					<span class="cptch_reload_button dashicons dashicons-update"></span>
+				</span></span>
+			
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Login &rarr;" />
+				<input type="hidden" name="redirect_to" value="http://www.icalvisepisani.gov.it/wsite/" />
+			</p>
+			
+		</form></li>
+<li id="event-calendar" class="widget ec3_widget_cal"><h2 class="widgettitle">Calendario eventi</h2>
+<div id='wp-calendar'>
+<table class='nav'><tbody><tr>
+	<td id='prev'><a id='ec3_prev' href='http://www.icalvisepisani.gov.it/wsite/?m=201711&amp;cat=84'>&laquo;&nbsp;Nov</a></td>
+	<td><img id='ec3_spinner' style='display:none' src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/ec_load.gif' alt='spinner' />
+	    <a id='ec3_publish' href='http://www.icalvisepisani.gov.it/wsite/?ec3_ical' title='Abbonati a iCalendar.'>
+	     <img src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/publish.gif' alt='iCalendar' />
+	    </a>
+	</td>
+	<td id='next'><a id='ec3_next' href='http://www.icalvisepisani.gov.it/wsite/?m=201801&amp;cat=84'>Gen&nbsp;&raquo;</a></td>
+</tr></tbody></table>
+<table id='ec3_2017_12'>
+<caption><a href="http://www.icalvisepisani.gov.it/wsite/?m=201712&amp;cat=84" title="View posts for dicembre 2017">dicembre 2017</a></caption>
+<thead><tr>
+	<th abbr='lunedì' scope='col' title='lunedì'>L</th>
+	<th abbr='martedì' scope='col' title='martedì'>M</th>
+	<th abbr='mercoledì' scope='col' title='mercoledì'>M</th>
+	<th abbr='giovedì' scope='col' title='giovedì'>G</th>
+	<th abbr='venerdì' scope='col' title='venerdì'>V</th>
+	<th abbr='sabato' scope='col' title='sabato'>S</th>
+	<th abbr='domenica' scope='col' title='domenica'>D</th>
+</tr></thead>
+<tbody>
+	<tr><td colspan='4' class='pad'>&nbsp;</td><td id='ec3_2017_12_1'>1</td><td id='ec3_2017_12_2'>2</td><td id='ec3_2017_12_3'>3</td></tr>
+	<tr><td id='ec3_2017_12_4'>4</td><td id='ec3_2017_12_5'>5</td><td id='ec3_2017_12_6'>6</td><td id='ec3_2017_12_7'>7</td><td id='ec3_2017_12_8'>8</td><td id='ec3_2017_12_9'>9</td><td id='ec3_2017_12_10'>10</td></tr>
+	<tr><td id='ec3_2017_12_11'>11</td><td id='ec3_2017_12_12'>12</td><td id='ec3_2017_12_13'>13</td><td id='ec3_2017_12_14'>14</td><td id='ec3_2017_12_15'>15</td><td id='ec3_2017_12_16'>16</td><td id='ec3_2017_12_17'>17</td></tr>
+	<tr><td id='ec3_2017_12_18'>18</td><td id='ec3_2017_12_19'>19</td><td id='ec3_2017_12_20'>20</td><td id='ec3_2017_12_21'>21</td><td id='ec3_2017_12_22'>22</td><td id='ec3_2017_12_23'>23</td><td id='ec3_2017_12_24'>24</td></tr>
+	<tr><td id='ec3_2017_12_25'>25</td><td id='ec3_2017_12_26'>26</td><td id='today'>27</td><td id='ec3_2017_12_28'>28</td><td id='ec3_2017_12_29'>29</td><td id='ec3_2017_12_30'>30</td><td id='ec3_2017_12_31'>31</td></tr>
+</tbody>
+</table></div>
+	<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/event-calendar-3-for-php-53/popup.js'></script>
+</li>
+<li id="upcoming-events" class="widget ec3_widget_list"><h2 class="widgettitle">Prossimi eventi</h2>
+<ul class='ec3_events'>
+<li>Nessun evento.</li>
+</ul>
+</li>
+<li id="black-studio-tinymce-6" class="widget widget_black_studio_tinymce"><div class="textwidget"><p><a href="http://www.icalvisepisani.gov.it/wsite/sportello-di-ascolto/"><img class="alignnone size-full wp-image-7174" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/11/ascolto.jpg" alt="ascolto" width="80%" /></a></p></div></li>
+<li id="black-studio-tinymce-4" class="widget widget_black_studio_tinymce"><h2 class="widgettitle">Siti tematici</h2>
+<div class="textwidget"><p><a href="http://www.miur.it"><img class="size-full wp-image-7166 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/logo_miur.gif" alt="logo_miur" width="80%" /></a></p>
+<p><a href="http://www.istruzioneveneto.it/wpusr/"><img class="size-full wp-image-7167 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/ursveneto.jpg" alt="ursveneto" width="80%" /></a></p>
+<p><a href="http://www.istruzionevenezia.it/public/wp_ustve/"><img class="size-full wp-image-7168 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/USR.jpg" alt="usr" width="80%" /></a></p>
+<p><a href="http://www.generazioniconnesse.it/site/it/home-page/"><img class="size-full wp-image-7177 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/generazionicon.png" alt="Generazioni Connesse" width="80%" /></a></p>
+<p><a href="http://www.indire.it/"><img class="size-full wp-image-7178 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/indire.png" alt="Indire" width="80%" /></a></p>
+<p><a href="http://www.invalsi.it/invalsi/index.php"><img class="size-full wp-image-7179 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/invalsi.jpg" alt="Invalsi" width="80%" /></a></p>
+<p><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/"><img class="size-full wp-image-7181 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/banner_lascuolainchiaro.gif" alt="La Scuola in Chiaro" width="80%" /></a></p>
+<p><a href="http://www.istruzionevenezia.it/public/wp_ustve/"><img class="size-full wp-image-7182 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/uffscolasticovenezia.png" alt="Ufficio Scolastico di Venezia" width="80%" /></a></p>
+<p><a href="http://www.istruzione.it/scuola_digitale/index.shtml"><img class="size-full wp-image-7183 aligncenter" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/pianonazionale-e1458506162432.png" alt="Scuola Digitale" width="80%" /></a></p>
+<p style="text-align: center;"><a href="https://noipa.mef.gov.it/"><img class="alignnone size-full wp-image-7184" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/noipa.jpg" alt="NoiPA" width="80%" /></a><img class="alignnone size-full wp-image-7185" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/12/snv.png" alt="Sistema Nazionale di Valutazione" width="80%" /></p></div></li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+
+    <br/><br/><br/>
+</div>
+
+<div id="footer">
+
+    <div id="footer-interno" >
+        <div class="footer-column">
+            <img style="float:left;padding:10px;max-height:140px;" src="http://www.icalvisepisani.gov.it/wsite/docume/2016/10/repubblicaitaliana.png" alt="Logo Reppublica"/>
+            <span style="float:left;padding-top: 12px;max-width: 70%;">
+                Istituto Comprensivo Statale Alvise Pisani                <br/>
+                <small>
+
+Via Fossolovara, 37 - 30039 Stra (VE) <br/>tel 049 9800893 <br/>veic86400p@istruzione.it<br/>veic86400p@pec.istruzione.it<br/>C. Fisc. 90159770271 tel +39 049 9800893 <br/>                    <br/>
+                </small>
+            </span>
+        </div>
+
+        <div class="footer-column" style="width:15%;">
+        <ul style="list-style-type: square;font-size: 0.8em;margin-top: 30px;"><li><a href=""></a></li></ul>        </div>
+
+        <div id="footer-credits">
+            Credits
+        <p>Sito realizzato da Francesco Dei Rossi<br/>su modello della comunit&agrave; di pratica<br/>
+
+            <a title="Porte Aperte sul Web" href="http://www.porteapertesulweb.it/"> <img src="http://www.icalvisepisani.gov.it/wsite/ppp2015/images/logopab.png" width="180" alt=""/></a>
+
+        <br/><small> Versione 2015.1.6.71<br/>
+        Proudly powered by <a href="http://wordpress.org" title="Piattaforma CMS WordPress">WordPress</a> &bull;
+        <a href="http://validator.w3.org/check/referer" title="HTML5 valido"><abbr title="HyperText Markup Language">HTML5</abbr></a> &bull;
+        <a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS valido"><abbr title="Cascading Style Sheets">CSS</abbr></a>
+        </small>
+            </p>
+        </div>
+    </div>
+</div>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/toolbar/js/jquery.scrollto.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a11y_stylesheet_path = "http:\/\/www.icalvisepisani.gov.it\/wsite\/plag\/wp-accessibility\/toolbar\/css\/a11y-contrast.css";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/toolbar/js/a11y.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/wp-accessibility/js/longdesc.button.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/ppp2015/js/pasw2015.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/ppp2015/js/jquery.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pasw2015_law_text = {"message":"I cookie ci aiutano a migliorare il sito. Utilizzando il sito, accetti l'utilizzo dei cookie da parte nostra.","button":"Si, accetto","more":"No, maggiori informazioni","url":"http:\/\/www.icalvisepisani.gov.it\/wsite\/privacy-policy-cookies\/","fine":"30","bottom_active":"1","position":"0","bgbanner":"rgba(30,115,190,0.9)","textcolor":"#ffffff","acceptOnClick":"1","cookieName":"pasw_law_cookie","positionrevocalr":"0","positionrevocatb":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/ppp2015/js/pasw2015_law.js'></script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/inclusione/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"ab6455e018","ajaxurl":"http:\/\/www.icalvisepisani.gov.it\/wsite\/wp-admin\/admin-ajax.php","enlarge":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.icalvisepisani.gov.it/wsite/plag/captcha/js/front_end_script.js'></script>
+        <meta http-equiv="imagetoolbar" content="no">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            document.oncontextmenu = function() {
+                return false;
+            };
+            document.onselectstart = function() {
+                if (event.srcElement.type != "text" && event.srcElement.type != "textarea" && event.srcElement.type != "password") {
+                    return false;
+                }
+                else {
+                    return true;
+                }
+            };
+            if (window.sidebar) {
+                document.onmousedown = function(e) {
+                    var obj = e.target;
+                    if (obj.tagName.toUpperCase() == 'SELECT'
+                            || obj.tagName.toUpperCase() == "INPUT"
+                            || obj.tagName.toUpperCase() == "TEXTAREA"
+                            || obj.tagName.toUpperCase() == "PASSWORD") {
+                        return true;
+                    }
+                    else {
+                        return false;
+                    }
+                };
+            }
+            document.ondragstart = function() {
+                return false;
+            };
+            /*]]>*/
+        </script>
+        
+	<script type='text/javascript'>
+	//<![CDATA[
+	(function( $ ) { 'use strict';
+		var insert_a11y_toolbar = '';
+		insert_a11y_toolbar += '<div class="a11y-non-responsive a11y-toolbar ltr right">';
+		insert_a11y_toolbar += '<ul class="a11y-toolbar-list">';insert_a11y_toolbar += '<li class="a11y-toolbar-list-item"><button type="button" class="a11y-toggle-contrast toggle-contrast" id="is_normal_contrast" aria-pressed="false"><span class="offscreen">Passa ad alto contrasto</span><span class="aticon aticon-adjust" aria-hidden="true"></span></button></li>';insert_a11y_toolbar += '<li class="a11y-toolbar-list-item"><button type="button" class="a11y-toggle-fontsize toggle-fontsize" id="is_normal_fontsize" aria-pressed="false"><span class="offscreen">Cambia dimensione testo</span><span class="aticon aticon-font" aria-hidden="true"></span></button></li>';
+		insert_a11y_toolbar += '</ul>';
+		insert_a11y_toolbar += '</div>';
+		insert_a11y_toolbar += '';
+		$( document ).find( 'body' ).prepend( insert_a11y_toolbar );
+	}(jQuery));
+	//]]>
+	</script>
+<script type='text/javascript'>
+//<![CDATA[
+(function( $ ) { 'use strict';
+	
+	$('a').removeAttr('target');
+	
+	$('input,a,select,textarea,button').removeAttr('tabindex');
+	
+}(jQuery));
+//]]>
+</script></body>
+</html>

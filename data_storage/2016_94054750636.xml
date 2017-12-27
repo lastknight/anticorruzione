@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Pubblicazione Legge 190 del 2012</abstract>
+    <dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO SCIENTIFICO STATALE - "S. DI GIACOMO" - S. SEBASTIANO AL VESUVIO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.liceodigiacomo.gov.it/trasparenza/bandi-di-gara-e-contratti/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://www.liceodigiacomo.gov.it/trasparenza/bandi-di-gara-e-contratti/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2015">
+      <linkDataset>http://www.liceodigiacomo.gov.it/trasparenza/bandi-di-gara-e-contratti/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2014">
+      <linkDataset>http://www.liceodigiacomo.gov.it/trasparenza/bandi-di-gara-e-contratti/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.liceodigiacomo.gov.it/trasparenza/bandi-di-gara-e-contratti/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2012">
+      <linkDataset>http://www.liceodigiacomo.gov.it/trasparenza/bandi-di-gara-e-contratti/gare2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

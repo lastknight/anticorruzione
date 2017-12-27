@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune Valle di Casies</abstract>
+   <dataPubblicazioneIndice>2017-02-06</dataPubblicazioneIndice>
+   <entePubblicatore>Comune Valle di Casies</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-06</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21109/21109indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_5CA30194-1FDF-4DAD-8F34-794ADACF0C33'>
+      <linkDataset>http://data.gvcc.net/avcp/21109/5CA30194-1FDF-4DAD-8F34-794ADACF0C33.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-04</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_32589812-F2C9-4A17-B1A8-345274106716'>
+      <linkDataset>http://data.gvcc.net/avcp/21109/32589812-F2C9-4A17-B1A8-345274106716.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione legge 190</titolo>
+		<abstract>Indice pubblicazione legge 190</abstract>
+		<dataPubblicazioneIndice>2015-12-31</dataPubblicazioneIndice>
+		<entePubblicatore>COMUNE DI ISEO</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2015-12-31</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.studiok.it/comuni/iseo/avcp/datasetIndiceAppalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.studiok.it/comuni/iseo/avcp/DATASETAPPALTI_2012.XML</linkDataset>
+			<dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.studiok.it/comuni/iseo/avcp/DATASETAPPALTI_2013.XML</linkDataset>
+			<dataUltimoAggiornamento>2014-04-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.studiok.it/comuni/iseo/avcp/DATASETAPPALTI_2014.XML</linkDataset>
+			<dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.studiok.it/comuni/iseo/avcp/DATASETAPPALTI_2015.XML</linkDataset>
+			<dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

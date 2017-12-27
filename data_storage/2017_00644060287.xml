@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione 2016 legge 190</titolo>
+    <abstract>Pubblicazione relativa all’anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-20</dataPubblicazioneIndice>
+    <entePubblicatore>Comune di Padova</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-19</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.padovanet.it/sites/default/files/attachment/indice-Appalti2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016-1">
+      <linkDataset>http://www.padovanet.it/sites/default/files/attachment/dataset-Appalti2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2016-2">
+      <linkDataset>http://www.padovanet.it/sites/default/files/attachment/dataset-Appalti2016-precedenti.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

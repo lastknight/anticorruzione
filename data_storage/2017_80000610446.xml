@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <titolo>Pubblicazione legge 190</titolo>
+    <abstract>Anno rif. 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+    <entePubblicatore>Ordine Dei Medici Chirurghi e Odontoiatri di Ascoli Piceno</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.ordinemediciap.it/userdata/anac190/dataset-l190-2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.ordinemediciap.it/userdata/anac190/dataset-l190-2016-001.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>Adempimenti trasparenza avcp</titolo>
+    <abstract>periodo 01.01.2014-31.12.2014</abstract>
+    <dataPubbicazioneDataset>2016-01-22</dataPubbicazioneDataset>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-22</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC15134/2015/gare2015.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>5542319253</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2 del 16.3.2015 ( Progettazione esecutiva)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03469970168</codiceFiscale>
+          <ragioneSociale>IVAN MATTEO CONTRINO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRANDR76P11E815H</codiceFiscale>
+          <ragioneSociale>MAURO ANDREA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRCGST72S16G751W</codiceFiscale>
+          <ragioneSociale>MERICO AUGUSTO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03469970168</codiceFiscale>
+          <ragioneSociale>IVAN MATTEO CONTRINO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>MRANDR76P11E815H</codiceFiscale>
+          <ragioneSociale>MAURO ANDREA</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>MRCGST72S16G751W</codiceFiscale>
+          <ragioneSociale>MERICO AUGUSTO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38601.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+        <dataUltimazione>2015-12-03</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>38601.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>58543602B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Inpdap al 100% c/dip. su Dir. e Coord.to PON FESR ASSE II</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>42.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-04</dataInizio>
+        <dataUltimazione>2015-12-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>42.24</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>58543602B4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Anticipazione 10% importo contrattuale Lavori di adeguamento alle norma di prevenzione incendi, di sicurezza degli impianti sc.sec.De Gasperi</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06363391001</codiceFiscale>
+          <ragioneSociale>Agenzia delle Entrate</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04323830754</codiceFiscale>
+          <ragioneSociale>ANACLETO LONGO SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>97584460584</codiceFiscale>
+          <ragioneSociale>AUTORITA' NAZIONALE ANTICORRUZIONE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00427390752</codiceFiscale>
+          <ragioneSociale>COMUNE DI CASTRIGNANO DE' GRECI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>DLRMRN67B60D862R</codiceFiscale>
+          <ragioneSociale>DE LORENZIS MARINA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>GRCMTR53B45C335I</codiceFiscale>
+          <ragioneSociale>GRECO MARIA TERESA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VRGNDL82P49E815D</codiceFiscale>
+          <ragioneSociale>VERGINE ANNA DELIA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VRGGNN84E17I549V</codiceFiscale>
+          <ragioneSociale>VERGINE GIOVANNI DAVIDE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VRGPRN79E19C983R</codiceFiscale>
+          <ragioneSociale>VERGINE PIETRO ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06363391001</codiceFiscale>
+          <ragioneSociale>Agenzia delle Entrate</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>04323830754</codiceFiscale>
+          <ragioneSociale>ANACLETO LONGO SRL</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>97584460584</codiceFiscale>
+          <ragioneSociale>AUTORITA' NAZIONALE ANTICORRUZIONE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00427390752</codiceFiscale>
+          <ragioneSociale>COMUNE DI CASTRIGNANO DE' GRECI</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>DLRMRN67B60D862R</codiceFiscale>
+          <ragioneSociale>DE LORENZIS MARINA</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>GRCMTR53B45C335I</codiceFiscale>
+          <ragioneSociale>GRECO MARIA TERESA</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>VRGNDL82P49E815D</codiceFiscale>
+          <ragioneSociale>VERGINE ANNA DELIA</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>VRGGNN84E17I549V</codiceFiscale>
+          <ragioneSociale>VERGINE GIOVANNI DAVIDE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>VRGPRN79E19C983R</codiceFiscale>
+          <ragioneSociale>VERGINE PIETRO ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>277513.63</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+        <dataUltimazione>2015-12-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>277513.63</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>61788471D9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.31509412, n.31509413, n.31509415, n.31509416 del 8.5.2015 (rif. atto aggiuntivo prot.n.735/b15 del 10.3.2015- Scuole Belle)</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00124140211</codiceFiscale>
+          <ragioneSociale>Dussmann Service srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00124140211</codiceFiscale>
+          <ragioneSociale>Dussmann Service srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>103653.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-25</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>103653.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z011246C0A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.294 del 16.12.2014 ( Pubblicità)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RZZSMN72B61E815L</codiceFiscale>
+          <ragioneSociale>YELLOW MULTIGRAFICA di Rizzo Simona</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RZZSMN72B61E815L</codiceFiscale>
+          <ragioneSociale>YELLOW MULTIGRAFICA di Rizzo Simona</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0317D7298</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.04PA/2015 del 1.12.2015 e fatt.n.05/PA del 3.12.2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>NZZSTV73D22Z133I</codiceFiscale>
+          <ragioneSociale>Cartoleria OLTRE di Nuzzo STEVE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>NZZSTV73D22Z133I</codiceFiscale>
+          <ragioneSociale>Cartoleria OLTRE di Nuzzo STEVE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5217.03</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-29</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5217.03</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0614FC364</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2015-PA03 del 15.6.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BDOLSN69L23L736D</codiceFiscale>
+          <ragioneSociale>TECNOCONGRESS di Bodi Alessandro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BDOLSN69L23L736D</codiceFiscale>
+          <ragioneSociale>TECNOCONGRESS di Bodi Alessandro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-16</dataInizio>
+        <dataUltimazione>2015-06-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0712F2502</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2015 39/2 del 12.02.2015 e n.2015 38/2 del 12.02.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01249500339</codiceFiscale>
+          <ragioneSociale>MEC-OFFICE srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01249500339</codiceFiscale>
+          <ragioneSociale>MEC-OFFICE srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>498.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+        <dataUltimazione>2015-03-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>498.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0F165B4F6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.20154E34133 del 8.10.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>296.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-22</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>296.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0F16F0576</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.214-PA015 del 12.11.2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1335.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-17</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1335.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z111607B29</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.629 del 22.9.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01311630758</codiceFiscale>
+          <ragioneSociale>ALTOGRAF del dott. F.Carra&amp;CC.sas</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01311630758</codiceFiscale>
+          <ragioneSociale>ALTOGRAF del dott. F.Carra&amp;CC.sas</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>172.65</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-22</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>172.65</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z131496B51</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.152PA2015 del 12.5.2015 ( gita in Umbria classi 3^ scuola secondaria dal 5 al 8 maggio 2015)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8930.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-25</dataInizio>
+        <dataUltimazione>2015-05-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8930.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1613EFE4F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.261/2015 del 3.4.2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3822.72</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-17</dataInizio>
+        <dataUltimazione>2015-11-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3822.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1D16D0E55</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.782/2015 del 29.10.2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1219.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-17</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1219.73</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1E136259F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.16/PA del 31.3.2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>NZZSTV73D22Z133I</codiceFiscale>
+          <ragioneSociale>Cartoleria OLTRE di Nuzzo STEVE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>NZZSTV73D22Z133I</codiceFiscale>
+          <ragioneSociale>Cartoleria OLTRE di Nuzzo STEVE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4953.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-17</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4953.24</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2514CE392</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.137/2015 del 9.6.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>535.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-15</dataInizio>
+        <dataUltimazione>2015-06-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>535.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z261437201</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.116-PA2015 del 11.4.2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2856.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-12</dataInizio>
+        <dataUltimazione>2015-05-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2856.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2712F8DB8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.V2-504170 del 30.01.2015,n.V2-508771 del 9.2.2015,n.R1/1154 del 11.2.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02044501001</codiceFiscale>
+          <ragioneSociale>ERREBIAN s.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02044501001</codiceFiscale>
+          <ragioneSociale>ERREBIAN s.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1772.32</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+        <dataUltimazione>2015-03-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1772.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3317BA306</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2015-PA05 del 21.12.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BDOLSN69L23L736D</codiceFiscale>
+          <ragioneSociale>TECNOCONGRESS di Bodi Alessandro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BDOLSN69L23L736D</codiceFiscale>
+          <ragioneSociale>TECNOCONGRESS di Bodi Alessandro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-21</dataInizio>
+        <dataUltimazione>2015-12-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3712F2438</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.60 del 29.1.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>90.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>90.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3C154B601</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.273 del 13.7.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-29</dataInizio>
+        <dataUltimazione>2015-07-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4C12F699C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.3348  del 04.02.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGO Software srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGO Software srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1730.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1730.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5616698F0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Assicurazione Alunni,docenti e ATA a.s.2015/16 (periodo settembre-dicembre 2015)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02295240754</codiceFiscale>
+          <ragioneSociale>ASSIFIN srl - Agente- CARIGE Assicurazioni S.p.a. - Agenzia Generale - Maglie</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02295240754</codiceFiscale>
+          <ragioneSociale>ASSIFIN srl - Agente- CARIGE Assicurazioni S.p.a. - Agenzia Generale - Maglie</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>624.55</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-07</dataInizio>
+        <dataUltimazione>2015-10-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>624.55</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z571496B04</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.164-PA2015 del 15.5.2015 ( gita in Calabria classi 2^ scuola secondaria dal 14 al 16 maggio 2015)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02207140753</codiceFiscale>
+          <ragioneSociale>MAZZINI VIAGGI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6688.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-25</dataInizio>
+        <dataUltimazione>2015-05-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6688.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6017A870D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.953 del 17.12.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>383.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-17</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>383.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z711380FAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.192/2015 del 6.3.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>213.11</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>213.11</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7117BC176</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.35 del 22.12.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PLMMDL64T58E815A</codiceFiscale>
+          <ragioneSociale>ELLEFFE MUSICA di Palumbo M. Dolores</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PLMMDL64T58E815A</codiceFiscale>
+          <ragioneSociale>ELLEFFE MUSICA di Palumbo M. Dolores</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>120.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-29</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7313626F6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.09/PA del 05.03.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>541.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>541.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z781469394</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2015E16931 del 8.5.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>148.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-28</dataInizio>
+        <dataUltimazione>2015-05-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>148.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z79150F4EB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.446/2015 del 19.6.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>69.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-02</dataInizio>
+        <dataUltimazione>2015-07-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>69.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8711AD7EC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n. 8715232563 del 7.10.2015, n. 8715222174 del 24.9.2015 (spese postali  luglio-agosto 2015 conto di credito n.30087820-001)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>90.22</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-22</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>90.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8714D3DB7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.140/2015 del 9.6.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>175.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-15</dataInizio>
+        <dataUltimazione>2015-06-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>175.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9416806B2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>fatt.n.16_15 del 19.10.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>220.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-22</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>220.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C15926C0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Liquidazione compenso per docenza di lingua inglese scuola infanzia di Carpignano e Serrano a.s.2014/15</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SRCVLR80S62E815Z</codiceFiscale>
+          <ragioneSociale>SARACINO VALERIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SRCVLR80S62E815Z</codiceFiscale>
+          <ragioneSociale>SARACINO VALERIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>880.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-29</dataInizio>
+        <dataUltimazione>2015-07-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>880.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C178E9C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.218/2015 del 12.12.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>175.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-17</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>175.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9D133629E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.213 del 16.02.2015 (rappresentazione teatrale in lingua francese del 27.02.2015  Teatro Don Bosco Lecce)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12342861007</codiceFiscale>
+          <ragioneSociale>MATER LINGUA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12342861007</codiceFiscale>
+          <ragioneSociale>MATER LINGUA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1177.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-17</dataInizio>
+        <dataUltimazione>2015-02-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1177.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB1163A6F9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.12_15 del 30.9.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>DMCFNC61B03F568N</codiceFiscale>
+          <ragioneSociale>D'AMICO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>450.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-22</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB616D0D69</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.782/2015 del 29.10.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>491.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-17</dataInizio>
+        <dataUltimazione>2015-11-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>491.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB812F6B44</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.65 del 30.1.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>220.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>220.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBA1578841</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.E1 del 21.7.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BLGCMN56P20B616M</codiceFiscale>
+          <ragioneSociale>BOLOGNESE COSIMINO &amp; figlio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BLGCMN56P20B616M</codiceFiscale>
+          <ragioneSociale>BOLOGNESE COSIMINO &amp; figlio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1809.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-30</dataInizio>
+        <dataUltimazione>2015-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1809.09</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBB14A7C11</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.127/2015 del 22.5.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>175.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-29</dataInizio>
+        <dataUltimazione>2015-05-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>175.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBE13EEECD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2015E13EEECD del 13.4.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>50.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-12</dataInizio>
+        <dataUltimazione>2015-05-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>50.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF163A6D3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.V2/572077 del 30.9.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02044501001</codiceFiscale>
+          <ragioneSociale>ERREBIAN s.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02044501001</codiceFiscale>
+          <ragioneSociale>ERREBIAN s.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>408.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-22</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>408.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF1651680</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Liquidazione incarico RSPP a esperto esterno a.s.2014/15</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06363391001</codiceFiscale>
+          <ragioneSociale>Agenzia delle Entrate</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>SGNNTN69C13E538Y</codiceFiscale>
+          <ragioneSociale>ANTONIO SIGNORE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06363391001</codiceFiscale>
+          <ragioneSociale>Agenzia delle Entrate</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>SGNNTN69C13E538Y</codiceFiscale>
+          <ragioneSociale>ANTONIO SIGNORE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1268.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-23</dataInizio>
+        <dataUltimazione>2015-10-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1268.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC413EEE75</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.20154E11319</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>73.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-12</dataInizio>
+        <dataUltimazione>2015-05-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>73.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC612E3740</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.20154E03204 del 27.01.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>68.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-31</dataInizio>
+        <dataUltimazione>2015-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>68.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCD1687DFD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n. 2015 437/2 del 22.10.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01249500339</codiceFiscale>
+          <ragioneSociale>MEC-OFFICE srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01249500339</codiceFiscale>
+          <ragioneSociale>MEC-OFFICE srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>288.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-17</dataInizio>
+        <dataUltimazione>2015-11-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>288.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD6174BD03</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.V3-22794 del 27.11.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02027040019</codiceFiscale>
+          <ragioneSociale>BORGIONE Centro Didattico s.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02027040019</codiceFiscale>
+          <ragioneSociale>BORGIONE Centro Didattico s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>116.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-17</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>116.09</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDA141BC35</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.8715076002 del 2.4.2015(spese postali mese di Gennaio 2015 conto n.30087820)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20.94</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-14</dataInizio>
+        <dataUltimazione>2015-04-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>20.94</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDE15CBF8D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2015E27143 del 26.8.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA S.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>146.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-25</dataInizio>
+        <dataUltimazione>2015-09-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>146.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE91195753</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Assicurazione RC Patrimoniale e professionale RUP PON e POR FESR( Istituto Don Gnocchi  LEIC845004 )</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA  ASSICURAZIONI S.N.C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA  ASSICURAZIONI S.N.C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-05</dataInizio>
+        <dataUltimazione>2015-02-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF0145A93C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.91/2015 del 29.4.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>749.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-28</dataInizio>
+        <dataUltimazione>2015-05-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>749.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF1169D317</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.446 del 23.10.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03304050713</codiceFiscale>
+          <ragioneSociale>BIT LAB INFORMATICA S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-17</dataInizio>
+        <dataUltimazione>2015-11-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF312D2FDE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.1 del 21.1.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>ZMNNTN84P10D862A</codiceFiscale>
+          <ragioneSociale>ZAMINGA ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>ZMNNTN84P10D862A</codiceFiscale>
+          <ragioneSociale>ZAMINGA ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1845.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-13</dataInizio>
+        <dataUltimazione>2015-05-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1845.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF51399439</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.25/2015 del 11,3,2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03864430750</codiceFiscale>
+          <ragioneSociale>MARASCHIO ANTONIO e C s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>417.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+        <dataUltimazione>2015-03-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>417.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF613C11CC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.1/PA del 20.3.2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BTNFNC78B04L419M</codiceFiscale>
+          <ragioneSociale>NET GRAFIX di Bitonti Francesco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BTNFNC78B04L419M</codiceFiscale>
+          <ragioneSociale>NET GRAFIX di Bitonti Francesco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>762.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+        <dataUltimazione>2015-03-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>762.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5951471D39</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.70/PA del 22.12.2014  (Acquisti)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>33196.71</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>40499.99</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2B1277DEE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.71/PA del 29.12.2014 ( adeguamenti edilizi)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03406330757</codiceFiscale>
+          <ragioneSociale>SAT ufficio SNC di Pascarito Rocco e Rizzo Gianfranco</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1844.26</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4D12C1EAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.2014-01PA del 29.12.2014 (progettazione)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BDOLSN69L23L736D</codiceFiscale>
+          <ragioneSociale>TECNOCONGRESS di Bodi Alessandro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BDOLSN69L23L736D</codiceFiscale>
+          <ragioneSociale>TECNOCONGRESS di Bodi Alessandro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>737.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>899.99</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z73127B1B1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.304 del 30.12.2014 (pubblicitá)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RZZSMN72B61E815L</codiceFiscale>
+          <ragioneSociale>YELLOW MULTIGRAFICA di Rizzo Simona</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RZZSMN72B61E815L</codiceFiscale>
+          <ragioneSociale>YELLOW MULTIGRAFICA di Rizzo Simona</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>122.95</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-31</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8D1270932</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Fatt.n.5 del 29.12.2014 (collaudo)</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RZZCSM65D14H708G</codiceFiscale>
+          <ragioneSociale>prof. Cosimo RIZZO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04210760759</codiceFiscale>
+          <ragioneSociale>prof. Cosimo RIZZO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RZZCSM65D14H708G</codiceFiscale>
+          <ragioneSociale>prof. Cosimo RIZZO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>04210760759</codiceFiscale>
+          <ragioneSociale>prof. Cosimo RIZZO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00997670583</codiceFiscale>
+          <ragioneSociale>TESORERIA PROVINCIALE DELLO STATO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>983.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-31</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F11AD7EC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>92012590755</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE -  - CASTRIGNANO DEI GRECI</denominazione>
+      </strutturaProponente>
+      <oggetto>Spese postali mese di maggio 2014 (conto di credito n.30087820-001)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.a.  CRP LECCE -</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>341.41</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-31</dataInizio>
+        <dataUltimazione>2015-01-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>341.41</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2015-01-02</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Torre Canavese</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-01-22</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>https://www.halleyweb.com/c001274/zf/index.php/dataset/appalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+						<lotto>
+						<cig>Z8612C6AD4</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>01991340017</codiceFiscaleProp>
+				<denominazione>COMUNE DI TORRE CANAVESE</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI IN ECONOMIA (COTTIMO-FIDUCIARIO) DI RIPARAZIONE DECESPUGLIATORE E &quot;TRATTORINO&quot; TOSAERBA. AFFIDAMENTO LAVORI ALLA DITTA BORGIALLO SERGIO _ P.Iva 03607110016 _ c.f. BRGSRG51C24D520J _ con sede in Corso Indipendenza n. 153 - 10086 RIVAROLO CANAVE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+												<partecipante>
+					<codiceFiscale>03607110016</codiceFiscale>
+					<ragioneSociale>BORGIALLO SERGIO</ragioneSociale>
+				</partecipante>
+							</partecipanti>
+			<aggiudicatari>
+															<aggiudicatario>
+							<codiceFiscale>03607110016</codiceFiscale>
+							<ragioneSociale>BORGIALLO SERGIO</ragioneSociale>
+						</aggiudicatario>
+									
+							</aggiudicatari>
+			<importoAggiudicazione>463.60</importoAggiudicazione>
+			<tempiCompletamento>
+								<dataInizio>2014-09-10</dataInizio>
+												<dataUltimazione>2014-12-31</dataUltimazione>
+							</tempiCompletamento>
+			<importoSommeLiquidate>463.60</importoSommeLiquidate>
+		</lotto>
+					</data>
+</legge190:pubblicazione>

@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo>Pubblicazione 1 legge 190</titolo>
+		<abstract>Pubblicazione 1 legge 190 anno 2016</abstract>
+		<dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+		<entePubblicatore>Finanziaria Bologna Metropolitana s.p.a.</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile></urlFile>
+		<licenza>IODL 2.0</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>Z0F0786237</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di elaborazione paghe.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01066140375</codiceFiscale>
+					<ragioneSociale>Ced Ascom spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01066140375</codiceFiscale>
+					<ragioneSociale>Ced Ascom spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8924.37</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z420785B5F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Predisposizione varianti impianti di climatizzazione, idrico-sanitari, antincendio.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BCCVLR56E26F627D</codiceFiscale>
+					<ragioneSociale>Baccigotti P.i. Valerio</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BCCVLR56E26F627D</codiceFiscale>
+					<ragioneSociale>Baccigotti P.i. Valerio</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>23500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2012-12-06</dataInizio>
+				<dataUltimazione>2016-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19766.25</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z560785CD7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Predisposizione varianti impianti elettrici e speciali.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01450670938</codiceFiscale>
+					<ragioneSociale>H.E.G. srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01450670938</codiceFiscale>
+					<ragioneSociale>H.E.G. srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>13400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2012-12-06</dataInizio>
+				<dataUltimazione>2016-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7696.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>4889155257</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Adeguamento del progetto preliminare del Tecnopolo</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+			<partecipanti>
+				<raggruppamento>
+					<membro>
+					<identificativoFiscaleEstero>DE 118557128</identificativoFiscaleEstero>
+						<ragioneSociale>GMP MBH</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+					<codiceFiscale>00798650404</codiceFiscale>
+						<ragioneSociale>Studio Ti soc. coop.</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+					<identificativoFiscaleEstero>DE 250804971</identificativoFiscaleEstero>
+						<ragioneSociale>Werner Sobek Stuttgart Gmbh</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+					<codiceFiscale>NTNLDA68D21C573I</codiceFiscale>
+						<ragioneSociale>Antoniazzi Aldo</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+					<codiceFiscale>CRLCRL66A05G682M</codiceFiscale>
+						<ragioneSociale>Carli Ing. Carlo</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+					<codiceFiscale>BCCMRC61R11F704H</codiceFiscale>
+						<ragioneSociale>Baccanti Marco</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+				</raggruppamento>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatarioRaggruppamento>
+					<membro>
+						<identificativoFiscaleEstero>DE 118557128</identificativoFiscaleEstero>
+						<ragioneSociale>GMP MBH</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>00798650404</codiceFiscale>
+						<ragioneSociale>Studio Ti soc. coop.</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<identificativoFiscaleEstero>DE 250804971</identificativoFiscaleEstero>
+						<ragioneSociale>Werner Sobek Stuttgart Gmbh</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>NTNLDA68D21C573I</codiceFiscale>
+						<ragioneSociale>Antoniazzi Aldo</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>CRLCRL66A05G682M</codiceFiscale>
+						<ragioneSociale>Carli Ing. Carlo</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>BCCMRC61R11F704H</codiceFiscale>
+						<ragioneSociale>Baccanti Marco</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+				</aggiudicatarioRaggruppamento>
+			</aggiudicatari>
+			<importoAggiudicazione>180000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-03-20</dataInizio>
+				<dataUltimazione>2016-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>129683.72</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z990906C8E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di noleggio di fotocopiatrici a colori a lungo termine.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>13187000156</codiceFiscale>
+					<ragioneSociale>Grenke Locazione srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>13187000156</codiceFiscale>
+					<ragioneSociale>Grenke Locazione srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-04-02</dataInizio>
+				<dataUltimazione>2018-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2151.35</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z880B97E71</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Consulenza architettonica e assistenza tecnica alla Direzione Lavori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>PNLRFL37L30D643I</codiceFiscale>
+					<ragioneSociale>Panella Prof. Raffaele</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>PNLRFL37L30D643I</codiceFiscale>
+					<ragioneSociale>Panella Prof. Raffaele</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2013-09-23</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4695.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z2B0DC419A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di materiale di consumo per stampe</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>08397890586</codiceFiscale>
+					<ragioneSociale>Errebian spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03274460371</codiceFiscale>
+					<ragioneSociale>Punto Cart srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00960900371</codiceFiscale>
+					<ragioneSociale>F.lli Biagini srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01550641201</codiceFiscale>
+					<ragioneSociale>Officart srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-02-10</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2029.43</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z110E7FBA7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI MATERIALE DI CONSUMO PER STAMPE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01550641201</codiceFiscale>
+					<ragioneSociale>OFFICART SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01550641201</codiceFiscale>
+					<ragioneSociale>OFFICART SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-03-26</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>467.10</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z2E0EA1FB5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ATTIVITA' DI DIREZIONE OPERATIVA RELATIVA AGLI IMPIANTI TECNOLOGICI DI 10 CANTIERI DI RICOSTRUZIONE POST-SISMA DENOMINATI EPT3</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03111261206</codiceFiscale>
+					<ragioneSociale>SDC ENGINEERING</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03111261206</codiceFiscale>
+					<ragioneSociale>SDC ENGINEERING</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>22000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-05-01</dataInizio>
+				<dataUltimazione>2016-10-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8372.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEE0FBECB6</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>PREDISPOSIZIONE DI VALSAT E DI STUDI AMBIENTALI</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-06-19</dataInizio>
+				<dataUltimazione>2016-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20540.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z791040739</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA, INSTALLAZIONE E ASSISTENZA DI SOFTWARE GESTIONALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01035310414</codiceFiscale>
+					<ragioneSociale>TEAMSYSTEM SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01035310414</codiceFiscale>
+					<ragioneSociale>TEAMSYSTEM SPA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-07-23</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1501.21</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>408484698C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI VERIFICA DEGLI IMPIANTI TERMICI NEL COMUNE DI BOLOGNA</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FNDNRC76B20I754R</codiceFiscale>
+					<ragioneSociale>Fiandaca Dr. Enrico</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FNDNRC76B20I754R</codiceFiscale>
+					<ragioneSociale>Fiandaca Dr. Enrico</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>119505.33</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-11-01</dataInizio>
+				<dataUltimazione>2016-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16395.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>408484698C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di effettuazione dei controlli sugli impianti termici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>TZZLSN83E18D612R</codiceFiscale>
+					<ragioneSociale>Tazzioli Alessandro</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>TZZLSN83E18D612R</codiceFiscale>
+					<ragioneSociale>Tazzioli Alessandro</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>119505.33</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-12-01</dataInizio>
+				<dataUltimazione>2016-02-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4167.20</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>408484698C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di effettuazione dei controlli sugli impianti termici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02099931202</codiceFiscale>
+					<ragioneSociale>Sauermann Italia srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02099931202</codiceFiscale>
+					<ragioneSociale>Sauermann Italia srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>119505.33</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2016-02-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>290.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>408484698C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di effettuazione dei controlli sugli impianti termici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>MROCST73R28F356E</codiceFiscale>
+					<ragioneSociale>Moro Cristiano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>MROCST73R28F356E</codiceFiscale>
+					<ragioneSociale>Moro Cristiano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>119505.33</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-02-01</dataInizio>
+				<dataUltimazione>2016-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>18910.80</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>408484698C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di effettuazione dei controlli sugli impianti termici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02987460231</codiceFiscale>
+					<ragioneSociale>Ecopoint sas</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02987460231</codiceFiscale>
+					<ragioneSociale>Ecopoint sas</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>119505.33</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-22</dataInizio>
+				<dataUltimazione>2015-11-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1135.42</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z26118C98B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI NOLEGGIO A LUNGO TERMINE DI VEICOLI COMMERCIALI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08083020019</codiceFiscale>
+					<ragioneSociale>LEASYS SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08083020019</codiceFiscale>
+					<ragioneSociale>LEASYS SPA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>37000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2016-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7718.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3211A182D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>CALCOLI STRUTTURALI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DLLMNG60A04G479Y</codiceFiscale>
+					<ragioneSociale>Dallavalle Ing. Marino Gilberto</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DLLMNG60A04G479Y</codiceFiscale>
+					<ragioneSociale>Dallavalle Ing. Marino Gilberto</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>35000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-11-07</dataInizio>
+				<dataUltimazione>2016-01-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6240.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z791256707</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSICURAZIONE RISCHI GLOBALI IMPIANTI FOTOVOLTAICI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>23000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7550.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZD51256655</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSICURAZIONE FURTO E INCENDIO UFFICI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>474.99</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZC412565AC</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSICURAZIONE RESPONSABILITA' CIVILE AMMINISTRATORI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>13200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4401.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4212564F3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSICURAZIONE INFORTUNI DIPENDENTI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>33500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7744.55</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZE112563AF</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSICURAZIONE RESPONSABILITA' CIVILE AZIENDALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03059010375</codiceFiscale>
+					<ragioneSociale>Q.Z. STUDIO DI CONSULENZA ASSICURATIVA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>35500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9602.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z6F1256841</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI PULIZIA UFFICI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00886090372</codiceFiscale>
+					<ragioneSociale>L'OPEROSA SCRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00886090372</codiceFiscale>
+					<ragioneSociale>L'OPEROSA SCRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>13650.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z1712FF251</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza e manutenzione fotocopiatrici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9265.75</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZD512FF28B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di buoni pasto ai dipendenti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>Day Ristoservice spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>Day Ristoservice spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-02-01</dataInizio>
+				<dataUltimazione>2016-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2808.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB51319858</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di materiali di consumo per stampe</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08397890586</codiceFiscale>
+					<ragioneSociale>Errebian spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03274460371</codiceFiscale>
+					<ragioneSociale>Punto Cart srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00960900371</codiceFiscale>
+					<ragioneSociale>F.lli Biagini srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08397890586</codiceFiscale>
+					<ragioneSociale>Errebian spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>7000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-02-10</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3319.30</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF31327017</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione professionale in materia contabile, societaria e fiscale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03081361200</codiceFiscale>
+					<ragioneSociale>Studio Frasnedi e Associati</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03081361200</codiceFiscale>
+					<ragioneSociale>Studio Frasnedi e Associati</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2340.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZE81326F16</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione legale specialistica in materia giuridico-contrattuale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LLLLSN65C04A944T</codiceFiscale>
+					<ragioneSociale>Lolli Alessandro</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LLLLSN65C04A944T</codiceFiscale>
+					<ragioneSociale>Lolli Alessandro</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20280.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z1413B12C0</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza alla Direzione Lavori</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FRSNRC68D29A944W</codiceFiscale>
+					<ragioneSociale>Frisoli Enrico</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FRSNRC68D29A944W</codiceFiscale>
+					<ragioneSociale>Frisoli Enrico</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>31710.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-04-13</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6181.88</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z2A142C976</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Elaborazione del piano di sicurezza per progetto esecutivo scuola Besta e intervento di adeguamento Teatro Comunale di Bologna</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>STCGPR71B21Z133N</codiceFiscale>
+					<ragioneSociale>Sticchi Gianpiero Bruno</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>STCGPR71B21Z133N</codiceFiscale>
+					<ragioneSociale>Sticchi Gianpiero Bruno</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-03-01</dataInizio>
+				<dataUltimazione>2015-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>208.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z0714BC217</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione strutturale per consolidamento e miglioramento/adeguamento sismico della sede del quartiere Borgo Panigale</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03195951201</codiceFiscale>
+					<ragioneSociale>EN7 srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03195951201</codiceFiscale>
+					<ragioneSociale>EN7 srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-07-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9453.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF314C9F8E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Analisi di risposta sismica locale bidimensionale e studio di integrazione acustico sugli effetti della variante al piano particolareggiato</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>30000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-01</dataInizio>
+				<dataUltimazione>2016-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10140.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z76152F1F4</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione strutturale inerente il coperto del Museo Civico Archeologico di Bologna</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DLLMNG60A04G479Y</codiceFiscale>
+					<ragioneSociale>Dallavalle Marino Gilberto</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DLLMNG60A04G479Y</codiceFiscale>
+					<ragioneSociale>Dallavalle Marino Gilberto</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-07-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14300.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z1F1547A39</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza e manutenzione plotter</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01336900384</codiceFiscale>
+					<ragioneSociale>Energy Group srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01336900384</codiceFiscale>
+					<ragioneSociale>Energy Group srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2017-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2645.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z94161DB29</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Indagini finalizzate alla verifica delle strutture lignee sostenenti il tetto del Museo Civico Archeologico di Bologna</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LCCTZN52A11G224B</codiceFiscale>
+					<ragioneSociale>Lucca Tiziano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LCCTZN52A11G224B</codiceFiscale>
+					<ragioneSociale>Lucca Tiziano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>13230.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-06-01</dataInizio>
+				<dataUltimazione>2015-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2727.92</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZDC165157E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di ricerca e selezione di personale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03506870967</codiceFiscale>
+					<ragioneSociale>Experis srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03506870967</codiceFiscale>
+					<ragioneSociale>Experis srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-01</dataInizio>
+				<dataUltimazione>2015-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6500.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZD4169598A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Indagini geotecniche e ambientali per progettazione preliminare edificio scolastico in via Biancolelli 40 Bologna</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>15965.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16607.55</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3116B3832</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Predisposizione di elaborati grafici - UN1</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-01</dataInizio>
+				<dataUltimazione>2016-02-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6928.40</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA916B906D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Indagini geotecniche e ambientali per progettazione preliminare di un edificio scolastico</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01051620399</codiceFiscale>
+					<ragioneSociale>SOGEO srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01051620399</codiceFiscale>
+					<ragioneSociale>SOGEO srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>14088.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-06-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17628.40</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5F16F452F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza alla Direzione Lavori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>STGNDA71B67D704G</codiceFiscale>
+					<ragioneSociale>Sotgia Arch. Nada</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>STGNDA71B67D704G</codiceFiscale>
+					<ragioneSociale>Sotgia Arch. Nada</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-01</dataInizio>
+				<dataUltimazione>2016-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>11450.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZDB16F3F63</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Redazione di una analisi delle potenzialità di mercato e della sostenibilità commerciale ed economico-finanziaria di un progetto di sviluppo nel Tecnopolo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02243430374</codiceFiscale>
+					<ragioneSociale>Nomisma Società di Studi Economici spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03945580011</codiceFiscale>
+					<ragioneSociale>Sinloc Sistema Iniziative Locali spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03118330376</codiceFiscale>
+					<ragioneSociale>PROMETEIA SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02243430374</codiceFiscale>
+					<ragioneSociale>Nomisma Società di Studi Economici spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>19000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-01</dataInizio>
+				<dataUltimazione>2016-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z6317A7B1D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione professionale in materia di gestione e organizzazione aziendale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>SGGCST63E08H501C</codiceFiscale>
+					<ragioneSociale>Sgueglia Della Marra Ing. Cristiano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>SGGCST63E08H501C</codiceFiscale>
+					<ragioneSociale>Sgueglia Della Marra Ing. Cristiano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10868.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9417A78A2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione professionale in materia contabile, societaria e fiscale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03081361200</codiceFiscale>
+					<ragioneSociale>Studio Frasnedi e Associati</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03081361200</codiceFiscale>
+					<ragioneSociale>Studio Frasnedi e Associati</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7856.57</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7717A77AE</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Diffusione e manutenzione del sito web istituzionale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01662381209</codiceFiscale>
+					<ragioneSociale>Smart srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01662381209</codiceFiscale>
+					<ragioneSociale>Smart srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-01</dataInizio>
+				<dataUltimazione>2018-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2920.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4C17A75E5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di noleggio a lungo termine di veicoli commerciali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08083020019</codiceFiscale>
+					<ragioneSociale>Leasys spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08083020019</codiceFiscale>
+					<ragioneSociale>Leasys spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>32000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16927.66</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4217BAA02</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza nella progettazione della rete di raccolta e smaltimento delle acque - PBL</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FRNVRN63E13G393A</codiceFiscale>
+					<ragioneSociale>Franchi Dott. Valeriano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FRNVRN63E13G393A</codiceFiscale>
+					<ragioneSociale>Franchi Dott. Valeriano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2295.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5417BA9F5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza per aggiornamento e revisione del progetto del verde - PBL</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01600400368</codiceFiscale>
+					<ragioneSociale>Società Agricola Hydroplants snc</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01600400368</codiceFiscale>
+					<ragioneSociale>Società Agricola Hydroplants snc</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>7500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-01</dataInizio>
+				<dataUltimazione>2016-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7500.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7117BAAE9</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Rilievi topografici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>MNTDVD83A20A944R</codiceFiscale>
+					<ragioneSociale>Mantovan Geom. Davide</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>MNTDVD83A20A944R</codiceFiscale>
+					<ragioneSociale>Mantovan Geom. Davide</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5040.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8217BAA97</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza per svolgimento di attività tecniche per il completamento della nuova scuola di musica di Mirandola - REV</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02661210357</codiceFiscale>
+					<ragioneSociale>Hello Engineering srls</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03111261206</codiceFiscale>
+					<ragioneSociale>SDC Engineering Studio di Ingegneria Associato</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>FSCNDR64C13H199M</codiceFiscale>
+					<ragioneSociale>Foschini Andrea</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02661210357</codiceFiscale>
+					<ragioneSociale>Hello Engineering srls</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-05-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4264.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4617BAA1B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza per svolgimento di attività tecniche per la realizzazione di interventi nel municipio di Concordia sulla Secchia</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03111261206</codiceFiscale>
+					<ragioneSociale>SDC Engineering Studio di Ingegneria Associato</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01369560394</codiceFiscale>
+					<ragioneSociale>Andrea Foschini</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02661210357</codiceFiscale>
+					<ragioneSociale>Hello Engineering srls</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03111261206</codiceFiscale>
+					<ragioneSociale>SDC Engineering Studio di Ingegneria Associato</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-01</dataInizio>
+				<dataUltimazione>2016-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3432.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e installazione di parti di ricambio nella centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00736410150</codiceFiscale>
+					<ragioneSociale>ABB spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00736410150</codiceFiscale>
+					<ragioneSociale>ABB spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>337.27</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-22</dataInizio>
+				<dataUltimazione>2016-02-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>337.27</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto di accessori vari per computer</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08973230967</codiceFiscale>
+					<ragioneSociale>Amazon EU srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08973230967</codiceFiscale>
+					<ragioneSociale>Amazon EU srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>117.08</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività di verifica e convalida delle emissioni</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>11498640157</codiceFiscale>
+					<ragioneSociale>Bureau Veritas Italia spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>11498640157</codiceFiscale>
+					<ragioneSociale>Bureau Veritas Italia spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-29</dataInizio>
+				<dataUltimazione>2016-08-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1803.35</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di olio per compressore turbina centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03308030109</codiceFiscale>
+					<ragioneSociale>Canada International Resources srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03308030109</codiceFiscale>
+					<ragioneSociale>Canada International Resources srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>8040.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-02-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8040.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione gruppo frigorifero centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04453390157</codiceFiscale>
+					<ragioneSociale>Carrier Distribution Italy srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04453390157</codiceFiscale>
+					<ragioneSociale>Carrier Distribution Italy srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>5250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5250.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisti di vario materiale elettrico e/o informatico</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02108091204</codiceFiscale>
+					<ragioneSociale>Comet spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02108091204</codiceFiscale>
+					<ragioneSociale>Comet spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>739.44</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Quota associativa 2016 e abbonamento a normative tecniche</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80059350159</codiceFiscale>
+					<ragioneSociale>Comitato Elettrotecnico Italiano</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80059350159</codiceFiscale>
+					<ragioneSociale>Comitato Elettrotecnico Italiano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>685.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto cialde di caffè</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00513971200</codiceFiscale>
+					<ragioneSociale>D.A.EM spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00513971200</codiceFiscale>
+					<ragioneSociale>D.A.EM spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>330.98</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Verifica periodica di mantenimento per certificazione di qualità</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06247370155</codiceFiscale>
+					<ragioneSociale>DNV GL Business Assurance Italia srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06247370155</codiceFiscale>
+					<ragioneSociale>DNV GL Business Assurance Italia srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-12</dataInizio>
+				<dataUltimazione>2016-05-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1266.30</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio assistenza gruppi UPS centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00230510281</codiceFiscale>
+					<ragioneSociale>Emerson Network Power srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00230510281</codiceFiscale>
+					<ragioneSociale>Emerson Network Power srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1044.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-05</dataInizio>
+				<dataUltimazione>2017-05-04</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1044.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio assistenza gruppo UPS uffici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00230510281</codiceFiscale>
+					<ragioneSociale>Emerson Network Power srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00230510281</codiceFiscale>
+					<ragioneSociale>Emerson Network Power srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>970.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-09-01</dataInizio>
+				<dataUltimazione>2016-08-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>970.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Intervento di manutenzione con fornitura di pezzi di ricambio apparecchiature centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03452440377</codiceFiscale>
+					<ragioneSociale>Kaeser Compressori srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03452440377</codiceFiscale>
+					<ragioneSociale>Kaeser Compressori srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-11</dataInizio>
+				<dataUltimazione>2016-02-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1847.34</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Campionamenti e analisi varie centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01904620406</codiceFiscale>
+					<ragioneSociale>Lavoro e Ambiente srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01904620406</codiceFiscale>
+					<ragioneSociale>Lavoro e Ambiente srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-01</dataInizio>
+				<dataUltimazione>2016-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10492.73</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Abbonamento annuale a Bollettino di Legislazione Tecnica</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05383391009</codiceFiscale>
+					<ragioneSociale>Legislazione Tecnica srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05383391009</codiceFiscale>
+					<ragioneSociale>Legislazione Tecnica srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>130.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>130.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Corsi di formazione e volumi tecnici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06188330150</codiceFiscale>
+					<ragioneSociale>Maggioli spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06188330150</codiceFiscale>
+					<ragioneSociale>Maggioli spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1618.80</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Aggiornamento programma di calcolo e acquisto pacchetto ore assistenza</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07605790018</codiceFiscale>
+					<ragioneSociale>MC4 Software Italia srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07605790018</codiceFiscale>
+					<ragioneSociale>MC4 Software Italia srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-30</dataInizio>
+				<dataUltimazione>2016-09-06</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1950.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e stampa di bigilietti da visita e buste</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00313820375</codiceFiscale>
+					<ragioneSociale>Negri srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00313820375</codiceFiscale>
+					<ragioneSociale>Negri srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-07</dataInizio>
+				<dataUltimazione>2016-03-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>330.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione cellulari aziendali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02923721209</codiceFiscale>
+					<ragioneSociale>Nikal Group srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02923721209</codiceFiscale>
+					<ragioneSociale>Nikal Group srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-18</dataInizio>
+				<dataUltimazione>2016-12-12</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>180.33</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Seminario progettazione antisismica</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00902120377</codiceFiscale>
+					<ragioneSociale>Ordine degli Ingegneri della Provincia di Bologna</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00902120377</codiceFiscale>
+					<ragioneSociale>Ordine degli Ingegneri della Provincia di Bologna</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>70.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-09-16</dataInizio>
+				<dataUltimazione>2016-09-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>70.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Seminari tecnici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80014640389</codiceFiscale>
+					<ragioneSociale>Ordine degli Ingegneri della Provincia di Ferrara</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80014640389</codiceFiscale>
+					<ragioneSociale>Ordine degli Ingegneri della Provincia di Ferrara</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>150.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-15</dataInizio>
+				<dataUltimazione>2016-12-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>105.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto di telefoni cellulari</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10588271006</codiceFiscale>
+					<ragioneSociale>Stockisti in conc. a ELAD srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10588271006</codiceFiscale>
+					<ragioneSociale>Stockisti in conc. a ELAD srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>450.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-04-20</dataInizio>
+				<dataUltimazione>2016-06-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>269.58</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Quota associativa 2016 e norme</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80037830157</codiceFiscale>
+					<ragioneSociale>UNI - Ente Nazionale di Unificazione</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80037830157</codiceFiscale>
+					<ragioneSociale>UNI - Ente Nazionale di Unificazione</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1401.30</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Corso di formazione sul bilancio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>Wolters Kluver Italia srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>Wolters Kluver Italia srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>200.90</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-20</dataInizio>
+				<dataUltimazione>2016-12-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>200.90</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7919A966E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione definitiva degli impianti dell'Aula Magna di San Felice sul Panaro (MO)</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03658640408</codiceFiscale>
+					<ragioneSociale>In.Te.So. Ingegneria srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01538860345</codiceFiscale>
+					<ragioneSociale>Applicad srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>SHHLRI65E11Z100P</codiceFiscale>
+					<ragioneSociale>Shehu Ing. Ilir</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03658640408</codiceFiscale>
+					<ragioneSociale>In.Te.So. Ingegneria srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>18000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Pubblicazione in G.U. avviso di rettifica gara Tecnopolo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00399810589</codiceFiscale>
+					<ragioneSociale>Istituto Poligrafico e Zecca dello Stato</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00399810589</codiceFiscale>
+					<ragioneSociale>Istituto Poligrafico e Zecca dello Stato</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>219.30</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-22</dataInizio>
+				<dataUltimazione>2016-01-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>219.30</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività di manutenzione al cancello automatico della centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04336880374</codiceFiscale>
+					<ragioneSociale>Sorce e Vannini Service srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04336880374</codiceFiscale>
+					<ragioneSociale>Sorce e Vannini Service srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-19</dataInizio>
+				<dataUltimazione>2016-01-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>450.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4D1843866</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Indagini sulle strutture esistenti presso ex Manifattura tabacchi in via Stalingrado Bologna</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03372400543</codiceFiscale>
+					<ragioneSociale>EXPERIMENTATIONS SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>80007010376</codiceFiscale>
+					<ragioneSociale>Alma Mater Studiorum - C.I.R.I.E.C.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03372400543</codiceFiscale>
+					<ragioneSociale>EXPERIMENTATIONS SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>18000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-24</dataInizio>
+				<dataUltimazione>2015-12-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>18000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione impianti trattamento acqua centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00321300378</codiceFiscale>
+					<ragioneSociale>Culligan Italiana spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00321300378</codiceFiscale>
+					<ragioneSociale>Culligan Italiana spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3409.62</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA21845E04</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza e manutenzione fotocopiatrici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04231570377</codiceFiscale>
+					<ragioneSociale>Document Point sas</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>11000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1525.82</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4F1845D37</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di Responsabile per la prevenzione e sicurezza</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04251330371</codiceFiscale>
+					<ragioneSociale>Sitec srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04251330371</codiceFiscale>
+					<ragioneSociale>Sitec srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2018-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z831845D81</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di buoni pasto ai dipendenti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>Day Ristoservice spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>Day Ristoservice spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-01</dataInizio>
+				<dataUltimazione>2017-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16848.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z281845E78</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di mensa convenzionata per i dipendenti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00311310379</codiceFiscale>
+					<ragioneSociale>Camst scrl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00311310379</codiceFiscale>
+					<ragioneSociale>Camst scrl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7099.85</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z141845EF6</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di eliografia, scansione, plottaggio, copia e stampa</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03641230374</codiceFiscale>
+					<ragioneSociale>Balduzzi Copy Center srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03641230374</codiceFiscale>
+					<ragioneSociale>Balduzzi Copy Center srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3562.12</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z691845F52</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza e manutenzione hardware e software</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04293020378</codiceFiscale>
+					<ragioneSociale>Digibyte srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04293020378</codiceFiscale>
+					<ragioneSociale>Digibyte srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8496.40</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto di stampante ink jet</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BNLJPR85E22L219U</codiceFiscale>
+					<ragioneSociale>Quartz di Jean Pierre Binelli</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BNLJPR85E22L219U</codiceFiscale>
+					<ragioneSociale>Quartz di Jean Pierre Binelli</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>228.18</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-15</dataInizio>
+				<dataUltimazione>2016-02-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>228.18</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA1187E7B3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico professionale per coordinatore in fase di progettazione per redazione PSC e fascicolo dell'opera per il progetto Tecnopolo di Bologna Lotto A</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02205471200</codiceFiscale>
+					<ragioneSociale>Studio Enarco srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03195951201</codiceFiscale>
+					<ragioneSociale>EN7 srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>CRLCRL66A05G682M</codiceFiscale>
+					<ragioneSociale>Carli Ing. Carlo</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02205471200</codiceFiscale>
+					<ragioneSociale>Studio Enarco srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-15</dataInizio>
+				<dataUltimazione>2016-10-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>26000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF9189F470</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Modifica al progetto dei servizi allo studentato dell'Università di Bologna per l'insediamento al Lazzaretto - via Terracini con impianti autonomi</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03789520370</codiceFiscale>
+					<ragioneSociale>Thyke Europa srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03789520370</codiceFiscale>
+					<ragioneSociale>Thyke Europa srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-02-20</dataInizio>
+				<dataUltimazione>2016-04-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5518A75C7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di cancelleria e materiali di consumo per ufficio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08397890586</codiceFiscale>
+					<ragioneSociale>Errebian spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08397890586</codiceFiscale>
+					<ragioneSociale>Errebian spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2953.02</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z971904063</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione architettonica-artistica per la manutenzione straordinaria del coperto del Museo Civico Archeologico di Bologna</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>750.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-20</dataInizio>
+				<dataUltimazione>2016-11-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>782.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA4190653A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione delle varianti degli impianti meccanici degli edifici UE4, UE5, UE6 del complesso dell'Università di Bologna al Navile</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01884990381</codiceFiscale>
+					<ragioneSociale>Step  Engineering srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>BCCVLR56E26F627D</codiceFiscale>
+					<ragioneSociale>Baccigotti P.i. Valerio</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02489321204</codiceFiscale>
+					<ragioneSociale>Pool Progetti Studio Associato</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01884990381</codiceFiscale>
+					<ragioneSociale>Step  Engineering srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z13190655D</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione delle varianti degli impianti elettrici e speciali degli edifici UE4, UE5 E UE6 del complesso dell'Università di Bologna al Navile</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01884990381</codiceFiscale>
+					<ragioneSociale>Step  Engineering srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01450670938</codiceFiscale>
+					<ragioneSociale>H.E.G. srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04319300374</codiceFiscale>
+					<ragioneSociale>Studio Tecnico Associato Proel</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01884990381</codiceFiscale>
+					<ragioneSociale>Step  Engineering srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z84191BAA1</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Predisposizione di elaborati grafici UN1</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-01</dataInizio>
+				<dataUltimazione>2016-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20802.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Parere di congruità su stima di immobile</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06363391001</codiceFiscale>
+					<ragioneSociale>AGENZIA DELLE ENTRATE DIREZ.CENTRALE AMM.PIAN. CONT.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06363391001</codiceFiscale>
+					<ragioneSociale>AGENZIA DELLE ENTRATE DIREZ.CENTRALE AMM.PIAN. CONT.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4314.60</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-04-01</dataInizio>
+				<dataUltimazione>2016-06-18</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4314.60</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z6E19919FC</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione alla realizzazione di controlli in loco su operazioni finanziate dal programma POR-FESR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02163591205</codiceFiscale>
+					<ragioneSociale>T&amp;D spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02163591205</codiceFiscale>
+					<ragioneSociale>T&amp;D spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-04-22</dataInizio>
+				<dataUltimazione>2016-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9356.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8319C1A73</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza alla direzione lavori cantieri ricostruzione post sisma Emilia-Romagna ed attività tecniche connesse ai Tecnopoli</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>STGNDA71B67D704G</codiceFiscale>
+					<ragioneSociale>Sotgia Arch. Nada</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>STGNDA71B67D704G</codiceFiscale>
+					<ragioneSociale>Sotgia Arch. Nada</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>28000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-01</dataInizio>
+				<dataUltimazione>2017-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15924.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZE519D9FA3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza per svolgimento di attività tecniche per la realizzazione di interventi di completamento dell'Aula Magna di San Felice sul Panaro</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03672880378</codiceFiscale>
+					<ragioneSociale>No Gap Progetti srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01620640365</codiceFiscale>
+					<ragioneSociale>Y.U.Pppies' Services srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03206480406</codiceFiscale>
+					<ragioneSociale>RGR Architettura Studio Associato</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>VNZGRG53M17G337V</codiceFiscale>
+					<ragioneSociale>Avanzini Ing. Giorgio</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03672880378</codiceFiscale>
+					<ragioneSociale>No Gap Progetti srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>18000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-15</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6240.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZAA1A05B7A</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Progettazione dell'intervento di consolidamento di un muro perimetrale di sostegno nel centro storico di Bologna.</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DLLMNG60A04G479Y</codiceFiscale>
+					<ragioneSociale>Dallavalle Ing. Marino Gilberto</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DLLMNG60A04G479Y</codiceFiscale>
+					<ragioneSociale>Dallavalle Ing. Marino Gilberto</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5C1A05B0B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Elaborazione di tavole grafiche e/o relazioni per la presentazione di un progetto preliminare di scuola materna e asilo nido.</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03195951201</codiceFiscale>
+					<ragioneSociale>EN7 srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03195951201</codiceFiscale>
+					<ragioneSociale>EN7 srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>5600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZD71A13486</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione alla realizzazione di controlli in loco su operazioni finanziate dal programma POR-FESR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02163591205</codiceFiscale>
+					<ragioneSociale>T&amp;D spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02163591205</codiceFiscale>
+					<ragioneSociale>T&amp;D spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-25</dataInizio>
+				<dataUltimazione>2016-08-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10692.62</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Prelievi e prove su campioni di cls</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80057930150</codiceFiscale>
+					<ragioneSociale>Politecnico Milano 1863 - Laboratorio Prove Materiali</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80057930150</codiceFiscale>
+					<ragioneSociale>Politecnico Milano 1863 - Laboratorio Prove Materiali</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-07-01</dataInizio>
+				<dataUltimazione>2016-12-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>38374.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZAA1A7FB97</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione legale specialistica in materia giuridico-contrattuale.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LLLLSN65C04A944T</codiceFiscale>
+					<ragioneSociale>Lolli Prof. Alessandro</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LLLLSN65C04A944T</codiceFiscale>
+					<ragioneSociale>Lolli Prof. Alessandro</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di scala su misura per centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03181260369</codiceFiscale>
+					<ragioneSociale>Emiliana Scale srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03181260369</codiceFiscale>
+					<ragioneSociale>Emiliana Scale srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>922.94</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-07-12</dataInizio>
+				<dataUltimazione>2016-07-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>922.94</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività inerenti la sicurezza in centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04251330371</codiceFiscale>
+					<ragioneSociale>Sitec srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04251330371</codiceFiscale>
+					<ragioneSociale>Sitec srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>5200.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5200.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z751AC3091</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e installazione di hardware e software per il server aziendale.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04293020378</codiceFiscale>
+					<ragioneSociale>Digibyte srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04293020378</codiceFiscale>
+					<ragioneSociale>Digibyte srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>7000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-09-01</dataInizio>
+				<dataUltimazione>2016-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7085.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z921AD3F26</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento di servizio relativo all'esecuzione di prove e sondaggi geologici nonché di analisi ambientali sui campioni prelevati ed in situ nell'area del sedime scolastico posto nel quartiere Porto a Bologna.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04135500371</codiceFiscale>
+					<ragioneSociale>Geo-Probe srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01051620399</codiceFiscale>
+					<ragioneSociale>SOGEO srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02114361203</codiceFiscale>
+					<ragioneSociale>GEOTEA srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04135500371</codiceFiscale>
+					<ragioneSociale>Geo-Probe srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>13325.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-08-01</dataInizio>
+				<dataUltimazione>2016-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12705.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Intervento di tecnico e riparazione apparecchiature centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10642070154</codiceFiscale>
+					<ragioneSociale>R.A. System srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10642070154</codiceFiscale>
+					<ragioneSociale>R.A. System srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-09-19</dataInizio>
+				<dataUltimazione>2016-10-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2338.20</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto certificati EUA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06761210969</codiceFiscale>
+					<ragioneSociale>I.CA.S.CO. spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06761210969</codiceFiscale>
+					<ragioneSociale>I.CA.S.CO. spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-09-26</dataInizio>
+				<dataUltimazione>2016-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9500.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZC91B51A35</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Indagini geologiche integrative nell'area scolastica di via Marzabotto a Bologna.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FRNVRN63E13G393A</codiceFiscale>
+					<ragioneSociale>Franchi Dott. Valeriano</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03392820373</codiceFiscale>
+					<ragioneSociale>AIRIS srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01051620399</codiceFiscale>
+					<ragioneSociale>SOGEO srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FRNVRN63E13G393A</codiceFiscale>
+					<ragioneSociale>Franchi Dott. Valeriano</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-10-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di riduttore per centrale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01011290366</codiceFiscale>
+					<ragioneSociale>GSM spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01011290366</codiceFiscale>
+					<ragioneSociale>GSM spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-10-26</dataInizio>
+				<dataUltimazione>2016-12-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4629.35</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di contenitori usa e getta in pvc per campioni di acque da analizzare</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01919800605</codiceFiscale>
+					<ragioneSociale>Ecosearch srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01919800605</codiceFiscale>
+					<ragioneSociale>Ecosearch srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-11-07</dataInizio>
+				<dataUltimazione>2016-11-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di gas metano per la centrale</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02221101203</codiceFiscale>
+					<ragioneSociale>Hera Comm srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06655971007</codiceFiscale>
+					<ragioneSociale>Enel Energia spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00484960588</codiceFiscale>
+					<ragioneSociale>ENI spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>08526440154</codiceFiscale>
+					<ragioneSociale>Edison Energia spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03429130234</codiceFiscale>
+					<ragioneSociale>E.ON Energia spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02221101203</codiceFiscale>
+					<ragioneSociale>Hera Comm srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1171800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-11-01</dataInizio>
+				<dataUltimazione>2017-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>50885.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZB81BCB7B3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico professionale per la valutazione economina di un ramo d'azienda</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03081361200</codiceFiscale>
+					<ragioneSociale>Studio Frasnedi e Associati</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03081361200</codiceFiscale>
+					<ragioneSociale>Studio Frasnedi e Associati</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>9000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-10-28</dataInizio>
+				<dataUltimazione>2017-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Seminario sui contratti di energia e gas</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>13194800150</codiceFiscale>
+					<ragioneSociale>Fiera Milano Media spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>13194800150</codiceFiscale>
+					<ragioneSociale>Fiera Milano Media spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>490.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-02</dataInizio>
+				<dataUltimazione>2016-12-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>490.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z171C0B70E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Predisposizione di elaborati grafici - UN1</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CMPMGR73P51H792A</codiceFiscale>
+					<ragioneSociale>Campisi Arch. Maria Grazia</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-11-16</dataInizio>
+				<dataUltimazione>2017-02-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>0000000000</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Abbonamento annuale a listino prezzi all'ingrosso Camera di Commercio di Milano</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06561570968</codiceFiscale>
+					<ragioneSociale>Digicamere soc. cons. a r. l.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06561570968</codiceFiscale>
+					<ragioneSociale>Digicamere soc. cons. a r. l.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>155.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-11-26</dataInizio>
+				<dataUltimazione>2017-11-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>255.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z241C47298</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>00387110372</codiceFiscaleProp>
+				<denominazione>FINANZIARIA BOLOGNA METROPOLITANA S.P.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico triennale di revisione legale del bilancio della società</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02342440399</codiceFiscale>
+					<ragioneSociale>Ria Grant Thornton spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03049560166</codiceFiscale>
+					<ragioneSociale>Deloitte &amp; Touche spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>12979880155</codiceFiscale>
+					<ragioneSociale>Pricewaterhousecoopers spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01213510017</codiceFiscale>
+					<ragioneSociale>Baker Tilly Revisa spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00731410155</codiceFiscale>
+					<ragioneSociale>KPMG Fides Servizi di Amministrazione spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>07722780967</codiceFiscale>
+					<ragioneSociale>BDO Italia spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00434000584</codiceFiscale>
+					<ragioneSociale>Ernst &amp; Young spa</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02342440399</codiceFiscale>
+					<ragioneSociale>Ria Grant Thornton spa</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>28500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-02</dataInizio>
+				<dataUltimazione>2018-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

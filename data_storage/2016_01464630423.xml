@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  <metadata>
+    <titolo>Pubblicazione legge 190</titolo>
+    <abstract> </abstract>
+    <dataPubblicazioneIndice>2016-03-21</dataPubblicazioneIndice>
+    <entePubblicatore>AZIENDA OSPEDALIERO UNIVERSITARIA OSPEDALI RIUNITI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-03-21</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://ospedaliriuniti.etrasparenza.it/avcp/113/2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1" >
+      <linkDataset>http://ospedaliriuniti.etrasparenza.it/avcp/113/2015/avcpLegge190_8d04f872-5405-47a1-9f33-4feb321e8467_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-03-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2" >
+      <linkDataset>http://ospedaliriuniti.etrasparenza.it/avcp/113/2015/avcpLegge190_8d04f872-5405-47a1-9f33-4feb321e8467_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-03-21</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

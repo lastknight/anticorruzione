@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+ARIA 1.0//EN"
+  "http://www.w3.org/WAI/ARIA/schemata/xhtml-aria-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" dir="ltr">
+<head>
+<meta name="language" content="it-it" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<base href="http://www.icstieri.gov.it/attachments/article/660/06%20-%20gare2015.xml" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="scuola, corigliano, comprensivo, istituto, media, elementare, infanzia, musica" />
+	<meta name="author" content="Super User" />
+	<meta name="description" content="Istituto Comprensivo Tieri Corigliano Calabro)" />
+	<meta name="generator" content="Joomla! - Open Source Content Management - Versione FAP" />
+	<title>Primaria</title>
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<link href="http://www.icstieri.gov.it/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.icstieri.gov.it/templates/accessiblepro/jspro/flexslider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.icstieri.gov.it/media/mod_accessibility_links/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.icstieri.gov.it/plugins/system/fmalertcookies/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.icstieri.gov.it/plugins/system/fmalertcookies/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#btcontentslider119 .bt_handles{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="http://www.icstieri.gov.it/modules/mod_bt_contentslider/tmpl/js/hammer.js" type="text/javascript"></script>
+	<script src="http://www.icstieri.gov.it/modules/mod_bt_contentslider/tmpl/js/slides.js" type="text/javascript"></script>
+	<script src="http://www.icstieri.gov.it/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+	<script src="http://www.icstieri.gov.it/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="http://www.icstieri.gov.it/templates/accessiblepro/jspro/flexslider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+/* <![CDATA[ */
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Chiudi','next':'Successivo','previous':'Precedente','cancel':'Annulla','numbers':'{$current} di {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","/index.php?option=com_ajax&format=json",true);r.send(null)}},840000);jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });jQuery(window).load(function() {
+  var flex_target = jQuery('.flexslider');
+  flex_target.flexslider({
+    animation: "fade",
+    slideshowSpeed: 3000,
+    animationSpeed: 600,
+    pauseOnHover: true,
+    slideshow: true, // autostart
+    pausePlay: true,
+    controlNav: true,
+    pauseOnHover: true,
+    pauseOnAction: true,
+    selector: ".slides > div",
+    start: function(slider) {
+        flex_target.removeClass('loader');
+        // In case of smoothHeight we need to call it twice!
+        // flex_target.flexslider('resize');
+        flex_target.flexslider('resize');
+        jQuery('body').on("skinchanged", function(){
+            flex_target.flexslider('resize');
+        });
+        if ( "fade" == 'slide'){
+            flex_target.find('.slide-caption, .slide-caption-desc').hide();
+            setTimeout(function(){
+                    flex_target.find('.slide-caption, .slide-caption-desc').fadeIn();
+                },
+                600
+            );
+        }
+    }
+  });
+});
+/* ]]> */
+
+	</script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+        <link href="http://www.icstieri.gov.it/templates/accessiblepro/css/BlueBeigeFlat_theme.min.css" rel="stylesheet" type="text/css" />
+                <link href="http://www.icstieri.gov.it/templates/accessiblepro/css/skin_black.min.css" type="text/css" rel="stylesheet" />
+        <link href="http://www.icstieri.gov.it/templates/accessiblepro/css/template_css.min.css" rel="stylesheet" type="text/css" />
+<link href="http://www.icstieri.gov.it/templates/accessiblepro/css/icomoon_valid.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+/* <![CDATA[ */
+    var skin_default = 'white';
+            var fs_default =  "80";
+        var fap_text_external_link = "Questo è un collegamento ad un sito esterno.";
+/* ]]> */
+</script>
+<style type="text/css">
+        body, button {
+        font-family: "Open Sans", sans-serif !important;
+    }
+        body.white {
+        background-color: #ffffff !important;
+    }
+    </style>
+<script type="text/javascript" src="http://www.icstieri.gov.it/templates/accessiblepro/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://www.icstieri.gov.it/templates/accessiblepro/js/fap.js"></script>
+<script type="text/javascript" src="http://www.icstieri.gov.it/templates/accessiblepro/js/breakpoints.js"></script>
+<script type="text/javascript" src="http://www.icstieri.gov.it/templates/accessiblepro/js/SlickNav-master/jquery.slicknav.min.js"></script>
+<script type="text/javascript" src="http://www.icstieri.gov.it/templates/accessiblepro/js/responsive.js"></script>
+            <link href="http://www.icstieri.gov.it/templates/accessiblepro/css/BlueBeige_responsive.min.css" type="text/css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700" />            <script type="text/javascript">
+            /* <![CDATA[ */
+            jQuery(function($){
+                //Check to see if the window is top if not then display button
+                $(window).scroll(function(){
+                    if ($(this).scrollTop() > 100) {
+                        $('.scroll-to-top').fadeIn();
+                    } else {
+                        $('.scroll-to-top').fadeOut();
+                    }
+                });
+                //Click event to scroll to top
+                $('.scroll-to-top').click(function(){
+                    $('html, body').animate({scrollTop : 0},800);
+                    return false;
+                });
+
+            });
+            /* ]]> */
+            </script>
+        </head>
+<body class="rounded white" id="main"><!--googleoff: all--><div class="cadre_alert_cookies" id="cadre_alert_cookies" style="opacity:1;text-align:center; margin:0px;"><div class="cadre_inner_alert_cookies" style="display: inline-block;width: 100%;margin:auto;max-width:100%;background-color: #ffffff;border: 0px solid #eeeeee;"><div class="cadre_inner_texte_alert_cookies" style="display: inline-block;padding:0px;color: #666666"><div class="cadre_texte "><p>Questo sito utilizza cookie che rientrano nella responsabilit&agrave; di terze parti. Cliccando qualunque elemento di questa pagina o proseguendo nella navigazione acconsenti all&rsquo;uso dei cookie.</p></div><div class="cadre_bouton "><div class=" col-md-6 col-sm-6 btn_close" style="margin:0;text-align:center"><button onclick="CloseCadreAlertCookie();" style="color:#eeeeee" class="btn btn-warning btn-small popup-modal-dismiss">Accetta</button></div><div class=" col-md-6 col-sm-6 btn_readmore" style="margin:0;text-align:center"><a style="color:#eeeeee" class="btn btn-inverse btn-mini read_more" href="/privacy-policy">Leggi</a></div></div></div></div></div><!--googleon: all--><script type="text/javascript">/*<![CDATA[*/var name = "fmalertcookies" + "=";var ca = document.cookie.split(";");var acceptCookie = false;for(var i=0; i<ca.length; i++) {var c = ca[i];while (c.charAt(0)==" ") c = c.substring(1);if (c.indexOf(name) == 0){ acceptCookie = true; document.getElementById("cadre_alert_cookies").style.display="none";}}var d = new Date();d.setTime(d.getTime() + (30*(24*60*60*1000)));var expires_cookie = "expires="+d.toUTCString();function CloseCadreAlertCookie(){document.getElementById('cadre_alert_cookies').style.display='none'; document.cookie='fmalertcookies=true; '+expires_cookie+'; path=/';}/*]]>*/</script>
+    <div class="menu-top-bg"></div>
+    <div id="wrapper" class="home  has-left-column has-right-column">
+        <div role="banner">
+            <div class="hidden">
+                <a id="up"></a>
+                <div>Istituto Comprensivo Tieri Corigliano Calabro)</div>
+                <!-- accesskeys here! -->
+                <ul>
+                    <li><a accesskey="P" href="#main-content">Vai ai Contenuti</a></li>
+                    <li><a accesskey="M" href="#main-menu">Vai alla Navigazione Principale e al Login</a></li>
+                </ul>
+            </div>
+                        <div id="top" class="clearfix">
+                <div class="padding">
+                <script type="text/javascript">
+/* <![CDATA[ */
+            document.write('<div id="accessibility-links" class="accessibility-im">');
+                document.write('<form method="post" action="">');
+                    document.write('<div class="has-icons">');
+                                                document.write('<span class="accessibility-icon"><button type="submit" name="fap_font_size" value="decrease" id="decrease" accesskey="D" onclick="fap_fs_change(-1); return false;" onkeypress="return fap_handle_keypress(event, function(){fs_change(-1);});" title="Diminuisci dimensioni carattere [D]"><em class=" icon_fap-zoom-out"></em><span>Diminuisci dimensioni carattere</span></button></span>');
+                        document.write('<span class="accessibility-icon"><button type="submit" name="fap_font_size" value="increase" id="increase" accesskey="A" onclick="fap_fs_change(1); return false;" onkeypress="return fap_handle_keypress(event, function(){fs_change(1);});" title="Aumenta dimensioni carattere [A]" ><em class=" icon_fap-zoom-in"></em><span>Aumenta dimensioni carattere</span></button></span>');
+                        document.write('<span class="accessibility-label">Alto contrasto</span>');
+                        document.write('<span class="accessibility-icon"><button type="submit" name="fap_skin" value="contrasthigh" id="contrasthigh" accesskey="X" onclick="fap_skin_change(\'swap\'); return false;" onkeypress="return fap_handle_keypress(event, function(){skin_change(\'swap\');});" title="Versione a contrasto elevato [X]"><em class=" icon_fap-contrast"></em><span>Versione a contrasto elevato</span></button></span>');
+                                                document.write('<span class="hidden-small accessibility-label">Layout</span>');
+                        document.write('<span class="hidden-small accessibility-icon"><button type="submit" name="fap_skin" value="liquid" id="layouttext" accesskey="L" onclick="fap_skin_set_variant(\'liquid\'); return false;" onkeypress="return fap_handle_keypress(event, function(){fap_skin_set_variant(\'liquid\');});" title="Imposta larghezza variabile [L]" ><em class=" icon_fap-embed"></em><span>Imposta larghezza variabile</span></button></span>');
+                                                document.write('<span class=" accessibility-label">Reimposta</span>');
+                        document.write('<span class=" accessibility-icon"><button type="submit" name="fap_skin" value="reset" id="reset" accesskey="Z" onclick="fap_skin_change(\'white\'); fap_skin_set_variant(\'\'); fap_fs_set(fs_default); return false;" onkeypress="return fap_handle_keypress(event, function(){skin_change(\'white\'); fap_skin_set_variant(\'\'); fap_fs_set(fs_default);});" title="Torna allo stile predefinito [Z]"><em class=" icon_fap-undo"></em><span>Torna allo stile predefinito</span></button></span>');
+                    document.write('</div>');
+                document.write('</form>');
+            document.write('</div>');
+            /* ]]> */
+</script>
+<noscript><h2>La funzione di incremento-decremento dei caratteri e di attivazione di alto contrasto necessita javascript. Il tuo browser non supporta javascript oppure javascript è stato disabilitato.</h2></noscript>
+
+                </div>
+            </div>
+                                                                        <div id="banner">
+                <div class="padding">
+                		<div class="moduletable mod_banners shadows rounded clearfix">
+					<div class="module-content">
+				
+<div class="ap-slideshow flexslider loader fade" id="ap-slideshow-89">
+    <div class="slides">
+                                            <div>
+                                                                                            <img
+                    src="http://www.icstieri.gov.it/images/banners/header.jpg"
+                    alt="banner1"
+                    title="banner1"
+                                                        />
+                                    </div>
+                    </div></div>
+			</div>
+		</div>
+	
+                </div>
+            </div>
+                                                <div id="menu-top" class="menu-top user3 clearfix">
+                                <div class="padding">
+                		<div class="moduletable mod_menu shadows rounded clearfix">
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-101 current active level-0"><a role="menuitem"  href="/" >Home</a></li><li role="presentation"  class="item-137 deeper parent level-0"><a role="menuitem"  href="#" >La scuola</a><ul role="menu" class="nav-child unstyled small level-1"><li  class="item-112 level-1"><a role="menuitem"  href="/la-scuola/la-storia" >Sedi</a></li><li  class="item-113 level-1"><a role="menuitem"  href="/la-scuola/organigramma" >Organigramma</a></li><li  class="item-118 level-1"><a role="menuitem"  href="/la-scuola/dirigenza" >Dirigente</a></li><li  class="item-143 level-1"><a role="menuitem"  href="/la-scuola/consiglio-d-istituto" >Consiglio d'Istituto</a></li><li  class="item-147 level-1"><a role="menuitem"  href="/la-scuola/personale-ata" >Personale ATA</a></li><li  class="item-270 level-1"><a role="menuitem"  href="/la-scuola/la-nostra-storia" >La Nostra Storia</a></li></ul></li><li role="presentation"  class="item-138 deeper parent level-0"><a role="menuitem"  href="#" >Segreteria</a><ul role="menu" class="nav-child unstyled small level-1"><li  class="item-226 level-1"><a role="menuitem"  href="/segreteria/la-segreteria" >La Segreteria</a></li><li  class="item-114 level-1"><a role="menuitem"  href="/segreteria/orario-uffici" >Orario Uffici</a></li><li  class="item-136 level-1"><a role="menuitem"  href="/segreteria/dove-siamo" >Dove Siamo</a></li><li  class="item-159 level-1"><a role="menuitem"  href="/segreteria/modulistica" >Modulistica</a></li><li  class="item-272 level-1"><a role="menuitem"  href="/segreteria/verifica-firma-digitale" >Verifica Firma Digitale</a></li></ul></li><li role="presentation"  class="item-207 deeper parent level-0"><a role="menuitem"  href="#" >Genitori</a><ul role="menu" class="nav-child unstyled small level-1"><li  class="item-218 level-1"><a role="menuitem"  href="/genitori/ricevimenti-settimanali" >Ricevimenti Settimanali</a></li><li  class="item-219 level-1"><a role="menuitem"  href="/genitori/incontri-scuola-famiglia" >Incontri Scuola Famiglia</a></li></ul></li><li  class="item-208 level-0"><a role="menuitem" href="/" >Alunni</a></li><li role="presentation"  class="item-244 deeper parent level-0"><a role="menuitem"  href="#" >Docenti</a><ul role="menu" class="nav-child unstyled small level-1"><li  class="item-245 level-1"><a role="menuitem"  href="/docenti/area-riservata" >Circolari Riservate</a></li></ul></li><li  class="item-217 level-0"><a role="menuitem"  href="/accesso-civico" >Accesso Civico</a></li><li  class="item-152 level-0"><a role="menuitem"  href="/contattaci" >Contattaci</a></li><li  class="item-227 level-0"><a role="menuitem"  href="http://www.icstieri.gov.it/old/" target="_blank" >Vecchio Sito</a></li></ul>
+</div>
+			</div>
+		</div>
+	
+                                
+                                </div>
+            </div>
+                                                <div class="bannerbottom clearfix">
+                <div class="padding">
+                <div id="btcontentslider119" style="display:none;width:auto" class="bt-cs">
+			<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:20%" >
+				<div class="bt-inner">
+								
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Infanzia" href="/14-indirizzi-di-studio/7-infanzia">
+						<img class="hovereffect" src="/images/scuola/indirizzi/infanzia.jpg" alt="Infanzia"  style="width:180px;" title="Infanzia" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:20%" >
+				<div class="bt-inner">
+								
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Primaria" href="/14-indirizzi-di-studio/6-primaria">
+						<img class="hovereffect" src="/images/scuola/indirizzi/primaria.jpg" alt="Primaria"  style="width:180px;" title="Primaria" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:20%" >
+				<div class="bt-inner">
+								
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Media" href="/14-indirizzi-di-studio/5-media">
+						<img class="hovereffect" src="/images/scuola/indirizzi/media.jpg" alt="Media"  style="width:180px;" title="Media" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:20%" >
+				<div class="bt-inner">
+								
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Indirizzo Musicale" href="/14-indirizzi-di-studio/3-servizi-per-l-enogastronomia-e-l-ospitalita-alberghiera">
+						<img class="hovereffect" src="/images/scuola/indirizzi/musica.jpg" alt="Indirizzo Musicale"  style="width:180px;" title="Indirizzo Musicale" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:20%" >
+				<div class="bt-inner">
+								
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Work In Progress" href="/14-indirizzi-di-studio/67-work-in-progress">
+						<img class="hovereffect" src="/images/scuola/indirizzi/work.jpg" alt="Work In Progress"  style="width:180px;" title="Work In Progress" />
+					</a>
+					</div>
+										
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(119);
+	btcModuleOpts.push({
+			slideEasing : 'easeInQuad',
+			fadeEasing : 'easeInQuad',
+			effect: 'fade,fade',
+			preloadImage: 'http://www.icstieri.gov.it//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 5000,						
+			hoverPause: true,	
+			slideSpeed : 500,
+			autoHeight:true,
+			fadeSpeed : 500,
+			equalHeight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:1	});
+</script>
+
+
+                </div>
+            </div>
+                    </div>                <div role="main" id="main-3" class="maincomponent">
+                                          <a id="main-content" class="hidden"></a>
+            <div class="padding">
+                <div id="system-message-container">
+	</div>
+
+                                <div class="item-page">
+    <h1>
+    I.C. Tieri Notizie    </h1>
+
+    <h2 class="item-title">
+            <a href="/14-indirizzi-di-studio/6-primaria">
+        Primaria</a>
+        </h2>
+
+		            
+	
+						<ul class="actions">
+											<li class="print-icon"> <a href="/14-indirizzi-di-studio/6-primaria?tmpl=component&amp;print=1&amp;page=" title="Stampa" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" onkeypress="return fap_handle_keypress(event, function(){window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;;})" rel="nofollow"><span class="icon-print"></span>&#160;<span class="hidden">Stampa</span></a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=accessiblepro&amp;link=133c4bc04a79cb5556953726dca6eed1ab2564da" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" onkeypress="return fap_handle_keypress(event, function(){window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;;})"><span class="icon-envelope"></span>&#160;<span class="hidden">Email</span></a> </li>
+														</ul>
+		
+	
+			
+
+
+
+
+
+
+    <dl class="article-info">
+    <dt class="article-info-term">Dettagli</dt>
+    <dd class="category-name">
+                Categoria: <a href="/14-indirizzi-di-studio">Indirizzi di Studio</a>        </dd>
+    <dd class="published">
+    Pubblicato: Venerdì, 23 Dicembre 2016 18:12    </dd>
+    </dl>
+
+
+
+<div class="article-body">
+<p>  <img src="/images/scuola/indirizzi/primaria-scuola.jpg" alt="primaria scuola" /></p>
+<table><tbody><tr><td>
+<h2><a href="/54-indirizzi-di-studio/primaria/primaria-attivita-2016-17">Attività e Progetti 2016/2017</a></h2>
+</td>
+<td>
+<h2><a href="/53-indirizzi-di-studio/primaria/primaria-notizie-2016-17">Notizie 2016/2017 </a></h2>
+</td>
+</tr></tbody></table><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_6"></div>
+
+</div></div>
+
+    
+</div>
+                                            </div>
+        </div>
+                        <div role="complementary">
+                        <div id="sidebar-left">
+                <div class="padding">
+                    <a id="main-menu" class="hidden"></a>
+                                        		<div class="moduletablenoshadows mod_custom rounded clearfix">
+					<div class="module-content">
+				
+
+<div class="customnoshadows"  >
+	<p><a href="http://trasparenza-pa.net/?codcli=sc25998" target="_blank" class="external-link"><img src="/images/scuola/amministrazionetrasparente.jpg" alt="" /></a></p>
+<p><a href="/tutti-gli-atti-in-corso"><img src="/images/scuola/albo.jpg" alt="" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable mod_menu shadows rounded clearfix">
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-160 level-0"><a role="menuitem"  href="/tutti-gli-atti-in-corso" >Tutti gli atti in corso</a></li><li  class="item-241 level-0"><a role="menuitem"  href="/archivio-atti" >Archivio atti</a></li><li  class="item-242 level-0"><a role="menuitem"  href="/categorie-albo" >Categorie Albo</a></li></ul>
+</div>
+			</div>
+		</div>
+			<div class="moduletable mod_menu shadows rounded clearfix">
+					<div class="module-title">Menù Principale</div>
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-309 level-0"><a role="menuitem"  href="/curricoli-d-istituto2" >Curricoli d'Istituto</a></li><li  class="item-103 level-0"><a role="menuitem"  href="/circolari" >Circolari</a></li><li  class="item-141 level-0"><a role="menuitem"  href="/offerta-formativa-p-t-o-f" >Offerta Formativa POF/PTOF</a></li><li  class="item-312 level-0"><a role="menuitem"  href="/valutazione-degli-apprendimenti" >Valutazione degli Apprendimenti</a></li><li  class="item-310 level-0"><a role="menuitem"  href="/bilancio-sociale" >Bilancio Sociale</a></li><li  class="item-188 level-0"><a role="menuitem"  href="/regolamenti" >Regolamenti</a></li><li  class="item-298 level-0"><a role="menuitem" href="/103-modulistica" >Modulistica</a></li><li  class="item-156 level-0"><a role="menuitem"  href="/codice-disciplinare" >Codice Disciplinare</a></li><li  class="item-161 level-0"><a role="menuitem"  href="/libri-di-testo" >Libri di testo</a></li><li  class="item-190 level-0"><a role="menuitem"  href="/inclusione" >Inclusione</a></li><li  class="item-225 level-0"><a role="menuitem"  href="/sicurezza-e-privacy" >Sicurezza</a></li><li  class="item-247 level-0"><a role="menuitem"  href="/privacy" >Privacy</a></li></ul>
+</div>
+			</div>
+		</div>
+			<div class="moduletable mod_menu shadows rounded clearfix">
+					<div class="module-title">PNSD</div>
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-148 level-0"><a role="menuitem"  href="/il-piano-nazionale" >Il Piano Nazionale</a></li><li  class="item-273 level-0"><a role="menuitem"  href="/piano-triennale-tieri" >Piano Triennale Tieri</a></li></ul>
+</div>
+			</div>
+		</div>
+			<div class="moduletable mod_custom shadows rounded clearfix">
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><a href="/2-scuola/39-erasmus-plus"><img src="/images/scuola/erasmusok.gif" alt="erasmusok" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable mod_menu shadows rounded clearfix">
+					<div class="module-title">PianoMiglioramento/RAV</div>
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-295 level-0"><a role="menuitem"  href="/sistema-valutazione-rav" >Sistema Valutazione RAV</a></li><li  class="item-296 level-0"><a role="menuitem"  href="/report-invalsi" >Report Invalsi</a></li><li  class="item-293 level-0"><a role="menuitem"  href="/report-livelli-apprendimento" >ReportLivelliApprendimento</a></li><li  class="item-300 level-0"><a role="menuitem"  href="/piano-di-miglioramento2" >Piano di Miglioramento</a></li><li  class="item-301 level-0"><a role="menuitem"  href="/monitoraggio-pdm" >Monitoraggio PDM</a></li><li  class="item-299 level-0"><a role="menuitem"  href="/customer-satisfaction" >Customer Satisfaction</a></li><li  class="item-302 level-0"><a role="menuitem"  href="/audit" >Audit</a></li></ul>
+</div>
+			</div>
+		</div>
+			<div class="moduletable mod_custom shadows rounded clearfix">
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><a href="https://www.facebook.com/IC-Tieri-Corigliano-Calabro-378216792560922/" target="_blank" class="external-link"><img src="/images/scuola/facebook.jpg" alt="facebook" /></a></p>
+<p>&nbsp;</p>
+<p><a href="/2-scuola/172-piano-per-la-formazione-dei-docenti"><img src="/images/scuola/piano.jpg" alt="piano" width="206" height="279" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable mod_custom shadows rounded clearfix">
+					<div class="module-title">Bullismo Cyberbullismo</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><a href="/107-cyberbullismo"><img src="/images/scuola/bullismo.PNG" alt="bullismo" width="193" height="102" /></a></p></div>
+			</div>
+		</div>
+	
+                                                                
+                                    </div>
+            </div>
+                            <div id="sidebar-right">
+                <div class="padding">
+                    		<div class="moduletable mod_search shadows rounded clearfix">
+					<div class="module-content">
+				<div class="search fap-search">
+	<form action="/" method="post" class="form-inline">
+		<div><label for="mod-search-searchword" class="element-invisible">cerca nel sito...</label> <input class="inputbox search-query form-control placeholder" id="mod-search-searchword" name="searchword" maxlength="200" type="text" size="11" value="cerca nel sito..."  onblur="if (this.value==''){ jQuery(this).addClass('placeholder'); this.value='cerca nel sito...';}" onfocus="if(this.value=='cerca nel sito...'){ jQuery(this).removeClass('placeholder'); this.value='';}" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();"><span class="icon-search"></span> Vai</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+        </div>
+	</form>
+</div>
+			</div>
+		</div>
+			<div class="moduletable mod_custom shadows rounded clearfix">
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><a href="https://play.google.com/store/apps/details?id=com.mobincube.scuola_tieri.sc_HF26P9&amp;hl=it" target="_blank" class="external-link"><img src="/images/scuola/app.jpg" alt="app" /></a></p>
+<p><a href="http://www.istruzione.it/pdgf/" class="external-link"><img src="/images/IMMAGINI/sofia.jpg" alt="" width="200" height="81" /></a></p>
+<p><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=310"><img src="/images/IMMAGINI/bonus.jpg" alt="" width="200" height="81" /></a></p>
+<p><a href="http://www.istruzione.it/iscrizionionline" rel="alternate" class="external-link"><img src="/images/scuola/iscrizioni.jpg" alt="" /></a></p>
+<p><a href="https://www.portaleargo.it/argoweb/scuolanext/common/login_form.jsp" target="_blank" class="external-link"><img src="/images/scuola/docenti.jpg" alt="docenti" width="199" height="65" /></a></p>
+<p><a href="http://www.sc25998.scuolanext.info/" target="_blank" class="external-link"><img src="/images/scuola/scuolanext.gif" alt="scuolanext" width="200" height="69" /></a><br /><a href="/2-scuola/57-sportello-di-ascoloto-e-sportello-dsa"><img src="/images/scuola/sportello1.jpg" alt="sportello1" width="200" height="71" /></a></p>
+<p><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/" rel="alternate" class="external-link"><img src="/images/scuola/scuola_in_chiaro.jpg" alt="" /></a></p>
+<p><a href="/pon-fers"><img src="/images/scuola/pon1420.jpg" alt="pon1420" width="200" height="80" /></a></p>
+<p>&nbsp;<a href="/106-por-calabria"><img src="/images/IMMAGINI/porcalabria.jpg" alt="" /></a></p>
+<p><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=327"><img src="/images/IMMAGINI/atelier3.png" alt="atelier3" width="200" height="52" /></a></p>
+<p><a href="http://www.edmodo.com" target="_blank" class="external-link"><img src="/images/scuola/edmodo2.png" alt="edmodo2" width="199" height="68" /></a></p>
+<p><a href="http://www.cambridgeenglish.org/it/exams/" target="_blank" class="external-link"><img src="/images/IMMAGINI/cam.jpg" alt="" /></a></p></div>
+			</div>
+		</div>
+			<div class="moduletable mod_custom shadows rounded clearfix">
+					<div class="module-title">Link Istituzionali</div>
+					<div class="module-content">
+				
+
+<div class="custom"  >
+	<p><a href="http://www.istruzione.it" target="_blank" class="external-link"><img src="/images/scuola/link/logo_miur.jpg" alt="logo miur" /></a></p>
+<p><a href="http://www.istruzione.calabria.it" target="_blank" class="external-link"><img src="/images/scuola/link/logo_usrcalabria.jpg" alt="logo usrcalabria" width="200" height="80" /></a></p>
+<p><a href="http://www.csa.cs.it" target="_blank" class="external-link"><img src="/images/scuola/link/logo_csacosenza.JPG" alt="logo csacosenza" /></a></p>
+<p><a href="http://www.invalsi.it" target="_blank" class="external-link"><img src="/images/scuola/link/logo_invalsi.jpeg" alt="logo invalsi" width="200" height="80" /></a></p>
+<p><a href="http://www.normattiva.it" target="_blank" class="external-link"><img src="/images/scuola/link/logo_normattiva.jpg" alt="logo normattiva" /></a></p>
+<p></p>
+<p><a href="http://www.istruzione.it/pagoinrete/" target="_blank" class="external-link"><img src="/images/scuola/pagoinrete.jpg" alt="pagoinrete" width="200" height="80" /></a></p></div>
+			</div>
+		</div>
+	
+                                        		<div class="moduletable mod_login shadows rounded clearfix">
+					<div class="module-title">Area Riservata</div>
+					<div class="module-content">
+				<form action="/" method="post" id="login-form" class="form-inline">
+        <div class="userdata">
+        <div id="form-login-username" class="control-group">
+            <div class="control-label">
+                                    <span class="icon-user hasTooltip" title="Nome utente"></span>
+                    <label for="modlgn-username">Nome utente</label>
+                            </div>
+            <div class="controls">
+                                        <input id="modlgn-username" type="text" name="username" class="input-small form-control" tabindex="0" size="18" title="Nome utente" />
+                            </div>
+        </div>
+        <div id="form-login-password" class="control-group">
+            <div class="control-label">
+                                    <span class="icon-lock hasTooltip" title="Password"></span>
+                    <label for="modlgn-passwd">Password</label>
+                            </div>
+            <div class="controls">
+                                    <input id="modlgn-passwd" type="password" name="password" class="input-small form-control" tabindex="0" size="18" title="Password" />
+                            </div>
+        </div>
+                        <div id="form-login-remember" class="control-group checkbox">
+            <div class="control-label">
+                <label for="modlgn-remember" class="control-label">Ricordami</label>
+                <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox form-control" value="yes"/>
+            </div>
+        </div>
+                <div id="form-login-submit" class="control-group clearfix">
+            <div class="controls fap-submit">
+                <button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Accedi</button>
+            </div>
+        </div>
+                    <ul class="unstyled">
+                            <li>
+                    <a href="/docenti/area-riservata?view=remind">
+                      Nome utente dimenticato? <span class="icon-arrow-right"></span></a>
+                </li>
+                <li>
+                    <a href="/docenti/area-riservata?view=reset">Password dimenticata? <span class="icon-arrow-right"></span></a>
+                </li>
+
+            </ul>
+        <input type="hidden" name="option" value="com_users" />
+        <input type="hidden" name="task" value="user.login" />
+        <input type="hidden" name="return" value="aHR0cDovL3d3dy5pY3N0aWVyaS5nb3YuaXQvYXR0YWNobWVudHMvYXJ0aWNsZS82NjAvMDYlMjAtJTIwZ2FyZTIwMTUueG1s" />
+        <input type="hidden" name="e402379d1ee7bf512879f47dd0130ae9" value="1" />    </div>
+    </form>
+			</div>
+		</div>
+	
+                                    </div>
+            </div>
+                    </div>                        <div id="footer">
+            <div class="padding">
+                                		<div class="moduletable mod_menu clearfix">
+					<div class="module-content">
+				<div role="navigation">
+<ul role="menubar"  class="nav menu">
+<li  class="item-111 level-0"><a role="menuitem"  href="/privacy-policy" >Privacy Policy</a></li><li  class="item-139 level-0"><a role="menuitem"  href="/obiettivi-di-accessibilita" >Obiettivi di accessibilita</a></li><li  class="item-140 level-0"><a role="menuitem"  href="/contatti" >Contatti</a></li><li  class="item-271 level-0"><a role="menuitem"  href="/note-legali" >Note Legali</a></li></ul>
+</div>
+			</div>
+		</div>
+			<div class="moduletable mod_shinystat_medeot clearfix">
+					<div class="module-content">
+				<div class="shinystat">
+
+
+<div  style="text-align: center;" >
+
+<!-- Inizio Codice Shinystat Freeware -->
+<script type="text/javascript" src="http://codice.shinystat.com/cgi-bin/getcod.cgi?USER=icstieri"> </script>
+<noscript>
+<a href="http://www.shinystat.com/" target="_top" class="external-link">
+<img src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=icstieri" alt="Statistiche sito"></a>
+</noscript>
+<!-- Fine Codice Shinystat Freeware -->
+
+
+</div>
+
+</div>
+			</div>
+		</div>
+	
+                            </div>
+
+        </div>
+                <a href="#" class="scroll-to-top button btn" style="display:none">Torna su&nbsp;<em class="icon-uparrow"></em></a>
+                    </div>
+    
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Trodena n.p.n.</abstract>
+   <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Trodena n.p.n.</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21102/21102indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_A4218F9E-A8B2-4668-B46D-C7838C8F4DE5'>
+      <linkDataset>http://data.gvcc.net/avcp/21102/A4218F9E-A8B2-4668-B46D-C7838C8F4DE5.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_9457D703-409E-47E3-A067-3B08939DBEAF'>
+      <linkDataset>http://data.gvcc.net/avcp/21102/9457D703-409E-47E3-A067-3B08939DBEAF.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

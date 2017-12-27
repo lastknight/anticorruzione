@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde - Comune</abstract>
+   <dataPubblicazioneIndice>2016-01-22</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde - Comune</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-22</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21042/21042indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_D4085686-E70B-4F42-87E8-ED3CF98CA02C'>
+      <linkDataset>http://data.gvcc.net/avcp/21042/D4085686-E70B-4F42-87E8-ED3CF98CA02C.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-22</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_70E65EF7-8150-49D4-ADC5-292EE0214CDF'>
+      <linkDataset>http://data.gvcc.net/avcp/21042/70E65EF7-8150-49D4-ADC5-292EE0214CDF.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_3706CF10-1006-4A23-B27D-55C24AFD7917'>
+      <linkDataset>http://data.gvcc.net/avcp/21042/3706CF10-1006-4A23-B27D-55C24AFD7917.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-21</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

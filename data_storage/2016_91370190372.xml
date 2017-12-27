@@ -1,0 +1,1077 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" version="XHTML+RDFa 1.0" dir="ltr"
+  >
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Feed prima pagina" href="http://www.liceoarcangeli.gov.it/drupal/rss.xml" />
+<meta name="robots" content="index,follow" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Liceo Arcangeli  -  Benvenuti." />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Inizio requisiti Linee Guida Direttiva 8/2009 -->
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dc.language" content="it" />
+<meta name="dc.subject" content="servizi scolastici" />
+<meta name="dc.format" content="text/html" />
+<!-- Fine requisiti Linee Guida Direttiva 8/2009 -->  
+  <title>Liceo Arcangeli</title>
+  <style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/system/system.menus.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/system/system.messages.css?p0lpln");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?p0lpln");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/aggregator/aggregator.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/book/book.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/calendar_tooltips/calendar_tooltips.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/comment/comment.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/date/date_api/date.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/field/theme/field.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/node/node.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/search/search.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/modules/user/user.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/views/css/views.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/ckeditor/css/ckeditor.css?p0lpln");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/supporto_istanze-1.4/stylesheet.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/colorbox/styles/default/colorbox_style.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/ctools/css/ctools.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/dhtml_menu/dhtml_menu.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/default/files/css/menu_icons.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/panels/css/panels.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/panels/plugins/layouts/flexible/flexible.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/flexslider/assets/css/flexslider_img.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/flexslider/flexslider.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/quicktabs/css/quicktabs.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/default/files/ctools/css/2cf43577641502cd7fd969df63de9089.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/default/files/ctools/css/b5404dc87ecd6d117da9c88dbb63a372.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/date/date_views/css/date_views.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/panels/plugins/layouts/onecol/onecol.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/responsive_menus/styles/meanMenu/meanmenu.min.css?p0lpln");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/ie/ie-lte-7.css?p0lpln" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/css/superfish.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/style/white.css?p0lpln");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/genesis/css/layout.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/genesis/css/admin-styles.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-core/system.base.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-core/system.theme.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-core/jquery.ui.core.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/quicktabs/quicktabs_tabstyles/tabstyles/excel/excel.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/colorbox_default_style.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/calendar_multiday.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/tagclouds.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css-moduli-agg/node_embed/plugins/node_embed/node_embed.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/html-elements.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/page.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/fields.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/nodes.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/blocks.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/comments.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/navigation.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/views-styles.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/css/custom.css?p0lpln");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/eucookielaw/eucookielaw.css?p0lpln");
+@import url("http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/eu_cookie_law/eu_cookie_law.css?p0lpln");
+</style>
+  <script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/eucookielaw/EUCookieLaw.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/eu_cookie_law/eu_cookie_law_util.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/misc/drupal.js?p0lpln"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+new EUCookieLaw({
+  message:  " La legislazione europea in materia di privacy e protezione dei dati personali richiede il tuo consenso per l\u0027uso dei cookie. Acconsenti?\u003Cbr \/\u003E\u003Ca href=\u0022http:\/\/www.liceoarcangeli.gov.it\/drupal\/note-legali\/cookie-policy\u0022\u003EPer ulteriori\r\ninformazioni visualizza la Cookie Policy\u003C\/a\u003E" ,
+  showBanner: 1,
+  bannerTitle: "Autorizzazione all’uso dei cookie",
+  tag: "h1",
+  agreeLabel: "SI, acconsento",
+  disagreeLabel: "NO, non acconsento",
+  fixOn: "bottom",
+  reload: 1,
+  agreeOnScroll: 0,
+  agreeOnClick: 0,
+  duration: 0,
+  path: "/drupal/",
+  remember: 1,
+  cookieList: ["context_breakpoints"],
+  classes: "pietro",
+    });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/eu_cookie_law/js.cookie.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/beautytips/js/jquery.bt.min.js?v=0.9.5-rc1"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/beautytips/js/beautytips.min.js?v=7.x-2.x"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/beautytips/other_libs/excanvas_r3/excanvas.compiled.js?v=r3"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/misc/form.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/misc/ajax.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/misc/progress.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/languages/it_dptjdqCciuGiYutOph4GklBqBtGVXOdf-4bUmR_kl8Y.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/colorbox/jquery.colorbox-min.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/colorbox/js/colorbox.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/colorbox/styles/default/colorbox_style.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/dhtml_menu/dhtml_menu.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/flexslider/jquery.flexslider-min.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/quicktabs/js/quicktabs.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/views/js/base.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/views/js/ajax_view.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/quicktabs/js/qt_accordion.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/responsive_menus/styles/meanMenu/jquery.meanmenu.min.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/responsive_menus/styles/meanMenu/responsive_menus_mean_menu.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/misc/collapse.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/sftouchscreen.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/sfsmallscreen.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/supposition.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/superfish.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/libraries/superfish/supersubs.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/superfish/superfish.js?p0lpln"></script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/themes/PASW_SUBTHEME_responsive/myquicktabs.js?p0lpln"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/drupal\/","pathPrefix":"","ajaxPageState":{"theme":"PASW_SUBTHEME_responsive","theme_token":"ariolpTWy9KF9cZ3KpZ-zgL6QCzJCioDHYWrfITwpeU","jquery_version":"1.7","js":{"0":1,"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/libraries\/eucookielaw\/EUCookieLaw.js":1,"sites\/all\/modules\/eu_cookie_law\/eu_cookie_law_util.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"1":1,"sites\/all\/modules\/eu_cookie_law\/js.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/beautytips\/js\/jquery.bt.min.js":1,"sites\/all\/modules\/beautytips\/js\/beautytips.min.js":1,"sites\/all\/modules\/beautytips\/other_libs\/excanvas_r3\/excanvas.compiled.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"misc\/progress.js":1,"public:\/\/languages\/it_dptjdqCciuGiYutOph4GklBqBtGVXOdf-4bUmR_kl8Y.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/quicktabs\/js\/qt_accordion.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"misc\/collapse.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/myquicktabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/calendar_tooltips\/calendar_tooltips.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/acknowledgements\/stylesheet.css":1,"sites\/all\/modules\/supporto_istanze-1.4\/stylesheet.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"public:\/\/css\/menu_icons.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/excel\/excel.css":1,"public:\/\/ctools\/css\/2cf43577641502cd7fd969df63de9089.css":1,"public:\/\/ctools\/css\/b5404dc87ecd6d117da9c88dbb63a372.css":1,"sites\/all\/modules\/date\/date_views\/css\/date_views.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/ie\/ie-lte-7.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/white.css":1,"sites\/all\/themes\/genesis\/css\/layout.css":1,"sites\/all\/themes\/genesis\/css\/admin-styles.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-core\/system.base.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-core\/system.theme.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-core\/jquery.ui.core.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/jquery_update\/replace\/ui\/themes\/base\/minified\/jquery.ui.theme.min.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/jquery_update\/replace\/ui\/themes\/base\/minified\/jquery.ui.dialog.min.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/quicktabs\/quicktabs_tabstyles\/tabstyles\/excel\/excel.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/colorbox_default_style.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/calendar_multiday.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/tagclouds.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/html-elements.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/page.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/fields.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/nodes.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/blocks.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/comments.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/navigation.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/views-styles.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/custom.css":1,"sites\/all\/libraries\/eucookielaw\/eucookielaw.css":1,"sites\/all\/modules\/eu_cookie_law\/eu_cookie_law.css":1}},"colorbox":{"transition":"none","speed":"550","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"300","initialHeight":"100","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":""},"filter":{"type":"whitelist","list":{"menu-amministrazione-trasparente":"menu-amministrazione-trasparente","menu-didattica":"menu-didattica","menu-indirizzi-di-studio":"menu-indirizzi-di-studio","navigation":"navigation","main-menu":0,"management":0,"menu-albo":0,"menu-comunicazioni":0,"menu-flexslider-example":0,"menu-in-evidenza":0,"menu-men-di-amministrazione":0,"menu-men-utenti-regitrati":0,"menu-menu-icone":0,"menu-note-legali":0,"menu-persone":0,"menu-servizio":0,"menu-studenti":0,"menu-utilit-":0,"shortcut-set-1":0,"user-menu":0}}},"flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":false,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":7000,"directionNav":true,"controlNav":true,"prevText":"Precedente","nextText":"Seguente","pausePlay":false,"pauseText":"Pausa","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default"}},"ajax":{"quicktabs-tab-home_tabs-0":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/drupal\/quicktabs\/ajax\/home_tabs\/0\/node\/1\/full\/1"}},"urlIsAjaxTrusted":{"\/drupal\/quicktabs\/ajax\/home_tabs\/0\/node\/1\/full\/1":true,"\/drupal\/views\/ajax":true,"\/drupal\/":true},"quicktabs":{"qt_home_tabs":{"name":"home_tabs","tabs":[{"nid":"1","view_mode":"full","hide_title":1}],"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":""},"filter":{"type":"whitelist","list":{"menu-amministrazione-trasparente":"menu-amministrazione-trasparente","menu-didattica":"menu-didattica","menu-indirizzi-di-studio":"menu-indirizzi-di-studio","navigation":"navigation","main-menu":0,"management":0,"menu-albo":0,"menu-comunicazioni":0,"menu-flexslider-example":0,"menu-in-evidenza":0,"menu-men-di-amministrazione":0,"menu-men-utenti-regitrati":0,"menu-menu-icone":0,"menu-note-legali":0,"menu-persone":0,"menu-servizio":0,"menu-studenti":0,"menu-utilit-":0,"shortcut-set-1":0,"user-menu":0}}}},"qt_page_tabs":{"name":"page_tabs","active_tab":999999,"options":{"autoHeight":1,"collapsible":1},"history":0}},"views":{"ajax_path":"\/drupal\/views\/ajax","ajaxViews":{"views_dom_id:c40f6b7bf5eca8d27e7ceef4a1a92e30":{"view_name":"frontpage","view_display_id":"default","view_args":"","view_path":"homepage","view_base_path":"frontpage","view_dom_id":"c40f6b7bf5eca8d27e7ceef4a1a92e30","pager_element":0}}},"responsive_menus":[{"selectors":".main-menu-inner","container":"#main-menu-wrapper","trigger_txt":"\u003Cspan \/\u003E\u003Cspan \/\u003E\u003Cspan \/\u003E","close_txt":"X","close_size":"18px","position":"right","media_size":"640","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"beautytips":{"calendar-tooltips":{"positions":["top","bottom"],"fill":"#FFF","padding":15,"strokeStyle":"#ABABAB","strokeWidth":1,"spikeLength":65,"spikeGirth":40,"cornerRadius":25,"centerPointX":0,"cssStyles":[],"cssSelect":".calendar-calendar .mini-day-on a, .calendar-calendar .day a, .calendar-calendar .mini-day-on span, .calendar-calendar .day span","contentSelector":"$(this).next().html()","trigger":["mouseover","mouseout"],"list":["positions","fill","padding","strokeStyle","strokeWidth","spikeLength","spikeGirth","cornerRadius","centerPointX","cssStyles","contentSelector","trigger"]}},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"slow","dropShadows":false},"plugins":{"touchscreen":{"behaviour":"0","mode":"always_active"},"smallscreen":{"mode":"window_width","breakpointUnit":"px","type":"select","title":"Menu principale"},"supposition":true,"supersubs":{"minWidth":"14"}}}}});
+//--><!]]>
+</script>
+  <link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/PASW_SUBTHEME_responsive/print.css" /> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96202544-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--[if lte IE 6]> 
+<link rel="stylesheet" href="sites/all/themes/PASW_genesis_SUBTHEME/css/ie/ie-lte-6.css" type="text/css" />
+ <![endif]-->
+</head>
+<body id="genesis-1c" >		<div class="eucookielaw-banner fixedon-bottom" id="eucookielaw-in-html">
+			<div class="well">
+				<h1 class="banner-title">Autorizzazione all’uso dei cookie <!-- EUCOOKIELAW_BANNER_LANGUAGES --></h1>
+				<div class="banner-message"> La legislazione europea in materia di privacy e protezione dei dati personali richiede il tuo consenso per l'uso dei cookie. Acconsenti?<br /><a href="http://www.liceoarcangeli.gov.it/drupal/note-legali/cookie-policy">Per ulteriori
+informazioni visualizza la Cookie Policy</a></div>
+				
+				<p class="banner-agreement-buttons text-right">
+					<a href="?__eucookielaw=disagree" class="disagree-button btn btn-danger" onclick="(new EUCookieLaw()).reject(); return false;">NO, non acconsento</a>
+					<a href="?__eucookielaw=agree" class="agree-button btn btn-primary" onclick="(new EUCookieLaw()).enableCookies(); return false;">SI, acconsento</a>
+				</p>
+			</div>
+		</div>
+
+      <div id="skip-link">
+      <a href="#main-content">Salta al contenuto principale</a>
+    </div>
+  
+    <div id="container" class="html front not-logged-in two-sidebars page-homepage">
+      
+          <div id="leaderboard" class="clearfix">
+          <div class="region region-leaderboard">
+    <div id="block-menu-menu-servizio" class="block block-menu block-odd block-leaderboard block-count-1">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <ul class="menu"><li class="first leaf"><a href="/drupal/user" title="Accesso ad area riservata">Accesso utente</a></li>
+<li class="leaf"><a href="/drupal/elenco-siti-tematici" title="">Elenco siti tematici</a></li>
+<li class="leaf"><a href="/drupal/sitemap" title="">Mappa del sito</a></li>
+<li class="last leaf"><a href="/drupal/contact" title="">Contatti</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+      </div>
+    
+    
+    <div id="header" class="clearfix">
+
+              <div id="branding">
+
+                                    <h1 class="logo-site-name">
+                <span id="logo"><a href="/drupal/" title="Home page" rel="home"><img src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/isart_intestazione_definitiva.jpg" alt=" logo" /></a></span>                             </h1>
+                      <!--<div id="indirizzo"> -   | Tel.  - Fax <br/>E-mail <a href="mailto:"></a> - PEC <a href="mailto:"></a></div>-->
+          
+        </div> <!-- /branding -->
+      
+              <div id="header-blocks">  <div class="region region-header">
+    <div id="block-search-form" class="block block-search block-odd block-header block-count-2">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <form action="/drupal/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Form di ricerca</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Cerca </label>
+ <input title="Inserisci i termini da cercare." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Cerca" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-c0BBXLOa5zFd4wFU4pOTvbw2oKq2Ce82mQ6QjkSR_wE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+      
+    </div> <!-- /header -->
+
+           <!--<div id="main-menu-wrapper" class="clearfix">-->
+        <!--<div class="main-menu-inner">--><!--</div>
+      </div>-->
+      
+    
+			<div id="main-menu-wrapper" class="clearfix">
+			<div class="main-menu-inner"><ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-white sf-total-items-5 sf-parent-items-3 sf-single-items-2"><li id="menu-246-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/drupal/" class="sf-depth-1 active">Home</a></li><li id="menu-9545-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/drupal/menu-principale/la-scuola" title="" class="sf-depth-1 menuparent">La scuola</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><ol><li id="menu-9547-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/l-istituto" class="sf-depth-2">L&#039;istituto</a></li><li id="menu-9549-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/dove-siamo" title="Mappa del luogo e come raggiungercerci" class="sf-depth-2">Dove siamo - Come raggiungerci</a></li><li id="menu-9548-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/dirigenza" class="sf-depth-2">Dirigenza</a></li><li id="menu-9551-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-8 sf-parent-children-0 sf-single-children-8 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/drupal/menu-principale/organigramma" class="sf-depth-2 menuparent">Organigramma</a><ol><li id="menu-9558-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/dirigente-scolastico-e-componenti-lo-staff-di-direzione" title="Dirigente Scolastico e componenti lo staff di dirigenza" class="sf-depth-3">Staff di dirigenza</a></li><li id="menu-9559-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/funzioni-strumentali" title="Funzioni strumentali al Piano dell&#039;Offerta Formativa" class="sf-depth-3">Funzioni strumentali</a></li><li id="menu-9560-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/commissioni" title="Commissioni anno scolastico in corso" class="sf-depth-3">Commissioni</a></li><li id="menu-9561-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/docenti" title="Docenti anno scolastico in Corso" class="sf-depth-3">Docenti</a></li><li id="menu-16106-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/coordinatori-di-indirizzo" class="sf-depth-3">Coordinatori di indirizzo</a></li><li id="menu-16107-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/responsabili-di-laboratori-e-aule-didattiche" class="sf-depth-3">Responsabili di laboratori e aule didattiche</a></li><li id="menu-16105-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/coordinatori-di-materia" class="sf-depth-3">Coordinatori di materia</a></li><li id="menu-9562-1" class="last even sf-item-8 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/personale-amministrativo-tecnico-e-ausiliario" title="Personale amministrativo,tecnico e ausiliario" class="sf-depth-3">Personale ATA</a></li></ol></div></li><li id="menu-9552-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/drupal/menu-principale/organi-collegiali" class="sf-depth-2 menuparent">Organi collegiali</a><ol><li id="menu-9567-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/consiglio-di-istituto-2015-2018" class="sf-depth-3">Consiglio di Istituto</a></li><li id="menu-17542-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/drupal/taxonomy/term/52/53" title="" class="sf-depth-3">Consiglio d&#039;istituto - delibere </a></li><li id="menu-9563-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/giunta-esecutiva" class="sf-depth-3">Giunta esecutiva</a></li><li id="menu-9564-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/collegio-docenti" class="sf-depth-3">Collegio docenti</a></li><li id="menu-9565-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/consigli-di-classe" class="sf-depth-3">Consigli di classe</a></li><li id="menu-9556-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/carta-dei-servizi" title="" class="sf-depth-3">Carta dei servizi</a></li><li id="menu-9557-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/regolamenti-codici-di-comportamento" class="sf-depth-3">Regolamenti - Codici di comportamento</a></li></ol></div></li></ol></li></ul></li><li id="menu-10063-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/drupal/menu-principale/offerta-formativa" class="sf-depth-1 menuparent">Offerta formativa</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle odd sf-item-3 sf-depth-1 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><ol><li id="menu-15502-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/s-1718-aggiornamento-ptof-1619e-allegati-annuali" title="" class="sf-depth-2">A.S. 17/18 Aggiornamento PTOF 16/19 e Allegati Annuali</a></li><li id="menu-12098-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/drupal/menu-principale/ptof-201619" class="sf-depth-2 menuparent">PTOF 2016/2019</a><ol><li id="menu-14314-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/drupal/menu-principale/programmazioni-comuni-2017-18" class="sf-depth-3">Programmazioni comuni 1718</a></li></ol></div></li><li id="menu-10160-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/drupal/patto-di-corresponsabilita-educativa" title="" class="sf-depth-2">Patto di corresponsabilità educativa</a></li><li id="menu-15503-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/drupal/pai" title="" class="sf-depth-2">PAI</a></li><li id="menu-9664-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/progetti-0" title="Progetti anno scolastico in corso" class="sf-depth-2">Progetti</a></li></ol></li></ul></li><li id="menu-9568-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/drupal/menu-principale/segreteria-urp" title="" class="sf-depth-1 menuparent">Segreteria - URP</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><ol><li id="menu-9569-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/orari-di-apertura" class="sf-depth-2">Orari di apertura</a></li><li id="menu-9572-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/drupal/modulistica-pubblica" title="" class="sf-depth-2">Modulistica</a></li><li id="menu-9573-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/drupal/menu-principale/iban-e-pagamenti-informatici" class="sf-depth-2">IBAN e pagamenti informatici</a></li></ol></li></ul></li><li id="menu-13601-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="http://www.liceoarcangeli.gov.it/utenti/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=101&amp;lang=it" title="" class="sf-depth-1">Area Riservata Docenti</a></li></ul></div>
+		</div>
+ 
+  
+
+      <div id="secondary-content">
+        <div class="region region-secondary-content">
+    <div id="block-menu-menu-persone" class="block block-menu block-odd block-secondary-content block-count-3">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <ul class="menu"><li class="first leaf"><a href="/drupal/personale_ata" title="Comunicazioni anno scolastico in corso">Personale ATA</a></li>
+<li class="leaf"><a href="/drupal/docenti" title="Comunicazioni anno scolastico in corso">Docenti</a></li>
+<li class="leaf"><a href="/drupal/genitori" title="">Genitori</a></li>
+<li class="last leaf"><a href="/drupal/studenti" title="Area Studenti">Studenti</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+    </div>
+  
+  <div id="columns" class="clear clearfix">
+    <div id="content-column">
+      <div class="content-inner">
+          
+        <div id="main-content">
+          <div style="margin-top:-15px;"></div>
+                              
+                      <div class="local-tasks"></div>
+          
+          
+          <div id="content">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-content block-count-4">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <div class="panel-flexible panels-flexible-4 clearfix" >
+<div class="panel-flexible-inside panels-flexible-4-inside">
+<div class="panels-flexible-region panels-flexible-region-4-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-4-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-quicktabs-home-tabs"  >
+  
+      
+  
+  <div class="pane-content">
+    <div  id="quicktabs-home_tabs" class="quicktabs-wrapper quicktabs-style-excel"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-excel"><li class="active first last"><a href="/drupal/homepage?qt-home_tabs=0#qt-home_tabs" id="quicktabs-tab-home_tabs-0" class="quicktabs-tab quicktabs-tab-node quicktabs-tab-node-1 active">Benvenuti</a></li>
+</ul></div><div id="quicktabs-container-home_tabs" class="quicktabs_main quicktabs-style-excel"><div  id="quicktabs-tabpage-home_tabs-0" class="quicktabs-tabpage "><div id="node-1" class="node node-page">
+  <div class="node-inner clearfix">
+
+            
+    
+
+    <div class="node-content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-item even"><div class="flexhome"><div class="view view-flexslider-views-example view-id-flexslider_views_example view-display-id-default view-dom-id-88128d7333a2c9a281a01c985abd8cfa">
+        
+  
+  
+      <div class="view-content">
+      <div  id="flexslider-1" class="flexslider optionset-default">
+  <ul class="slides"><li>  
+          <img src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/styles/flexslider_full/public/hb_definitivoooo-01.jpg?itok=oGhE1iCM" width="800" height="500" alt="" />  </li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+<h2> </h2>
+<h2><span style="color:#000000;">Dirigenza e Amministrazione</span></h2>
+<ul><li><span style="color:#000000;">Via Marchetti,22 - 40137 Bologna (BO)</span></li>
+<li><span style="color:#000000;">Tel. +39 051 4453612-1</span></li>
+<li><span style="color:#000000;">Fax +39 051 4453658 </span></li>
+<li><span style="color:#000000;">Posta elettronica: <a href="mailto:BOSL02000A@istruzione.it">BOSL02000A@istruzione.it</a>    </span></li>
+<li><span style="color:#000000;"><acronym title="Posta Elettronica Certificata">PEC</acronym>: <a href="mailto:BOSL02000A@pec.istruzione.it">BOSL02000A@pec.istruzione.it</a></span></li>
+<li><span style="color:#000000;">Cod. Mecc. MIUR BOSL02000A</span></li>
+<li><span style="color:#000000;">Codice Fiscale: 91370190372</span></li>
+<li><span style="color:#000000;">Codice univoco: UF295N</span></li>
+</ul></div>
+  </div>
+    </div>
+
+          <div class="node-links">
+              </div>
+        
+    
+  </div>
+</div>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-35"  >
+  
+        <h2 class="pane-title">
+      Open Day     </h2>
+    
+  
+  <div class="pane-content">
+    <p><img alt="" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/opendaylogo-300x288.png" style="float: left; width: 52px; height: 50px; margin-left: 10px; margin-right: 10px;" />13 gennaio  2018<br />
+dalle ore 14.30 alle 18.30</p>
+<p>Le presentazioni, quattro per ogni giornata, avranno luogo alle ore:   14.45  15.30  16.15  17.00</p>
+<p> </p>
+<hr /><p> </p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-36"  >
+  
+        <h2 class="pane-title">
+      Messaggio augurale della dirigente scolastica    </h2>
+    
+  
+  <div class="pane-content">
+    <p>L’avvicinarsi delle Festività natalizie è stato salutato, pochi giorni fa, dal bel concerto del nostro Coro scolastico, che si è esibito presso la sede di via Cartoleria suscitando in tutti i presenti una forte emozione e coinvolgendo in una dimensione partecipata e profondamente sentita giovani studenti, genitori, docenti e  personale della scuola .                           <a href="http://www.liceoarcangeli.gov.it/drupal/messaggio-augurale-della-dirigente-scolastica" target="_blank">continua</a></p>
+<p><!--break--></p>
+<p> </p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-quicktabs-page-tabs"  >
+  
+      
+  
+  <div class="pane-content">
+    <div  id="quickset-page_tabs" class="quick-accordion"><h3><a href= "#quickset-page_tabs_0">Ultime Comunicazioni</a></h3><div><div class="view view-frontpage view-id-frontpage view-display-id-default view-dom-id-c40f6b7bf5eca8d27e7ceef4a1a92e30">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/drupal/circolari/pubblicazione-regolamenti">pubblicazione regolamenti</a></span>  </h2>  
+  <div class="views-field views-field-type">        <span class="field-content">23/12/2017 - Circolari </span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong>Pubblicazione regolamenti</strong></p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/drupal/circolari/pubblicazione-regolamenti">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/drupal/atto/2017000048-bando-esperto-restauro-graduatoria-provvisoria">Bando Esperto in Restauro–Graduatoria Provvisoria</a></span>  </h2>  
+  <div class="views-field views-field-type">        <span class="field-content">22/12/2017 - Atto </span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/drupal/atto/2017000048-bando-esperto-restauro-graduatoria-provvisoria">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/drupal/atto/2017000047-bando-fotografo-graduatoria-provvisoria">Bando Fotografo–Graduatoria Provvisoria</a></span>  </h2>  
+  <div class="views-field views-field-type">        <span class="field-content">22/12/2017 - Atto </span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/drupal/atto/2017000047-bando-fotografo-graduatoria-provvisoria">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/drupal/circolari/scrutini-1-trimestre">Scrutini 1 Trimestre</a></span>  </h2>  
+  <div class="views-field views-field-type">        <span class="field-content">22/12/2017 - Circolari </span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Scrutini 1 trimestre - istruzioni caricamento voti</p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/drupal/circolari/scrutini-1-trimestre">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/drupal/circolari/comparto-scuola-saese-sindacato-autonomo-europeo-scuola-ed-ecologia-sciopero-generale-il-0">Comparto Scuola. SAESE (Sindacato Autonomo Europeo Scuola ed Ecologia). Sciopero  generale  per il 08 Gennaio 2018</a></span>  </h2>  
+  <div class="views-field views-field-type">        <span class="field-content">22/12/2017 - Circolari </span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Sciopero del 8/1/2018</p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/drupal/circolari/comparto-scuola-saese-sindacato-autonomo-europeo-scuola-ed-ecologia-sciopero-generale-il-0">Leggi tutto ...</a></span>  </div>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pagine</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Vai a pagina 2" href="/drupal/homepage?page=1">2</a></li>
+<li class="pager-item"><a title="Vai a pagina 3" href="/drupal/homepage?page=2">3</a></li>
+<li class="pager-item"><a title="Vai a pagina 4" href="/drupal/homepage?page=3">4</a></li>
+<li class="pager-item"><a title="Vai a pagina 5" href="/drupal/homepage?page=4">5</a></li>
+<li class="pager-item"><a title="Vai a pagina 6" href="/drupal/homepage?page=5">6</a></li>
+<li class="pager-item"><a title="Vai a pagina 7" href="/drupal/homepage?page=6">7</a></li>
+<li class="pager-item"><a title="Vai a pagina 8" href="/drupal/homepage?page=7">8</a></li>
+<li class="pager-item"><a title="Vai a pagina 9" href="/drupal/homepage?page=8">9</a></li>
+<li class="pager-next"><a title="Vai alla pagina successiva" href="/drupal/homepage?page=1">seguente ›</a></li>
+<li class="pager-last last"><a title="Vai all&#039;ultima pagina" href="/drupal/homepage?page=9">ultima »</a></li>
+</ul></div>  
+  
+  
+  
+      <div class="feed-icon">
+      <a href="http://www.liceoarcangeli.gov.it/drupal/rss.xml" class="feed-icon" title="Abbonamento a Feed prima pagina"><img src="http://www.liceoarcangeli.gov.it/drupal/misc/feed.png" width="16" height="16" alt="Abbonamento a Feed prima pagina" /></a>    </div>
+  
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-17 pane-plain-box-temporary-da1953f264ba52569bd2920d31a6a2d1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="digita inline-block-center">
+<div>
+<h4><strong>BIBLIOTECA</strong></h4>
+<p><a href="mailto:biblioteca@liceoarcangeli.gov.it">biblioteca@liceoarcangeli.gov.it</a><br />
+Tel. 051 4453611-4453657<br /><strong>Catalogo libri online:</strong><br /><a href="http://www.winiride.it/dbbologna1/">www.winiride.it/dbbologna1/</a></p>
+<p><span style="font-size:14px;"><strong><a href="http://www.liceoarcangeli.gov.it/drupal/regolamento" target="_blank">Regolamento</a></strong></span></p>
+<p> </p>
+</div>
+<div>
+<p>     <a href="http://www.liceoarcangeli.gov.it/drupal/orario-di-apertura-biblioteca" target="_blank">ORARI</a><br />
+     <a href="http://www.liceoarcangeli.gov.it/drupal/cataloghi" target="_blank">CATALOGHI</a><br />
+     <a href="http://www.liceoarcangeli.gov.it/drupal/servizi-e-attivita" target="_blank">SERVIZI e ATTIVITA</a>'<br />
+     <a href="http://www.liceoarcangeli.gov.it/drupal/risorse" target="_blank">RISORSE</a><br />
+     <a href="http://www.liceoarcangeli.gov.it/drupal/gruppo-di-lettura-0" target="_blank">GRUPPO di LETTURA</a><br />
+     <a href="http://www.liceoarcangeli.gov.it/drupal/filmografie-tematiche" target="_blank">PROPOSTE</a><br />
+     GALLERIA IMMAGINI<br />
+     <a href="http://www.liceoarcangeli.gov.it/drupal/storia-della-biblioteca" target="_blank">STORIA BIBLIOTECA</a></p>
+<p> </p>
+</div>
+<div>
+<p> <img alt="" height="105" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/giuliamarelibri1.jpg_20131023111842.jpg" width="167" /></p>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu-menu-menu-icone" class="block block-menu block-even block-content block-count-5">
+  <div class="block-inner">
+
+                  <h2 class="block-title"> </h2>
+          
+    <div class="content">
+      <ul class="menu"><li class="first leaf"><a href="/drupal/calendario-scolastico-2017-18" title="" class="menu_icon menu-10166">Calendario scolastico</a></li>
+<li class="leaf"><a href="/drupal/orario-delle-lezioni" title="" class="menu_icon menu-9590 menu-9672">Orario delle Lezioni</a></li>
+<li class="leaf"><a href="/drupal/ricevimento-settimanalegenerale-dei-genitori" title="" class="menu_icon menu-9591 menu-9673">Ricevimento</a></li>
+<li class="leaf"><a href="/drupal/modulistica-pubblica" title="" class="menu_icon menu-9593 menu-9675">Modulistica</a></li>
+<li class="leaf"><a href="/drupal/didattica/libri-di-testo-201718" title="" class="menu_icon menu-9594 menu-9676">Libri di testo</a></li>
+<li class="leaf"><a href="/drupal/vademecum-alternanza-scuola-lavoro" title="" class="menu_icon menu-14067">Alternanza Scuola Lavoro</a></li>
+<li class="leaf"><a href="/drupal/contact" title="" class="menu_icon menu-9592 menu-9674">Contatti</a></li>
+<li class="last leaf"><a href="/drupal/formazione-docenti" title="" class="menu_icon menu-14830">Formazione Docenti</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+          <div id="sidebar-first" class="sidebar">  <div class="region region-sidebar-first">
+    <div id="block-block-23" class="block block-block block-odd block-sidebar-first block-count-6">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Esame di Stato 1718</h2>
+          
+    <div class="content">
+      <p><a href="http://www.liceoarcangeli.gov.it/drupal/esame-di-stato-201718" target="_blank">Presentazione domande</a> </p>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-23" class="block block-menu-block block-even block-sidebar-first block-count-7">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Orientamento in Uscita</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-23 menu-name-menu-orientamento-in-uscita parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last leaf menu-mlid-17526"><a href="/drupal/categoria/orientamento-uscita" title="">Orientamento in Uscita</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-34" class="block block-block block-odd block-sidebar-first block-count-8">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Istruzione post diploma</h2>
+          
+    <div class="content">
+      <p>  <a href="http://www.liceoarcangeli.gov.it/drupal/percorsi-di-istruzione-formazione-superiore-post-diploma" target="_blank">percorsi</a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-21" class="block block-menu-block block-even block-sidebar-first block-count-9">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Concorsi e mostre</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-21 menu-name-menu-concorsi-e-mostre parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-17351"><a href="/drupal/categoria/concorsi" title="">Concorsi</a></li>
+<li class="last leaf menu-mlid-17352"><a href="/drupal/categoria/mostre" title="">Mostre</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-22" class="block block-block block-odd block-sidebar-first block-count-10">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Passaggi da altre scuole</h2>
+          
+    <div class="content">
+      <p class="rtecenter"><a href="http://www.liceoarcangeli.gov.it/utenti/index.php?option=com_content&amp;view=article&amp;id=132&amp;Itemid=548&amp;lang=it" target="_blank">Istruzioni</a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-29" class="block block-block block-even block-sidebar-first block-count-11">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Comitato Genitori </h2>
+          
+    <div class="content">
+      <p>Comitato Genitori<br /><a href="http://www.liceoarcangeli.gov.it/drupal/comitato-genitori-comunicazioni" target="_blank">Comunicazioni</a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-26" class="block block-block block-odd block-sidebar-first block-count-12">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Servizi di supporto a prevenzione e disagio</h2>
+          
+    <div class="content">
+      <p class="rtecenter"><a href="http://www.liceoarcangeli.gov.it/drupal/cic" target="_blank">CIC</a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-views-calendario-block_1" class="block block-views block-even block-sidebar-first block-count-13">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Calendario</h2>
+          
+    <div class="content">
+      <div class="view view-calendario view-id-calendario view-display-id-block_1 view-dom-id-b3670401b7b6d1c08111979cf586c946">
+            <div class="view-header">
+      <div class="date-nav-wrapper clearfix">
+  <div class="date-nav item-list">
+    <div class="date-heading">
+      <h3><a href="http://www.liceoarcangeli.gov.it/drupal/calendar/month/2017-12" title="Visualizza il mese in una pagina intera">Dicembre</a></h3>
+    </div>
+    <ul class="pager">
+          <li class="date-prev">
+        <a href="http://www.liceoarcangeli.gov.it/drupal/homepage?mini=2017-11" title="Vai al mese precedente" rel="nofollow">&laquo;</a>      </li>
+              <li class="date-next">
+        <a href="http://www.liceoarcangeli.gov.it/drupal/homepage?mini=2018-01" title="Vai al mese successivo" rel="nofollow">&raquo;</a>      </li>
+        </ul>
+  </div>
+</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar"><div class="month-view">
+ 
+<table class="mini">
+  <thead>
+    <tr>
+              <th class="days mon">
+          L        </th>
+              <th class="days tue">
+          M        </th>
+              <th class="days wed">
+          M        </th>
+              <th class="days thu">
+          G        </th>
+              <th class="days fri">
+          V        </th>
+              <th class="days sat">
+          S        </th>
+              <th class="days sun">
+          D        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="calendario-2017-11-27" class="mon mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-11-28" class="tue mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-11-29" class="wed mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-11-30" class="thu mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-01" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 1 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-02" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 2 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-03" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 3 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-04" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 4 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-05" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 5 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-06" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 6 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-07" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 7 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-08" class="fri mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-08">8</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/8-dicembre-immacolata-concezione"> 8 dicembre, Immacolata Concezione</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">08/12/2017 - 00:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-09" class="sat mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-09">9</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/9-dicembre-2017-sospensione-delle-lezioni">9 Dicembre 2017 - Sospensione delle lezioni</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">09/12/2017 - 00:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-10" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 10 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-11" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 11 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-12" class="tue mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-12">12</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/articolo/permessi-il-diritto-allo-studio-del-personale-del-comparto-scuola">Permessi per il diritto allo studio del personale del comparto scuola</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">12/12/2017 - 00:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-13" class="wed mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-13">13</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/ricevimento-generale-dei-genitori-del-trimestre">Ricevimento Generale dei Genitori del trimestre</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">13/12/2017 - <span class="date-display-range">da <span class="date-display-start">15:00</span> a <span class="date-display-end">18:30</span></span></span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-14" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 14 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-15" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 15 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-16" class="sat mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-16">16</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/termine-ricevimento-settimanale-trimestre">Termine Ricevimento Settimanale Trimestre</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">16/12/2017 - 01:00</span></div></li><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/open-day-16-dicembre-2017">Open Day - 16 dicembre 2017</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">16/12/2017 - <span class="date-display-range">da <span class="date-display-start">14:45</span> a <span class="date-display-end">17:00</span></span></span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-17" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 17 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-18" class="mon mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-18">18</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/circolari/comunicazione-incontro-certificazioni-b1-e-b2">Comunicazione incontro certificazioni B1 e B2</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">18/12/2017 - 00:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-19" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 19 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-20" class="wed mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-20">20</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/presentazione-degli-indirizzi-rivolta-ai-genitori-degli-studenti-delle-classi-seconde-del">Presentazione degli indirizzi rivolta ai genitori degli studenti delle classi seconde del Liceo Arcangeli.</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">20/12/2017 - 00:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-21" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 21 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-22" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 22 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-23" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 23 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-24" class="sun mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceoarcangeli.gov.it/drupal/calendar/day/2017-12-24">24</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/drupal/eventi/inizio-vacanze-natalizie-0">Inizio vacanze Natalizie</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">24/12/2017 - 00:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-25" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 25 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-26" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 26 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-27" class="wed mini today has-no-events">
+            <div class="month mini-day-off"> 27 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-28" class="thu mini future has-no-events">
+            <div class="month mini-day-off"> 28 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-29" class="fri mini future has-no-events">
+            <div class="month mini-day-off"> 29 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-30" class="sat mini future has-no-events">
+            <div class="month mini-day-off"> 30 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-31" class="sun mini future has-no-events">
+            <div class="month mini-day-off"> 31 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div>
+<div id="block-tagclouds-1" class="block block-tagclouds block-odd block-sidebar-first block-count-14">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Argomenti - TAG</h2>
+          
+    <div class="content">
+      <span class='tagclouds-term'><a href="/drupal/articolo/comunicazione-sindacale-feder-ata" class="tagclouds level1" title="">albo sindacale</a></span>
+<span class='tagclouds-term'><a href="/drupal/articolo/allineamento-matematica-classi-prime-s-2016-17" class="tagclouds level1" title="">allineamento matematica</a></span>
+<span class='tagclouds-term'><a href="/drupal/circolari/proposta-tirocini-di-alternanza-scuola-lavoro-laboratori-artistici-presso-associazione" class="tagclouds level1" title="">alternanza scuola lavoro</a></span>
+<span class='tagclouds-term'><a href="/drupal/articolo/prove-studenti-che-hanno-sostenuto-l-anno-all-estero" class="tagclouds level1" title="">anno estero</a></span>
+<span class='tagclouds-term'><a href="/drupal/circolari/consegna-annuari-e-materiale-prenotato-nell-s-201516" class="tagclouds level1" title="">annuari</a></span>
+<span class='tagclouds-term'><a href="/drupal/circolari/assemblea-studentesca-di-istituto-0" class="tagclouds level1" title="">appelli</a></span>
+<span class='tagclouds-term'><a href="/drupal/articolo/progetto-arcangeli-welcome" class="tagclouds level1" title="">Arcangeli Welcome</a></span>
+<span class='tagclouds-term'><a href="/drupal/articolo/inaugurazione-murales-orti-del-paleotto" class="tagclouds level1" title="">ASL</a></span>
+<span class='tagclouds-term'><a href="/drupal/circolari/assemblea-studentesca-di-istituto" class="tagclouds level1" title="">assemblea d&#039;istituto</a></span>
+<span class='tagclouds-term'><a href="/drupal/circolari/assemblea-studentesca-di-istituto-0" class="tagclouds level1" title="">assemblea istituto</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/assemblea-sindacale" class="tagclouds level2" title="">assemblea sindacale</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/bus" class="tagclouds level2" title="">bus</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/comitato-genitori" class="tagclouds level3" title="">comitato genitori</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/contrattazione" class="tagclouds level2" title="">Contrattazione</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/dipartimenti" class="tagclouds level2" title="">dipartimenti</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/dsa" class="tagclouds level3" title="">DSA</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/formazione-docenti" class="tagclouds level5" title="">formazione docenti</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/graduatorie-docenti" class="tagclouds level2" title="">Graduatorie Docenti</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/p" class="tagclouds level10" title="">p</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/progetti" class="tagclouds level2" title="">Progetti</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/ricevimento" class="tagclouds level2" title="">ricevimento</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/ricevimento-generale" class="tagclouds level2" title="">Ricevimento Generale</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/riorientamento" class="tagclouds level2" title="">riorientamento</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/sciopero" class="tagclouds level4" title="">sciopero</a></span>
+<span class='tagclouds-term'><a href="/drupal/tag/scuola-lavoro" class="tagclouds level2" title="">scuola lavoro</a></span>
+<div class="more-link"><a href="/drupal/tagclouds/chunk/1" title="more tags">Altro</a></div>    </div>
+
+  </div>
+</div>
+<div id="block-block-13" class="block block-block block-even block-sidebar-first block-count-15">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p><a href="http://www.erasmusplus.it/"><img alt="" height="32" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/erasmus_logo.jpg" width="142" /></a><br /><a href="https://www.etwinning.net/it/pub/index.htm"><img alt="" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/etwinning.png" style="width: 130px; height: 36px;" /></a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-15" class="block block-block block-odd block-sidebar-first block-count-16">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p><a href="https://site.gnomio.com/login/index.php"><img alt="" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/moodle-button.gif" style="width: 100px; height: 30px;" /></a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-14" class="block block-block block-even block-sidebar-first block-count-17">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p><a href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2&amp;emr=1&amp;osid=1#identifier" target="_blank"><span style="font-size:14px;">c</span><img alt="" height="17" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/chiocciola.png" width="17" /><span style="font-size:14px;">sella di posta</span><br /><span style="font-size:14px;">istituzionale</span></a></p>
+    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+    
+          <div id="sidebar-second" class="sidebar">  <div class="region region-sidebar-second">
+    <div id="block-block-10" class="block block-block block-odd block-sidebar-second block-count-18">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Registro Elettronico</h2>
+          
+    <div class="content">
+      <p><a href="https://web.spaggiari.eu/home/app/default/login.php" id="classeviva registro" target="_blank"><img alt="" height="68" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/large_classeviva.png" width="167" /></a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-panels_mini-in_evidenza" class="block block-panels-mini block-even block-sidebar-second block-count-19">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Pubblicità legale</h2>
+          
+    <div class="content">
+      <div class="panel-display panel-1col clearfix" id="mini-panel-in_evidenza">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-menu-menu-comunicazioni"  >
+  
+        <h2 class="pane-title">
+      Comunicazioni    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/drupal/categoria/circolari" title="">Circolari</a></li>
+<li class="last leaf"><a href="/drupal/categoria/news" title="">News</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-albo"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/drupal/albo-pretorio" title="Atti in corso di pubblicazione">Albo pretorio on-line</a></li>
+<li class="leaf"><a href="/drupal/albo-storico" title="Atti scaduti">Albo - Storico</a></li>
+<li class="last leaf"><a href="/drupal/albi/bacheca-sindacale" title="Bacheca sindacale">Bacheca sindacale</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-4" class="block block-block block-odd block-sidebar-second block-count-20">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Amministrazione trasparente</h2>
+          
+    <div class="content">
+      <p class="rtecenter"><a href="http://www.liceoarcangeli.gov.it/drupal/trasparenza/amministrazione-trasparente"><img alt="Amministrazione trasparente" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/pictures/amne-trasparente.jpg" style="width: 98%;" title="Amministrazione trasparente" /></a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-21" class="block block-block block-even block-sidebar-second block-count-21">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <h1><a href="http://www.liceoarcangeli.gov.it/utenti/index.php?option=com_content&amp;view=article&amp;id=133&amp;Itemid=557&amp;lang=it" target="_blank"><span style="color:#B22222;"><strong>Area DSA</strong></span></a></h1>
+<p><span style="font-size:11px;"><span style="color: rgb(178, 34, 34);"><strong>contatti - informazioni</strong></span></span><br /><span style="font-size:11px;"><span style="color: rgb(178, 34, 34);"><strong><a href="mailto:genitoridsa.isart@gmail.com">genitoridsa.isart@gmail.com</a></strong></span></span></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-12" class="block block-block block-odd block-sidebar-second block-count-22">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p><a href="http://www.liceoarcangeli.gov.it/drupal/pon-2014-20#overlay-context="><img alt="" height="30" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/pon_2014-2020_sm.png" width="158" /></a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-16" class="block block-block block-even block-sidebar-second block-count-23">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p><a href="http://www.liceoarcangeli.gov.it/utenti/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=101&amp;lang=it"><img alt="" height="29" src="http://www.liceoarcangeli.gov.it/drupal/sites/default/files/pnsd_banner.png" width="142" /></a></p>
+    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+    
+  </div> <!-- /columns -->
+
+  
+                  
+          <!--<div id="footer">-->
+                
+      <!--</div>-->
+    
+<!-- #footer -->
+<div id="footer" class="clearfix">
+    <div class="container">
+
+        <div class="row">
+                        
+                <div class="footer-area">
+                  <div class="region region-footer-first">
+    <div id="block-menu_block-19" class="block block-menu-block block-odd block-footer-first block-count-24">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Segreteria - URP</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-19 menu-name-main-menu parent-mlid-9568 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-9569"><a href="/drupal/menu-principale/orari-di-apertura">Orari di apertura</a></li>
+<li class="leaf menu-mlid-9572"><a href="/drupal/modulistica-pubblica" title="">Modulistica</a></li>
+<li class="last leaf menu-mlid-9573"><a href="/drupal/menu-principale/iban-e-pagamenti-informatici">IBAN e pagamenti informatici</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+  </div>
+                </div>
+            
+                  
+
+                  
+            
+                <div class="footer-area">
+                  <div class="region region-footer-second">
+    <div id="block-block-8" class="block block-block block-odd block-footer-second block-count-25">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Info e Contatti</h2>
+          
+    <div class="content">
+      <ul class="contact"><li class="address"><strong>Via Marchetti, n. 22<br />
+	CAP Città(Prov)</strong> </li>
+<li class="phone"><strong>Tel.: +39 051 4453612-1</strong><br /><strong>Fax:</strong> <strong>+39 051 4453658 </strong> </li>
+<li class="email"><strong>E-mail: <a href="mailto:BOSL02000A@istruzione.it">BOSL02000A@istruzione.it</a>    </strong><br /><strong>PEC: <a href="mailto:BOSL02000A@pec.istruzione.it">BOSL02000A@pec.istruzione.it</a> </strong></li>
+<li class="profile"><strong>Cod. Fisc</strong>.: <strong>91370190372</strong><br /><strong>Codice univoco</strong>: <strong>UF295N</strong></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+                </div>
+            
+            
+                       
+                <div class="footer-area">
+                  <div class="region region-footer-third">
+    <div id="block-menu-menu-note-legali" class="block block-menu block-odd block-footer-third block-count-26">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Note legali</h2>
+          
+    <div class="content">
+      <ul class="menu"><li class="first leaf"><a href="/drupal/note-legali/privacy">Privacy</a></li>
+<li class="leaf"><a href="/drupal/note-legali/cookie-policy">Cookies Policy</a></li>
+<li class="leaf"><a href="/drupal/note-legali/note-legali">Note legali</a></li>
+<li class="last leaf"><a href="/drupal/note-legali/crediti">Crediti</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+                </div>
+            
+            
+                        
+                <div class="footer-area">
+                  <div class="region region-footer-fourth">
+    <div id="block-menu-menu-utilit-" class="block block-menu block-odd block-footer-fourth block-count-27">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Utilità</h2>
+          
+    <div class="content">
+      <ul class="menu"><li class="first leaf"><a href="http://validator.w3.org/check?uri=referer" title="Link esterno a W3C - Servizio di convalida codice">Validazione HTML</a></li>
+<li class="leaf"><a href="http://jigsaw.w3.org/css-validator/check/referer" title="Link esterno a Servizio di validazione del W3C per CSS">Valida CSS</a></li>
+<li class="leaf"><a href="http://www.tawdis.net/" title="Link esterno a tawdis.net">WCAG 2.0</a></li>
+<li class="leaf"><a href="http://wave.webaim.org/refer" title="Link esterno a WAVE">Accessibilità</a></li>
+<li class="leaf"><a href="http://www.magellanopa.it/bussola/page.aspx?s=verifica-dlgs-33-2013&amp;qs=i%2fIwZsp5t0Z%2fqJNdz1eumw%3d%3d" title="Link esterno a magellanopa.it">Bussola della trasparenza</a></li>
+<li class="last leaf"><a href="/drupal/visite-e-dati-statistici" title="">Visite e dati statistici</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+                </div>
+            
+                    </div>
+
+    </div>
+</div> 
+<!-- EOF #footer -->
+  
+          <div id="tertiary-content">
+          <div class="region region-tertiary-content">
+    <div id="block-block-2" class="block block-block block-odd block-tertiary-content block-count-28">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p>Sito realizzato e distribuito da <a href="http://www.porteapertesulweb.it">Porte Aperte sul Web</a>, Comunit&agrave; di pratica per l&#39;accessibilit&agrave; dei siti scolastici, nell&#39;ambito del Progetto &quot;Un CMS per la scuola&quot; - USR Lombardia.<br />
+Il modello di sito &egrave; rilasciato sotto licenza <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="LinK esterno al sito">Attribuzione-Non commerciale-Condividi allo stesso modo 3.0 Unported </a>di Creative Commons.</p>
+<acronym title="Content Managment System">CMS</acronym> <a href="http://drupal.org/" title="Realizzato con Drupal, un sistema open source per la gestione dei contenuti">Drupal</a> ver.7.56 del 21/06/2017 agg.28/08/2017    </div>
+
+  </div>
+</div>
+  </div>
+      </div>
+  
+    </div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+  $(".disagree-button").live("click", function() {
+    Cookies.get("_gat"); 
+    Cookies.remove("_gat", {domain: "www.liceoarcangeli.gov.it", path: "/" });
+    Cookies.get("_ga");
+    Cookies.remove("_ga", {domain: "www.liceoarcangeli.gov.it", path: "/" });
+    window.location.reload();
+  });
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.liceoarcangeli.gov.it/drupal/sites/all/modules/flexslider/assets/js/flexslider.load.js?p0lpln"></script>
+</body>
+</html>

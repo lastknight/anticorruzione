@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 http://dati.anticorruzione.it/schema/datasetAppaltiL190.xsd"
+                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                        xmlns:legge190="legge190_1_0">
+			<metadata>
+				<titolo>Pubblicazione legge 190</titolo>
+				<abstract>Pubblicazione legge 190</abstract>
+				<dataPubbicazioneDataset>2016-01-28</dataPubbicazioneDataset>
+				<entePubblicatore>CONTRAM Reti S.p.A.</entePubblicatore>
+				<dataUltimoAggiornamentoDataset>2016-01-28</dataUltimoAggiornamentoDataset>
+				<annoRiferimento>2015</annoRiferimento>
+				<urlFile>avcp_2015_01491550438_0.xml</urlFile>
+				<licenza>iodl</licenza>
+			</metadata>
+			<data><lotto>
+					<cig>Z6E153BDB2</cig>
+					<strutturaProponente>
+						<codiceFiscaleProp>01491550438</codiceFiscaleProp>
+						<denominazione>CONTRAM Reti S.p.A.</denominazione>
+					</strutturaProponente>
+					<oggetto>R.c. Amministratori</oggetto>
+					<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+					<partecipanti>	<partecipante>
+											<codiceFiscale>10655700150</codiceFiscale>
+											<ragioneSociale>Lloyd's</ragioneSociale>
+										</partecipante></partecipanti>
+					<aggiudicatari>	<aggiudicatario>
+												<codiceFiscale>10655700150</codiceFiscale>
+												<ragioneSociale>Lloyd's</ragioneSociale>
+											</aggiudicatario></aggiudicatari>
+					<importoAggiudicazione>1349.72</importoAggiudicazione>
+					<tempiCompletamento><dataInizio>2015-05-31</dataInizio><dataUltimazione>2016-05-30</dataUltimazione></tempiCompletamento>
+					<importoSommeLiquidate>1349.72</importoSommeLiquidate>
+					</lotto>
+				</data>
+			</legge190:pubblicazione>

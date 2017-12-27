@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt_indiceAppaltiL190.xsl"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione ai sensi DLGS 190/12</titolo>
+		<abstract>Pubblicazione relativa anno 2016</abstract>
+		<dataPubblicazioneIndice>2016-01-01</dataPubblicazioneIndice>
+		<entePubblicatore>AZIENDA SANITARIA LOCALE DI CASERTA</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-06</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.aslcaserta.it/L190-12/indice-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="CONTROLLO_GESTIONE_2016_SEM_I">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_controllo_gestione_2016_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PROVVEDITORATO_2016_SEM_I">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_provveditorato_2016_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PROVVEDITORATO_2016_SEM_II">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_provveditorato_2016_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="TECNOLOGIE_2016_SEM_I">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_tecnologie_2016_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="CONTROLLO_GESTIONE_2016_SEM_II">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_controllo_gestione_2016_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="TECNOLOGIE_2016_SEM_II">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_tecnologie_2016_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="TECNICO_MANUTENTIVO_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_tecnico_manutentivo_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_SESSA_AURUNCA_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_sessa_aurunca_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_MARCIANISE_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_marcianise_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_SANTA_MARIA_CAPUA_VETERE_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_smcv_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_SANTA_SAN_FELICE_A_CANCELLO_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_sfc_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_MADDALONI_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_maddaloni_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_AVERSA_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_aversa_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="PO_PIEDIMONTE_MATESE_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_po_piedimonte_matese_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="DIPARTIMENTO_PREVENZIONE_2016">
+			<linkDataset>http://www.aslcaserta.it/L190-12/dataset_dipartimento_prevenzione_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

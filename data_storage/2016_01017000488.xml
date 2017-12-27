@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:pubblicazione xmlns:ns2="legge190_1_0">
+    <metadata>
+        <titolo>Pubblicazione ai sensi art.1 comma 32 L.190/2012</titolo>
+        <abstract>Pubblicazione ai sensi art.1 comma 32 L.190/2012 - riferimento anno 2015</abstract>
+        <dataPubbicazioneDataset>2015-10-01+02:00</dataPubbicazioneDataset>
+        <entePubblicatore>Comune di Borgo San Lorenzo</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2015-10-01+02:00</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://www.borgosanlorenzo.it/avcp/datasetAppaltiL190-B036-2015.xml</urlFile>
+        <licenza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">IODL</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>5668920CC3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA FRUTTA E VERDURA FRESCA CUCINE COMUNALI</oggetto>
+            <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari/>
+            <importoAggiudicazione>230805.48</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-01+01:00</dataInizio>
+                <dataUltimazione>2017-07-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF312396D0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO MATERIALI IN LEGNO PER MANUTENZIONE IN ECONOMIA DEL PATRIMONIO COMUNALE ANNO 2015 - AFF.TO TRAMITE SISTEMA START ALLA DITTA LEPRI G. EREDI S.n.c. DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00639660489</codiceFiscale>
+                    <ragioneSociale>Lepri Giorgio Eredi &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04355400484</codiceFiscale>
+                    <ragioneSociale>Albisani Legna S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00639660489</codiceFiscale>
+                    <ragioneSociale>Lepri Giorgio Eredi &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-05+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1639.15</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>59570010BD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ENERGIA ELETTRICA PRESE COMUNALI A BASSA TENSIONE, DA PARTE DI GALA S.p.A. DI ROMA </oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06832931007</codiceFiscale>
+                    <ragioneSociale>GALA S.p.A. di Roma</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>170000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-05+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>82732.08</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>595702006B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI ENERGIA ELETTRICA PER PUBBLICA ILLUMINAZIONE DA PARTE DI GALA S.p.A. DI ROMA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06832931007</codiceFiscale>
+                    <ragioneSociale>GALA S.p.A. di Roma</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06832931007</codiceFiscale>
+                    <ragioneSociale>GALA S.p.A. di Roma</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>254098.36</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-05+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>178082.12</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z34129A56B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI GAS METANO VARI STABILI COM.LI DA PARTE DI ENI S.p.A. DIVISIONE GAS E POWER DI ROMA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00905811006</codiceFiscale>
+                    <ragioneSociale>ENI SPA </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>35000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-05+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>19512.41</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>5998800E59</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>CONCESSIONE SERVIZIO RISCOSSIONE E ACCERTAMENTO ICP-TOSAP</oggetto>
+            <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00907370415</codiceFiscale>
+                    <ragioneSociale>Duomo Gpa s.r.l. </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>259864.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-01+02:00</dataInizio>
+                <dataUltimazione>2019-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>22643.91</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE40D2BEF5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO TRASCRIZIONE SEDUTE CONSILIARI - ANNO 2014</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04922960481</codiceFiscale>
+                    <ragioneSociale>Bartalucci sas di Bartalucci Monica e Elena</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>397.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-13+01:00</dataInizio>
+                <dataUltimazione>2015-01-13+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>397.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6091216674</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI ACQUA POTABILE VARI IMMOBILI E SERVIZI COMUNALI DA PARTE DI PUBLIACQUA S.p.A. DI FIRENZE</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05040110487</codiceFiscale>
+                    <ragioneSociale>PUBLIACQUA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05040110487</codiceFiscale>
+                    <ragioneSociale>PUBLIACQUA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>70000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-14+01:00</dataInizio>
+                <dataUltimazione>2015-09-01+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>30108.61</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7B12C1E54</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento servizio trascrizione sedute consiglio comunale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04922960481</codiceFiscale>
+                    <ragioneSociale>Bartalucci sas di Bartalucci Monica e Elena</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>720.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-26+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>492.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC31296ED1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto> 	
+ACQUISTO TONER PER HP 2055 </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01866280645</codiceFiscale>
+                    <ragioneSociale>TECNOLOGICA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01866280645</codiceFiscale>
+                    <ragioneSociale>TECNOLOGICA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>420.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-19+01:00</dataInizio>
+                <dataUltimazione>2014-02-28+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>419.66</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z48121B660</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE IN ECONOMIA ATTREZZATURE MENSE SCOLASTICHE ANNO 2015 - AFF.TO TRAMITE SISTEMA START REGIONE TOSCANA, ALLA DITTA AS.TEC. S.n.c. DI LEPRI CARLO E C. DI CAMPI BISENZIO (FI)</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01663440483</codiceFiscale>
+                    <ragioneSociale>AS.TEC. di Lepri Carlo &amp; C. S.n.c. di Campi Bisenzio (FI)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05796430485</codiceFiscale>
+                    <ragioneSociale>Guidotti Cucine Professionali S.r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>GNNNTN55P08B036S</codiceFiscale>
+                    <ragioneSociale>CAMA di Giannini Antonio di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>2000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-20+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1562.94</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z520DBE239</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>corso di formazione su legge stabilità 2014 </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02998820233</codiceFiscale>
+                    <ragioneSociale>Centro Studi Enti Locali </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-02-11+01:00</dataInizio>
+                <dataUltimazione>2014-02-11+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>100.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB2121B588</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE ANNO 2015 DELLE CELLE FRIGO INSTALLATE C/O LA MENSA CENTRALIZZATA VIA CAIANI - AFF.TO TRAMITE SISTEMA START REGIONE TOSCANA A BORDATI ALESSANDRO DI BORGO SAN LORENZOE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari/>
+            <importoAggiudicazione>1000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-21+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>90.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>X38108A5CC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO E ACCORDATURA PIANOFORTI SCUOLA DI MUSICA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05488880484</codiceFiscale>
+                    <ragioneSociale>CIANI ROBERTO  e C s.n.c. Pianoforti</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>725.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2014-10-28+01:00</dataInizio>
+                <dataUltimazione>2015-02-28+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB212D6AD3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUT.NE IMPIANTO ANTINCENDIO ELEMENTARE DI VIA L. DA VINCI DA PARTE DELLA DITTA POLI C. DI POLI ENRICO DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05801770487</codiceFiscale>
+                    <ragioneSociale>Poli C. di Poli Enrico di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>490.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-22+01:00</dataInizio>
+                <dataUltimazione>2015-02-25+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>490.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC91239647</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI MATERIALE DI FERRAMENTA ED IDRAULICO ANNO 2015 PER MANUTENZIONE IN ECONOMIA PATRIMONIO COMUNALE - AFF.TO RISPETTIVAMENTE ALLE DITTE GUIDOTTI S.r.l. DI BORGO SAN LORENZO E TERMOMARKET S.r.l. DI FIRENZE, TRAMITE SISTEMA START REG. TOSCANA</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00427530480</codiceFiscale>
+                    <ragioneSociale>Chiessi e Fedi di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06112070484</codiceFiscale>
+                    <ragioneSociale>Ferramenta 77 di Misuri Tiziano e C. S.a.s. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04434830487</codiceFiscale>
+                    <ragioneSociale>Guidotti S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03411950482</codiceFiscale>
+                    <ragioneSociale>Termomarket S.r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01719260489</codiceFiscale>
+                    <ragioneSociale>VETRERIA GORI BRUNO SRL DI VICCHIO M.LLO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04434830487</codiceFiscale>
+                    <ragioneSociale>Guidotti S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>30000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-23+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8499.53</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7A12D8002</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO SUPPORTO ALLA RISCOSSIONE DELLA TASSA SUI RIFIUTI (TARI)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06153390486</codiceFiscale>
+                    <ragioneSociale>IRISCO SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06153390486</codiceFiscale>
+                    <ragioneSociale>IRISCO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-23+01:00</dataInizio>
+                <dataUltimazione>2015-03-17+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>6075.56</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7C1239718</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI MATERIALI INERTI PER LA MANUTENZIONE IN ECONOMIA ANNO 2015 DELLE STRADE COM.LI - AFF.TO ALLA DITTA PIANDISIEVE S.r.l. DI SCARPERIA E SAN PIERO, TRAMITE SISTEMA START REGIONE TOSCANA</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03096540483</codiceFiscale>
+                    <ragioneSociale>Piandisieve S.r.l. di Scarperia e San Piero (FI)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03660880489</codiceFiscale>
+                    <ragioneSociale>Cantini Marino S.r.l. di Vicchio M.llo (FI)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01564190518</codiceFiscale>
+                    <ragioneSociale>C. &amp; G. di Cargi e GIustarini di Castel San Niccolò (AR)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01940350505</codiceFiscale>
+                    <ragioneSociale>Giuliani Piero S.r.l. di Pisa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00525700522</codiceFiscale>
+                    <ragioneSociale>Italcave S.r.l. di Pisa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03582900480</codiceFiscale>
+                    <ragioneSociale>Sodi Strade S.r.l. di Barberino M.llo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06182800489</codiceFiscale>
+                    <ragioneSociale>Due Torri S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03096540483</codiceFiscale>
+                    <ragioneSociale>Piandisieve S.r.l. di Scarperia e San Piero (FI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-26+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>592.50</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZBD12396F7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA MATERIALI EDILI ANNO 2015 PER MANUTENZIONE IN ECONOMIA PATRIMONIO COMUNALE - AFF.TO TRAMITE SISTEMA START REGIONE TOSCANA ALLA DITTA LISI ALFREDO E FIGLI S.r.l. DI SCARPERIA E SAN PIERO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00422760488</codiceFiscale>
+                    <ragioneSociale>Lisi Alfredo e Figli S.r.l. di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00579680489</codiceFiscale>
+                    <ragioneSociale>Arrighini Andrea &amp; C. S.a.s. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00917710501</codiceFiscale>
+                    <ragioneSociale>Nuova Edilvibranti S.p.A. di Pieve a Nievole (PT)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00422760488</codiceFiscale>
+                    <ragioneSociale>Lisi Alfredo e Figli S.r.l. di Scarperia e San Piero</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-26+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3763.31</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB41239680</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI MATERIALE ELETTRICO PER MANUTENZIONI IN ECONOMIA ANNO 2015 DEL PATRIMONIO COMUNALE - AFF.TO TRAMITE SISTEMA START REGIONE TOSCANA ALLA DITTA IMEP ELETTROFORNITURE S.r.l. DI PRATO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02192740971</codiceFiscale>
+                    <ragioneSociale>IMEP Elettroforniture S.r.l.  di Prato</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00763300480</codiceFiscale>
+                    <ragioneSociale>MEF S.r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00579680489</codiceFiscale>
+                    <ragioneSociale>Arrighini Andrea &amp; C. S.a.s. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02192740971</codiceFiscale>
+                    <ragioneSociale>IMEP Elettroforniture S.r.l.  di Prato</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>35000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-26+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7313.04</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAA12AFEF9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO MATERIALI IN FERRO PER MANUTENZIONE IN ECONOMIA ANNO 2015 DEL PATRIMONIO COMUNALE - AFF.TO TRAMITE START REGIONE TOSCANA ALLA DITTA GUIDOTTI S.r.l. DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04434830487</codiceFiscale>
+                    <ragioneSociale>Guidotti S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04361200480</codiceFiscale>
+                    <ragioneSociale>Tagliaferri di Tagliaferri Giacomo, Andrea &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05907590482</codiceFiscale>
+                    <ragioneSociale>Paci S.n.c. di Guglielmo Roberto Ruggero di Empoli</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01420320481</codiceFiscale>
+                    <ragioneSociale>Vicini S.p.A. di Firenze</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04434830487</codiceFiscale>
+                    <ragioneSociale>Guidotti S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-26+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>655.74</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z131218F94</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA CONGLOMERATO A CALDO PER LA MANUTENZIONE IN ECONOMIA ANNO 2015 DELLE STRADE COMUNALI - AFF.TO ALLA DITTA SODI STRADE S.r.l. DI FIRENZE, TRAMITE START REGIONE TOSCANA</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00827420522</codiceFiscale>
+                    <ragioneSociale>Ruffoli S.r.l. di Siena</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03582900480</codiceFiscale>
+                    <ragioneSociale>Sodi Strade S.r.l. di Barberino M.llo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01623760483</codiceFiscale>
+                    <ragioneSociale>BITUMI MUGELLO DI SAN PIERO A SIEVE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03660880489</codiceFiscale>
+                    <ragioneSociale>Cantini Marino S.r.l. di Vicchio M.llo (FI)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00525700522</codiceFiscale>
+                    <ragioneSociale>Italcave S.r.l. di Pisa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00972520480</codiceFiscale>
+                    <ragioneSociale>Mocali Giuseppe e Figlio S.a.s. di Mocali Massimo, Andrea e C. di Barberino M.llo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>10000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-27+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z191217F8C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO CONGLOMERATO A FREDDO PER MANUTENZIONE IN ECONOMIA ANNO 2015 DELLE STRADE COMUNALI - AFF.TO TRAMITE START REGIONE TOSCANA ALLA DITTA SICIT BITUMI S.r.l. DI ESTE (PD)</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00827420522</codiceFiscale>
+                    <ragioneSociale>Ruffoli S.r.l. di Siena</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03885810287</codiceFiscale>
+                    <ragioneSociale>SICIT BITUMI S.r.l. di Este</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03582900480</codiceFiscale>
+                    <ragioneSociale>Sodi Strade S.r.l. di Barberino M.llo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01940350505</codiceFiscale>
+                    <ragioneSociale>Giuliani Piero S.r.l. di Pisa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01564190518</codiceFiscale>
+                    <ragioneSociale>C. &amp; G. di Cargi e GIustarini di Castel San Niccolò (AR)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01492180466</codiceFiscale>
+                    <ragioneSociale>C.L. Conglomerati Lucchesi S.r.l. di Porcari (LU)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03885810287</codiceFiscale>
+                    <ragioneSociale>SICIT BITUMI S.r.l. di Este</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>20000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-27+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2822.40</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6038681D31</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ASSISTENZA, MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI DI PROPRIETA' COMUNALE - INDIVIDUAZIONE, TRAMITE PROCEDURA NEGOZIATA, DEI FORNITORI DEI BENI E SERVIZI PER L'ANNO 2015</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04866780481</codiceFiscale>
+                    <ragioneSociale>Moto Mugello di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04027940487</codiceFiscale>
+                    <ragioneSociale>Motogeneral S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03711720486</codiceFiscale>
+                    <ragioneSociale>Tani Service di Tani Attilio di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01050480480</codiceFiscale>
+                    <ragioneSociale>RI-MA di Renzo Bassi di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05794630482</codiceFiscale>
+                    <ragioneSociale>C.G.M. Autocarrozzeria S.r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06211900482</codiceFiscale>
+                    <ragioneSociale>Giovannini Autocarrozzeria S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05481570488</codiceFiscale>
+                    <ragioneSociale>Elettrauto S.G. S.r.l. di Vicchio</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05429040487</codiceFiscale>
+                    <ragioneSociale>Renai S.r.l. di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03022710481</codiceFiscale>
+                    <ragioneSociale>Autofficina GALEOTTI EZIO di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05486460487</codiceFiscale>
+                    <ragioneSociale>Bedeschi Auto &amp; Motori di Fabio Bedeschi di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04899330486</codiceFiscale>
+                    <ragioneSociale>Autoficcina Pili Paolo e Pasi Sauro S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>PRRVTI75H02D612J</codiceFiscale>
+                    <ragioneSociale>Non Solo Moto di Parrilli Vito di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>STNNEI55E03B036F</codiceFiscale>
+                    <ragioneSociale>Stondei Service di Stondei Enio di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatarioRaggruppamento>
+                    <membro>
+                        <codiceFiscale>04866780481</codiceFiscale>
+                        <ragioneSociale>Moto Mugello di Borgo San Lorenzo</ragioneSociale>
+                        <ruolo>03-ASSOCIATA</ruolo>
+                    </membro>
+                    <membro>
+                        <codiceFiscale>03711720486</codiceFiscale>
+                        <ragioneSociale>Tani Service di Tani Attilio di Borgo San Lorenzo</ragioneSociale>
+                        <ruolo>03-ASSOCIATA</ruolo>
+                    </membro>
+                </aggiudicatarioRaggruppamento>
+            </aggiudicatari>
+            <importoAggiudicazione>35000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-28+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>14223.53</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6038670420</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ASSISTENZA, MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI DI PROPRIETA' COMUNALE - INDIVIDUAZIONE TRAMITE PROCEDURA NEGOZIATA, DEI FORNITORI DEI BENI E DEI SERVIZI PER L'ANNO 2015</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04866780481</codiceFiscale>
+                    <ragioneSociale>Moto Mugello di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04027940487</codiceFiscale>
+                    <ragioneSociale>Motogeneral S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05486460487</codiceFiscale>
+                    <ragioneSociale>Bedeschi Auto &amp; Motori di Fabio Bedeschi di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>PRRVTI75H02D612J</codiceFiscale>
+                    <ragioneSociale>Non Solo Moto di Parrilli Vito di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01050480480</codiceFiscale>
+                    <ragioneSociale>RI-MA di Renzo Bassi di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05429040487</codiceFiscale>
+                    <ragioneSociale>Renai S.r.l. di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03711720486</codiceFiscale>
+                    <ragioneSociale>Tani Service di Tani Attilio di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06211900482</codiceFiscale>
+                    <ragioneSociale>Giovannini Autocarrozzeria S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05481570488</codiceFiscale>
+                    <ragioneSociale>Elettrauto S.G. S.r.l. di Vicchio</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05794630482</codiceFiscale>
+                    <ragioneSociale>C.G.M. Autocarrozzeria S.r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04899330486</codiceFiscale>
+                    <ragioneSociale>Autoficcina Pili Paolo e Pasi Sauro S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>STNNEI55E03B036F</codiceFiscale>
+                    <ragioneSociale>Stondei Service di Stondei Enio di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03022710481</codiceFiscale>
+                    <ragioneSociale>Autofficina GALEOTTI EZIO di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00653820480</codiceFiscale>
+                    <ragioneSociale>Autoricambi Mugello S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>22000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-28+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3996.96</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z85121C0EF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO MACCHINE OPERATRICI PER MANUTENZIONI IN ECONOMIA DEL PATRIMONIO COMUNALE ANNO 2015 - AFF.TO TRAMITE SITEMA START REGIONE TOSCANA ALLA DITTA SANTELLI E BARGIOTTI E C. S.n.c. DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00516280484</codiceFiscale>
+                    <ragioneSociale>Boni Aldo e C. di Boni Carlo S.n.c. di VIcchio </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01050480480</codiceFiscale>
+                    <ragioneSociale>RI-MA di Renzo Bassi di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03183200488</codiceFiscale>
+                    <ragioneSociale>Società Italiana Costruzioni Strade S.r.l. di San Piero a Sieve</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05197800484</codiceFiscale>
+                    <ragioneSociale>Tecno Costruzioni Generali S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04720350489</codiceFiscale>
+                    <ragioneSociale>Fioretti Piero e Figli S.r.l. di Vaglia (FI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>15000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-29+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>11399.81</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7515DCC55</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE STRAORDINARIA PIATTAFORMA AEREA TG. CB 157 HX UTILIZZATA APER LA P.I. AFFIDAMNETO ALLA DITTA AUTO E MOTORI DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05486460487</codiceFiscale>
+                    <ragioneSociale>Bedeschi Auto &amp; Motori di Fabio Bedeschi di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2852.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-04+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2852.50</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2512FAB93</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO SERVIZIO PULIZIA LOCALI FACOLTA' INFERMIERISTICA ANNO 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04366710483</codiceFiscale>
+                    <ragioneSociale>Odissea cooperativa sociale onlus di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04366710483</codiceFiscale>
+                    <ragioneSociale>Odissea cooperativa sociale onlus di Scarperia e San Piero</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4098.36</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-29+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1732.32</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA6130A125</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>POTATURE ED ABBATTIMENTI PIANTE DI PROPRIETA' COMUNALE - AFF.TO TRAMITE START REGIONE TOSCANA ALLA DITTA AGRIAMBIENTE MUGELLO SCA DI BARBERINO M.LLO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01039030489</codiceFiscale>
+                    <ragioneSociale>AgriAmbiente Mugello di Galliano - Barberino M.llo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8945.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-03+01:00</dataInizio>
+                <dataUltimazione>2015-03-12+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8945.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z711359D28</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ABBONAMENTONEWSLETTER GAL START ANNO 2015
+
+</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05135710480</codiceFiscale>
+                    <ragioneSociale>START S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05135710480</codiceFiscale>
+                    <ragioneSociale>START S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-06+01:00</dataInizio>
+                <dataUltimazione>2015-03-11+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEF131CB46</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO SUPPORTO ESPLETAMENTO PROCEDURE VINCOLO IDROGEOLOGICO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari/>
+            <importoAggiudicazione>2500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-09+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9B1325D46</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>CONSIMENTO PATRIMONIO ARBOREO COMUNALE - AFF.TO INCARICO AL DR. GIANNI PESARESI E DR. GIUSPPE RONCONI ENTRAMBI DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06276190482</codiceFiscale>
+                    <ragioneSociale>Dott. Agr. Federico Peduzzi di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01539600765</codiceFiscale>
+                    <ragioneSociale>Dott. Forestale Paolo Abalsamo di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>PSRGNN61B18B036U</codiceFiscale>
+                    <ragioneSociale>Studio Tecnico Ambientale Dott. For. Gianni Pesaresi di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>RNCGPP61A31B036M</codiceFiscale>
+                    <ragioneSociale>Studio Tecnico di Giuseppe Ronconi Forestale di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>TRNPLA76L50D403S</codiceFiscale>
+                    <ragioneSociale>Dr. Agr. Paola Traiano di Empoli</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>SLRNCL74L28D612A</codiceFiscale>
+                    <ragioneSociale>Dr. For. Nicola Salerni di Scandicci</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>RNCGPP61A31B036M</codiceFiscale>
+                    <ragioneSociale>Studio Tecnico di Giuseppe Ronconi Forestale di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3060.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-11+01:00</dataInizio>
+                <dataUltimazione>2015-03-11+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3060.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z32134010C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto manifesti per prossima seduta consiglio comunale </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01481420436</codiceFiscale>
+                    <ragioneSociale>Polonigrafica s.r.l</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01481420436</codiceFiscale>
+                    <ragioneSociale>Polonigrafica s.r.l</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>90.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-20+01:00</dataInizio>
+                <dataUltimazione>2015-04-02+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>90.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6D1342394</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>LAVORI URGENTI ALL'IMPIANTO DI PUBBLICA ILLUMINAZIONE DEL CAMPO SPORTIVO DI LUCO / GREZZANO - AFF.TO ALLA DITTA POLI C. DI POLI ENRICO DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05801770487</codiceFiscale>
+                    <ragioneSociale>Poli C. di Poli Enrico di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1800.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-18+01:00</dataInizio>
+                <dataUltimazione>2015-03-13+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1800.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEC1355370</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>INTERVENTO MANUTENZIONE ORDINARIA MONTAFERETRI IN DOTAZIONE AI SERVIZI CIMITERIALI - AFF.TO DITTA OSCAR MARTA DI MONTECAVOLO (RE)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00294890355</codiceFiscale>
+                    <ragioneSociale>Oscar Marta - Vezzani S.p.A. di Montecavolo (RE)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-24+01:00</dataInizio>
+                <dataUltimazione>2015-04-22+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>600.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z95130AA4A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI PNEUMATICI PER MANUTENZIONE IN ECONOMIA MEZZI COM.LI - AFF.TO TRAMITE SISTEMA START REGIONE TOSCANA, ALLA DITTA MUGEL GOMME S.n.c. DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03675220481</codiceFiscale>
+                    <ragioneSociale>MUGEL GOMME di Lanini Paolo &amp; C. S.n.c. di Borgo San Loenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06287030487</codiceFiscale>
+                    <ragioneSociale>BENTASSI GOMME e C. S.a.s. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04935170482</codiceFiscale>
+                    <ragioneSociale>Borghetti Gomme di Borghetti Massimo e C. S.a.s. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03022710481</codiceFiscale>
+                    <ragioneSociale>Autofficina GALEOTTI EZIO di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>PGGDNL75M29B036L</codiceFiscale>
+                    <ragioneSociale>Poggityre di Poggi Daniele di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03675220481</codiceFiscale>
+                    <ragioneSociale>MUGEL GOMME di Lanini Paolo &amp; C. S.n.c. di Borgo San Loenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-26+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>257.34</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8E1331ED8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>PULIZIA LOCALI STRUTTURA RISTORANTE AL FORO BOARIO</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5560.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-18+01:00</dataInizio>
+                <dataUltimazione>2015-10-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2717.45</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3D138F8BD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MONITORAGGIO FRANA DI PANICAGLIA, IMPEGNO DI SPESA PER FORNITURA DI ENERGIA ELETTRICA DA HERA COMM S.r.l. DI IMOLA</oggetto>
+            <sceltaContraente>24-AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02221101203</codiceFiscale>
+                    <ragioneSociale>HERA COMM</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>976.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-10+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>198.53</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE1139AE35</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Realizzazione trasmissione televisiva </oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>833.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-11+01:00</dataInizio>
+                <dataUltimazione>2015-04-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>833.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCC139E942</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>INTERVENTI URGENTI PER RIPARAZIONE IMPIANTI SEMAFORICI DI VIALE DELLA RESISTENZE E VIALE IV NOVEMBRE - AFF.TO ALLA DITTA ILES S.r.l. DI PRATO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00259280972</codiceFiscale>
+                    <ragioneSociale>ILES S.r.l. di Prato</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>250.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-12+01:00</dataInizio>
+                <dataUltimazione>2015-04-22+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>200.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z88139924C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>e-seminar su digitalizzazione P.A</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02386580209</codiceFiscale>
+                    <ragioneSociale>AIDEM srl </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>149.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-18+01:00</dataInizio>
+                <dataUltimazione>2015-04-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>149.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z191350DD2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ARTICOLI CASALINGHI STRUTTURA RISTORANTE FORO BOARIO</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari/>
+            <importoAggiudicazione>1221.78</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-12+01:00</dataInizio>
+                <dataUltimazione>2015-06-24+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7D134D95B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DETERSIVO PER STRUTTURA RISTORANTE AL FORO BOARIO</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03960230377</codiceFiscale>
+                    <ragioneSociale>ITALCHIM S.R.L. INDUSTRIA CHIMICA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>583.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-13+01:00</dataInizio>
+                <dataUltimazione>2015-03-13+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>583.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4613A5545</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO LAMPADA PER PROIETTORE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04585871009</codiceFiscale>
+                    <ragioneSociale>EUROTECNO SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04585871009</codiceFiscale>
+                    <ragioneSociale>EUROTECNO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>267.85</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-18+01:00</dataInizio>
+                <dataUltimazione>2015-04-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>267.85</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDD139F1C3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO MINIESCAVATORE PER SERVIZI CIMITERIALI - AFF.TO ALLA DITTA RI-MA S.r.l. ARTIGIANA DI B.S.L. </oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01050480480</codiceFiscale>
+                    <ragioneSociale>RI-MA di Renzo Bassi di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-17+01:00</dataInizio>
+                <dataUltimazione>2015-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>100.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9B1313431</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Stampa manifesti sedute del Consiglio comunale e manifestazione varie</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00340960319</codiceFiscale>
+                    <ragioneSociale>Centro Stampa snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05447960484</codiceFiscale>
+                    <ragioneSociale>Centro Stampa Toscana 2</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05883740481</codiceFiscale>
+                    <ragioneSociale>Etruria PA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06188330150</codiceFiscale>
+                    <ragioneSociale>MAGGIOLI spa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00432330488</codiceFiscale>
+                    <ragioneSociale>Nuova Grafica Fiorentina s.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01418720478</codiceFiscale>
+                    <ragioneSociale>Nuova Tipografia Romani srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01481420436</codiceFiscale>
+                    <ragioneSociale>Polonigrafica s.r.l</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06004140486</codiceFiscale>
+                    <ragioneSociale>Società Barbieri Editore</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03103490482</codiceFiscale>
+                    <ragioneSociale>Stylgrafix Italiana spa</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00406310466</codiceFiscale>
+                    <ragioneSociale>ARTI GRAFICHE di Mario e Graziella Pezzini</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1170.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-25+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>312.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2313CEE66</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>OPERE SOMMA URGENZA ART. 176 DEL D.P.R. N. 207/2010 PER RIMOZIONE PIANTE PERICOLANTI IN FRAZ. LUCO - APPR.NE VERBALE E PRESA ATTO AFFIDAMENTO LAVORI DITTA IDEA VERDE DI INCECCHI L. DI B.S.L.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06129330483</codiceFiscale>
+                    <ragioneSociale>Idea Verde di Incecchi L. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-24+01:00</dataInizio>
+                <dataUltimazione>2015-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4025.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3613D209F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto/>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06188330150</codiceFiscale>
+                    <ragioneSociale>MAGGIOLI spa</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06188330150</codiceFiscale>
+                    <ragioneSociale>MAGGIOLI spa</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2950.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-25+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB513CEE88</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>INTERVENTO DI SOMMA URGENZA ART. 176 D.P.R. N. 207/2010 PER DISINFESTAZIONE DA PROCESSIONARIA - AFFID.TO ALLA DITTA SI.VA DEI FRATELLI NOFERINI S.A.S. DI VICCHIO M.LLO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03186730481</codiceFiscale>
+                    <ragioneSociale>Si.VA. dei F.lli Noferini di Vicchio M.llo (FI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>550.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-26+01:00</dataInizio>
+                <dataUltimazione>2015-04-23+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>550.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9013DAB98</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>EVENTO FRANOSO A PANICAGLIA - AFF.TO INCARICO AL PERITO AGRARIO CANTINI FRANCESCO DI SCARPERIA E SAN PIERO PER AGGIORNAMENTO RILIEVO TOPOGRAFICO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CNTFNC67B01A632H</codiceFiscale>
+                    <ragioneSociale>Cantini Francesco perito agrario di Scarperia e San Piero</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2754.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-26+01:00</dataInizio>
+                <dataUltimazione>2015-05-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2754.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z62135285C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA GPL STRUTTURA RISTORANTE AL FORO BOARIO</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05981430480</codiceFiscale>
+                    <ragioneSociale>DALLAI MARCO DI DALLAI LORENZO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1623.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-01+02:00</dataInizio>
+                <dataUltimazione>2015-06-24+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>811.50</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0713F72DD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO MANUT.NE PROGRAMMATA PANNELLI SOLARI E C.T. NUOVO NIDO VERDE ALLA DITTA MUGELTERMO S.r.l. DI SCARPERIA E SAN PIERO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04779720483</codiceFiscale>
+                    <ragioneSociale>Mugeltermo S.r.l. di Scarperia e San Piero (FI)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-03+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4C13A0291</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI SFALCIO ERBA ED ARBUSTI STRADE COM.LI ED AREE A VERDE PUBBLICO - AFF.TO TRAMITE START REGIONE TOSCANA ALLA COOP SOCIALE ONLUS "12 PASSI" DI BORGO SAN LORENZO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01039030489</codiceFiscale>
+                    <ragioneSociale>AgriAmbiente Mugello di Galliano - Barberino M.llo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04577410485</codiceFiscale>
+                    <ragioneSociale>Archimede  Coop.va Sociale Onlus di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05093810488</codiceFiscale>
+                    <ragioneSociale>CO.M.UNI.CO. Consorzio Sociale Società Cooperativa di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05206930488</codiceFiscale>
+                    <ragioneSociale>Cristoforo Società Cooperativa Onlus di Pontassieve</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03571900483</codiceFiscale>
+                    <ragioneSociale>Rocchi Roberto S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04931700480</codiceFiscale>
+                    <ragioneSociale>COOPERATIVA  ULISSE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01142740479</codiceFiscale>
+                    <ragioneSociale>Samarcanda Soc. Coop. Sociale a r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01294550502</codiceFiscale>
+                    <ragioneSociale>Ponteverde Soc. Coop. Sociale Onlus di Pontedera (PI)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>25000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-09+02:00</dataInizio>
+                <dataUltimazione>2015-09-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5723.80</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAC13A0291</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO SFALCIO ERBA ED ARBUSTI VIE E PIAZZE COMUNALI</oggetto>
+            <sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01039030489</codiceFiscale>
+                    <ragioneSociale>AgriAmbiente Mugello di Galliano - Barberino M.llo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04577410485</codiceFiscale>
+                    <ragioneSociale>Archimede  Coop.va Sociale Onlus di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05093810488</codiceFiscale>
+                    <ragioneSociale>CO.M.UNI.CO. Consorzio Sociale Società Cooperativa di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05206930488</codiceFiscale>
+                    <ragioneSociale>Cristoforo Società Cooperativa Onlus di Pontassieve</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01294550502</codiceFiscale>
+                    <ragioneSociale>Ponteverde Soc. Coop. Sociale Onlus di Pontedera (PI)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03571900483</codiceFiscale>
+                    <ragioneSociale>Rocchi Roberto S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01142740479</codiceFiscale>
+                    <ragioneSociale>Samarcanda Soc. Coop. Sociale a r.l. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04931700480</codiceFiscale>
+                    <ragioneSociale>COOPERATIVA  ULISSE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>25000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-08+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8824.49</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA7141C5FE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Elezioni regionali 2015 - acquisto materiale elettorale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05883740481</codiceFiscale>
+                    <ragioneSociale>ETRURIA P.A. S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1097.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-15+02:00</dataInizio>
+                <dataUltimazione>2015-05-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z71142FCF4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE TRASMISSIONE TELEVISIVA CON EMITTENTE "TELE IRIDE" - MAGGIO 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>833.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-20+02:00</dataInizio>
+                <dataUltimazione>2015-05-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>833.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z84140A134</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO TRAMITE START REGIONE TOSCANA MANUTENZIONE POMPE SOLLEVAMENTO ACQUE INSTALLATE PRESSO IMMOBILI COMUNALI - DITTA POLI C. DI POLI ENRICO DI B.S.L. EURO 1.700,00 (OLTRE IVA)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05801770487</codiceFiscale>
+                    <ragioneSociale>Poli C. di Poli Enrico di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05801770487</codiceFiscale>
+                    <ragioneSociale>Poli C. di Poli Enrico di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1700.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-05+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7A1439178</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA MANIFESTI FIERA AGRICOLA MUGELLANA 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02149790483</codiceFiscale>
+                    <ragioneSociale>STUDIO NOFERINI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1356.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-21+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1356.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA0142477D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO PACCHETTO FORMATIVO IN MATERIA DI COMMERCIO SU AREA PUBBLICA TRIENNIO 2015-2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>BLLCLD46S27D612Q</codiceFiscale>
+                    <ragioneSociale>BILLERI CLAUDIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>599.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-23+02:00</dataInizio>
+                <dataUltimazione>2017-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5A141CABB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO CORONE D'ALLORO PER FESTA DELLA LIBERAZIONE</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02204440487</codiceFiscale>
+                    <ragioneSociale>FIORI MAGIE DI TATIANA E DANILO MARGHERI S.A.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02204440487</codiceFiscale>
+                    <ragioneSociale>FIORI MAGIE DI TATIANA E DANILO MARGHERI S.A.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>156.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-23+02:00</dataInizio>
+                <dataUltimazione>2015-05-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>156.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6D1452DAF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO RICARICHE TELEFONICHE PER I CELLULARI DEL SERVIZIO TECNICO DA TRONY - BIANCHI ELETTRONICA SPA di B.S.L. euro 532,79</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00686250523</codiceFiscale>
+                    <ragioneSociale>BIANCHI ELETTRONICA S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00686250523</codiceFiscale>
+                    <ragioneSociale>BIANCHI ELETTRONICA S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>532.79</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-30+02:00</dataInizio>
+                <dataUltimazione>2015-06-16+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>532.79</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1C1457018</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento a ditta Periscopio Comunicazione snc di alcuni servizi di comunicazione per il periodo 1/5/2015-30/06/2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05891030487</codiceFiscale>
+                    <ragioneSociale>PERISCOPIO COMUNICAZIONE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05891030487</codiceFiscale>
+                    <ragioneSociale>PERISCOPIO COMUNICAZIONE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1400.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-01+02:00</dataInizio>
+                <dataUltimazione>2015-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1400.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB11455F63</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA MATERIALE ELETTRICO FIERA AGRICOLA MUGELLANA 2015</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02192740971</codiceFiscale>
+                    <ragioneSociale>IMEP Elettroforniture S.r.l.  di Prato</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3278.79</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-29+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3278.79</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF9145922B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO MATERIALE DI FERRAMENTA PER FIERA AGRICOLA MUGELLANA 2015</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04434830487</codiceFiscale>
+                    <ragioneSociale>Guidotti S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1639.35</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-04-29+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1639.35</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z62146A52E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE IMPIANTO SPORTIVO PER GINNASTICA ARTISTICA AREA ROMANELLI NEL CAPOLUOGO - AFFIDAMENTO INCARICO PER INDAGINI GEOLOGICHE ALLA DITTA SOGEO SRL DI LUGO (RA) PER EURO 5.580,89</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01051620399</codiceFiscale>
+                    <ragioneSociale>Sogeo S.r.l. di Lugo (RA)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01051620399</codiceFiscale>
+                    <ragioneSociale>Sogeo S.r.l. di Lugo (RA)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5580.89</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-07+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCA144C459</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO TUBI INNOCENTI FIERA AGRICOLA MUGELLANA 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05197800484</codiceFiscale>
+                    <ragioneSociale>Tecno Costruzioni Generali S.r.l. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1380.07</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-04+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1380.07</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z08145B538</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Elezioni regionali 2015 - servizio montaggio/smontaggio propaganda elettorale </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04577410485</codiceFiscale>
+                    <ragioneSociale>Archimede  Coop.va Sociale Onlus di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05096450480</codiceFiscale>
+                    <ragioneSociale>cooperativa sociale Pegaso - Empoli</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04366710483</codiceFiscale>
+                    <ragioneSociale>Odissea cooperativa sociale onlus di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01714540513</codiceFiscale>
+                    <ragioneSociale>Opus Laetus</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06032510486</codiceFiscale>
+                    <ragioneSociale>"12 Passi" cooperativa sociale onlus di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2220.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-05+02:00</dataInizio>
+                <dataUltimazione>2015-05-09+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2220.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE3146C7F3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ORGANIZZAZIONE MOSTRE ZOOTECNICHE FIERA AGRICOLA MGUELLANA 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05858820482</codiceFiscale>
+                    <ragioneSociale>ASSOCIAZIONE REGIONALE ALLEVATORI TOSCANA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19672.14</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-05+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>19672.13</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1B149D75D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE TRASMISSIONE TELEVISIVA CON EMITTENTE "TELE IRIDE" - GIUGNO 2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>833.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-19+02:00</dataInizio>
+                <dataUltimazione>2015-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>833.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3014A51B3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Elezioni regionali 2015 - spese per allestimenti seggi (pulizia locali)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02402671206</codiceFiscale>
+                    <ragioneSociale>Manutencoop facility management spa</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>315.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-01+02:00</dataInizio>
+                <dataUltimazione>2015-06-01+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9A14A52D1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Elezioni regionali 2015 - allestimento seggi elettorali (collegamenti telefonici temporanei)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00488410010</codiceFiscale>
+                    <ragioneSociale>TELECOM ITALIA S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>600.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-30+02:00</dataInizio>
+                <dataUltimazione>2015-06-01+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>185.50</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE7142C96B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO SACCHI PER COMPOSTAGGIO E RACCOLTA NETTEZZA URBANA PER VARI SERVIZI COMUNALI - TRAMITE ME.PA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03527330488</codiceFiscale>
+                    <ragioneSociale>TOSCANA SERVICE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03527330488</codiceFiscale>
+                    <ragioneSociale>TOSCANA SERVICE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2373.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-21+02:00</dataInizio>
+                <dataUltimazione>2015-10-01+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2348.40</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAD14B1430</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ADESIONE CONVENZIONE CONSIP TELEFONIA MOBILE 6</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00488410010</codiceFiscale>
+                    <ragioneSociale>TELECOM ITALIA S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00488410010</codiceFiscale>
+                    <ragioneSociale>TELECOM ITALIA S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-22+02:00</dataInizio>
+                <dataUltimazione>2017-05-22+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2214AF0AF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>EVENTO FRANOSO A PANICAGLIA - PROSECUZIONE FINO AL 31.12.2015 INCARICO AL GEOLOGO LUIGI PAOLI DI B.S.L. DELL'ATTIVITA' DI MONITORAGGIO </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>PLALGU60P25B036K</codiceFiscale>
+                    <ragioneSociale>Dott. Luigi Paoli geologo di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-25+02:00</dataInizio>
+                <dataUltimazione>2015-06-23+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7E14B029E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>PROGETTO COMUNICAZIONE FIERA AGRICOLA MUGELLANA 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05891030487</codiceFiscale>
+                    <ragioneSociale>PERISCOPIO COMUNICAZIONE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-22+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1A14851D9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA MATERIALE PER ALLESTIMENTO MOSTRE ZOOTECNICHE FIERA AGRICOLA MUGELLANA 2015</oggetto>
+            <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1639.14</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-22+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1638.80</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF914B6671</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO CASSETTE  DI BACK UP E PULIZIA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>08458520155</codiceFiscale>
+                    <ragioneSociale>DEBA SRL </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>475.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-29+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>475.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6514B2CE7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA FIENO PER ALLESTIMENTO MOSTRE ZOOTECNICHE FIERA AGRICOLA MUGELLANA</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06197910489</codiceFiscale>
+                    <ragioneSociale>VENANZI SAURO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1650.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-10+02:00</dataInizio>
+                <dataUltimazione>2015-06-24+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6E1468328</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO VERNICE SPARTITRAFFICO PER SEGNALETICA ORIZZONTALE DA REALIZZARE IN ECONOMIA - AFF.TO TRAMITE START RETIONE TOSCANA DITTA TES S.p.A. DI VEDELAGO (TV)
+</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01971670268</codiceFiscale>
+                    <ragioneSociale>T.E.S. S.p.A. di Vedelago (TV)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02905080368</codiceFiscale>
+                    <ragioneSociale>Progetto Segnaletica S.r.l. di Mirandola (MO)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01971670268</codiceFiscale>
+                    <ragioneSociale>T.E.S. S.p.A. di Vedelago (TV)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>15000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-26+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7556.72</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDB14C5379</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>COPERTURA ASSICURATIVA RC ESPOSITORI FIERA AGRICOLA MUGELLANA EDIZIONE 2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05032630963</codiceFiscale>
+                    <ragioneSociale>ALLIANZ SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05032630963</codiceFiscale>
+                    <ragioneSociale>ALLIANZ SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1400.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-08+02:00</dataInizio>
+                <dataUltimazione>2015-06-16+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1400.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8514CC880</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Elezioni Regionali 2015 - assistenza  e reperibilità hardware</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02266590484</codiceFiscale>
+                    <ragioneSociale>Computer Care srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02266590484</codiceFiscale>
+                    <ragioneSociale>Computer Care srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>208.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-30+02:00</dataInizio>
+                <dataUltimazione>2015-06-01+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>208.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF514AFD6F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE NUOVA PALESTRA GINNASTICA ARTISTICA AREA ROMANELLI - AFF.TO INCARICO REDAZIONE RELAZIONE GEOLOGICA ALLO STUDIO ASSOCIATO GEODINAMICA DI FIRENZE </oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04652340482</codiceFiscale>
+                    <ragioneSociale>Geodinamica Studio geologico associato di Calò J., Checcucci R., Scotti A. di Firenze</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01657270516</codiceFiscale>
+                    <ragioneSociale>Dr. Geol. Simone Masini di Pontassieve</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>SDDLNZ81T25A390O</codiceFiscale>
+                    <ragioneSociale>Sedda Lorenzo geologo di Arezzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>LLOLRT59H07I085U</codiceFiscale>
+                    <ragioneSociale>Dott. geologo Alberto Loli di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>PLALGU60P25B036K</codiceFiscale>
+                    <ragioneSociale>Dott. Luigi Paoli geologo di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04652340482</codiceFiscale>
+                    <ragioneSociale>Geodinamica Studio geologico associato di Calò J., Checcucci R., Scotti A. di Firenze</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2550.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-04+02:00</dataInizio>
+                <dataUltimazione>2015-06-23+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCA14AFD9C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE IMPIANTO SPORTIVO PER GINNASTICA ARTISTICA AREA ROMANELLI - AFF.TO INCARICO PER RILIEVO PIANO ALTIMETRICO E PICCHETTAMENTO GEOM. ANDREA PONZALLI DI B.S.L.</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04954120483</codiceFiscale>
+                    <ragioneSociale>Andrea Ponzalli geom. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>BNOWDM79E20D612X</codiceFiscale>
+                    <ragioneSociale>Boni Wladimir geometra di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>BTUPLA82L21A564F</codiceFiscale>
+                    <ragioneSociale>Buti Paolo geometra di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>CNTFNC67B01A632H</codiceFiscale>
+                    <ragioneSociale>Cantini Francesco perito agrario di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>FLPJRU75C27B036A</codiceFiscale>
+                    <ragioneSociale>Filipponi Juri geometra, di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04954120483</codiceFiscale>
+                    <ragioneSociale>Andrea Ponzalli geom. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-04+02:00</dataInizio>
+                <dataUltimazione>2015-06-23+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1D14D4667</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE PALESTRA GINNASTICA ARTISTICA IN AREA ROMANELLI - AFF. ALL'ING. BINI PAOLO DI BORGO SAN LORENZO INCARICO PROGETTAZIONE OPERE STRUTTURALI- FONDAZIONI IN C.A. </oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>BNIPLA53E29A632S</codiceFiscale>
+                    <ragioneSociale>BINI PAOLO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>STFLCU64R24L838O</codiceFiscale>
+                    <ragioneSociale>STEFANACCI LUCA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>CPRNCL73E28D612B</codiceFiscale>
+                    <ragioneSociale>CIPRIANI NICOLA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05619160483</codiceFiscale>
+                    <ragioneSociale>STUDIO GIANASSI INGEGNERIA-ARCHITETTURA-URBANISTICA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>PGLNDR76R16D612R</codiceFiscale>
+                    <ragioneSociale>PAGLIAZZI ANDREA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>LVCGNN71H04B036D</codiceFiscale>
+                    <ragioneSociale>LAVACCHINI GIOVANNI</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>DNTSMN73H07D612F</codiceFiscale>
+                    <ragioneSociale>DI NATALE SIMONE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>BNIPLA53E29A632S</codiceFiscale>
+                    <ragioneSociale>BINI PAOLO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-05-29+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF414D37CC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>NOLEGGIO STRUTTURE FIERA AGRICOLA MUGELLANA</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05891030487</codiceFiscale>
+                    <ragioneSociale>PERISCOPIO COMUNICAZIONE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>384.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-03+02:00</dataInizio>
+                <dataUltimazione>2015-06-14+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>384.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1614E97C2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MATERIALE DI CONSUMO PER AFFRANCATRICE POSTALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06736060630</codiceFiscale>
+                    <ragioneSociale>RCM ITALIA S.R.L</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06736060630</codiceFiscale>
+                    <ragioneSociale>RCM ITALIA S.R.L</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>268.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-29+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>268.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4B14FA010</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE TRASMISSIONE TELEVISIVA CON EMITTENTE "TELE IRIDE" - LUGLIO 2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>833.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-06-15+02:00</dataInizio>
+                <dataUltimazione>2015-07-31+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>833.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z601520B7F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO BUSTE ED ETICHETTE PER CARTE DI IDENTITA'</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00991131004</codiceFiscale>
+                    <ragioneSociale>FELIAN  SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>353.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-29+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>353.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB4154CF7C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>RIPARAZIONE IMPIANTO ANTINTRUSIONE CENTRO D'INCONTRO </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03845360167</codiceFiscale>
+                    <ragioneSociale>LKSECURITY S.R.L</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03845360167</codiceFiscale>
+                    <ragioneSociale>LKSECURITY S.R.L</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>210.38</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-07-08+02:00</dataInizio>
+                <dataUltimazione>2015-07-27+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>210.38</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7B155D598</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>RIMOZIONE CORPI ILLUMINANTI DANNEGGIATI DA AGENTI ATMOSFERICI PRESSO CAMPO SPORTIVO RONTA</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05801770487</codiceFiscale>
+                    <ragioneSociale>Poli C. di Poli Enrico di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05801770487</codiceFiscale>
+                    <ragioneSociale>Poli C. di Poli Enrico di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>585.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-07-13+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>585.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z43155C48A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>INTERVENTO PRESSO CAMPO SPORTIVO RONTA PER RIMOZIONE LAMPIONI DANNEGGIATI DA EVENTI ATMOSFERICI </oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06110850481</codiceFiscale>
+                    <ragioneSociale>MUGELLO NOLEGGI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>1786.08</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-07-13+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z43155CA8A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>RIMOZIONE CORPI ILLUMINANTI DANNEGGIATI PRESENTI PRESSO IL CAMPO SPORTIVO DI RONTA - AFFIDAMENTO DITTA MUGELLO NOLEGGI SRL DI VICCHIO -</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06110850481</codiceFiscale>
+                    <ragioneSociale>MUGELLO NOLEGGI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>06110850481</codiceFiscale>
+                    <ragioneSociale>MUGELLO NOLEGGI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1464.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-07-13+02:00</dataInizio>
+                <dataUltimazione>2015-07-13+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1464.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE61569C0E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SISTEMAZIONE TETTO AMBULATORIO COMUNALE PANICAGLIA </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>06395840488</codiceFiscale>
+                    <ragioneSociale>F.LLI MALAJ DI MALAJ KRENAR E C. SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>304.02</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-07-16+02:00</dataInizio>
+                <dataUltimazione>2015-07-27+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>304.02</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3515A2949</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE STRAORDINARIA AUTOMEZZO ADIBITO ALLA VIABILITA' COMUNALE TIPO KARON TARGATO BG566K</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3084.70</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-08-04+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5715AA42F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>SPEDIZIONE CORRISPONDENZA ANNO 2015</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01114601006</codiceFiscale>
+                    <ragioneSociale>POSTE ITALIANE S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01114601006</codiceFiscale>
+                    <ragioneSociale>POSTE ITALIANE S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>20000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-08-06+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>636189844F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>CONCESSIONE PROG. REALIZZ. E GESTIONE IMP. FOTOVOLTAICI SCUOLE MEDIE ED EDIFICIO EX PRETURA</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01187460504</codiceFiscale>
+                    <ragioneSociale>Toscana Energia Green S.p.A. </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01701580670</codiceFiscale>
+                    <ragioneSociale>Scarafoni Group S.r.l. di Giulianova (TE)</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01187460504</codiceFiscale>
+                    <ragioneSociale>Toscana Energia Green S.p.A. </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>267156.83</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-08-06+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0A15AC55B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO TRAMITE MEPA  CORSO E -SEMINAR SULLA NUOVA RIFORMA MADIA DELLA P.A</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02386580209</codiceFiscale>
+                    <ragioneSociale>AIDEM srl </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02386580209</codiceFiscale>
+                    <ragioneSociale>AIDEM srl </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>159.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-30+02:00</dataInizio>
+                <dataUltimazione>2015-10-28+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE915C3263</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>intervento caldaia immobile comunale condominio di Panicaglia Via Lucchino </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>SNCMTT77P05B036F</codiceFiscale>
+                    <ragioneSociale>MUGELLO CALDAIE DI MATTEO SENECI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>317.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-08-21+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEF15BE68C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>RIFACIMENTO SEGNALETICA STRADALE ORIZZONTALE CAPOLUOGO E FRAZIONI - AFFIDAMENTO TRAMITE "START" ALLA DITTA PADANA SRL DI TOMBOLO (PD) - IMPORTO CONTRATTUALE 9.120,00 + IVA</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01676490517</codiceFiscale>
+                    <ragioneSociale>5 S.P. S.r.l. di Marciano della Chiana (AR)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03940410289</codiceFiscale>
+                    <ragioneSociale>CI.GI.ESSE SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00151420205</codiceFiscale>
+                    <ragioneSociale>GUBELA S.p.A. di Castiglione delle Stiviere (MN)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01210380208</codiceFiscale>
+                    <ragioneSociale>SI.SE. SRL DI CASTIGLIONE DELLE STIVIERE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02200520365</codiceFiscale>
+                    <ragioneSociale>Studio Eureka S.r.l. di Sassuolo (MO)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00162020549</codiceFiscale>
+                    <ragioneSociale>S.I.S. Segnaletica Industriale Stradale SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01847760475</codiceFiscale>
+                    <ragioneSociale>F.lli Spitaletto Costruzioni SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04224200289</codiceFiscale>
+                    <ragioneSociale>Padana Segnaletica S.r.l. di Tombolo (PD)</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01052760533</codiceFiscale>
+                    <ragioneSociale>SEG.MA VERNICI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01389820521</codiceFiscale>
+                    <ragioneSociale>SOCES SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04224200289</codiceFiscale>
+                    <ragioneSociale>Padana Segnaletica S.r.l. di Tombolo (PD)</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9120.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-10+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4B15AA5DA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>REALIZZAZIONE E MESSA IN ONDA DI N. 8 TRASMISSIONI TELEVISIVE CON EMITTENTE "TELE IRIDE" - </oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01527640484</codiceFiscale>
+                    <ragioneSociale>Tele Iride scarl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6664.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-08+02:00</dataInizio>
+                <dataUltimazione>2016-04-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7115F73CC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>INTERVENTI DI MANUTENZIONE ALL'IMPIANTO ANTIINTRUSIONE DELLA SCUOLA ELEMENTARE DI VIA L. DA VINCI - AFFIDAMENTO ALLA DITTA LK SECURITY SRL UNIPERSONALE DI BERGAMO (BG) PER UN IMPORTO DI € 1404,60 (IVA ESCLUSA) -</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03845360167</codiceFiscale>
+                    <ragioneSociale>LK Security S.r.l. di Bergamo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03845360167</codiceFiscale>
+                    <ragioneSociale>LK Security S.r.l. di Bergamo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1404.60</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-10+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6394261719</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO ABBONAMENTI PLURIMENSILI PER STUDENTI -  ANNO SCOLASTICO 2015/16</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05482690483</codiceFiscale>
+                    <ragioneSociale>AUTOLINEE MUGELLO VAL DI SIEVE SCARL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05482690483</codiceFiscale>
+                    <ragioneSociale>AUTOLINEE MUGELLO VAL DI SIEVE SOCIETA' CONSORTILE A R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>104545.46</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-15+02:00</dataInizio>
+                <dataUltimazione>2016-06-30+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3315F9BF4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO DETERSIVI E VARI ARTICOLI DI PULIZIA</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00089490478</codiceFiscale>
+                    <ragioneSociale>DAMAZ S.R.L</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03960230377</codiceFiscale>
+                    <ragioneSociale>ITALCHIM S.R.L. INDUSTRIA CHIMICA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01717210973</codiceFiscale>
+                    <ragioneSociale>ROLLPROGRES</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03527330488</codiceFiscale>
+                    <ragioneSociale>TOSCANA SERVICE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03960230377</codiceFiscale>
+                    <ragioneSociale>ITALCHIM S.R.L. INDUSTRIA CHIMICA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1291.09</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-15+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9C15F9BD2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO ARTICOLI DI CARTA MONOUSO PER VARI SERVIZI COMUNALI</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00089490478</codiceFiscale>
+                    <ragioneSociale>DAMAZ S.R.L</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03960230377</codiceFiscale>
+                    <ragioneSociale>ITALCHIM S.R.L. INDUSTRIA CHIMICA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03527330488</codiceFiscale>
+                    <ragioneSociale>TOSCANA SERVICE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01717210973</codiceFiscale>
+                    <ragioneSociale>ROLLPROGRES</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00089490478</codiceFiscale>
+                    <ragioneSociale>DAMAZ S.R.L</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2630.29</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-15+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2015D67F7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto> 	
+Abbonamento Paweb </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01913750681</codiceFiscale>
+                    <ragioneSociale>CELCOMMERCIALE S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01913750681</codiceFiscale>
+                    <ragioneSociale>CELCOMMERCIALE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>744.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-15+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD5154CAA7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ABBONAMENTO AL SOLE 24 ORE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00777910159</codiceFiscale>
+                    <ragioneSociale>IL SOLE 24 ORE S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>199.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-07-16+02:00</dataInizio>
+                <dataUltimazione>2015-07-27+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>199.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8E16032F6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura corone d'alloro per festa della liberazione e commemorazione 30 dicembre</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02204440487</codiceFiscale>
+                    <ragioneSociale>FIORI MAGIE DI TATIANA E DANILO MARGHERI S.A.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02204440487</codiceFiscale>
+                    <ragioneSociale>FIORI MAGIE DI TATIANA E DANILO MARGHERI S.A.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>260.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-17+02:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z37161CAEB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO CARTA PER FOTOCOPIATRICE MEDIANTE ODA SUL ME.PA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07997560151</codiceFiscale>
+                    <ragioneSociale>VALSECCHI GIOVANNI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>485.91</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-17+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1D15FC320</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO STOVIGLIE PER MENSE SCOLASTICHE ED ASILI NIDO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05860440485</codiceFiscale>
+                    <ragioneSociale>CASALINGHIAMO S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05860440485</codiceFiscale>
+                    <ragioneSociale>CASALINGHIAMO S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1706.22</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-29+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4D162C8E8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>Operazioni topografiche relative al rilievo planoaltimetrico di Viale Giovanni XXIII - Affidamento Studio tecnico Lavacchini &amp; Manzani Associati di Borgo San Lorenzo -</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04954120483</codiceFiscale>
+                    <ragioneSociale>Andrea Ponzalli geom. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>SGNDNL68A18D612X</codiceFiscale>
+                    <ragioneSociale>Sguanci Daniele geometra di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>CNTFNC67B01A632H</codiceFiscale>
+                    <ragioneSociale>Cantini Francesco perito agrario di Scarperia e San Piero</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05125190487</codiceFiscale>
+                    <ragioneSociale>STUDIO TECNICO ASSOCIATO LAVACCHINI &amp; MANZANI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05125190487</codiceFiscale>
+                    <ragioneSociale>STUDIO TECNICO ASSOCIATO LAVACCHINI &amp; MANZANI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>988.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-29+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>988.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3015EB3C1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO DI MOTOSEGA STIHL DA UTILIZZARE PER LE MANUTENZIONI IN ECONOMIA DEL PATRIMONIO COMUNALI - AFFIDAMENTO ALLA DITTA MOTOGENESAL SNC DI BORGO SAN LORENZO -</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04027940487</codiceFiscale>
+                    <ragioneSociale>Motogeneral S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06437180489</codiceFiscale>
+                    <ragioneSociale>FERRAMENTA CAPRETTI MARCELLO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04027940487</codiceFiscale>
+                    <ragioneSociale>Motogeneral S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>713.12</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-29+02:00</dataInizio>
+                <dataUltimazione>2015-09-29+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>713.12</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z79151C8B3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>ACQUISTO VESTIARIO E DISPOSITIVI DI SICUREZZA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00689860484</codiceFiscale>
+                    <ragioneSociale>Santelli e Bargiotti &amp; C. S.n.c. di Borgo San Lorenzo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>661.90</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-08-31+02:00</dataInizio>
+                <dataUltimazione>2015-09-25+02:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>661.90</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z121297218</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01017000488</codiceFiscaleProp>
+                <denominazione>Comune di Borgo San Lorenzo</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO SERVIZIO VIGILANZA VILLA PECORI GIRALDI </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03182700488</codiceFiscale>
+                    <ragioneSociale>CORPO VIGILI GIURATI S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03182700488</codiceFiscale>
+                    <ragioneSociale>CORPO VIGILI GIURATI S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2215.56</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-01+01:00</dataInizio>
+                <dataUltimazione>2015-12-31+01:00</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>555.98</importoSommeLiquidate>
+        </lotto>
+    </data>
+</ns2:pubblicazione>
+

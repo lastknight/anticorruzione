@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Comunicazione legge 190/2012</titolo>
+    <abstract>Comunicazione legge 190/2012</abstract>
+    <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO SCIENTIFICO - "G. GALILEI" - TREBISACCE</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SS28162/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SS28162/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201581000850784">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SS28162/2015/gare201581000850784.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

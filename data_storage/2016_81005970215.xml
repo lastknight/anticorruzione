@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Vipiteno</abstract>
+   <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Vipiteno</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21115/21115indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_E0994070-18DD-444E-9E7D-74D02732F473'>
+      <linkDataset>http://data.gvcc.net/avcp/21115/E0994070-18DD-444E-9E7D-74D02732F473.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_8A4BC44C-BAC4-495E-8DE6-4D117E5ABA49'>
+      <linkDataset>http://data.gvcc.net/avcp/21115/8A4BC44C-BAC4-495E-8DE6-4D117E5ABA49.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_0F958603-39C9-490A-808C-988F017F4A85'>
+      <linkDataset>http://data.gvcc.net/avcp/21115/0F958603-39C9-490A-808C-988F017F4A85.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_7BB0AFBD-55B8-4AC3-8920-567898F830E1'>
+      <linkDataset>http://data.gvcc.net/avcp/21115/7BB0AFBD-55B8-4AC3-8920-567898F830E1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

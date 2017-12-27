@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice pubblicazione 2015</titolo>
+    <abstract>Pubblicazione relativa all'anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+    <entePubblicatore>COMUNE DI BARDONECCHIA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.datitrasparenti.it/public/86501270010/indiceavcp2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2004">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2004.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2005">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2005.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2006">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2006.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2007">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2007.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2008">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2008.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2009">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2009.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2010">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2010.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2011">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2011.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.datitrasparenti.it/public/86501270010/Dati_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-12-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

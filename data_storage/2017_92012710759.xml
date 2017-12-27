@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice ADEMPIMENTI L.190/2012 ART.1,C.32</titolo>
+    <abstract>INVIO FILE</abstract>
+    <dataPubblicazioneIndice>2017-02-02</dataPubblicazioneIndice>
+    <entePubblicatore>IST. COMPRENSIVO CORIGLIANO D'OTRANTO � CASTRIGNANO DEI GRECI - MELPIGNANO -   - CORIGLIANO D'OTRANTO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-02</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC23543/2016/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC23543/2016/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201692012590755">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC23543/2016/gare201692012590755.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

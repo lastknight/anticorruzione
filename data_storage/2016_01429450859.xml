@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione  legge 190</titolo>
+		<abstract>Pubblicazione  legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2014-01-22</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Vallelunga Pratameno - Albo Pretorio</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-02-03</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://185.56.8.32/vallelunga/zf/index.php/dataset/appalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+						<lotto>
+						<cig>Z4412B9201</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>01429450859</codiceFiscaleProp>
+				<denominazione>COMUNE DI VALLELUNGA PRATAMENO</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione straordinaria una-tantum del sistema IBM AS/400 e NAS IOMEGA-LENOVO compresa la sostituzione delle componenti danneggiate - Impegno di spesa</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+											</partecipanti>
+			<aggiudicatari>
+															<aggiudicatario>
+							<codiceFiscale>04451520821</codiceFiscale>
+							<ragioneSociale>MAST s.n.c</ragioneSociale>
+						</aggiudicatario>
+									
+							</aggiudicatari>
+			<importoAggiudicazione>0</importoAggiudicazione>
+			<tempiCompletamento>
+								<dataInizio>2015-01-20</dataInizio>
+												<dataUltimazione>2015-01-31</dataUltimazione>
+							</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+					</data>
+</legge190:pubblicazione>

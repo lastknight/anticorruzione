@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>File XML per l’ADISU Benevento</titolo>
+    <abstract>File XML per l’ADISU Benevento</abstract>
+    <dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+    <entePubblicatore>Azienda per il Diritto allo Studio Universitario di Benevento</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.adisubenevento.com/file2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZC90FB19BE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Integrazione polizza fideiussoria </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04349061004</codiceFiscale>
+          <ragioneSociale>Società per azioni "HDI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04349061004</codiceFiscale>
+          <ragioneSociale>Società per azioni "HDI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>150.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-09</dataInizio>
+        <dataUltimazione>2016-09-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF011CAB47</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ordinaria impianto di riscaldamento/raffreddamento Uffici ADISU</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00927830620</codiceFiscale>
+          <ragioneSociale>Salvatore Mauro </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01461710624</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Catalano”</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01407390621</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Mavi”</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01214220624</codiceFiscale>
+          <ragioneSociale>Società IN NOME COLLETTIVO “L&amp;G Service” </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01461710624</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Catalano”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2018-01-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>590.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2C11CAC60</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ordinaria impianto ascensore</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00182080622</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “EL.TO.”</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00299810655</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Paravia Elevator Service”</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00082150624</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Vimab AScensori”</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00936980622</codiceFiscale>
+          <ragioneSociale>Società in nome collettivo “DA.TI. Ascensori” </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00936980622</codiceFiscale>
+          <ragioneSociale>Società in nome collettivo “DA.TI. Ascensori” </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1650.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2018-01-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>596.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A12308C9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione estintori dal 01/01/2015 al 31/12/2019</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01432450623</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “MCS Impianti”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01432450623</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “MCS Impianti”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>826.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2019-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>59234834CE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Procedura aperta per l’affidamento in concessione del servizio di cassa</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00254030729</codiceFiscale>
+          <ragioneSociale>Società Cooperativa per azioni "Banca Popolare di Bari "</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00254030729</codiceFiscale>
+          <ragioneSociale>Società Cooperativa per azioni "Banca Popolare di Bari "</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-01</dataInizio>
+        <dataUltimazione>2018-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3073.77</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>57698685B2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio mensa</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01579130624</codiceFiscale>
+          <ragioneSociale>"La Spiga "</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02787771217</codiceFiscale>
+          <ragioneSociale>RI.CA. </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05351490965</codiceFiscale>
+          <ragioneSociale>Società a per azioni "Gemeaz Elior "</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5910465E00</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio mensa</oggetto>
+      <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02831520651</codiceFiscale>
+          <ragioneSociale>"Sprint di Toriello elena"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6024634540</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio mensa</oggetto>
+      <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02609300641</codiceFiscale>
+          <ragioneSociale>"3C"</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05308780658</codiceFiscale>
+          <ragioneSociale>"R.E.R."</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02609300641</codiceFiscale>
+          <ragioneSociale>"3C"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>198000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-26</dataInizio>
+        <dataUltimazione>2018-01-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>131020.37</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5812494DC6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio mensa</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01598250627</codiceFiscale>
+          <ragioneSociale>"Acquolina "</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01474220629</codiceFiscale>
+          <ragioneSociale>"La Fanciullaccia"</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01507750626</codiceFiscale>
+          <ragioneSociale>"Pizzetta Vari "</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01168020624</codiceFiscale>
+          <ragioneSociale>"Senza Pretese "</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01401040629</codiceFiscale>
+          <ragioneSociale>"Sprint di Toriello elena"</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01573700620</codiceFiscale>
+          <ragioneSociale>Vicolè di fabrizio Pagnozzi </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8712F1777</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza assicurativa Uffici ADISU Ex Palazzina Zoppoli</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01572680625</codiceFiscale>
+          <ragioneSociale>Società in nome collettivo “Carito e De Nigris”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01572680625</codiceFiscale>
+          <ragioneSociale>Società in nome collettivo “Carito e De Nigris”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2024.89</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-28</dataInizio>
+        <dataUltimazione>2016-01-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2024.89</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEB1734D1D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Software per la gestione paghe, gestione economico/finanziaria, gestione affari generali – anno 2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00933130411</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Abbanet”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00933130411</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Abbanet”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE41734F26</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto monetica e implementazione, assistenza e manutenzione del sistema informatico per B.d.S. e accesso mensa anno 2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00933130411</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Abbanet”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00933130411</codiceFiscale>
+          <ragioneSociale>Società a responsabilità limitata “Abbanet”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>26990.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>26990.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z77173531B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Assistenza parco hardware aziendale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01326170626</codiceFiscale>
+          <ragioneSociale>MPOINT DI MARCELLO MELILLO </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01326170626</codiceFiscale>
+          <ragioneSociale>MPOINT DI MARCELLO MELILLO </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC1173EF56</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI PULIZIA E SANIFICAZIONE DEI LOCALI DELL’ADISU ANNO 2016</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00965350093</codiceFiscale>
+          <ragioneSociale>GRATTACASO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6817615E7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di beni e servizi</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01326170626</codiceFiscale>
+          <ragioneSociale>MPOINT DI MARCELLO MELILLO </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01326170626</codiceFiscale>
+          <ragioneSociale>MPOINT DI MARCELLO MELILLO </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1762.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1762.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9517656FA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio prestito libri</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02776910016</codiceFiscale>
+          <ragioneSociale>UTET</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02776910016</codiceFiscale>
+          <ragioneSociale>UTET</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>160.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>160.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F1765D34</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Proroga servizio vigilanza dal 01/01 al 30/06/2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00138910625</codiceFiscale>
+          <ragioneSociale>Società a Responsabilità Limitata “Il Poliziotto Notturno”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00138910625</codiceFiscale>
+          <ragioneSociale>Società a Responsabilità Limitata “Il Poliziotto Notturno”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2875.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-31</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2875.08</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9317799FE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI PULIZIA E SANIFICAZIONE DEI LOCALI DELL’ADISU ANNO 2016</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02410170654</codiceFiscale>
+          <ragioneSociale>AMBIENTE SUD S.A.S. DI BERTOLINI MARIO &amp; C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9D17A7B0F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Proroga servizio di pulizia gennaio/marzo 2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732370634</codiceFiscale>
+          <ragioneSociale>Società a Responsabilità Limitata “Sielem”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03732370634</codiceFiscale>
+          <ragioneSociale>Società a Responsabilità Limitata “Sielem”</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2235.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2235.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C17DC7F4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Polizza assicurativa uffici ADISU anno 2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01589270626</codiceFiscale>
+          <ragioneSociale>Generali Ina Assitalia spa</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01589270626</codiceFiscale>
+          <ragioneSociale>Generali Ina Assitalia spa</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2024.89</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2024.89</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>638616808D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO DEL SERVIZIO BUS NAVETTA DEGLI STUDENTI ISCRITTI ALL'UNIVERSITA' DEGLI STUDI DEL SANNIO DA E PER LE FACOLTA' DELL'UNIVERSITA' E LA MENSA UNIVERSITARIA UBICATA ALLA VIA CALANDRA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11132740017</codiceFiscale>
+          <ragioneSociale>AM AUTONOLEGGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01417570627</codiceFiscale>
+          <ragioneSociale>AUTONOLEGGI MAZZARELLI S.A.S. DI MAZZARELLI BRUNELLO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01338440629</codiceFiscale>
+          <ragioneSociale>AUTONOLEGGIO DI BIASE DOMENICO </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01414050623</codiceFiscale>
+          <ragioneSociale>Benetour</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01522930625</codiceFiscale>
+          <ragioneSociale>CAMPOLI SERVIZI SOCIETA' COOPERATIVA SOCIALE soc. coop.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01096700628</codiceFiscale>
+          <ragioneSociale>CARUSO NICOLA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01273720621</codiceFiscale>
+          <ragioneSociale>COPPOLARO S.R.L.S. </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01539210623</codiceFiscale>
+          <ragioneSociale>DE CONNO INCORONATA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00596900621</codiceFiscale>
+          <ragioneSociale>DI BIASE GIOVANNI </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01217580628</codiceFiscale>
+          <ragioneSociale>Emmerre Auto S.A.S.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01257170629</codiceFiscale>
+          <ragioneSociale>FANCY TOUR</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00123100620</codiceFiscale>
+          <ragioneSociale>MAZZARELLI MARIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01523800629</codiceFiscale>
+          <ragioneSociale>MAZZONE BUS &amp; TRAVEL S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01476480627</codiceFiscale>
+          <ragioneSociale>MAZZONE VIAGGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01325650628</codiceFiscale>
+          <ragioneSociale>MUCRE SOC COOP</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07041751210</codiceFiscale>
+          <ragioneSociale>NETWORK WORLD TRAVEL </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01533390629</codiceFiscale>
+          <ragioneSociale>NOLEGGIO AUTOBUS GIORDANO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00938780624</codiceFiscale>
+          <ragioneSociale>PACELLI ROMOLO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01525330625</codiceFiscale>
+          <ragioneSociale>PEDICINI VIAGGI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01567420623</codiceFiscale>
+          <ragioneSociale>ROYAL TOUR</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01139860629</codiceFiscale>
+          <ragioneSociale>SELLITTO TURISMO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00793940628</codiceFiscale>
+          <ragioneSociale>TURISMO DI CAPRIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01417570627</codiceFiscale>
+          <ragioneSociale>AUTONOLEGGI MAZZARELLI S.A.S. DI MAZZARELLI BRUNELLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>68776.95</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2018-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17715.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC51B04BF9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>Proroga servizio di sorveglianza </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00138910625</codiceFiscale>
+          <ragioneSociale>Società a Responsabilità Limitata “Il Poliziotto Notturno”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>2875.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1916.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4218CF0E7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01135250627</codiceFiscaleProp>
+        <denominazione>Azienda per il Diritto allo Studio Universitario di Benevento</denominazione>
+      </strutturaProponente>
+      <oggetto>PROROGA SERVIZIO PULIZIA UFFICI ADISU </oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03732370634</codiceFiscale>
+          <ragioneSociale>Società a Responsabilità Limitata “Sielem”</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>4470.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-01</dataInizio>
+        <dataUltimazione>2016-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4470.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

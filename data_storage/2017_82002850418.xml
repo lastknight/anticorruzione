@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione dei dati legge 190</titolo>
+    <abstract>Pubblicazione dei dati legge 190 - anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-03-13</dataPubblicazioneIndice>
+    <entePubblicatore>Università degli Studi di Urbino Carlo Bo</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-03-13</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://amministrazionetrasparente.uniurb.it/sites/default/files/legge190/2016/indicedataset_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://amministrazionetrasparente.uniurb.it/sites/default/files/legge190/2016/dataset_2016_00001.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://amministrazionetrasparente.uniurb.it/sites/default/files/legge190/2016/dataset_2016_00002.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-13</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

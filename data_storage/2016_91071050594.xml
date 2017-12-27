@@ -1,0 +1,409 @@
+<!DOCTYPE html><!--[if lt IE 6]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 lt-ie6" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><![endif]--><!--[if IE 6]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 ie6" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><![endif]--><!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 ie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><![endif]--><!--[if IE 8]><html class="no-js lt-ie10 lt-ie9 ie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><![endif]--><!--[if IE 9]><html class="no-js lt-ie10 ie9" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><![endif]--><!--[if gt IE 9]><!--><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><!--<![endif]--><head><script type="text/javascript">document.getElementsByTagName("html")[0].className=document.getElementsByTagName("html")[0].className.replace("no-js","js");window.zhongFramework={self:{},params:{},helpers:{},cache:{},components:{},handlers:{},actions:{},mixins:{}};</script><!--[if lt IE 9]><script type="text/javascript">(function(){var a=["abbr","article","aside","audio","bdi","canvas","data","datalist","details","dialog","figcaption","figure","footer","header","hgroup","main","mark","meter","nav","output","picture","progress","section","summary","template","time","video"];for(var i=a.length-1;i>=0;i=i-1)document.createElement(a[i])}())</script><![endif]--><base href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Administrator" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012</title>
+	<link href="http://www.xviiicomunitamontana.it/component/search/?Itemid=194&amp;catid=35&amp;id=83&amp;format=opensearch" rel="search" title="Vai xviiicomunitamontana" type="application/opensearchdescription+xml" />
+	<link href="/media/system/css/modal.css?0837998476edb767eccc9207b9edfe47" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_js_flexslider/assets/css/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_js_flexslider/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+div.mod_search93 input[type="search"]{ width:auto; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"98a0dd1d30abdd9c75f80c7e4ef42404","system.paths":{"root":"","base":""},"system.keepalive":{"interval":3540000,"uri":"\/component\/ajax\/?format=json"}}</script>
+	<script src="/media/system/js/mootools-core.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script><![endif]-->
+	<script src="/media/system/js/keepalive.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/html5fallback.js?0837998476edb767eccc9207b9edfe47" type="text/javascript"></script><![endif]-->
+	<script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/css/min/layouts/default-layout.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/css/min/platforms/Joomla/joomla3.css" /><style type="text/css" media="print">*{background-color:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a img{border:0 !important}body{font-size:1em}p,ul li,ol li,table,label,dt,dd{font-size:1em}table{margin:20pt 5%;padding:0;border-collapse:collapse;width:90%}table td,table th{padding:2pt 5pt;border:solid 1pt #DDD}table th{text-align:center}thead{display:table-header-group}a,a:visited{text-decoration:underline}img{max-width:100%;height:auto;page-break-inside:avoid}.visually-hidden,.removed,.zf--toolbox-panel,#zf--screenreader-hidden-message,#zf--internal-anchors-nav,#zf--accessibility-panel-toolbox-button-shell,#zf--header-top,.zf--menu-container,#zf--main-menu,#zf--side-menu,#zf--footer-menu,#zf--login,#zf--left-column,#zf--right-column,#zf--top-anchor-container,#zf--jump-to-content-anchor,#zf--top-anchor-container,#zf--internal-anchors-nav,.zf--section-heading,.zf--section-anchors,#zf--default-toolbox,#zf--social-buttons-panel-activation-button,#zf--social-buttons-panel{display:none !important;visibility:hidden}#zf--top-layout-partial,#zf--main-layout-partial,#zf--footer--skin,#zf--footer-credits{border:0 !important}.accessible-slideshow .slide,.accessible-slideshow .slide-text{display:block !important;opacity:1 !important;position:relative !important}.zf--grouped-host--skin,.zf--grouped-host--skin *{min-height:0 !important}#zf--main-layout-partial--skin{margin:3pt}#zf--breadcrumbs{margin:5pt 0;padding:0 3pt 3pt 3pt;border-bottom:dotted 1px #555 !important;font-style:italic}#zf--breadcrumbs ul,#zf--breadcrumbs li{list-style:none}#zf--breadcrumbs li{margin:0 2pt;display:inline-block}#zf--header{margin:3pt 0 10pt;border-bottom:dotted 1px #555;overflow:hidden}#zf--site-titles{width:100%;text-align:center}#zf--site-logo{width:100%;text-align:center}#zf--site-logo img{max-height:160pt;width:auto}#zf--site-title{font-size:2.4em;margin:0 0 0 10pt}#zf--site-subtitle{font-size:1.6em;margin:0 0 10pt 10pt}#zf--footer-credits{display:block !important;visibility:visible !important;margin:30pt 0 10pt 0;padding:0 3pt 3pt 3pt;border-top:dotted 1px #555 !important}
+body{font-family:Garamond,"Apple Garamond",Georgia,serif !important;}body{font-size:80% !important;}</style><style type="text/css" media="speech">*{voice-family:male}.zf--section-heading,#zf--internal-anchors-nav *,.zf--section-anchors *{voice-family:female}
+</style><!--[if IE 6]><link rel="stylesheet" href="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/css/min/other/ie6only.css" type="text/css" /><![endif]--><!--[if IE 7]><link rel="stylesheet" href="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/css/min/other/ie7only.css" type="text/css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" href="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/css/min/other/ie8only.css" type="text/css" /><![endif]--><style type="text/css">body.left-column-width--3 #zf--left-column,body.left-column-width--2 #zf--left-column{width:21%;}body.right-column-width--3 #zf--right-column,body.right-column-width--2 #zf--right-column{width:21%;}body.main-content-container-width--2.left-column-exists #zf--main-content{width:79%;}body.main-content-container-width--2.right-column-exists #zf--main-content{width:79%;}body.main-content-container-width--3 #zf--main-content{width:58%;}body.full-layout-width .zf--encloser{width:96%;max-width:96%;min-width:320px;}body.liquid-layout-width .zf--encloser{width:96%;min-width:320px;max-width:1024px;}body.fixed-layout-width{min-width:1024px;}body.fixed-layout-width .zf--encloser{width:1024px;max-width:1024px;min-width:1024px;}body.custom-layout-width .zf--encloser{width:inherit;max-width:96%;min-width:320px;}html{font-size:100%;}</style><script type="text/javascript">/*<![CDATA[*/window.jQuery || document.write('<script src="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/lib/jquery/jquery.min.js"><\/script>');/*]]>*/</script></head><body class="default-layout default-graphic-mode liquid-layout-width client-device-is--desktop main-menu-style--vertical-floating main-menu-alignment--left side-menu-style--standard floating-submenus-effect--fade site-banner-alignment--left non-fixed-top-bar right-column-exists left-column-exists default-toolbox-buttons-style--icon show-site-logo--true main-content-container-width--3 left-column-width--3 right-column-width--3 main-content-container-column-float--left left-column-float--left right-column-float--left layout-width-type--main-layout-partial--contained parent-platform--Joomla parent-platform-release-class--Joomla3 zf-theme-skin--sid same-height-grouped-hosts--false "><div id="zf--page-top" class="clear-both"></div><div id="zf--gradient-effect"></div><div id="zf--screenreader-hidden-message"><section aria-labelledby="zf--screenreader-hidden-message--section-heading"><h2 id="zf--screenreader-hidden-message--section-heading">Messaggio per utenti con sintetizzatori vocali</h2><p>Benvenuto, <a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutMode=full-access" rel="nofollow">Se state utilizzando un sintetizzatore vocale vi consigliamo di entrare in modalit&agrave; "Miglior Accesso"</a>. Questa modalit&agrave; &egrave; progettata per agevolare alcune modalit&agrave; di navigazione:</p><ul><li>Ogni pagina &egrave; divisa in sezioni e ogni sezione &egrave; descritta da un titolo (navigazione tramite headings).</li><li>Ogni sezione &egrave; associata ad un ruolo (navigazione tramite landmarks).</li><li>In testa ad ogni pagina si trovano i collegamenti veloci (navigazione tramite link interni). Ad ogni link interno &egrave; associata una accesskey (combinazione di tasti).</li></ul></section><hr class="removed"/></div><!--[if lte IE 7]><div id="zf__obsolete-browser-alert" class="zf__obsolete-browser-alert"><div class="zf__obsolete-browser-alert__inner"><p>Attenzione: state utilizzando un <strong>browser obsoleto</strong>! Vi consigliamo di aggiornare il vostro software o scaricare un browser alternativo: <a href="https://www.mozilla.org/firefox/">scarica qui l'ultima versione di Firefox</a>.<br/>Se state utilizzando un sistema operativo Windows in una macchina poco potente, vi consigliamo di installare il browser <a href="http://www.midori-browser.org">Midori</a>.</p></div><a href="#" role="button" id="zf__hide-obsolete-browser-alert-button">Nascondi questo messaggio</a></div><script type="text/javascript">jQuery(document.getElementById("zf__hide-obsolete-browser-alert-button")).click(function(){jQuery(document.getElementById("zf__obsolete-browser-alert")).hide();});</script><![endif]--><!--[if lte IE 6]><div id="zf__obsolete-browser-switch-to-full-access-alert" class="zf__obsolete-browser-alert"><div class="zf__obsolete-browser-alert__inner"><p>Attenzione: il vostro browser &egrave; obsoleto e non supportato. Vi consigliamo di entrare in modalit&agrave; <a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutMode=full-access" rel="nofollow">miglior accesso</a>.</p></div></div><![endif]--><div id="zf--jump-to-content-anchor-container"><p class="style-reset"><a id="zf--jump-to-content-anchor" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--main-content--skin" class="zf--internal-anchor">Salta a contenuto principale</a></p><hr class="removed"/></div><div id="zf--top-layout-partial" role="region" aria-label="Barra degli strumenti"><div id="zf--top-layout-partial--skin" class="clearfix"><div id="zf--top-layout-partial--encloser" class="zf--encloser"><div id="zf--breadcrumbs"><nav aria-labelledby="zf--breadcrumbs--section-heading" id="zf--breadcrumbs--semantic-tag"><h2 id="zf--breadcrumbs--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Percorso attuale</h2><div id="zf--breadcrumbs--skin" class="clearfix"><div id="zf--guest-view--breadcrumbs" class="zf--guest-view">
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li>
+			Sei qui: &#160;
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/" class="pathway"><span itemprop="name">Home</span></a>
+				
+									<span class="divider">
+						<img src="/media/system/images/arrow.png" alt="" />					</span>
+								<meta itemprop="position" content="1">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/bandi-di-gara-e-contratti" class="pathway"><span itemprop="name">Bandi di gara e contratti</span></a>
+				
+									<span class="divider">
+						<img src="/media/system/images/arrow.png" alt="" />					</span>
+								<meta itemprop="position" content="2">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012				</span>
+				<meta itemprop="position" content="3">
+			</li>
+		</ul>
+</div></div></nav><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--default-toolbox"><section aria-labelledby="zf--default-toolbox--section-heading" id="zf--default-toolbox--semantic-tag"><h2 id="zf--default-toolbox--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Casella degli strumenti</h2><div id="zf--default-toolbox--skin" class="clearfix"><ul class="zf--toolbox-buttons list-style-reset"><li id="zf--night-mode-switcher-toolbox-button-shell" class="zf--toolbox-button-shell"><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?graphicMode=night" rel="nofollow" title="Modo notte: questa modalit&agrave; imposta un basso contrasto. Aumenta la leggibilit&agrave; in ambienti bui. &Egrave; anche utile a persone con disturbi alla lettura, come alcune forme di dislessia." id="zf--night-mode-switcher-toolbox-button" class="zf--toolbox-button show-tooltip"><span id="zf--night-mode-switcher-toolbox-button--text" class="zf--toolbox-button--text">Modo notte</span><span class="visually-hidden">. <span id="zf--night-mode-switcher-toolbox-button--hidden-title-in-text">Modo notte: questa modalit&agrave; imposta un basso contrasto. Aumenta la leggibilit&agrave; in ambienti bui. &Egrave; anche utile a persone con disturbi alla lettura, come alcune forme di dislessia.</span></span><span class="zf--toolbox-button--icon zf--zhong-icon zf--zhong-icon-night-mode" aria-hidden="true"></span></a></li><li id="zf--accessibility-panel-toolbox-button-shell" class="zf--toolbox-button-shell"><button id="zf--accessibility-panel-toolbox-button" class="zf--toolbox-button show-tooltip removed-no-js" data-zf-related-toolbox-panel="zf--default-accessibility-options-toolbox-panel" aria-controls="zf--default-accessibility-options-toolbox-panel" aria-haspopup="true" aria-expanded="false" title="Mostra le opzioni di accessibilit&agrave;" data-zf-toggled-title="Nascondi il pannello" data-zf-toggled-text="Nascondi opzioni"><span class="zf--toolbox-button--text">Pannello accessibilit&agrave;</span><span class="zf--toolbox-button--icon zf--zhong-icon zf--zhong-icon-accessibility" aria-hidden="true"></span></button></li></ul></div></section><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><script id="zf--welcome-message-popover--template" type="text/template"><div id="zf--welcome-message-popover" aria-live="off" aria-hidden="true"><div id="zf--welcome-message-popover--skin"><p><span id="zf--welcome-message-welcome-text">Benvenuti a xviiicomunitamontana</span><br/><span id="zf--welcome-message-click-here-text">Clicca qui per impostare le tue preferenze</span></p></div><div id="zf--welcome-message-popover-arrow"></div></div></script></div></div><div id="zf--default-toolbox-panels"><div id="zf--default-toolbox-panels--skin" class="clearfix"><div id="zf--default-accessibility-options-toolbox-panel" class="zf--toolbox-panel" aria-atomic="true" aria-live="polite"><div id="zf--default-accessibility-options-toolbox-panel--skin" class="zf--toolbox-panel--skin clearfix"><div id="zf--default-accessibility-options-toolbox-panel--encloser" class="zf--encloser"><div id="zf--default-accessibility-options"><section aria-labelledby="zf--default-accessibility-options--section-heading" id="zf--default-accessibility-options--semantic-tag"><h2 id="zf--default-accessibility-options--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Opzioni accessibilit&agrave;</h2><div id="zf--default-accessibility-options--skin" class="clearfix"><div id="zf--layout-switcher-container" class="zf--accessibility-panel-module"><section><h3 class="zf--accessibility-panel-module-heading" aria-level="3">Visualizzazione:</h3><ul id="zf--layout-switcher"><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutMode=default" rel="nofollow" title="Questa &egrave; la modalit&agrave; predefinita" id="zf--default-layout-link" class="grey-button-style rounded-corners show-tooltip">Predefinita<span class="visually-hidden">. Questa &egrave; la modalit&agrave; predefinita.</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutMode=full-access" rel="nofollow" title="Questa modalit&agrave; &egrave; preferita da sintetizzatori vocali, utenti che usano la navigazione da tastiera o browser obsoleti" id="zf--full-access-link" class="grey-button-style rounded-corners show-tooltip">Miglior accesso<span class="visually-hidden">. Questa modalit&agrave; &egrave; preferita da sintetizzatori vocali, utenti che usano la navigazione da tastiera o browser obsoleti.</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutMode=highcontrast" rel="nofollow" title="Questa modalit&agrave; &egrave; preferita da persone con una visione ridotta" id="zf--high-contrast-link" class="grey-button-style rounded-corners show-tooltip">Alto contrasto<span class="visually-hidden">. Questa modalit&agrave; &egrave; preferita da persone con una visione ridotta.</span></a></li></ul></section></div><div id="zf--font-resizer-container" class="zf--accessibility-panel-module"><section><h3 class="zf--accessibility-panel-module-heading" aria-level="3">Dimensioni testo:</h3><ul id="zf--font-resizer" class="removed-no-js"><li><button class="show-tooltip" title="Aumenta dimensioni carattere" id="zf--larger-font-button"><span class="zf--zhong-icon zf--zhong-icon-arrow-up" aria-hidden="true"></span><span class="visually-hidden">Aumenta</span><span class="visually-hidden">. Aumenta dimensioni carattere.</span></button></li><li><button class="show-tooltip" title="Dimensioni carattere predefinite" id="zf--reset-font-button"><span class="zf--zhong-icon zf--zhong-icon-minus" aria-hidden="true"></span><span class="visually-hidden">Predefinito</span><span class="visually-hidden">. Dimensioni carattere predefinite.</span></button></li><li><button class="show-tooltip" title="Diminuisci dimensioni carattere" id="zf--smaller-font-button"><span class="zf--zhong-icon zf--zhong-icon-arrow-down" aria-hidden="true"></span><span class="visually-hidden">Diminuisci</span><span class="visually-hidden">. Diminuisci dimensioni carattere.</span></button></li></ul><ul id="zf--font-resizer--no-js" class="list-style-reset removed-js"><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?fontSize=increase" rel="nofollow" title="Aumenta dimensioni carattere" id="zf--larger-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-arrow-up" aria-hidden="true"></span><span class="visually-hidden">Aumenta</span><span class="visually-hidden">. Aumenta dimensioni carattere</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?fontSize=default" rel="nofollow" title="Dimensioni carattere predefinite" id="zf--reset-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-minus" aria-hidden="true"></span><span class="visually-hidden">Predefinito</span><span class="visually-hidden">. Dimensioni carattere predefinite</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?fontSize=decrease" rel="nofollow" title="Diminuisci dimensioni carattere" id="zf--smaller-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-arrow-down" aria-hidden="true"></span><span class="visually-hidden">Diminuisci</span><span class="visually-hidden">. Diminuisci dimensioni carattere</span></a></li></ul></section></div><div class="clear-both"></div><div id="zf--graphic-mode-switcher-container" class="zf--accessibility-panel-module"><section><h3 class="zf--accessibility-panel-module-heading" aria-level="3">Leggibilit&agrave;:</h3><ul id="zf--graphic-mode-switcher"><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?graphicMode=default" rel="nofollow" title="Questa &egrave; la modalit&agrave; predefinita" id="zf--default-graphic-mode-link" class="grey-button-style rounded-corners show-tooltip">Leggibilit&agrave; normale<span class="visually-hidden">. Questa &egrave; la modalit&agrave; predefinita.</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?graphicMode=best" rel="nofollow" title="In questa modalit&agrave; viene utilizzato un alto contrasto e vengono evidenziati gli elementi attivabili. &Egrave; utile ad utenti con una visione ridotta o con disabilit&agrave; cognitive" id="zf--best-legibility-link" class="grey-button-style rounded-corners show-tooltip">Miglior leggibilit&agrave;<span class="visually-hidden">. In questa modalit&agrave; viene utilizzato un alto contrasto e vengono evidenziati gli elementi attivabili. &Egrave; utile ad utenti con una visione ridotta o con disabilit&agrave; cognitive.</span></a></li></ul></section></div><div id="zf--layout-width-switcher-container" class="zf--accessibility-panel-module"><section><h3 class="zf--accessibility-panel-module-heading" aria-level="3">Paginazione:</h3><ul id="zf--layout-width-switcher" class="removed-no-js"><li><button data-href="index.php" class="show-tooltip" title="Il sito potr&agrave; adattarsi alla larghezza della finestra" id="zf--liquid-width-button">Liquida<span class="visually-hidden">. Il sito potr&agrave; adattarsi alla larghezza della finestra.</span></button></li><li><button data-href="index.php" class="show-tooltip" title="Il sito sar&agrave; a larghezza fissa" id="zf--fixed-width-button">Fissa<span class="visually-hidden">. Il sito sar&agrave; a larghezza fissa.</span></button></li><li><button data-href="index.php" class="show-tooltip" title="Il sito sar&agrave; a larghezza piena" id="zf--full-width-button">Piena<span class="visually-hidden">. Il sito sar&agrave; a larghezza piena.</span></button></li></ul><ul id="zf--layout-width-switcher--no-js" class="list-style-reset removed-js"><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutWidth=liquid" rel="nofollow" title="Il sito potr&agrave; adattarsi alla larghezza della finestra" id="zf--liquid-width-link" class="grey-button-style rounded-corners show-tooltip">Liquida<span class="visually-hidden">. Il sito potr&agrave; adattarsi alla larghezza della finestra.</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutWidth=fixed" rel="nofollow" title="Il sito sar&agrave; a larghezza fissa" id="zf--fixed-width-link" class="grey-button-style rounded-corners show-tooltip">Fissa<span class="visually-hidden">. Il sito sar&agrave; a larghezza fissa.</span></a></li><li><a href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?layoutWidth=full" rel="nofollow" title="Il sito sar&agrave; a larghezza piena" id="zf--full-width-link" class="grey-button-style rounded-corners show-tooltip">Piena<span class="visually-hidden">. Il sito sar&agrave; a larghezza piena.</span></a></li></ul></section></div></div></section><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div></div></div><div id="zf--main-layout-partial"><div id="zf--main-layout-partial--encloser" class="zf--encloser"><div id="zf--main-layout-partial--skin" class="clearfix"><div id="zf--header"><div id="zf--header--skin" class="clearfix"><div id="zf--header-top"><div id="zf--header-top--skin" class="clearfix"><div id="zf--search"><section role="search" aria-labelledby="zf--search--section-heading" id="zf--search--semantic-tag"><h2 id="zf--search--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Ricerca</h2><div id="zf--search--skin" class="clearfix"><div id="zf--guest-view--search" class="zf--guest-view"><div class="search mod_search93">
+	<form action="/bandi-di-gara-e-contratti" method="post" class="form-inline">
+		<label for="mod-search-searchword93" class="element-invisible">Cerca...</label> <input name="searchword" id="mod-search-searchword93" maxlength="200"  class="inputbox search-query input-medium" type="search" size="20" placeholder="Cerca nel sito..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="194" />
+	</form>
+</div>
+</div></div></section><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div><div id="zf--header-middle"><div id="zf--header-middle--skin" class="clearfix"><div id="zf--site-banner"><header><div id="zf--site-banner--skin" class="clearfix"><div id="zf--site-logo"><div id="zf--site-logo--skin"><a id="zf--site-logo-link" href="http://www.xviiicomunitamontana.it/index.php" title="Pagina iniziale" class="show-tooltip"><img id="zf--site-logo-image" src="/images/logo_cm.png" alt="xviiicomunitamontana" /></a></div></div><div id="zf--site-titles"><div id="zf--site-titles--skin"><h1 id="zf--site-title">XVIII Comunità Montana dei Monti Lepini</h1><p id="zf--site-subtitle">Ente della provincia di Roma</p></div></div></div></header><hr class="removed"/></div></div></div><div id="zf--header-bottom"><div id="zf--header-bottom--skin" class="clearfix"><div id="zf--main-menu" class="zf--menu-container"><nav aria-labelledby="zf--main-menu--section-heading" id="zf--main-menu--semantic-tag"><h2 id="zf--main-menu--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Menu principale</h2><div id="zf--main-menu--skin" class="clearfix"><div id="zf--guest-view--main-menu" class="zf--guest-view"><ul class="nav menu nav-pills">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-110"><a href="/amministrazione-trasparente" >Amministrazione trasparente</a></li><li class="item-111"><a href="/elenco-affissioni" >Albo pretorio</a></li><li class="item-250"><a href="/servizi-online" >Servizi OnLine</a></li><li class="item-112"><a href="/dove-siamo" >Dove siamo</a></li><li class="item-113"><a href="/contatti" >Contatti</a></li></ul>
+</div></div></nav><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div><div id="zf--main-body"><div id="zf--main-body--skin" class="clearfix"><div id="zf--aside-top"><aside aria-labelledby="zf--aside-top--section-heading" id="zf--aside-top--semantic-tag"><h2 id="zf--aside-top--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Contenuto supplementare (superiore)</h2><div id="zf--aside-top--skin" class="clearfix"><div id="zf--aside-top-row-A" class="zf--grouped-hosts-row clearfix"><div id="zf--aside-top-A" class="zf--grouped-host fluid-width-100"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-top-A" class="zf--guest-view">		<div class="moduletable">
+						
+<script src="/modules/mod_js_flexslider/assets/js/jquery.flexslider-min.js" type="text/javascript"></script>
+
+<div id="flexslider-100" class="flexslider  theme-shadow-normal theme-border-00 theme-border-radius-00  default position-nav-under bg-caption-black-02 position-caption-bottom-centered color-nav-dark color-nav-active-black" style="background-color : #ffffff;" >
+ 
+  <ul class="slides" >
+  	<li><img title='' alt='' src='http://www.xviiicomunitamontana.it/images/slideshow/1.jpg' /></li><li><img title='' alt='' src='http://www.xviiicomunitamontana.it/images/slideshow/2.jpg' /></li><li><img title='' alt='' src='http://www.xviiicomunitamontana.it/images/slideshow/3.jpg' /></li><li><img title='' alt='' src='http://www.xviiicomunitamontana.it/images/slideshow/4.jpg' /></li><li><img title='' alt='' src='http://www.xviiicomunitamontana.it/images/slideshow/5.jpg' /></li> 
+  </ul>
+  
+    
+</div>
+
+<script type="text/javascript">
+  jQuery(window).load(function() {
+    jQuery('#flexslider-100').flexslider({
+        animation: "fade",
+        easing:"linear",								// I disable this option because there was a bug with Jquery easing and Joomla 3.2.3
+ 		direction: "horizontal",        //String: Select the sliding direction, "horizontal" or "vertical"
+		slideshowSpeed: 5000, 			// How long each slide will show
+		animationSpeed: 2000, 			// Slide transition speed
+    	directionNav: true,             
+    	controlNav: true,    
+    	pauseOnHover: true,
+    	initDelay: 0,
+    	randomize: false,
+    	smoothHeight: false,
+    	touch: false,
+    	keyboardNav: true
+    	
+    });
+  });
+</script>		</div>
+	</div></div></div></div><div id="zf--aside-top-row-C" class="zf--grouped-hosts-row clearfix"><div id="zf--aside-top-C1" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-top-C1" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="moduletable zf--block-coat--marked-light" style="min-height: 129px;">
+<h3><a href="/servizi-online" target="_self" style="text-decoration: none; color: #cc2222;">Servizi OnLine</a></h3>
+<div class="custom zf--block-coat--marked-light" style="min-height: 0px;">
+<p>Accesso ai servizi che il sito della <strong>Comunit&agrave; Montana dei Monti Lepini</strong> mette a disposizione del personale interno o dei cittadini residenti.</p>
+</div>
+</div></div>
+		</div>
+	</div></div></div><div id="zf--aside-top-C2" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-top-C2" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="moduletable zf--block-coat--marked-light" style="min-height: 129px;">
+<h3><a href="http://opendata.xviiicomunitamontana.it/index.html#/open-data" target="_blank" style="text-decoration: none; color: #cc2222;">Open Data</a></h3>
+<div class="custom zf--block-coat--marked-light" style="min-height: 0px;">
+<p>Collegamento ai dati aperti della <strong>Comunit&agrave; Montana dei Monti Lepini</strong> (rilasciati sotto licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" style="text-decoration: none;">CC BY-SA 4.0</a>).</p>
+</div>
+</div></div>
+		</div>
+	</div></div></div><div id="zf--aside-top-C3" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-top-C3" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="moduletable zf--block-coat--marked-light" style="min-height: 129px;">
+<h3><a href="/i-sentieri-del-castagno" target="_self" style="text-decoration: none; color: #cc2222;">I sentieri del Castagno</a></h3>
+<div class="custom zf--block-coat--marked-light" style="min-height: 0px;">
+<p>Pagina Web dedicata alla valorizzazione dei <strong>Marroni</strong> e delle <strong>Castagne</strong> nei territori dei Monti Lepini.</p>
+</div>
+</div></div>
+		</div>
+	</div></div></div></div></div></aside><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--main-body-middle"><div id="zf--main-body-middle--skin" class="clearfix"><div id="zf--left-column"><div id="zf--left-column--skin" class="clearfix"><div id="zf--side-menu" class="zf--menu-container"><nav aria-labelledby="zf--side-menu--section-heading" id="zf--side-menu--semantic-tag"><h2 id="zf--side-menu--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Menu laterale</h2><div id="zf--side-menu--skin" class="clearfix zf--block-coat--marked-default"><div id="zf--guest-view--side-menu" class="zf--guest-view">		<div class="moduletable">
+							<h3>La Comunita'</h3>
+						<ul class="nav menu">
+<li class="item-119"><a href="/il-presidente" >Il Presidente</a></li><li class="item-120"><a href="/la-giunta" >La Giunta</a></li><li class="item-121"><a href="/il-consiglio" >Il Consiglio</a></li><li class="item-122"><a href="/lo-statuto" >Lo Statuto</a></li><li class="item-123"><a href="/la-sede" >La Sede</a></li></ul>
+		</div>
+	</div></div></nav><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--aside-left"><aside aria-labelledby="zf--aside-left--section-heading" id="zf--aside-left--semantic-tag"><h2 id="zf--aside-left--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Risorse aggiuntive (colonna di sinistra)</h2><div id="zf--aside-left--skin" class="clearfix zf--block-coat--full-width"><div id="zf--guest-view--aside-left" class="zf--guest-view">		<div class="moduletable zf--block-coat--marked-dark">
+							<h3>I Comuni</h3>
+						
+
+<div class="custom zf--block-coat--marked-dark"  >
+	<div>
+<ul style="margin: 5px; padding: 0;">
+<li><a href="http://www.comune.artena.rm.it/" target="_blank">Artena</a></li>
+<li><a href="http://www.carpinetoromano.it/" target="_blank">Carpineto Romano</a></li>
+<li><a href="http://www.gorga.rm.gov.it/" target="_blank">Gorga</a></li>
+<li><a href="http://halleyweb.com/c058062/hh/index.php" target="_blank">Montelanico</a></li>
+<li><a href="http://www.comune.segni.rm.it/" target="_blank">Segni</a></li>
+</ul>
+</div></div>
+		</div>
+			<div class="moduletable">
+							<h3>Trasparenza</h3>
+						
+
+<div class="custom"  >
+	<p><a href="/amministrazione-trasparente"><img src="/images/amministrazione.png" alt="Amministrazione Trasparente" /></a></p>
+<p><a href="/elenco-affissioni"><img src="/images/albo.png" alt="Albo Pretorio OnLine" /></a></p></div>
+		</div>
+	</div></div></aside><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--login"><section aria-labelledby="zf--login--section-heading" id="zf--login--semantic-tag"><h2 id="zf--login--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Accesso utente</h2><div id="zf--login--skin" class="clearfix zf--block-coat--marked-default"><div id="zf--guest-view--login" class="zf--guest-view">		<div class="moduletable">
+							<h3>Area riservata</h3>
+						<form action="/bandi-di-gara-e-contratti" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Nome utente"></span>
+							<label for="modlgn-username" class="element-invisible">Nome utente</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Nome utente" />
+					</div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Password">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Password							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Password" />
+					</div>
+							</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Ricordami</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary login-button">Accedi</button>
+			</div>
+		</div>
+					<ul class="unstyled">
+							<li>
+					<a href="/component/users/?view=remind&amp;Itemid=101">
+					Nome utente dimenticato?</a>
+				</li>
+				<li>
+					<a href="/component/users/?view=reset&amp;Itemid=101">
+					Password dimenticata?</a>
+				</li>
+			</ul>
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aHR0cDovL3d3dy54dmlpaWNvbXVuaXRhbW9udGFuYS5pdC9iYW5kaS1kaS1nYXJhLWUtY29udHJhdHRpLzgzLXRhYmVsbGUtcmlhc3N1bnRpdmUtYWktc2Vuc2ktZGVsbC1hcnQtMS1jb21tYS0zMi1kZWxsYS1sZWdnZS1uLTE5MC0yMDEy" />
+		<input type="hidden" name="98a0dd1d30abdd9c75f80c7e4ef42404" value="1" />	</div>
+	</form>
+		</div>
+	</div></div></section><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div><div id="zf--main-content"><main><section><h2 id="zf--main-content--section-heading" class="zf--section-heading visually-hidden" aria-level="1">Contenuto principale</h2><div id="zf--main-content--skin" class="clearfix"><div id="zf--guest-view--system-messages" class="zf--guest-view"><div id="system-message-container">
+	</div>
+</div><div id="zf--alerts-panel" class="removed zf--alerts-panel_bottom-position"><section aria-labelledby="zf--alerts-panel--section-heading" id="zf--alerts-panel--semantic-tag"><h2 id="zf--alerts-panel--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Messaggio di avviso</h2><div id="zf--alerts-panel--skin" class="clearfix"><div id="zf--alerts-panel--close-button-container" class="removed"><button id="zf--alerts-panel--close-button" title="Nascondi questo messaggio"><span class="visually-hidden">Nascondi questo messaggio</span><span id="zf--alerts-panel--close-button--icon" aria-hidden="true"></span></button></div><div id="zf--alerts-panel--content-container"><div id="zf--alerts-panel--ok-button-container" class="removed"><button id="zf--alerts-panel--ok-button" class="grey-button-style">OK</button></div><div id="zf--alerts-panel--content"><div id="zf--guest-view--alerts-panel" class="zf--guest-view">
+
+<div class="custom"  >
+	<p>Questo sito utilizza i cookies. Utilizzando questo sito web l'utente acconsente all&rsquo;utilizzo dei cookies secondo queste <a href="http://www.google.com/policies/privacy/" style="color: #ffffcc;">politiche di privacy</a></p></div>
+</div></div></div></div></section></div><div id="zf--main-article"><article><div id="zf--main-article--skin" class="clearfix"><div id="zf--guest-view--main-article" class="zf--guest-view"><div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="it-IT" />
+	
+		
+			<div class="page-header">
+					<h2 itemprop="headline">
+				Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012			</h2>
+									</div>
+							
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-83" aria-label="Strumenti utenti"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-83">
+											<li class="print-icon"> <a href="/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012?tmpl=component&amp;print=1" title="Stampa articolo < Tabelle riassuntive ai sensi dell'Art. 1 comma 32 della legge n. 190/2012 >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Stampa	</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=simpledot-free&amp;link=603d522acd46ceb6a4290ad12c034d3ff664e32f" title="Invia via Email questo link ad un amico" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow">			<span class="icon-envelope" aria-hidden="true"></span>
+		Email	</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+			
+		
+						<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Dettagli							</dt>
+
+			
+			
+			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-11-06T08:52:54+00:00" itemprop="datePublished">
+					Pubblicato: 06 Novembre 2015				</time>
+			</dd>			
+		
+					
+			
+						</dl>
+	
+	
+		
+									<div itemprop="articleBody">
+		<p>La legge n. 190 del 6 novembre 2012, recante "Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalità nella pubblica amministrazione" corrisponde agli obblighi derivanti dalla Convenzione ONU contro la corruzione del 31 ottobre 2003 (c.d. Convenzione di Merida) e dalla Convenzione penale sulla corruzione del Consiglio d’Europa del 27 gennaio 1999 (Convenzione di Strasburgo).</p>
+<p>In base a tale legge le stazioni appaltanti sono tenute a pubblicare nei propri siti web istituzionali la struttura proponente, la modalità di scelta del contraente, l'oggetto del bando, l'elenco degli operatori invitati a presentare offerte, l'importo delle somme liquidate.</p>
+<p>&nbsp;</p>
+<div style="margin-left: 20px;">
+<ul>
+<li>
+<h4><a href="/images/documents/avcp_dataset_2015.xml" target="_blank">Adempimento Art.1 comma 32 Legge n. 190/2012 - ANNO 2015</a></h4>
+</li>
+<li>
+<h4><a href="/images/documents/avcp_dataset_2016.xml" target="_blank">Adempimento Art.1 comma 32 Legge n. 190/2012 - ANNO 2016</a></h4>
+</li>
+</ul>
+</div> <div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_83"></div>
+
+</div>	</div>
+
+	
+							</div>
+</div></div></article></div></div></section></main><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--right-column"><div id="zf--right-column--skin" class="clearfix"><div id="zf--aside-right"><aside aria-labelledby="zf--aside-right--section-heading" id="zf--aside-right--semantic-tag"><h2 id="zf--aside-right--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Risorse aggiuntive (colonna di destra)</h2><div id="zf--aside-right--skin" class="clearfix zf--block-coat--full-width"><div id="zf--guest-view--aside-right" class="zf--guest-view">		<div class="moduletable zf--menu-container zf--block-coat--marked-light">
+							<h3>Amministrazione Trasparente</h3>
+						<ul class="nav menu">
+<li class="item-153 parent"><a href="/disposizioni-generali" >Disposizioni Generali </a></li><li class="item-151 parent"><a href="/organizzazione" >Organizzazione</a></li><li class="item-161"><a href="/consulenti-e-collaboratori" >Consulenti e collaboratori</a></li><li class="item-162 parent"><a href="/personale" >Personale</a></li><li class="item-173"><a href="/bandi-di-concorso" >Bandi di concorso</a></li><li class="item-174 parent"><a href="/performance" >Performance</a></li><li class="item-180 parent"><a href="/enti-controllati" >Enti controllati</a></li><li class="item-185 parent"><a href="/attivita-e-procedimenti" >Attività e procedimenti</a></li><li class="item-190 parent"><a href="/provvedimenti" >Provvedimenti</a></li><li class="item-193"><a href="/controlli-sulle-imprese" >Controlli sulle imprese</a></li><li class="item-194 current active"><a href="/bandi-di-gara-e-contratti" >Bandi di gara e contratti</a></li><li class="item-195 parent"><a href="/sovvenzioni-contributi-sussidi-vantaggi-economici" >Sovvenzioni, contributi, sussidi, vantaggi economici</a></li><li class="item-198 parent"><a href="/bilanci" >Bilanci</a></li><li class="item-201 parent"><a href="/beni-immobili-e-gestione-patrimonio" >Beni immobili e gestione patrimonio</a></li><li class="item-204"><a href="/controlli-e-rilievi-sull-amministrazione" >Controlli e rilievi sull'amministrazione</a></li><li class="item-205 parent"><a href="/servizi-erogati" >Servizi erogati</a></li><li class="item-210 parent"><a href="/pagamenti-dell-amministrazione" >Pagamenti dell'amministrazione</a></li><li class="item-213"><a href="/opere-pubbliche" >Opere pubbliche</a></li><li class="item-214"><a href="/pianificazione-e-governo-del-territorio" >Pianificazione e governo del territorio</a></li><li class="item-215"><a href="/informazioni-ambientali" >Informazioni ambientali</a></li><li class="item-216"><a href="/strutture-sanitarie-private-accreditate" >Strutture sanitarie private accreditate</a></li><li class="item-217"><a href="/interventi-straordinari-e-di-emergenza" >Interventi straordinari e di emergenza</a></li><li class="item-218"><a href="/altri-contenuti" >Altri contenuti</a></li></ul>
+		</div>
+	</div></div></aside><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div><div id="zf--aside-bottom"><aside aria-labelledby="zf--aside-bottom--section-heading" id="zf--aside-bottom--semantic-tag"><h2 id="zf--aside-bottom--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Contenuto supplementare (inferiore)</h2><div id="zf--aside-bottom--skin" class="clearfix"><div id="zf--aside-bottom-row-D" class="zf--grouped-hosts-row clearfix"><div id="zf--aside-bottom-D1" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-bottom-D1" class="zf--guest-view">		<div class="moduletable zf--block-coat--colored-brown">
+						
+
+<div class="custom zf--block-coat--colored-brown"  >
+	<div style="height: 55px; display: table;"><a href="http://www.regione.lazio.it/" target="_blank"><img src="/images/links/regione_lazio.png" alt="Regione Lazio" width="50" style="margin: 0px 10px 5px 5px;" /></a>
+	<div style="display: table-cell; vertical-align: middle;"><a href="http://www.regione.lazio.it/" target="_blank" style="text-decoration: none; font-family: 'UbuntuMonoRegular', monospace, sans-serif; font-size: 16px; font-weight: bold;">Regione Lazio</a>
+	</div>
+</div></div>
+		</div>
+	</div></div></div><div id="zf--aside-bottom-D2" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-bottom-D2" class="zf--guest-view">		<div class="moduletable zf--block-coat--colored-brown">
+						
+
+<div class="custom zf--block-coat--colored-brown"  >
+	<div style="height: 55px; display: table;"><a href="http://www.xxicomunitamontana.it/" target="_blank"><img src="/images/links/xxi_cm.png" alt="XXI Comunit&agrave; Montana" width="50" class="float-left" style="margin: 0px 10px 5px 5px;" /></a>
+	<div style="display: table-cell; vertical-align: middle;"><a href="http://www.xxicomunitamontana.it/" target="_blank" style="text-decoration: none; font-family: 'UbuntuMonoRegular', monospace, sans-serif; font-size: 16px; font-weight: bold;">XXI Comunit&agrave; Montana</a></div>
+</div></div>
+		</div>
+	</div></div></div><div id="zf--aside-bottom-D3" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-bottom-D3" class="zf--guest-view">		<div class="moduletable zf--block-coat--colored-brown">
+						
+
+<div class="custom zf--block-coat--colored-brown"  >
+	<div style="height: 55px; display: table;"><a href="http://www.compagniadeilepini.it/" target="_blank"><img src="/images/links/compagnia_dei_lepini.png" alt="Compagnia dei Lepini" width="50" style="margin: 0px 10px 5px 5px;" /></a>
+	<div style="display: table-cell; vertical-align: middle;"><a href="http://www.compagniadeilepini.it/" target="_blank" style="text-decoration: none; font-family: 'UbuntuMonoRegular', monospace, sans-serif; font-size: 16px; font-weight: bold;">Compagnia dei Lepini</a>
+	</div>
+</div>
+</div>
+		</div>
+	</div></div></div><div id="zf--aside-bottom-D4" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--aside-bottom-D4" class="zf--guest-view">		<div class="moduletable zf--block-coat--colored-brown">
+						
+
+<div class="custom zf--block-coat--colored-brown"  >
+	<div style="height: 55px; display: table;"><a href="http://www.cittadelcastagno.it/" target="_blank"><img src="/images/links/citta_del_castagno.png" alt="Citt&agrave; del Castagno" width="50" style="margin: 0px 10px 5px 5px;" /></a>
+	<div style="display: table-cell; vertical-align: middle;"><a href="http://www.cittadelcastagno.it/" target="_blank" style="text-decoration: none; font-family: 'UbuntuMonoRegular', monospace, sans-serif; font-size: 16px; font-weight: bold;">Citt&agrave; del Castagno</a>
+	</div>
+</div>
+</div>
+		</div>
+	</div></div></div></div></div></aside><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--top-anchor-container"><div id="zf--top-anchor-container--skin" class="clearfix"><p class="zf--top-anchor-shell style-reset"><a id="zf--top-anchor" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" accesskey="0" title="Salta a inizio pagina" class="show-tooltip zf--anchor-to-top">Inizio<span class="visually-hidden">. Salta a inizio pagina.</span></a></p></div><hr class="removed"/></div></div></div><div id="zf--footer"><footer><div id="zf--footer--skin" class="clearfix"><div id="zf--footer-content"><section aria-labelledby="zf--footer-content--section-heading" id="zf--footer-content--semantic-tag"><h2 id="zf--footer-content--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Pi&egrave; di pagina</h2><div id="zf--footer-content--skin" class="clearfix"><div id="zf--footer-top"><div id="zf--footer-top--skin" class="clearfix"><div id="zf--footer-top-row-A" class="zf--grouped-hosts-row clearfix"><div id="zf--footer-top-A" class="zf--grouped-host fluid-width-100"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--footer-top-A" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="custom zf--block-coat--marked-default">
+	<h3>XVIII Comunita' Montana dei Monti Lepini - Area Romana</h3>
+	<div class="custom zf--block-coat--marked-default">
+		<div class="col-style-2">
+			<p><strong><em>Indirizzo:</em></strong> Via Petrarca, 4 - 00037 Segni (RM)</p>
+			<p><strong><em>Partita IVA:</em></strong> 09682491007</p>
+			<p><strong><em>Codice Fiscale:</em></strong> 91071050594</p>
+			<p><strong><em>IBAN:</em></strong> IT84M0832739430000000621756</p>
+			<p><strong><em>Codice Univoco Fatturazione Elettronica:</em></strong> UFTG8F</p>
+		</div>
+		<div class="col-style-2">
+			<ul>
+				<li><strong><em>Tel:</em></strong> 0697261033</li>
+				<li><strong><em>Fax:</em></strong> 0697260296</li>
+				<li><strong><em>Cell:</em></strong> 3371084205</li>
+				<li><strong><em>E-mail 1:</em></strong> amministrazione@xviiicomunitamontana.it</li>
+				<li><strong><em>E-mail 2:</em></strong> presidenza@xviiicomunitamontana.it</li>
+				<li><strong><em>Pec:</em></strong> xviiicomunitamontana@pec.it</li>
+			</ul>
+		</div>
+	</div>
+</div></div>
+		</div>
+	</div></div></div></div></div></div></div></section><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--footer-menu" class="zf--menu-container"><nav aria-labelledby="zf--footer-menu--section-heading" id="zf--footer-menu--semantic-tag"><h2 id="zf--footer-menu--section-heading" class="zf--section-heading visually-hidden" aria-level="2">Menu di pi&egrave; di pagina</h2><div id="zf--footer-menu--skin" class="clearfix"><div id="zf--guest-view--footer-menu" class="zf--guest-view">
+
+<div class="custom"  >
+	<p class="col-style-4" style="font-size: 12px; color: #505050;">Copyright &copy; 2015 <strong>MPDevelop<sup>TM</sup></strong>
+</p>
+<p class="col-style-4">&nbsp;</p>
+<p class="col-style-4">&nbsp;</p>
+<p class="col-style-4" style="font-size: 12px; color: #505050;"><em>Powered by <strong>Zhong Framework</strong></em>
+</p></div>
+</div></div></nav><div class="zf--section-anchors removed "><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.xviiicomunitamontana.it/bandi-di-gara-e-contratti/83-tabelle-riassuntive-ai-sensi-dell-art-1-comma-32-della-legge-n-190-2012#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></footer></div></div></div></div><div id="zf--guest-view--system-debug" class="zf--guest-view"></div><div id="zf--end-of-page" class="clearfix clear-both"></div><script type="text/javascript">/*<![CDATA[*/(function(){var zf=window.zhongFramework;zf.params={tooltipsEnabled:'on-snippet',tooltipsEnabledOnKeyboardFocus:true,tooltipsEnabledHighContrast:'on-title',tooltipsEnabledOnAltHighContrast:true,enableStickyLeftColumn:false,enableStickyRightColumn:false,sameHeightGroupedHosts:false,enableFontSizeRelativizer:true,enableInlineStyleFilterFontSize:false,enableInlineStyleFilterRemoveAll:false,cookiesExpireDate:1516961335,cookiesBasePath:'/',http_host:'www.xviiicomunitamontana.it',cufonLib:'http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/lib/cufon/cufon-yui.js',cufonZhongFrameworkIcons:'http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/lib/cufon/zhong_icons_400.font.js',alertsPanelProvidedControl:'ok-button',alertsPanelCookieAware:true,alertsPanelPriority:'low',newWindowLinkText:'Apre una nuova finestra',externalLinkText:'Collegamento esterno',nightModeLinkText:'Modo notte',nightModeLinkTitleText:'Modo notte: questa modalità imposta un basso contrasto. Aumenta la leggibilità in ambienti bui. È anche utile a persone con disturbi alla lettura, come alcune forme di dislessia.',dayModeLinkText:'Modo Giorno',dayModeLinkTitleText:'Torna a modo giorno.',expandSubmenuText:'Espandi sotto menu',hideSubmenuText:'Nascondi sotto menu',defaultFontSize:100,topMenuFloating:true,sideMenuFloating:false};zf.self.layoutMode='default-layout';zf.self.graphicMode='default-graphic-mode';zf.self.layoutWidthMode='liquid';zf.self.customLayoutWidth='inherit';zf.self.currentFontSize=100;zf.helpers.isClientMobile=false;zf.helpers.isClientTablet=false;zf.helpers.isClientPortable=false;zf.helpers.isClientDesktop=true;zf.helpers.isClientFirstTimeVisit=true;zf.helpers.isClientFirstPageVisit=true;}());/*]]>*/</script><script type="text/javascript" src="http://www.xviiicomunitamontana.it/templates/simpledot-free/zf/assets/js/min/scripts.min.js"></script><script type="text/javascript">/*<![CDATA[*/window.zhongFramework.components.welcomeMessagePopover={show:function(){jQuery(document.getElementById('zf--accessibility-panel-toolbox-button-shell')).append(jQuery(document.getElementById('zf--welcome-message-popover--template')).html());jQuery(document.getElementById('zf--welcome-message-popover')).fadeOut(0).delay(600).css('margin-top','60px').fadeIn(1000).animate({'margin-top':'0px'},{queue:false, duration:1800});setTimeout(function(){jQuery(document.getElementById('zf--accessibility-panel-toolbox-button')).addClass('active');},600);setTimeout(function(){jQuery(document.getElementById('zf--welcome-message-popover')).fadeOut(1200,function(){jQuery(this).remove();});jQuery(document.getElementById('zf--accessibility-panel-toolbox-button')).removeClass('active');},4000);}};zhongFramework.cache.$window.load(function(){setTimeout(zhongFramework.actions.showAlertsPanel,1000);});/*]]>*/</script></body></html>

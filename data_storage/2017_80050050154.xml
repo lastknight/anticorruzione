@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2012</abstract>
+        <dataPubblicazioneIndice>2017-01-27</dataPubblicazioneIndice>
+        <entePubblicatore>Giunta Regionale - Regione Lombardia</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-01-27</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.regione.lombardia.it/wps/wcm/connect/fc715ba2-64f7-4c7c-a78f-67daa625e0c5/indicedataset_2016-indice.xml?MOD=AJPERES&amp;CACHEID=fc715ba2-64f7-4c7c-a78f-67daa625e0c5</urlFile>
+        <licenza>Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.regione.lombardia.it/wps/wcm/connect/6cc0b014-f012-4d6d-8146-3c6e00731e11/_L190_2016_.xml?MOD=AJPERES&amp;CACHEID=6cc0b014-f012-4d6d-8146-3c6e00731e11</linkDataset>
+            <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.regione.lombardia.it/wps/wcm/connect/92b7d1ea-693b-4aaf-aac5-36daf4bd145e/L190_2016.xml?MOD=AJPERES&amp;CACHEID=92b7d1ea-693b-4aaf-aac5-36daf4bd145e</linkDataset>
+            <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

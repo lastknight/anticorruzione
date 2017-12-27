@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Terenten - Comune di Terento</abstract>
+   <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Terenten - Comune di Terento</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21096/21096indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_9DAD1B02-1499-4CD6-AB4D-8744A603E8E3'>
+      <linkDataset>http://data.gvcc.net/avcp/21096/9DAD1B02-1499-4CD6-AB4D-8744A603E8E3.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_B0FB42B8-7445-4A96-8B5E-9B8CA5951C10'>
+      <linkDataset>http://data.gvcc.net/avcp/21096/B0FB42B8-7445-4A96-8B5E-9B8CA5951C10.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_D3F45CB7-5EF3-449E-A5A6-4E7DCAB0C40E'>
+      <linkDataset>http://data.gvcc.net/avcp/21096/D3F45CB7-5EF3-449E-A5A6-4E7DCAB0C40E.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

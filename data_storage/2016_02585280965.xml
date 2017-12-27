@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n 2</titolo>
+<abstract>Pubblicazione relativa all'anno 2015</abstract>
+<dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+<entePubblicatore>ASSP SpA</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www.assp.it/trasparenza/indicedataset_2015.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset> http://www.assp.it/trasparenza/inf40k_2015.xml </linkDataset>
+<dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

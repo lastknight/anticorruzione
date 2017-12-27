@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Selva dei Molini</abstract>
+   <dataPubblicazioneIndice>2016-01-21</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Selva dei Molini</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-21</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21088/21088indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_A735E242-4B6D-4724-A193-5D124279F1D5'>
+      <linkDataset>http://data.gvcc.net/avcp/21088/A735E242-4B6D-4724-A193-5D124279F1D5.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-12-23</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_A68B64D3-0A67-4A57-83B0-3CF0DA11F175'>
+      <linkDataset>http://data.gvcc.net/avcp/21088/A68B64D3-0A67-4A57-83B0-3CF0DA11F175.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_4804EEDE-087F-4CE6-B4C2-25C7258E1E8D'>
+      <linkDataset>http://data.gvcc.net/avcp/21088/4804EEDE-087F-4CE6-B4C2-25C7258E1E8D.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_63F47C68-33EB-4D18-9562-927700AA16FA'>
+      <linkDataset>http://data.gvcc.net/avcp/21088/63F47C68-33EB-4D18-9562-927700AA16FA.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

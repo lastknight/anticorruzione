@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n.1</titolo>
+		<abstract>Pubblicazione relativa all'anno 2016</abstract>
+		<dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+		<entePubblicatore>Ministero dell'Economia e delle Finanze</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/indice_2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+	   <dataset id="ID_1">
+		<linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/aff_dt_2016.xml</linkDataset>
+		<dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_2">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/aff_rgs_2016.xml</linkDataset>
+		   <dataUltimoAggiornamento>2017-01-25</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_3">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/aff_2016_raz.xml</linkDataset>
+		   <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_4">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/aff_dag_dci_2016.xml</linkDataset>
+		   <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_5">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/aff_2016_sis_80226750588.xml</linkDataset>
+		   <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_6">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2016/aff_2016_udcom.xml</linkDataset>
+		   <dataUltimoAggiornamento>2017-03-01</dataUltimoAggiornamento>
+	   </dataset>
+	</indice>
+</indici>

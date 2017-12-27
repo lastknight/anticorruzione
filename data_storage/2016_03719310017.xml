@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>file xml servizi 2015</titolo>
+    <abstract>file xml servizi 2015</abstract>
+    <dataPubbicazioneDataset>2016-02-04</dataPubbicazioneDataset>
+    <entePubblicatore>Consepi S.p.A.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-02-04</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.guidasicuramotoroasi.it/anac/anac2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>5283741900</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>03719310017</codiceFiscaleProp>
+        <denominazione>Consepi S.p.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Gara mediante procedura negoziata per l'affidamento del servizio di progettazione definitiva per la rilocalizzazione di una pista di guida sicura sita in area Autoporto di Susa TO.</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>CLVSFN83T16G674D</codiceFiscale>
+            <ragioneSociale>COALOVA STEFANO</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>10296440018</codiceFiscale>
+            <ragioneSociale>DUEPUNTODIECI ASSOCIATI</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>GTUNRC62M04B885C</codiceFiscale>
+            <ragioneSociale>GUIOT ENRICO</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>08439530018</codiceFiscale>
+            <ragioneSociale>STUDIO ESSEBI INGEGNERIA</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>RPMVTR51M20A853D</codiceFiscale>
+            <ragioneSociale>Studio Ing. RIPAMONTI</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>04089450011</codiceFiscale>
+            <ragioneSociale>Acta S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>07707370016</codiceFiscale>
+            <ragioneSociale>Base Engineering S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02373510748</codiceFiscale>
+            <ragioneSociale>Ing. Tiziana Moro</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02439140019</codiceFiscale>
+            <ragioneSociale>Sintecna S.r.l.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>01066850064</codiceFiscale>
+            <ragioneSociale>Ai Engineering S.r.l.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>NLDMRA63P26H340L</codiceFiscale>
+            <ragioneSociale>NALDI dott. geol. Mario</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>05060100012</codiceFiscale>
+          <ragioneSociale>SI.ME.TE. S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>CLVSFN83T16G674D</codiceFiscale>
+            <ragioneSociale>COALOVA STEFANO</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>10296440018</codiceFiscale>
+            <ragioneSociale>DUEPUNTODIECI ASSOCIATI</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>GTUNRC62M04B885C</codiceFiscale>
+            <ragioneSociale>GUIOT ENRICO</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>08439530018</codiceFiscale>
+            <ragioneSociale>STUDIO ESSEBI INGEGNERIA</ragioneSociale>
+            <ruolo>03-ASSOCIATA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>RPMVTR51M20A853D</codiceFiscale>
+            <ragioneSociale>Studio Ing. RIPAMONTI</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>126010.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-08-01</dataInizio>
+        <dataUltimazione>2013-08-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>126010.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6434421C2C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>03719310017</codiceFiscaleProp>
+        <denominazione>Consepi S.p.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di stima di valori di riferimento afferenti la società CONSEPI S.p.A.</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>09234750017</codiceFiscale>
+            <ragioneSociale>EFFE S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>06214910017</codiceFiscale>
+            <ragioneSociale>GSI S.r.l.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>10629770016</codiceFiscale>
+            <ragioneSociale>NEGOZIO 23</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>04963720018</codiceFiscale>
+            <ragioneSociale>Studio ARCHITETTO CESARE QUARANTA</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>05686980011</codiceFiscale>
+            <ragioneSociale>AREA S.n.c.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>07017210019</codiceFiscale>
+            <ragioneSociale>Dott. Ing. Marco BAGETTO</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>04842170013</codiceFiscale>
+            <ragioneSociale>ICIS S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>09234750017</codiceFiscale>
+            <ragioneSociale>EFFE S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>06214910017</codiceFiscale>
+            <ragioneSociale>GSI S.r.l.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>10629770016</codiceFiscale>
+            <ragioneSociale>NEGOZIO 23</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>04963720018</codiceFiscale>
+            <ragioneSociale>Studio ARCHITETTO CESARE QUARANTA</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>18500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-16</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

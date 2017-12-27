@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="it" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="it" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="it">
+ <!--<![endif]-->
+ <!-- Head BEGIN -->
+ <head>
+  <meta charset="utf-8">
+  <title>SpeziaRisorse: Homepage</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <meta content="Studio Macchianera di Musso Mattia" name="author">
+  <!-- BEGIN META OG -->
+    <!-- END META OG  -->
+  <!-- STYLESHEET BEGIN -->
+  <link rel="shortcut icon" href="http://www.speziarisorse.it/favicon.ico">
+
+<!-- Fonts START -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|PT+Sans+Narrow|Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet">
+<!-- Fonts END -->
+
+<!-- Global styles START -->
+<link href="http://www.speziarisorse.it/assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Global styles END -->
+
+<!-- Page level plugin styles START -->
+<link href="http://www.speziarisorse.it/assets/global/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/global/plugins/uniform/css/uniform.default.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/global/plugins/slider-revolution-slider/rs-plugin/css/settings.css" rel="stylesheet">
+<!-- Page level plugin styles END -->
+
+<!-- Theme styles START -->
+<link href="http://www.speziarisorse.it/assets/global/css/components.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/global/css/plugins.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/frontend/layout/css/style.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/frontend/pages/css/style-revolution-slider.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/frontend/layout/css/style-responsive.css" rel="stylesheet">
+<link href="http://www.speziarisorse.it/assets/frontend/layout/css/themes/orange.css" rel="stylesheet" id="style-color">
+<!-- Theme styles END -->
+
+<!-- BEGIN TOASTR -->
+<link href="http://www.speziarisorse.it/assets/global/plugins/bootstrap-toastr/toastr.min.css" rel="stylesheet" type="text/css" />
+<!-- END TOASTR -->
+
+<!-- Overwrite CSS START -->
+<link href="http://www.speziarisorse.it/include/css/custom.css" rel="stylesheet">
+<!-- Overwrite CSS END -->
+
+<!-- Table Reponsive BEGIN -->
+<link href="http://www.speziarisorse.it/include/css/tableResponsive.css" rel="stylesheet">
+<!-- Table Reponsive END  -->  <!-- STYLESHEET END -->
+ </head>
+ <!-- Head END -->
+ <!-- Body BEGIN -->
+ <body class="corporate">
+  <!-- BEGIN TOP BAR -->
+  <div class="pre-header">
+ <div class="container">
+	<div class="row"> 
+	 <!-- BEGIN TOP BAR MENU -->
+	 <div class="col-md-4 col-sm-6 additional-nav">
+		  <ul class="list-unstyled list-inline pull-left">
+			  <li><a href="http://www.speziarisorse.it/app/">Application</a></li>
+		  </ul>
+	 </div>
+	 <!-- END TOP BAR MENU --> 
+	 <!-- BEGIN TOP BAR LEFT PART -->
+	 <div class="col-md-8 col-sm-6 additional-shop-info">
+		<ul class="list-unstyled list-inline pull-right">
+		 <li><i class="fa fa-phone"></i><span>0187 16 03 005</span></li>
+		 <li><i class="fa fa-phone"></i><span>800 49 53 40</span></li>
+		 <li><i class="fa fa-envelope-o"></i><span><a href="mailto:info@speziarisorse.it" title="Invia una mail a info@speziarisorse.it">info@speziarisorse.it</a></span></li>
+		 <li><i class="fa fa-envelope-o"></i><span><a href="mailto:speziarisorse@pec.it" title="Invia una mail a info@speziarisorse.it">speziarisorse@pec.it</a></span></li>
+		</ul>
+	 </div>
+	 <!-- END TOP BAR LEFT PART --> 
+	</div>
+ </div>
+</div>  <!-- END TOP BAR --> 
+  <!-- BEGIN HEADER WHITE -->
+  <div class="header headerWhite">
+ <div class="container">
+	<div class="site-logo">
+		<a href="http://www.speziarisorse.it/" title="Spezia Risorse - Gestione e Riscossione delle entrate comunali"><img src="http://www.speziarisorse.it/images/logo.jpg"/></a>
+		<br />
+		Gestione e Riscossione delle entrate comunali
+	</div>
+	<div style="float:right; padding-top:15px; padding-right: 0px; text-align: right;">
+		<a href="http://asp.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n200877" target="_blank" title="PagoPA per Spezia Risorse - Gestione e Riscossione delle entrate comunali" style="float:left; padding-top:1px; font-size:22px; color:#3b4c60">Pagamento tributi<br />OnLine con</a>
+		<div style="float:left; margin-left:10px;">
+			<a href="http://asp.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n200877" target="_blank" title="PagoPA per Spezia Risorse - Gestione e Riscossione delle entrate comunali"><img src="http://www.speziarisorse.it/images/pagopa-logo.jpg" width="68"/></a>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div style="float:right; padding-top:25px; margin-right: 35px; text-align: right; width: 250px;">
+		<a href="http://www.speziarisorse.it/societa-spezia-risorse/aiutaci-a-migliorare/questionario-qualita-servizi/"><img src="http://www.speziarisorse.it/images/sondaggio-soddisfazione-contribuenti.png" style="width: 250px" /></a>
+	</div>
+ </div>
+</div>  <!-- END HEADER WHITE --> 
+  <!-- BEGIN HEADER -->
+  <div class="header">
+ <div class="container">
+  <a href="javascript:void(0);" class="mobi-toggler"><i class="fa fa-bars"></i></a> 
+  <!-- BEGIN NAVIGATION -->
+  <div class="header-navigation pull-left font-transform-inherit">
+	 <ul>
+		<li class="dropdown"> <a href="http://www.speziarisorse.it/" style="cursor: pointer !important;">Home</a></li>
+					<li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="javascript:;">La società</a>
+			 <ul class="dropdown-menu">
+									<li><a href="http://www.speziarisorse.it/societa-spezia-risorse" title="La Società">La Società</a></li>
+										<li><a href="http://www.speziarisorse.it/societa-spezia-risorse/mission" title="Mission">Mission</a></li>
+										<li><a href="http://www.speziarisorse.it/societa-spezia-risorse/uffici-e-contatti" title="Uffici e Contatti">Uffici e Contatti</a></li>
+										<li><a href="http://www.speziarisorse.it/societa-spezia-risorse/aiutaci-a-migliorare" title="Aiutaci a Migliorare">Aiutaci a Migliorare</a></li>
+										<li><a href="http://www.speziarisorse.it/societa-spezia-risorse/link-utili" title="Link Utili">Link Utili</a></li>
+								 </ul>
+			</li>
+						<li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="javascript:;">Amministrazione trasparente</a>
+			 <ul class="dropdown-menu">
+									<li><a href="http://www.speziarisorse.it/amministrazione-trasparente" title="Amministrazione Trasparente">Amministrazione Trasparente</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/organismo-di-vigilanza" title="Organismo di Vigilanza<br />Res. Prevenzione Corruzione<br />Responsabile Trasparenza">Organismo di Vigilanza<br />Res. Prevenzione Corruzione<br />Responsabile Trasparenza</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/altri-contenuti-prevenzione-corruzione" title="Altri Contenuti - Prevenzione Corruzione">Altri Contenuti - Prevenzione Corruzione</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/articolo-22-dlgs-33-2013" title="Articolo 22 DLGS 33/2013">Articolo 22 DLGS 33/2013</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/organi-sociali" title="Organi Sociali">Organi Sociali</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/organi-sociali-indirizzo-politico-amministrativo" title="Organi Sociali di Indirizzo<br/>Politico/Amministrativo">Organi Sociali di Indirizzo<br/>Politico/Amministrativo</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/organigramma" title="Organigramma">Organigramma</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/personale" title="Personale">Personale</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/bilanci" title="Bilanci">Bilanci</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/consulenti-e-collaboratori" title="Consulenti e Collaboratori">Consulenti e Collaboratori</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/bandi-di-gara-e-indagini-di-mercato" title="Bandi di Gara e Indagini di Mercato">Bandi di Gara e Indagini di Mercato</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/contratti" title="Contratti">Contratti</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/contributi-e-sovvenzioni" title="Contributi e Sovvenzioni">Contributi e Sovvenzioni</a></li>
+										<li><a href="http://www.speziarisorse.it/amministrazione-trasparente/accesso-civico-comunica-con-noi" title="Accesso Civico">Accesso Civico</a></li>
+								 </ul>
+			</li>
+						<li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="javascript:;">Entrate Tributarie</a>
+			 <ul class="dropdown-menu">
+									<li><a href="http://www.speziarisorse.it/entrate-tributarie" title="Entrate Tributarie<br />Ravvedimento Operoso">Entrate Tributarie<br />Ravvedimento Operoso</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/tasi" title="Tasi">Tasi</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/tari" title="Tari">Tari</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/tares" title="Tares">Tares</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/imu" title="Imu">Imu</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/ici" title="Ici">Ici</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/tia" title="Tia">Tia</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/cimp" title="Cimp">Cimp</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-tributarie/affissioni" title="Affissioni">Affissioni</a></li>
+								 </ul>
+			</li>
+						<li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="javascript:;">Entrate ExtraTributarie</a>
+			 <ul class="dropdown-menu">
+									<li><a href="http://www.speziarisorse.it/entrate-extratributarie" title="Entrate Extratributarie">Entrate Extratributarie</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-extratributarie/cosap" title="Cosap">Cosap</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-extratributarie/servizi-cimiteriali-e-lux-votivae" title="Concessioni cimiteriali e lux votivae">Concessioni cimiteriali e lux votivae</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-extratributarie/oneri-di-urbanizzazione" title="Oneri di urbanizzazione">Oneri di urbanizzazione</a></li>
+										<li><a href="http://www.speziarisorse.it/entrate-extratributarie/documenti/sanzioni-polizia-municipale-regolamento-generale-entrate.pdf" title="Sanzioni Polizia Municipale">Sanzioni Polizia Municipale</a></li>
+								 </ul>
+			</li>
+						<li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="javascript:;">Servizi Online</a>
+			 <ul class="dropdown-menu">
+									<li><a href="http://www.speziarisorse.it/servizi-online" title="Servizi Online">Servizi Online</a></li>
+										<li><a href="http://www.speziarisorse.it/servizi-online/imposta-di-soggiorno" title="Imposta di soggiorno">Imposta di soggiorno</a></li>
+								 </ul>
+			</li>
+					<li class="dropdown"> <a href="http://www.speziarisorse.it//societa-spezia-risorse/uffici-e-contatti" style="cursor: pointer !important;">Orario di apertura</a></li>
+	 </ul>
+  </div>
+  <!-- END NAVIGATION --> 
+ </div>
+</div>  <!-- END HEADER -->
+  <!-- BEGIN SLIDER -->
+  <div id="headerCarousel" class="carousel slide margin-bottom-20">
+  <div class="carousel-inner">
+  <div class="item active">
+   <img src="http://www.speziarisorse.it/images/header-spezia-risorse-1.jpg" alt="">
+  </div>
+  <div class="item">
+   <img src="http://www.speziarisorse.it/images/header-spezia-risorse-2.jpg" alt="">
+  </div>
+  <div class="item">
+   <img src="http://www.speziarisorse.it/images/header-spezia-risorse-3.jpg" alt="">
+  </div>
+  <div class="item">
+   <img src="http://www.speziarisorse.it/images/header-spezia-risorse-4.jpg" alt="">
+  </div>
+  <div class="item">
+   <img src="http://www.speziarisorse.it/images/header-spezia-risorse-5.jpg" alt="">
+  </div>
+ </div>
+ <!-- Controls -->
+ <a class="left carousel-control" href="#headerCarousel" role="button" data-slide="prev">
+  <span class="glyphicon glyphicon-chevron-left"></span>
+ </a>
+
+ <a class="right carousel-control" href="#headerCarousel" role="button" data-slide="next">
+  <span class="glyphicon glyphicon-chevron-right"></span>
+ </a>
+</div>  <!-- END SLIDER -->
+  <div class="main">
+   <div class="container">
+    <!-- BEGIN SIDEBAR & CONTENT -->
+    <div class="row margin-bottom-40">
+     <!-- BEGIN CONTENT -->
+     <div class="col-md-12 col-sm-12">
+      <div class="content-page page-404">
+       <div class="number">
+        404
+       </div>
+       <div class="details">
+        <h3>Pagina non trovata</h3>
+        <p>
+         La pagina che cercavi probabilmente si riferiva al vecchio sito o è stata spostata.<br />
+         <a href="http://www.speziarisorse.it/" class="link">Ritorna alla home</a> o naviga nel menu in alto per continuare la navigazione.
+        </p>
+       </div>
+      </div>
+     </div>
+     <!-- END CONTENT -->
+    </div>
+    <!-- END SIDEBAR & CONTENT -->
+   </div>
+  </div>
+  <!-- PRE-FOOTER BEGIN -->
+  <div class="pre-footer">
+ <div class="container">
+  <div class="row"> 
+   <div class="col-md-3 col-sm-4 pre-footer-col">
+    <div class="row">
+     <div clasS="col-md-12">
+      <h2>CONTATTI</h2>
+      <address>
+       SPEZIA RISORSE SpA <br>
+       centralino 0187 16 03 005<br>
+       Fax 0187 18 58 819<br>
+       N. VERDE - 800 49 53 40<br>
+	   <a href="mailto:info@speziarisorse.it" title="Scrivi all'email info@speziarisorse.it">info@speziarisorse.it</a><br>
+       <a href="mailto:speziarisorse@pec.it" title="Pec">speziarisorse@pec.it</a><br>
+       Via Giovanni Pascoli 64 - La Spezia
+      </address>
+     </div>
+    </div>
+   </div>
+   <div class="col-md-3 col-sm-4 pre-footer-col">
+    <div class="row">
+     <div clasS="col-md-12">
+      <h2>Aiutaci a Migliorare</h2>
+     </div>
+    </div>
+    <div class="row">
+     <div clasS="col-md-12">
+      <div style="clear:left; float:left; margin-bottom:15px;">
+       <img src="http://www.speziarisorse.it/images/ico-link-pagine-interne-58X58.png" width="30" style="float:left; margin-right:5px;" />
+       <span style="float:left; height:35px; display:table-cell; vertical-align:middle;"><a href="http://www.speziarisorse.it/amministrazione-trasparente/accesso-civico-comunica-con-noi" title="Accesso Civico - Comunica con Noi">ACCESSO CIVICO<br/>Comunica con noi</a></span>
+      </div>
+      <div class="clearfix"></div>
+     </div>
+    </div>
+    <div class="row">
+     <div clasS="col-md-12">
+      <div style="clear:left; float:left; margin-bottom:15px;">
+       <img src="http://www.speziarisorse.it/images/ico-link-pagine-interne-58X58.png" width="30" style="float:left; margin-right:5px;" />
+       <span style="float:left; height:35px; display:table-cell; vertical-align:middle;"><a href="http://www.speziarisorse.it/societa-spezia-risorse/aiutaci-a-migliorare/invia-reclamo-segnala-disservizio" title="Inviaci il tuo Reclamo">INVIACI<br/> il tuo Reclamo</a></span>
+      </div>
+      <div class="clearfix"></div>
+     </div>
+    </div>
+    <div class="row">
+     <div clasS="col-md-12">
+      <div style="clear:left; float:left;">
+       <img src="http://www.speziarisorse.it/images/ico-link-pagine-interne-58X58.png" width="30" style="float:left; margin-right:5px;" />
+       <span style="float:left; height:35px; display:table-cell; vertical-align:middle;"><a href="http://www.speziarisorse.it/societa-spezia-risorse/aiutaci-a-migliorare/questionario-qualita-servizi" title="Compila il Nostro Questionario">QUESTIONARIO<br/> Qualità e Servizi</a></span>
+      </div>
+      <div class="clearfix"></div>
+     </div>
+    </div>
+   </div>
+   <div class="col-md-3 col-sm-4 pre-footer-col">
+    <div class="row">
+     <div clasS="col-md-12">
+      <h2>Informati</h2>
+     </div>
+    </div>
+    <div class="row">
+     <div clasS="col-md-12">
+      <!--<div style="clear:left; float:left; margin-bottom:15px;">
+       <img src="http://www.speziarisorse.it/images/ico-link-pagine-interne-58X58.png" width="30" style="float:left; margin-right:5px;" />
+       <span style="float:left; height:35px; display:table-cell; vertical-align:middle;"><a href="http://www.speziarisorse.it/societa-spezia-risorse/aiutaci-a-migliorare/iscrizione-newsletter" title="Iscriviti alle Newsletter">ISCRIZIONE Newsletter</a></span>
+      </div>-->
+      <div class="clearfix"></div>
+     </div>
+    </div>
+    <div class="row">
+     <div clasS="col-md-12">
+      <div style="clear:left; float:left;">
+       <img src="http://www.speziarisorse.it/images/ico-link-pagine-interne-58X58.png" width="30" style="float:left; margin-right:5px;" />
+       <span style="float:left; height:35px; display:table-cell; vertical-align:middle;"><a href="http://www.speziarisorse.it/societa-spezia-risorse/link-utili" title="Vedi i link utili">LINK UTILI</a></span>
+      </div>
+      <div class="clearfix"></div>
+     </div>
+    </div>
+   </div>
+   <div class="col-md-3 col-sm-12 pre-footer-col">
+    <div class="row">
+     <div clasS="col-md-12">
+      <h2>Raggiungici</h2>
+     </div>
+    </div>
+    <div class="row">
+     <div clasS="col-md-12">
+      <img src="http://www.speziarisorse.it/images/mappa.jpg" width="100%" onclick="window.location.href = 'http://www.speziarisorse.it/societa-spezia-risorse/uffici-e-contatti'" style="cursor: pointer;" /> </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>  <!-- PRE-FOOTER END -->
+  <!-- FOOTER BEGIN -->
+  <div class="footer">
+ <div class="container">
+  <div class="row"> 
+	<!-- BEGIN NAVIGATION -->
+	<div class="header-navigation font-transform-inherit">
+     © 2015 copyright SpeziaRisorse SpA | P.Iva 01222120113 | Tel: 0187 16 03 005 - N. Verde 800 49 53 40 - Fax 0187 18 58 819 | <a href="http://www.speziarisorse.it/cookies-policy/informativa-estesa-uso-dei-cookie.html" title="Informativa esteso sull'uso dei Cookie">Cookie Policy</a>
+	</div>
+	<!-- END NAVIGATION --> 
+  </div>
+ </div>
+</div> 
+  <!-- FOOTER END -->
+  <!-- Load javascripts at bottom, this will reduce page load time -->
+  <!-- BEGIN CORE PLUGINS (REQUIRED FOR ALL PAGES) --> 
+<!--[if lt IE 9]>
+    <script src="http://www.speziarisorse.it/assets/global/plugins/respond.min.js"></script>
+<![endif]--> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/jquery.min.js" type="text/javascript"></script> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/jquery-migrate.min.js" type="text/javascript"></script> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+<script src="http://www.speziarisorse.it/assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+<script src="http://www.speziarisorse.it/assets/global/plugins/jquery.cokie.min.js" type="text/javascript"></script>
+<script src="http://www.speziarisorse.it/assets/frontend/layout/scripts/back-to-top.php" type="text/javascript"></script> 
+<!-- END CORE PLUGINS --> 
+
+<!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) --> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script><!-- pop up --> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script><!-- slider for products --> 
+
+<!-- BEGIN RevolutionSlider --> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script> 
+<script src="http://www.speziarisorse.it/assets/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js" type="text/javascript"></script> 
+<script src="http://www.speziarisorse.it/assets/frontend/pages/scripts/revo-slider-init.js" type="text/javascript"></script> 
+<!-- END RevolutionSlider --> 
+
+<!-- BEGIN uniform -->
+<script src="http://www.speziarisorse.it/assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript" ></script>
+<!-- END uniform -->
+
+<!-- BEGIN TOASTR -->
+<script src="http://www.speziarisorse.it/assets/global/plugins/bootstrap-toastr/toastr.min.js" type="text/javascript"></script>
+<script src="http://www.speziarisorse.it/include/php/js/myToastr.php" type="text/javascript"></script>
+<!-- END TOASTR -->
+
+<!-- BEGIN COOKIE LAW BANNER -->
+<script src="http://www.speziarisorse.it/assets/global/plugins/bootbox/bootbox.min.js" type="text/javascript"></script>
+<script src="http://www.speziarisorse.it/include/php/js/cookieMessage.php" type="text/javascript"></script>
+<!-- END COOKIE LAW BANNER -->
+
+<script src="http://www.speziarisorse.it/assets/frontend/layout/scripts/layout.js" type="text/javascript"></script>   <!-- START PAGE JAVASCRIPTS --> 
+  <script type="text/javascript">
+	jQuery(document).ready(function () {
+	 Layout.init();
+	 Layout.initOWL();
+	 Layout.initUniform();
+	 //RevosliderInit.initRevoSlider();
+	 UIToastr.init();
+	 UIAlertDialogApi.init();
+
+	 $('.carousel').carousel({
+		interval: 5000
+	 });
+	});
+</script>
+<script type="text/javascript">
+	$(document).ready(function () {
+	 $(".accordion-toggle").on("click", function () {
+		var idAccordion = $(this).parent().parent().parent().parent().attr('id');
+		var identifier = "#" + idAccordion + " .backgroundNumber1";
+		$(identifier).removeClass("backgroundNumber1");
+		$(this).parent().parent().addClass('backgroundNumber1');
+	 });
+	});
+</script>
+<!-- Google Analytics code -->
+<!-- Google Analytics code -->  <!-- END PAGE LEVEL JAVASCRIPTS -->
+ </body>
+ <!-- END BODY -->
+</html>

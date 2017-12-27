@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>File XML</titolo>
+    <abstract>per ANAC</abstract>
+    <dataPubbicazioneDataset>2017-01-26</dataPubbicazioneDataset>
+    <entePubblicatore>Fondazione Teatro del Maggio Musicale Fiorentino</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-01-26</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.operadifirenze.it/code/wp-content/uploads/contratti-di-appalto2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>6564101381</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>manutenzione e gestione impianti Opera di Firenze</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>05273370485</codiceFiscale>
+            <ragioneSociale>CIEM Srl</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00826780488</codiceFiscale>
+            <ragioneSociale>Faesulae Srl</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00869060210</codiceFiscale>
+            <ragioneSociale>Soc. E. Palchetti &amp; C. Srl</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>00404010589</codiceFiscale>
+            <ragioneSociale>I.G.I.T. S.p.A.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>01391020581</codiceFiscale>
+            <ragioneSociale>S.A.C. Società Appalti Costruzioni Srl</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>01103180582</codiceFiscale>
+            <ragioneSociale>Combustibili Nuova Prenestina S.p.A.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>03085360489</codiceFiscale>
+            <ragioneSociale>Fiorentina Costruzioni Srl</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>04584530481</codiceFiscale>
+          <ragioneSociale>Artim Società Consortile Cooperativa</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05370350489</codiceFiscale>
+          <ragioneSociale>INTEC Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05005090484</codiceFiscale>
+          <ragioneSociale>Proget Impianti Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06374390489</codiceFiscale>
+          <ragioneSociale>SAEET Impianti Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05370350489</codiceFiscale>
+          <ragioneSociale>INTEC Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>643270.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-03-07</dataInizio>
+        <dataUltimazione>2017-03-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>241738.85</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>66722502E2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>consulenza e assistenza per predisposizione piano triennale per raggiungimento equilibrio di bilancio economico-finanziario</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>83250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-16</dataInizio>
+        <dataUltimazione>2016-07-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>83250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6672598210</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di stampa e consegna  programmi di sala per spettacoli della Fondazione</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06399090486</codiceFiscale>
+          <ragioneSociale>LITOGRAFIA IP SRLS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06399090486</codiceFiscale>
+          <ragioneSociale>LITOGRAFIA IP SRLS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>190000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-09-01</dataInizio>
+        <dataUltimazione>2017-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>67138257A7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di trasporti e facchinaggio</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03575190487</codiceFiscale>
+          <ragioneSociale>SILVA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03575190487</codiceFiscale>
+          <ragioneSociale>SILVA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1125000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-01</dataInizio>
+        <dataUltimazione>2021-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6727793E67</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura n. 2 pianoforti e restauro di n. 1 pianoforte a coda</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01814310684</codiceFiscale>
+          <ragioneSociale>Fabbrini Angelo Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01814310684</codiceFiscale>
+          <ragioneSociale>Fabbrini Angelo Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>114463.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-17</dataInizio>
+        <dataUltimazione>2017-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>114463.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6811804E79</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>consulenza ed assistenza per implementazione piano triennale 2016-2018 per raggiungimento equilibrio economico-finanziario come disposto da L. 208/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>166500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-09-01</dataInizio>
+        <dataUltimazione>2017-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>68404050C8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura carro per movimentazione scene sul palcoscenico dell'Opera di Firenze</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09647191007</codiceFiscale>
+          <ragioneSociale>Società Tecnoscena Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09647191007</codiceFiscale>
+          <ragioneSociale>Società Tecnoscena Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>57000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-11-07</dataInizio>
+        <dataUltimazione>2016-12-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6869885870</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura legname per allestimenti scenici</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>68267024B4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>realizzazione concerti MIKA 30 e 31 dicembre 2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>208520566</identificativoFiscaleEstero>
+          <ragioneSociale>Dodgy Holiday US Tours Inc.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>85000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-28</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>42500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6816879A80</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>incarico per realizzazione spettacolo 'Il Signore degli Anelli - la Trilogia' con colonna sonora eseguita dal vivo</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>202183319</identificativoFiscaleEstero>
+          <ragioneSociale>COLUMBIA ARTISTS MUSIC LCC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>322500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-11-04</dataInizio>
+        <dataUltimazione>2017-03-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>224000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>660664149F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>realizzazione spettacolo 'Iolanta'</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>64355824</identificativoFiscaleEstero>
+          <ragioneSociale>VMC Vienna Music Connection</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari />
+      <importoAggiudicazione>165000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-05</dataInizio>
+        <dataUltimazione>2016-05-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>167000.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

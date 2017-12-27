@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Limena</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-06-21</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://sac4.halleysac.it/c028045/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>ZEE12FFF2A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO TRIENNALE SERVIZIO DI MANUTENZIONE ASCENSORI COMUNALI - DITTA OTIS</oggetto>
+		<sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01263940288</codiceFiscale>
+                        						<ragioneSociale>BELLETTI</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>12899760156</codiceFiscale>
+                        						<ragioneSociale>KONE</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01729590032</codiceFiscale>
+                        						<ragioneSociale>OTIS</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01729590032</codiceFiscale>
+                        	
+    					<ragioneSociale>OTIS SERVIZI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>5563.79</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-01-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>2979.67</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z250EDB5F1</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>CONVENZIONE TRA IL COMUNE DI LIMENA E LA COOP. NUOVO VILLAGGIO DI PADOVA PER LA GESTIONE DEGLI ALLOGGI DELL'EDIFICIO SOCIALE SITO IN VIA S.FRANCESCO A LIMENA - ANNI 2014-2016 - IMPEGNO DI SPESA</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01440110284</codiceFiscale>
+                        						<ragioneSociale>COOP. NUOVO VILLAGGIO S.C.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01440110284</codiceFiscale>
+                        	
+    					<ragioneSociale>COOP. NUOVO VILLAGGIO S.C.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>15490.39</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>6129732EDA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>APPALTO SERVIZIO DI ASSISTENZA DOMICILIARE PERIODO 1/4/2015 - 31/3/2018 - DETERMINAZIONE A CONTRARRE</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03475340281</codiceFiscale>
+                        						<ragioneSociale>CARPE DIEM COOPERATIVA SOCIALE</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>03174760276</codiceFiscale>
+                        						<ragioneSociale>CODESS SOCIALE</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01889870281</codiceFiscale>
+                        						<ragioneSociale>COOPERATIVA SOCIALE F.A.I. PADOVA</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01914840028</codiceFiscale>
+                        						<ragioneSociale>EUROTREND ASSISTENZA S.C.R.L.</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>02358970875</codiceFiscale>
+                        						<ragioneSociale>ORSA MAGGIORE SOC.COOP.SOC.</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>02671460281</codiceFiscale>
+                        						<ragioneSociale>PROGETTO NOW SOC. COOP. SOC.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>97163520584</codiceFiscale>
+                        	
+    					<ragioneSociale>AUTORITA' VIGILANZA LAVORI PUBBLICI</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>01889870281</codiceFiscale>
+                        	
+    					<ragioneSociale>COOPERATIVA SOCIALE F.A.I. PADOVA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>146880.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-05-01</dataInizio>
+										<dataUltimazione>2018-04-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>53578.50</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z5012F2FDC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEGLI IMPIANTI DI SOLLEVAMENTO ACQUE METEORICHE PRESENTI NEL TERRITORIO COMUNALE DAL 01/04/2015 AL 31/03/2015 -</oggetto>
+		<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01892840206</codiceFiscale>
+                        						<ragioneSociale>S.T.A. SOCIETA' TRATTAMENTO ACQUE</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>03129770156</codiceFiscale>
+                        						<ragioneSociale>VEOLIA WATER TECHNOLOGIES ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03858690286</codiceFiscale>
+                        	
+    					<ragioneSociale>BP SERVICE S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>03129770156</codiceFiscale>
+                        	
+    					<ragioneSociale>VEOLIA WATER TECHNOLOGIES ITALIA SPA 1511</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>16185.50</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-04-01</dataInizio>
+										<dataUltimazione>2017-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>2944.06</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z0A13FDF86</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>SPORTELLO INFORMALAVORO AFFIDAMENTO SERVIZIO PERIODO APRILE 2015 - MARZO 2016 - IMPEGNO DI SPESA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04308340282</codiceFiscale>
+                        						<ragioneSociale>ASSOCIAZIONE MIGRANTI ONLUS</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>9549.18</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>6419628C9A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>APPROVAZIONE BANDO PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI TESORERIA PER IL QUINQUENNIO 2016-2020 - DETERMINA A CONTRARRE</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>6429223AA6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E  RISCOSSIONE ORDINARIA E COATTIVA  DELL'IMPOSTA COMUNALE SULLA  PUBBLICITA' E DEL DIRITTO SULLE PUBBLICHE AFFISSIONI COMPRESA LA  MATERIALE  AFFISSIONE DEI MANIFESTI, PER IL QUADRIENNIO 01.01.</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>22703.52</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z14159952A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>CANONE SERVIZI E MANUTENZIONE PROGRAMMI HALLEY ANNO 2015 - 2016 - 2017</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02808610279</codiceFiscale>
+                        						<ragioneSociale>HALLEY VENETO S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02808610279</codiceFiscale>
+                        	
+    					<ragioneSociale>HALLEY VENETO S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>9894.20</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-08-04</dataInizio>
+										<dataUltimazione>2017-07-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>18004.20</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZAF1628728</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEL SERVIZIO DI MANUTENZIONE DEL SISTEMA DI VIDEOSORVEGLIANZA INSTALLATO NEL TERRITORIO COMUNALE DAL 1 OTTOBRE 2015 AL 31 DICEMBRE 2016</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01868941004</codiceFiscale>
+                        						<ragioneSociale>b! - ICT COMPANY</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>4026.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-08-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD21629B60</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEGLI IMPIANTI TERMICI STAGIONE 2015/2016 - TERZO RESPONSABILE -</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01868941004</codiceFiscale>
+                        						<ragioneSociale>P.V.B. SOLUTIONS S.p.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01221910225</codiceFiscale>
+                        	
+    					<ragioneSociale>PVB SOLUTIONS SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>9455.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-10-01</dataInizio>
+										<dataUltimazione>2016-04-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>13110.39</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDC162B790</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>DIVISIONE DELLE LINEE ELETTRICHE DELL'EDIFICIO COMUNALE DI VIA PONTEROTTO OVE TROVA SEDE LA SCUOLA INFANZIA &quot;ANDERSEN&quot; - FORNITURA NUOVO CONTATORE ELETTRICO - A SEGUITO AFFIDAMENTO DELL'APPALTO DI GESTIONE DELL'ASILO NIDO</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00868400284</codiceFiscale>
+                        						<ragioneSociale>E.T. ELECTROTEAM</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>06722600019</codiceFiscale>
+                        						<ragioneSociale>EDISON S.p.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00868400284</codiceFiscale>
+                        	
+    					<ragioneSociale>E.T. ELECTRO TEAM S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>08526440154</codiceFiscale>
+                        	
+    					<ragioneSociale>EDISON ENERGIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2100.88</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-29</dataInizio>
+										<dataUltimazione>2016-01-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1889.42</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9915BA244</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>ADESIONE AI SERVIZI H3 IMMEDIA PLUS 2015/2017 - CONSERVAZIONE DEI DOCUMENTI A NORMA NELLA PA - PROGETTO AMMINISTRAZIONE DIGITALE</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03805200270</codiceFiscale>
+                        						<ragioneSociale>ACCATRE SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03805200270</codiceFiscale>
+                        	
+    					<ragioneSociale>ACCATRE SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>20984.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-29</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>6850.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z36164B5C4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>DELIBERA DI GIUNTA REGIONALE 2805/2013 - LEGGE REGIONALE 17/2009 - CONTRIBUTO PER ADEGUAMENTO IMPIANTI DI ILLUMINAZIONE PUBBLICA IN VIA BEATO ARNALDO DA LIMENA - VIA ROMA - INCROCIO VIA ROMA VIA MANETTI - AFFIDAMENTO DELLE OPERE -</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04436180287</codiceFiscale>
+                        						<ragioneSociale>INSIGNA S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04436180287</codiceFiscale>
+                        	
+    					<ragioneSociale>INSIGNA SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>43920.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-10-02</dataInizio>
+										<dataUltimazione>2016-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>56166.62</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD11727930</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEI LAVORI PER L'ESECUZIONE DELLE POTATURE ESSENZE ARBOREE TERRITORIO COMUNALE STAGIONE INVERNALE 2015/2016</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02063790287</codiceFiscale>
+                        						<ragioneSociale>COOPERATIVA SOCIALE PERSONA</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>04716360286</codiceFiscale>
+                        						<ragioneSociale>DELTA VERDE DI CHINELLO MARCO</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>00443650288</codiceFiscale>
+                        						<ragioneSociale>TADIOTTO LUCA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02063790287</codiceFiscale>
+                        	
+    					<ragioneSociale>COOPERATIVA SOCIALE PERSONA S.C.SOC. A R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>8927.96</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-20</dataInizio>
+										<dataUltimazione>2016-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>10524.94</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z5B1732843</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO LAVORI DI MANUTENZIONE STRAORDINARIA DELLA VIABILITA' PERTINENTE LA SEDE MUNICIPALE.</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04662200288</codiceFiscale>
+                        						<ragioneSociale>L.C.T. S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04662200288</codiceFiscale>
+                        	
+    					<ragioneSociale>L.C.T. srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>25257.65</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-09</dataInizio>
+										<dataUltimazione>2016-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>30911.50</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>6294379DDB</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO IN CONCESSIONE DELLA GESTIONE DEL SERVIZIO MICRONIDO COMUNALE &quot;ANDERSEN&quot; - PRESA D'ATTO AGGIUDICAZIONE APPALTO PER GLI ANNI SCOLASTICI DAL 2015/2016 AL 2017/2018 - IMPEGNO DI SPESA</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02671460281</codiceFiscale>
+                        						<ragioneSociale>PROGETTO NOW SOC. COOP. SOC.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>28728.98</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>629437PDDB</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA - SETTORE SERVIZI TECNICI - Ufficio Lavori Pubblici -</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO IN CONCESSIONE DEL MICRONIDO COMUNALE DI LIMENA &quot;ANDERSEN&quot; ANNI SCOLASTICI DAL 2015/2016 AL 2017/2018 - DETERMINAZIONE A CONTRARRE.</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02671460281</codiceFiscale>
+                        						<ragioneSociale>PROGETTO NOW SOC. COOP. SOC.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>61836659C7</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>APPALTO DEL SERVIZIO DI TRASPORTO SCOLASTICO DAL 01/09/2015 AL 30/06/2018. DETERMINAZIONE A CONTRARRE.</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00276780285</codiceFiscale>
+                        						<ragioneSociale>F.LLI RIGATO S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00276780285</codiceFiscale>
+                        	
+    					<ragioneSociale>F.LLI RIGATO SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>00700440282</codiceFiscale>
+                        	
+    					<ragioneSociale>PROVINCIA DI PADOVA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-09-01</dataInizio>
+										<dataUltimazione>2018-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>62748.08</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z381738BA9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>POSIZIONAMENTO DI 2 VARCHI DOPPI CON TELECAMERE LETTURA OCR LUNGO LA S.P. 47 VIA DE SANTO INTERSEZIONE VIA PIEROBON E PIAZZA DIAZ - AFFIDAMENTO FORNITURA E MESSA IN ESERCIZIO PER MEZZO ODA / MEPA / WWW.ACQUISTIINRETEPA.IT</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01868941004</codiceFiscale>
+                        						<ragioneSociale>B! - ICT COMPANY</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01868941004</codiceFiscale>
+                        	
+    					<ragioneSociale>b! S.p.a.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>35990.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-02</dataInizio>
+										<dataUltimazione>2016-03-01</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>39235.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z491754879</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO FORNITURA ARREDI PER SCUOLA MATERNA &quot;MELOGRANO&quot; - RDO 1042545/2015 -</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02027040019</codiceFiscale>
+                        						<ragioneSociale>BORGIONE S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02027040019</codiceFiscale>
+                        	
+    					<ragioneSociale>BORGIONE CENTRO DIDATTICO SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3929.82</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-10</dataInizio>
+										<dataUltimazione>2016-03-15</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1467.06</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z2417D3CBD</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO STAMPANTE AD AGHI PER UFFICIO ANAGRAFE</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03222970406</codiceFiscale>
+                        						<ragioneSociale>MYO S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03222970406</codiceFiscale>
+                        	
+    					<ragioneSociale>MYO S.R.L.  &quot;UNIPERSONALE&quot;</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1078.48</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-29</dataInizio>
+										<dataUltimazione>2016-01-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>884.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8717D8CE5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>SOSTITUZIONE 3 PERSONAL COMPUTER SEDE MUNICIPALE - ACQUISTO IN MEPA TRAMITE ODA -</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01281420297</codiceFiscale>
+                        						<ragioneSociale>SETI S.n.c.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01281420297</codiceFiscale>
+                        	
+    					<ragioneSociale>S.E.T.I. snc di M.Crepaldi e P.Crozzoletto</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2062.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-30</dataInizio>
+										<dataUltimazione>2016-01-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1614.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z141493383</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA - SETTORE SERVIZI TECNICI - Ufficio Lavori Pubblici -</denominazione>
+		</strutturaProponente>
+		<oggetto>ADESIONE AL SERVIZIO UFFICIO STUDI NET DI POLIZIA MUNICIPALE PER L'ANNO 2015</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03631140278</codiceFiscale>
+                        						<ragioneSociale>OPEN SOFTWARE MEDIA SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>463.60</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-05-15</dataInizio>
+										<dataUltimazione>2016-05-01</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDE157CDC4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO DALLA DITTA MYO SRL SERVIZIO DI AGGIORNAMENTO NORMATIVO E NEWS DENOMINATO FORMULA PRESS FULL E FORMULA PER UFFICIO ANAGRAFE</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03222970406</codiceFiscale>
+                        						<ragioneSociale>MYO SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03222970406</codiceFiscale>
+                        	
+    					<ragioneSociale>MYO S.R.L.  &quot;UNIPERSONALE&quot;</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1220.20</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-07-22</dataInizio>
+										<dataUltimazione>2016-07-22</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6214198EC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>INCARICO PER TENUTA SCRITTURE CONTABILI IVA ANNI 2015-2018</oggetto>
+		<sceltaContraente>25-AFFIDAMENTO DIRETTO A SOCIETA' RAGGRUPPATE/CONSORZIATE O CONTROLLATE NELLE CONCESSIONI DI LL.PP</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01102930284</codiceFiscale>
+                        						<ragioneSociale>STUDIO SABBADIN GIORGIO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01102930284</codiceFiscale>
+                        	
+    					<ragioneSociale>STUDIO SABBADIN GIORGIO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1015.04</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-05-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8E13F0333</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>TRASCRIZIONE CONSIGLI COMUNALI.</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02888240245</codiceFiscale>
+                        						<ragioneSociale>FREE FLY DI REFOSCO RINO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02888240245</codiceFiscale>
+                        	
+    					<ragioneSociale>FREE FLY DI REFOSCO RINO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-04-27</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6513B760A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA MENSA AZIENDALE PER PERSONALE DIPENDENTE.</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03723900282</codiceFiscale>
+                        						<ragioneSociale>GARDEN RESTAURANT CAFE G E D SNC DI FAGGIN E BOETTO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03723900282</codiceFiscale>
+                        	
+    					<ragioneSociale>GARDEN - G &amp; D DI FAGGIN G. E BOETTO D. S.N.C.</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>02459470288</codiceFiscale>
+                        	
+    					<ragioneSociale>K2 NEW S.A.S. DI MORESSA VALTER &amp; C.</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>04406800286</codiceFiscale>
+                        	
+    					<ragioneSociale>MASON BAR PAUSA PRANZO PIZZERIA-MASON MARTINO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-03-19</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>2674.50</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z0D1764FBC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER CORSO ONLINE &quot;CORSO DI FORMAZIONE ANTICORRUZIONE&quot;.</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00089070403</codiceFiscale>
+                        						<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00089070403</codiceFiscale>
+                        	
+    					<ragioneSociale>GRAFICHE E. GASPARI S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>100.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-02</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>100.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z2A15818CA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER SERVIZIO DI PULITURA  PERSONALE DI VIGILANZA ANNO 2015</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03868180286</codiceFiscale>
+                        						<ragioneSociale>REFFO MANUELLA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03868180286</codiceFiscale>
+                        	
+    					<ragioneSociale>REFFO MANUELLA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-07-27</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>149.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF61482B19</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA - SETTORE SERVIZI TECNICI - Ufficio Lavori Pubblici -</denominazione>
+		</strutturaProponente>
+		<oggetto>CONFERIMENTO INCARICO IMPEGNO DI SPESA PER VISITE MEDICHE SANITARIE PERSONALE DIPENDENTE AI SENSI DEL D.LGS. 626/94 E D.LGS N. 81/2008.</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02394410282</codiceFiscale>
+                        						<ragioneSociale>RUZZA GIOVANNI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>1250.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>625.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z921676657</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA - SETTORE SERVIZI TECNICI - Ufficio Lavori Pubblici -</denominazione>
+		</strutturaProponente>
+		<oggetto>INCARICO PROFESSIONALE PER L'ESPLETAMENTO DI FUNZIONI SOCIALI NELL'AMBITO DEI SERVIZI COMUNALI PER IL PERIODO 12/10/2015 29/02/2015;</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>BRTCST79B60E463T</codiceFiscale>
+                        						<ragioneSociale>BORTOLAMI CRISTIANA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4A1A0118F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>MANIFESTAZIONE &quot;BATI MARSO&quot; 2016 - IN COLLABORAZIONE CON IL COMITATO PER LE BELLE COSTUMANZE VENETE DI RUBANO - LIQUIDAZIONE CONTRIBUTO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>CRSMHL72L10G224R</codiceFiscale>
+                        						<ragioneSociale>COMITATO PER LE BELLE COSTUMANZE VENETE</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>PLMLRS68L29G224L</codiceFiscale>
+                        	
+    					<ragioneSociale>COMITATO PER LE BELLE COSTUMANZE VENETE</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-17</dataInizio>
+										<dataUltimazione>2016-03-06</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>2720.83</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z23198544E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>MANIFESTAZIONE &quot;PRIMAVERA VENETA MUSICALE&quot; SABATO 2 E DOMENICA 3 APRILE 2016 - IMPEGNO DI SPESA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>90017360265</codiceFiscale>
+                        						<ragioneSociale>ASS.NE STORICO IDENTITARIA 16 REGGIMENTO TREVISO 1797</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>90017360265</codiceFiscale>
+                        	
+    					<ragioneSociale>ASS.NE STORICO IDENTITARIA 16  REGGIMENTO TREVISO 1797</ragioneSociale>
+    					    				</aggiudicatario>    			    		    	<aggiudicatario>    					                            <codiceFiscale>03362320289</codiceFiscale>
+                        	
+    					<ragioneSociale>MUNARETTO ROMBALDI SNC</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2450.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-03-23</dataInizio>
+										<dataUltimazione>2016-04-03</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>11637.66</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6019859F6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00327150280</codiceFiscaleProp>
+			<denominazione>COMUNE DI LIMENA</denominazione>
+		</strutturaProponente>
+		<oggetto>PROGETTO SULLA VIOLENZA E LA CRISI FAMILIARE IN COLLABORAZIONE CON L'ASSOCIAZIONE &quot;GENITORIALITA'&quot; DI PADOVA - IMPEGNO DI SPESA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04044120287</codiceFiscale>
+                        						<ragioneSociale>ASSOCIAZIONE GENITORIALITA'</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04044120287</codiceFiscale>
+                        	
+    					<ragioneSociale>ASSOCIAZIONE GENITORIALITA'</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1769.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-20</dataInizio>
+										<dataUltimazione>2016-05-18</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Dati appalti comune di Tavernole sul mella anno 2015</titolo>
+    <abstract>Dati appalti comune di Tavernole sul mella anno 2015</abstract>
+    <dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>COMUNE DI TAVERNOLE SUL MELLA</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.comune.tavernolesulmella.bs.it/legge190/legge190_comune_di_tavernole_sul_mella_2015_20160129.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z6B155F399</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE STRAORDINARIA VASP N. 05</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02765630989</codiceFiscale>
+          <ragioneSociale>BORGHETTI WILLIAM</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01698310982</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE PORTERI FIRMO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02592490987</codiceFiscale>
+          <ragioneSociale>MAFFINA SCAVI DI MAFFINA FABRIZIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02592490987</codiceFiscale>
+          <ragioneSociale>MAFFINA SCAVI DI MAFFINA FABRIZIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14947.68</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-30</dataInizio>
+        <dataUltimazione>2015-10-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>14947.68</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD913C6A11</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>VERIFICA IMPIANTI DI MESSA A TERRA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04036310235</codiceFiscale>
+          <ragioneSociale>CHECKS SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02334670987</codiceFiscale>
+          <ragioneSociale>SO.V.I SOCIETA' VERIFICA IMPIANTI S.R.L</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02334670987</codiceFiscale>
+          <ragioneSociale>SO.V.I SOCIETA' VERIFICA IMPIANTI S.R.L</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>240.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-14</dataInizio>
+        <dataUltimazione>2015-03-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>240.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6188953594</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>RIQUALIFICAZIONE DEL PARCO FRAZIONE CAMPO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00614010981</codiceFiscale>
+          <ragioneSociale> SOCIETA' AGRICOLA COOPERATIVA ECOTECNICA VALTRUMPLINA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00109990986</codiceFiscale>
+          <ragioneSociale>GEO-GREEN DI CENEDELLA GIUSEPPE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00354970139</codiceFiscale>
+          <ragioneSociale>LIMONTA SPORT SPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03255350179</codiceFiscale>
+          <ragioneSociale>MAST SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02916070986</codiceFiscale>
+          <ragioneSociale>SKY GREEN SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02890290162</codiceFiscale>
+          <ragioneSociale>TPS SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02916070986</codiceFiscale>
+          <ragioneSociale>SKY GREEN SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>142750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-03</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>142750.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2A166E843</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE IMPIANTO ELEVATORE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02284930985</codiceFiscale>
+          <ragioneSociale>SVI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02284930985</codiceFiscale>
+          <ragioneSociale>SVI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>120.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>120.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF3149C616</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE PER OPERATRI ECOLOGICI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00145590981</codiceFiscale>
+          <ragioneSociale>FERRAMENTA BREGOLI GIULIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00145590981</codiceFiscale>
+          <ragioneSociale>FERRAMENTA BREGOLI GIULIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>391.97</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-18</dataInizio>
+        <dataUltimazione>2015-05-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>391.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7B166DFB3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE IMPIANTO ANTINTRUSIONE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03482440173</codiceFiscale>
+          <ragioneSociale>SIMA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03482440173</codiceFiscale>
+          <ragioneSociale>SIMA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>380.03</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>380.03</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5416B458D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI DERATIZZAZIONE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02565160989</codiceFiscale>
+          <ragioneSociale>LDDS DI COSTA GIUSEPPE E C. SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02565160989</codiceFiscale>
+          <ragioneSociale>LDDS DI COSTA GIUSEPPE E C. SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>440.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>440.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBE166E7F4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE MONTASCALE FORNO FUSORIO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02137960965</codiceFiscale>
+          <ragioneSociale>M.I.R.E. SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02137960965</codiceFiscale>
+          <ragioneSociale>M.I.R.E. SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>360.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>360.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7013FC226</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA ENERGIA ELETTRICA CAMPO SPORTIVO PEZZORO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06655971007</codiceFiscale>
+          <ragioneSociale>ENEL ENERGIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06655971007</codiceFiscale>
+          <ragioneSociale>ENEL ENERGIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-14</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0913FC1D7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA ENERGIA ELETTRICA CIMITERO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06655971007</codiceFiscale>
+          <ragioneSociale>ENEL ENERGIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06655971007</codiceFiscale>
+          <ragioneSociale>ENEL ENERGIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-14</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9717D84EA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>INTEVENTO DI MANUTENZIONE STRAORDINARIA IMMOBILI COMUNALI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01698310982</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE PORTERI FIRMO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01698310982</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE PORTERI FIRMO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-29</dataInizio>
+        <dataUltimazione>2015-12-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE017B03C1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTO DI MANUTENZIONE E SOSTITUZIONE PEZZI DI RICAMBIO AUTOMEZZI COMUNALI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01995110886</codiceFiscale>
+          <ragioneSociale>AUTORIPARAZIONI E GOMMISTA CORSINI FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01995110886</codiceFiscale>
+          <ragioneSociale>AUTORIPARAZIONI E GOMMISTA CORSINI FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>770.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-22</dataInizio>
+        <dataUltimazione>2015-12-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>770.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC017A7AB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MATERIALE INFORMATICO TRAMITE MEPA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00913600144</codiceFiscale>
+          <ragioneSociale>I.S.I.-IT SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00913600144</codiceFiscale>
+          <ragioneSociale>I.S.I.-IT SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>128.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-14</dataInizio>
+        <dataUltimazione>2015-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1B17A7C4C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MATERIALE INFORMATICO TRAMITE MEPA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02385950029</codiceFiscale>
+          <ragioneSociale>PORETTI SOLUTION</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02385950029</codiceFiscale>
+          <ragioneSociale>PORETTI SOLUTION</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>534.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-14</dataInizio>
+        <dataUltimazione>2015-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF717A7EBA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MATERIALE INFORMATICO TRAMITE MEPA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03340710270</codiceFiscale>
+          <ragioneSociale>ADPARTNERS SNC DI DESTRO STEFANO E ALBERTINI NICOLA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02070490988</codiceFiscale>
+          <ragioneSociale>INFOCOPY</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06467211006</codiceFiscale>
+          <ragioneSociale>QUASATER</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01974590026</codiceFiscale>
+          <ragioneSociale>SPEDI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974590026</codiceFiscale>
+          <ragioneSociale>SPEDI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1038.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-14</dataInizio>
+        <dataUltimazione>2015-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z18179A5BF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO GUIDE TURISTICHE MUSEO FORNO FUSORIO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>92008560176</codiceFiscale>
+          <ragioneSociale>ASSOCIAZIONE SCOPRI VALTROMPIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>92008560176</codiceFiscale>
+          <ragioneSociale>ASSOCIAZIONE SCOPRI VALTROMPIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1410.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-14</dataInizio>
+        <dataUltimazione>2015-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z251797B2B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>IMPEGNO DI SPESA PER INSERIMENTO LAVORATIVO TRAMITE VOUCHER</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PTTRLL47A66C698V</codiceFiscale>
+          <ragioneSociale>TABACCHERIA PIOTTI ORNELLA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PTTRLL47A66C698V</codiceFiscale>
+          <ragioneSociale>TABACCHERIA PIOTTI ORNELLA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-09</dataInizio>
+        <dataUltimazione>2015-12-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF1175B4FA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO CANCELLERIA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1214.95</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-01</dataInizio>
+        <dataUltimazione>2015-12-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2F1753A9A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO CERTIFICATO DI SICUREZZA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08300171017</codiceFiscale>
+          <ragioneSociale>COMUNITA' MONTANA DI VALLE TROMPIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08300171017</codiceFiscale>
+          <ragioneSociale>COMUNITA' MONTANA DI VALLE TROMPIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>55.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-23</dataInizio>
+        <dataUltimazione>2015-11-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7016B87ED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO DI MANUTENZIONE STRAORDINARIA AREA VERDE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01698310982</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE PORTERI FIRMO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01698310982</codiceFiscale>
+          <ragioneSociale>IMPRESA EDILE PORTERI FIRMO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-12</dataInizio>
+        <dataUltimazione>2015-11-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5216BFE52</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>2 GIORNATE INTERVENTO TECNICO FORMATIVO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00906740352</codiceFiscale>
+          <ragioneSociale>STUDIO K SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00906740352</codiceFiscale>
+          <ragioneSociale>STUDIO K SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-19</dataInizio>
+        <dataUltimazione>2015-10-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF116A877F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SVOLGIMENTO DI ATTIVITA' DI SOLIDARIETA' SOCIALE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03140250980</codiceFiscale>
+          <ragioneSociale>IL PAESE DELLE TAVERNE ONLUS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03140250980</codiceFiscale>
+          <ragioneSociale>IL PAESE DELLE TAVERNE ONLUS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-14</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6155.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z651689AD3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSISTENZA TECNICA RILEVATORE PRESENZE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02959530987</codiceFiscale>
+          <ragioneSociale>TOSINI GROUP SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02959530987</codiceFiscale>
+          <ragioneSociale>TOSINI GROUP SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1101.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-14</dataInizio>
+        <dataUltimazione>2018-10-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>367.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9116995EB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE PER UFFICI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>163.12</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-14</dataInizio>
+        <dataUltimazione>2015-10-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF016645ED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO INCARICO PROFESSIONALE ASSISTENZA TECNICA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01793830983</codiceFiscale>
+          <ragioneSociale>DOTT. FOR. MARCO COGOLI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01793830983</codiceFiscale>
+          <ragioneSociale>DOTT. FOR. MARCO COGOLI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-06</dataInizio>
+        <dataUltimazione>2015-10-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z401612D87</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO 3 MONITOR</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01193630520</codiceFiscale>
+          <ragioneSociale>STUDIO INFORMATICA SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01193630520</codiceFiscale>
+          <ragioneSociale>STUDIO INFORMATICA SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>407.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-15</dataInizio>
+        <dataUltimazione>2015-09-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>407.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z531611F0A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO TRASPORTO SCOLASTICO 2015/2016</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02927090171</codiceFiscale>
+          <ragioneSociale>SIA SOCIETA' ITALIANA AUTOSERVIZI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02927090171</codiceFiscale>
+          <ragioneSociale>SIA SOCIETA' ITALIANA AUTOSERVIZI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8969.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-01</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8969.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC315EDB60</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>IMPEGNO DI SPESA PER TRASPORTO DISABILI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01977230174</codiceFiscale>
+          <ragioneSociale>L'AQUILONE SOC. COOP. SOCIALE ONLUS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01977230174</codiceFiscale>
+          <ragioneSociale>L'AQUILONE SOC. COOP. SOCIALE ONLUS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-01</dataInizio>
+        <dataUltimazione>2016-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1619.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAE15EB170</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>IMPEGNO DI SPESA PER INSERIMENTO VOUCHER LAVORATIVI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PTTRLL47A66C698V</codiceFiscale>
+          <ragioneSociale>TABACCHERIA PIOTTI ORNELLA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PTTRLL47A66C698V</codiceFiscale>
+          <ragioneSociale>TABACCHERIA PIOTTI ORNELLA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-31</dataInizio>
+        <dataUltimazione>2015-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1615C16EE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO OPERE COMPLEMENTARI INTERVENTO DI SISTEMAZIONE PARCO FRAZIONE CAMPO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00641960984</codiceFiscale>
+          <ragioneSociale>OLLI SCAVI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00641960984</codiceFiscale>
+          <ragioneSociale>OLLI SCAVI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>16000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-27</dataInizio>
+        <dataUltimazione>2015-09-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4A15EB2EB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>STAMPA VOLANTINI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08300171017</codiceFiscale>
+          <ragioneSociale>COMUNITA' MONTANA DI VALLE TROMPIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08300171017</codiceFiscale>
+          <ragioneSociale>COMUNITA' MONTANA DI VALLE TROMPIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-14</dataInizio>
+        <dataUltimazione>2015-08-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0E15985D2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO DEL SERVIZIO MENSA SCOLASTICA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01174800217</codiceFiscale>
+          <ragioneSociale>MARKAS SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01174800217</codiceFiscale>
+          <ragioneSociale>MARKAS SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-07</dataInizio>
+        <dataUltimazione>2015-08-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4531.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F156E3B6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUSITO LIBRI DI TESTO SCUOLA ELEMENTARE</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>BRGGZL64S49C698R</codiceFiscale>
+          <ragioneSociale>CARTOLERIA PIRLO DI BORGHETTI GRAZIELLA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>BRGGZL64S49C698R</codiceFiscale>
+          <ragioneSociale>CARTOLERIA PIRLO DI BORGHETTI GRAZIELLA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2366.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-05</dataInizio>
+        <dataUltimazione>2015-08-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2366.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z03156EB14</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO BLOCCHETTI BUONI PASTO</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00431960178</codiceFiscale>
+          <ragioneSociale>BATAN SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00431960178</codiceFiscale>
+          <ragioneSociale>BATAN SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-27</dataInizio>
+        <dataUltimazione>2015-07-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE1155F407</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ADEGUAMENTO ALLE NORME IGENICO SANITARIE DEL PLESSO SCOLASTICO CONSORTILE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08300171017</codiceFiscale>
+          <ragioneSociale>COMUNITA' MONTANA DI VALLE TROMPIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08300171017</codiceFiscale>
+          <ragioneSociale>COMUNITA' MONTANA DI VALLE TROMPIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>18550.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-13</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z88151146A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE PER REALIZZAZIONE BARRIERA STRADALE VEGETALE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00614010981</codiceFiscale>
+          <ragioneSociale>SOCIETA' AGRICOLA COPERATIVA ECOTECNICA VALTRUMPLINA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00614010981</codiceFiscale>
+          <ragioneSociale>SOCIETA' AGRICOLA COPERATIVA ECOTECNICA VALTRUMPLINA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-14</dataInizio>
+        <dataUltimazione>2015-08-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4314FE57B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>PULIZIE IMMOBILI COMUNALI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01561580984</codiceFiscale>
+          <ragioneSociale>SOCIETA' COPERATIVA ANDROPOLIS AMBIENTE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01561580984</codiceFiscale>
+          <ragioneSociale>SOCIETA' COPERATIVA ANDROPOLIS AMBIENTE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>16300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-01</dataInizio>
+        <dataUltimazione>2017-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6261.63</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA914FFF03</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO INCARIO RIQUALIFICAZIONE INCARICO COMUNALE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00770710176</codiceFiscale>
+          <ragioneSociale>ARCH. FABBRI EZIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00770710176</codiceFiscale>
+          <ragioneSociale>ARCH. FABBRI EZIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-16</dataInizio>
+        <dataUltimazione>2015-06-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z04146329F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO DECESPUGLIATORE E SOFFIATORE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02669030989</codiceFiscale>
+          <ragioneSociale>GIPPONI RAFFAELE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02669030989</codiceFiscale>
+          <ragioneSociale>GIPPONI RAFFAELE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-05</dataInizio>
+        <dataUltimazione>2015-06-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE214CA3CC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MATERIALE DI CANCELLERIA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>315.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-29</dataInizio>
+        <dataUltimazione>2015-05-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>315.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z231491A54</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO MODOLO SW AQUISIZIONE FATTURE ELETTRONICHE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00268040177</codiceFiscale>
+          <ragioneSociale>F.APOLLONIO &amp; C SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-14</dataInizio>
+        <dataUltimazione>2015-05-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z681446A34</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE PEZZI DI RICAMBIO MEZZI COMUNALI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01995110886</codiceFiscale>
+          <ragioneSociale>AUTORIPARAZIONI E GOMMISTA CORSINI FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01995110886</codiceFiscale>
+          <ragioneSociale>AUTORIPARAZIONI E GOMMISTA CORSINI FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-29</dataInizio>
+        <dataUltimazione>2015-04-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE5141C413</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO POLIZZA ASSICURATIVA FURTO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00110750221</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00110750221</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-30</dataInizio>
+        <dataUltimazione>2018-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6225337E98</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>PROROGA CONVENZIONE RIFUTI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02013000985</codiceFiscale>
+          <ragioneSociale>AZIENDA SERVIZI VALTROMPIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02013000985</codiceFiscale>
+          <ragioneSociale>AZIENDA SERVIZI VALTROMPIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>90909.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>29982.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF014CC6F2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO SERVIZIO MEDICINA DEL LAVORO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03842690160</codiceFiscale>
+          <ragioneSociale>CRES LT SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03842690160</codiceFiscale>
+          <ragioneSociale>CRES LT SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z86166E791</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE MONTASCALE SCUOLA ELEMENTARE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00866030174</codiceFiscale>
+          <ragioneSociale>FARA DI FRIGOLI ALBERTO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00866030174</codiceFiscale>
+          <ragioneSociale>FARA DI FRIGOLI ALBERTO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>340.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>340.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC2142362E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE SERVO SCALA PRESSO SCUOLA ELEMENTARE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00866030174</codiceFiscale>
+          <ragioneSociale>FARA DI FRIGOLI ALBERTO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00866030174</codiceFiscale>
+          <ragioneSociale>FARA DI FRIGOLI ALBERTO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>332.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-16</dataInizio>
+        <dataUltimazione>2015-04-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>332.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC113FFE38</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA BENZINA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04916380159</codiceFiscale>
+          <ragioneSociale>ESSELUNGA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04916380159</codiceFiscale>
+          <ragioneSociale>ESSELUNGA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-08</dataInizio>
+        <dataUltimazione>2018-04-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>600.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE913E721B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>RIQUALIFICAZIONE VIABILITA' MINORE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00348070178</codiceFiscale>
+          <ragioneSociale>GE.VI.CO. SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00348070178</codiceFiscale>
+          <ragioneSociale>GE.VI.CO. SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>39950.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-03</dataInizio>
+        <dataUltimazione>2015-08-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>39950.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC013E6031</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE MEZZI COMUNALI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01995110886</codiceFiscale>
+          <ragioneSociale>AUTORIPARAZIONI E GOMMISTA CORSINI FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01995110886</codiceFiscale>
+          <ragioneSociale>AUTORIPARAZIONI E GOMMISTA CORSINI FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>705.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-17</dataInizio>
+        <dataUltimazione>2015-04-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>705.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDB13E609B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE VARIO LOCALI PALESTRA SCUOLA ELEMENTARE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02841110980</codiceFiscale>
+          <ragioneSociale>TAPPEZZERIA GAMBIRAZIO F.LLI &amp; C. SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02841110980</codiceFiscale>
+          <ragioneSociale>TAPPEZZERIA GAMBIRAZIO F.LLI &amp; C. SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-01</dataInizio>
+        <dataUltimazione>2015-04-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1750.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8C13B17A4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SISTEMAZIONE OROLOGIO DA TORRE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SFRMRS82H14Z153S</codiceFiscale>
+          <ragioneSociale>ELETTRO CAMPANE DI SEFERAGIC MERIS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SFRMRS82H14Z153S</codiceFiscale>
+          <ragioneSociale>ELETTRO CAMPANE DI SEFERAGIC MERIS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-19</dataInizio>
+        <dataUltimazione>2015-03-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7E13B19C0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI MANUTENZIONE IMPIANTI ELETTRICI PER L'ANNO 2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SLRLRD73P05D918D</codiceFiscale>
+          <ragioneSociale>SALERI LEONARDO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SLRLRD73P05D918D</codiceFiscale>
+          <ragioneSociale>SALERI LEONARDO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4A13CBD1A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>LIQUIDAZIONE SPESE ASSICURATIVE RCA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00110750221</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00110750221</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z441753A61</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>LIQUIDAZIONE SPESE ASSICURATIVE RCA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00110750224</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00110750224</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>806.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>806.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2A1753A3C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>LIQUIDAZIONE SPESE ASSICURATIVE RCA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00110750223</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00110750223</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>825.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>825.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4515985F0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>LIQUIDAZIONE SPESE ASSICURATIVE RCA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00110750222</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00110750222</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>940.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>940.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD013CB905</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>LIQUIDAZIONE SPESE ASSICURATIVE RCA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00110750221</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00110750221</codiceFiscale>
+          <ragioneSociale>ITAS MUTUA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>658.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-24</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>658.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9B13B6B1A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>INTERVENTO DI MANUTENZIONE DISPOSITIVI ANTICENDIO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00753370154</codiceFiscale>
+          <ragioneSociale>SOPPRAN CIODUE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00753370154</codiceFiscale>
+          <ragioneSociale>SOPPRAN CIODUE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1052.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-20</dataInizio>
+        <dataUltimazione>2015-03-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1052.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5913750E1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>IMPEGNO DI SPESA PER ESECUZIONE REVISIONE VEICOLO COMUNALE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02012930984</codiceFiscale>
+          <ragioneSociale>Centro Revisione Gardonese</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02012930984</codiceFiscale>
+          <ragioneSociale>Centro Revisione Gardonese</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>65.68</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-04</dataInizio>
+        <dataUltimazione>2015-03-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>65.68</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA7136826F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO TELEMATICO AGGIORNAMENTO NORMATIVO</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03139650984</codiceFiscale>
+          <ragioneSociale>SOLUZIONE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03139650984</codiceFiscale>
+          <ragioneSociale>SOLUZIONE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>570.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-27</dataInizio>
+        <dataUltimazione>2015-02-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>570.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B132A446</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO SERVIZIO PULIZIA IMMOBILI COMUNALI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01859420984</codiceFiscale>
+          <ragioneSociale>Arcobaleno di Forcella Antonella</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01859420984</codiceFiscale>
+          <ragioneSociale>Arcobaleno di Forcella Antonella</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2459.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-01</dataInizio>
+        <dataUltimazione>2015-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2459.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z20157EDE5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE FOTOCOPIATRICI 2015</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01556470985</codiceFiscale>
+          <ragioneSociale>REPLICA UFFICIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01556470985</codiceFiscale>
+          <ragioneSociale>REPLICA UFFICIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-23</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8E132A449</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83001210174</codiceFiscaleProp>
+        <denominazione>Comune di Tavernole sul Mella</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO SERVIZIO MANUTENZIONE IMMOBILI COMUNALI, TOPONOMASTICA E STRADE</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01561580984</codiceFiscale>
+          <ragioneSociale>SOCIETA' COPERATIVA ANDROPOLIS AMBIENTE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01561580984</codiceFiscale>
+          <ragioneSociale>SOCIETA' COPERATIVA ANDROPOLIS AMBIENTE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>26230.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-13</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>26230.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

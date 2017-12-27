@@ -1,0 +1,79 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 http://dati.avcp.it/schema/datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+<metadata>
+<titolo>Pubblicazione 1 legge 190</titolo>
+<abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2016</abstract>
+<dataPubbicazioneDataset>2014-01-28</dataPubbicazioneDataset>
+<entePubblicatore>Consorzio Casal Lumbroso</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2017-01-12</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.consorziocasallumbroso.it/AVCP/2016/dataset1.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>552518788B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>12326401002</codiceFiscaleProp>
+<denominazione>Consorzio Casal Lumbroso</denominazione>
+</strutturaProponente>
+<oggetto>Progettazione esecutiva e realizzazione opere di urbanizzazione primaria rete stradale, fogne e parcheggi pubblici in Roma, località Casal Lumbroso</oggetto>
+<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+<partecipanti>
+<raggruppamento>
+<membro>
+<codiceFiscale>08589431009</codiceFiscale>
+<ragioneSociale>GRUPPO SCHINA CONSORZIO STABILE</ragioneSociale>
+<ruolo>04-CAPOGRUPPO</ruolo>
+</membro>
+<membro>
+<codiceFiscale>06848331002</codiceFiscale>
+<ragioneSociale>NS COSTRUZIONI SRL</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo>
+</membro>
+<membro>
+<codiceFiscale>12455871009</codiceFiscale>
+<ragioneSociale>C.R.G. COSTRUZIONI GENERALI ROMA SOCIETA' COOPERATIVA</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo>
+</membro>
+<membro>
+<codiceFiscale>04369631009</codiceFiscale>
+<ragioneSociale>VIRGINIO PETRICHELLA SRL</ragioneSociale>
+<ruolo>04-CAPOGRUPPO</ruolo>
+</membro>
+<membro>
+<codiceFiscale>03228070581</codiceFiscale>
+<ragioneSociale>S.I.GE.CO. SRL UNIPERSONALE</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo>
+</membro>
+</raggruppamento>
+<partecipante>
+<codiceFiscale>00281620377</codiceFiscale>
+<ragioneSociale>CONSORZIO COOPERATIVE COSTRUZIONI CCC SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03606300584</codiceFiscale>
+<ragioneSociale>R.A.C.O.P. ROMANA APPALTI COSTRUZIONI OPERE PUBBLICHE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+<membro>
+<codiceFiscale>04369631009</codiceFiscale>
+<ragioneSociale>VIRGINIO PETRICELLA S.R.L.</ragioneSociale>
+<ruolo>04-CAPOGRUPPO</ruolo>
+</membro>
+<membro>
+<codiceFiscale>03228070581</codiceFiscale>
+<ragioneSociale>S.I.GE.CO. UNIPERSONALE S.R.L.</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo>
+</membro>
+</aggiudicatarioRaggruppamento>
+</aggiudicatari>
+<importoAggiudicazione>4309102.74</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>

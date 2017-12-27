@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif.2012</abstract>
+        <dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+        <entePubblicatore>Comune di Cercino</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://tecuting.halleylombardia.it/c014017/images/appalti-2015.xml</urlFile>
+        <licenza xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>Z2615ABE32</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA ARREDO URBANO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02273480166</codiceFiscale>
+                    <ragioneSociale>ghitti giuseppe snc</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02273480166</codiceFiscale>
+                    <ragioneSociale>ghitti giuseppe snc</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2110.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-08-07</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2110.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB31314186</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>Server di rete e sistema di sicurezza</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01343230130</codiceFiscale>
+                    <ragioneSociale>HALLEY LOMBARDIA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01343230130</codiceFiscale>
+                    <ragioneSociale>HALLEY LOMBARDIA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-05</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4200.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3512E53D2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura e montaggio n. 4 pneumatici per autocarro mod. Bonetti</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00497530147</codiceFiscale>
+                    <ragioneSociale>Sgualdino Pneumatici</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>760.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-16</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>760.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE61382C45</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>Rinnovamento sistema informativo comunale </oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01343230130</codiceFiscale>
+                    <ragioneSociale>HALLEY LOMBARDIA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01343230130</codiceFiscale>
+                    <ragioneSociale>HALLEY LOMBARDIA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6800.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-05</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>6800.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB81370870</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO SERVIZIO DI CONSULENZA SERVIZIO CONTABILE ANNO 2015 PER IL COMUNE DI CERCINO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00573440146</codiceFiscale>
+                    <ragioneSociale>FRANGI LINA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00573440146</codiceFiscale>
+                    <ragioneSociale>FRANGI LINA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>750.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-03</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>750.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0D136E427</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>PROGETTAZIONE PRELIMINARE STRADA IN LOC. BRUCIATA COMUNE DI CERCINO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02293850133</codiceFiscale>
+                    <ragioneSociale>Canclini Paolo</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02293850133</codiceFiscale>
+                    <ragioneSociale>Canclini Paolo</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-02</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5313826F7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>IMPIANTO FOTOVOLTAICO COMUNALE ADEGUAMENTO DELIBERA 243/2013/R/eel</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00909050148</codiceFiscale>
+                    <ragioneSociale>ABCLOG S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00909050148</codiceFiscale>
+                    <ragioneSociale>ABCLOG S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>850.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-03-06</dataInizio>
+                <dataUltimazione>2015-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>850.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8B16049AF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>RICHIESTA PREVENTIVO PER FORNITURA ARREDO AMBULATORIO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00003740149</codiceFiscale>
+                    <ragioneSociale>DE GIACOMINA SAS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00003740149</codiceFiscale>
+                    <ragioneSociale>DE GIACOMINA SAS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>663.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-11</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>663.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0F163AD50</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>CON LA PRESENTE SI CHIEDE UN PREVENTIVO DI SPESA PER IL TAGLIO DI N. 1 PIANTA PRESSO IL MUNICIPIO DI CERCINO E N. 3 PIANTE PRESSO IL CIMITERO DI CERCINO, COMPRESO LO SMALTIMENTO DEL MATERIALE DI RISULTA. </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00759960149</codiceFiscale>
+                    <ragioneSociale>PARETI LUCA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00759960149</codiceFiscale>
+                    <ragioneSociale>PARETI LUCA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-25</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1100.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE9162570F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>PROGETTAZIONE IMPIANTO ELETTRICO PRIMO PIANO EX SCUOLE DI CERCINO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00674240148</codiceFiscale>
+                    <ragioneSociale>Per. Ind. Daniele Fornè</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00674240148</codiceFiscale>
+                    <ragioneSociale>Per. Ind. Daniele Fornè</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>950.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-21</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>950.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCD1607010</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>LAVORI DI MANUTENZIONE STRADE COMUNALI </oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00796140143</codiceFiscale>
+                    <ragioneSociale>CARNAZZOLA GEOM. CAMILLO SPA </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00623840147</codiceFiscale>
+                    <ragioneSociale>MOSCONI SRL società ad unico socio</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00796140143</codiceFiscale>
+                    <ragioneSociale>CARNAZZOLA GEOM. CAMILLO SPA </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>16673.09</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-25</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>16673.09</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z811643AD5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>RICHIESTA PREVENTIVO PER FORNITURA CARTELLI STRADALI. </oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00712540145</codiceFiscale>
+                    <ragioneSociale>CROMA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00712540145</codiceFiscale>
+                    <ragioneSociale>CROMA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>617.36</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-28</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>617.36</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0F15F75D1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA E POSA PARAPETTI STRADALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00882580145</codiceFiscale>
+                    <ragioneSociale>DP1 di De Pianto Alessandro</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00882580145</codiceFiscale>
+                    <ragioneSociale>DP1 di De Pianto Alessandro</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>38.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-14</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>38.50</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9A169CB54</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>PROGETTAZIONE PRELIMINARE RIQUALIFICAZIONE ENERGETICA MUNICIPIO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00658900147</codiceFiscale>
+                    <ragioneSociale>Marco Codazzi Ingegnere</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00658900147</codiceFiscale>
+                    <ragioneSociale>Marco Codazzi Ingegnere</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2918.24</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-10-19</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2918.24</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3316BB832</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>Incarico per verifica realizzazione nuova apertura in muro in cemento armato al piano interrato del fabbricato ex scuola di Cercino</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00902910140</codiceFiscale>
+                    <ragioneSociale>Alvaro Bongio</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00902910140</codiceFiscale>
+                    <ragioneSociale>Alvaro Bongio</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>600.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-10-26</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCA1697929</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>LAVORI DI “REALIZZAZIONE PARCHEGGIO IN VIA FOLONARO”.</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00743610149</codiceFiscale>
+                    <ragioneSociale>BARRI MARINO DI BARRI SILVANO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00743610149</codiceFiscale>
+                    <ragioneSociale>BARRI MARINO DI BARRI SILVANO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>36174.77</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-10-19</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3E1770C72</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>D.Lg.vo n. 81/2008- Incarico di Responsabile Servizio Prevenzione e Protezione e aggiornamento DVR.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00939120143</codiceFiscale>
+                    <ragioneSociale>BELLERO SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00939120143</codiceFiscale>
+                    <ragioneSociale>BELLERO SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>450.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-04</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0E178EEA5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA E MONTAGGIO GOMME SCUOLABUS</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00763790144</codiceFiscale>
+                    <ragioneSociale>BOSSI GOMME SRL </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00763790144</codiceFiscale>
+                    <ragioneSociale>BOSSI GOMME SRL </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>190.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-14</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>190.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF417B54A4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI MANUTENZIONE ORDINARIA PIATTAFORMA ELEVATRICE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02120090960</codiceFiscale>
+                    <ragioneSociale>MAS SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02120090960</codiceFiscale>
+                    <ragioneSociale>MAS SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>360.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-21</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7A17BAB60</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI CUSTODIA SCUOLABUS ANNO 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00634950141</codiceFiscale>
+                    <ragioneSociale>ORIZZONTE COOPERATIVA SOCIALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00634950141</codiceFiscale>
+                    <ragioneSociale>ORIZZONTE COOPERATIVA SOCIALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>6943.80</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-21</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6A17BA710</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>82000710143</codiceFiscaleProp>
+                <denominazione>Comune di Cercino</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI PULIZIA MUNICIPIO ED IMMOBILI COMUNALI ANNO 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00634950141</codiceFiscale>
+                    <ragioneSociale>ORIZZONTE COOPERATIVA SOCIALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00634950141</codiceFiscale>
+                    <ragioneSociale>ORIZZONTE COOPERATIVA SOCIALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5064.80</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-21</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+    </data>
+</legge190:pubblicazione>

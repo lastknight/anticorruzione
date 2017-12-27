@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2016-02-16</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Bobbio Pellice</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-02-16</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c001026/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>ZD21266181</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02168110019</codiceFiscaleProp>
+			<denominazione>COMUNE DI BOBBIO PELLICE</denominazione>
+		</strutturaProponente>
+		<oggetto>P.M.O. TAGLIO VEGETAZIONE RIO PAUTASSET</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>06262130013</codiceFiscale>
+                        						<ragioneSociale>CHARBONNIER LORIS</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>06262130013</codiceFiscale>
+                        						<ragioneSociale>CHIAVIA F.LLI S.N.C.</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>11179500019</codiceFiscale>
+                        						<ragioneSociale>SOCIETA' AGRICOLA MONDON MARIN S.S.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>15330.44</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-14</dataInizio>
+										<dataUltimazione>2016-01-25</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

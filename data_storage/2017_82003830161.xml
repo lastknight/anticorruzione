@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2015-05-17</dataPubblicazioneIndice>
+    <entePubblicatore>Città di Sotto il Monte Giovanni XXIII</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-12-19</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>www.comune.sottoilmontegiovannixxiii.bg.it/files/xmlcompetitions/2016/xmlcompetitions_index.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>www.comune.sottoilmontegiovannixxiii.bg.it/files/xmlcompetitions/2016/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-12-19</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

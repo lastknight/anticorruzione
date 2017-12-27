@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2017-02-10 13:51:31</abstract>
+		<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Ente per la gestione accentrata dei servizi condivisi</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-10</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.egas.sanita.fvg.it/avcp/indicedataset2016.xml</urlFile>
+		<licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2012.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_3'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2014_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_4'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2014_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_5'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2015_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_6'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2015_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_7'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2015_3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_8'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2015_4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_9'>
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/A00359_avcp_dataset_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

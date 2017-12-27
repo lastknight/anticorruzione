@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Sarntal</abstract>
+   <dataPubblicazioneIndice>2016-02-05</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Sarntal</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-05</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21086/21086indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_6C75FF20-1822-4E6A-8132-D817B47F9EC3'>
+      <linkDataset>http://data.gvcc.net/avcp/21086/6C75FF20-1822-4E6A-8132-D817B47F9EC3.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-03</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_FDAB1FBA-3A50-4AD9-B956-1D7F81C4A451'>
+      <linkDataset>http://data.gvcc.net/avcp/21086/FDAB1FBA-3A50-4AD9-B956-1D7F81C4A451.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-05</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_BAB0264F-137C-47F8-82A6-DAD95BF0B578'>
+      <linkDataset>http://data.gvcc.net/avcp/21086/BAB0264F-137C-47F8-82A6-DAD95BF0B578.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-05</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

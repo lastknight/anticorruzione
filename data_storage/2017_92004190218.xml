@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice LIBUS Consorzio dei Concessionari di Linea della Prov. Aut. di Bolzano - Pubblicazione legge 190</titolo>
+    <abstract>Indice LIBUS Consorzio dei Concessionari di Linea della Prov. Aut. di Bolzano - Pubblicazione legge 190; anno rif.2016</abstract>
+    <dataPubblicazioneIndice>2017-01-24</dataPubblicazioneIndice>
+    <entePubblicatore>LIBUS Consorzio dei Concessionari di Linea della Prov. Aut. di Bolzano</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-24</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.libus.it/documents/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.libus.it/documents/esiti_2016_20170124-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

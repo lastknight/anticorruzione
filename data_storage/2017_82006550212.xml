@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Mals- Comune di Malles Venosta</abstract>
+   <dataPubblicazioneIndice>2017-02-10</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Mals- Comune di Malles Venosta</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-10</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21046/21046indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_FBE58FB8-D358-474C-B373-57D09C3EF320'>
+      <linkDataset>http://data.gvcc.net/avcp/21046/FBE58FB8-D358-474C-B373-57D09C3EF320.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_B2648257-C77D-475A-9B53-8D15F347C9CD'>
+      <linkDataset>http://data.gvcc.net/avcp/21046/B2648257-C77D-475A-9B53-8D15F347C9CD.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-09</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

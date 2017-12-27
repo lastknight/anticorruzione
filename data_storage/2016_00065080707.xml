@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="it-it" dir="ltr">
+<head>
+	<meta charset="utf-8" />
+	<title>404 - View non trovato [name, type, prefix]: category, xml, contentView</title>
+	<link href="/templates/system/css/system.css" rel="stylesheet" />
+	<link href="/templates/system/css/error.css" rel="stylesheet" />
+	<link href="/templates/beez3/css/position.css" rel="stylesheet" media="screen" />
+	<link href="/templates/beez3/css/layout.css" rel="stylesheet" media="screen" />
+	<link href="/templates/beez3/css/print.css" rel="stylesheet" media="print" />
+	<link href="/templates/beez3/css/personal.css" rel="stylesheet" />
+			<link href="/templates/beez3/css/personal.css" rel="stylesheet" />
+			<!--[if lte IE 6]><link href="/templates/beez3/css/ieonly.css" rel="stylesheet" /><![endif]-->
+	<!--[if IE 7]><link href="/templates/beez3/css/ie7only.css" rel="stylesheet" /><![endif]-->
+	<!--[if lt IE 9]><script src="/media/jui/js/html5.js"></script><![endif]-->
+	<style>
+	<!--
+		#errorboxbody
+		{margin:30px}
+		#errorboxbody h2
+		{font-weight:normal;
+		font-size:1.5em}
+		#searchbox
+		{background:#eee;
+		padding:10px;
+		margin-top:20px;
+		border:solid 1px #ddd
+		}
+	-->
+	</style>
+</head>
+	<body>
+		<div id="all">
+			<div id="back">
+				<div id="header">
+					<div class="logoheader">
+						<h1 id="logo">
+															<img src="/images/joomla_black.png"  alt="Comune di Casacalenda" />
+														<span class="header1">
+															</span>
+						</h1>
+					</div><!-- end logoheader -->
+					<ul class="skiplinks">
+						<li>
+							<a href="#wrapper2" class="u2">
+								Vai al messaggio di errore e cerca							</a>
+						</li>
+						<li>
+							<a href="#nav" class="u2">
+								Vai alla navigazione							</a>
+						</li>
+					</ul>
+					<div id="line">
+					</div><!-- end line -->
+				</div><!-- end header -->
+				<div id="contentarea2" >
+					<div class="left1" id="nav">
+						<h2 class="unseen">
+							Navigazione						</h2>
+												<ul class="nav menu nav-pills">
+<li class="item-101 default current active"><a href="/" >Home</a></li><li class="item-108"><a href="/urp.html" >URP</a></li><li class="item-109"><a href="/cookie-policy.html" >Cookie Policy</a></li><li class="item-110"><a href="/note-legali.html" >Note legali</a></li><li class="item-111"><a href="/privacy.html" >Privacy</a></li><li class="item-112"><a href="/elenco-siti-tematici.html" >Elenco Siti tematici</a></li></ul>
+					</div><!-- end navi -->
+					<div id="wrapper2">
+						<div id="errorboxbody">
+							<h2>
+								Non è possibile trovare la pagina richiesta.							</h2>
+							<h3>si è verificato un errore durante l'esecuzione della richiesta.</h3>
+							<p>Non è possibile visualizzare questa pagina, potrebbe essere a causa di:</p>
+							<ul>
+								<li>un <strong>bookmark/preferiti scaduto</strong></li>
+								<li>un <strong>indirizzo compilato male</strong></li>
+								<li>una ricerca attraverso il motore di ricerca che ha una <strong>indicizzazione non aggiornata di questo sito</strong></li>
+								<li><strong>non hai accesso</strong> a questa pagina</li>
+							</ul>
+															<div id="searchbox">
+									<h3 class="unseen">
+										Cerca									</h3>
+									<p>
+										Probabilmente desideri cercare nel sito o visitare la home page.									</p>
+																		<br />
+<b>Fatal error</b>:  Call to undefined method JDocumentXml::addHeadLink() in <b>/web/htdocs/www.comune.casacalenda.cb.it/home/modules/mod_search/mod_search.php</b> on line <b>23</b><br />

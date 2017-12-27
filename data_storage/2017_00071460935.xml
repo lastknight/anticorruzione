@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+<titolo> Pubblicazione dati 2016 - Legge 190/2012</titolo>
+<abstract> Pubblicazione dati 2016 - Legge 190/2012 - aggiornamento del 2017-01-31 10:30:28</abstract>
+<dataPubbicazioneDataset>2017-01-31</dataPubbicazioneDataset>
+<entePubblicatore>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2017-01-31</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile><![CDATA[http://pordenone.aterfvg.it/index.php?id=41341/A00090_avcp_dataset_2016.xml]]></urlFile>
+	<licenza>IODL 2.0</licenza>
+</metadata>
+
+<data>
+
+	<lotto>
+		<cig>66176891B9</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-01 Lavori di manutenzione straordinaria per la sostituzione dei vetri dei serramenti esterni degli edifici siti ad Azzano Decimo (codd. 1.012.001 - 3.012.007 - 3.012.008), a Casarsa Della Delizia (codd. 1.028.008 - 2.028.012), ed a Montereale]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01170970931</codiceFiscale>
+			<ragioneSociale><![CDATA[Falegnameria MARTINUZZI RINO di Martinuzzi Maurizio & C S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>02031630268</codiceFiscale>
+			<ragioneSociale><![CDATA[LM SERRAMENTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>02031630268</codiceFiscale>
+			<ragioneSociale><![CDATA[LM SERRAMENTI S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>79402.56</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-07-11</dataInizio>
+		<dataUltimazione>2016-11-28</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6617722CF1</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-02 Lavori di manutenzione straordinaria per la sostituzione di vetri singoli con vetricamera, compresi relativi telai di ferro, dell'edificio sito in via I Maggio 1 in Comune di Casarsa della Delizia (cod. 1.028.009)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>04101670265</codiceFiscale>
+			<ragioneSociale><![CDATA[A&V SRL]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01329000937</codiceFiscale>
+			<ragioneSociale><![CDATA[COPAS S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>01329000937</codiceFiscale>
+			<ragioneSociale><![CDATA[COPAS S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>47693.15</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-07-11</dataInizio>
+		<dataUltimazione>2016-08-29</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>46700.13</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6617762DF3</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-03 Lavori di manutenzione straordinaria per l'efficientamento energetico dell'edificio sito in via I Maggio 1 in Comune di Casarsa della Delizia (cod. 1.028.009)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01548440930</codiceFiscale>
+			<ragioneSociale><![CDATA[CRAZY COLOR DI CARNIEL OLIVO E DE BIASI BRIGIDA S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>CCCCST72E01G888V</codiceFiscale>
+			<ragioneSociale><![CDATA[NORDEST PITTURE DI COCCO CRISTIAN]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01454570936</codiceFiscale>
+			<ragioneSociale><![CDATA[EURO QUATTRO S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>02268840309</codiceFiscale>
+			<ragioneSociale><![CDATA[FRATELLI PEROSA srl]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>LSTRNT57P08Z110F</codiceFiscale>
+			<ragioneSociale><![CDATA[LISOTTO RENATO]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>LSTRNT57P08Z110F</codiceFiscale>
+			<ragioneSociale><![CDATA[LISOTTO RENATO]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>30878.70</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-06-23</dataInizio>
+		<dataUltimazione>2016-08-26</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>28921.54</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6702760C85</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-09 Lavori di manutenzione straordinaria dell’involucro e delle coperture di due stabili di proprietà A.T.E.R. siti in vicolo S. Pietro 2 e 1 in Comune di Maniago (codd. 1.079.006 e 1.079.007) LOTTO A]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>DMNLCN59T16B642P</codiceFiscale>
+			<ragioneSociale><![CDATA[DE MUNARI LUCIANO]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>02217870274</codiceFiscale>
+			<ragioneSociale><![CDATA[Costruzioni Generali SUSANNA srl]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01035250933</codiceFiscale>
+			<ragioneSociale><![CDATA[VICENZI MARIO & C. S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>00665590303</codiceFiscale>
+			<ragioneSociale><![CDATA[VI.PE SRL]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>00665590303</codiceFiscale>
+			<ragioneSociale><![CDATA[VI.PE SRL]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>136690.10</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-09-02</dataInizio>
+		<dataUltimazione>2016-12-23</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>157919.37</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6702774814</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-10 Lavori di manutenzione straordinaria dell’involucro e delle coperture dello stabile di proprietà A.T.E.R. sito in via dell'Omo 38 in Comune di Montereale Valcellina (cod. 1.088.001) LOTTO B]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01035250933</codiceFiscale>
+			<ragioneSociale><![CDATA[VICENZI MARIO & C. S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>DMNLCN59T16B642P</codiceFiscale>
+			<ragioneSociale><![CDATA[DE MUNARI LUCIANO]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>DMNLCN59T16B642P</codiceFiscale>
+			<ragioneSociale><![CDATA[DE MUNARI LUCIANO]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>120656.17</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-09-05</dataInizio>
+		<dataUltimazione>2017-01-02</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6702784057</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-11 Lavori di manutenzione straordinaria dell’involucro dello stabile di proprietà dell’A.T.E.R. sito in via Cesare Battisti 6 in Comune di Maniago (cod. 6.079.002) LOTTO C]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>CCCCST72E01G888V</codiceFiscale>
+			<ragioneSociale><![CDATA[NORDEST PITTURE DI COCCO CRISTIAN]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>02217870274</codiceFiscale>
+			<ragioneSociale><![CDATA[Costruzioni Generali SUSANNA srl]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>00665590303</codiceFiscale>
+			<ragioneSociale><![CDATA[VI.PE SRL]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01035250933</codiceFiscale>
+			<ragioneSociale><![CDATA[VICENZI MARIO & C. S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>DMNLCN59T16B642P</codiceFiscale>
+			<ragioneSociale><![CDATA[DE MUNARI LUCIANO]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>DMNLCN59T16B642P</codiceFiscale>
+			<ragioneSociale><![CDATA[DE MUNARI LUCIANO]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>51200.88</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-09-05</dataInizio>
+		<dataUltimazione>2016-12-22</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>67028051AB</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-12 Lavori di manutenzione straordinaria con sostituzione degli infissi esterni dello stabile di proprietà dell’A.T.E.R. sito in via Cesare Battisti 6 in Comune di Maniago (cod. 6.079.002) LOTTO D]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>02943611208</codiceFiscale>
+			<ragioneSociale><![CDATA[DIQUIGIOVANNI S.R.L]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>00071390256</codiceFiscale>
+			<ragioneSociale><![CDATA[DOLOMITES DI FISTAROL DANILO & C. S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>00846790277</codiceFiscale>
+			<ragioneSociale><![CDATA[AGOSTINI GROUP S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>00846790277</codiceFiscale>
+			<ragioneSociale><![CDATA[AGOSTINI GROUP S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>39261.35</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-09-16</dataInizio>
+		<dataUltimazione>2016-11-14</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6730946859</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-14 Lavori di manutenzione straordinaria volta alla riqualificazione energetica di un edificio sito in Comune di Zoppola, via Po nn. 3-5 (cod. 1.186.006)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01727180935</codiceFiscale>
+			<ragioneSociale><![CDATA[DARIO SRL IMPIANTI TERMOTECNICI]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>03474030263</codiceFiscale>
+			<ragioneSociale><![CDATA[TERMOTECNICA DELLA GIUSTINA S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>04158240269</codiceFiscale>
+			<ragioneSociale><![CDATA[GASPARINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>04158240269</codiceFiscale>
+			<ragioneSociale><![CDATA[GASPARINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>70398.13</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-09-19</dataInizio>
+		<dataUltimazione>2016-11-07</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>69501.20</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>68137379A4</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-17 Lavori di manutenzione straordinaria volta alla metanizzazione con trasformazione in 5 impianti termici autonomi a gas, in un edificio di 6 alloggi sito in Comune di Arba, via Dalmazia nn. 1/a÷f (cod. ATER 1.006.001)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>ZOIGPP63A04E893R</codiceFiscale>
+			<ragioneSociale><![CDATA[ZOIA GIUSEPPE]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+			<partecipante>
+			<codiceFiscale>BRTGRG51D20G888X</codiceFiscale>
+			<ragioneSociale><![CDATA[TERMOIDRAULICA PORDENONESE DI BORTOLIN GIORGIO]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01597280930</codiceFiscale>
+			<ragioneSociale><![CDATA[DA RE S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>04158240269</codiceFiscale>
+			<ragioneSociale><![CDATA[GASPARINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>04158240269</codiceFiscale>
+			<ragioneSociale><![CDATA[GASPARINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>38274.78</importoAggiudicazione>
+		<tempiCompletamento>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>68852586A4</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-21 Lavori di manutenzione straordinaria finalizzati alla riqualificazione degli impianti termici di un complesso edilizio da 24 alloggi sito in Comune di Aviano, via don Primo Mazzolari 2]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>04158240269</codiceFiscale>
+			<ragioneSociale><![CDATA[GASPARINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>00950920306</codiceFiscale>
+			<ragioneSociale><![CDATA[NOBILE IMPIANTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>00950920306</codiceFiscale>
+			<ragioneSociale><![CDATA[NOBILE IMPIANTI S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>105101.88</importoAggiudicazione>
+		<tempiCompletamento>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6885287E90</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-22 Lavori di manutenzione straordinaria finalizzati alla riqualificazione degli impianti termici di un edificio da 13 alloggi sito in Comune di Azzano X, via XXV aprile 66-68]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01597280930</codiceFiscale>
+			<ragioneSociale><![CDATA[DA RE S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01727180935</codiceFiscale>
+			<ragioneSociale><![CDATA[DARIO SRL IMPIANTI TERMOTECNICI]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>02866930171</codiceFiscale>
+			<ragioneSociale><![CDATA[BRESCIA IMPIANTI - S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>02866930171</codiceFiscale>
+			<ragioneSociale><![CDATA[BRESCIA IMPIANTI - S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>52494.34</importoAggiudicazione>
+		<tempiCompletamento>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6885316681</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[MS-2016-23 Lavori di manutenzione straordinaria finalizzati alla riqualificazione degli impianti termici di un edificio da 4 alloggi sito in Comune di Sacile, via Dario Chiaradia 9]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>FLCGPT76M27G914Y</codiceFiscale>
+			<ragioneSociale><![CDATA[ECOTERMICA DI FALCOMER GIANPIETRO]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>00447170937</codiceFiscale>
+			<ragioneSociale><![CDATA[GAUDENZI CLIMAIMPIANTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01135980934</codiceFiscale>
+			<ragioneSociale><![CDATA[BALSAMINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>01135980934</codiceFiscale>
+			<ragioneSociale><![CDATA[BALSAMINI IMPIANTI S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>32305.09</importoAggiudicazione>
+		<tempiCompletamento>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6617291946</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[RA-2016-01 Lavori di riatto di tre alloggi siti in Comune di Pordenone in via Pirandello 21 int. 03 (cod. 3.109.068.03), 23 int. 14 (cod. 3.109.068.14) e 08 int. 35 (cod.3.109.069.35)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01630140307</codiceFiscale>
+			<ragioneSociale><![CDATA[TIEM IMPIANTI SRL]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01466980933</codiceFiscale>
+			<ragioneSociale><![CDATA[BLU SERVICE S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>01466980933</codiceFiscale>
+			<ragioneSociale><![CDATA[BLU SERVICE S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>49042.10</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-05-26</dataInizio>
+		<dataUltimazione>2016-11-11</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>52439.36</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6602032926</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[RA-2016-02 Lavori di riatto di due alloggi siti in Comune di Pordenone in via De Paoli 36 int. 7 (cod. 6.109.002.08) ed in via De Paoli 36A int. 5 (cod. 6.109.002.13)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>ZOIGPP63A04E893R</codiceFiscale>
+			<ragioneSociale><![CDATA[ZOIA GIUSEPPE]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>00398770933</codiceFiscale>
+			<ragioneSociale><![CDATA[TERMOIDRAULICA ANTONEL S.R.L.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01328610934</codiceFiscale>
+			<ragioneSociale><![CDATA[BI ELECTRA snc]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+			<partecipante>
+			<codiceFiscale>01466980933</codiceFiscale>
+			<ragioneSociale><![CDATA[BLU SERVICE S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>FLCGPT76M27G914Y</codiceFiscale>
+			<ragioneSociale><![CDATA[ECOTERMICA DI FALCOMER GIANPIETRO]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+			<membro>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>ZOIGPP63A04E893R</codiceFiscale>
+			<ragioneSociale><![CDATA[ZOIA GIUSEPPE]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			</aggiudicatarioRaggruppamento>
+		</aggiudicatari>
+		<importoAggiudicazione>59411.01</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-05-16</dataInizio>
+		<dataUltimazione>2016-09-12</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>58737.29</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6649817296</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[RA-2016-16 Lavori di riatto di tre alloggi siti in Comune di Pordenone in via Pirandello n.6 int. 44 (cod. 3.109.069.44), n.12 int. 7 (cod. 3.109.069.07) e L.go Cervignano n.73 int.19 (cod.1.109.066.19)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>CCCCST72E01G888V</codiceFiscale>
+			<ragioneSociale><![CDATA[NORDEST PITTURE DI COCCO CRISTIAN]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01572470936</codiceFiscale>
+			<ragioneSociale><![CDATA[LS TERMOIDRAULICA SNC]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+		</partecipanti>
+		<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+			<membro>
+			<codiceFiscale>CCCCST72E01G888V</codiceFiscale>
+			<ragioneSociale><![CDATA[NORDEST PITTURE DI COCCO CRISTIAN]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01572470936</codiceFiscale>
+			<ragioneSociale><![CDATA[LS TERMOIDRAULICA SNC]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			</aggiudicatarioRaggruppamento>
+		</aggiudicatari>
+		<importoAggiudicazione>63533.45</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-06-24</dataInizio>
+		<dataUltimazione>2016-10-21</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>69306.08</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6639282CD1</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[RA-2016-27 Lavori di riatto di tre alloggi siti in Comune di Pordenone in via Aprilia 12 int. 36 (cod. 1.109.071.36), int. 22 (cod. 1.109.071.22) e int.25 (cod.1.109.071.25)]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01719970301</codiceFiscale>
+			<ragioneSociale><![CDATA[CASA OGGI DI TONIZZO PATRICK & C. S.N.C.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+			<partecipante>
+			<codiceFiscale>02326470305</codiceFiscale>
+			<ragioneSociale><![CDATA[GALETTO IMPIANTI DI GIORGIO GALETTO & C. S.A.S]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+			<membro>
+			<codiceFiscale>01719970301</codiceFiscale>
+			<ragioneSociale><![CDATA[CASA OGGI DI TONIZZO PATRICK & C. S.N.C.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			</aggiudicatarioRaggruppamento>
+		</aggiudicatari>
+		<importoAggiudicazione>40292.47</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-07-07</dataInizio>
+		<dataUltimazione>2016-10-27</dataUltimazione>
+		</tempiCompletamento>
+		<importoSommeLiquidate>42281.81</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6540381D21</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[AQ-2016-01 Accordo Quadro per i lavori di natura prevalentemente "edile ed affine" a carattere "manutentivo di pronto intervento" del patrimonio di ERP gestito dall'ATER di Pordenone - anno 2016]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01719970301</codiceFiscale>
+			<ragioneSociale><![CDATA[CASA OGGI DI TONIZZO PATRICK & C. S.N.C.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01314860931</codiceFiscale>
+			<ragioneSociale><![CDATA[ECO.CEL. Srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>VZZNCS69P27G888K</codiceFiscale>
+			<ragioneSociale><![CDATA[VAZZOLER NARCISO]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>ZOIGPP63A04E893R</codiceFiscale>
+			<ragioneSociale><![CDATA[ZOIA GIUSEPPE]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>00569930936</codiceFiscale>
+			<ragioneSociale><![CDATA[AUTOESPURGO MOSCHETTA SRL]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+		</partecipanti>
+		<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+			<membro>
+			<codiceFiscale>VZZNCS69P27G888K</codiceFiscale>
+			<ragioneSociale><![CDATA[VAZZOLER NARCISO]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01188980930</codiceFiscale>
+			<ragioneSociale><![CDATA[BISCONTIN GIUSEPPE E MARCON GABRIELE S.N.C.]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>ZOIGPP63A04E893R</codiceFiscale>
+			<ragioneSociale><![CDATA[ZOIA GIUSEPPE]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>00569930936</codiceFiscale>
+			<ragioneSociale><![CDATA[AUTOESPURGO MOSCHETTA SRL]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			</aggiudicatarioRaggruppamento>
+		</aggiudicatari>
+		<importoAggiudicazione>250000.00</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-06-01</dataInizio>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6540430593</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[AQ-2016-02 Accordo Quadro per i lavori di natura prevalentemente "impiantistica" a carattere "manutentivo di pronto intervento" del patrimonio di ERP gestito dall'ATER di Pordenone - anno 2016]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01466980933</codiceFiscale>
+			<ragioneSociale><![CDATA[BLU SERVICE S.R.L.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01615240932</codiceFiscale>
+			<ragioneSociale><![CDATA[A.M. EDIL srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>MSCDGI59M27G888W</codiceFiscale>
+			<ragioneSociale><![CDATA[MOSCHETTA DIEGO]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01597280930</codiceFiscale>
+			<ragioneSociale><![CDATA[DA RE S.R.L.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>MZZPTR79T08I874G</codiceFiscale>
+			<ragioneSociale><![CDATA[MAZZA PIETRO]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01366240933</codiceFiscale>
+			<ragioneSociale><![CDATA[CAVASOTTO srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01477630931</codiceFiscale>
+			<ragioneSociale><![CDATA[ISPEF srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>01314860931</codiceFiscale>
+			<ragioneSociale><![CDATA[ECO.CEL. Srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01719970301</codiceFiscale>
+			<ragioneSociale><![CDATA[CASA OGGI DI TONIZZO PATRICK & C. S.N.C.]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01422060937</codiceFiscale>
+			<ragioneSociale><![CDATA[DS IMPIANTI srl]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+</raggruppamento>
+<raggruppamento>
+			<membro>
+			<codiceFiscale>00398770933</codiceFiscale>
+			<ragioneSociale><![CDATA[TERMOIDRAULICA ANTONEL S.R.L.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01328610934</codiceFiscale>
+			<ragioneSociale><![CDATA[BI ELECTRA snc]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>VZZNCS69P27G888K</codiceFiscale>
+			<ragioneSociale><![CDATA[VAZZOLER NARCISO]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>00569930936</codiceFiscale>
+			<ragioneSociale><![CDATA[AUTOESPURGO MOSCHETTA SRL]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+</raggruppamento>
+		</partecipanti>
+		<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+			<membro>
+			<codiceFiscale>01597280930</codiceFiscale>
+			<ragioneSociale><![CDATA[DA RE S.R.L.]]></ragioneSociale>
+			<ruolo>02-MANDATARIA</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>MZZPTR79T08I874G</codiceFiscale>
+			<ragioneSociale><![CDATA[MAZZA PIETRO]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01366240933</codiceFiscale>
+			<ragioneSociale><![CDATA[CAVASOTTO srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			<membro>
+			<codiceFiscale>01477630931</codiceFiscale>
+			<ragioneSociale><![CDATA[ISPEF srl]]></ragioneSociale>
+			<ruolo>01-MANDANTE</ruolo>
+			</membro>
+			</aggiudicatarioRaggruppamento>
+		</aggiudicatari>
+		<importoAggiudicazione>180000.00</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-06-01</dataInizio>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>9102594031</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[IN-2016-31 Gestione del servizio di cassa dell’Azienda Territoriale per l’Edilizia Residenziale della Provincia di Pordenone per il periodo 01.07.2016 – 31.12.2018]]></oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>91025940312</codiceFiscale>
+			<ragioneSociale><![CDATA[Cassa di Risparmio del Friuli Venezia Giulia S.p.A. – Gruppo Intesa San Paolo]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>91025940312</codiceFiscale>
+			<ragioneSociale><![CDATA[Cassa di Risparmio del Friuli Venezia Giulia S.p.A. – Gruppo Intesa San Paolo]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-10-01</dataInizio>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6762630ACF</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[IN-2016-38  Servizio di Terzo Responsabile ed incarico per l’esercizio e manutenzione di impianti termici ad uso dei fabbricati dell’ATER di Pordenone e/o da essa amministrati per il periodo 01.09.2016 – 28.02.2018.]]></oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+			<partecipante>
+			<codiceFiscale>01597280930</codiceFiscale>
+			<ragioneSociale><![CDATA[DA RE S.R.L.]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>02294840307</codiceFiscale>
+			<ragioneSociale><![CDATA[CHIURLO TEC]]></ragioneSociale>
+			</partecipante>
+			<partecipante>
+			<codiceFiscale>01466980933</codiceFiscale>
+			<ragioneSociale><![CDATA[BLU SERVICE S.R.L.]]></ragioneSociale>
+			</partecipante>
+		</partecipanti>
+		<aggiudicatari>
+			<aggiudicatario>
+			<codiceFiscale>01466980933</codiceFiscale>
+			<ragioneSociale><![CDATA[BLU SERVICE S.R.L.]]></ragioneSociale>
+			</aggiudicatario>
+		</aggiudicatari>
+		<importoAggiudicazione>166928.03</importoAggiudicazione>
+		<tempiCompletamento>
+		<dataInizio>2016-09-01</dataInizio>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	<lotto>
+		<cig>6844825048</cig>
+		<strutturaProponente>
+		<codiceFiscaleProp>00071460935</codiceFiscaleProp>
+		<denominazione>Azienda Territoriale per l'Edilizia Residenziale della Provincia di Pordenone</denominazione>
+		</strutturaProponente>
+		<oggetto><![CDATA[IN-2016-56 Servizi assicurativi dell'ATER di Pordenone - lotto 1- All Risks Property (gara deserta)]]></oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+		</partecipanti>
+		<aggiudicatari>
+		</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+		</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+</data>
+
+</legge190:pubblicazione>

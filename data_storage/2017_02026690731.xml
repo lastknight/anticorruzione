@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici>
+	<metadata>
+		<titolo>Dati ANAC</titolo>
+		<abstract>Comunicazione dati appalti ad ANAC</abstract>
+		<dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+		<entePubblicatore>AZIENDA UNITA' SANITARIA LOCALE ASL TA</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.sanita.puglia.it/avcp/2016/taranto/indice.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.sanita.puglia.it/avcp/2016/taranto/dataset1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.sanita.puglia.it/avcp/2016/taranto/dataset2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.sanita.puglia.it/avcp/2016/taranto/dataset3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.sanita.puglia.it/avcp/2016/taranto/dataset4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

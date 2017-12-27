@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n°1</titolo>
+<abstract>Pubblicazione relativa all'anno 2012_2013_2014_2015_2016</abstract>
+<dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+<entePubblicatore>Istituto pluricomprensivo in lingua italiana Brunico - Val Pusteria</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2013</annoRiferimento>
+<urlFile>www.ipcbrunico.it/website/wp-content/uploads/datasetindice.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.ipcbrunico.it/website/wp-content/uploads/esiti_2012_20140425-1.xml </linkDataset>
+<dataUltimoAggiornamento>2014-02-18</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.ipcbrunico.it/website/wp-content/uploads/esiti_2013_20140425-1.xml </linkDataset>
+<dataUltimoAggiornamento>2014-02-18</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://www.ipcbrunico.it/website/wp-content/uploads/esiti_2014_20150128-1.xml </linkDataset>
+<dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_4">
+<linkDataset>http://www.ipcbrunico.it/website/wp-content/uploads/esiti_2015_20160122-1.xml </linkDataset>
+<dataUltimoAggiornamento>2016-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_5">
+<linkDataset>http://www.ipcbrunico.it/website/wp-content/uploads/esiti_2016_20170127-1.xml </linkDataset>
+<dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

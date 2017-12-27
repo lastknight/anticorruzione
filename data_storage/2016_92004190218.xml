@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice LIBUS Consorzio dei Concessionari di Linea della Prov. Aut. di Bolzano - Pubblicazione legge 190</titolo>
+    <abstract>Indice LIBUS Consorzio dei Concessionari di Linea della Prov. Aut. di Bolzano - Pubblicazione legge 190; anni rif.2012-2013-2014-2015</abstract>
+    <dataPubblicazioneIndice>2014-02-14</dataPubblicazioneIndice>
+    <entePubblicatore>AVCP</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-03</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.libus.it/documents/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.libus.it/documents/esiti_2012_20140214-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-02-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.libus.it/documents/esiti_2014_20150121-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-02-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.libus.it/documents/esiti_2014_20150121-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.libus.it/documents/esiti_2015_20160203-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-19</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

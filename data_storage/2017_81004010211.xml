@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Terenten - Comune di Terento</abstract>
+   <dataPubblicazioneIndice>2017-03-14</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Terenten - Comune di Terento</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-03-14</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21096/21096indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_260C26A9-6996-4791-A213-E1F20C786B74'>
+      <linkDataset>http://data.gvcc.net/avcp/21096/260C26A9-6996-4791-A213-E1F20C786B74.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_B78FCF75-12F3-4BD2-A209-BD7EEFB41CF5'>
+      <linkDataset>http://data.gvcc.net/avcp/21096/B78FCF75-12F3-4BD2-A209-BD7EEFB41CF5.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

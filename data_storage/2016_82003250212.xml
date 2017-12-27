@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Rifiano</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Rifiano</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21073/21073indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_78E4F8F9-07AF-451E-AC2B-E979679EB795'>
+      <linkDataset>http://data.gvcc.net/avcp/21073/78E4F8F9-07AF-451E-AC2B-E979679EB795.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_B71FAA73-35D4-41E3-A148-4FF8D010547A'>
+      <linkDataset>http://data.gvcc.net/avcp/21073/B71FAA73-35D4-41E3-A148-4FF8D010547A.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_15428AAE-CDEF-4CE2-BAB5-ACD42FA3A322'>
+      <linkDataset>http://data.gvcc.net/avcp/21073/15428AAE-CDEF-4CE2-BAB5-ACD42FA3A322.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

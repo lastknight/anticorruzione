@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all’anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>REGIONE MARCHE</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.regione.marche.it/trasparenza/avcp_dataset_2015.xml</urlFile>
+    <licenza>IODL v2</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.regione.marche.it/trasparenza/avcp_dataset_2015_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.regione.marche.it/trasparenza/avcp_dataset_2015_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
+

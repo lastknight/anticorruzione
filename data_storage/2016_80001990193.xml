@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+<titolo>Pubblicazione n 1 legge 190</titolo>
+<abstract>Pubblicazione n 1 rif 2015</abstract>
+<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+<entePubblicatore>CONSORZIO DI BONIFICA DUGALI, NAVIGLIO, ADDA SERIO</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www.dunas.it/fileadmin/user_upload/legge190/appalti15.xml</urlFile>
+<licenza>IODL</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>ZB8175CC5C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80001990193</codiceFiscaleProp>
+				<denominazione>CONSORZIO DI BONIFICA DUGALI, NAVIGLIO, ADDA SERIO</denominazione>
+			</strutturaProponente>
+			<oggetto>RETE DI STAGNO - OPERE METALMECCANICHE COMPLEMENTARI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<raggruppamento>
+					<membro>
+						<codiceFiscale>00975880345</codiceFiscale>
+						<ragioneSociale>S.G.C. S.R.L.</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01760800340</codiceFiscale>
+						<ragioneSociale>VE.I.CO.PAL S.R.L.</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01797770342</codiceFiscale>
+						<ragioneSociale>LUSIGNANI COSTRUZIONI S.N.C.</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+				</raggruppamento>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>00975880345</codiceFiscale> 
+						<ragioneSociale>S.G.C. S.R.L.</ragioneSociale> 
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01760800340</codiceFiscale> 
+						<ragioneSociale>VE.I.CO.PAL. S.R.L.</ragioneSociale> 
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01797770342</codiceFiscale> 
+						<ragioneSociale>LUSIGNANI COSTRUZIONI S.N.C.</ragioneSociale> 
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+				</aggiudicatarioRaggruppamento>
+			</aggiudicatari>
+			<importoAggiudicazione>14000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-10</dataInizio>
+				<dataUltimazione>2015-11-12</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9000.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z591545FB2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>80001990193</codiceFiscaleProp>
+				<denominazione>CONSORZIO DI BONIFICA DUGALI, NAVIGLIO, ADDA SERIO</denominazione>
+			</strutturaProponente>
+			<oggetto>CONSOLIDAMENTO DI UN TRATTO SPONDALE IN DESTRA IDRAULICA DEL FIUME ADDA IN COMUNE DI VAPRIO D'ADDA (MI)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01681390165</codiceFiscale>
+					<ragioneSociale>MARELL SCAVI S.R.L.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01681390165</codiceFiscale>
+					<ragioneSociale>MARELL SCAVI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>39445.66</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-08-31</dataInizio>
+				<dataUltimazione>2015-09-04</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>39445.66</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

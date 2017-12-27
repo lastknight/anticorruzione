@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Villandro</abstract>
+   <dataPubblicazioneIndice>2017-02-10</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Villandro</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-10</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21114/21114indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_F2F0EDE2-3CDD-4A88-93D2-6FCE493533DC'>
+      <linkDataset>http://data.gvcc.net/avcp/21114/F2F0EDE2-3CDD-4A88-93D2-6FCE493533DC.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_F4A3B162-FD0F-4FF5-9155-F136DF7E122C'>
+      <linkDataset>http://data.gvcc.net/avcp/21114/F4A3B162-FD0F-4FF5-9155-F136DF7E122C.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-10</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

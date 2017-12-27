@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Adempimenti LG190/2012</titolo>
+    <abstract>Pubblicazione relativa all'anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-02-01</dataPubblicazioneIndice>
+    <entePubblicatore>ARIF PUGLIA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-01</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.arifpuglia.it/trasparenza/L190_AVCP_INDICE_2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.arifpuglia.it/trasparenza/L190_AVCP_Dataset1_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

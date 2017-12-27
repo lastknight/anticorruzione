@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2017-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Centro Agroalimentare Levante Ligure e Lunigiana s.r.l.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2017-02-22</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2016</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/78/datasets/dataset_2016.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZA91BB3932</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01092320116</codiceFiscaleProp>
+					<denominazione>Centro Agroalimentare Levante Ligure e Lunigiana s.r.l.</denominazione>
+			</strutturaProponente>
+			<oggetto>Procedura negoziaya art. 36 e 63 D.Lgs 50/2016 e s.m. e i. per lavori di asfaltatura di aree all&apos;interno dei piazzali del mercato ortofrutticolo all&apos;ingrosso</oggetto>
+			<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00806550117</codiceFiscale>
+					<ragioneSociale>S.A.N.A. srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01275780458</codiceFiscale>
+					<ragioneSociale>Bernardini Scavi srl unipersonale</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00059540112</codiceFiscale>
+					<ragioneSociale>GBT Costruzioni srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00806550117</codiceFiscale>
+					<ragioneSociale>S.A.N.A. srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10929.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-22</dataInizio>
+				<dataUltimazione>2017-01-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z571B6353B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01092320116</codiceFiscaleProp>
+					<denominazione>Centro Agroalimentare Levante Ligure e Lunigiana s.r.l.</denominazione>
+			</strutturaProponente>
+			<oggetto>Procedura negoziata ai sensi artt. 36 e 63 del D.Lgs 50/2016 per efficentamento energetico dell&apos;impianto illuminazione del mercato ortofrutticolo all&apos;ingrosso</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04072910401</codiceFiscale>
+					<ragioneSociale>Bloomfield srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01068670114</codiceFiscale>
+					<ragioneSociale>Bagnone snc di Michele e Matteo Bagnone</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00790620116</codiceFiscale>
+					<ragioneSociale>Piazza Luce sas del dott. Carlo Piazza &amp; C.</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00059670117</codiceFiscale>
+					<ragioneSociale>Bologna &amp; Ponzanelli di Mangia A. &amp; C. snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04072910401</codiceFiscale>
+					<ragioneSociale>Bloomfield srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>23364.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-22</dataInizio>
+				<dataUltimazione>2016-01-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

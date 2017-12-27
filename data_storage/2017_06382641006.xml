@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubbicazione RAI</titolo>
+    <abstract>Indice pubbicazione RAI</abstract>
+    <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>Rai Radiotelevisione Italiana SpA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.fornitori.rai.it/Fornitori/RAI2016_indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_FINANZA_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_2">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSE_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_3">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSE_2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_4">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSE_2016_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_5">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSE_2016_4.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_6">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_7">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_8">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_2016_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_9">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_2016_4.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_10">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_2016_5.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_11">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_RSF_2016_6.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+  	  <dataset id="ID_12">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_AIS_IP_2016.XML</linkDataset> 
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+   	  <dataset id="ID_13">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_CSRE_2016.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+      <dataset id="ID_14">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_CRE_2016.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+      <dataset id="ID_15">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_ACQ_ALBERGHI_2016.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+	  <dataset id="ID_16">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_ACQ_ASSICURAZIONI_2016.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+	  <dataset id="ID_17">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_DC_2016.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+	  <dataset id="ID_18">
+      <linkDataset>http://www.fornitori.rai.it/Fornitori/Rai_ACQ_DS_2016.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+      </dataset>
+	  <dataset id="ID_19">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_20">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_21">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_22">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_4.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_23">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_5.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_24">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_6.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_25">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_7.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_26">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_8.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_27">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQUISTI_2016_9.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+	  </dataset>
+	  <dataset id="ID_28">
+      <linkDataset>http://www.fornitori.rai.it/fornitori/Rai_ACQ_NC_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

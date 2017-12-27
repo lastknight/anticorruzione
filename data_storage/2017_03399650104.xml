@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+<metadata>
+<titolo>Pubblicazione legge 190</titolo>
+<abstract>Anno rif. 2016</abstract>
+<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+<entePubblicatore>Azienda Sanitaria Locale n. 3 Genovese</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-03-01</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>https://avcp.asl3.liguria.it/2016/03399650104_indice_2016.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>https://avcp.asl3.liguria.it/2016/2016_full.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>https://avcp.asl3.liguria.it/2016/03399650104_2016.xml</linkDataset>
+<dataUltimoAggiornamento>2017-03-01</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

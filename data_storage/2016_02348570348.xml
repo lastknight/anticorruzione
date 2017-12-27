@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="legge190_1_0">
+  <metadata xmlns="">
+    <titolo>Pubblicazione Legge 190 Anno 2015</titolo>
+    <abstract>Incarichi 2015</abstract>
+    <dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>Metro Parma S.r.l.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-25</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.sttholding.it/avcp/xmlfiles/DataSet_Metro_Parma_Srl_2015.xml</urlFile>
+    <licenza xsi:type="xsd:string">IODL</licenza>
+  </metadata>
+  <data xmlns="">
+    <lotto>
+      <cig>Z8C16A908D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02348570348</codiceFiscaleProp>
+        <denominazione>Metro Parma S.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Consulenza legale piano attestato e sottoscrizione accordo transattivo con BNL</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-05</dataInizio>
+        <dataUltimazione>2016-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6D16A8F0F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02348570348</codiceFiscaleProp>
+        <denominazione>Metro Parma S.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>conferimento di incarico professionale per i servizi di asseverazione del piano attestato.
+PRESTAZIONE NON ESEGUITA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>5200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-05</dataInizio>
+        <dataUltimazione>2015-10-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</pubblicazione>

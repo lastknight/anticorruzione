@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Pubblicazione 1 legge 190</titolo>
+<abstract>Pubblicazione 1 legge 190 anno 2016</abstract>
+<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+<entePubblicatore>COMUNE DI SPINEA</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.spinea.gov.it/statico/comune/avcp_190/2016/indicedataset.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset> http://www.spinea.gov.it/statico/comune/avcp_190/2016/avcp_dataset_2013.xml </linkDataset>
+<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset> http://www.spinea.gov.it/statico/comune/avcp_190/2016/avcp_dataset_2014.xml </linkDataset>
+<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset> http://www.spinea.gov.it/statico/comune/avcp_190/2016/avcp_dataset_2015.xml </linkDataset>
+<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_4">
+<linkDataset> http://www.spinea.gov.it/statico/comune/avcp_190/2016/avcp_dataset_2016.xml </linkDataset>
+<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

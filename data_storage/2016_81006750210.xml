@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Marktgemeinde Innichen</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>Marktgemeinde Innichen</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21077/21077indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_B7B155F8-7866-42D3-A64F-69D786005712'>
+      <linkDataset>http://data.gvcc.net/avcp/21077/B7B155F8-7866-42D3-A64F-69D786005712.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_2F136B00-7514-4289-8841-AEABDB9094A8'>
+      <linkDataset>http://data.gvcc.net/avcp/21077/2F136B00-7514-4289-8841-AEABDB9094A8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_77176C97-DB32-4897-B83C-3D690D323F24'>
+      <linkDataset>http://data.gvcc.net/avcp/21077/77176C97-DB32-4897-B83C-3D690D323F24.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

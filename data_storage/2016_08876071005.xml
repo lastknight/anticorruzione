@@ -1,0 +1,64 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 http://dati.avcp.it/schema/datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+<metadata>
+<titolo>Pubblicazione 1 legge 190</titolo>
+<abstract>Pubblicazione 1 legge 190 anno 1 rif. 2015</abstract>
+<dataPubbicazioneDataset>2014-01-28</dataPubbicazioneDataset>
+<entePubblicatore>Consorzio Inviolatella Salaria</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2016-01-12</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www.consorzioinviolatellasalaria.it/AVCP/2015/dataset2.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>5387398D75</cig>
+<strutturaProponente>
+<codiceFiscaleProp>08876071005</codiceFiscaleProp>
+<denominazione>Consorzio Inviolatella Salaria</denominazione>
+</strutturaProponente>
+<oggetto>Progettazione esecutiva ed esecuzione di una scuola materna in Roma, località Inviolatella Salaria</oggetto>
+<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+<partecipanti>
+<raggruppamento>
+<membro>
+<codiceFiscale>06685310580</codiceFiscale>
+<ragioneSociale>S.IM.E.T. Costruzioni e Ristrutturazioni S.r.l.</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo>
+</membro>
+<membro>
+<codiceFiscale>07771200586</codiceFiscale>
+<ragioneSociale>AIR CONTROL S.r.l.</ragioneSociale>
+<ruolo>02-MANDATARIA</ruolo>
+</membro>
+</raggruppamento>
+<partecipante>
+<codiceFiscale>04326561000</codiceFiscale>
+<ragioneSociale>S.I.&amp;M. S.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02163040609</codiceFiscale>
+<ragioneSociale>CO.IM.FAP S.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>08408000589</codiceFiscale>
+<ragioneSociale>RECO APPALTI S.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>08219981001</codiceFiscale>
+<ragioneSociale>Holding Servizi e Partecipazioni S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08408000589</codiceFiscale>
+<ragioneSociale>RECO APPALTI S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1108651.51</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,3163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2012</abstract>
+        <dataPubbicazioneDataset>2017-02-18</dataPubbicazioneDataset>
+        <entePubblicatore>COMUNE DI RUDIANO</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2017-02-18</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.comune.rudiano.bs.it/trasparente/11%20Bandi%20di%20gara%20e%20contratti/2016/appalti_2016.xml</urlFile>
+        <licenza xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>ZA917FA01F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZI PER LA GESTIONE E MANUTENZIONE DEL “SISTEMA INFORMATICO AUTOMATIZZATO COMUNALE (S.I.A.C.)” - ANNO 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02528790161</codiceFiscale>
+                    <ragioneSociale>Dott.Ing. Enrico Iaccarino</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03069030983</codiceFiscale>
+                    <ragioneSociale>Infoz@r</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>12471500152</codiceFiscale>
+                    <ragioneSociale>ELECtribe di Costarella Giovanni</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02528790161</codiceFiscale>
+                    <ragioneSociale>Dott.Ing. Enrico Iaccarino</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03069030983</codiceFiscale>
+                    <ragioneSociale>Infoz@r</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>12471500152</codiceFiscale>
+                    <ragioneSociale>ELECtribe di Costarella Giovanni</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>17500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-01-01</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>17500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z81182BC44</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>RICHIESTA OFFERTA PER GESTIONE SERVIZIO BIBLIOTECA - ANNO 2016</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03433590985</codiceFiscale>
+                    <ragioneSociale>ArteconNoi S.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03433590985</codiceFiscale>
+                    <ragioneSociale>ArteconNoi S.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>32242.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-01</dataInizio>
+                <dataUltimazione>2017-02-28</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>18722.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z481861D5D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI REDAZIONE ATTI CONTABILI PER L'ESERCIZIO FINANZIARIO 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03602730172</codiceFiscale>
+                    <ragioneSociale>SCRIBA BRESCIA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03602730172</codiceFiscale>
+                    <ragioneSociale>SCRIBA BRESCIA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-04</dataInizio>
+                <dataUltimazione>2016-10-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7C1861CAC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>PORTALE DWH TRIENNIO 2016-18</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03636750162</codiceFiscale>
+                    <ragioneSociale>EASY PA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03636750162</codiceFiscale>
+                    <ragioneSociale>EASY PA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>16200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-04</dataInizio>
+                <dataUltimazione>2018-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5400.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1B180BD67</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>CERTIFICAZIONE AMBIENTALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02435280983</codiceFiscale>
+                    <ragioneSociale>Sigeambiente di Zini Roberto</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02435280983</codiceFiscale>
+                    <ragioneSociale>Sigeambiente di Zini Roberto</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-11</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE518AE911</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DISTRIBUZIONE PORTA A PORTA BOLLETTE TARI ANNO 2016 ED AVVISI BONARI SOLLECITI TARI ANNO 2015</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-24</dataInizio>
+                <dataUltimazione>2016-12-07</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2497.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDB1811473</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>verifica impianto gas presso centrale termica centro sportivo comunale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02209950985</codiceFiscale>
+                    <ragioneSociale>MULTIPLANNING ENGINEERING COMPANY</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02209950985</codiceFiscale>
+                    <ragioneSociale>MULTIPLANNING ENGINEERING COMPANY</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1550.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-27</dataInizio>
+                <dataUltimazione>2016-03-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1550.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z971806C1C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE CONDIZIONATORI RSA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00546660986</codiceFiscale>
+                    <ragioneSociale>FERRARI F.LLI SNC DI PIERGIORGIO E AMEDEO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00546660986</codiceFiscale>
+                    <ragioneSociale>FERRARI F.LLI SNC DI PIERGIORGIO E AMEDEO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8B180BF28</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>verifica tecnica sugli impianti tecnologici del comparto P.R.U.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02635180983</codiceFiscale>
+                    <ragioneSociale>STUDIO D'INGEGNERIA LORENZI GIACOMO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02635180983</codiceFiscale>
+                    <ragioneSociale>STUDIO D'INGEGNERIA LORENZI GIACOMO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1050.82</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-27</dataInizio>
+                <dataUltimazione>2016-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1050.82</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCC17B3F13</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria parchi gioco</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02849580986</codiceFiscale>
+                    <ragioneSociale>FOR PLAY SNC DI ZANOTTI MARIA LAURA E CRISTINI SERENA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02849580986</codiceFiscale>
+                    <ragioneSociale>FOR PLAY SNC DI ZANOTTI MARIA LAURA E CRISTINI SERENA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2459.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-02-27</dataInizio>
+                <dataUltimazione>2016-05-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2459.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>zb618cd943</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>ripristino e adeguamento e realizzazione ex novo della segnaletica stradale Piazza Loggia</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02155560176</codiceFiscale>
+                    <ragioneSociale>ASECAR SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02155560176</codiceFiscale>
+                    <ragioneSociale>ASECAR SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1445.17</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-04</dataInizio>
+                <dataUltimazione>2016-03-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1445.17</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1A1811079</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>PERIZIA DI STIMA IMMOBILE COMUNALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00440120988</codiceFiscale>
+                    <ragioneSociale>Geom. Scalvini Antonio</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00440120988</codiceFiscale>
+                    <ragioneSociale>Geom. Scalvini Antonio</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1393.75</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-05</dataInizio>
+                <dataUltimazione>2016-04-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1393.75</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8E18D9198</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di fornitura e consegna pasti al domicilio – Periodo dal 01/04/2016 al 31/03/2017.</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01174800217</codiceFiscale>
+                    <ragioneSociale>Markas srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01174800217</codiceFiscale>
+                    <ragioneSociale>Markas srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>22090.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2017-03-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>16562.05</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z971806C1c</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE CONDIZIONATORI RSA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02715090987</codiceFiscale>
+                    <ragioneSociale>FERRARI DOTT. AMEDEO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02715090987</codiceFiscale>
+                    <ragioneSociale>FERRARI DOTT. AMEDEO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1440.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-10</dataInizio>
+                <dataUltimazione>2016-03-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1440.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1418EFBD7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere edili anno 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01087860191</codiceFiscale>
+                    <ragioneSociale>TMP srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00574400982</codiceFiscale>
+                    <ragioneSociale>impresa edile pontedil srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01597950987</codiceFiscale>
+                    <ragioneSociale>PARMIGIANI ERNESTO E FIGLI</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00686640988</codiceFiscale>
+                    <ragioneSociale>EDIL RUBAGOTTI SAS DI RUBAGOTTI LORENZO  &amp;C</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00195420989</codiceFiscale>
+                    <ragioneSociale>FESTA GIOVANNI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01087860191</codiceFiscale>
+                    <ragioneSociale>TMP srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00574400982</codiceFiscale>
+                    <ragioneSociale>impresa edile pontedil srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01597950987</codiceFiscale>
+                    <ragioneSociale>PARMIGIANI ERNESTO E FIGLI</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00686640988</codiceFiscale>
+                    <ragioneSociale>EDIL RUBAGOTTI SAS DI RUBAGOTTI LORENZO  &amp;C</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00195420989</codiceFiscale>
+                    <ragioneSociale>FESTA GIOVANNI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2470.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2018-03-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1235.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEE18EF3ED</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere idraulico 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00568640981</codiceFiscale>
+                    <ragioneSociale>C.I.T.S. SRL </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02890330984</codiceFiscale>
+                    <ragioneSociale>ACQUATEAM DI AMMIRATA PASQUALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03316030984</codiceFiscale>
+                    <ragioneSociale>IDROSANITARIA BONETTI GIOVANNI E FIGLIO SNC</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02834960987</codiceFiscale>
+                    <ragioneSociale>BORDIGA FRANCESCO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02393990987</codiceFiscale>
+                    <ragioneSociale>IDRAULICA F.LLI GOFFI S.N.C. DI GOFFI STEFANO &amp; DARIO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00568640981</codiceFiscale>
+                    <ragioneSociale>C.I.T.S. SRL </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02890330984</codiceFiscale>
+                    <ragioneSociale>ACQUATEAM DI AMMIRATA PASQUALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03316030984</codiceFiscale>
+                    <ragioneSociale>IDROSANITARIA BONETTI GIOVANNI E FIGLIO SNC</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02834960987</codiceFiscale>
+                    <ragioneSociale>BORDIGA FRANCESCO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02393990987</codiceFiscale>
+                    <ragioneSociale>IDRAULICA F.LLI GOFFI S.N.C. DI GOFFI STEFANO &amp; DARIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5718EF759</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere falegname 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02057860989</codiceFiscale>
+                    <ragioneSociale>Falegnameria Vavassori Angelo</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01759690983</codiceFiscale>
+                    <ragioneSociale>MURACHELLI FABIO PIETRO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02453860989</codiceFiscale>
+                    <ragioneSociale>GIA FALEGNAMERIA DI GIULIO ABBIATI</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03191130982</codiceFiscale>
+                    <ragioneSociale>RPS SERRAMENTI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02021610981</codiceFiscale>
+                    <ragioneSociale>ITALSERRAMENTI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02057860989</codiceFiscale>
+                    <ragioneSociale>Falegnameria Vavassori Angelo</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01759690983</codiceFiscale>
+                    <ragioneSociale>MURACHELLI FABIO PIETRO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02453860989</codiceFiscale>
+                    <ragioneSociale>GIA FALEGNAMERIA DI GIULIO ABBIATI</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03191130982</codiceFiscale>
+                    <ragioneSociale>RPS SERRAMENTI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02021610981</codiceFiscale>
+                    <ragioneSociale>ITALSERRAMENTI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA218EF117</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere elettricista anni 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02164790178</codiceFiscale>
+                    <ragioneSociale>COCCAGLIO ANTONIO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03488110986</codiceFiscale>
+                    <ragioneSociale>EVO ELETTRICA DI DELPIETRO NICOLA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02203960980</codiceFiscale>
+                    <ragioneSociale>S.G.B. ELETTROIMPIANTI di SABADINI GIAN BATTISTA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02203960980</codiceFiscale>
+                    <ragioneSociale>S.G.B. ELETTROIMPIANTI di SABADINI GIAN BATTISTA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03374300980</codiceFiscale>
+                    <ragioneSociale>ELETTRONICA O.F. DI ORLERI DANIELE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01759450982</codiceFiscale>
+                    <ragioneSociale>ELETTROTECNICA DI BONETTI NATALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02164790178</codiceFiscale>
+                    <ragioneSociale>COCCAGLIO ANTONIO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03488110986</codiceFiscale>
+                    <ragioneSociale>EVO ELETTRICA DI DELPIETRO NICOLA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02203960980</codiceFiscale>
+                    <ragioneSociale>S.G.B. ELETTROIMPIANTI di SABADINI GIAN BATTISTA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02203960980</codiceFiscale>
+                    <ragioneSociale>S.G.B. ELETTROIMPIANTI di SABADINI GIAN BATTISTA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03374300980</codiceFiscale>
+                    <ragioneSociale>ELETTRONICA O.F. DI ORLERI DANIELE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01759450982</codiceFiscale>
+                    <ragioneSociale>ELETTROTECNICA DI BONETTI NATALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>17731.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2018-03-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>12638.79</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1018EFDB4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere imbianchino anni 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03179180173</codiceFiscale>
+                    <ragioneSociale>LORINI PAOLO &amp; C,snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03073810172</codiceFiscale>
+                    <ragioneSociale>MULTICOLOR SNC DI MORASCHI EUGENIO E FRATELLI</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01904130984</codiceFiscale>
+                    <ragioneSociale>LODA ALBERTO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03138120989</codiceFiscale>
+                    <ragioneSociale>BELOTTI PIER GIUSEPPE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03067110985</codiceFiscale>
+                    <ragioneSociale>M82 TINTEGGIATURE DI PASQUINELLI MAURO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03179180173</codiceFiscale>
+                    <ragioneSociale>LORINI PAOLO &amp; C,snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03073810172</codiceFiscale>
+                    <ragioneSociale>MULTICOLOR SNC DI MORASCHI EUGENIO E FRATELLI</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01904130984</codiceFiscale>
+                    <ragioneSociale>LODA ALBERTO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03138120989</codiceFiscale>
+                    <ragioneSociale>BELOTTI PIER GIUSEPPE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03067110985</codiceFiscale>
+                    <ragioneSociale>M82 TINTEGGIATURE DI PASQUINELLI MAURO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5440.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2018-03-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>868.20</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3D18EFA25</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere fabbro anni 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02056550169</codiceFiscale>
+                    <ragioneSociale>TECNOSERAL snc di PASQUALINI GIANNI &amp; C.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01921950984</codiceFiscale>
+                    <ragioneSociale>Buttice' Gaetano</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01012010169</codiceFiscale>
+                    <ragioneSociale>C.L.S di Manenti &amp; Bombarda</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01562730984</codiceFiscale>
+                    <ragioneSociale>CALZAVACCA DANIELE R.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00593380983</codiceFiscale>
+                    <ragioneSociale>C.B. SRL DI CONSOLI BERGAMASCHI FESTA VITALI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02056550169</codiceFiscale>
+                    <ragioneSociale>TECNOSERAL snc di PASQUALINI GIANNI &amp; C.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01921950984</codiceFiscale>
+                    <ragioneSociale>Buttice' Gaetano</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01012010169</codiceFiscale>
+                    <ragioneSociale>C.L.S di Manenti &amp; Bombarda</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01562730984</codiceFiscale>
+                    <ragioneSociale>CALZAVACCA DANIELE R.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00593380983</codiceFiscale>
+                    <ragioneSociale>C.B. SRL DI CONSOLI BERGAMASCHI FESTA VITALI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF71900CCE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>Gestione servizio di educativa domiciliare minori e disabili – Periodo dal 01/04/2016 al 31/03/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01699460984</codiceFiscale>
+                    <ragioneSociale>Comunità il nucleo - società cooperativa sociale onlus</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01699460984</codiceFiscale>
+                    <ragioneSociale>Comunità il nucleo - società cooperativa sociale onlus</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>28644.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2017-03-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4395.02</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8F190C298</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>Affidamento mediante RDO predisposizione documentazion tecnicha per riqualificazione illuminazione Pubblica</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02541180986</codiceFiscale>
+                    <ragioneSociale>invisiblefarm srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02541180986</codiceFiscale>
+                    <ragioneSociale>invisiblefarm srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11500.80</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-23</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1A19495EC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere idraulico 2016/2018</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02393990987</codiceFiscale>
+                    <ragioneSociale>IDRAULICA F.LLI GOFFI S.N.C. DI GOFFI STEFANO &amp; DARIO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02339780161</codiceFiscale>
+                    <ragioneSociale>TERMOTECNICA SNC DI SALINI BATTISTA &amp; F.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02890330984</codiceFiscale>
+                    <ragioneSociale>ACQUATEAM DI AMMIRATA PASQUALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02834960987</codiceFiscale>
+                    <ragioneSociale>BORDIGA FRANCESCO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00604830984</codiceFiscale>
+                    <ragioneSociale>IDROSANITARIA L.M DI LAZZARONI DARIO &amp; C SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02393990987</codiceFiscale>
+                    <ragioneSociale>IDRAULICA F.LLI GOFFI S.N.C. DI GOFFI STEFANO &amp; DARIO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02339780161</codiceFiscale>
+                    <ragioneSociale>TERMOTECNICA SNC DI SALINI BATTISTA &amp; F.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02890330984</codiceFiscale>
+                    <ragioneSociale>ACQUATEAM DI AMMIRATA PASQUALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02834960987</codiceFiscale>
+                    <ragioneSociale>BORDIGA FRANCESCO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00604830984</codiceFiscale>
+                    <ragioneSociale>IDROSANITARIA L.M DI LAZZARONI DARIO &amp; C SNC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>13824.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2018-03-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2544.42</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC91949607</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria opere falegname 2016/2018</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01872840986</codiceFiscale>
+                    <ragioneSociale>FALEGNAMERIA E MOBILI SACCHI DI SACCHI VALERIO E GIOVANNI S.N.C.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01759690983</codiceFiscale>
+                    <ragioneSociale>MURACHELLI FABIO PIETRO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02151280985</codiceFiscale>
+                    <ragioneSociale>CHIARI BRUNO SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03191130982</codiceFiscale>
+                    <ragioneSociale>RPS SERRAMENTI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03053910174</codiceFiscale>
+                    <ragioneSociale>Muratori Gianfranco &amp; C. snc</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01872840986</codiceFiscale>
+                    <ragioneSociale>FALEGNAMERIA E MOBILI SACCHI DI SACCHI VALERIO E GIOVANNI S.N.C.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01759690983</codiceFiscale>
+                    <ragioneSociale>MURACHELLI FABIO PIETRO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02151280985</codiceFiscale>
+                    <ragioneSociale>CHIARI BRUNO SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03191130982</codiceFiscale>
+                    <ragioneSociale>RPS SERRAMENTI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03053910174</codiceFiscale>
+                    <ragioneSociale>Muratori Gianfranco &amp; C. snc</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7314.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2018-03-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4A1965A1C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>servizio di controllo periodico estintori anno 2016</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03208500987</codiceFiscale>
+                    <ragioneSociale>STUDIO PEDRALI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02439600988</codiceFiscale>
+                    <ragioneSociale>Atena Spa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03166250179</codiceFiscale>
+                    <ragioneSociale>FARCO SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01629610161</codiceFiscale>
+                    <ragioneSociale>CROTTI ANTINCENDIO S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03539380166</codiceFiscale>
+                    <ragioneSociale>FOX ANTINCENDIO di Monzani Omar</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00654220987</codiceFiscale>
+                    <ragioneSociale>ANTINFORTUNISTICA CLARENSE SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03208500987</codiceFiscale>
+                    <ragioneSociale>STUDIO PEDRALI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02439600988</codiceFiscale>
+                    <ragioneSociale>Atena Spa</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03166250179</codiceFiscale>
+                    <ragioneSociale>FARCO SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01629610161</codiceFiscale>
+                    <ragioneSociale>CROTTI ANTINCENDIO S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03539380166</codiceFiscale>
+                    <ragioneSociale>FOX ANTINCENDIO di Monzani Omar</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00654220987</codiceFiscale>
+                    <ragioneSociale>ANTINFORTUNISTICA CLARENSE SNC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>775.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-05-01</dataInizio>
+                <dataUltimazione>2017-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>725.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAF19658E6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione del verde pubblico comunale anno 2016</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00674640982</codiceFiscale>
+                    <ragioneSociale>Bozzola Marcello e C. di Bozzola Giovanni e Bruno S.n.c.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02847310980</codiceFiscale>
+                    <ragioneSociale>marenzi giardini di marenzi nicola &amp; c. snc soc. agricola</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02500940982</codiceFiscale>
+                    <ragioneSociale>Flower Garden di Bariselli G. e Ranghetti A. snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00711440982</codiceFiscale>
+                    <ragioneSociale>Rebecchi di Rebecchi D. e C. snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03280890173</codiceFiscale>
+                    <ragioneSociale>VIVAIO PIANTE LE ZARE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181020989</codiceFiscale>
+                    <ragioneSociale>FERRARI VIVAI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02021180985</codiceFiscale>
+                    <ragioneSociale>AGRI GARDEN SERVICE di Scalvini Pietro</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00674640982</codiceFiscale>
+                    <ragioneSociale>Bozzola Marcello e C. di Bozzola Giovanni e Bruno S.n.c.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02847310980</codiceFiscale>
+                    <ragioneSociale>marenzi giardini di marenzi nicola &amp; c. snc soc. agricola</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02500940982</codiceFiscale>
+                    <ragioneSociale>Flower Garden di Bariselli G. e Ranghetti A. snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00711440982</codiceFiscale>
+                    <ragioneSociale>Rebecchi di Rebecchi D. e C. snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03280890173</codiceFiscale>
+                    <ragioneSociale>VIVAIO PIANTE LE ZARE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181020989</codiceFiscale>
+                    <ragioneSociale>FERRARI VIVAI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02021180985</codiceFiscale>
+                    <ragioneSociale>AGRI GARDEN SERVICE di Scalvini Pietro</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4941.73</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-25</dataInizio>
+                <dataUltimazione>2017-04-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4275.81</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3619A5745</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI PREDISPOSIZIONE LISTINO TARIFFE TARI 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03602730172</codiceFiscale>
+                    <ragioneSociale>SCRIBA BRESCIA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03602730172</codiceFiscale>
+                    <ragioneSociale>SCRIBA BRESCIA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-29</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2519A5797</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO ATTIVITA' DI SUPPORTO SPORTELLO IMU/TASI 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03636750162</codiceFiscale>
+                    <ragioneSociale>EASY PA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03636750162</codiceFiscale>
+                    <ragioneSociale>EASY PA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-29</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1119DA735</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO SERVIZIO DI PULIZIA DEL CENTRO DIURNO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01639120987</codiceFiscale>
+                    <ragioneSociale>LA CAVEDA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01639120987</codiceFiscale>
+                    <ragioneSociale>LA CAVEDA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1253.70</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-01</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1253.70</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8B19F3DA6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE ORDINARIA OPERE FABBRO 2016/2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01562730984</codiceFiscale>
+                    <ragioneSociale>CALZAVACCA DANIELE R.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01562730984</codiceFiscale>
+                    <ragioneSociale>CALZAVACCA DANIELE R.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2098.36</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-06-01</dataInizio>
+                <dataUltimazione>2018-05-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB919F3F43</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI DISINFESTAZIONE E DERATIZZAZIONE IMMOBILI ED AREE COMUNALI - ANNO 2016</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02417180987</codiceFiscale>
+                    <ragioneSociale>B. B. SERVICE DI EMANUELE BOIFAVA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03580980161</codiceFiscale>
+                    <ragioneSociale>IL SOGNO DI ARLECCHINO DI MOIOLI MATTEO &amp; C. S.A.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03370860987</codiceFiscale>
+                    <ragioneSociale>Sirani Vincenzo srl unipersonale </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03170560985</codiceFiscale>
+                    <ragioneSociale>SALUBER SRL UNIPERSONALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01816960163</codiceFiscale>
+                    <ragioneSociale>Mocit S.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02417180987</codiceFiscale>
+                    <ragioneSociale>B. B. SERVICE DI EMANUELE BOIFAVA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03580980161</codiceFiscale>
+                    <ragioneSociale>IL SOGNO DI ARLECCHINO DI MOIOLI MATTEO &amp; C. S.A.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03370860987</codiceFiscale>
+                    <ragioneSociale>Sirani Vincenzo srl unipersonale </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03170560985</codiceFiscale>
+                    <ragioneSociale>SALUBER SRL UNIPERSONALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01816960163</codiceFiscale>
+                    <ragioneSociale>Mocit S.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2710.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-01</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2710.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEB1965962</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO ATTIVITA' DI SUPPORTO AL MANTENIMENTO DELLA CERTIFICAZIONE EMAS</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02435280983</codiceFiscale>
+                    <ragioneSociale>Sigeambiente di Zini Roberto</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02435280983</codiceFiscale>
+                    <ragioneSociale>Sigeambiente di Zini Roberto</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2450.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-06-21</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2450.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE8196598E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO ATTIVITA' CERTIFICAZIONE AMBIENTALE EMAS</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03487840104</codiceFiscale>
+                    <ragioneSociale>RINA SERVICES S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03487840104</codiceFiscale>
+                    <ragioneSociale>RINA SERVICES S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1590.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-06-21</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1590.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCD1A33B70</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione ordinaria ascensori anno 2016/2017</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00866030174</codiceFiscale>
+                    <ragioneSociale>DITTA FARA DI FRIGOLI ALBERTO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02766430983</codiceFiscale>
+                    <ragioneSociale>TECNOLIFTS FABBRICA ASCENSORI S.p.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02178810160</codiceFiscale>
+                    <ragioneSociale>CAVALLARI ASCENSORI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03624980169</codiceFiscale>
+                    <ragioneSociale>GD LIFT SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01729590032</codiceFiscale>
+                    <ragioneSociale>OTIS SERVIZI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03082160171</codiceFiscale>
+                    <ragioneSociale>ELMA </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00858690175</codiceFiscale>
+                    <ragioneSociale>biem</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00866030174</codiceFiscale>
+                    <ragioneSociale>DITTA FARA DI FRIGOLI ALBERTO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02766430983</codiceFiscale>
+                    <ragioneSociale>TECNOLIFTS FABBRICA ASCENSORI S.p.A.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02178810160</codiceFiscale>
+                    <ragioneSociale>CAVALLARI ASCENSORI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03624980169</codiceFiscale>
+                    <ragioneSociale>GD LIFT SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01729590032</codiceFiscale>
+                    <ragioneSociale>OTIS SERVIZI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03082160171</codiceFiscale>
+                    <ragioneSociale>ELMA </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00858690175</codiceFiscale>
+                    <ragioneSociale>biem</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2025.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-06-20</dataInizio>
+                <dataUltimazione>2017-06-19</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA61A8E2E2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA DI N. 4 PERSONAL COMPUTER E MONITOR CON RELATIVI SOFTWARE ACCESSORI</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00662570175</codiceFiscale>
+                    <ragioneSociale>ARICI FRATELLI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01179300171</codiceFiscale>
+                    <ragioneSociale>ARICI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01872630171</codiceFiscale>
+                    <ragioneSociale>Effegi di Fantoni G. &amp; c. snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00661740985</codiceFiscale>
+                    <ragioneSociale>ELECTRONIC CENTER</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02034750162</codiceFiscale>
+                    <ragioneSociale>ALCESTE CASTELLI E FIGLI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03529790986</codiceFiscale>
+                    <ragioneSociale>FG FORNITURE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00662570175</codiceFiscale>
+                    <ragioneSociale>ARICI FRATELLI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01179300171</codiceFiscale>
+                    <ragioneSociale>ARICI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01872630171</codiceFiscale>
+                    <ragioneSociale>Effegi di Fantoni G. &amp; c. snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00661740985</codiceFiscale>
+                    <ragioneSociale>ELECTRONIC CENTER</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02034750162</codiceFiscale>
+                    <ragioneSociale>ALCESTE CASTELLI E FIGLI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03529790986</codiceFiscale>
+                    <ragioneSociale>FG FORNITURE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z961AC3780</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO SERVIZIO RSPP DAL 01/08/2016 AL 31/07/2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03842690160</codiceFiscale>
+                    <ragioneSociale>CRES LT SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03842690160</codiceFiscale>
+                    <ragioneSociale>CRES LT SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z891ACBF39</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO PER L'IGIENE AMBIENTALE E PERSONALE PRESSO LA SEDE MUNICIPALE E PRESSO GLI SPOGLIATOI DEL CAMPO SPORTIVO COMUNALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03986581001</codiceFiscale>
+                    <ragioneSociale>Rentokil Initial Italia Spa</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03986581001</codiceFiscale>
+                    <ragioneSociale>Rentokil Initial Italia Spa</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1376.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-07-28</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1376.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z661B2A875</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>RDO PER INCARICO DI RSPP DAL 15/09/2016 AL 14/09/2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03842690160</codiceFiscale>
+                    <ragioneSociale>CRES LT SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03842690160</codiceFiscale>
+                    <ragioneSociale>CRES LT SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2049.96</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-09-15</dataInizio>
+                <dataUltimazione>2017-09-14</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>512.30</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEA18DFEB6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>O.d.A MEPA - FORNITURA STAMPATI PER CONSULTAZIONI ELETTORALI DEL 17/04/2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00089070403</codiceFiscale>
+                    <ragioneSociale>GRAFICHE GASPARI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00089070403</codiceFiscale>
+                    <ragioneSociale>GRAFICHE GASPARI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>172.25</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-12</dataInizio>
+                <dataUltimazione>2016-04-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>172.25</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8E1937E61</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA TERMINALE TELEFONICO CORDELESS</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00375000171</codiceFiscale>
+                    <ragioneSociale>I.E.T.I.C. di ARRIGHETTI LUCIO S.N.C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00375000171</codiceFiscale>
+                    <ragioneSociale>I.E.T.I.C. di ARRIGHETTI LUCIO S.N.C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>125.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-03-23</dataInizio>
+                <dataUltimazione>2016-05-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>125.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z911938AF4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE AFFRANCATRICE 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01179300171</codiceFiscale>
+                    <ragioneSociale>ARICI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01179300171</codiceFiscale>
+                    <ragioneSociale>ARICI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>150.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-02</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>150.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1A1938B3C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA MATERIALE DI CONSUMO AFFRANCATRICE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01179300171</codiceFiscale>
+                    <ragioneSociale>ARICI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01179300171</codiceFiscale>
+                    <ragioneSociale>ARICI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>245.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-02</dataInizio>
+                <dataUltimazione>2016-06-22</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>245.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD01BEE33B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>ALLESTIMENTO E DISALLESTIMENTO SEGGI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>980.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-02</dataInizio>
+                <dataUltimazione>2016-12-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z361953F3F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO ALLESTIMENTO-DISALLESTIMENTO SEGGI ELETTORALI E PULIZIE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01886740172</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01886740172</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>983.61</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-14</dataInizio>
+                <dataUltimazione>2016-04-18</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>983.60</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2F1AE09E5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO PRATICHE ELETTRONICHE SU UNIONI CIVILI E SEPARAZIONI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00268040177</codiceFiscale>
+                    <ragioneSociale>F. APOLLONIO S.p.a.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00268040177</codiceFiscale>
+                    <ragioneSociale>F. APOLLONIO S.p.a.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>80.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-08-05</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>80.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z891B740A6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SOFTWARE SOSTITUTIVO STAMPATI NON FORNITI DALLO STATO - REFE. 04/12/2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00268040177</codiceFiscale>
+                    <ragioneSociale>F.APOLLONIO S.p.a.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00268040177</codiceFiscale>
+                    <ragioneSociale>F.APOLLONIO S.p.a.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>110.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-10-05</dataInizio>
+                <dataUltimazione>2016-12-04</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>110.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z301C086E3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA REGISTRI DI STATO CIVILE E CARTELLINI C.I.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00268040177</codiceFiscale>
+                    <ragioneSociale>F.APOLLONIO S.p.a.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00268040177</codiceFiscale>
+                    <ragioneSociale>F.APOLLONIO S.p.a.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>460.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-11-15</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE91C09574</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>LUMINARIE NATALIZIE 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02164790178</codiceFiscale>
+                    <ragioneSociale>COCCAGLIO ANTONIO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02164790178</codiceFiscale>
+                    <ragioneSociale>COCCAGLIO ANTONIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1638.85</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-11-15</dataInizio>
+                <dataUltimazione>2017-01-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1638.85</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD71C14ED0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO SGOMBERO NEVE BIENNIO 2016/2017-2017/2018</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04552240873</codiceFiscale>
+                    <ragioneSociale>LIUZZO SCORPO MARCO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02912030984</codiceFiscale>
+                    <ragioneSociale>BRIANZA SCAVI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02231530987</codiceFiscale>
+                    <ragioneSociale>Cogiedil S.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03488800982</codiceFiscale>
+                    <ragioneSociale>Arca Service Brescia</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03652610985</codiceFiscale>
+                    <ragioneSociale>AMIGHETTI SCAVI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04552240873</codiceFiscale>
+                    <ragioneSociale>LIUZZO SCORPO MARCO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02912030984</codiceFiscale>
+                    <ragioneSociale>BRIANZA SCAVI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02231530987</codiceFiscale>
+                    <ragioneSociale>Cogiedil S.r.l.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03488800982</codiceFiscale>
+                    <ragioneSociale>Arca Service Brescia</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03652610985</codiceFiscale>
+                    <ragioneSociale>AMIGHETTI SCAVI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6C1C44F18</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>LOTTO 3 - SGOMBERO NEVE BIENNIO 2016/2017-2017/2018</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03652610985</codiceFiscale>
+                    <ragioneSociale>AMIGHETTI SCAVI S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02912030984</codiceFiscale>
+                    <ragioneSociale>BRIANZA SCAVI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04552240873</codiceFiscale>
+                    <ragioneSociale>LIUZZO SCORPO MARCO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03652610985</codiceFiscale>
+                    <ragioneSociale>AMIGHETTI SCAVI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02912030984</codiceFiscale>
+                    <ragioneSociale>BRIANZA SCAVI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>04552240873</codiceFiscale>
+                    <ragioneSociale>LIUZZO SCORPO MARCO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10050.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-01</dataInizio>
+                <dataUltimazione>2018-03-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z12C44D636</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>LOTTO 1 - SGOMBERO NEVE BIENNIO 2016/2017-2017/2018</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04552240873</codiceFiscale>
+                    <ragioneSociale>LIUZZO SCORPO MARCO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04552240873</codiceFiscale>
+                    <ragioneSociale>LIUZZO SCORPO MARCO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8479.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-01</dataInizio>
+                <dataUltimazione>2018-03-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7A1C44EF2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>LOTTO 2 - SGOMBERO NEVE BIENNIO 2016/2017-2017/2018</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02912030984</codiceFiscale>
+                    <ragioneSociale>BRIANZA SCAVI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02912030984</codiceFiscale>
+                    <ragioneSociale>BRIANZA SCAVI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9698.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-01</dataInizio>
+                <dataUltimazione>2018-03-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6885873229</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>INVITO ALLA PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2, LETT. B) DEL D. LGS. 50/2016 RELATIVA AL SERVIZIO DI TRASPORTO SCOLASTICO SCUOLE DEL TERRITORIO COMUNALE - ANNI SCOLASTICI 2016/2017 (dal 1^ Febbraio 2017), 2017/2018, 2018/2019.</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02113050989</codiceFiscale>
+                    <ragioneSociale>AUTOSERVIZI FRATELLI MANENTI S.N.C. DI MANENTI ALBERTO, RENATO &amp; C .</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01381700333</codiceFiscale>
+                    <ragioneSociale>Sailing Tour</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02927090171</codiceFiscale>
+                    <ragioneSociale>SIA - Società Italiana Autoservizi S.p.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02334610983</codiceFiscale>
+                    <ragioneSociale>Andromeda Società Cooperativa Sociale Onlus</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01811140985</codiceFiscale>
+                    <ragioneSociale>SER-MAN di Amighetti Pier Battista</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02113050989</codiceFiscale>
+                    <ragioneSociale>AUTOSERVIZI FRATELLI MANENTI S.N.C. DI MANENTI ALBERTO, RENATO &amp; C .</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01381700333</codiceFiscale>
+                    <ragioneSociale>Sailing Tour</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02927090171</codiceFiscale>
+                    <ragioneSociale>SIA - Società Italiana Autoservizi S.p.A.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02334610983</codiceFiscale>
+                    <ragioneSociale>Andromeda Società Cooperativa Sociale Onlus</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01811140985</codiceFiscale>
+                    <ragioneSociale>SER-MAN di Amighetti Pier Battista</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>68681.25</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2017-02-01</dataInizio>
+                <dataUltimazione>2019-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z581C7F5F9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>FORNITURA E POSA PALO ILLUMINAZIONE PUBBLICA DIVELTO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01759450982</codiceFiscale>
+                    <ragioneSociale>ELETTROTECNICA DI BONETTI NATALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01759450982</codiceFiscale>
+                    <ragioneSociale>ELETTROTECNICA DI BONETTI NATALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z471C8EF55</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI IGIENIZZAZIONE E SANIFICAZIONE DEI SERVIZI IGIENICI PRESSO LA SEDE MUNICIPALE E CAMPO SPORTIVO BIENNIO 2017/2018</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari/>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z041C90288</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI PULIZIA DEGLI IMMOBILI COMUNALI ANNO 2017</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03785130984</codiceFiscale>
+                    <ragioneSociale>SERENASSISTENZA SCRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05229650659</codiceFiscale>
+                    <ragioneSociale>V.O.L.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04191210402</codiceFiscale>
+                    <ragioneSociale>Aurea Servizi srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01877530764</codiceFiscale>
+                    <ragioneSociale>Lacerenza Multiservice S.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01639120987</codiceFiscale>
+                    <ragioneSociale>LA CAVEDA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>11476580151</codiceFiscale>
+                    <ragioneSociale>GI.ZETA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01672840707</codiceFiscale>
+                    <ragioneSociale>UNIVERSONLUS COOP. SOCIALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04983470651</codiceFiscale>
+                    <ragioneSociale>INSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01457340097</codiceFiscale>
+                    <ragioneSociale>JOBIO - SOCIETA' COOPERATIVA LAVORO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03785130984</codiceFiscale>
+                    <ragioneSociale>SERENASSISTENZA SCRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>05229650659</codiceFiscale>
+                    <ragioneSociale>V.O.L.A.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>04191210402</codiceFiscale>
+                    <ragioneSociale>Aurea Servizi srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01877530764</codiceFiscale>
+                    <ragioneSociale>Lacerenza Multiservice S.r.l.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01639120987</codiceFiscale>
+                    <ragioneSociale>LA CAVEDA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>11476580151</codiceFiscale>
+                    <ragioneSociale>GI.ZETA</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01672840707</codiceFiscale>
+                    <ragioneSociale>UNIVERSONLUS COOP. SOCIALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>04983470651</codiceFiscale>
+                    <ragioneSociale>INSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01457340097</codiceFiscale>
+                    <ragioneSociale>JOBIO - SOCIETA' COOPERATIVA LAVORO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>17812.50</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2017-01-01</dataInizio>
+                <dataUltimazione>2017-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z031C911F3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO POTATURA ALBERI BIENNIO 2017-2018</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>12546930152</codiceFiscale>
+                    <ragioneSociale>Florovivaistica Brendolini Franco</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02954890162</codiceFiscale>
+                    <ragioneSociale>Seriana Verde di Zamboni Bonomo &amp; c. s.n.c.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01974100206</codiceFiscale>
+                    <ragioneSociale>SOLE SERENO COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02500940982</codiceFiscale>
+                    <ragioneSociale>Flower Garden di Bariselli G. e Ranghetti A. snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01863160162</codiceFiscale>
+                    <ragioneSociale>COLLA STEFANO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03235680984</codiceFiscale>
+                    <ragioneSociale>FRATELLI TONINELLI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02623980162</codiceFiscale>
+                    <ragioneSociale>Togni Snc di Togni Walter &amp; C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>12546930152</codiceFiscale>
+                    <ragioneSociale>Florovivaistica Brendolini Franco</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02954890162</codiceFiscale>
+                    <ragioneSociale>Seriana Verde di Zamboni Bonomo &amp; c. s.n.c.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01974100206</codiceFiscale>
+                    <ragioneSociale>SOLE SERENO COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02500940982</codiceFiscale>
+                    <ragioneSociale>Flower Garden di Bariselli G. e Ranghetti A. snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01863160162</codiceFiscale>
+                    <ragioneSociale>COLLA STEFANO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03235680984</codiceFiscale>
+                    <ragioneSociale>FRATELLI TONINELLI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02623980162</codiceFiscale>
+                    <ragioneSociale>Togni Snc di Togni Walter &amp; C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9490.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2017-01-01</dataInizio>
+                <dataUltimazione>2018-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3F1C9C8CD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE IMPIANTO SEMAFORICO BIENNIO 2017/2018</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01917530162</codiceFiscale>
+                    <ragioneSociale>sibestar srl </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00206150286</codiceFiscale>
+                    <ragioneSociale>LA SEMAFORICA SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03606870164</codiceFiscale>
+                    <ragioneSociale>FM Segnaletica snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03505010987</codiceFiscale>
+                    <ragioneSociale>PSR PRODUCT SERVICE ROAD SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05084080968</codiceFiscale>
+                    <ragioneSociale>FIS Fabbrica Italiana Semafori</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01917530162</codiceFiscale>
+                    <ragioneSociale>sibestar srl </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00206150286</codiceFiscale>
+                    <ragioneSociale>LA SEMAFORICA SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03606870164</codiceFiscale>
+                    <ragioneSociale>FM Segnaletica snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03505010987</codiceFiscale>
+                    <ragioneSociale>PSR PRODUCT SERVICE ROAD SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>05084080968</codiceFiscale>
+                    <ragioneSociale>FIS Fabbrica Italiana Semafori</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCF1C9DDF7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE VERDE PUBBLICO PER L'ANNO 2017</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03052810987</codiceFiscale>
+                    <ragioneSociale>Fraternità Verde I.S.S.C.S. ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03319420166</codiceFiscale>
+                    <ragioneSociale>PRO-EDIL SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02500940982</codiceFiscale>
+                    <ragioneSociale>Flower Garden di Bariselli G. e Ranghetti A. snc</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03235680984</codiceFiscale>
+                    <ragioneSociale>FRATELLI TONINELLI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01672840707</codiceFiscale>
+                    <ragioneSociale>UNIVERSONLUS COOP. SOCIALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03052810987</codiceFiscale>
+                    <ragioneSociale>Fraternità Verde I.S.S.C.S. ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03319420166</codiceFiscale>
+                    <ragioneSociale>PRO-EDIL SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02500940982</codiceFiscale>
+                    <ragioneSociale>Flower Garden di Bariselli G. e Ranghetti A. snc</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03235680984</codiceFiscale>
+                    <ragioneSociale>FRATELLI TONINELLI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01672840707</codiceFiscale>
+                    <ragioneSociale>UNIVERSONLUS COOP. SOCIALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2F1C94020</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>RDO PER RICHIESTA PREVENTIVO RELATIVA AL SERVIZIO DI DISTRIBUZIONE PASTI E ATTIVITÀ CONNESSE PER IL PERIODO DAL 01 GENNAIO AL 08 GIUGNO 2017.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01174800217</codiceFiscale>
+                    <ragioneSociale>Markas srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01174800217</codiceFiscale>
+                    <ragioneSociale>Markas srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7392.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-01-01</dataInizio>
+                <dataUltimazione>2017-06-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z321C9E79D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI GESTIONE IMPIANTO FOTOVOLTAICO BIENNIO 2017/2018</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02943620167</codiceFiscale>
+                    <ragioneSociale>EUROPROJECT S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03994190167</codiceFiscale>
+                    <ragioneSociale>COSPEC S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05528670960</codiceFiscale>
+                    <ragioneSociale>MYENERGY S.P.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02138260985</codiceFiscale>
+                    <ragioneSociale>Antonio Ing. Zammarchi</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02902990981</codiceFiscale>
+                    <ragioneSociale>Bonometti &amp; Partners Engineering Consulting srl con sigla BECONSULT SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02943620167</codiceFiscale>
+                    <ragioneSociale>EUROPROJECT S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03994190167</codiceFiscale>
+                    <ragioneSociale>COSPEC S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>05528670960</codiceFiscale>
+                    <ragioneSociale>MYENERGY S.P.A.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02138260985</codiceFiscale>
+                    <ragioneSociale>Antonio Ing. Zammarchi</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02902990981</codiceFiscale>
+                    <ragioneSociale>Bonometti &amp; Partners Engineering Consulting srl con sigla BECONSULT SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z281CA13FB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>RDO PER RICHIESTA PREVENTIVO RELATIVA AL AFFIDAMENTO DIRETTO DEL PROGETTO LETTURA ESPRESSIVA -TEATRO PER LA SCUOLA SECONDARIA DI PRIMO GRADO - ANNO SCOLASTICO 2016-2017.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03080310174</codiceFiscale>
+                    <ragioneSociale>FASOLMUSIC.COOP - SOCIETA' COOPERATIVA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03080310174</codiceFiscale>
+                    <ragioneSociale>FASOLMUSIC.COOP - SOCIETA' COOPERATIVA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2400.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-30</dataInizio>
+                <dataUltimazione>2017-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA31CA1AA9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>ESECUZIONE DI PICCOLE OPERE DI MANUTENZIONE EDILI IMMOBILI COMUNALI, VIABILITA' E AREE VERDI - ANNO 2017</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01548410198</codiceFiscale>
+                    <ragioneSociale>ECO.STRADE </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03288600178</codiceFiscale>
+                    <ragioneSociale>GRUPPO BIANCHETTI COSTRUZIONI SRL </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03130610987</codiceFiscale>
+                    <ragioneSociale>V-F COSTRUZIONI SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03994190167</codiceFiscale>
+                    <ragioneSociale>COSPEC S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03533080176</codiceFiscale>
+                    <ragioneSociale>EDIL 3 SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>10029680153</codiceFiscale>
+                    <ragioneSociale>TECNO A.F.E.S. srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03319420166</codiceFiscale>
+                    <ragioneSociale>PRO-EDIL SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01548410198</codiceFiscale>
+                    <ragioneSociale>ECO.STRADE </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03288600178</codiceFiscale>
+                    <ragioneSociale>GRUPPO BIANCHETTI COSTRUZIONI SRL </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03130610987</codiceFiscale>
+                    <ragioneSociale>V-F COSTRUZIONI SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03994190167</codiceFiscale>
+                    <ragioneSociale>COSPEC S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03533080176</codiceFiscale>
+                    <ragioneSociale>EDIL 3 SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>10029680153</codiceFiscale>
+                    <ragioneSociale>TECNO A.F.E.S. srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03319420166</codiceFiscale>
+                    <ragioneSociale>PRO-EDIL SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEB1CA2348</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SPAZZAMENTO MECCANICO E MANUALE DELLE STRADE COMUNALI E DEGLI SPAZI PUBBLICI - ANNO 2017</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03812770653</codiceFiscale>
+                    <ragioneSociale>landi srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03994190167</codiceFiscale>
+                    <ragioneSociale>COSPEC S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04191210402</codiceFiscale>
+                    <ragioneSociale>Aurea Servizi srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03812770653</codiceFiscale>
+                    <ragioneSociale>landi srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03994190167</codiceFiscale>
+                    <ragioneSociale>COSPEC S.R.L.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00662210988</codiceFiscale>
+                    <ragioneSociale>IL NUCLEO SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>04191210402</codiceFiscale>
+                    <ragioneSociale>Aurea Servizi srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>25600.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2017-01-01</dataInizio>
+                <dataUltimazione>2017-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z551CA5413</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI TENUTA DEI REGISTRI CONTABILI IN MATERIA DI IVA ED IRAP ADEMPIMENTI IN MATERIA FISCALE E CONTRATTI DI LOCAZIONE USO COMMERCIALE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03422150171</codiceFiscale>
+                    <ragioneSociale>F.B. GROUP SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03422150171</codiceFiscale>
+                    <ragioneSociale>F.B. GROUP SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8200.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-21</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8A1CB0B00</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SOSTITUZIONE PALO ILLUMINAZIONE DIVELTO IN VIA MADONNA IN PRATIS</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01759450982</codiceFiscale>
+                    <ragioneSociale>ELETTROTECNICA DI BONETTI NATALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01759450982</codiceFiscale>
+                    <ragioneSociale>ELETTROTECNICA DI BONETTI NATALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1400.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-23</dataInizio>
+                <dataUltimazione>2017-01-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1400.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7E1C8E3AF</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>OPERE DI MANUTENZIONE IDRAULICHE PRESSO CENTRO SPORTIVO</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00568640981</codiceFiscale>
+                    <ragioneSociale>C.I.T.S. SRL </ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00568640981</codiceFiscale>
+                    <ragioneSociale>C.I.T.S. SRL </ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8057.65</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-23</dataInizio>
+                <dataUltimazione>2017-01-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZBC1CB1D61</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>MANUTENZIONE STRAORDINARIA SEGNALETICA ORIZZONTALE E VERTICALE SUL TERRITORIO</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03581460981</codiceFiscale>
+                    <ragioneSociale>Davide Panchieri  </ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>09194781002</codiceFiscale>
+                    <ragioneSociale>ROAD 95 &amp; C. SRL US</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02493840272</codiceFiscale>
+                    <ragioneSociale>TRIVENETA SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03205240165</codiceFiscale>
+                    <ragioneSociale>S.D.B. SRL SEGNALETICA DEL BORGO</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>10100840015</codiceFiscale>
+                    <ragioneSociale>STS  s.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03505010987</codiceFiscale>
+                    <ragioneSociale>PSR PRODUCT SERVICE ROAD SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04224200289</codiceFiscale>
+                    <ragioneSociale>Padana Segnaletica Srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00300380193</codiceFiscale>
+                    <ragioneSociale>La Tecnopubblica Srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01468610199</codiceFiscale>
+                    <ragioneSociale>Emmebi Segnaletica Stradale e Costruzioni s.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03581460981</codiceFiscale>
+                    <ragioneSociale>Davide Panchieri  </ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>09194781002</codiceFiscale>
+                    <ragioneSociale>ROAD 95 &amp; C. SRL US</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02493840272</codiceFiscale>
+                    <ragioneSociale>TRIVENETA SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03205240165</codiceFiscale>
+                    <ragioneSociale>S.D.B. SRL SEGNALETICA DEL BORGO</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>10100840015</codiceFiscale>
+                    <ragioneSociale>STS  s.r.l.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03505010987</codiceFiscale>
+                    <ragioneSociale>PSR PRODUCT SERVICE ROAD SRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>04224200289</codiceFiscale>
+                    <ragioneSociale>Padana Segnaletica Srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>00300380193</codiceFiscale>
+                    <ragioneSociale>La Tecnopubblica Srl</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01468610199</codiceFiscale>
+                    <ragioneSociale>Emmebi Segnaletica Stradale e Costruzioni s.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z421C38D68</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>INCARICO PER AGGIORNAMENTO C.P.I. IMMOBILI COMUNALI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01786210987</codiceFiscale>
+                    <ragioneSociale>ING. FACCHETTI STEFANO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01786210987</codiceFiscale>
+                    <ragioneSociale>ING. FACCHETTI STEFANO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-23</dataInizio>
+                <dataUltimazione>2017-01-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z821CB3206</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI IGIENIZZAZIONE E SANIFICAZIONE DEI SERVIZI IGIENICI PRESSO LA SEDE MUNICIPALE E CAMPO SPORTIVO BIENNIO 2017/2018</oggetto>
+            <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01639120987</codiceFiscale>
+                    <ragioneSociale>LA CAVEDA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03986581001</codiceFiscale>
+                    <ragioneSociale>Rentokil Initial Italia Spa</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03785130984</codiceFiscale>
+                    <ragioneSociale>SERENASSISTENZA SCRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01639120987</codiceFiscale>
+                    <ragioneSociale>LA CAVEDA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>02181120987</codiceFiscale>
+                    <ragioneSociale>INRETE.IT CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03986581001</codiceFiscale>
+                    <ragioneSociale>Rentokil Initial Italia Spa</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>03785130984</codiceFiscale>
+                    <ragioneSociale>SERENASSISTENZA SCRL</ragioneSociale>
+                </aggiudicatario>
+                <aggiudicatario>
+                    <codiceFiscale>01796400354</codiceFiscale>
+                    <ragioneSociale>CSP SOC.COOP. SOCIALE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE21BBA3BE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>Ordinativo di Fornitura per la ConvenzioneAzienda Regionale Centrale Acquisti S.p.A. - Cancelleria Ed. 4 - Cancelleria Ed. 4 - Errebian</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02044501001</codiceFiscale>
+                    <ragioneSociale>ERREBIAN SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2100.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-10-25</dataInizio>
+                <dataUltimazione>2017-10-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3517FB7C3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>OdA ASSISTENZA SISTEMICA E MANUTENZIONE SONICWALL</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01192580197</codiceFiscale>
+                    <ragioneSociale>LINEA COM S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01192580197</codiceFiscale>
+                    <ragioneSociale>LINEA COM S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>863.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-01-12</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>863.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZEA1982BD1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>OdA FORNITURA DI LICENZE PER NUOVI ANTIVIRUS ANNO 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02233850987</codiceFiscale>
+                    <ragioneSociale>PUNTO COM S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02233850987</codiceFiscale>
+                    <ragioneSociale>PUNTO COM S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>972.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-04-19</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>972.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDB15C57CB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO TRASPORTO SCOLASTICO A.S. 2015-2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01811140985</codiceFiscale>
+                    <ragioneSociale>SER-MAN di Amighetti Pier Battista</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01811140985</codiceFiscale>
+                    <ragioneSociale>SER-MAN di Amighetti Pier Battista</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>22500.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-15</dataInizio>
+                <dataUltimazione>2016-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>22500.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA41607C8B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>STAMPA BLOCCHETTI BUONI SERVIZIO MENSA SCOLASTICA A.S. 2015/2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01854780986</codiceFiscale>
+                    <ragioneSociale>LA COMPAGNIA DELLA STAMPA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01854780986</codiceFiscale>
+                    <ragioneSociale>LA COMPAGNIA DELLA STAMPA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>483.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-09-15</dataInizio>
+                <dataUltimazione>2016-06-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>483.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7A16B3D2A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>AMPLIAMENTO APPALTO SERVIZI BIBLIOTECA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03433590985</codiceFiscale>
+                    <ragioneSociale>ArteconNoi S.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03433590985</codiceFiscale>
+                    <ragioneSociale>ArteconNoi S.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4329.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-02-01</dataInizio>
+                <dataUltimazione>2016-01-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4329.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA113490B3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI ELABORAZIONE DATI STIPENDIALI PER GLI ESERCIZI FINANZIARI DAL 01.01.2015 AL 31.12.2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00638910984</codiceFiscale>
+                    <ragioneSociale>MAD SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00638910984</codiceFiscale>
+                    <ragioneSociale>MAD SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11441.24</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-01</dataInizio>
+                <dataUltimazione>2017-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4002.92</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z29134C5A8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZI E PRESTAZIONI COMPLEMENTARI AL SERVIZIO DI ELABORAZIONE DATI DEL PERSONALE PER IL TRIENNIO 01.01.2015-31.12.2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00638910984</codiceFiscale>
+                    <ragioneSociale>MAD SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00638910984</codiceFiscale>
+                    <ragioneSociale>MAD SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>856.48</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-01-01</dataInizio>
+                <dataUltimazione>2017-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>87.07</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z291B28A4A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>AFFIDAMENTO DIRETTO, AI SENSI DELL’ARTICOLO 36, COMMA 2, LETTERA A) DEL D.LGS 50/2016, DELLA FORNITURA DI LIBRI E MATERIALE MULTIMEDIALE PER LA BIBLIOTECA COMUNALE DI RUDIANO- ANNO 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02511020162</codiceFiscale>
+                    <ragioneSociale>Leggere Srl</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02511020162</codiceFiscale>
+                    <ragioneSociale>Leggere Srl</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-10-03</dataInizio>
+                <dataUltimazione>2016-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4917.69</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD41A85072</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>00580550986</codiceFiscaleProp>
+                <denominazione>Comune di Rudiano</denominazione>
+            </strutturaProponente>
+            <oggetto>SERVIZIO DI ASSISTENZA SOCIALE, SEGRETARIATO SOCIALE E TUTELA MINORI DEL COMUNE DI RUDIANO E COMEZZANO-CIZZAGO - ANNO 2016 (SEMESTRE 01.08.2016 - 31.01.2017)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03278120989</codiceFiscale>
+                    <ragioneSociale>CONCORDIA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03278120989</codiceFiscale>
+                    <ragioneSociale>CONCORDIA SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>19350.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-08-01</dataInizio>
+                <dataUltimazione>2016-01-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7058.76</importoSommeLiquidate>
+        </lotto>
+    </data>
+</legge190:pubblicazione>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>file xml</titolo>
+    <abstract>per avcp</abstract>
+    <dataPubbicazioneDataset>2016-01-26</dataPubbicazioneDataset>
+    <entePubblicatore>Fondazione Teatro del Maggio Musicale Fiorentino</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-26</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.operadifirenze.it/code/wp-content/uploads/contratti-di-appalto2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>61533912E4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>Stampa, fornitura, distribuzione e vendita dei programmi di sala degli spettacoli della Fondazione</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento />
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>623535116B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di assistenza nella revisione della struttura organizzativa e dei processi di funzionamento della Direzione Amministrativa</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>340000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-15</dataInizio>
+        <dataUltimazione>2015-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>374000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6317041B22</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di stampa e consegna libretti di sala per gli spettacoli programmati dalla Fondazione</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03649680489</codiceFiscale>
+          <ragioneSociale>EDIZIONI POLISTAMPA FIRENZE s.n.c. di Mauro Pagliai &amp; C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>80009810484</codiceFiscale>
+          <ragioneSociale>GIUNTI EDITORE SPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06399090486</codiceFiscale>
+          <ragioneSociale>LITOGRAFIA IP SRLS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06399090486</codiceFiscale>
+          <ragioneSociale>LITOGRAFIA IP SRLS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>116000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-01</dataInizio>
+        <dataUltimazione>2016-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6346380E70</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>Procedura aperta per l'affidamento dei servizi di vigilanza notturna e diurna, di sicurezza antincendio, di anti intrusione e sorveglianza, di prevenzione e protezione, di portineria e presidio degli accessi</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>01189430885</codiceFiscale>
+            <ragioneSociale>ELISICILIA SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00864610886</codiceFiscale>
+            <ragioneSociale>ISTITUTO DI VIGILANZA LA TORRE SRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>00864080247</codiceFiscale>
+            <ragioneSociale>RANGERS SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02146310970</codiceFiscale>
+            <ragioneSociale>TECNICA VIGILANZA SOC. COOP.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>03169660150</codiceFiscale>
+          <ragioneSociale>I.V.R.I. ISTITUTI DI VIGILANZA RIUNITI D'ITALIA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03003290131</codiceFiscale>
+          <ragioneSociale>Sicuritalia Group Service S.c.p.a.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03169660150</codiceFiscale>
+          <ragioneSociale>I.V.R.I. ISTITUTI DI VIGILANZA RIUNITI D'ITALIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1130340.51</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-11-01</dataInizio>
+        <dataUltimazione>2022-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6470632671</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00427750484</codiceFiscaleProp>
+        <denominazione>Fondazione Teatro del Maggio Musicale Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>attività di supporto nella gestione del progetto di budget aziendale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09683280151</codiceFiscale>
+          <ragioneSociale>Bain &amp; Company Italia Inc.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>319000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-05</dataInizio>
+        <dataUltimazione>2016-04-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Dataset appalti 2015 L.190</titolo>
+        <abstract>Pubblicazione relativa all'anno 2015</abstract>
+        <dataPubblicazioneIndice>2016-02-24</dataPubblicazioneIndice>
+        <entePubblicatore>Università degli Studi di Genova</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-02-24</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>https://unige.it/dati/appalti-2015-L190.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+                <dataset id="ID_1"> 
+            <linkDataset>https://unige.it/dati/lotti-2015-ugov1.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-24</dataUltimoAggiornamento>
+        </dataset> 
+                    <dataset id="ID_2"> 
+            <linkDataset>https://unige.it/dati/lotti-2015-ugov2.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-24</dataUltimoAggiornamento>
+        </dataset> 
+                </indice>
+</indici>

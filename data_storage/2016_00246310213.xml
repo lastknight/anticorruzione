@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Fortezza</abstract>
+   <dataPubblicazioneIndice>2016-03-09</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Fortezza</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-03-09</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21032/21032indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_AB94E802-9CBC-4701-A7DF-FE6B84241B59'>
+      <linkDataset>http://data.gvcc.net/avcp/21032/AB94E802-9CBC-4701-A7DF-FE6B84241B59.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_5B91826D-F746-4DA5-B1EC-CBD0864BB502'>
+      <linkDataset>http://data.gvcc.net/avcp/21032/5B91826D-F746-4DA5-B1EC-CBD0864BB502.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_758B7377-52D3-4E05-A931-6B5A90C6227F'>
+      <linkDataset>http://data.gvcc.net/avcp/21032/758B7377-52D3-4E05-A931-6B5A90C6227F.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

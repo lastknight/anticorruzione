@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione</titolo>
+		<abstract>Pubblicazione del 2017-01-28 07:18:02</abstract>
+		<dataPubblicazioneIndice>2017-01-28</dataPubblicazioneIndice>
+		<entePubblicatore>IIS PETRUCCI FERRARIS MARESCA</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-01-28</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.iispetrucciferrarismaresca.it/AmministrazioneTrasparente/Bandi/indice.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset>http://www.iispetrucciferrarismaresca.it/AmministrazioneTrasparente/Bandi/avcp-2012.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_2'>
+			<linkDataset>http://www.iispetrucciferrarismaresca.it/AmministrazioneTrasparente/Bandi/avcp-2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_3'>
+			<linkDataset>http://www.iispetrucciferrarismaresca.it/AmministrazioneTrasparente/Bandi/avcp-2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_4'>
+			<linkDataset>http://www.iispetrucciferrarismaresca.it/AmministrazioneTrasparente/Bandi/avcp-2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_5'>
+			<linkDataset>http://www.iispetrucciferrarismaresca.it/AmministrazioneTrasparente/Bandi/avcp-2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+		</dataset>
+</indice>
+</indici>

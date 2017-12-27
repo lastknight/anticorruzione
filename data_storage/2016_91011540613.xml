@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>Legge 190 del 2012 (art.1 c. 32 e 34)</titolo>
+    <abstract>XML GARE 2015</abstract>
+    <dataPubbicazioneDataset>2016-01-07</dataPubbicazioneDataset>
+    <entePubblicatore>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-07</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.icfalcone.gov.it/avcp/avcp2015.xml/gare2015.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>20353284EE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura 2272/2014 decoro scuola</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04145360378</codiceFiscale>
+          <ragioneSociale>CICLAT SOC.COOP</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02906410614</codiceFiscale>
+          <ragioneSociale>TERMOTETTI COSTRUZIONE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04145360378</codiceFiscale>
+          <ragioneSociale>CICLAT SOC.COOP</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>02906410614</codiceFiscale>
+          <ragioneSociale>TERMOTETTI COSTRUZIONE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>34115.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-11</dataInizio>
+        <dataUltimazione>2015-03-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>34115.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6068540D9E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURA I SAL</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>161429.15</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-24</dataInizio>
+        <dataUltimazione>2015-12-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>161429.15</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>606855385A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura 3/PA</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01486610627</codiceFiscale>
+          <ragioneSociale>SISTRI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01486610627</codiceFiscale>
+          <ragioneSociale>SISTRI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>170207.01</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-30</dataInizio>
+        <dataUltimazione>2015-12-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>170207.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z04116FC62</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.5/2015 RIP.PC</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03048700615</codiceFiscale>
+          <ragioneSociale>INFOSCUOLE DI ANIELLO CANZANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03048700615</codiceFiscale>
+          <ragioneSociale>INFOSCUOLE DI ANIELLO CANZANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2687.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-30</dataInizio>
+        <dataUltimazione>2015-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2687.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0A0E661E4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURE 4 E 5 CNPA PROG. ES/COORD.SIC.</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRRRTR63A15L086Y</codiceFiscale>
+          <ragioneSociale>FERRIGNI ARTURO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRRRTR63A15L086Y</codiceFiscale>
+          <ragioneSociale>FERRIGNI ARTURO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12918.57</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-20</dataInizio>
+        <dataUltimazione>2015-12-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12918.57</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0AA0E661E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>DIREZIONE LAVORI</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRRRTR63A15L086Y</codiceFiscale>
+          <ragioneSociale>FERRIGNI ARTURO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRRRTR63A15L086Y</codiceFiscale>
+          <ragioneSociale>FERRIGNI ARTURO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10120.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-10</dataInizio>
+        <dataUltimazione>2015-12-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10120.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0F136B797</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>tecnico 626</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02803640610</codiceFiscale>
+          <ragioneSociale>P.I. ALESSANDRO COLAMBASSI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02803640610</codiceFiscale>
+          <ragioneSociale>P.I. ALESSANDRO COLAMBASSI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1037.05</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-09</dataInizio>
+        <dataUltimazione>2015-03-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1037.05</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1012A9B9E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.1105/1041/492 +1,30CCP LIBRI E RIVISTE CON SCISS.IVA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>322.87</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-04</dataInizio>
+        <dataUltimazione>2015-02-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>322.87</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z221344740</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT. 2 E 9 /2015 cig(9) Z4312D85C6</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02079320616</codiceFiscale>
+          <ragioneSociale>IMPERADORE VITTORIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02079320616</codiceFiscale>
+          <ragioneSociale>IMPERADORE VITTORIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>627.87</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-05</dataInizio>
+        <dataUltimazione>2015-03-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>627.87</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3514FC641</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURA  4/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03204420610</codiceFiscale>
+          <ragioneSociale>RV COMPUTERS di RICIGLIANO VITO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03204420610</codiceFiscale>
+          <ragioneSociale>RV COMPUTERS di RICIGLIANO VITO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1410.91</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-24</dataInizio>
+        <dataUltimazione>2015-06-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1410.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3F14AA333</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURA 4/2015 LIBRI</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03971140615</codiceFiscale>
+          <ragioneSociale>GRASSO SERVIZI EDITORIALI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03971140615</codiceFiscale>
+          <ragioneSociale>GRASSO SERVIZI EDITORIALI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>119.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-01</dataInizio>
+        <dataUltimazione>2015-06-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>119.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z48129858D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>PAGAMENTO FATTURA N. 1/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06431301214</codiceFiscale>
+          <ragioneSociale>SM DI MAURIZIO TORRE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06431301214</codiceFiscale>
+          <ragioneSociale>SM DI MAURIZIO TORRE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1967.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-07</dataInizio>
+        <dataUltimazione>2015-01-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1967.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F14C5FBE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>VISITA GUIDATA EXPO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02495340610</codiceFiscale>
+          <ragioneSociale>LA PORTA VIAGGI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02495340610</codiceFiscale>
+          <ragioneSociale>LA PORTA VIAGGI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2131.15</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-11</dataInizio>
+        <dataUltimazione>2015-06-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2131.15</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z52140D084</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSICURAZIONE ALUNNI</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03967470968</codiceFiscale>
+          <ragioneSociale>AMBIENTE SCUOLA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03967470968</codiceFiscale>
+          <ragioneSociale>AMBIENTE SCUOLA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2015.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-12</dataInizio>
+        <dataUltimazione>2015-05-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2015.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z541570F9E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.2/10   MAT.SPECIALISTICO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05335190657</codiceFiscale>
+          <ragioneSociale>GI.RO SCUOLA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05335190657</codiceFiscale>
+          <ragioneSociale>GI.RO SCUOLA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2296.83</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-30</dataInizio>
+        <dataUltimazione>2015-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2296.83</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5C0E6626C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>IVA E CASSA PROG.DEF./SIC.PROG.</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRRMSM75T09G596S</codiceFiscale>
+          <ragioneSociale>FERRANTE MASSIMO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRRMSM75T09G596S</codiceFiscale>
+          <ragioneSociale>FERRANTE MASSIMO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>21143.28</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-19</dataInizio>
+        <dataUltimazione>2015-12-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>21143.28</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z771298579</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.2628/2015 ASS. SOFTWARE CON SCISS.IVA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGOSOFTWARE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGOSOFTWARE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1106.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-04</dataInizio>
+        <dataUltimazione>2015-02-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1106.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8416661AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASS.RUP</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01930810617</codiceFiscale>
+          <ragioneSociale>LIGUORI ASSICURAZIONI DI LIGUORI FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01930810617</codiceFiscale>
+          <ragioneSociale>LIGUORI ASSICURAZIONI DI LIGUORI FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>793.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-28</dataInizio>
+        <dataUltimazione>2015-10-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>793.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z871666183</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASS.RUP</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01930810617</codiceFiscale>
+          <ragioneSociale>LIGUORI ASSICURAZIONI DI LIGUORI FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01930810617</codiceFiscale>
+          <ragioneSociale>LIGUORI ASSICURAZIONI DI LIGUORI FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>793.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-28</dataInizio>
+        <dataUltimazione>2015-10-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>793.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8B139C035</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.2/2015 MAT. INFORMATICO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03048700615</codiceFiscale>
+          <ragioneSociale>INFOSCUOLE DI ANIELLO CANZANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03048700615</codiceFiscale>
+          <ragioneSociale>INFOSCUOLE DI ANIELLO CANZANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2015.57</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-17</dataInizio>
+        <dataUltimazione>2015-03-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2015.57</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>z8e1776f77</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>targa</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03133980619</codiceFiscale>
+          <ragioneSociale>LEGGIERO MARCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03133980619</codiceFiscale>
+          <ragioneSociale>LEGGIERO MARCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>671.86</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-09</dataInizio>
+        <dataUltimazione>2015-12-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>671.86</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9114F9A6B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.1/2015 MAT PULIZIA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03195650613</codiceFiscale>
+          <ragioneSociale>ALTIERI LOREDANA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03195650613</codiceFiscale>
+          <ragioneSociale>ALTIERI LOREDANA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>873.32</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-27</dataInizio>
+        <dataUltimazione>2015-06-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>873.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C13BE3F8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.1/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03204420610</codiceFiscale>
+          <ragioneSociale>RV COMPUTERS di RICIGLIANO VITO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03204420610</codiceFiscale>
+          <ragioneSociale>RV COMPUTERS di RICIGLIANO VITO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>335.93</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-21</dataInizio>
+        <dataUltimazione>2015-04-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>335.93</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA610D33CF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURA 1/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03118210610</codiceFiscale>
+          <ragioneSociale>GLOBAL SERVICE SaS di GAUDELLI LUIGI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03118210610</codiceFiscale>
+          <ragioneSociale>GLOBAL SERVICE SaS di GAUDELLI LUIGI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1612.48</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-29</dataInizio>
+        <dataUltimazione>2015-06-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1612.48</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBE14C603F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURA 24/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00485150205</codiceFiscale>
+          <ragioneSociale>AGRITURISMO CA' DEL GAL DI VENTURELLI ADRIANO E CARLETTI ANGELA S.S.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00485150205</codiceFiscale>
+          <ragioneSociale>AGRITURISMO CA' DEL GAL DI VENTURELLI ADRIANO E CARLETTI ANGELA S.S.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>707.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-11</dataInizio>
+        <dataUltimazione>2015-06-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>707.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD2070FD86</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SPESE POSTALI OO/NOV 2014 +1,30CCP</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE EPI -AREA AF</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE EPI -AREA AF</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>869.83</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-20</dataInizio>
+        <dataUltimazione>2015-12-03</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>869.83</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>zdd1776f30</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>targa</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03133980619</codiceFiscale>
+          <ragioneSociale>LEGGIERO MARCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03133980619</codiceFiscale>
+          <ragioneSociale>LEGGIERO MARCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>671.86</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-09</dataInizio>
+        <dataUltimazione>2015-12-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>671.86</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE2145C7C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT. 2/PA DEL 2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03204420610</codiceFiscale>
+          <ragioneSociale>RV COMPUTERS di RICIGLIANO VITO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03204420610</codiceFiscale>
+          <ragioneSociale>RV COMPUTERS di RICIGLIANO VITO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>806.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-11</dataInizio>
+        <dataUltimazione>2015-05-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>806.24</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE617640B0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>mat.pulizia</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03195650613</codiceFiscale>
+          <ragioneSociale>ALTIERI LOREDANA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03195650613</codiceFiscale>
+          <ragioneSociale>ALTIERI LOREDANA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>711.11</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-10</dataInizio>
+        <dataUltimazione>2015-12-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>711.11</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE9158B433</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTURA 2/2015 MAT.PULIZIA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03195650613</codiceFiscale>
+          <ragioneSociale>ALTIERI LOREDANA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03195650613</codiceFiscale>
+          <ragioneSociale>ALTIERI LOREDANA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>699.93</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-30</dataInizio>
+        <dataUltimazione>2015-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>699.93</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF8165F7AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>TRASMISSIONE DATI FISCALI</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FNTMCR66D53G596B</codiceFiscale>
+          <ragioneSociale>MARIA CARMELA FONTANELLA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FNTMCR66D53G596B</codiceFiscale>
+          <ragioneSociale>MARIA CARMELA FONTANELLA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>937.39</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-17</dataInizio>
+        <dataUltimazione>2015-10-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>937.39</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>20359284EE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>LAVORI DECORO SCUOLA FATT.1638,1707 e 1729/2014</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04145360378</codiceFiscale>
+          <ragioneSociale>CICLAT SOC.COOP</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04145360378</codiceFiscale>
+          <ragioneSociale>CICLAT SOC.COOP</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04145360378</codiceFiscale>
+          <ragioneSociale>CICLAT SOC.COOP</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>04145360378</codiceFiscale>
+          <ragioneSociale>CICLAT SOC.COOP</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>131722.85</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-17</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>131722.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEE1107ECF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>91011540613</codiceFiscaleProp>
+        <denominazione>ISTITUTO AUTONOMO COMPRENSIVO -  - PIEDIMONTE MATESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT. SETT/OTT/NOV</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti />
+      <aggiudicatari />
+      <importoAggiudicazione>68925.44</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-18</dataInizio>
+        <dataUltimazione>2015-12-03</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>68925.44</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

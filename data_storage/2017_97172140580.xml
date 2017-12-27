@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+   <titolo>Elenco dei procedimenti di scelta del contraente.</titolo>
+   <abstract>Procedimenti ANNO 2013 - 2014 - 2015 - 2016 - 2017</abstract>
+   <dataPubblicazioneIndice>2015-01-31</dataPubblicazioneIndice>
+   <entePubblicatore>AGENZIA REGIONALE PER LA PROTEZIONE AMBIENTALE DEL LAZIO (ARPA Lazio)</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-06-27</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2017</annoRiferimento>
+   <urlFile>http://www.arpalazio.gov.it/amministrazione/bandi/dati_anac/indice.xml</urlFile>
+   <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+  <dataset id ="ID_1">
+    <linkDataset>http://www.arpalazio.gov.it/amministrazione/bandi/dati_anac/elenco_2013.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-06-26</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_2">
+    <linkDataset>http://www.arpalazio.gov.it/amministrazione/bandi/dati_anac/elenco_2014.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-06-26</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_3">
+    <linkDataset>http://www.arpalazio.gov.it/amministrazione/bandi/dati_anac/elenco_2015.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-06-26</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_4">
+    <linkDataset>http://www.arpalazio.gov.it/amministrazione/bandi/dati_anac/elenco_2017.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-06-27</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_5">
+    <linkDataset>http://www.arpalazio.gov.it/amministrazione/bandi/dati_anac/elenco_2016.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-06-26</dataUltimoAggiornamento>
+  </dataset>
+  </indice>
+  </indici>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2017-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Sanitaservice srl</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2017-01-30</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2016</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/85/datasets/dataset_2016.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z311C458AF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>03600140713</codiceFiscaleProp>
+					<denominazione>Sanitaservice srl</denominazione>
+			</strutturaProponente>
+			<oggetto>MOBILI DA UFFICIO</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FNTMHL58S15E716I</codiceFiscale>
+					<ragioneSociale>FONTANELLA MICHELE</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03393760719</codiceFiscale>
+					<ragioneSociale>L &amp; G SOLUTION SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>DNPLGU62R70E885Q</codiceFiscale>
+					<ragioneSociale>OMNIARREDO DI LUIGIA DI NAPOLI</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03133720718</codiceFiscale>
+					<ragioneSociale>PLANET SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03932470713</codiceFiscale>
+					<ragioneSociale>SOLUZIONI IT SOC.COOP.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DNPLGU62R70E885Q</codiceFiscale>
+					<ragioneSociale>OMNIARREDO DI LUIGIA DI NAPOLI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-11-15</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6870269554</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>03600140713</codiceFiscaleProp>
+					<denominazione>Sanitaservice srl</denominazione>
+			</strutturaProponente>
+			<oggetto>DIVISE DA LAVORO PER AUSILIARI E MANUTENTORI (P.N. PREVIA INDAGINE DI MERCATO)</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03592490712</codiceFiscale>
+					<ragioneSociale>CASPARRINI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06004171002</codiceFiscale>
+					<ragioneSociale>ERBASAN SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>06767051219</codiceFiscale>
+					<ragioneSociale>EUROFOR SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02487840239</codiceFiscale>
+					<ragioneSociale>MONDIALTEX SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03762960718</codiceFiscale>
+					<ragioneSociale>TVB SOC.COOP. A R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06004171002</codiceFiscale>
+					<ragioneSociale>ERBASAN SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>74995.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-12-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

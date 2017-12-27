@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Adempimenti art. 32 L. 190/2012</titolo>
+		<abstract>Pubblicazione art. 32 L. 190/2012 - annualità 2016</abstract>
+		<dataPubblicazioneIndice>2017-01-23+01:00</dataPubblicazioneIndice>
+		<entePubblicatore>Agenzia di Promozione Economica della Toscana</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-01-23+01:00</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.toscanapromozione.it/05065320482/2016/indice_dataset.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000093.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000094.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000095.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000096.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_5">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000097.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_6">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000098.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_7">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000099.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_8">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000100.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_9">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000101.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_10">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000102.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_11">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000103.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_12">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000104.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_13">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000105.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_14">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000106.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_15">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000107.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_16">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000108.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_17">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000109.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_18">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000110.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_19">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000111.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_20">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000112.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_21">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000113.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_22">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000114.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_23">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000115.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_24">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000116.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_25">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000117.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_26">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000118.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_27">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000119.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_28">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000120.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_29">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000121.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_30">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000122.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_31">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000123.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_32">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000124.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_33">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000125.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_34">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000126.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_35">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000127.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_36">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000128.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_37">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000129.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_38">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000130.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_39">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000131.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_40">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000132.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_41">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000133.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_42">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000134.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_43">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000135.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_44">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000136.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_45">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000137.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_46">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000138.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_47">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000139.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_48">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000140.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_49">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000141.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_50">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000142.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_51">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000143.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_52">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000144.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_53">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000145.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_54">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000146.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_55">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000147.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_56">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000148.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_57">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000149.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_58">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000150.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_59">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000151.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_60">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000152.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_61">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000153.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_62">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000154.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_63">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000155.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_64">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000156.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_65">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000157.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_66">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000158.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_67">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000159.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_68">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000160.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_69">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000161.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_70">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000162.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_71">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000163.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_72">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000164.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_73">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000165.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_74">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000166.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_75">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000167.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_76">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000168.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_77">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000169.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_78">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000170.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_79">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000171.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_80">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000172.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_81">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000173.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_82">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000174.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_83">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000175.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_84">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000176.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_85">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000177.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_86">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000178.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_87">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000179.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_88">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000180.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_89">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000181.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_90">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000182.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_91">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000183.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_92">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000184.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_93">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000185.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_94">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000186.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_95">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000187.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_96">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000188.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_97">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000189.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_98">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000190.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_99">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000191.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_100">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000192.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_101">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000193.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_102">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000194.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_103">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000195.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_104">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000196.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_105">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000197.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_106">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000198.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_107">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000199.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_108">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000200.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_109">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000201.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_110">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000202.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_111">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000203.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_112">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000204.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_113">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000205.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_114">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000206.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_115">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000207.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_116">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000208.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_117">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000209.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_118">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000210.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_119">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000211.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_120">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000212.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_121">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000213.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_122">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000214.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_123">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000215.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_124">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000216.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_125">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/0000000217.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_126">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6052653742.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_127">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6130347A5F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_128">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/61936200EA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_129">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6224784641.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_130">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6237527A1B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_131">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/62395428F0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_132">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6270857AE4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_133">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/63047078CC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_134">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6317339110.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_135">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6516651E83.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_136">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6535790088.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_137">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/65760518F3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_138">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6579138C6B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_139">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6667898B7D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_140">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/66679083C0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_141">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6730301415.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_142">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6734367F70.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_143">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6734535A15.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_144">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/674197234C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_145">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6756776BEF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_146">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/67600276C0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_147">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6844296BB9.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_148">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6877713450.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_149">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6879162012.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_150">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/6899491815.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_151">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z011821E3A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_152">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0317FC0D6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_153">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z031A61E31.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_154">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z031AB0FFA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_155">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z041A997BF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_156">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z041AB4E04.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_157">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z041B6B0F3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_158">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z051B4883C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_159">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z051B51B4E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_160">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0617A5C2A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_161">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z071882429.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_162">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z071A01417.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_163">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z071B18B07.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_164">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z071B578FD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_165">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0816F8BDC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_166">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z081804A78.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_167">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0818B4579.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_168">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0A1ABFC32.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_169">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0B1B98767.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_170">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0C18848CE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_171">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0F19A6545.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_172">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0F1B4A276.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_173">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z0F1CACF60.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_174">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z101AF52D2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_175">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z101BBDED6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_176">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1218223CA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_177">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z131C3DCE7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_178">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z141855319.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_179">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z151BB8405.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_180">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z171A3E9EE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_181">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z171C6C337.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_182">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z19151ABE2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_183">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z191AFD1C4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_184">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z191BF15EA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_185">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1A1B1A9A4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_186">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1C1BA8FCF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_187">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1D1AF5A3F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_188">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1E1A3AD11.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_189">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1E1AF5989.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_190">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z1F1BB1CD3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_191">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2019FB0F0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_192">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z22180ED5F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_193">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z241A18D8B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_194">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z241B01E44.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_195">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z251A86CC6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_196">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2619FB870.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_197">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z271C913CF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_198">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z281894C55.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_199">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z281A58568.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_200">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2917343F7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_201">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z29173AFD1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_202">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z29192EB8A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_203">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2A1981967.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_204">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2B19232C5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_205">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2C17A2C8F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_206">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2C1AB27C6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_207">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2C1C8D27C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_208">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2C1CE72CB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_209">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2D19892CF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_210">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2F1B50E1D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_211">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z2F1C80E38.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_212">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3015AD57B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_213">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3018A4E64.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_214">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3019F8244.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_215">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3118889AF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_216">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z321A503BD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_217">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z34192FF2C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_218">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z34195F513.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_219">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z35155C89C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_220">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z351A9963F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_221">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z361B08720.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_222">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z361CB0507.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_223">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3817A0A89.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_224">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3819ECC18.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_225">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z391B3EF92.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_226">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3A1B7868A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_227">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3B1B01E95.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_228">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3C18C1C7C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_229">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3D19EE8E5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_230">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3D1A985C6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_231">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3D1BAE81F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_232">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z3F1AA4581.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_233">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z411A98FA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_234">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z431735C9F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_235">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z431B01BD6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_236">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z441B9B624.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_237">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4518D1211.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_238">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z451B39D81.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_239">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z451BC2DD5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_240">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z451C3E675.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_241">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z461B01E9B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_242">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4717805F3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_243">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4813F3010.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_244">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z481842858.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_245">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z481851F6C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_246">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z481C74BF6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_247">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4917B1BC4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_248">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4918EC679.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_249">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z49193FFD5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_250">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z491AB151E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_251">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4A16F8A0A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_252">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4A1879D44.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_253">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4A1A4EDC6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_254">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4A1AFA90C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_255">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4B173AD37.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_256">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4B19355C5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_257">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4B1C3D186.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_258">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4C1A4D8BE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_259">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4D19EE753.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_260">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4E1917044.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_261">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4E1AA789C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_262">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z4F19EE9D3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_263">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z501A49821.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_264">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z501B18631.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_265">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z501BFCA70.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_266">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5118D1357.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_267">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z51194CA01.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_268">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z511B20AD3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_269">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5218BFC2D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_270">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z521A90326.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_271">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z521ACEF26.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_272">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z53173C5EC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_273">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z54160D1DA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_274">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z541C3FD21.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_275">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z551B29430.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_276">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z551C861FF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_277">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z56196B3AO.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_278">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z56196BEAO.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_279">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5718A4F19.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_280">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z571B75D55.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_281">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z581AB669E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_282">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z581AF5880.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_283">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z591A1AC7F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_284">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5A19B4958.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_285">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5A1A761AA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_286">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5A1B965CA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_287">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5C18941D6.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_288">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5C18C1C49.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_289">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5E1AE71BF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_290">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z5F1AACC9C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_291">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z601884ADB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_292">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z601AA7D76.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_293">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6118A2998.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_294">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6212E7971.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_295">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6212F9CA4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_296">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z621B3998E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_297">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z63170423E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_298">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z631983874.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_299">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6518A59BC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_300">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6519FSB4B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_301">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z651AB0136.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_302">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z651C02D3E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_303">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z67185E5FD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_304">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z67197AA62.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_305">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6719AEACD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_306">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z681928000.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_307">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z691A82CBE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_308">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z691AB14EB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_309">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z691BB1F1F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_310">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z691BBF1EC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_311">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6A12D2B4C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_312">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6A1905E6B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_313">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6A192226A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_314">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6A1BEFEA5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_315">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6C176A817.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_316">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6D181E9F5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_317">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6D1B50F23.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_318">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z6F15163F5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_319">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z70197EB8F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_320">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7116F8DB0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_321">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z711AB122C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_322">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z711B19302.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_323">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z72192287E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_324">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z731A42BE8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_325">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z731AB08E8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_326">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z751C6138E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_327">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7718DE0B2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_328">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7719F6366.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_329">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z771A26BEE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_330">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z78178AB21.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_331">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7818FE998.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_332">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z79196B72D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_333">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z791B01EA0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_334">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z791C1E9E2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_335">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7A1B01DEA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_336">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7B17ED96F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_337">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7B1C60B5E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_338">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7C1926CE1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_339">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7C1B21088.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_340">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7C1BAB37D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_341">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7C1C42F21.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_342">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7D1B2011D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_343">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7E191D863.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_344">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7E1AC76A5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_345">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z7F15A1508.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_346">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z801A72746.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_347">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z801AE1BCE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_348">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z81196C41E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_349">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z811AD540F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_350">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8218DA3EE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_351">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z821A57090.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_352">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z821A655FE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_353">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z841ADC0B8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_354">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8518E9203.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_355">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z86187A889.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_356">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z86198276A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_357">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z861BA0C90.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_358">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z871A9DD5F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_359">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z871B23EA3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_360">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z871B3E14C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_361">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z891AB11C7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_362">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8A15537DC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_363">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8A1A3ADBE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_364">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8B14ADFE2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_365">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8B1B1E38D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_366">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8B1B9D410.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_367">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8C1A3AD4D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_368">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8C1B51C65.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_369">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8D17B07DB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_370">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8D1863CB5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_371">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8D1C5E02D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_372">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8D1C8B2C8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_373">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8E166A70D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_374">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8E1745C26.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_375">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8E1902769.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_376">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8E19E2124.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_377">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8E1B9B193.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_378">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z8F1BEB351.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_379">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9018AA21D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_380">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z921A3B1DC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_381">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z921BE860B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_382">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z931AE1A10.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_383">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z951BA2146.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_384">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z971BA58B8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_385">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z971C6C657.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_386">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z981734F41.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_387">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z98173E253.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_388">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z981882406.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_389">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9819167C7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_390">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z99176D58E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_391">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9A141E6C4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_392">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9A18C1090.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_393">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9A1A3C6A5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_394">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9A1C184F7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_395">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9B1A62ABA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_396">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9B1AA002D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_397">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9B1AF59E4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_398">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9B1B50ECA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_399">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9B1C08F23.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_400">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9B1C85969.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_401">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9C159E205.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_402">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9C173AF70.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_403">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9D19F5521.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_404">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9E1962250.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_405">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9F14CA45E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_406">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/Z9F185534E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_407">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA019944E0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_408">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA01A42E3B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_409">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA01C6C1E7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_410">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA11CA0E5B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_411">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA21AA7E95.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_412">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA21B51A7B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_413">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA31B1C2CD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_414">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA51A42BA8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_415">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA6173AF31.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_416">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA6194D71C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_417">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA71B01E47.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_418">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA71BA147A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_419">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA816B38E5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_420">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA8199FE61.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_421">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA91B9B102.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_422">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZA91C89FDB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_423">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAB18B3B7B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_424">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAB19A78C4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_425">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAC173ACE3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_426">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAC1ABCAB7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_427">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAD1A96922.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_428">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAD1C17B61.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_429">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAE1748135.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_430">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAF16CD88A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_431">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAF173AEAD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_432">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAF19EA884.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_433">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAF1C0065C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_434">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAF1C04712.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_435">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZAF1C863B4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_436">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB01B29339.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_437">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB11A5BBFB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_438">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB2186A3D3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_439">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB317A1232.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_440">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB31AA2023.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_441">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB31AB0787.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_442">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB31B29408.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_443">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB419F857D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_444">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB41A3746E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_445">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB41A4BBE8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_446">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB41C31EF2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_447">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB516C87CC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_448">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB81745CAF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_449">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB81890F23.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_450">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB819E6E27.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_451">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZB81CC2DDA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_452">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBA1B330D5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_453">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBB1B2518E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_454">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBC13C4BB3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_455">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBC18B5E75.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_456">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBC1B73FB0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_457">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBD1551E63.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_458">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBD18EB5B2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_459">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBD19AEE5F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_460">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBD1C95F89.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_461">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBE17F9131.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_462">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBE18614F8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_463">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZBF172CE8A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_464">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC01AA0A26.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_465">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC11798BB9.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_466">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC11A9E529.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_467">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC11AA7D22.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_468">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC2197F9D1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_469">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC21BE5827.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_470">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC21C3C86B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_471">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC31B4C831.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_472">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC51C0C599.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_473">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC51C3E89A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_474">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC619932AF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_475">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC61CA0B95.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_476">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC71CA8F3C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_477">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC71CE7364.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_478">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC81894283.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_479">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZC91B3BC2E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_480">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCA19B8106.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_481">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCA1BA9587.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_482">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCB1A3206D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_483">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCB1AA0C22.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_484">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCC179FD7B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_485">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCC18996EE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_486">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCC1A55B54.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_487">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCD1B368F0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_488">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZCF1B34A1A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_489">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD01AB153A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_490">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD1196535B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_491">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD11B40BCB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_492">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD217FB209.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_493">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD21B05FCB.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_494">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD41AD6F55.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_495">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD5194F668.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_496">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD71A66CE7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_497">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD81AA815F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_498">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD81C0727A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_499">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZD91A5C1DC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_500">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDA14DCAB9.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_501">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDA18DB0DD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_502">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDB1C3FE38.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_503">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDC1A58AC8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_504">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDC1A84CB8.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_505">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDC1AABC4C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_506">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDD17C7495.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_507">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDD1A3C322.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_508">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDD1AA1ACA.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_509">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDF16FDA66.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_510">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDF1A60626.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_511">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDF1A6277C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_512">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZDF1B77B20.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_513">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE019CE10F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_514">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE01A79382.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_515">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE01B34DB4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_516">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE01B6148B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_517">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE01C40F41.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_518">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE01CC2601.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_519">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE1185C338.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_520">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE11A6437A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_521">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE217D70EE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_522">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE21B31C3D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_523">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE21BABF4B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_524">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE31305471.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_525">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE316219A2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_526">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE31A27669.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_527">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE31A8BF5C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_528">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE41B31DC2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_529">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE514686CC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_530">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE51ADCC28.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_531">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE51C3E380.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_532">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE6173C944.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_533">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE619BC84D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_534">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE61A9D4A9.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_535">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE61B7D05A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_536">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE71A651D7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_537">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE81AD2B30.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_538">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE91AFB778.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_539">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZE91BAB956.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_540">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEB16B82D7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_541">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEB1C2B23B.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_542">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEC1B293B5.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_543">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZED18E58BE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_544">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZED19F5B01.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_545">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZED1AFCA32.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_546">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEE16FEA35.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_547">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEE173AE02.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_548">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEE1A3A952.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_549">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZEE1A5A243.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_550">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF018EFB54.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_551">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF019947CF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_552">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF11AA7D53.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_553">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF11BFF0EE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_554">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF312ABF4F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_555">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF4156A3C0.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_556">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF418E3173.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_557">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF6131003E.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_558">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF6196390D.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_559">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF6198F616.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_560">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF61A96C24.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_561">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF61A9F277.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_562">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF61AB14AF.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_563">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF61B47BBC.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_564">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF61C7A40A.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_565">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF71A8E80C.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_566">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF71B20B72.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_567">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF71B83FCE.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_568">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF91882A8F.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_569">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF919E43DD.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_570">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF91B8DD38.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_571">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZF91C0E448.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_572">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZFA1850AC4.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_573">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZFA1972862.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_574">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZFA19E19F9.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_575">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZFA1A3AD89.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_576">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZFA1B01837.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_577">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/ZFA1B01E19.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_578">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z011c895df.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_579">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z2917635f2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_580">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z4b1a2fafc.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_581">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z4e1b5af6c.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_582">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z4f1c18848.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_583">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z5014204d3.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_584">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/z751914bb7.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_585">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/za61746399.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_586">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zb419228A2.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_587">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zb51763571.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_588">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zbe17c7412.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_589">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zc11a8e156.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_590">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zce1aa070f.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_591">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zec1b04d4f.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_592">
+			<linkDataset>http://www.toscanapromozione.it/05065320482/2016/zf219f361d.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-23+01:00</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

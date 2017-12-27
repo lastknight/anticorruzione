@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Velturno</abstract>
+   <dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Velturno</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21116/21116indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_E13A2F6E-2150-4070-9A2E-86D1BC30F546'>
+      <linkDataset>http://data.gvcc.net/avcp/21116/E13A2F6E-2150-4070-9A2E-86D1BC30F546.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_9FD70852-3464-4005-A302-5104200B36D5'>
+      <linkDataset>http://data.gvcc.net/avcp/21116/9FD70852-3464-4005-A302-5104200B36D5.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

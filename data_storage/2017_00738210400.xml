@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n 1</titolo>
+		<abstract>Pubblicazione relativa all'anno 2012-2013-2014-2015</abstract>
+		<dataPubblicazioneIndice>2017-02-02</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Mercato Saraceno</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-02</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://servizi.unionevallesavio.it/avcp2016/mercatosaraceno/avcp_indice2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://servizi.unionevallesavio.it/avcp2016/mercatosaraceno/avcp_dataset_2016_2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://servizi.unionevallesavio.it/avcp2016/mercatosaraceno/avcp_dataset_2016_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://servizi.unionevallesavio.it/avcp2016/mercatosaraceno/avcp_dataset_2016_2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://servizi.unionevallesavio.it/avcp2016/mercatosaraceno/avcp_dataset_2016_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-02</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

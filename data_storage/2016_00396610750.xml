@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+    <dataPubbicazioneDataset>2016-01-20</dataPubbicazioneDataset>
+    <entePubblicatore>SOCIETA' TRASPORTI PUBBLICI DI TERRA D'OTREANTO SPA</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-20</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.stplecce.it/stp/sites/default/files/2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>631428372A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00396610750</codiceFiscaleProp>
+        <denominazione>SOCIETA' TRASPORTI PUBBLICI DI TERRA'OTRANTO SPA</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA VESTIARIO</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02157850757</codiceFiscale>
+          <ragioneSociale>HOMMES SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02157850757</codiceFiscale>
+          <ragioneSociale>HOMMES SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>81591</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6532843097</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00396610750</codiceFiscaleProp>
+        <denominazione>SOCIETA' TRASPORTI PUBBLICI DI TERRA D'OTRANTO SPA</denominazione>
+      </strutturaProponente>
+      <oggetto>COPERTURA ASSICURATIVA RCA - INC. - FURTO - A.V.</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03178580407</codiceFiscale>
+          <ragioneSociale>UNIPOL SAI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03178580407</codiceFiscale>
+          <ragioneSociale>UNIPOL SAI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>299434</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

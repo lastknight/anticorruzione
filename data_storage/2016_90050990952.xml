@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Adempimenti legge 109/2012</titolo>
+    <abstract>Gare relative ANNO 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-12</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO ISTRUZIONE SUPERIORE - "DE CASTRO" - ORISTANO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-12</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SG28174/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28174/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-12</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201580004150951">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28174/2015/gare201580004150951.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-12</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

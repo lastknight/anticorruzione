@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:pubblicazione xmlns:ns2="legge190_1_0">
+    <metadata>
+        <titolo>Pubblicazione legge 190</titolo>
+        <abstract>Anno rif. 2015</abstract>
+        <dataPubbicazioneDataset>2016-01-26</dataPubbicazioneDataset>
+        <entePubblicatore>UNIONE DEI COMUNI VALMERULA E MONTAROSIO</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2016-01-26</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://images.comune.andora.sv.it/f/TrasparenzaUnione/Appalti/01/01690750094_2015.xml</urlFile>
+        <licenza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">IODL</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>ZA617D811D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01690750094</codiceFiscaleProp>
+                <denominazione>UNIONE DEI COMUNI VALMERULA E MONTAROSIO</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio Hosting in modalitÃ  &quot;cloud&quot;</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00977740083</codiceFiscale>
+                    <ragioneSociale>C&amp;C Sistemi</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>420.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-01</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4617D81B6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>01690750094</codiceFiscaleProp>
+                <denominazione>UNIONE DEI COMUNI VALMERULA E MONTAROSIO</denominazione>
+            </strutturaProponente>
+            <oggetto>AttivitÃ  di supporto al nuovo servizio finanziario dell'unione e organizzazione del servizio in vista del passaggio di funzioni all'unione nel 2016</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01555210093</codiceFiscale>
+                    <ragioneSociale>SERVIZIPA S.A.S. DI SIMONINI STEFANIA  &amp;  C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1800.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2015-12-01</dataInizio>
+                <dataUltimazione>2015-12-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+    </data>
+</ns2:pubblicazione>

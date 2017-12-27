@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di San Pancrazio</abstract>
+   <dataPubblicazioneIndice>2017-01-27</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di San Pancrazio</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-27</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21084/21084indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_0BC781B7-6762-4E05-9FD4-3F81643E420C'>
+      <linkDataset>http://data.gvcc.net/avcp/21084/0BC781B7-6762-4E05-9FD4-3F81643E420C.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_C29D6E19-AC38-4D4B-B913-9D0F10DA1EB1'>
+      <linkDataset>http://data.gvcc.net/avcp/21084/C29D6E19-AC38-4D4B-B913-9D0F10DA1EB1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

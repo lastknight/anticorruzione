@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190/2012</titolo>
+    <abstract>Procedure di scelta avviate nel 2016 e in anni precedenti ma modificate nel 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+    <entePubblicatore>I.I.S.S. - "I. ALPI - E. MONTALE" - RUTIGLIANO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-15</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.liceoalpirutigliano.gov.it/images/avcp/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://www.liceoalpirutigliano.gov.it/images/avcp/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201693344870725">
+      <linkDataset>http://www.liceoalpirutigliano.gov.it/images/avcp/gare201693344870725.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

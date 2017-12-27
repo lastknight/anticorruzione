@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Amministrazione separata dei beni di uso civico Comune di Castelrotto</abstract>
+   <dataPubblicazioneIndice>2016-02-03</dataPubblicazioneIndice>
+   <entePubblicatore>Amministrazione separata dei beni di uso civico Comune di Castelrotto</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-03</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21560/21560indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_EB856D89-675D-4FE4-8677-C01818008231'>
+      <linkDataset>http://data.gvcc.net/avcp/21560/EB856D89-675D-4FE4-8677-C01818008231.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_CF02FE72-7F9D-4681-A129-40C5E1DC64FE'>
+      <linkDataset>http://data.gvcc.net/avcp/21560/CF02FE72-7F9D-4681-A129-40C5E1DC64FE.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-02</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

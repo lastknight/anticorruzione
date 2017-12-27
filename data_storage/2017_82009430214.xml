@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Istituto comprensivo in lingua tedesca Naturno - Pubblicazione legge 190</titolo>
+    <abstract>Indice Istituto comprensivo in lingua tedesca Naturno - Pubblicazione legge 190 - Anni di riferimento 2012-2013-2014-2015-2016</abstract>
+    <dataPubblicazioneIndice>2017-01-19</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto comprensivo in lingua tedesca Naturno</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-19</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.schule.suedtirol.it/ssp-naturns/transparente_verwaltung/vertraege/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.schule.suedtirol.it/ssp-naturns/transparente_verwaltung/vertraege/esiti_2012_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.schule.suedtirol.it/ssp-naturns/transparente_verwaltung/vertraege/esiti_2013_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.schule.suedtirol.it/ssp-naturns/transparente_verwaltung/vertraege/esiti_2014_20150127-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.schule.suedtirol.it/ssp-naturns/transparente_verwaltung/vertraege/esiti_2015_20160204-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-04</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.schule.suedtirol.it/ssp-naturns/transparente_verwaltung/vertraege/esiti_2016_20170119-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice PUBBLICAZIONE LEGGE 190 DEL 2012</titolo>
+    <abstract>PUBBLICAZIONE LEGGE 190 DEL 2012</abstract>
+    <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO ST. PRESICCE - ACQUARICA DEL CAPO - PRESICCE</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.icpresicceacquarica.gov.it/images/avcp/contratti/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://www.icpresicceacquarica.gov.it/images/avcp/contratti/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2014">
+      <linkDataset>http://www.icpresicceacquarica.gov.it/images/avcp/contratti/gare2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.icpresicceacquarica.gov.it/images/avcp/contratti/gare2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

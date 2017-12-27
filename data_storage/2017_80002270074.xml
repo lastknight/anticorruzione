@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione art. 1 comma 32 legge 190</titolo>
+<abstract>Pubblicazione ex art. 3 e 6 Deliberazione AVCP n. 26 del 22/02/2017 anno 2016</abstract>
+<dataPubblicazioneIndice>2017-03-10</dataPubblicazioneIndice>
+<entePubblicatore>RaVdA</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-03-10</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.regione.vda.it/amministrazionetrasparente/bandigaraecontratti/XML/REGVDAAppaltiL190_2016.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.regione.vda.it/amministrazionetrasparente/bandigaraecontratti/XML/REGVDAAppaltiL190_2016_1.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-22</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.regione.vda.it/amministrazionetrasparente/bandigaraecontratti/XML/REGVDAAppaltiL190_2016_2.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-22</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

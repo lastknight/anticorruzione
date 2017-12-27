@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Dataset2016</titolo>
+    <abstract>Dataset2016</abstract>
+    <dataPubbicazioneDataset>2017-01-31</dataPubbicazioneDataset>
+    <entePubblicatore>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-01-31</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.odcecfermo.it/files/amministrazione-trasparente/Dataset2016.xml</urlFile>
+    <licenza>IODL2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZC81820086</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI TESORERIA 2015/2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00112540448</codiceFiscale>
+          <ragioneSociale>Carifermo SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00112540448</codiceFiscale>
+          <ragioneSociale>Carifermo SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>819.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-01</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>819.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE71820109</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE SITO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>DNTMRA54P21D542X</codiceFiscale>
+          <ragioneSociale>Donati Mauro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>DNTMRA54P21D542X</codiceFiscale>
+          <ragioneSociale>Donati Mauro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1102.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1102.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7B1856413</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>ANTIVIRUS</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06151910962</codiceFiscale>
+          <ragioneSociale>Nexway Italia srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06151910962</codiceFiscale>
+          <ragioneSociale>Nexway Italia srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>32.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-02-19</dataInizio>
+        <dataUltimazione>2017-02-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>32.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE7188CD5E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>CANONE ASSISTENZA SOFTWARE DI CONTABILITA'</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01606940342</codiceFiscale>
+          <ragioneSociale>ISI Sviuppo Informatico</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01606940342</codiceFiscale>
+          <ragioneSociale>ISI Sviuppo Informatico</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>995.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>995.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z93188CE42</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>CANONE ASSISTENZA SOFTWARE GESTO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10694211003</codiceFiscale>
+          <ragioneSociale>ADVANCED RESEARCH &amp; SOLUTION CONSULTING SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10694211003</codiceFiscale>
+          <ragioneSociale>ADVANCED RESEARCH &amp; SOLUTION CONSULTING SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1460.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1460.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5318D40FB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>SIGILLI PROFESSIONALI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>VTLGPP57H25G516O</codiceFiscale>
+          <ragioneSociale>Vitali Giuseppe</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>VTLGPP57H25G516O</codiceFiscale>
+          <ragioneSociale>Vitali Giuseppe</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>165.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-25</dataInizio>
+        <dataUltimazione>2016-05-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>165.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z871953F82</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>EVENTO FORMATIVO CASSA DI PREVIDENZA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>92045280440</codiceFiscale>
+          <ragioneSociale>ODCEC ASCOLI PICENO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>92045280440</codiceFiscale>
+          <ragioneSociale>ODCEC ASCOLI PICENO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-25</dataInizio>
+        <dataUltimazione>2016-01-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>350.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF0198F37D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>CANCELLERIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07491520156</codiceFiscale>
+          <ragioneSociale>Mondoffice srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07491520156</codiceFiscale>
+          <ragioneSociale>Mondoffice srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>84.01</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-21</dataInizio>
+        <dataUltimazione>2016-04-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>84.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2919E8757</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>COSTRUZIONE E ASSISTENZA NUOVO SITO INTERNET</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06457411004</codiceFiscale>
+          <ragioneSociale>WEBLOOM SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06457411004</codiceFiscale>
+          <ragioneSociale>WEBLOOM SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-17</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3600.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3F1A6F566</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ESTINTORI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01334980438</codiceFiscale>
+          <ragioneSociale>Pallottini Antincendi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01334980438</codiceFiscale>
+          <ragioneSociale>Pallottini Antincendi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>40.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDA1A6F5FF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>PULIZIA UFFICI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SCLPLT64D57F653G</codiceFiscale>
+          <ragioneSociale>Lo Specchio di Scaloni Perlita</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SCLPLT64D57F653G</codiceFiscale>
+          <ragioneSociale>Lo Specchio di Scaloni Perlita</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7E1AC178A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSICURAZIONE INCENDIO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04349061004</codiceFiscale>
+          <ragioneSociale>HDI Assicurazioni</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04349061004</codiceFiscale>
+          <ragioneSociale>HDI Assicurazioni</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>440.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-24</dataInizio>
+        <dataUltimazione>2017-07-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>440.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3D1B0C1E1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>MANIFESTI FUNEBRI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00493050447</codiceFiscale>
+          <ragioneSociale>Ferri Ferruccio &amp; c. snc</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00493050447</codiceFiscale>
+          <ragioneSociale>Ferri Ferruccio &amp; c. snc</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-09-02</dataInizio>
+        <dataUltimazione>2016-09-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z291B90057</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>NOLEGGIO AUTOBUS </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01818360438</codiceFiscale>
+          <ragioneSociale>VECTOR ONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01818360438</codiceFiscale>
+          <ragioneSociale>VECTOR ONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-22</dataInizio>
+        <dataUltimazione>2016-07-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBA1B93A0D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>CANONE ASSISTENZA SITO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06457411004</codiceFiscale>
+          <ragioneSociale>WEBLOOM SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06457411004</codiceFiscale>
+          <ragioneSociale>WEBLOOM SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>294.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>294.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3D1B93BA8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>SPESE TORNEO DI CALCIO AFOPROF</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01328650435</codiceFiscale>
+          <ragioneSociale>A.Fo.Prof:</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01328650435</codiceFiscale>
+          <ragioneSociale>A.Fo.Prof:</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>409.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-22</dataInizio>
+        <dataUltimazione>2016-07-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>409.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1E1B93C20</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>RINNOVO ANTIVIRUS PER SERVER</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01371340447</codiceFiscale>
+          <ragioneSociale>Computech snc di Vesprini M. &amp; c.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01371340447</codiceFiscale>
+          <ragioneSociale>Computech snc di Vesprini M. &amp; c.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>112.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>112.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEB1B93C79</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>CANONE UTILIZZO PORTALE DELLA FORMAZIONE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03341370272</codiceFiscale>
+          <ragioneSociale>Assoc.Dott.Comm. ed Esperti Cont. delle Tre Venezie</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03341370272</codiceFiscale>
+          <ragioneSociale>Assoc.Dott.Comm. ed Esperti Cont. delle Tre Venezie</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z301B93D0E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>ELABORAZIONE CEDOLINI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SCRLRT61T56G516P</codiceFiscale>
+          <ragioneSociale>Screpanti Alberta</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SCRLRT61T56G516P</codiceFiscale>
+          <ragioneSociale>Screpanti Alberta</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>574.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>574.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4C1C90159</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>INTRATTENIMENTO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01659200438</codiceFiscale>
+          <ragioneSociale>ASSOC. CULTURALE LA PIGNA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01659200438</codiceFiscale>
+          <ragioneSociale>ASSOC. CULTURALE LA PIGNA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-15</dataInizio>
+        <dataUltimazione>2016-12-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAB1CA2895</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFITTO SALA CONFERENZE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01866930447</codiceFiscale>
+          <ragioneSociale>Royalre srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01866930447</codiceFiscale>
+          <ragioneSociale>Royalre srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-11-03</dataInizio>
+        <dataUltimazione>2016-11-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE01CA2924</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI CASSA 2016/2017</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00112540448</codiceFiscale>
+          <ragioneSociale>Carifermo SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00112540448</codiceFiscale>
+          <ragioneSociale>Carifermo SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>819.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-01</dataInizio>
+        <dataUltimazione>2017-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>819.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5E1CA2966</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>90044710441</codiceFiscaleProp>
+        <denominazione>Ordine Dottori Commercialisti ed Esperti Contabili di Fermo</denominazione>
+      </strutturaProponente>
+      <oggetto>TESSERINI DI RICONOSCIMENTO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01393370935</codiceFiscale>
+          <ragioneSociale>CGN SERVIZi</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01393370935</codiceFiscale>
+          <ragioneSociale>CGN SERVIZi</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>181.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-07</dataInizio>
+        <dataUltimazione>2016-12-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>181.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

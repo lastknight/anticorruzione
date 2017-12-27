@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+    <titolo>Pubblicazione dati legge 190</titolo>
+    <abstract>Pubblicazione dati legge 190</abstract>
+    <dataPubbicazioneDataset>2015-01-31</dataPubbicazioneDataset>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2015-01-31</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://datil190.xml</urlFile>
+    <licenza>IODL</licenza>
+</metadata>
+<data>
+    <lotto>
+      <cig>525337997C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.N.7 DEL 27/05/2015 DIREZIONE LAVORI - ACCONTO</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GLLGFR52B10I895C</codiceFiscale>
+          <ragioneSociale>GALLUCCI GIANFRANCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GLLGFR52B10I895C</codiceFiscale>
+          <ragioneSociale>GALLUCCI GIANFRANCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3903.07</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3903.07</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5264040739</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT. N. 1 DEL 11/05/2015 PROGETTAZIONE ESECUTIVA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CLSFNC83R11I874Z</codiceFiscale>
+          <ragioneSociale>COLOSIMO FRANCESCO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>CRARRT73A21D086N</codiceFiscale>
+          <ragioneSociale>Caiaro Roberto</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>LGRNMR83S18C349Y</codiceFiscale>
+          <ragioneSociale>ALGIERI ANNAMARIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CLSFNC83R11I874Z</codiceFiscale>
+          <ragioneSociale>COLOSIMO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>CRARRT73A21D086N</codiceFiscale>
+          <ragioneSociale>Caiaro Roberto</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>LGRNMR83S18C349Y</codiceFiscale>
+          <ragioneSociale>ALGIERI ANNAMARIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1514.76</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-11-07</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1514.76</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5801732CB1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 06/2015 del 16/05/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02763820780</codiceFiscale>
+          <ragioneSociale>TRE M COSTRUZIONI SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03187690783</codiceFiscale>
+          <ragioneSociale>MAG DISTRIBUZIONE S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02763820780</codiceFiscale>
+          <ragioneSociale>TRE M COSTRUZIONI SRL</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>03187690783</codiceFiscale>
+          <ragioneSociale>MAG DISTRIBUZIONE S.R.L.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>293.68</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-14</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>293.68</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z020A68E2F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 32/2012    DEL 01/11/2012</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02816220780</codiceFiscale>
+          <ragioneSociale>ALBERGO LA TROTA PANTA REI S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02816220780</codiceFiscale>
+          <ragioneSociale>ALBERGO LA TROTA PANTA REI S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1820.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-06-17</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1820.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0218B829B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 2/PA del 29/11/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA ALT CALABRIA-INCASSI CONTI CRE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRCVCN83A24C349R</codiceFiscale>
+          <ragioneSociale>Marco Vincenzo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA ALT CALABRIA-INCASSI CONTI CRE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>MRCVCN83A24C349R</codiceFiscale>
+          <ragioneSociale>Marco Vincenzo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>142.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-07</dataInizio>
+        <dataUltimazione>2016-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>33.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0D17BB43C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSICURAZIONE 2015/2016 ALUNNI ED OPERATORI</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA ASSICURAZIONI S.N.C:</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA ASSICURAZIONI S.N.C:</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2604.26</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z160DFBE0D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 114/14-179/14- 188/14 -206/14 - 207/14- 261/14 - PON F1-FSE-2012-85</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00981230782</codiceFiscale>
+          <ragioneSociale>CERAMICA SCURO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>583.25</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>583.25</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z171230BFS</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 8714150807 DEL 27/11/2014 E N. 8714153674 DEL 02/12/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA ALT CALABRIA-INCASSI CONTI CRE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA ALT CALABRIA-INCASSI CONTI CRE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>76.66</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-12</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>76.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1B1984858</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 155/2016 del 20/04/2016 (pubblicità) B.5.2</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>648.94</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-15</dataInizio>
+        <dataUltimazione>2016-09-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>648.94</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1C16E3EFD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 450/2015 del 21/11/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>396.89</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-02</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>396.89</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z230DFRDA2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 115/14- 175/14- 176/14- 177/14- 178/14- 186/14- 187/14- 208/14-  PON C1-FSE-2013- 670</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>831.44</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>831.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z26193E6B6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 204/2016 del 22/05/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1029.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-15</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1029.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2A16E340E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 448/2015 del 18/11/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1083.15</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-02</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1083.15</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z301C829F1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>PROGRAMMI AXIOS RINNOVO 2017</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>CALIO' INFORMATICA srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>CALIO' INFORMATICA srl</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1746.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-14</dataInizio>
+        <dataUltimazione>2017-01-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>361.73</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z341OC93A9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N.46/PA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>CALIO' INFORMATICA srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>CALIO' INFORMATICA srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>409.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-31</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>409.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3709E0829</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>RESPONSABILE DELLA SICUREZZA IN FASE DI PROGETTAZIONE - IVA e CASSA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRTFMN68B63D612K</codiceFiscale>
+          <ragioneSociale>FORTE FILOMENA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>GDNVCN61M68H818A</codiceFiscale>
+          <ragioneSociale>GODINO VICENZINA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRTFMN68B63D612K</codiceFiscale>
+          <ragioneSociale>FORTE FILOMENA</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>GDNVCN61M68H818A</codiceFiscale>
+          <ragioneSociale>GODINO VICENZINA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2792.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-13</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2792.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3709E0B29</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>parcella n. 4 del 07/06/2016SICUREZZA IN FASE DI ESECUZIONE  (B.1.6)</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>GDNVCN61M68H818A</codiceFiscale>
+          <ragioneSociale>GODINO VICENZINA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>GDNVCN61M68H818A</codiceFiscale>
+          <ragioneSociale>GODINO VICENZINA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2049.72</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-14</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2049.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3909E0AB8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>parcella n. 01 del 06/06/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PLNLRD53H18L055J</codiceFiscale>
+          <ragioneSociale>POLINO LEONARDO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PLNLRD53H18L055J</codiceFiscale>
+          <ragioneSociale>POLINO LEONARDO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2221.78</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-08</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2221.78</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3B1BB7E93</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 447/2016 del 16/11/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>273.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-07</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>273.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3E1B63A42</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>canone noleggio fotocopiatrice</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>DITTA CALIO' INFORMATICA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>DITTA CALIO' INFORMATICA SRL</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>580.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-13</dataInizio>
+        <dataUltimazione>2017-01-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>580.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4814BCBC4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 8/15 EL del 28/05/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1147.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-10</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1147.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4B1A0AFAF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 352/2016 del 18/09/2016 ( PUBBLICITA')</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>17227.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-09-22</dataInizio>
+        <dataUltimazione>2016-11-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17227.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5B1067E67</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 20141026587 DEL 30/04/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04552920482</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>13336590156</codiceFiscale>
+          <ragioneSociale>UBI BANCA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04552920482</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>13336590156</codiceFiscale>
+          <ragioneSociale>UBI BANCA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>272.49</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-06</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>272.49</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5E1C87808</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto PC </oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-15</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z641C876B5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSISTENZA HARDWARE/SOFTWARE GENN/DIC 2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-15</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z660F2F32</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 113 DEL 08/03/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>DITTA  SPAGGIARI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00897590782</codiceFiscale>
+          <ragioneSociale>DITTA PERCACCIUOLO FRANCESCO S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02335850786</codiceFiscale>
+          <ragioneSociale>DE LUCA   s.r.l.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>DITTA  SPAGGIARI</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00897590782</codiceFiscale>
+          <ragioneSociale>DITTA PERCACCIUOLO FRANCESCO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>02335850786</codiceFiscale>
+          <ragioneSociale>DE LUCA   s.r.l.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-03</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6B0F02F90</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 209 DEL 30/04/2014 E N.262 DEL 26/05/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-06-19</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>400.74</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6E0EC4750</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>collaudatore </oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>GLLPQL56C02E678G</codiceFiscale>
+          <ragioneSociale>GULLUSCIO PASQUALE EUGENIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>LGRMNG56A52I895F</codiceFiscale>
+          <ragioneSociale>LIGUORI MARIANGELA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MSSRME65T11D005J</codiceFiscale>
+          <ragioneSociale>MISISCA REMO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>GLLPQL56C02E678G</codiceFiscale>
+          <ragioneSociale>GULLUSCIO PASQUALE EUGENIO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>LGRMNG56A52I895F</codiceFiscale>
+          <ragioneSociale>LIGUORI MARIANGELA</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>MSSRME65T11D005J</codiceFiscale>
+          <ragioneSociale>MISISCA REMO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3072.95</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-27</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6EOEC4750</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT. N. 151/PA DEL 07/11/2014 -PICCOLI ADATTAMENTI EDILIZI - AGENDA DIGITALE-</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>CALIO' INFORMATICA srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>CALIO' INFORMATICA srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>55180.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-21</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>41218.17</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7016E3F14</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 451/2015 del 21/11/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>paper toys di Ceci Antonio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>402.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-02</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>402.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z730BD0999</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 01148 DEL 27/11/2013 + RICHIESTA PROT. 3826 DEL 19/12/2013</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSSVCN80P25D086L</codiceFiscale>
+          <ragioneSociale>VGS DI VINCENZO RUSSO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RSSVCN80P25D086L</codiceFiscale>
+          <ragioneSociale>VGS DI VINCENZO RUSSO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>652.33</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-27</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7819622DB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 15/PA del 20/04/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00526560784</codiceFiscale>
+          <ragioneSociale>DITTA NUOVA ALFA CALABRA -  BARBERIO FRANCESCO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>DITTA CALIO' INFORMATICA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01573850516</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00526560784</codiceFiscale>
+          <ragioneSociale>DITTA NUOVA ALFA CALABRA -  BARBERIO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>DITTA CALIO' INFORMATICA SRL</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>01573850516</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1130.37</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-15</dataInizio>
+        <dataUltimazione>2016-12-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1130.37</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7D06E6854</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt. n. 70 del 27/10/2012</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z870EF906E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 08 DEL 30/04/2014 (VISITA GUIDATA rEGGIO cAL.)</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1942.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1942.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z890D03DB7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>abbonamento 2014 (AMMINISTRARE LA SCUOLA+ DIRIGERE LA SCUOLA+RASSEGNA NORMATIVA+ SCIENZA DELL'AMMINISTRAZIONE SCOLASTICA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>BRBFNC52E12A34DK</codiceFiscale>
+          <ragioneSociale>DITTA NUOVA ALFA CALABRA -  BARBERIO FRANCESCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>BRBFNC52E12A34DK</codiceFiscale>
+          <ragioneSociale>DITTA NUOVA ALFA CALABRA -  BARBERIO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>307.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-27</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8DBD07C8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>ASSICURAZIONE ALUNNI E PERSONALE A.S. 13/14</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA ASSICURAZIONI S.N.C:</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA ASSICURAZIONI S.N.C:</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3022.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-21</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z90095EC0B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>richiesta prot. 3844 del 21/12/2013</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04552920482</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04552920482</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-21</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z90095ECOB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>RICHIESTA PROT. 3416 DEL 15/11/13</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06331261005</codiceFiscale>
+          <ragioneSociale>AXIOS ITALIA SERVICE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06331261005</codiceFiscale>
+          <ragioneSociale>AXIOS ITALIA SERVICE SRL</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>137.23</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-26</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z901424523</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 7 /15 L del 07/05/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01998200784</codiceFiscale>
+          <ragioneSociale>ARGIRION VIAGGI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01998200784</codiceFiscale>
+          <ragioneSociale>ARGIRION VIAGGI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8060.93</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-29</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8060.93</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z901C103CA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. FATTPA 15_16 del 23/11/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>958.65</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-13</dataInizio>
+        <dataUltimazione>2017-01-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>958.65</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9A14CB2B5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 9 /15 L del 29/05/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01998200784</codiceFiscale>
+          <ragioneSociale>ARGIRION VIAGGI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01998200784</codiceFiscale>
+          <ragioneSociale>ARGIRION VIAGGI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4201.23</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-10</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4201.23</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9E1031B19</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 1040/14 DEL 18/07/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01301760789</codiceFiscale>
+          <ragioneSociale>DITTA NORMAUFFICIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01301760789</codiceFiscale>
+          <ragioneSociale>DITTA NORMAUFFICIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>155.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-06</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>155.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA81344135</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 8715114232 del 22/05/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA ALT CALABRIA-INCASSI CONTI CRE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA ALT CALABRIA-INCASSI CONTI CRE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-08-31</dataInizio>
+        <dataUltimazione>2016-09-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>30.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA914BDF0C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 0000334 del 03/06/2015 CORSO ATA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02386580209</codiceFiscale>
+          <ragioneSociale>AIDEM SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02386580209</codiceFiscale>
+          <ragioneSociale>AIDEM SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>89.34</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-10</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>89.34</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAA123DD57</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>abbonamento (orologio marca tempo)</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00526560784</codiceFiscale>
+          <ragioneSociale>DITTA NUOVA ALFA CALABRA -  BARBERIO FRANCESCO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00526560784</codiceFiscale>
+          <ragioneSociale>DITTA NUOVA ALFA CALABRA -  BARBERIO FRANCESCO</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>572.13</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-29</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAB1B4C3AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 371/2016 del 30/09/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>DITTA SPAGGIARI CASA EDITRICE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>DITTA SPAGGIARI CASA EDITRICE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>CCENTN83D28C349K</codiceFiscale>
+          <ragioneSociale>DITTA CECI ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1283.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-03</dataInizio>
+        <dataUltimazione>2016-12-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1283.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBA18645E5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto> fattura n. 136/2016 del 10/04/2016 PAPER TOYS DI CECI ANTONIO</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>NNNLDA57H06H962G</codiceFiscale>
+          <ragioneSociale>ALDO IANNINI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03187530781</codiceFiscale>
+          <ragioneSociale><![CDATA[PAPER & TOYS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>NNNLDA57H06H962G</codiceFiscale>
+          <ragioneSociale>ALDO IANNINI</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>RMNMNL78D23D086V</codiceFiscale>
+          <ragioneSociale>EXSPRESSIVA COMUNICAZIONI DI EMANUELE ARMENTANO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>498.85</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-05</dataInizio>
+        <dataUltimazione>2016-06-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>498.85</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF0F72916</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 14000308 DEL 12/05/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02367720782</codiceFiscale>
+          <ragioneSociale>TOP CLASS S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02367720782</codiceFiscale>
+          <ragioneSociale>TOP CLASS S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1090.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-05-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1090.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC108984C4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 3 DEL 28/02/2013 ( VIAGGIO REGGIO CAL.)</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02577270784</codiceFiscale>
+          <ragioneSociale>LI SERRA TOUR S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>850.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>850.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC3089854F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 02 DEL 07/02/13 E N. 06 DEL 16/03/13</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01543840787</codiceFiscale>
+          <ragioneSociale>GARGAGLIONE PASQUALE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01543840787</codiceFiscale>
+          <ragioneSociale>GARGAGLIONE PASQUALE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>69.68</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-28</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>69.68</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC717F2AB5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 26/PA del 22/01/2016</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>DITTA SPAGGIARI CASA EDITRICE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>DITTA CALIO' INFORMATICA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRCVCN83A24C349R</codiceFiscale>
+          <ragioneSociale>Marco Vincenzo</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>DITTA SPAGGIARI CASA EDITRICE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>01558670780</codiceFiscale>
+          <ragioneSociale>DITTA CALIO' INFORMATICA SRL</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>07009890018</codiceFiscale>
+          <ragioneSociale>EUROEDIZIONI TORINO  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>MRCVCN83A24C349R</codiceFiscale>
+          <ragioneSociale>Marco Vincenzo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1102.96</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-29</dataInizio>
+        <dataUltimazione>2016-12-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1102.96</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCE17E3A6B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>fattura n. 108/2015/el del 09/12/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01573850516</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01573850516</codiceFiscale>
+          <ragioneSociale>ARUBA .it Aruba  S.P.A.</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>FSCNRD75D20D086P</codiceFiscale>
+          <ragioneSociale>formatica s.a.s.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-02-10</dataInizio>
+        <dataUltimazione>2016-04-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>30.09</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE10BD06E4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>spese per servizio di gestione e tenuta conto dell'Istituto, come da convenzione di cassa stipulato per l'a.f. 2013</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13336590156</codiceFiscale>
+          <ragioneSociale>UBI BANCA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13336590156</codiceFiscale>
+          <ragioneSociale>UBI BANCA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE79704F06</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 164 DEL 16/07/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01255470781</codiceFiscale>
+          <ragioneSociale>DITTA MIXER</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01255470781</codiceFiscale>
+          <ragioneSociale>DITTA MIXER</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>262.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-06</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>262.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE79F04F06</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. 164 DEL 16/07/2014</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01255470781</codiceFiscale>
+          <ragioneSociale>DITTA MIXER</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01255470781</codiceFiscale>
+          <ragioneSociale>DITTA MIXER</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>262.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-06</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>262.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZED0BF78AA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.N. 20/13 DEL 24/10/2013</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02816220780</codiceFiscale>
+          <ragioneSociale>ALBERGO LA TROTA PANTA REI S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02816220780</codiceFiscale>
+          <ragioneSociale>ALBERGO LA TROTA PANTA REI S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-27</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEF18990AD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>IVA su fattura n. PAE0008410 del 31/03/2016 FASTWEB SpA</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04850601214</codiceFiscale>
+          <ragioneSociale>EDITORIALE PAGANO SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04850601214</codiceFiscale>
+          <ragioneSociale>EDITORIALE PAGANO SNC</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>203.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-05</dataInizio>
+        <dataUltimazione>2016-06-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>203.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF309E0AD9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>RESPONSABILE DELLA SICUREZZA IN FASE DI PROGETTAZIONE - NETTO PE</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRTFMN68B63D612K</codiceFiscale>
+          <ragioneSociale>FORTE FILOMENA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRTFMN68B63D612K</codiceFiscale>
+          <ragioneSociale>FORTE FILOMENA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1787.22</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-13</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1787.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZFA12BA0BE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>regolazione premio di poliza n. 18130 ramo 730020/21000 per il periodo 21/12/2014 - 21/12/2015</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA ASSICURAZIONI S.N.C:</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00565010592</codiceFiscale>
+          <ragioneSociale>BENACQUISTA ASSICURAZIONI S.N.C:</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2554.18</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2554.18</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZIC112083E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>94018300783</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE I.C. SPEZZANO ALBANESE</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT. N. PAE0002053</oggetto>
+      <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12878470157</codiceFiscale>
+          <ragioneSociale>FASTWEB</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>63.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>63.00</importoSommeLiquidate>
+    </lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+ <titolo>Indice pubblicazione EAV 2016</titolo>
+ <abstract>Pubblicazione relativa all’anno 2016</abstract>
+ <dataPubblicazioneIndice>2017-02-28</dataPubblicazioneIndice>
+ <entePubblicatore>EAV</entePubblicatore>
+ <dataUltimoAggiornamentoIndice>2017-02-28</dataUltimoAggiornamentoIndice>
+ <annoRiferimento>2016</annoRiferimento>
+ <urlFile>http://be.trasparenza33.it/EAV/pubblicazione_bandi_EnteAutonomoVolturno_2016.xml</urlFile>
+ <licenza>IODL</licenza>
+ </metadata>
+ <indice>
+ <dataset id="ID_1">
+ <linkDataset>http://be.trasparenza33.it/EAV/pubblicazione_bandi_EnteAutonomoVolturno_uno_2016.xml</linkDataset>
+ <dataUltimoAggiornamento>2017-02-28</dataUltimoAggiornamento>
+ </dataset>
+<dataset id="ID_2">
+ <linkDataset>http://be.trasparenza33.it/EAV/pubblicazione_bandi_EnteAutonomoVolturno_due_2016.xml</linkDataset>
+ <dataUltimoAggiornamento>2017-02-28</dataUltimoAggiornamento>
+ </dataset>
+ </indice>
+</indici>

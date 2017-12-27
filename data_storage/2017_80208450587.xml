@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione legge 190</titolo>
+    <abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+    <entePubblicatore>ANAS</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_00_06.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_01_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_02_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_03_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_04_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_05_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_06_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7">
+      <linkDataset>http://trasparenza.stradeanas.it/doc/trasparenza/annuale/SISTRA_2016_07_06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

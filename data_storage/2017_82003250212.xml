@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Rifiano</abstract>
+   <dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Rifiano</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21073/21073indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_CB49EC95-520E-4E57-AF88-DE34F4916917'>
+      <linkDataset>http://data.gvcc.net/avcp/21073/CB49EC95-520E-4E57-AF88-DE34F4916917.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_987E6D17-44AC-4EB5-A191-7F0A41DF8465'>
+      <linkDataset>http://data.gvcc.net/avcp/21073/987E6D17-44AC-4EB5-A191-7F0A41DF8465.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente COMUNE BORGATA DI MONGUELFO-TESIDO</abstract>
+   <dataPubblicazioneIndice>2016-01-25</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE BORGATA DI MONGUELFO-TESIDO</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-25</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21052/21052indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_8ECC428F-49BA-44D1-B87C-6B987BD448D6'>
+      <linkDataset>http://data.gvcc.net/avcp/21052/8ECC428F-49BA-44D1-B87C-6B987BD448D6.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_09B3C21B-67BC-48F5-BC21-7C5704D90663'>
+      <linkDataset>http://data.gvcc.net/avcp/21052/09B3C21B-67BC-48F5-BC21-7C5704D90663.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_29191B08-D957-41CE-97C5-57D1EDAE27A0'>
+      <linkDataset>http://data.gvcc.net/avcp/21052/29191B08-D957-41CE-97C5-57D1EDAE27A0.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n°1</titolo>
+<abstract>Pubblicazione relativa all’anno 2015</abstract>
+<dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+<entePubblicatore>Universita degli studi di Pavia</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www-5.unipv.it/avcp/indice2015.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_01"><linkDataset>http://www-5.unipv.it/avcp/2015-Ugov-a.xml</linkDataset><dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento></dataset>
+<dataset id="ID_02"><linkDataset>http://www-5.unipv.it/avcp/2015-Ugov-b.xml</linkDataset><dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento></dataset>
+<dataset id="ID_03"><linkDataset>http://www-5.unipv.it/avcp/2015-Ugov-c.xml</linkDataset><dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento></dataset>
+<dataset id="ID_04"><linkDataset>http://www-5.unipv.it/avcp/2015-extra.xml</linkDataset><dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento></dataset>
+</indice>                                                   	
+</indici>                                                   	

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Rodeneck - Comune di Rodengo</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Rodeneck - Comune di Rodengo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21075/21075indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_23ED22EA-41CF-47BB-A545-05C4FB8A66C2'>
+      <linkDataset>http://data.gvcc.net/avcp/21075/23ED22EA-41CF-47BB-A545-05C4FB8A66C2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_BF3696CF-18F4-4599-BB98-96FF07C25A54'>
+      <linkDataset>http://data.gvcc.net/avcp/21075/BF3696CF-18F4-4599-BB98-96FF07C25A54.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_D3A36654-B589-409A-AF64-0D1AF9B40D42'>
+      <linkDataset>http://data.gvcc.net/avcp/21075/D3A36654-B589-409A-AF64-0D1AF9B40D42.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

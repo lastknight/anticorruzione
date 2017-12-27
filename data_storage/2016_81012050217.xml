@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Istituto Pluricomprensivo in lingua italiana Dobbiaco-Alta
+    Pusteria </titolo>
+    <abstract>Pubblicazione legge 190 - Pubblicazione relativa all'anno
+    2012_2013_2014_2015_2016</abstract>
+    <dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Pluricomprensivo in lingua italiana
+    Dobbiaco-Alta Pusteria</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2013</annoRiferimento>
+    <urlFile>www.ipcbrunico.it/website/wp-content/uploads/avcpdobbiaco/dataset_indice.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>www.ipcbrunico.it/website/wp-content/uploads/avcpdobbiaco/esiti_2012_20140317-1.xml
+      </linkDataset>
+      <dataUltimoAggiornamento>2014-03-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>www.ipcbrunico.it/website/wp-content/uploads/avcpdobbiaco/esiti_2013_20140317-1.xml
+      </linkDataset>
+      <dataUltimoAggiornamento>2013-03-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>www.ipcbrunico.it/website/wp-content/uploads/avcpdobbiaco/esiti_2014_20150205-1.xml
+      </linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>www.ipcbrunico.it/website/wp-content/uploads/avcpdobbiaco/esiti_2015_20160126-1.xml
+      </linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>www.ipcbrunico.it/website/wp-content/uploads/avcpdobbiaco/esiti_2016_20170118-1.xml
+      </linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

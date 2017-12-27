@@ -1,0 +1,43 @@
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd ">
+    <metadata>
+        <titolo>Pubblicazione legge 190/2012</titolo>
+        <abstract>Pubblicazione relativa all'anno 2016</abstract>
+        <dataPubblicazioneIndice>2017-02-20Z</dataPubblicazioneIndice>
+        <entePubblicatore>AOU Policlinico G. MArtino - Messina</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-20Z</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.polime.it/AVCP/Indice.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_181">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_TECNICO2017.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_63">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_PROVV2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_1">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_PROVV2014.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_121">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_PROOVV2016.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_141">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_TECNICO2016.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_161">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_PROOVV2017.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_120">
+            <linkDataset>http://www.polime.it/AVCP/190925-adempimenti-AVCP_TECNICO2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20Z</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

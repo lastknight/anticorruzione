@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+   <titolo>COMUNICAZIONE AUTORITA' - INDICE 2016</titolo>
+   <abstract>LEGGE N&#176; 190&#47;2012</abstract>
+   <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI BARETE</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-17 </dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://www.comune.barete.aq.it/anac/anac_indice_2016.xml</urlFile>
+   <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+  <dataset id ="ID_1">
+    <linkDataset>http://www.comune.barete.aq.it/anac/anac2014_al_31-12-2016.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_2">
+    <linkDataset>http://www.comune.barete.aq.it/anac/anac_2015_al_31-12-2016.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_3">
+    <linkDataset>http://www.comune.barete.aq.it/anac/anac_2016.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+  </dataset>
+  </indice>
+  </indici>

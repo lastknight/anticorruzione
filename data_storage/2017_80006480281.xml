@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione art.1 comma 32 Legge n.190/2012</titolo>
+    <abstract>Pubblicazione art.1 comma 32 Legge n.190/2012</abstract>
+    <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>Universita' degli studi di Padova</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-03-14</dataUltimoAggiornamentoIndice>
+    <!-- RICORDARSI DI AGGIORNARE L'ANNO -->
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.unipd.it/sites/unipd.it/files/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_20">
+      <linkDataset>http://www.unipd.it/sites/unipd.it/files/dataset_2016_s1_01.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_21">
+      <linkDataset>http://www.unipd.it/sites/unipd.it/files/dataset_2016_s1_02.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_22">
+      <linkDataset>http://www.unipd.it/sites/unipd.it/files/dataset_2016_s1_03.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_23">
+      <linkDataset>http://www.unipd.it/sites/unipd.it/files/dataset_2016_s2_01.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_24">
+      <linkDataset>http://www.unipd.it/sites/unipd.it/files/dataset_2016_s2_02.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
+
+
+

@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Bronzolo</abstract>
+   <dataPubblicazioneIndice>2017-01-23</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Bronzolo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-23</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21012/21012indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_01678680-C218-41BD-A577-57D5612FAB29'>
+      <linkDataset>http://data.gvcc.net/avcp/21012/01678680-C218-41BD-A577-57D5612FAB29.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_6632F8B5-9B38-42AD-A9C0-B2E3D42AB3ED'>
+      <linkDataset>http://data.gvcc.net/avcp/21012/6632F8B5-9B38-42AD-A9C0-B2E3D42AB3ED.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

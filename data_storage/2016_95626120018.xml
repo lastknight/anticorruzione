@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Gare anno 2015</titolo>
+    <abstract>Pubblicazione gare anno 2015 - 8/12 SMS Gobetti e 4/12 IC Gobetti</abstract>
+    <dataPubblicazioneIndice>2016-01-11</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO - "PIERO GOBETTI" - RIVOLI</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-11</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC28138/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC28138/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-11</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201586010430014">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC28138/2015/gare201586010430014.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-11</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

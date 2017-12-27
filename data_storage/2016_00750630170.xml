@@ -1,0 +1,158 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="X-UA-Compatible" content="IE=8" /><meta name="author" content="Gruppo SE.CO.GES. Srl" /><meta name="copyright" content="© 2013 Gruppo SE.CO.GES. Srl" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><title>
+	Pagina di Login
+</title><link href="/StyleSheets/Global.css" rel="stylesheet" type="text/css" /><link href="/StyleSheets/printer.css" type="text/css" rel="stylesheet" media="print" />
+
+    <script type="text/javascript">
+
+        function OnBackspaceDoNothing() {
+            if (window.event.keyCode == 8) {
+                event.cancelBubble = true;
+                window.event.keyCode = 0;
+            }
+        }
+            
+    </script>
+        
+    
+    </head>
+    <body style="background-color:White; margin: 4px; border: solid 1px #000000;" onkeydown="OnBackspaceDoNothing()" class="TestoStandard" >
+        <form method="post" action="./Login.aspx?ReturnUrl=%2fTrasparenza%2f0090-Bandi+di+gara+e+contratti%2fBandi%2c+gare+e+contratti+san+filippo+2015.xml" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyNTY5MDY0NDMPZBYCZg9kFgICAw9kFgYCAw9kFgJmDw8WAh4EVGV4dAUVR2VzdGlvbmUgUHJlbm90YXppb25pZGQCBQ9kFgJmDw8WAh8ABQ9QYWdpbmEgZGkgTG9naW5kZAIJD2QWBAIDDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8BaGRkZB16T1lFVhANUIsZBaGRl5A7XScxLwE9HKnEJcQIi9hb" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1806D926" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQbHbmKw8x6YnmZnDTEJcyct4810IdkZyY12YVII+2ZE5dpeeu4sR9cWhI0RRss1/Xjserq+Z5hZ6hb4GL6qU8MnLqNjz0UfHjO024mC/1l3Yx6cKGc30EeFquparfT94g=" />
+
+           <div style="height:100%;width:100%;background-color: #FFFFFF;">
+
+                <table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+                    <tr style="background-color: #ffffff;">
+                        <td style="width:203px; height:52px; text-align: left; vertical-align:middle;">
+                            &nbsp;<a href="/Default.aspx"><img id="Image1" Border="0" src="../Images/logosmall.png" alt="Logo" style="width: 203px;height:52px" /></a>
+                        </td>
+                        <td>&nbsp;</td>
+                        <td align="left" valign="bottom">
+                            <table width="100%" style="background-color:#FFFFFF">
+                                <tr>
+                                    <td align="left" >
+                                        <div style="border-bottom:1px Solid #009EE0;background-color:#009EE0;border-radius:15px;">
+                                            <table>
+                                                <tr>
+                                                    <td style="width:100%">
+                                                        <div style="font-size:14pt;color:White;padding:5px">
+                                                            <span id="title_lblTitolo">Gestione Prenotazioni</span>
+                                                        </div>
+                                                        <div style="font-size:8pt;color:White;padding-left:5px">
+                                                            <span id="subtitle_lblSottotitolo">Pagina di Login</span>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+                    <tr style="background-color:#E20019">
+                        <td colspan="2">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+                <div style="margin: 5px 7px 5px 5px;background-color: #FFFFFF;">
+                    
+        
+        
+        
+        
+        <div>
+
+            <div id="main_LoginPanel">
+	
+                <br />
+                <br />
+                <table border="0" cellspacing="0" cellpadding="3" align="center" style="background-color:#D5E7FF;border-radius:15px;border:2px Solid Black;">
+                    <tr>
+                        <td>
+                            <table>
+                                <tr>
+                                    <td style="width: 100px;">
+                                        Nome utente</td>
+                                    <td style="width: 170px;">
+                                        <input name="ctl00$main$txtUsername" type="text" maxlength="50" id="main_txtUsername" />
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 100px;">
+                                        Password</td>
+                                    <td style="width: 170px;">
+                                        <input name="ctl00$main$txtPassword" type="password" maxlength="50" id="main_txtPassword" />
+                                                         
+                                            
+                                        
+                                    </td>
+                                </tr> 
+                                <tr>
+                                    <td style="width: 100px;">&nbsp;</td>
+                                    <td style="width: 170px;">
+                                        <br />
+                                        <a id="main_lbLogin" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$main$lbLogin&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Accesso</a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <br />
+                            <span id="main_lblMessage"><b><font color="Red"></font></b></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                    </tr>
+                    <tr>
+                        <td align="center" style="border-top:1px Solid Black;height:20px;">
+                            <a id="main_hlPasswordDimenticata" href="UtentePasswordDimenticata.aspx">Utente o Password dimenticata?</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="border-top:1px Solid Black;height:20px;">
+                            <a id="main_hlNuovoUtente" href="RegistrazioneUtente.aspx">Registrazione nuovo utente</a>
+                        </td>
+                    </tr>
+                </table>
+            
+</div>
+
+
+            
+
+            <br />
+            <br />
+    
+        </div>
+
+
+                    <br />
+                </div>
+            </div>
+
+            <table width="100%">
+                <tr>
+                    <td style="background-color:#009EE0;height:10px;"></td>
+                </tr>
+                <tr>
+                    <td style="background-color:#E20019;height:10px;"></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

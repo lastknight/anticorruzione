@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente GEMEINDE TERLAN - COMUNE DI TERLANO</abstract>
+   <dataPubblicazioneIndice>2016-01-20</dataPubblicazioneIndice>
+   <entePubblicatore>GEMEINDE TERLAN - COMUNE DI TERLANO</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-20</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21097/21097indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_9AE731EB-66F0-40BB-BC15-5CEA73C97870'>
+      <linkDataset>http://data.gvcc.net/avcp/21097/9AE731EB-66F0-40BB-BC15-5CEA73C97870.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_5988592F-2875-4B8A-81DD-DFB76F5A59FB'>
+      <linkDataset>http://data.gvcc.net/avcp/21097/5988592F-2875-4B8A-81DD-DFB76F5A59FB.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-19</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_7AB75CBD-7F7A-49FB-9B7F-A1CE6B3FD263'>
+      <linkDataset>http://data.gvcc.net/avcp/21097/7AB75CBD-7F7A-49FB-9B7F-A1CE6B3FD263.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-19</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

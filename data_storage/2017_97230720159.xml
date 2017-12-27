@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Pubblicazione 1 legge 190 - Anno 2016</titolo>
+    <abstract>Pubblicazione 1 legge 190 - Anno 1 rif. 2016</abstract>
+    <dataPubblicazioneIndice>2016-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>ATM</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-03-14</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.atm.it/it/IlGruppo/ComeLavoriamo/Documents/2016/ANAC2016_Indice.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.atm.it/it/IlGruppo/ComeLavoriamo/Documents/2016/ANAC2016_dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.atm.it/it/IlGruppo/ComeLavoriamo/Documents/2016/ANAC2016_dataset2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-14</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

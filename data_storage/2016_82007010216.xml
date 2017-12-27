@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comunitá comprensoriale Burgraviato</abstract>
+   <dataPubblicazioneIndice>2016-02-16</dataPubblicazioneIndice>
+   <entePubblicatore>Comunitá comprensoriale Burgraviato</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-16</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21124/21124indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_537925BC-0A64-4308-807B-F657471828EE'>
+      <linkDataset>http://data.gvcc.net/avcp/21124/537925BC-0A64-4308-807B-F657471828EE.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-09</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_42D646C5-6A5D-4494-AD2E-567306D315F3'>
+      <linkDataset>http://data.gvcc.net/avcp/21124/42D646C5-6A5D-4494-AD2E-567306D315F3.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_771BA18A-1C61-43A7-878D-2DB65164BA9C'>
+      <linkDataset>http://data.gvcc.net/avcp/21124/771BA18A-1C61-43A7-878D-2DB65164BA9C.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_9715E4E8-1D5E-46E1-BC32-2E356988D1F8'>
+      <linkDataset>http://data.gvcc.net/avcp/21124/9715E4E8-1D5E-46E1-BC32-2E356988D1F8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

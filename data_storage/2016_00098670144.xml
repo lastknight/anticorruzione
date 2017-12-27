@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2016-02-08</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Pedesina (SO)</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-02-08</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://tecuting.halleylombardia.it/c014047/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00098670144</codiceFiscaleProp>
+			<denominazione>Comune di Pedesina</denominazione>
+		</strutturaProponente>
+		<oggetto>BANDO DI GARA CON ANNESSO DISCIPLINARE PER LAFFIDAMENTO MEDIANTE PROCEDURA APERTA DEL SERVIZIO DI TESORERIA PER IL PERIODO 01/06/2015 AL 31/12/2019</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-06-01</dataInizio>
+										<dataUltimazione>2019-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

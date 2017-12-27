@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Castelbello-Ciardes</abstract>
+   <dataPubblicazioneIndice>2017-03-15</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Castelbello-Ciardes</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-03-15</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21018/21018indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_0B8E8450-622F-43C0-93CA-00F44B00E5EA'>
+      <linkDataset>http://data.gvcc.net/avcp/21018/0B8E8450-622F-43C0-93CA-00F44B00E5EA.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_B13E83E6-044A-47AF-84CF-24E903DC8AFF'>
+      <linkDataset>http://data.gvcc.net/avcp/21018/B13E83E6-044A-47AF-84CF-24E903DC8AFF.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

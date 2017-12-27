@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Emporium società cooperativa - Pubblicazione legge 190</titolo>
+    <abstract>Emporium società cooperativa - Pubblicazione legge 190; anno rif. 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+    <entePubblicatore>Emporium società cooperativa</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://emporium.bz.it/appalti/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.emporium.bz.it/appalti/esiti_2016_20170214-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

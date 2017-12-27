@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Procedura di scelta avviate nel 2015 ed attive negli anni precedenti</abstract>
+    <dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO - NICHELINO III - NICHELINO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC28141/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC28141/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201584509830018">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC28141/2015/gare201584509830018.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

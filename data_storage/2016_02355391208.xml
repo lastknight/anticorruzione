@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="legge190_1_0">
+  <metadata xmlns="">
+    <titolo>Pubblicazione 2 legge 190</titolo>
+    <abstract>Pubblicazione 2 legge 190 anno 2 rif. 2014</abstract>
+    <dataPubbicazioneDataset>2016-01-28</dataPubbicazioneDataset>
+    <entePubblicatore>ACER MANUTENZIONI S.p.A.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-28</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.acermanutenzioni.it/contents/instance1/files/legge190/Legge190_Acer_Manutenzioni_2014.xml</urlFile>
+    <licenza xsi:type="xsd:string" />
+  </metadata>
+  <data xmlns="">
+    <lotto>
+      <cig>ZED154D8F7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02355391208</codiceFiscaleProp>
+        <denominazione>ACER MANUTENZIONI S.p.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI ATTREZZATURE PER REGISTRAZIONE ASSEMBLEA SOCI ACER MANUTENZIONI DEL 13 7 15</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02221351204</codiceFiscale>
+          <ragioneSociale>OCSASERVICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02221351204</codiceFiscale>
+          <ragioneSociale>OCSASERVICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-08</dataInizio>
+        <dataUltimazione>2015-07-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE6177C2FE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02355391208</codiceFiscaleProp>
+        <denominazione>ACER MANUTENZIONI S.p.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO CADHOC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03543000370</codiceFiscale>
+          <ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03543000370</codiceFiscale>
+          <ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3096</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-09</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.0000</importoSommeLiquidate>
+    </lotto>
+  </data>
+</pubblicazione>

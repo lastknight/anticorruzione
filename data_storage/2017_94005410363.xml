@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' > 
+<metadata>
+<titolo>pubblicazione L.190</titolo>
+<abstract>pubblicazione L.190 2012</abstract>
+<dataPubblicazioneIndice>2017-01-20</dataPubblicazioneIndice>
+<entePubblicatore>ACCADEMIA MILITARE</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-20</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/accademia-militare/2016/indicedataset.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id='ID_1'>
+<linkDataset>http://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/accademia-militare/2016/dataset_1.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_2'>
+<linkDataset>http://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/accademia-militare/2016/dataset_2.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

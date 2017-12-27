@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Pubblicazione 1 legge 190</titolo>
+        <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2015</abstract>
+        <dataPubblicazioneIndice>2016-01-26+01:00</dataPubblicazioneIndice>
+        <entePubblicatore>Azienda Unita' Locale Socio Sanitaria  n. 10 "Veneto Orientale"</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-01-26+01:00</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://www.ulss10.veneto.it/sites/default/files/avcp/appalti2015.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="dataset_20160126_131853.xml">
+            <linkDataset>http://www.ulss10.veneto.it/sites/default/files/avcp/dataset_20160126_131853.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-26+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_20160126_132317.xml">
+            <linkDataset>http://www.ulss10.veneto.it/sites/default/files/avcp/dataset_20160126_132317.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-26+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_20160126_132726.xml">
+            <linkDataset>http://www.ulss10.veneto.it/sites/default/files/avcp/dataset_20160126_132726.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-26+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_20160126_133146.xml">
+            <linkDataset>http://www.ulss10.veneto.it/sites/default/files/avcp/dataset_20160126_133146.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-26+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_20160126_133616.xml">
+            <linkDataset>http://www.ulss10.veneto.it/sites/default/files/avcp/dataset_20160126_133616.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-26+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_20160126_134026.xml">
+            <linkDataset>http://www.ulss10.veneto.it/sites/default/files/avcp/dataset_20160126_134026.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-26+01:00</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

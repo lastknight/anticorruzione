@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Naturno</abstract>
+   <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Naturno</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21056/21056indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_11230503-DC75-4235-A2B2-59B773DF4831'>
+      <linkDataset>http://data.gvcc.net/avcp/21056/11230503-DC75-4235-A2B2-59B773DF4831.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_9AEF42FF-6FC9-4BDC-9E6C-D6FDC308D1A5'>
+      <linkDataset>http://data.gvcc.net/avcp/21056/9AEF42FF-6FC9-4BDC-9E6C-D6FDC308D1A5.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_990C669D-2AE3-4B89-9D93-55743545802D'>
+      <linkDataset>http://data.gvcc.net/avcp/21056/990C669D-2AE3-4B89-9D93-55743545802D.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

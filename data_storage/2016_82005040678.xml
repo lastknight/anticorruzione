@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://trasparenza.cosevservizi.it/uploads/avcp/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione indice anno 2015</titolo>
+    <abstract>Pubblicazione indice relativo all'anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>COSEV Servizi S.p.A.</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://trasparenza.cosevservizi.it/uploads/avcp/indicedataset_2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.cosevservizi.it/uploads/avcp/2015/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.cosevservizi.it/uploads/avcp/2015/dataset2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

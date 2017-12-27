@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>&amp;lt;font color=blue&amp;gt;Comune di Moscazzano&amp;lt;/font&amp;gt;</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-02-01</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://halleyweb.com/c019060/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>6263163D99</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00304220197</codiceFiscaleProp>
+			<denominazione>COMUNE DI MOSCAZZANO</denominazione>
+		</strutturaProponente>
+		<oggetto>GARA PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI TESORERIA COMUNALE PER IL PERIODO 01.07.2015 - 30.06.2020.   CIG 6263163D99</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8713FE7B9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00304220197</codiceFiscaleProp>
+			<denominazione>COMUNE DI MOSCAZZANO</denominazione>
+		</strutturaProponente>
+		<oggetto>LAVORI DI RIQUALIFICAZIONE CAMERETA DI ISPEZIONE ROGGIA COMUNI NI VIA CAPROTTI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01228810196</codiceFiscale>
+                        						<ragioneSociale>PIERRE COSTRUZIONI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01228810196</codiceFiscale>
+                        	
+    					<ragioneSociale>PIERRE COSTRUZIONI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3867.40</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-07-01</dataInizio>
+										<dataUltimazione>2015-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>3867.40</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

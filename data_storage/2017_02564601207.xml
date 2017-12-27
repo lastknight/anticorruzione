@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0">
+    <metadata>
+        <titolo>Pubblicazione 1 legge 190</titolo>
+        <abstract>Pubblicazione 1 
+legge 190</abstract>
+        <dataPubbicazioneDataset>2016-12-31</dataPubbicazioneDataset>
+        <entePubblicatore>Consorzio Osservanza</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2016-12-31</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.osservanza.it/trasparenza/1190xml/export2016_consorzio_osservanza.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>Z221829CC7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02564601207</codiceFiscaleProp>
+                <denominazione>Consorzio Osservanza</denominazione>
+            </strutturaProponente>
+            <oggetto>Progetto esecutivo e Direzione lavori per “Stralcio B” variante opere di completamento reti tecnologiche e sottoservizi del complesso Osservanza – Comune di Imola</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04245520376</codiceFiscale>
+                    <ragioneSociale>HERA Spa</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04245520376</codiceFiscale>
+                    <ragioneSociale>HERA Spa</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10000.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-01-22</dataInizio>
+                <dataUltimazione>2016-10-19</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>10000.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD41CAFE97</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>02564601207</codiceFiscaleProp>
+                <denominazione>Consorzio Osservanza</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di copisteria per l'anno 2017</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03304940376</codiceFiscale>
+                    <ragioneSociale>Giovani Rilegatori Coop. Soc.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03304940376</codiceFiscale>
+                    <ragioneSociale>Giovani Rilegatori Coop. Soc.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5000.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-12-22</dataInizio>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.0</importoSommeLiquidate>
+        </lotto>
+    </data>
+</legge190:pubblicazione>

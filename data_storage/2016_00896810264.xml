@@ -1,0 +1,19 @@
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd ">
+    <metadata>
+        <titolo>Pubblicazione 2015</titolo>
+        <abstract>Lotti relativi all'anno 2015</abstract>
+        <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+        <entePubblicatore>Unita locale socio-sanitaria n. 8</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://avcp.ulssasolo.ven.it/trasparenza/2015/Indice.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_0">
+            <linkDataset>http://avcp.ulssasolo.ven.it/trasparenza/2015/dataset_2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

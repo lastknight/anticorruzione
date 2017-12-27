@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n1</titolo>
+<abstract>Pubblicazione relativa all anno 2015</abstract>
+<dataPubblicazioneIndice>2013-01-24</dataPubblicazioneIndice>
+<entePubblicatore>COMUNE DI SAN PIETRO DI CADORE</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2015-01-25</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2013</annoRiferimento>
+<urlFile>http://www.sanpietrodicadore.info/trasparenza/indiceAppaltiL190.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2012.xml</linkDataset>
+<dataUltimoAggiornamento>2013-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2013.xml</linkDataset>
+<dataUltimoAggiornamento>2013-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2013_rag.xml</linkDataset>
+<dataUltimoAggiornamento>2013-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_4">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2013_rag.xml</linkDataset>
+<dataUltimoAggiornamento>2013-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_5">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2014.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_6">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2014_rag.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_7">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2015.xml</linkDataset>
+<dataUltimoAggiornamento>2015-01-25</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_8">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2015_rag.xml</linkDataset>
+<dataUltimoAggiornamento>2015-01-25</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_9">
+<linkDataset>http://www.sanpietrodicadore.info/trasparenza/avcp_dataset_2016.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

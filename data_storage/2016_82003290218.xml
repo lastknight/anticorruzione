@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde Schenna</abstract>
+   <dataPubblicazioneIndice>2016-01-20</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde Schenna</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-20</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21087/21087indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_4D5E02E9-643A-49AF-9318-3F87BB939BD5'>
+      <linkDataset>http://data.gvcc.net/avcp/21087/4D5E02E9-643A-49AF-9318-3F87BB939BD5.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_0F4F1C9A-FF91-432C-8D2C-36E92D0DFA04'>
+      <linkDataset>http://data.gvcc.net/avcp/21087/0F4F1C9A-FF91-432C-8D2C-36E92D0DFA04.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_781E9849-A50D-4A62-849D-ED43CB459BB8'>
+      <linkDataset>http://data.gvcc.net/avcp/21087/781E9849-A50D-4A62-849D-ED43CB459BB8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-14</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_7959892A-715E-4F70-98CE-8D9785296F8E'>
+      <linkDataset>http://data.gvcc.net/avcp/21087/7959892A-715E-4F70-98CE-8D9785296F8E.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-14</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

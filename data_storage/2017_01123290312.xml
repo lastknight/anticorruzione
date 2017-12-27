@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice Pubblicazione 1 legge 190</titolo>
+<abstract>Pubblicazione relativa all'anno 2016</abstract>
+<dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+<entePubblicatore>Isontina Ambiente srl</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.isontinambiente.it/avcp/indice-2016.xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.isontinambiente.it/avcp/2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+		</dataset>
+
+		<dataset id="ID_2">
+				<linkDataset>http://www.isontinambiente.it/avcp/2016.xml</linkDataset>
+				<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+		</dataset>
+
+	</indice>
+
+</indici>

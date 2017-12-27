@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-31</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Monteflavio</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comune.monteflavio.rm.it/c058061/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>6183365238</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>Bando di gara per lappalto del servizio di raccolta e trasporto dei rifiuti urbani mediante procedura aperta ai sensi dellart. 55 comma 5 del D. Lgs. 163/2006, con il criterio di aggiudicazione dellofferta economicamente più vantaggiosa</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+									    <raggruppamento>			    				        
+					<membro>					   
+					                                <codiceFiscale>05873291008</codiceFiscale>
+                        						<ragioneSociale>GESUPU SPA</ragioneSociale>
+						                            <ruolo>01-MANDANTE</ruolo>
+											</membro>	
+								        
+					<membro>					   
+					                                <codiceFiscale>04089200630</codiceFiscale>
+                        						<ragioneSociale>S.A.R.I.M. SRL</ragioneSociale>
+						                            <ruolo>02-MANDATARIA</ruolo>
+											</membro>	
+								</raggruppamento>						    <raggruppamento>			    				        
+					<membro>					   
+					                                <codiceFiscale>00787010586</codiceFiscale>
+                        						<ragioneSociale>AVR Spa</ragioneSociale>
+						                            <ruolo>02-MANDATARIA</ruolo>
+											</membro>	
+								        
+					<membro>					   
+					                                <codiceFiscale>07117510151</codiceFiscale>
+                        						<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C.  SRL</ragioneSociale>
+						                            <ruolo>01-MANDANTE</ruolo>
+											</membro>	
+								</raggruppamento>						    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08625311009</codiceFiscale>
+                        						<ragioneSociale>PRAGMA  A.R.L.-IGIENE AMBIENTALE-</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01792130609</codiceFiscale>
+                        						<ragioneSociale>T.a.c. Ecologica Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			<aggiudicatarioRaggruppamento>    			    		    	<membro>    					                            <codiceFiscale>00787010586</codiceFiscale>
+                        	
+    					<ragioneSociale>AVR Spa</ragioneSociale>
+    					                            <ruolo>02-MANDATARIA</ruolo>
+						    				</membro>    			    		    	<membro>    					                            <codiceFiscale>07117510151</codiceFiscale>
+                        	
+    					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C.  SRL</ragioneSociale>
+    					                            <ruolo>01-MANDANTE</ruolo>
+						    				</membro>    			    			</aggiudicatarioRaggruppamento>					</aggiudicatari>
+		<importoAggiudicazione>555096.68</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-30</dataInizio>
+										<dataUltimazione>2020-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZC3177AFC1</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>Affidamento, in concessione dei servizi di tesoreria comunale per  gli anni 2016  2020</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00715120150</codiceFiscale>
+                        						<ragioneSociale>BANCA POPOLARE DI MILANO SOC. COOP A.R.L.</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>00799960158</codiceFiscale>
+                        						<ragioneSociale>INTESA SAN PAOLO SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00715120150</codiceFiscale>
+                        	
+    					<ragioneSociale>BANCA POPOLARE DI MILANO SOC. COOP A.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2450.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-01</dataInizio>
+										<dataUltimazione>2021-04-01</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z1017B3595</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>COMUNE DI MONTEFLAVIO</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI CONSERVAZIONE DIGITALE DEL REGISTRO GIORNALIERO DEL PROTOCOLLO INFORMATICO DALLA DITTA HALLEY INFORMATICA MEDIANTE ORDINE DI ACQUISTO SUL MEPA.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00384350435</codiceFiscale>
+                        						<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00384350435</codiceFiscale>
+                        	
+    					<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>600.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-30</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z541570EA3</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>COMUNE DI MONTEFLAVIO</denominazione>
+		</strutturaProponente>
+		<oggetto>MANUTENZIONE PICK UP DELLA PROTEZIONE CIVILE (TAGLIANDO)</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01051120572</codiceFiscale>
+                        						<ragioneSociale>DITTA BIANCHETTI S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01051120572</codiceFiscale>
+                        	
+    					<ragioneSociale>DITTA BIANCHETTI S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>293.44</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-07-18</dataInizio>
+										<dataUltimazione>2015-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>293.44</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z3412DF668</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO CARBURANTI PER IL FUNZIONAMENTO DEGLI AUTOMEZZI COMUNALI</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00891951006</codiceFiscale>
+                        						<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00891951006</codiceFiscale>
+                        	
+    					<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-01-23</dataInizio>
+										<dataUltimazione>2016-01-18</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>3990.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF8156D1EE</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER ANALISI E VISITE MEDICHE PER I VOLONTARI DEL GRUPPO COMUNALE DI PROTEZIONE CIVILE - A.I.B. ANNO 2015</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01078681002</codiceFiscale>
+                        						<ragioneSociale>Laboratorio Analisi Guidonia, S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01078681002</codiceFiscale>
+                        	
+    					<ragioneSociale>Laboratorio Analisi Guidonia, S.r.l.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1200.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-07-17</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8B17E0BED</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>POLIZZA ASSICURATIVA AUTOCARRO TARGATO ES188BP DAL 03/01/2016 AL 03/07/2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00929300572</codiceFiscale>
+                        						<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00929300572</codiceFiscale>
+                        	
+    					<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>479.97</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-03</dataInizio>
+										<dataUltimazione>2016-07-03</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4217E0FC8</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA CON LA DITTA C.R.A. S.R.L.DI FORANO PER SOSTITUZIONE GOMME AI FUORISTRADA DELLA PROTEZIONE CIVILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01051050571</codiceFiscale>
+                        						<ragioneSociale>Ditta C.R.A. S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01051050571</codiceFiscale>
+                        	
+    					<ragioneSociale>Ditta C.R.A. S.r.l.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>306.45</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-03-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z67170D664</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER LA FORNITURA DI VESTIARIO PER ATTIVITA' DI SGOMBERO NEVE E SPARGIMENTO SALE CON LA DITTA SECURTEX S.R.L.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08894201006</codiceFiscale>
+                        						<ragioneSociale>SECURTEX S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08894201006</codiceFiscale>
+                        	
+    					<ragioneSociale>SECURTEX S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2536.15</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-11-11</dataInizio>
+										<dataUltimazione>2016-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6517E0B7D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AGGIORNAMENTO PIANO COMUNALE DI PROTEZIONE CIVILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>11942171007</codiceFiscale>
+                        						<ragioneSociale>GEOLAPA STP A R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>11942171007</codiceFiscale>
+                        	
+    					<ragioneSociale>GEOLAPA STP A R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2200.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XAA16A26E7</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO SERVIZIO DI CONDUZIONE DEPURATORE COMUNALE BIENNIO 2016-2017. - R.D.O. SU ME.PA. (MERCATO ELTTRONICO DELLA P.A.)</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00881340574</codiceFiscale>
+                        						<ragioneSociale>Ing. G. Lupi Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00881340574</codiceFiscale>
+                        	
+    					<ragioneSociale>Ing. G. Lupi Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>39601.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-30</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XDD16A26EC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO INCARICO ISTRUTTORIA SANATORIE DI CUI AI CONDONI EDILIZI</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>RSOMCR66D48H501M</codiceFiscale>
+                        						<ragioneSociale>Arch Maria Cristina Orsi</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>RSOMCR66D48H501M</codiceFiscale>
+                        	
+    					<ragioneSociale>Arch Maria Cristina Orsi</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X9816A26F4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>RIFACIMENTO DI TTRATO DI CONDOTTA IDRICA IN LOC. MONTE MOZZONE. AFFIDAMENTO LAVORI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>07615910580</codiceFiscale>
+                        						<ragioneSociale>Edilmonteflavio Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>07615910580</codiceFiscale>
+                        	
+    					<ragioneSociale>Edilmonteflavio Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>6261.90</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-02-28</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X3D16A26F0</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>QUANTIFICAZIONE DELLA SPESA NECESSARIA PER LO SMALTIMENTO RIFIUTI SOLDI URBANI NEL MESE DI GENNAIO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04941531008</codiceFiscale>
+                        						<ragioneSociale>PONTINA AMBIENTE SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04941531008</codiceFiscale>
+                        	
+    					<ragioneSociale>PONTINA AMBIENTE SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>14700.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-01-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X6516A26EF</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>INTERVENTO PER IL RIPRISTINO ED IL MIGLIORAMENTO DELLA VIABILITÀ RURALE - DELIBERAZIONE C.S.PROV. ROMA N. 302 DEL 30.09.2014 - STRADA DELLA PIANATA - AFFIDAMENTO LAVORI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>06562641008</codiceFiscale>
+                        						<ragioneSociale>VUESSE Costruzioni Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>06562641008</codiceFiscale>
+                        	
+    					<ragioneSociale>VUESSE Costruzioni Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>18443.93</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-02-05</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X4816A26F6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>02146011008</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio - Servizio Tecnico Comunale</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI ASSISTENZA TECNICA  DELL'IMPIANTO DI EROGAZIONE (FONTANA) &quot;ACQUA SÌ&quot;   PER L'ANNO 2016.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00866750573</codiceFiscale>
+                        						<ragioneSociale>LORENZONI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00866750573</codiceFiscale>
+                        	
+    					<ragioneSociale>LORENZONI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3278.68</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z711AFA8C6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>INDAGINE DI MERCATO PER LAFFIDAMENTO DEL SERVIZIO DI REFEZIONE SCOLASTICA DELLA SCUOLA PRIMARIA DI MONTEFLAVIO PER GLI ANNI SCOLASTICI 2016/17, 2017/18,  CON POSSIBILITA DI PROROGA AI SENSI DELLART. 106 C.11 d. Lgs. 50/2016 PER L ANNO SCOLASTICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00686040577</codiceFiscale>
+                        						<ragioneSociale>ESPERIENZE 84 SOC. COOP.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00686040577</codiceFiscale>
+                        	
+    					<ragioneSociale>ESPERIENZE 84 SOC. COOP.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>13000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-01</dataInizio>
+										<dataUltimazione>2017-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1689.50</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7B17FF3CF</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO CARBURANTI PER IL FUNZIONAMENTO DEGLI AUTOMEZZI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00891951006</codiceFiscale>
+                        						<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00891951006</codiceFiscale>
+                        	
+    					<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z351A1CEEA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO CARBURANTI PER IL FUNZIONAMENTO DEGLI AUTOMEZZI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00891951006</codiceFiscale>
+                        						<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00891951006</codiceFiscale>
+                        	
+    					<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>750.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-05-31</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>750.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9D1A7B46F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO CARBURANTI PER IL FUNZIONAMENTO DEGLI AUTOMEZZI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00891951006</codiceFiscale>
+                        						<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00891951006</codiceFiscale>
+                        	
+    					<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>615.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-06-30</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>615.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZBF1A7EE9F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SOSTITUZIONE GOMMA MEZZO PROTEZIONE CIVILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01051050571</codiceFiscale>
+                        						<ragioneSociale>Ditta C.R.A. S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01051050571</codiceFiscale>
+                        	
+    					<ragioneSociale>Ditta C.R.A. S.r.l.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>132.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>132.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6F1A8663F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>POLIZZA SEMESTRALE MOTOCARRO SERVIZIO DI PROTEZIONE CIVILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00929300572</codiceFiscale>
+                        						<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00929300572</codiceFiscale>
+                        	
+    					<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>471.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-05</dataInizio>
+										<dataUltimazione>2017-01-03</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>471.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z021B760E5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO CARBURANTE PER MANUTENZIONE VIABILITA' RURALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00891951006</codiceFiscale>
+                        						<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00891951006</codiceFiscale>
+                        	
+    					<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1810.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-05</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1810.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZBC1CA3DD5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SOSTITUZIONE GOMME MEZZO PROTEZIONE CIVILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01051050571</codiceFiscale>
+                        						<ragioneSociale>Ditta C.R.A. S.r.l.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01051050571</codiceFiscale>
+                        	
+    					<ragioneSociale>Ditta C.R.A. S.r.l.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>515.48</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-21</dataInizio>
+										<dataUltimazione>2017-01-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDE1CCC73E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>POLIZZA ASSICURATIVA VOLONTARI GRUPPO COMUNALE DI PROTEZIONE CIVILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>09172741002</codiceFiscale>
+                        						<ragioneSociale>UNIPOLSAI Assicurazioni S.p.A Divisione Sai Filiale di Monterotondo</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>09172741002</codiceFiscale>
+                        	
+    					<ragioneSociale>UNIPOLSAI Assicurazioni S.p.A Divisione Sai Filiale di Monterotondo</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>930.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-31</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z171BB8E5D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA CARBURANTE PER AUTOMEZZI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00891951006</codiceFiscale>
+                        						<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00891951006</codiceFiscale>
+                        	
+    					<ragioneSociale>KUWAIT PETROLEUM ITALIA S.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2100.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-24</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1219.10</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z071CAD510</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>APPROVVIGIONAMENTO BUONI PASTO CARTACEI SOSTITUTIVI DEL SERVIZIO MENSA</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01241770997</codiceFiscale>
+                        						<ragioneSociale>Qui! Group Spa</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01241770997</codiceFiscale>
+                        	
+    					<ragioneSociale>Qui! Group Spa</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1554.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-10</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XC016A26F3</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>Telefonia e Connettività</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08539010010</codiceFiscale>
+                        						<ragioneSociale>OMNITEL VODAFONE</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08539010010</codiceFiscale>
+                        	
+    					<ragioneSociale>OMNITEL VODAFONE</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>6394.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-08</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>5759.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XDC185D771</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>smaltimento rifiuti febbraio</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04941531008</codiceFiscale>
+                        						<ragioneSociale>Pontina Ambiente</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04941531008</codiceFiscale>
+                        	
+    					<ragioneSociale>Pontina Ambiente</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>14700.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-01</dataInizio>
+										<dataUltimazione>2016-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>14700.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XB4185D772</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>smaltimento rifiuti marzo giugno 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04941531008</codiceFiscale>
+                        						<ragioneSociale>Pontina Ambiente</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04941531008</codiceFiscale>
+                        	
+    					<ragioneSociale>Pontina Ambiente</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>24500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-03-01</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>24500.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X8C185D773</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>REDAZIONE DOCUMENTAZIONE PER PRATICA RINNOVO AUTORIZZAZIONE ALLO SCARICO DEPURATORE COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00881340574</codiceFiscale>
+                        						<ragioneSociale>Ing Lupi Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00881340574</codiceFiscale>
+                        	
+    					<ragioneSociale>Ing Lupi Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-29</dataInizio>
+										<dataUltimazione>2016-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XE7185D777</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>riparazione decespugliatore</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04435131000</codiceFiscale>
+                        						<ragioneSociale>Salvucci &amp; C sas</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04435131000</codiceFiscale>
+                        	
+    					<ragioneSociale>Salvucci &amp; C sas</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>230.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-03-22</dataInizio>
+										<dataUltimazione>2016-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X3C185D775</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>stampa manifesti e locandine</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>MSCGRG78E24L182A</codiceFiscale>
+                        						<ragioneSociale>tipografia T.A.V. di Giorgio Meschini</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>MSCGRG78E24L182A</codiceFiscale>
+                        	
+    					<ragioneSociale>tipografia T.A.V. di Giorgio Meschini</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>245.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-05</dataInizio>
+										<dataUltimazione>2016-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X97185D779</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>INCARICO PROFESSIONALE PER LA DIREZIONE LAVORI, IL COORD. SICUREZZA IN FASE DI ESECUZIONE E LA CONTABILITA' LAVORI EDIFICIO SCOLASTICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>GLRNLN75T19M141I</codiceFiscale>
+                        						<ragioneSociale>ARCH. GILARDI ANGELO ANDREA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>GLRNLN75T19M141I</codiceFiscale>
+                        	
+    					<ragioneSociale>ARCH. GILARDI ANGELO ANDREA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3296.81</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-16</dataInizio>
+										<dataUltimazione>2017-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XBF185D778</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>PROGRAMMA STRAORDINARIO DI INTERVENTI PER IL RECUPERO E LA MESSA IN SICUREZZA DEGLI EDIFICI SCOLASTICI  DGR LAZIO N. 42/2015  EDIFICIO SCOLASTICO G. GIACOMELLI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>CHRNNL72C12L120O</codiceFiscale>
+                        						<ragioneSociale>CHERUBINI ANTONELLO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>CHRNNL72C12L120O</codiceFiscale>
+                        	
+    					<ragioneSociale>CHERUBINI ANTONELLO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>37281.32</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-16</dataInizio>
+										<dataUltimazione>2017-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>X14185D776</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>CONTENITORI PER RACCOLTA RIFIUTI URBANI IN MODO DIFFERENZIATO -  DISTRIBUZIONE KIT NEI COMUNI DI MONTEFLAVIO, MONTORIO R., MORICONE E NEROLA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02260870601</codiceFiscale>
+                        						<ragioneSociale>SPEEDILY Soc. Cooperativa</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02260870601</codiceFiscale>
+                        	
+    					<ragioneSociale>SPEEDILY Soc. Cooperativa</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>17530.67</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-18</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>17032.40</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z971BB975F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>INTERVENTI VARI  DI DISOSTRUZIONE DI FOGNATURE COMUNALI E INTERVENTO CON AUTOSPURGO NELL'IMPIANTO SOLLEVAMENTO REFLUI.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>TMSTTR62E24D493X</codiceFiscale>
+                        						<ragioneSociale>Autospurgo Ettore Tomassetti</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>TMSTTR62E24D493X</codiceFiscale>
+                        	
+    					<ragioneSociale>Autospurgo Ettore Tomassetti</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1277.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-06-04</dataInizio>
+										<dataUltimazione>2016-10-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD91A8DFF6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO SERVIZIO NOLEGGIO MEZZO MECCANICO PER TAGLIO ERBA PARCO PUBBLICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>13755191007</codiceFiscale>
+                        						<ragioneSociale>Zamponi Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>13755191007</codiceFiscale>
+                        	
+    					<ragioneSociale>Zamponi Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>400.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-07</dataInizio>
+										<dataUltimazione>2016-07-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>400.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z501C81DFA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>INTEGRAZIONE SPESA PER AFFIDAMENTO SERVIZIO NOLEGGIO MEZZO MECCANICO PER TAGLIO ERBA PARCO PUBBLICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>13755191007</codiceFiscale>
+                        						<ragioneSociale>Zamponi Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>13755191007</codiceFiscale>
+                        	
+    					<ragioneSociale>Zamponi Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>160.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-14</dataInizio>
+										<dataUltimazione>2016-12-20</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>160.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z2A1BC13ED</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>LAVORI URGENTI DI DISOSTRUZIONE E RIMESSA IN PRISTINO DELLA CONDOTTA FOGNARIA IN VIA PROVINCIALE 15, IN CORRISPONDENZA DELL'UFFICIO POSTALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>07615910580</codiceFiscale>
+                        						<ragioneSociale>Edilmonteflavio Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>07615910580</codiceFiscale>
+                        	
+    					<ragioneSociale>Edilmonteflavio Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2150.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-08</dataInizio>
+										<dataUltimazione>2016-08-13</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZE41BB9789</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEL SERVIZIO DI DISINFESTAZIONE IN LOCALITA' &quot;IL PIANO&quot; CONTRO ZANZARE E ZECCHE.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08108571004</codiceFiscale>
+                        						<ragioneSociale>Roby Service Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08108571004</codiceFiscale>
+                        	
+    					<ragioneSociale>Roby Service Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>300.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-13</dataInizio>
+										<dataUltimazione>2016-07-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z551AEC0B3</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEL SERVIZIO DI DISINFESTAZIONE IN LOCALITA' &quot;IL PIANO&quot;, NEI CAMPI SPORTIVI E NELLA PINETINA IN VIA E. FERMI CONTRO ZANZARE E ZECCHE.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08108571004</codiceFiscale>
+                        						<ragioneSociale>Roby Service Srl</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08108571004</codiceFiscale>
+                        	
+    					<ragioneSociale>Roby Service Srl</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>450.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-11</dataInizio>
+										<dataUltimazione>2016-08-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z861AB9B37</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SMALTIMENTO RIFIUTI SOLDI URBANI (FRAZIONE INDIFFERENZIATO) NEL PERIODO LUGLIO-SETTEMBRE 2016.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>05950160589</codiceFiscale>
+                        						<ragioneSociale>ECOLOGIA VITERBO SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>05950160589</codiceFiscale>
+                        	
+    					<ragioneSociale>ECOLOGIA VITERBO SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>15628.80</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-01</dataInizio>
+										<dataUltimazione>2016-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>12724.80</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z9D1AB9B88</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SMALTIMENTO DELLA FRAZIONE ORGANICA DEI RIFIUTI SOLDI URBANI NEL PERIODO LUGLIO-SETTEMBRE 2016.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03264790548</codiceFiscale>
+                        						<ragioneSociale>TIMIA SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03264790548</codiceFiscale>
+                        	
+    					<ragioneSociale>TIMIA SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4340.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-01</dataInizio>
+										<dataUltimazione>2016-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>2703.20</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z961AD7D04</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SMALTIMENTO A SEGUITO DELLA RACCOLTA DIFFERENZIATA DEI RIFIUTI NON OGGETTO DI CONFERIMENTO PRESSO FILIERE DI RICICLO, OVVERO DI PILE E BATTERIE, MEDICINALI SCADUTI, E DI ALTRA TIPOLOGIA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04414401002</codiceFiscale>
+                        						<ragioneSociale>Tecnoservizi SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04414401002</codiceFiscale>
+                        	
+    					<ragioneSociale>Tecnoservizi SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>800.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-03</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z3F1C77B8A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA (SOMMINISTRAZIONE) DI MINUTO MATERIALE VARIO PER RIPARAZIONI A CURA DEL PERSONALE INTERNO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>DMCCSR50R15F504W</codiceFiscale>
+                        						<ragioneSociale>DE MICO CESARE</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>DMCCSR50R15F504W</codiceFiscale>
+                        	
+    					<ragioneSociale>DE MICO CESARE</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2049.18</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-25</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z501C77C33</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA (SOMMINISTRAZIONE) DI MINUTO MATERIALE VARIO PER RIPARAZIONI A CURA DEL PERSONALE INTERNO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>DMCPLA73C62L182Z</codiceFiscale>
+                        						<ragioneSociale>De Mico Paola</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>DMCPLA73C62L182Z</codiceFiscale>
+                        	
+    					<ragioneSociale>De Mico Paola</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2049.01</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-25</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z411BC7B31</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>INCARICO TECNICO PER PRATICHE PROGETTUALI E TECNICO AMMINISTRATIVE RELATIVE ALLA VALUTAZIONE DEL PROGETTO E SEGNALAZIONE CERTIFICATA DI INZIO ATTIVITA AI FINI DELLA SICUREZZA ANTINCENDIO DEL PLESSO SCOLASTICO COMUNALE (EDIF. SCOLASTICO E PALESTRA)</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>GHRFNC76T19H501G</codiceFiscale>
+                        						<ragioneSociale>GEOM. FRANCESCO GHIRONZI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>GHRFNC76T19H501G</codiceFiscale>
+                        	
+    					<ragioneSociale>GEOM. FRANCESCO GHIRONZI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-09-23</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>682660115C</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>TRASPORTO PUBBLICO LOCALE TRA IL COMUNE DI MONTEFLAVIO, IL COMUNE DI MORICONE E LA STAZIONE FERROVIARIA DI FL1 DI PIANABELLA DI MONTELIBRETTI.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>11668861005</codiceFiscale>
+                        						<ragioneSociale>AUTOLINEE S.A.P. SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>11668861005</codiceFiscale>
+                        	
+    					<ragioneSociale>AUTOLINEE S.A.P. SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>100000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-01</dataInizio>
+										<dataUltimazione>2017-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDA1B7F456</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>CONTRATTO DI SERVIZIO TRA COMUNE DI MONTEFLAVIO E IL CNR (CONSIGLIO NAZIONALE DELLE RICERCHE) - ISTITUTO DI CRISTALLOGRAFIA - PER RETI TELEMATICHE (CONNETTIVITA').</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>80054330586</codiceFiscale>
+                        						<ragioneSociale>CNR - Cristallografia</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>80054330586</codiceFiscale>
+                        	
+    					<ragioneSociale>CNR - Cristallografia</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2302.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z201BACCB2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO INCARICO DI REDAZIONE DELLA PROGETTAZIONE RELATIVA ALL'UTILIZZO SELVICOLTURALE DEI BOSCHI DI PROPRIETA' COMUNALE.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>SLVRCR80H13H501G</codiceFiscale>
+                        						<ragioneSociale>SALVATI RICCARDO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>SLVRCR80H13H501G</codiceFiscale>
+                        	
+    					<ragioneSociale>SALVATI RICCARDO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>6500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-19</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF41BC1C4A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SOSTITUZIONE DUE PNEUMATICI DELL'AUTOVETTURA FIAT PUNTO DEL COMUNE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>11947491004</codiceFiscale>
+                        						<ragioneSociale>B.C. Petroli snc di Bacchetti Claudio e C.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>11947491004</codiceFiscale>
+                        	
+    					<ragioneSociale>B.C. Petroli snc di Bacchetti Claudio e C.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>106.56</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-26</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z771BC1CEA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA VETRI VARI PER FINESTRE CAMERA MORTUARIA CIMITERO E PER BACHECHE AVVISI PUBBLICI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>05376151006</codiceFiscale>
+                        						<ragioneSociale>VETRERIA VALLATI GIULIO SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>05376151006</codiceFiscale>
+                        	
+    					<ragioneSociale>VETRERIA VALLATI GIULIO SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>200.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-26</dataInizio>
+										<dataUltimazione>2016-11-01</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD81BC2F37</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO DEL SERVIZIO DI TRASPORTO E DI SMALTIMENTO DEI RIFIUTI PRODOTTI DALLA GRIGLIATURA DELL'IMPIANTO DI DEPURAZIONE.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08625311009</codiceFiscale>
+                        						<ragioneSociale>PRAGMA  A.R.L.-IGIENE AMBIENTALE-</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08625311009</codiceFiscale>
+                        	
+    					<ragioneSociale>PRAGMA  A.R.L.-IGIENE AMBIENTALE-</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>600.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-26</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD41C40332</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SMALTIMENTO DELLA FRAZIONE ORGANICA DEI RIFIUTI SOLDI URBANI FINO AL TERMINE DELL'ANNO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03264790548</codiceFiscale>
+                        						<ragioneSociale>TIMIA SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03264790548</codiceFiscale>
+                        	
+    					<ragioneSociale>TIMIA SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2909.10</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-17</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z121C404D5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>NUOVA UTENZA ENERGIA ELETTRICA NECESSARIA PER IL FUNZIONAMENTO DEL CENTRO DI RACCOLTA RIFIUTI URBANI IN MODO DIFFERENZIATO (ISOLA ECOLOGICA)</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03443420231</codiceFiscale>
+                        						<ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03443420231</codiceFiscale>
+                        	
+    					<ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>24540.29</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-29</dataInizio>
+										<dataUltimazione>2016-12-15</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>24540.29</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZAC1CC5F90</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO SMALTIMENTO RIFIUTI SOLIDI URBANI, FRAZIONE INDIFFERENZIATA, NELL'ANNO 2017</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>05950160589</codiceFiscale>
+                        						<ragioneSociale>ECOLOGIA VITERBO SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>05950160589</codiceFiscale>
+                        	
+    					<ragioneSociale>ECOLOGIA VITERBO SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>15000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2017-01-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z691CC5F27</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI SMALTIMENTO RIFIUTI SOLDI URBANI, FRAZIONE ORGANICA, PER I PRIMI SEI MESI DELL'ANNO 2017</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03264790548</codiceFiscale>
+                        						<ragioneSociale>TIMIA SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03264790548</codiceFiscale>
+                        	
+    					<ragioneSociale>TIMIA SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>7848.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2017-01-01</dataInizio>
+										<dataUltimazione>2017-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z071CC6031</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO LAVORI &quot;INTERVENTO DI INTEGRAZIONE E SOSTITUZIONE ELEMENTI DI ARREDO URBANO NEL CENTRO STORICO&quot;</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00732310578</codiceFiscale>
+                        						<ragioneSociale>sabina simic sas</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00732310578</codiceFiscale>
+                        	
+    					<ragioneSociale>sabina simic sas</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>4633.59</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2017-02-01</dataInizio>
+										<dataUltimazione>2017-03-15</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4F1CCC7EB</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA DI MATERIALE NECESSARIO PER IL FUNZIONAMENTO DELL'IMPIANTO DEL SERVIZIO LAMPADE VOTIVE NEI CIMITERI COMUNALI.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>DMCPLA73C62L182Z</codiceFiscale>
+                        						<ragioneSociale>De Mico Paola</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>DMCPLA73C62L182Z</codiceFiscale>
+                        	
+    					<ragioneSociale>De Mico Paola</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>800.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-31</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z451CCC82A</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI ASSISTENZA TECNICA DELL'IMPIANTO DI EROGAZIONE (FONTANA) &quot;ACQUA SÌ&quot; PER L'ANNO 2017.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00866750573</codiceFiscale>
+                        						<ragioneSociale>LORENZONI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00866750573</codiceFiscale>
+                        	
+    					<ragioneSociale>LORENZONI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>3278.68</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2017-01-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD51CC5FD4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA UN ARMADIO A BASAMENTO PER ALLOGGIAMENTO INTERRUTTORI E MISURATORI ENERGIA ELETTRICA NECESSARIA PER IL FUNZIONAMENTO DEL CENTRO DI RACCOLTA RIFIUTI URBANI IN MODO DIFFERENZIATO (ISOLA ECOLOGICA).</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01930501000</codiceFiscale>
+                        						<ragioneSociale>ELETTROLUX SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01930501000</codiceFiscale>
+                        	
+    					<ragioneSociale>ELETTROLUX SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>242.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-31</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDF1CC6090</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>AFFIDAMENTO INCARICO PROFESIONALE PER SVOLGIMENTO ISTRUTTORIO DELLE ISTANZE EDILIZIE INTERESSATE DAL REGIME DI SUB DELEGA EX L.R. 59/95 E S.M.I.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>BLDSFN53M43H501X</codiceFiscale>
+                        						<ragioneSociale>BALDI STEFANIA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>BLDSFN53M43H501X</codiceFiscale>
+                        	
+    					<ragioneSociale>BALDI STEFANIA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>580.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-09-29</dataInizio>
+										<dataUltimazione>2017-04-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>65941554D9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA DI ATTREZZATURE (MASTELLI, BIDONI E SACCHI) PER LA RACCOLTA DEI RIFIUTI IN MODO DIFFERENZIATO NEI COMUNI DI MONTEFLAVIO (CAPOFILA), MONTORIO ROMANO, MORICONE E NEROLA.</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>10536421000</codiceFiscale>
+                        						<ragioneSociale>ECOMITO SRL</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>02448130167</codiceFiscale>
+                        						<ragioneSociale>EUROSINTEX</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>12563230155</codiceFiscale>
+                        						<ragioneSociale>LADY PLASTIK SRL</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01100130226</codiceFiscale>
+                        						<ragioneSociale>SARTORI AMBIENTE SRL</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01968440600</codiceFiscale>
+                        						<ragioneSociale>SCAU ECOLOGICA SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01968440600</codiceFiscale>
+                        	
+    					<ragioneSociale>SCAU ECOLOGICA SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>57952.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-03-04</dataInizio>
+										<dataUltimazione>2016-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>57952.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z53187F20D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RINNOVO POLIZZA ASSICURATICA MOTOCARRO - APECAR TG. BJ46820</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00929300572</codiceFiscale>
+                        						<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00929300572</codiceFiscale>
+                        	
+    					<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>299.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-12</dataInizio>
+										<dataUltimazione>2017-02-12</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>299.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z58193C61B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RINNOVO POLIZZE ASSICURATIVE ANNO 2016-2017 - RAMO 10 Sub 11 INCENDI RISCHI CIVILI, RAMO 90 Sub11 UFFICI SEDE COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>DRBGTN52H30L182N</codiceFiscale>
+                        						<ragioneSociale>Amissima Assicurazioni%u201D  S.p.A.. - D%u2019Urbano  S.r.L</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>DRBGTN52H30L182N</codiceFiscale>
+                        	
+    					<ragioneSociale>Amissima Assicurazioni%u201D  S.p.A.. - D%u2019Urbano  S.r.L</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1338.30</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-03-24</dataInizio>
+										<dataUltimazione>2017-03-23</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1338.30</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z861986EFD</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI PRIMA ACCOGLIENZA E RICOVERO TEMPORANEO DEI CANI RANDAGI INDIVIDUATI SUL TERRITORIO COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08185841007</codiceFiscale>
+                        						<ragioneSociale>VIOTTI S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08185841007</codiceFiscale>
+                        	
+    					<ragioneSociale>VIOTTI S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>600.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-18</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>320.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZBC19EB1E7</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RINNOVO POLIZZA ASSICURATIVA PER LA MACCHINA OPERATRICE COMPLESSA (SPAZZATRICE)</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00929300572</codiceFiscale>
+                        						<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00929300572</codiceFiscale>
+                        	
+    					<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>315.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-06-01</dataInizio>
+										<dataUltimazione>2017-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>315.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z171A5FC5D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RILEGATURA ATTI AMMINISTRATIVI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>LLLRCL65P22H501Y</codiceFiscale>
+                        						<ragioneSociale>Laboratorio di legatoria, doratura e restauro del libro di  Lelli Ercole</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>LLLRCL65P22H501Y</codiceFiscale>
+                        	
+    					<ragioneSociale>Laboratorio di legatoria, doratura e restauro del libro di  Lelli Ercole</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>420.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-06-22</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>280.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z921BEA470</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RILEGATURA ATTI AMMINISTRATIVI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>LLLRCL65P22H501Y</codiceFiscale>
+                        						<ragioneSociale>Laboratorio di legatoria, doratura e restauro del libro di  Lelli Ercole</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>LLLRCL65P22H501Y</codiceFiscale>
+                        	
+    					<ragioneSociale>Laboratorio di legatoria, doratura e restauro del libro di  Lelli Ercole</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>200.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-10</dataInizio>
+										<dataUltimazione>2017-05-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z771A86671</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>POLIZZA R.C. AUTO E ALLA POLIZZA GARANZIA DEL CONDUCENTE - AUTOVETTURA FIAT</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00929300572</codiceFiscale>
+                        						<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00929300572</codiceFiscale>
+                        	
+    					<ragioneSociale>ASSICURAZIONE UNIPOL SAI AGENZIA DI RIETI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>482.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-13</dataInizio>
+										<dataUltimazione>2017-07-13</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>482.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF91B16744</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>CONVENZIONE DI ASSISTENZA SOFTWARE E HARDWARE PER I SERVIZI SISTEMISTICI E SERVIZI FULL SERVICE E WHITE BOX ANNO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00384350435</codiceFiscale>
+                        						<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00384350435</codiceFiscale>
+                        	
+    					<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>15267.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4B1BB27B4</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MANTENIMENTO DEI CANI AD VITAM RICOVERATI PRESSO IL RIFUGIO &quot; FIDOLANDIA&quot; DELLA IX ^ COMUNITA' MONTANA DEL LAZIO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>80116050586</codiceFiscale>
+                        						<ragioneSociale>E.N.P.A.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>80116050586</codiceFiscale>
+                        	
+    					<ragioneSociale>E.N.P.A.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1975.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZA01C4534E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RESIDENZA SANITARIA ASSISTITA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>06703461001</codiceFiscale>
+                        						<ragioneSociale>ITALIAN HOSPITAL GROUP SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>06703461001</codiceFiscale>
+                        	
+    					<ragioneSociale>ITALIAN HOSPITAL GROUP SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1341.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-04</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z831A66207</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ABBONAMENTO A &quot;LEGGI D'ITALIA, PRASSI, EDILIZIA E URBANISTICA, CODICI D'ITALIA , GESTIONE DELL'ENTE LOCALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>10209790152</codiceFiscale>
+                        						<ragioneSociale>GRUPPO WOLTERS KLUWER SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>10209790152</codiceFiscale>
+                        	
+    					<ragioneSociale>GRUPPO WOLTERS KLUWER SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2638.80</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-06-01</dataInizio>
+										<dataUltimazione>2019-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>879.60</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZCE1A86E34</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>RINNOVO POLIZZA ASSICURATIVA RCT</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08298331003</codiceFiscale>
+                        						<ragioneSociale>COMPAGNIA HELVETIA - AGENZIA MILANI ASSICURAZIONI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08298331003</codiceFiscale>
+                        	
+    					<ragioneSociale>COMPAGNIA HELVETIA - AGENZIA MILANI ASSICURAZIONI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>7800.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>7800.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZE417E7D23</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI ASSISTENZA EDUCATIVA CULTURALE - A.S. 2015/2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08927951007</codiceFiscale>
+                        						<ragioneSociale>GIRASOLE 2006 SOC.COOP.SOC.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08927951007</codiceFiscale>
+                        	
+    					<ragioneSociale>GIRASOLE 2006 SOC.COOP.SOC.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>5500.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-05-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>5500.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZA818A0FA1</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA DI CARTELLA ELETTORALE COMPLETA CONTENENTE STAMPATI ELETTORALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00089070403</codiceFiscale>
+                        						<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00089070403</codiceFiscale>
+                        	
+    					<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>261.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-22</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>261.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZAE18AAD24</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ABBONAMENTO ANNUALE ALLA RIVISTA SPECIALIZZATA &quot;LO STATO CIVILE ITALIANO&quot; ANNO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00285910378</codiceFiscale>
+                        						<ragioneSociale>CASA EDITRICE S.E.P.E.L</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00285910378</codiceFiscale>
+                        	
+    					<ragioneSociale>CASA EDITRICE S.E.P.E.L</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>415.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>415.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z47195C154</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA DI CARTELLA ELETTORALE COMPLETA CONTENENTE STAMPATI ELETTORALI.</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02066400405</codiceFiscale>
+                        						<ragioneSociale>GRUPPO MAGGIOLI MODULGRAFICA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02066400405</codiceFiscale>
+                        	
+    					<ragioneSociale>GRUPPO MAGGIOLI MODULGRAFICA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>363.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-11</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>363.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7E1AA6240</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>NOLEGGIO DI PULLMAN CON CONDUCENTE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03544221009</codiceFiscale>
+                        						<ragioneSociale>Alfa Tour by LP di LPM &amp; C.Sas</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03544221009</codiceFiscale>
+                        	
+    					<ragioneSociale>Alfa Tour by LP di LPM &amp; C.Sas</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1880.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-14</dataInizio>
+										<dataUltimazione>2016-08-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1880.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6F1AE02A2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>REGISTRO DELLE UNIONI CIVILI E E DEI FOGLI DELLE CONVIVENZE DI FATTO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00089070403</codiceFiscale>
+                        						<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00089070403</codiceFiscale>
+                        	
+    					<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>92.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-05</dataInizio>
+										<dataUltimazione>2016-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>92.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z361AFA88F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>LIBRI DI TESTO SCUOLA PRIMARIA A. S. 2016/17</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>GLNGZL81C47A522W</codiceFiscale>
+                        						<ragioneSociale>Ditta Individuale di Graziella Golino</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>GLNGZL81C47A522W</codiceFiscale>
+                        	
+    					<ragioneSociale>Ditta Individuale di Graziella Golino</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1550.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-22</dataInizio>
+										<dataUltimazione>2016-10-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1528.10</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z8A1B19BB5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA REGISTRI DI CLASSE PER LA SCUOLA PRIMARIA DI MONTEFLAVIO</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00619850589</codiceFiscale>
+                        						<ragioneSociale>CASA EDITRICE SCOLASTICA LOMBARDI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00619850589</codiceFiscale>
+                        	
+    					<ragioneSociale>CASA EDITRICE SCOLASTICA LOMBARDI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>64.30</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-09-08</dataInizio>
+										<dataUltimazione>2016-09-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>64.30</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7A1B56019</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>PULIZIA DEL REFETTORIO DELLA SCUOLA PRIMARIA PER L'ANNO SCOLASTICO 2016/17</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00686040577</codiceFiscale>
+                        						<ragioneSociale>ESPERIENZE 84 SOC. COOP.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00686040577</codiceFiscale>
+                        	
+    					<ragioneSociale>ESPERIENZE 84 SOC. COOP.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>980.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-01</dataInizio>
+										<dataUltimazione>2017-05-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZF31B58793</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI ASSISTENZA EDUCATIVO CULTURALE ANNO SCOLASTICO 2016/17</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>08927951007</codiceFiscale>
+                        						<ragioneSociale>GIRASOLE 2006 SOC.COOP.SOC.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>08927951007</codiceFiscale>
+                        	
+    					<ragioneSociale>GIRASOLE 2006 SOC.COOP.SOC.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>8880.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-09-01</dataInizio>
+										<dataUltimazione>2017-06-10</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>2220.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z101B7C3C6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MATERIALE IGIENICO SANITARIO E DI CANCELLERIA PER LA SCUOLA PRIMARIA DI MONTEFLAVIO E PER GLI UFFICI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01426370670</codiceFiscale>
+                        						<ragioneSociale>GIMAR ITALIA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01426370670</codiceFiscale>
+                        	
+    					<ragioneSociale>GIMAR ITALIA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>820.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-07</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z331B83DF6</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>CARTELLA ELETTORALE COMPLETA PER REFERENDUM COSTITUZIONALE DEL 4 DICEMBRE</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00089070403</codiceFiscale>
+                        						<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00089070403</codiceFiscale>
+                        	
+    					<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>227.50</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-10-07</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>227.50</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZDE1BA8268</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>REGISTRI DI STATO CIVILE 2017 E LA RILEGATURA DEI REGISTRI DEL 2016</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00089070403</codiceFiscale>
+                        						<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00089070403</codiceFiscale>
+                        	
+    					<ragioneSociale>GRAFICHE E. GASPARI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>699.27</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>0216-10-19</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>699.27</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZAC1BDF514</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>CELEBRAZIONE COMMEMORATIVA NEL CENTENARIO DELLA PRIMA GUERRA MONDIALE E CERIMONIA IN RICORDO DEI CADUTI DI TUTTE LE GUIERRE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>94024730585</codiceFiscale>
+                        						<ragioneSociale>COMPLESSO BANDISTICO DI MONTEFLAVIO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>94024730585</codiceFiscale>
+                        	
+    					<ragioneSociale>COMPLESSO BANDISTICO DI MONTEFLAVIO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>980.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-04</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>980.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z801C11BE9</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>STIRATURA E RIMESSA A PUNTO DEI TENDAGGI VARI DEGLI IMMOBILI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>GLRLDE47L58H501Q</codiceFiscale>
+                        						<ragioneSociale>TINTORIA GILARDI ELIDE</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>GLRLDE47L58H501Q</codiceFiscale>
+                        	
+    					<ragioneSociale>TINTORIA GILARDI ELIDE</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>246.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-17</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>246.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z3C1C8912F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>PROIETTORE PER LA BIBLIOTECA COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>11852421004</codiceFiscale>
+                        						<ragioneSociale>DIGITALGENERATION S.N.C</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>11852421004</codiceFiscale>
+                        	
+    					<ragioneSociale>DIGITALGENERATION S.N.C</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>535.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-15</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>535.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z111C89257</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO DI UN ALBERO DI NATALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>SCCGPP66M15D561O</codiceFiscale>
+                        						<ragioneSociale>Vivai Scacchi Giuseppe</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>SCCGPP66M15D561O</codiceFiscale>
+                        	
+    					<ragioneSociale>Vivai Scacchi Giuseppe</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>390.40</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-15</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>390.40</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZC61CC4D14</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FESTA PATRONALE DI META' AGOSTO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>94024730585</codiceFiscale>
+                        						<ragioneSociale>COMPLESSO BANDISTICO DI MONTEFLAVIO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>94024730585</codiceFiscale>
+                        	
+    					<ragioneSociale>COMPLESSO BANDISTICO DI MONTEFLAVIO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-29</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z6A1CC4CCB</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FESTA PATRONALE DI META' AGOSTO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>12573321002</codiceFiscale>
+                        						<ragioneSociale>PIROTECNICA COLONNELLI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>12573321002</codiceFiscale>
+                        	
+    					<ragioneSociale>PIROTECNICA COLONNELLI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>819.67</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-29</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>819.67</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z191CC4C88</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FESTA PATRONALE DI META' AGOSTO 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>FRZLSN66C19E463H</codiceFiscale>
+                        						<ragioneSociale>DIMENSIONE LUCE DI FREZZA ALESSANDRO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>FRZLSN66C19E463H</codiceFiscale>
+                        	
+    					<ragioneSociale>DIMENSIONE LUCE DI FREZZA ALESSANDRO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>820.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-29</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>820.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZB118BC853</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ACQUISTO CANCELLERIA</oggetto>
+		<sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01469840662</codiceFiscale>
+                        						<ragioneSociale>SOC. INGROSCART SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01469840662</codiceFiscale>
+                        	
+    					<ragioneSociale>SOC. INGROSCART SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>560.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-20</dataInizio>
+										<dataUltimazione>2016-04-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>560.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z40191153B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>TELEFONIA - UFFICI COMUNALI</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00488410010</codiceFiscale>
+                        						<ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00488410010</codiceFiscale>
+                        	
+    					<ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z3E19115AC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>TELEFONIA - SCUOLA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00488410010</codiceFiscale>
+                        						<ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00488410010</codiceFiscale>
+                        	
+    					<ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>366.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>1970-01-12</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>191.75</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z3019115D2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA ACQUA POTABILE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>07048090588</codiceFiscale>
+                        						<ragioneSociale>CONSORZIO IDRAULICO SABINO</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>07048090588</codiceFiscale>
+                        	
+    					<ragioneSociale>CONSORZIO IDRAULICO SABINO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>8250.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>6189.50</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZBB1911607</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MANUTENZIONE IMPIANTO ILLUMINAZIONE PUBBLICA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>02322600541</codiceFiscale>
+                        						<ragioneSociale>ENEL-SOLE</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>02322600541</codiceFiscale>
+                        	
+    					<ragioneSociale>ENEL-SOLE</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>600.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>600.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z451911694</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA ENERGIA ELETTRICA</oggetto>
+		<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03443420231</codiceFiscale>
+                        						<ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03443420231</codiceFiscale>
+                        	
+    					<ragioneSociale>GLOBAL POWER SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>180000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>155017.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7F1A608B5</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MANUTENZIONE FOTOCOPIATRICE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>PPLVTI59E04G293C</codiceFiscale>
+                        						<ragioneSociale>CARTOTECNICA SABINA DI IPPOLITI V.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>PPLVTI59E04G293C</codiceFiscale>
+                        	
+    					<ragioneSociale>CARTOTECNICA SABINA DI IPPOLITI V.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>90.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-03-30</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>90.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZE119A7B8E</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>ADDESTRAMENTO BILANCIO DI PREVISIONE 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00384350435</codiceFiscale>
+                        						<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00384350435</codiceFiscale>
+                        	
+    					<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>210.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-20</dataInizio>
+										<dataUltimazione>2016-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>210.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z801A5B799</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>QUOTA ASSOCIATIVA ANUTEL ANNO 2015/ 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>99330670797</codiceFiscale>
+                        						<ragioneSociale>A.N.U.T.E.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>99330670797</codiceFiscale>
+                        	
+    					<ragioneSociale>A.N.U.T.E.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>350.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>350.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZBC1CC3CA8</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>CONTROLLO E INVIO TELEMATICO IVA-IRAP</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00384350435</codiceFiscale>
+                        						<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00384350435</codiceFiscale>
+                        	
+    					<ragioneSociale>HALLEY INFORMATICA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>340.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-12-28</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z5C19115EA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA DI GAS DA RISCALDAMENTO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00484960588</codiceFiscale>
+                        						<ragioneSociale>ENI SPA DIVISIONE GAS &amp; POWER</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00484960588</codiceFiscale>
+                        	
+    					<ragioneSociale>ENI SPA DIVISIONE GAS &amp; POWER</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>10000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.01</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>QUADRO ELETTRICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00812500577</codiceFiscale>
+                        						<ragioneSociale>TERMOSABINA S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00812500577</codiceFiscale>
+                        	
+    					<ragioneSociale>TERMOSABINA S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>68.63</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-15</dataInizio>
+										<dataUltimazione>2016-01-15</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>68.63</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>TONER PER FAX</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>PPLVTI59E04G293C</codiceFiscale>
+                        						<ragioneSociale>CARTOTECNICA SABINA DI IPPOLITI V.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>PPLVTI59E04G293C</codiceFiscale>
+                        	
+    					<ragioneSociale>CARTOTECNICA SABINA DI IPPOLITI V.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>170.60</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-02-25</dataInizio>
+										<dataUltimazione>2016-02-25</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>170.60</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>FIORI ARREDO URBANO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>03503021002</codiceFiscale>
+                        						<ragioneSociale>VIVAI FRAPPETTA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>03503021002</codiceFiscale>
+                        	
+    					<ragioneSociale>VIVAI FRAPPETTA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>103.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-04-05</dataInizio>
+										<dataUltimazione>2016-04-05</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>103.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>REVISIONE PERIODICA AUTOMEZZO COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>04821981000</codiceFiscale>
+                        						<ragioneSociale>4M AUTO DI PETRUCCI MAURO &amp;C. SNC</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>04821981000</codiceFiscale>
+                        	
+    					<ragioneSociale>4M AUTO DI PETRUCCI MAURO &amp;C. SNC</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>67.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-06-20</dataInizio>
+										<dataUltimazione>2016-06-20</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>67.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MATERIALE PER MANUTENZIONE IMPIANTO IDRICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01071020570</codiceFiscale>
+                        						<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01071020570</codiceFiscale>
+                        	
+    					<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>55.07</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-22</dataInizio>
+										<dataUltimazione>2016-07-22</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>55.07</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>XXXXXXXXXX</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MATERIALE PER MANUTENZIONE IMPIANTO IDRICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01071020570</codiceFiscale>
+                        						<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01071020570</codiceFiscale>
+                        	
+    					<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>8.19</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-03</dataInizio>
+										<dataUltimazione>2016-11-03</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>8.19</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SPESA PARTECIPANE CORSO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>99330670797</codiceFiscale>
+                        						<ragioneSociale>A.N.U.T.E.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>99330670797</codiceFiscale>
+                        	
+    					<ragioneSociale>A.N.U.T.E.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>50.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-26</dataInizio>
+										<dataUltimazione>2016-07-26</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>50.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MATERIALE PER MANUTENZIONE IMPIANTO IDRICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01071020570</codiceFiscale>
+                        						<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01071020570</codiceFiscale>
+                        	
+    					<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>43.22</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-07-22</dataInizio>
+										<dataUltimazione>2016-07-22</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>43.22</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MATERIALE PER MANUTENZIONE IMPIANTO IDRICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01071020570</codiceFiscale>
+                        						<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01071020570</codiceFiscale>
+                        	
+    					<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>8.71</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-08-30</dataInizio>
+										<dataUltimazione>2016-08-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>8.71</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>BATTERIA AUTOMEZZO COMUNALE</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>07150300585</codiceFiscale>
+                        						<ragioneSociale>AUTORICAMBI F.LLI TOMASSETTI</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>07150300585</codiceFiscale>
+                        	
+    					<ragioneSociale>AUTORICAMBI F.LLI TOMASSETTI</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>100.65</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-09-26</dataInizio>
+										<dataUltimazione>2016-09-26</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>100.65</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>SPESE POSTALI 2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>97103880585</codiceFiscale>
+                        						<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>97103880585</codiceFiscale>
+                        	
+    					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>439.85</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>439.85</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>0000000000</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>86001870582</codiceFiscaleProp>
+			<denominazione>Comune di Monteflavio</denominazione>
+		</strutturaProponente>
+		<oggetto>MATERIALE PER MANUTENZIONE IMPIANTO IDRICO</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01071020570</codiceFiscale>
+                        						<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01071020570</codiceFiscale>
+                        	
+    					<ragioneSociale>SEIPAS  di Ribaldi Fabio</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>8.19</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-11-03</dataInizio>
+										<dataUltimazione>2016-11-03</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>8.19</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

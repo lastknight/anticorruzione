@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?> 
+<indici NS0:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:NS0="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Istituto tecnico per il turismo e le biotecnologie in lingua tedesca "Marie Curie" - Istituto tecnico per il turismo e le biotecnologie "Marie Curie" Merano - Pubblicazione legge 190</titolo> 
+<abstract>Istituto tecnico per il turismo e le biotecnologie in lingua tedesca "Marie Curie" - Istituto tecnico per il turismo e le biotecnologie "Marie Curie" Merano - Pubblicazione legge 190; anno rif. 2012-2013-2014-2015-2016</abstract> 
+<dataPubblicazioneIndice>2017-02-11</dataPubblicazioneIndice> 
+<entePubblicatore>Istituto tecnico per il turismo e le biotecnologie in lingua tedesca "Marie Curie" - Istituto tecnico per il turismo e le biotecnologie "Marie Curie" Merano</entePubblicatore> 
+<dataUltimoAggiornamentoIndice>2017-02-11</dataUltimoAggiornamentoIndice> 
+<annoRiferimento>2016</annoRiferimento> 
+<urlFile>www.fos-me.it/images/xml/datasetindice.xml</urlFile> 
+<licenza>IODL 2.0</licenza> 
+</metadata>
+<indice>
+
+<dataset id="ID_2012">
+<linkDataset>www.fos-me.it/images/xml/esiti_2012_20140723-1.xml</linkDataset> 
+<dataUltimoAggiornamento>2014-07-23</dataUltimoAggiornamento> 
+</dataset>
+
+<dataset id="ID_2013">
+<linkDataset>www.fos-me.it/images/xml/esiti_2013_20140725-1.xml</linkDataset> 
+<dataUltimoAggiornamento>2014-07-25</dataUltimoAggiornamento> 
+</dataset>
+
+<dataset id="ID_2014">
+<linkDataset>www.fos-me.it/images/xml/esiti_2014_20150129-1.xml</linkDataset>
+<dataUltimoAggiornamento>2015-01-29</dataUltimoAggiornamento> 
+ </dataset>
+
+<dataset id="ID_2015">
+<linkDataset>www.fos-me.it/images/xml/esiti_2015_20160128-1.xml</linkDataset> 
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+
+<dataset id="ID_2016">
+<dataUltimoAggiornamento>2017-02-11</dataUltimoAggiornamento> 
+<linkDataset>www.fos-me.it/images/xml/esiti_2016_20170211-1.xml</linkDataset> 
+<dataUltimoAggiornamento>2017-02-11</dataUltimoAggiornamento>
+</dataset>
+
+</indice>
+</indici>

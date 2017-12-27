@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Liquid XML 2016 Designer Edition (Trial) 14.1.5.6733 (https://www.liquid-technologies.com) -->
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>INDICE PUBBLICAZIONE N. 85</titolo>
+        <abstract>PUBBLICAZIONE RELATIVA ALL&apos;ANNO 2016</abstract>
+        <dataPubblicazioneIndice>2017-01-28</dataPubblicazioneIndice>
+        <entePubblicatore>FONDAZIONE IRCCS ISTITUTO NAZIONALE DEI TUMORI</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-01-28</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.istitutotumori.mi.it/xml_2016/indicedataset_2016.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP1.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP2.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP3.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_4">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP4.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_5">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP5.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_6">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP6.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_7">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP7.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_8">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP8.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_9">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP9.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_10">
+            <linkDataset>http://www.istitutotumori.mi.it/xml_2016/INT-Prospettopubblicazionegare2016AVCP10.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+		<abstract>Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2016-01-20</abstract>
+		<dataPubblicazioneIndice>2016-01-20</dataPubblicazioneIndice>
+		<entePubblicatore>UNIVERSITA' DEGLI STUDI DI MILANO</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-20</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.unimi.it/cataloghi/gare_appalto_contratti/indice_unimi_anac_dataset_2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.unimi.it/cataloghi/gare_appalto_contratti/unimi_anac_dataset1_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.unimi.it/cataloghi/gare_appalto_contratti/unimi_anac_dataset2_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.unimi.it/cataloghi/gare_appalto_contratti/unimi_anac_dataset3_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.unimi.it/cataloghi/gare_appalto_contratti/unimi_anac_dataset4_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_5">
+			<linkDataset>http://www.unimi.it/cataloghi/gare_appalto_contratti/unimi_anac_dataset5_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

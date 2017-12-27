@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2015-01-05</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Poggio Catino</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2015-02-20</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c057052/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>ZB71127F7F</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00096500574</codiceFiscaleProp>
+			<denominazione>COMUNE DI POGGIO CATINO</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER ANALISI ACQUE IMPIANTO DEPURATORE SITO IN VIA FINOCCHIETO KM 5</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00788780575</codiceFiscale>
+					<ragioneSociale>STUDIO ANALISI CLINICHE DI BIANCHETTI G.MENDEL &amp; C.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00788780575</codiceFiscale>
+					<ragioneSociale>STUDIO ANALISI CLINICHE DI BIANCHETTI G. MENDEL &amp; C.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>888.16</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-09-06</dataInizio>
+										<dataUltimazione>2014-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z4410F3F70</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00096500574</codiceFiscaleProp>
+			<denominazione>COMUNE DI POGGIO CATINO</denominazione>
+		</strutturaProponente>
+		<oggetto>affidamento diretto del servizio di refezione scolastica 2014/2015</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>00686040577</codiceFiscale>
+					<ragioneSociale>ESPERIENZE 84</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>00686040577</codiceFiscale>
+					<ragioneSociale>ESPERIENZE 84</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>20640.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-10-01</dataInizio>
+										<dataUltimazione>2015-05-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z0F1340B39</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00096500574</codiceFiscaleProp>
+			<denominazione>UFFICIO FINANZIARIO</denominazione>
+		</strutturaProponente>
+		<oggetto>Assunzione impegno di spesa per acquisizione in economia di servizi relativi a nuovo modulo certificazione unica 2015 ditta TP ONE attraverso il mercato elettronico della pubblic</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>01126870573</codiceFiscale>
+					<ragioneSociale>TP One Srl</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>219.60</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-02-18</dataInizio>
+										<dataUltimazione>2015-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

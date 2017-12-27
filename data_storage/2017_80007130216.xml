@@ -1,0 +1,900 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+ <metadata>
+   <titolo>Pubblicazione anno riferimento 2016</titolo>
+   <abstract>Pubblicazione anno riferimento 2016</abstract>
+   <dataPubbicazioneDataset>2017-02-07</dataPubbicazioneDataset>
+   <entePubblicatore>Casa di cura e riposo di Funes</entePubblicatore>
+   <dataUltimoAggiornamentoDataset>2017-02-07</dataUltimoAggiornamentoDataset>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21510/684188EE-1F04-4992-A572-C6D68157B11A.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+ <data>
+   <lotto>
+     <cig>5337244115</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Gara di affidamento progettazione defintivia, esecutiva, CSP ed antincendio</oggetto>
+     <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+     <partecipanti>
+       <raggruppamento>
+         <membro>
+           <codiceFiscale>00663600211</codiceFiscale>
+           <ragioneSociale>Planungsbüro Mayr</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02431020219</codiceFiscale>
+           <ragioneSociale>Pfeifer Planung GmbH</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02695690210</codiceFiscale>
+           <ragioneSociale>Studio I.M.</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01608140214</codiceFiscale>
+           <ragioneSociale>Dr. Ing. Michael Pfeifer</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>00478120215</codiceFiscale>
+           <ragioneSociale>Ing. Plaickner Günther</ragioneSociale>
+           <ruolo>02-MANDATARIA</ruolo>
+         </membro>
+       </raggruppamento>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatarioRaggruppamento>
+         <membro>
+           <codiceFiscale>00663600211</codiceFiscale>
+           <ragioneSociale>Planungsbüro Mayr</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02431020219</codiceFiscale>
+           <ragioneSociale>Pfeifer Planung GmbH</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02695690210</codiceFiscale>
+           <ragioneSociale>Studio I.M.</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01608140214</codiceFiscale>
+           <ragioneSociale>Dr. Ing. Michael Pfeifer</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>00478120215</codiceFiscale>
+           <ragioneSociale>Ing. Plaickner Günther</ragioneSociale>
+           <ruolo>02-MANDATARIA</ruolo>
+         </membro>
+       </aggiudicatarioRaggruppamento>
+     </aggiudicatari>
+     <importoAggiudicazione>66641.57</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2013-12-20</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>58999.83</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZE41AED78E</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento e ampliamento / progettazione escutiva e definitiva</oggetto>
+     <sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+     <partecipanti>
+       <raggruppamento>
+         <membro>
+           <codiceFiscale>00663600211</codiceFiscale>
+           <ragioneSociale>Planungsbüro Mayr</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02431020219</codiceFiscale>
+           <ragioneSociale>Pfeifer Planung GmbH</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02695690210</codiceFiscale>
+           <ragioneSociale>Studio I.M.</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01608140214</codiceFiscale>
+           <ragioneSociale>Dr. Ing. Michael Pfeifer</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>00478120215</codiceFiscale>
+           <ragioneSociale>Ing. Plaickner Günther</ragioneSociale>
+           <ruolo>02-MANDATARIA</ruolo>
+         </membro>
+       </raggruppamento>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatarioRaggruppamento>
+         <membro>
+           <codiceFiscale>00663600211</codiceFiscale>
+           <ragioneSociale>Planungsbüro Mayr</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02431020219</codiceFiscale>
+           <ragioneSociale>Pfeifer Planung GmbH</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>02695690210</codiceFiscale>
+           <ragioneSociale>Studio I.M.</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>01608140214</codiceFiscale>
+           <ragioneSociale>Dr. Ing. Michael Pfeifer</ragioneSociale>
+           <ruolo>01-MANDANTE</ruolo>
+         </membro>
+         <membro>
+           <codiceFiscale>00478120215</codiceFiscale>
+           <ragioneSociale>Ing. Plaickner Günther</ragioneSociale>
+           <ruolo>02-MANDATARIA</ruolo>
+         </membro>
+       </aggiudicatarioRaggruppamento>
+     </aggiudicatari>
+     <importoAggiudicazione>35000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-08-12</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>34560</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>6826015DC3</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento e ampliamento / opere da impresario costruttore e simili</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02871820219</codiceFiscale>
+           <ragioneSociale>Consorzio Arcfactory</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>02894620216</codiceFiscale>
+           <ragioneSociale>STE BAU S.R.L.</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00159560218</codiceFiscale>
+           <ragioneSociale>Unionbau GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02871820219</codiceFiscale>
+           <ragioneSociale>Consorzio Arcfactory</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1202442</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-10-12</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>6826031AF8</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento e ampliamento / lavori termoidraulici, ventilazione antincendio</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02596660213</codiceFiscale>
+           <ragioneSociale>Larcher GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>00801880212</codiceFiscale>
+           <ragioneSociale>J. Schmidhammer GmbH</ragioneSociale>
+       </partecipante>
+       <partecipante>
+           <codiceFiscale>01679450211</codiceFiscale>
+           <ragioneSociale>Larcher   Brunner GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02596660213</codiceFiscale>
+           <ragioneSociale>Larcher GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>259130</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-10-12</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>6826023460</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Risanamento e ampliamento / impianti elettrici</oggetto>
+     <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02697910210</codiceFiscale>
+           <ragioneSociale>Leitner Electro GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02697910210</codiceFiscale>
+           <ragioneSociale>Leitner Electro GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>149191</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-10-12</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2517C79E5</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto detersivi</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02475870214</codiceFiscale>
+           <ragioneSociale>Hygan GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02475870214</codiceFiscale>
+           <ragioneSociale>Hygan GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4335.28</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z0C17C9579</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto Pesce</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00612670216</codiceFiscale>
+           <ragioneSociale>De Nardo</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00612670216</codiceFiscale>
+           <ragioneSociale>De Nardo</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1400</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1443.18</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z5E1834FB5</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Manutenzione attrezzatura lavanderia</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00098590219</codiceFiscale>
+           <ragioneSociale>Miele Italia GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00098590219</codiceFiscale>
+           <ragioneSociale>Miele Italia GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>567.91</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZAD1842045</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Assistenza tecnica</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02434330219</codiceFiscale>
+           <ragioneSociale>Studio ComClic</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02434330219</codiceFiscale>
+           <ragioneSociale>Studio ComClic</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6074</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z9B188FC89</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Workshop di formazione</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02745130217</codiceFiscale>
+           <ragioneSociale>Fischer Consulting GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02745130217</codiceFiscale>
+           <ragioneSociale>Fischer Consulting GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1600</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-02-17</dataInizio>
+       <dataUltimazione>2016-05-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1422.72</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2618DF215</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto letti</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00813010212</codiceFiscale>
+           <ragioneSociale>Ladurner Hospitalia</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00813010212</codiceFiscale>
+           <ragioneSociale>Ladurner Hospitalia</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>8140</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-03-08</dataInizio>
+       <dataUltimazione>2016-03-08</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>8233.26</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2D18DF2FD</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Assistenza tecnica fase di esecuzione</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02434330219</codiceFiscale>
+           <ragioneSociale>Studio ComClic</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02434330219</codiceFiscale>
+           <ragioneSociale>Studio ComClic</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>18500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-03-08</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7C194C006</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Elaborazione progetto casa clima</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>MYRJNN62A03F950T</codiceFiscale>
+           <ragioneSociale>Johann Mayr</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>MYRJNN62A03F950T</codiceFiscale>
+           <ragioneSociale>Johann Mayr</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3175</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-04-06</dataInizio>
+     </tempiCompletamento>
+     <importoSommeLiquidate>0</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z7219B1401</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Elaborazione stipendi</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>94004440213</codiceFiscale>
+           <ragioneSociale>Südtiroler Gemeindenverband Genossenschaft</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>94004440213</codiceFiscale>
+           <ragioneSociale>Südtiroler Gemeindenverband Genossenschaft</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2017-01-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3796.68</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z4F1BC89C0</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Manutenzione ascensori</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>08710640155</codiceFiscale>
+           <ragioneSociale>Elma SPA</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>08710640155</codiceFiscale>
+           <ragioneSociale>Elma SPA</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2400</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1844.2</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z561A49FA1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Responsabile dei servizi di prevenzione e protezione</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02263750214</codiceFiscale>
+           <ragioneSociale>Securexpert GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02263750214</codiceFiscale>
+           <ragioneSociale>Securexpert GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2900</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2900</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z911A8F9A8</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Macchina per pulizia</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01614580213</codiceFiscale>
+           <ragioneSociale>Hollu International GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01614580213</codiceFiscale>
+           <ragioneSociale>Hollu International GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>2350</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-07-08</dataInizio>
+       <dataUltimazione>2016-07-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2348.16</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZBD1AA0470</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto software RADIX</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00701430217</codiceFiscale>
+           <ragioneSociale>ACS DATA SYSTEMS SPA</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00701430217</codiceFiscale>
+           <ragioneSociale>ACS DATA SYSTEMS SPA</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-07-14</dataInizio>
+       <dataUltimazione>2016-07-14</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>6580.85</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z001AC9660</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto biancheria</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01189750217</codiceFiscale>
+           <ragioneSociale>Inama A.   Söhne OHG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01189750217</codiceFiscale>
+           <ragioneSociale>Inama A.   Söhne OHG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1700</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-07-28</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>2651.31</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z291ACC1C8</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto apparecchiature sanitarie</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01121580219</codiceFiscale>
+           <ragioneSociale>Tachezy Sanit Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01121580219</codiceFiscale>
+           <ragioneSociale>Tachezy Sanit Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1710</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-07-28</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1524</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z1D1AED2F1</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Assistenza tecnica fase di aggiudicazione</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02434330219</codiceFiscale>
+           <ragioneSociale>Studio ComClic</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02434330219</codiceFiscale>
+           <ragioneSociale>Studio ComClic</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>9700</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-08-12</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4686.81</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z341B855C3</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto manopole monouso</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>04843470156</codiceFiscale>
+           <ragioneSociale>Misana Srl</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>04843470156</codiceFiscale>
+           <ragioneSociale>Misana Srl</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>1269</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-10-11</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1315</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z9A13BF70A</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Elaborazione stipendi</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>94004440213</codiceFiscale>
+           <ragioneSociale>Südtiroler Gemeindenverband Genossenschaft</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>94004440213</codiceFiscale>
+           <ragioneSociale>Südtiroler Gemeindenverband Genossenschaft</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-01-01</dataInizio>
+       <dataUltimazione>2016-02-26</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>1051</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z6E17C78FB</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto latticini</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>00099750218</codiceFiscale>
+           <ragioneSociale>Milchhof Brixen Gen. u. landw. Ges. BRIMI</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>00099750218</codiceFiscale>
+           <ragioneSociale>Milchhof Brixen Gen. u. landw. Ges. BRIMI</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>7500</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>6588.63</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z2B17C449B</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto generi alimentari e bibite</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>01185010210</codiceFiscale>
+           <ragioneSociale>Vontavon   Niederstätter KG</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>01185010210</codiceFiscale>
+           <ragioneSociale>Vontavon   Niederstätter KG</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>25000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>16067.49</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZAC17C0845</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto Frutta e verdura</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>VRHMTN73S15B160H</codiceFiscale>
+           <ragioneSociale>Vorhauser Martin</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>VRHMTN73S15B160H</codiceFiscale>
+           <ragioneSociale>Vorhauser Martin</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>5000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>6094.35</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z6E16EF7D9</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Verifica progetto esecutivo</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>RNCCRS70P20A952E</codiceFiscale>
+           <ragioneSociale>Ergoplan Project   Management</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>RNCCRS70P20A952E</codiceFiscale>
+           <ragioneSociale>Ergoplan Project   Management</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>3800</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2015-11-04</dataInizio>
+       <dataUltimazione>2016-10-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4104</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z1D17AC273</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto pane</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02775880210</codiceFiscale>
+           <ragioneSociale>Bäckerei Mutschlechner GmbH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02775880210</codiceFiscale>
+           <ragioneSociale>Bäckerei Mutschlechner GmbH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>4400</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>3337.34</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>ZA717C0205</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>80007130216</codiceFiscaleProp>
+       <denominazione>Casa di cura e riposo di Funes</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto carne</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>PLNJSF52D21A952L</codiceFiscale>
+           <ragioneSociale>Metzgerei Ploner</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>PLNJSF52D21A952L</codiceFiscale>
+           <ragioneSociale>Metzgerei Ploner</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6000</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-01-01</dataInizio>
+       <dataUltimazione>2016-12-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>4665.42</importoSommeLiquidate>
+   </lotto>
+ </data>
+</legge190:pubblicazione>

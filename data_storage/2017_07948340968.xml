@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2012</abstract>
+        <dataPubblicazioneIndice>2017-01-20</dataPubblicazioneIndice>
+        <entePubblicatore>ARCA - Azienda Regionale Centrale Acquisti S.p.A.</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-01-20</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.arca.regione.lombardia.it/wps/wcm/connect/d393684a-4955-4945-ba3e-18d216effb0f/indicedataset_2016.xml?MOD=AJPERES</urlFile>
+        <licenza>Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.arca.regione.lombardia.it/wps/wcm/connect/5702be9a-6529-4550-870d-62bc97ed1950/ARCA_L190_2015_2016_01.xml?MOD=AJPERES</linkDataset>
+            <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.arca.regione.lombardia.it/wps/wcm/connect/6e30b720-ce60-4235-8865-eec7d0a8f552/ARCA_L190_2015_2016_02.xml?MOD=AJPERES</linkDataset>
+            <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://www.arca.regione.lombardia.it/wps/wcm/connect/e0a5eba2-5396-4a7b-9679-2a7f84b0fdc8/ARCA_L190_2015_2016_03.xml?MOD=AJPERES</linkDataset>
+            <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_4">
+            <linkDataset>http://www.arca.regione.lombardia.it/wps/wcm/connect/e5c04ff9-cf3d-43c6-a3c6-5fc9873695e6/ARCA_L190_2015_2016_04.xml?MOD=AJPERES</linkDataset>
+            <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_5">
+            <linkDataset>http://www.arca.regione.lombardia.it/wps/wcm/connect/9b9e899b-791f-47b1-a1f4-e0b9b6a6ba1c/ARCA_L190_2015_2016_05.xml?MOD=AJPERES</linkDataset>
+            <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

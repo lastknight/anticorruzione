@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+
+  <meta charset="utf-8">
+  <title>Bandi di gara e contratti - Comune di Cervia</title>
+  <base href="http://www.comunecervia.it/">
+
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="generator" content="Contao Open Source CMS - Version by Contaocms.it ">
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oxygen:400,700,300">
+<link rel="stylesheet" href="system/modules/cookiebar/assets/cookiebar.min.css">
+<link rel="stylesheet" href="files/themes/default/colorbox/skin1/colorbox.min.css">
+<link rel="stylesheet" href="assets/jquery/owl-carousel/owl.carousel.css">
+<link rel="stylesheet" href="assets/jquery/owl-carousel/owl.theme.css">
+<link rel="stylesheet" href="assets/css/53b3d552b0b5.css">
+<link rel="alternate" href="http://www.comunecervia.it/share/notizie-comune-cervia.xml" type="application/rss+xml" title="Notizie dal comune">
+    <script src="assets/js/58ff8d4888b0.js"></script>
+<script src="system/modules/cookiebar/assets/cookiebar.min.js"></script>
+<script src="system/modules/foundation/assets/foundation/5.2.2/js/vendor/modernizr.js"></script>
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.comunecervia.it/share/favicon-comune-di-cervia.ico">
+<link rel="apple-touch-icon" href="http://www.comunecervia.it/share/favicon-apple-touch-icon-comune-di-cervia.png">
+<meta name="google-site-verification" content="pAeVO_xjWloQsyPJT0zXccPu1OuUJ9tl0P4BSB4aFzg" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+			<script type="text/javascript"> 
+			var $buoop = {vs:{i:8,f:15,o:12.1,s:5.1}, reminder: 0}; 
+			$buoop.ol = window.onload; 
+			window.onload=function(){ 
+			 try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+			 var e = document.createElement("script"); 
+			 e.setAttribute("type", "text/javascript"); 
+			 e.setAttribute("src", "//browser-update.org/update.js"); 
+			 document.body.appendChild(e); 
+			} 
+			</script>
+  <!--[if lt IE 9]><script src="assets/html5shiv/3.7.0/html5shiv.js"></script><![endif]-->
+  <!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script><![endif]--> 
+  
+
+</head>
+<body id="top" class="unknown other  cmd-trasparenza">
+
+  
+  <div id="wrapper">
+
+          <header id="header" class="row">
+        <div class="inside large-12 columns">
+          
+<div class="row">
+	<div class="large-2 columns logo-header">
+		<a href="/">
+			<img width="150" height="65" alt="Home Page" src="files/themes/default/logo-comune-cervia.png">
+		</a>
+	</div>
+	<div class="large-10 columns">
+		<div class="row">
+			<div class="large-3 large-offset-6 columns">
+<ul class="inline-list">
+	<li>
+		<a target="_blank" href="https://www.facebook.com/comunecervia" title="Fan Page Facebook">
+			<img width="29" height="29" alt="Fan Page Facebook" src="files/themes/default/social/facebook.png">
+		</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://www.youtube.com/user/comunecervia" title="Il nostro canale YouTube">
+			<img width="29" height="29" alt="Il nostro canale YouTube" src="files/themes/default/social/youtube.png">
+		</a>
+	</li>
+	<li>
+		<a href="contatti.html" title="Contatta il comune di Cervia">
+			<img width="29" height="29" alt="Contatta il comune di Cervia" src="files/themes/default/social/email.png">
+		</a>
+	</li>
+	<li>
+		<a target="_blank" href="/share/notizie-comune-cervia.xml" title="Iscriviti al nostro Feed Rss">
+			<img width="29" height="29" alt="" src="files/themes/default/social/rss.png">
+		</a>
+	</li>
+</ul></div>
+			<div class="large-3 columns">
+<a title="Cerca nel sito" href="/ricerca.html">
+<img width="135" height="55" src="files/themes/default/cmd-ricerca.png" alt="">
+</a></div>
+		</div>	
+		<div class="row">
+			<div class="large-12 columns"><!-- indexer::stop -->
+<nav class="mod_foundationNavigationTopbar  block top-bar"  id="menu-principale"  data-topbar>
+<ul class="title-area">
+<li class="name"></li>
+<li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+</ul>
+<section class="top-bar-section"><ul class="level_1"><li class="has-dropdown first"><a href="citta.html" title="La città di Cervia"  class="has-dropdown first">La città</a><ul class="level_2 dropdown"><li class="first"><a href="citta/notizie-dagli-uffici.html" title="Notizie dagli uffici"  class="first">News</a></li><li><a href="citta/info-viabilita.html" title="Info Viabilità" >Info Viabilità</a></li><li><a href="citta/soste-e-parcheggi.html" title="Soste e parcheggi" >Soste e parcheggi</a></li><li><a href="citta/dati-demografici.html" title="Statistiche demografiche" >Statistiche demografiche</a></li><li class="last"><a href="citta.html" title="Elenco completo"  class="last">Elenco completo...</a></li></ul></li><li class="has-dropdown"><a href="comune.html" title="Il comune di Cervia"  class="has-dropdown">Il comune</a><ul class="level_2 dropdown"><li class="first"><a href="comune/gli-uffici.html" title="Gli uffici"  class="first">Gli uffici</a></li><li><a href="comune/amministrazione-trasparente/attivita-e-procedimenti/tipologie-di-procedimento.html" title="Procedimenti e procedure" >Procedimenti e procedure</a></li><li><a href="servizi/modulistica.html" title="La modulistica" >La modulistica</a></li><li><a href="http://www.comunecervia.it/portaleappalti/it/homepage.wp" title="Bandi di gara e contratti"  target="_blank">Bandi di gara e contratti</a></li><li><a href="servizi/bandi-e-selezioni-varie.html" title="Bandi e selezioni varie" >Bandi e selezioni varie</a></li><li><a href="servizi/alienazioni-locazioni-concessioni-immobiliari.html" title="Alienazioni - Locazioni - Concessioni immobiliari" >Alienazioni - Locazioni - Concessioni immobiliari</a></li><li><a href="comune/amministrazione-trasparente/bandi-di-concorso.html" title="Bandi di concorso" >Bandi di concorso</a></li><li><a href="comune/come-fare-per.html" title="Come fare per" >Come fare per</a></li><li class="last"><a href="comune.html" title="Elenco completo..."  class="last">Elenco completo...</a></li></ul></li><li class="has-dropdown"><a href="servizi.html" title="I servizi della città"  class="has-dropdown">I servizi</a><ul class="level_2 dropdown"><li class="first"><a href="servizi/servizi-on-line.html" title="Servizi on line"  class="first">Servizi on line</a></li><li class="last"><a href="servizi.html" title="Elenco completo..."  class="last">Elenco completo...</a></li></ul></li><li class="last"><a href="aree-tematiche.html" title="Le aree tematiche"  class="last">Aree Tematiche</a></li></ul></section></nav><!-- indexer::continue --></div>		
+		</div>				
+	</div>
+</div>
+<div class="mod_content">
+
+<!-- indexer::stop -->
+
+<div class="ce_image header-image block">
+
+  
+  <figure class="image_container">
+
+    
+    <img src="files/themes/default/header-shadow.png" width="1070" height="45" alt="">
+
+    
+    
+  </figure>
+
+</div>
+<!-- indexer::continue -->
+
+</div>
+<!-- indexer::stop -->
+<div class="block mod_foundationNavigationBreadcrumbs show-for-medium-up"  ><nav class="breadcrumbs"><a href="" class="first" title="Comune di Cervia">Home</a><a href="comune.html"  title="Il comune di cervia">Il comune</a><a href="comune/amministrazione-trasparente.html"  title="Amministrazione Trasparente">Amministrazione Trasparente</a><a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html" class="current " title="Bandi di gara e contratti">Bandi di gara e contratti</a></nav></div><!-- indexer::continue --><!-- indexer::stop -->
+<a href="#" class="ow_SmoothScrollToTop">Scroll</a>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $('.ow_SmoothScrollToTop').fadeIn();
+            } else {
+                $('.ow_SmoothScrollToTop').fadeOut();
+            }
+        });
+        $('.ow_SmoothScrollToTop').click(function(){
+            $("html, body").animate({ scrollTop: 0 }, 500);
+            return false;
+        });
+    });
+</script>
+
+<style>
+
+.ow_SmoothScrollToTop
+{
+    background: url(/files/themes/default/btn-scrolltop.png) no-repeat;
+    opacity: 0.6;
+    width: 36px;
+    height: 36px;
+    bottom: 50px;
+    right: 50px;
+    position: fixed;
+    display: none;
+    text-indent: -9999px;
+    z-index: 40;
+}
+.ow_SmoothScrollToTop:hover
+{
+    opacity: 0.9;
+}
+</style>
+<!-- indexer::continue -->
+        </div>
+      </header>
+    
+    
+    <div id="container" class="row" >
+
+	      <div id="main" class="large-9 large-push-3 columns" role="content">
+	        <div class="inside">
+	          
+<div class="mod_article first last block" id="il-comune-amministrazione-trasparente-bandi-di-gara-e-contratti">
+
+  
+  
+<h1 class="ce_headline first">
+
+  	 
+  Bandi di gara e contratti
+</h1>
+
+<h2 class="ce_headline">
+
+  	 
+  Profilo del committente - bandi di gara – indagini di mercato del Comune di Cervia e della Centrale Unica di Committenza &#40;CUC&#41; tra i Comuni di Cervia, Cesenatico e Russi
+</h2>
+
+<div class="ce_hyperlink block" style="margin-top:20px; margin-bottom:20px;">
+
+  
+    	<i class="fa fa-external-link color-blu"></i>  	
+	
+  	
+  
+    <a href="http://www.comunecervia.it/portaleappalti/it/homepage.wp" class="hyperlink_txt" title="Accedi al profilo del committente - bandi di gara – indagini di mercato" rel="" target="_blank">
+      Accedi al profilo del committente - bandi di gara – indagini di mercato    </a>
+  
+</div>
+
+<h2 class="ce_headline">
+
+  	 
+  Legge 190/2012 art.1 comma 32 - Dall'anno 2017
+</h2>
+
+<div class="ce_hyperlink block" style="margin-top:20px; margin-bottom:20px;">
+
+  
+    	<i class="fa fa-external-link color-blu"></i>  	
+	
+  	
+  
+    <a href="http://www.comunecervia.it/portaleappalti/it/ppgare_ammtrasp_anticorr.wp" class="hyperlink_txt" title="Accedi ai dati Legge 190/2012 art.1 comma 32 - Dall'anno 2017" rel="" target="_blank">
+      Accedi ai dati Legge 190/2012 art.1 comma 32 - Dall'anno 2017    </a>
+  
+</div>
+
+<h2 class="ce_headline">
+
+  	 
+  Legge 190/2012 art.1 comma 32 - Fino all'anno 2016
+</h2>
+
+<div class="ce_hyperlink block" style="margin-top:20px; margin-bottom:20px;">
+
+  
+    	<i class="fa fa-sign-out color-blu"></i>  	
+	
+  	
+  
+    <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti/dati-previsti-dallart-1-comma-32-legge-1902012.html" class="hyperlink_txt" title="Accedi ai dati Legge 190/2012 art.1 comma 32 - Fino all'anno 2016" rel="">
+      Accedi ai dati Legge 190/2012 art.1 comma 32 - Fino all'anno 2016    </a>
+  
+</div>
+
+<h2 class="ce_headline">
+
+  	 
+  Atti relativi alla programmazione di lavori, opere, servizi e forniture
+</h2>
+
+<div class="ce_hyperlink last block" style="margin-top:20px; margin-bottom:20px;">
+
+  
+    	<i class="fa fa-sign-out color-blu"></i>  	
+	
+  	
+  
+    <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti/atti-relativi-alla-programmazione-di-lavori-opere-servizi-e-fornitu.html" class="hyperlink_txt" title="Accedi agli atti relativi alla programmazione di lavori, opere, servizi e forniture" rel="">
+      Accedi agli atti relativi alla programmazione di lavori, opere, servizi e forniture    </a>
+  
+</div>
+
+  
+</div>
+	        </div>
+	        	      </div>
+
+	      	        <aside id="left" class="large-3 large-pull-9 columns">
+	          <div class="inside">
+	            
+
+<!-- indexer::stop -->
+<nav class="mod_navigation block">
+
+      <h3>Amministrazione Trasparente</h3>
+  
+  <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html?file=files/usr/operazione-trasparenza/bandi-concorso/comma32/comma32-2015.xml#skipNavigation13" class="invisible">Salta la navigazione</a>
+
+  <ul class="level_1">
+            <li class="cmd-trasparenza sibling first"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/disposizioni-generali.html" title="Disposizioni generali" class="cmd-trasparenza sibling first"> Disposizioni generali</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/organizzazione.html" title="Organizzazione" class="cmd-trasparenza sibling"> Organizzazione</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/titolari-di-incarichi-di-collaborazione-o-consulenza.html" title="Titolari di incarichi di collaborazione o consulenza" class="cmd-trasparenza sibling"> Titolari di incarichi di collaborazione o consulenza</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/personale.html" title="Personale" class="cmd-trasparenza sibling"> Personale</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/bandi-di-concorso.html" title="Bandi di concorso" class="cmd-trasparenza sibling"> Bandi di concorso</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/performance.html" title="Performance" class="cmd-trasparenza sibling"> Performance</a></li>
+                <li class="cmd-partecipate sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/enti-controllati.html" title="Enti controllati" class="cmd-partecipate sibling"> Enti controllati</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/attivita-e-procedimenti.html" title="Attività e procedimenti" class="cmd-trasparenza sibling"> Attività e procedimenti</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/provvedimenti.html" title="Provvedimenti" class="cmd-trasparenza sibling"> Provvedimenti</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/controlli-sulle-imprese.html" title="Controlli sulle imprese" class="cmd-trasparenza sibling"> Controlli sulle imprese</a></li>
+                <li class="active cmd-trasparenza">
+		<i class="fa fa-angle-right fa-lg"></i> <span class="active cmd-trasparenza">Bandi di gara e contratti</span></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/sovvenzioni-contributi-sussidi-vantaggi-economici.html" title="Sovvenzioni, contributi, sussidi, vantaggi economici" class="cmd-trasparenza sibling"> Sovvenzioni, contributi, sussidi, vantaggi economici</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/bilanci.html" title="Bilanci" class="cmd-trasparenza sibling"> Bilanci</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/beni-immobili-e-gestione-patrimonio.html" title="Beni immobili e gestione patrimonio" class="cmd-trasparenza sibling"> Beni immobili e gestione patrimonio</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/controlli-e-rilievi-sullamministrazione.html" title="Controlli e rilievi sull'amministrazione" class="cmd-trasparenza sibling"> Controlli e rilievi sull'amministrazione</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/servizi-erogati.html" title="Servizi erogati" class="cmd-trasparenza sibling"> Servizi erogati</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/pagamenti-dellamministrazione.html" title="Pagamenti dell'amministrazione" class="cmd-trasparenza sibling"> Pagamenti dell'amministrazione</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/opere-pubbliche.html" title="Opere pubbliche" class="cmd-trasparenza sibling"> Opere pubbliche</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/pianificazione-e-governo-del-territorio.html" title="Pianificazione e governo del territorio" class="cmd-trasparenza sibling"> Pianificazione e governo del territorio</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/informazioni-ambientali.html" title="Informazioni ambientali" class="cmd-trasparenza sibling"> Informazioni ambientali</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/interventi-straordinari-e-di-emergenza.html" title="Interventi straordinari e di emergenza" class="cmd-trasparenza sibling"> Interventi straordinari e di emergenza</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/altri-contenuti-prevenzione-della-corruzione.html" title="Altri contenuti - Prevenzione della Corruzione" class="cmd-trasparenza sibling"> Altri contenuti - Prevenzione della Corruzione</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/altri-contenuti-accesso-civico.html" title="Altri contenuti - Accesso Civico" class="cmd-trasparenza sibling"> Altri contenuti - Accesso Civico</a></li>
+                <li class="cmd-trasparenza sibling"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/accessibilita-e-catalogo-di-dati-metadati-e-banche-dati.html" title="Accessibilità e catalogo di dati, metadati e banche dati" class="cmd-trasparenza sibling"> Altri contenuti - Accessibilità e Catalogo di dati, metadati e banche dati</a></li>
+                <li class="cmd-trasparenza sibling last"><i class="fa fa-angle-right fa-lg"></i> <a href="comune/amministrazione-trasparente/altri-contenuti-dati-ulteriori.html" title="Altri contenuti - Dati ulteriori" class="cmd-trasparenza sibling last"> Altri contenuti - Dati ulteriori</a></li>
+      </ul>
+
+  <a id="skipNavigation13" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+
+	          </div>
+	        </aside>
+	      
+	          </div>
+
+    
+          <footer id="footer" class="row">
+        <div class="inside large-12 columns">
+          
+<div class="row dati-footer hide-for-small-only hide-for-medium-only">
+  <div class="small-6 large-2 columns">
+<!-- indexer::stop -->
+<nav class="mod_customnav menu-footer block">
+
+      <h5>La città</h5>
+  
+  <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html?file=files/usr/operazione-trasparenza/bandi-concorso/comma32/comma32-2015.xml#skipNavigation143" class="invisible">Salta la navigazione</a>
+
+  
+<ul class="level_1">
+            <li class="cmd-citta first"><a href="citta/notizie.html" title="Notizie dal comune" class="cmd-citta first">Notizie</a></li>
+                <li class="cmd-citta"><a href="citta/notizie-dagli-uffici.html" title="Notizie dagli uffici" class="cmd-citta">Notizie dagli uffici</a></li>
+                <li class="cmd-info-viabilita"><a href="citta/info-viabilita.html" title="Info Viabilità" class="cmd-info-viabilita">Info Viabilità</a></li>
+                <li class="cmd-statistiche last"><a href="citta/dati-demografici.html" title="Statistiche demografiche" class="cmd-statistiche last">Statistiche demografiche</a></li>
+      </ul>
+
+  <a id="skipNavigation143" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+</div>
+  <div class="small-6 large-2 columns">
+<!-- indexer::stop -->
+<nav class="mod_customnav menu-footer block">
+
+      <h5>Il comune</h5>
+  
+  <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html?file=files/usr/operazione-trasparenza/bandi-concorso/comma32/comma32-2015.xml#skipNavigation144" class="invisible">Salta la navigazione</a>
+
+  
+<ul class="level_1">
+            <li class="cmd-trasparenza trail first"><a href="comune/amministrazione-trasparente.html" title="Amministrazione Trasparente" class="cmd-trasparenza trail first">Amministrazione Trasparente</a></li>
+                <li class="cmd-organi-politici"><a href="comune/consiglio-comunale.html" title="Consiglio Comunale" class="cmd-organi-politici">Consiglio Comunale</a></li>
+                <li class="cmd-comune"><a href="comune/consigli-di-zona.html" title="Consigli di zona" class="cmd-comune">Consigli di zona</a></li>
+                <li class="cmd-comune last"><a href="comune/albo-pretorio.html" title="Albo Pretorio" class="cmd-comune last">Albo Pretorio</a></li>
+      </ul>
+
+  <a id="skipNavigation144" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+</div>
+  <div class="small-6 large-2 columns">
+<!-- indexer::stop -->
+<nav class="mod_customnav menu-footer block">
+
+      <h5>I servizi</h5>
+  
+  <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html?file=files/usr/operazione-trasparenza/bandi-concorso/comma32/comma32-2015.xml#skipNavigation145" class="invisible">Salta la navigazione</a>
+
+  
+<ul class="level_1">
+            <li class="cmd-comune first"><a href="comune/come-fare-per.html" title="Come fare per" class="cmd-comune first">Come fare per</a></li>
+                <li><a href="servizi/cervia-informa-cittadini-urp.html" title="Ufficio Relazioni con il Pubblico">URP</a></li>
+                <li class="cmd-suap last"><a href="servizi/cervia-informa-imprese-sportello-unico.html" title="Cervia Informa Imprese - Sportello Unico" class="cmd-suap last">Cervia Informa Imprese - Sportello Unico</a></li>
+      </ul>
+
+  <a id="skipNavigation145" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+</div>
+  <div class="small-6 large-2 columns">
+<!-- indexer::stop -->
+<nav class="mod_customnav menu-footer block">
+
+      <h5>Aree tematiche</h5>
+  
+  <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html?file=files/usr/operazione-trasparenza/bandi-concorso/comma32/comma32-2015.xml#skipNavigation146" class="invisible">Salta la navigazione</a>
+
+  
+<ul class="level_1">
+            <li class="first"><a href="aree-tematiche.html" title="Elenco Siti tematici" class="first">Elenco Siti tematici</a></li>
+                <li class="cmd-aree-tematiche"><a href="aree-tematiche/servizio-civile-volontario.html" title="Servizio civile volontario" class="cmd-aree-tematiche">Servizio civile volontario</a></li>
+                <li class="cmd-pm"><a href="aree-tematiche/polizia-municipale.html" title="Polizia Municipale" class="cmd-pm">Polizia Municipale</a></li>
+                <li class="cmd-tributi"><a href="aree-tematiche/tributi-imposte-comunali.html" title="Tributi - Imposte comunali" class="cmd-tributi">Tributi - Imposte comunali</a></li>
+                <li class="cmd-urbanistica"><a href="aree-tematiche/urbanistica.html" title="Urbanistica" class="cmd-urbanistica">Urbanistica</a></li>
+                <li class="cmd-edilizia-privata last"><a href="aree-tematiche/edilizia-privata.html" title="Edilizia Privata - SUE" class="cmd-edilizia-privata last">Edilizia Privata - SUE</a></li>
+      </ul>
+
+  <a id="skipNavigation146" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+</div>
+  <div class="small-6 large-2 columns">
+<!-- indexer::stop -->
+<nav class="mod_customnav menu-footer block">
+
+      <h5>Link</h5>
+  
+  <a href="comune/amministrazione-trasparente/bandi-di-gara-e-contratti.html?file=files/usr/operazione-trasparenza/bandi-concorso/comma32/comma32-2015.xml#skipNavigation31" class="invisible">Salta la navigazione</a>
+
+  
+<ul class="level_1">
+            <li class="first"><a href="http://www.provincia.ra.it/" title="Provincia di Ravenna" class="first" target="_blank">Provincia di Ravenna</a></li>
+                <li><a href="http://www.regione.emilia-romagna.it/" title="Regione Emilia Romagna" target="_blank">Regione Emilia Romagna</a></li>
+                <li><a href="http://www.salinadicervia.it/" title="Parco della salina" target="_blank">Parco della salina</a></li>
+                <li><a href="http://www.parcodeltapo.it" title="Parco del Delta Po" target="_blank">Parco del Delta Po</a></li>
+                <li class="last"><a href="http://www.gruppohera.it/clienti/casa/casa_servizio_clienti/3251.html" title="Hera servizio clienti" class="last" target="_blank">Hera servizio clienti</a></li>
+      </ul>
+
+  <a id="skipNavigation31" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+</div>
+  <div class="small-6 large-2 columns">
+<nav class="mod_customnav menu-footer block">
+	<h5>Contatti</h5>
+	<ul class="level_1">
+		<li class="first"><a href="contatti.html" title="Contatti">Contatti</a></li>
+		<li><a href="privacy.html" title="Privacy">Privacy</a></li>
+        <li><i class="fa fa-rss fa-1 color-blu"></i> <a href="http://www.comunecervia.it/share/notizie-comune-cervia.xml">Feed RSS</a></li>
+        <li><i class="fa fa-facebook-square fa-1 color-blu"></i> <a title="Facebook" target="_blank" href="https://www.facebook.com/comunecervia">Facebook</a></li>
+        
+        <li class="last"><i class="fa fa-youtube-square fa-1 color-blu"></i> <a title="Facebook" target="_blank" href="https://www.youtube.com/user/comunecervia">Youtube</a> </li>
+	</ul>
+</nav></div>
+</div>
+<div class="mod_article">
+
+<!-- indexer::stop -->
+
+
+<div class="ce_text dati-footer first last block">
+
+  
+      <p>Comune di Cervia (RA) CF/P.iva 00360090393 - Piazza G. Garibaldi, 1 - 48015 Cervia (RA) - Tel. 0544/979111<br>Posta Elettronica Certificata <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#109;&#117;&#x6E;&#101;&#x2E;&#x63;&#101;&#114;&#118;&#x69;&#x61;&#64;&#108;&#101;&#103;&#97;&#x6C;&#109;&#97;&#105;&#108;&#x2E;&#105;&#116;" class="email">&#99;&#111;&#109;&#117;&#x6E;&#101;&#x2E;&#x63;&#101;&#114;&#118;&#x69;&#x61;&#64;&#108;&#101;&#103;&#97;&#x6C;&#109;&#97;&#105;&#108;&#x2E;&#105;&#116;</a> <br>Codice Univoco ufficio per Fatturazione elettronica:&nbsp; UFIXJW - Nome dell'ufficio: Uff_eFatturaPA</p>  
+  
+  
+</div>
+<!-- indexer::continue -->
+
+</div>
+        </div>
+      </footer>
+    
+  </div>
+
+  
+  
+<script src="assets/jquery/colorbox/1.4.31/js/colorbox.min.js"></script>
+<script>
+  (function($) {
+    $(document).ready(function() {
+      $('a[data-lightbox]').map(function() {
+        $(this).colorbox({
+          // Put custom options here
+          current: "{current} | {total}",
+          previous:  "<<<",
+		  next: ">>>",
+		  close: "Chiudi",
+		  opacity: 0.10,
+          loop: false,
+          rel: $(this).attr('data-lightbox'),
+          maxWidth: '95%',
+          maxHeight: '95%',
+          'innerWidth': (($(this).data('width') !== undefined) ? $(this).data('width') : false),
+          'innerHeight': (($(this).data('height') !== undefined) ? $(this).data('height') : false)
+        });
+      });
+    });
+  })(jQuery);
+</script>
+
+
+
+
+
+
+
+<script src="assets/jquery/ui/1.10.3/jquery-ui.min.js"></script>
+<script>
+  (function($) {
+    $(document).ready(function() {
+      $(document).accordion({
+        // Put custom options here
+        heightStyle: 'content',
+        header: 'div.toggler',
+        collapsible: true
+      });
+      var activate = function(tog) {
+        var tgs = $('div.toggler');
+        tgs.removeClass('active');
+        tog.addClass('active');
+        tgs.next('div.accordion').attr('aria-hidden', 'true');
+        tog.next('div.accordion').attr('aria-hidden', 'false');
+      };
+      $('div.toggler').focus(function() {
+        $('div.toggler').attr('tabindex', 0);
+        $(this).attr('tabindex', -1);
+      }).blur(function() {
+        $(this).attr('tabindex', 0);
+      }).click(function() {
+        activate($(this));
+      }).keypress(function(event) {
+        if (event.keyCode == 13) activate($(this));
+      });
+    });
+  })(jQuery);
+</script>
+
+<script src="assets/jquery/mediaelement/2.13.1/js/mediaelement-and-player.min.js"></script>
+<script>
+  (function($) {
+    $(document).ready(function() {
+      $('video,audio').mediaelementplayer({
+        // Put custom options here
+        pluginPath: '/assets/jquery/mediaelement/2.13.1/',
+        flashName: 'legacy/flashmediaelement.swf',
+        silverlightName: 'legacy/silverlightmediaelement.xap'
+      });
+    });
+  })(jQuery);
+</script>
+
+<script src="assets/swipe/2.0/js/swipe.min.js"></script>
+<script>
+  (function($) {
+    $(document).ready(function() {
+      $('.ce_sliderStart').each(function(i, cte) {
+        var s = $('.content-slider', cte)[0],
+            c = s.getAttribute('data-config').split(',');
+        new Swipe(s, {
+          // Put custom options here
+          'auto': parseInt(c[0]),
+          'speed': parseInt(c[1]),
+          'startSlide': parseInt(c[2]),
+          'continuous': parseInt(c[3]),
+          'menu': $('.slider-control', cte)[0]
+        });
+      });
+    });
+  })(jQuery);
+</script>
+<script src="assets/jquery//owl-carousel/owl.carousel.js"></script>
+
+
+   <script src='system/modules/foundation/assets/foundation/5.2.2/js/foundation.min.js'></script>
+<script>$(document).foundation();</script>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.comunecervia.it/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//www.comunecervia.it/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12838912-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+      <script>
+              setTimeout(function(){jQuery.ajax("system/cron/cron.txt",{complete:function(e){var t=e.responseText||0;parseInt(t)<Math.round(+(new Date)/1e3)-86400&&jQuery.ajax("system/cron/cron.php")}})},5e3)
+          </script>
+  
+
+<div id="cookiebar" class="top">
+	<span>Utilizzando il nostro sito, accetti il nostro uso dei cookie, per una tua migliore esperienza di navigazione.</span>
+	<button onclick="setCookieBar('COOKIEBAR_1'); return false;">OK</button>
+		<a href="privacy.html" title="Leggi tutto...">Leggi tutto...</a>
+	</div>
+</body>
+</html>

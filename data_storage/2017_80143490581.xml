@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Regione Lazio - Indice pubblicazione ai sensi dell'art.1 comma 32 Legge 190/2012</titolo>
+<abstract>Dataset indice delle pubblicazioni - 2016</abstract>
+<dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+<entePubblicatore>Regione Lazio</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.consiglio.regione.lazio.it/consiglio-regionale/190/appalti2016.xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.regione.lazio.it/rl_amministrazione_trasparente/190/appalti2016.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.consiglio.regione.lazio.it/consiglio-regionale/190/2016/appalti2016.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

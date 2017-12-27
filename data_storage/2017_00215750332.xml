@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2017-01-16</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Villanova sull'Arda</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2017-01-16</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c033046/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>X180F9DF59</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00215750332</codiceFiscaleProp>
+			<denominazione>Comune di Villanova sull'Arda</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO DI MANUTENZIONE DELL'IMPIANTO ASCENSORE DELLA SEDE MUNICIPALE, AFFIDAMENTO INCARICO ALLA DITTA KONE S.P.A. DI PERO (MI).</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>12899760156</codiceFiscale>
+                        						<ragioneSociale>KONE S.p.A</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01315220333</codiceFiscale>
+                        	
+    					<ragioneSociale>KONE S.p.A</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1909.65</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>636.55</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

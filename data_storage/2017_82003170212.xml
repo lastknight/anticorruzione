@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente COMUNE DI NALLES</abstract>
+   <dataPubblicazioneIndice>2017-03-17</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI NALLES</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-03-17</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21055/21055indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_F06890C0-7820-40BB-8DC6-8554C1FAFF1E'>
+      <linkDataset>http://data.gvcc.net/avcp/21055/F06890C0-7820-40BB-8DC6-8554C1FAFF1E.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_D25B5D6D-0890-49D2-81AB-BF9D9A2A36F2'>
+      <linkDataset>http://data.gvcc.net/avcp/21055/D25B5D6D-0890-49D2-81AB-BF9D9A2A36F2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

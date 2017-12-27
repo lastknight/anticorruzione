@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Gargazzone</abstract>
+   <dataPubblicazioneIndice>2017-02-09</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Gargazzone</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-09</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21035/21035indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_7836E715-31B4-4145-B2D7-847B4CDE2F02'>
+      <linkDataset>http://data.gvcc.net/avcp/21035/7836E715-31B4-4145-B2D7-847B4CDE2F02.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-08</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_4CEDED73-0F53-4839-87A3-71DA43A4828B'>
+      <linkDataset>http://data.gvcc.net/avcp/21035/4CEDED73-0F53-4839-87A3-71DA43A4828B.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-21</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_AEEFE771-5D7D-4C4B-BED4-B2ABF57436C0'>
+      <linkDataset>http://data.gvcc.net/avcp/21035/AEEFE771-5D7D-4C4B-BED4-B2ABF57436C0.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Selva di Val Gardena</abstract>
+   <dataPubblicazioneIndice>2017-02-15</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Selva di Val Gardena</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-15</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21089/21089indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_83E865DD-87F0-491D-8C86-A78D09DEB4E2'>
+      <linkDataset>http://data.gvcc.net/avcp/21089/83E865DD-87F0-491D-8C86-A78D09DEB4E2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-09-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_FA59ABBA-947E-4E86-89EC-C14E5444AF2A'>
+      <linkDataset>http://data.gvcc.net/avcp/21089/FA59ABBA-947E-4E86-89EC-C14E5444AF2A.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_0CDB5932-2469-432F-9D94-4FB897075C49'>
+      <linkDataset>http://data.gvcc.net/avcp/21089/0CDB5932-2469-432F-9D94-4FB897075C49.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

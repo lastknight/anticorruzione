@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo> Pubblicazione legge 190/2012</titolo>
+<abstract> Pubblicazione legge 190/2012 anno rif. 2016</abstract>
+<dataPubblicazioneIndice>2017-02-03</dataPubblicazioneIndice>
+<entePubblicatore>CONTARINA S.p.A.</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-02-03</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://www.contarina.it/avcp/cn_avcp_indice_2016.xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.contarina.it/avcp/cn_avcp_dataset_2016_1.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.contarina.it/avcp/cn_avcp_dataset_2016_2.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

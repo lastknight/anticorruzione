@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente COMUNE DI POSTAL</abstract>
+   <dataPubblicazioneIndice>2017-01-19</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI POSTAL</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-19</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21066/21066indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_5F9C4A18-A895-46BC-9949-9C6F10F53E77'>
+      <linkDataset>http://data.gvcc.net/avcp/21066/5F9C4A18-A895-46BC-9949-9C6F10F53E77.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_6843EE64-D9C2-486E-90CF-91AD6070EA06'>
+      <linkDataset>http://data.gvcc.net/avcp/21066/6843EE64-D9C2-486E-90CF-91AD6070EA06.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_2ED699D1-91BC-40BF-BDCF-6C1D85805B37'>
+      <linkDataset>http://data.gvcc.net/avcp/21066/2ED699D1-91BC-40BF-BDCF-6C1D85805B37.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

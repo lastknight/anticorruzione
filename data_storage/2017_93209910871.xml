@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione 190 legge 2012 avviate nel 2016 e negli anni precedenti dalle due scuole estinte</titolo>
+    <abstract>Pubblicazione 190 legge 2012 avviate nel 2016 e negli anni precedenti dalle due scuole estinte</abstract>
+    <dataPubblicazioneIndice>2017-02-18</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO DI ISTRUZIONE SECONDARIA SUPERIORE - E. MAJORANA - SCORDIA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-18</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>https://www.iissmajoranascordia.gov.it/trasparenza/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>https://www.iissmajoranascordia.gov.it/trasparenza/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201680009210875">
+      <linkDataset>https://www.iissmajoranascordia.gov.it/trasparenza/gare201680009210875.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201693191480875">
+      <linkDataset>https://www.iissmajoranascordia.gov.it/trasparenza/gare201693191480875.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-18</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

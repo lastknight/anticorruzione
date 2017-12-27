@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all´anno 2012_2013_2014_2015</abstract>
+    <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Comprensivo di scuola primaria e scuola secondaria di I grado in lingua italiana Bressanone - Istituto Comprensivo di scuola primaria e scuola secondaria di I grado in lingua italiana Bressanone</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2013</annoRiferimento>
+    <urlFile>www.icbressanone.it/website/avcp/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.icbressanone.it/website/avcp/esiti_2012_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.icbressanone.it/website/avcp/esiti_2013_20140402-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-02</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.icbressanone.it/website/avcp/esiti_2014_20150131-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-31</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.icbressanone.it/website/avcp/esiti_2015_20160128-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

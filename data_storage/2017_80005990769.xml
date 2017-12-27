@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>pubblicazione legge 190 2012 a</titolo>
+    <abstract>pubblicazione legge 190 2012 b</abstract>
+    <dataPubbicazioneDataset>2016-12-23</dataPubbicazioneDataset>
+    <entePubblicatore>Amministratore ARGO SOFTWARE - Prova - RAGUSA</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-12-23</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.avcp.xml/gare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>3202803CAZ</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>99999990882</codiceFiscaleProp>
+        <denominazione>Amministratore ARGO SOFTWARE - Prova - RAGUSA</denominazione>
+      </strutturaProponente>
+      <oggetto>CONTO CONTRATTUALE N. 30059110-001 - saldo fattura n. 8714143543 del 24/11/2014 -periodo luglio 2014</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1805.91</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-27</dataInizio>
+        <dataUltimazione>2015-11-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1805.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>48449356D6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>99999990882</codiceFiscaleProp>
+        <denominazione>Amministratore ARGO SOFTWARE - Prova - RAGUSA</denominazione>
+      </strutturaProponente>
+      <oggetto>B.O. n. 122 del 10/1/2013</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10807890156</codiceFiscale>
+          <ragioneSociale>AMADEUS ITALIA SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10807890156</codiceFiscale>
+          <ragioneSociale>AMADEUS ITALIA SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>595.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-17</dataInizio>
+        <dataUltimazione>2015-11-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>595.08</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

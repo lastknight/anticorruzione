@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente COMUNE DI PRATO ALLO STELVIO</abstract>
+   <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI PRATO ALLO STELVIO</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21067/21067indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_519F52D4-462A-48E5-8C22-E59FF3925C88'>
+      <linkDataset>http://data.gvcc.net/avcp/21067/519F52D4-462A-48E5-8C22-E59FF3925C88.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_8777D69A-CE4F-4736-97E8-9290AD4947C6'>
+      <linkDataset>http://data.gvcc.net/avcp/21067/8777D69A-CE4F-4736-97E8-9290AD4947C6.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-14</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

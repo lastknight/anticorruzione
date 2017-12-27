@@ -1,0 +1,2240 @@
+
+<!DOCTYPE html>
+<html lang="it-it" dir="ltr"
+	  class='com_content view-article itemid-102 section-comune j36'>
+
+<head>
+		<base href="http://www.comune.udine.gov.it/index.php/comune" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="comune, udine, Udine, notizie, bandi, concorsi, uffici, procedimenti, comune di udine, fondo affitti udine, affitti, bando affitti udine, comune di udine orari, orari, piano regolatore udine, piano regolatore, prgc, edilizia privata udine, ristorazione scolastica, carta famiglia, anagrafe, stato pratiche edilizie udine, albo pretorio udine, pubblicazioni matrimonio udine, tari udine, pec, pec comune udine, referendum, ambito socio assistenziale, pubblicazioni, centralino, circoscrizioni udine, cambio residenza udine, udinefree, ufficio elettorale udine, comune udine carta famiglia, vie di udine, tessera elettorale udine, contributo affitti udine, comune di udine contatti, comune di udine bandi, orti urbani udine, quartieri di udine, sissu udine, polizia locale udine, consiglio comunale udine, ufficio elettorale comune udine, valutazione impatto acustico, salone del popolo, notte bianca udine, doposcuola udine, comune di udine edilizia privata modulistica, rinnovo carta identità udine, piscina comunale udine, piano paesaggistico regionale, scrutatore, sostegno al reddito udine, webcam udine, comune di udine regolamento edilizio, oggetti smarriti, zona traffico limitato udine, comune udine imu, camminamenti udine, ludoteca udine, ludobus udine, regolamento oiv, assistenti sociali udine, giornata mondiale del gioco, segnaletica pedoni, animali domestici udine, piano energetico comunale, officine giovani udine, centri estivi udine 2016, casa delle donne udine, festa del p greco, con rispetto parlando" />
+	<meta name="rights" content="Comune di Udine" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Comune - Comune Udine</title>
+	<link href="/templates/t3_bs3_blank/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.bootstrap.less.css" rel="stylesheet" type="text/css" />
+	<link href="/index.php?option=com_ajax&plugin=arktypography&format=json" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/plugins.system.t3.base-bs3.less.t3.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.core.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.typography.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.forms.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.navigation.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.navbar.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.modules.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.joomla.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.components.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.style.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.template.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/plugins.system.t3.base-bs3.less.megamenu.less.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.megamenu.less.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/t3_bs3_blank/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/t3_bs3_blank/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/t3-assets/dev/templates.t3_bs3_blank.less.home.less.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.comune.udine.gov.it/media/editors/arkeditor/css/squeezebox.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_finder/css/finder.css" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+	<script src="/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/plugins/system/t3/base-bs3/js/nav-collapse.js" type="text/javascript"></script>
+	<script src="http://www.comune.udine.gov.it/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
+	<script src="http://www.comune.udine.gov.it/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.autocomplete.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});(function()
+				{
+					if(typeof jQuery == 'undefined')
+						return;
+					
+					jQuery(function($)
+					{
+						if($.fn.squeezeBox)
+						{
+							$( 'a.modal' ).squeezeBox({ parse: 'rel' });
+				
+							$( 'img.modal' ).each( function( i, el )
+							{
+								$(el).squeezeBox({
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							})
+						}
+						else if(typeof(SqueezeBox) !== 'undefined')
+						{
+							$( 'img.modal' ).each( function( i, el )
+							{
+								SqueezeBox.assign( el, 
+								{
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							});
+						}
+						
+						function jModalClose() 
+						{
+							if(typeof(SqueezeBox) == 'object')
+								SqueezeBox.close();
+							else
+								ARK.squeezeBox.close();
+						}
+					
+					});
+				})();jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+jQuery(document).ready(function() {
+	var value, searchword = jQuery('#mod-finder-searchword');
+
+		// Set the input value if not already set.
+		if (!searchword.val())
+		{
+			searchword.val('Cerca...');
+		}
+
+		// Get the current value.
+		value = searchword.val();
+
+		// If the current value equals the default value, clear it.
+		searchword.on('focus', function()
+		{	var el = jQuery(this);
+			if (el.val() === 'Cerca...')
+			{
+				el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		searchword.on('blur', function()
+		{	var el = jQuery(this);
+			if (!el.val())
+			{
+				el.val(value);
+			}
+		});
+
+		jQuery('#mod-finder-searchform').on('submit', function(e){
+			e.stopPropagation();
+			var advanced = jQuery('#mod-finder-advanced');
+			// Disable select boxes with no value selected.
+			if ( advanced.length)
+			{
+				advanced.find('select').each(function(index, el) {
+					var el = jQuery(el);
+					if(!el.val()){
+						el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});
+	var suggest = jQuery('#mod-finder-searchword').autocomplete({
+		serviceUrl: '/component/finder/?task=suggestions.suggest&format=json&tmpl=component',
+		paramName: 'q',
+		minChars: 1,
+		maxHeight: 400,
+		width: 300,
+		zIndex: 9999,
+		deferRequestBy: 500
+	});});
+	</script>
+
+	
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+<script src="/templates/t3_bs3_blank/js/bootstrap-accessibility_1.0.3.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/templates/t3_bs3_blank/css/bootstrap-accessibility.css" type="text/css" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-71660867-1', 'auto');
+ga('send', 'pageview');
+ga('set', 'anonymizeIp', true);
+</script>
+</head>
+
+<body>
+<div class="hide"><a href="#content">Salta al contenuto</a></div>
+<div class="t3-wrapper"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
+
+  
+<!-- HEADER -->
+<header id="t3-header" class="container t3-header">
+	<div class="row">
+
+		<!-- LOGO -->
+		<div class="col-xs-12 col-sm-8 logo">
+			<div class="logo-image logo-control">
+				<a href="http://www.comune.udine.gov.it/" title="Logo Comune Udine">
+											<img class="logo-img" src="/images/template/logo-182x85.jpg" alt="Logo Comune Udine" />
+																<img class="logo-img-sm" src="/images/template/logo-64x30.jpg" alt="Logo Comune Udine" />
+										<span>Comune Udine</span>
+				</a>
+				<small class="site-slogan"></small>
+			</div>
+		</div>
+		<!-- //LOGO -->
+
+					<div class="col-xs-12 col-sm-4">
+									<!-- HEAD SEARCH -->
+					<div class="head-search ">
+						
+<form id="mod-finder-searchform" action="/home/risultati-ricerca?f=1" method="get" class="form-search pull-right">
+	<div class="finder">
+		<label for="mod-finder-searchword" class="finder">Cerca</label><input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="25" value="" /><button id="bottone-cerca" class="btn btn-primary hasTooltip  finder" type="submit" value="cerca" title="Vai"><span class="icon-search icon-white"></span></button>
+						<input type="hidden" name="f" value="1" />	</div>
+</form>
+
+					</div>
+					<!-- //HEAD SEARCH -->
+				
+							</div>
+		
+	</div>
+</header>
+<!-- //HEADER -->
+
+
+  
+<!-- MAIN NAVIGATION -->
+<nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav">
+	<div class="container">
+
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+		
+											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".t3-navbar-collapse">
+					<i class="fa fa-bars"></i>
+				</button>
+			
+			
+		</div>
+
+					<div class="t3-navbar-collapse navbar-collapse collapse"></div>
+		
+		<div class="t3-navbar navbar-collapse collapse">
+			<div  class="t3-megamenu"  data-duration="400" data-responsive="true">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
+<li itemprop='name' class="homepage" data-id="101" data-level="1" data-class="homepage" data-hidesub="1">
+<a itemprop='url' class=""  href="/"   data-target="#">Home </a>
+
+</li>
+<li itemprop='name' class="current active dropdown mega comune" data-id="102" data-level="1" data-class="comune">
+<a itemprop='url' class=" dropdown-toggle"  href="/comune"   data-target="#" data-toggle="dropdown">Comune <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 500px"  data-width="500"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="244" data-level="2">
+<a itemprop='url' class=""  href="/comune/sindaco"   data-target="#">Sindaco </a>
+
+</li>
+<li itemprop='name'  data-id="6080" data-level="2">
+<a itemprop='url' class=""  href="/comune/bilancio-di-fine-mandato-2013-2018"   data-target="#">Bilancio di fine mandato 2013-2018  </a>
+
+</li>
+<li itemprop='name'  data-id="5483" data-level="2">
+<a itemprop='url' class=""  href="/comune/bilancio-di-meta-mandato"   data-target="#">Bilancio di metà mandato </a>
+
+</li>
+<li itemprop='name'  data-id="245" data-level="2">
+<a itemprop='url' class=""  href="/comune/giunta-comunale"   data-target="#">Giunta Comunale </a>
+
+</li>
+<li itemprop='name'  data-id="281" data-level="2">
+<a itemprop='url' class=""  href="/comune/consiglio-comunale"   data-target="#">Consiglio Comunale </a>
+
+</li>
+<li itemprop='name'  data-id="283" data-level="2">
+<a itemprop='url' class=""  href="/comune/commissioni-consiliari"   data-target="#">Commissioni consiliari  </a>
+
+</li>
+<li itemprop='name'  data-id="284" data-level="2">
+<a itemprop='url' class=""  href="/comune/consiglieri-delegati"   data-target="#">Consiglieri delegati </a>
+
+</li>
+<li itemprop='name'  data-id="285" data-level="2">
+<a itemprop='url' class=""  href="/comune/consiglieri-delegati-di-quartiere"   data-target="#">Consiglieri delegati di quartiere </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="200" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/comune/uffici"   data-target="#">Uffici </a>
+
+</li>
+<li itemprop='name'  data-id="400" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/comune/ex-circoscrizioni"   data-target="#">Ex circoscrizioni </a>
+
+</li>
+<li itemprop='name'  data-id="5034" data-level="2">
+<a itemprop='url' class=""  href="/comune/polizia-locale"   data-target="#">Polizia locale </a>
+
+</li>
+<li itemprop='name'  data-id="5142" data-level="2">
+<a itemprop='url' class=""  href="/comune/protezione-civile"   data-target="#">Protezione civile </a>
+
+</li>
+<li itemprop='name'  data-id="344" data-level="2">
+<a itemprop='url' class=""  href="/comune/commissione-per-le-pari-opportunita"   data-target="#">Pari Opportunità </a>
+
+</li>
+<li itemprop='name'  data-id="211" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/comune/gemellaggi"   data-target="#">Gemellaggi e relazioni internazionali </a>
+
+</li>
+<li itemprop='name'  data-id="217" data-level="2">
+<a itemprop='url' class=""  href="/comune/logo-stemma"   data-target="#">Logo e stemma della città </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega amm-trasp" data-id="103" data-level="1" data-class="amm-trasp">
+<a itemprop='url' class=" dropdown-toggle"  href="/amministrazione-trasparente"   data-target="#" data-toggle="dropdown">Amministrazione Trasparente <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 700px"  data-width="700"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name' class="dropdown-submenu mega" data-id="105" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/disposizioni-generali"   data-target="#">Disposizioni Generali </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="108" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/disposizioni-generali/programma-trasparenza-integrita"   data-target="#">Piano triennale di prevenzione della corruzione e della trasparenza </a>
+
+</li>
+<li itemprop='name'  data-id="5189" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/disposizioni-generali/atti-generali"   data-target="#">Atti generali </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="110" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/disposizioni-generali/oneri-informativi"   data-target="#">Oneri informativi per cittadini e imprese </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="111" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/disposizioni-generali/oneri-informativi/scadenziario-nuovi-obblighi"   data-target="#">Scadenziario dei nuovi obblighi amministrativi </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="109" data-level="3">
+<a itemprop='url' class=""  href="http://www.comune.udine.gov.it/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione/organismi-indipendenti-di-valutazione-nuclei-di-valutazione-o-altri-organismi-con-funzioni-analoghe"   data-target="#">Attestazioni OIV o di struttura analoga</a>
+
+</li>
+<li itemprop='name'  data-id="141" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/disposizioni-generali/burocrazia-zero"   data-target="#">Burocrazia zero </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="106" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione"   data-target="#">Organizzazione </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name' class="dropdown-submenu mega" data-id="246" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/organi-indirizzo-politico-amministrativo"   data-target="#">Titolari di incarichi politici, di amministrazione, di direzione o di governo </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="250" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/organi-indirizzo-politico-amministrativo/sindaco"   data-target="#">Sindaco </a>
+
+</li>
+<li itemprop='name'  data-id="251" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/organi-indirizzo-politico-amministrativo/assessori"   data-target="#">Assessori </a>
+
+</li>
+<li itemprop='name'  data-id="252" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/organi-indirizzo-politico-amministrativo/consiglio"   data-target="#">Consiglio </a>
+
+</li>
+<li itemprop='name'  data-id="5869" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/organi-indirizzo-politico-amministrativo/titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-sottomenu"   data-target="#">Titolari di incarichi di amministrazione, di direzione o di governo </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="249" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/sanzioni-mancata-comunicazione-dati"   data-target="#">Sanzioni per la mancata comunicazione dei dati </a>
+
+</li>
+<li itemprop='name'  data-id="247" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/articolazione-uffici"   data-target="#">Articolazione degli uffici </a>
+
+</li>
+<li itemprop='name'  data-id="248" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/telefono-posta-elettronica"   data-target="#">Telefono e posta elettronica </a>
+
+</li>
+<li itemprop='name'  data-id="6015" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/organizzazione/rendiconti-gruppi-consiliari-regionali-provinciali"   data-target="#">Rendiconti gruppi consiliari regionali/provinciali </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="107" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/consulenti-e-collaboratori"   data-target="#">Consulenti e collaboratori </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5838" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/consulenti-e-collaboratori/titolari-di-incarichi-di-collaborazione-o-consulenza"   data-target="#">Titolari di incarichi di collaborazione o consulenza </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="142" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale"   data-target="#">Personale </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 500px"  data-width="500"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="253" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/incarichi-amministrativi-di-vertice"   data-target="#">Titolari di incarichi dirigenziali amministrativi di vertice </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="254" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti"   data-target="#">Titolari di incarichi dirigenziali (dirigenti non generali) </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="263" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti/dirigenti-2012"   data-target="#">Dirigenti 2012 </a>
+
+</li>
+<li itemprop='name'  data-id="264" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti/dirigenti-2013"   data-target="#">Dirigenti 2013 </a>
+
+</li>
+<li itemprop='name'  data-id="265" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti/dirigenti-2014"   data-target="#">Dirigenti 2014 </a>
+
+</li>
+<li itemprop='name'  data-id="266" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti/dirigenti-2015"   data-target="#">Dirigenti 2015 </a>
+
+</li>
+<li itemprop='name'  data-id="5329" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti/dirigenti-2016"   data-target="#">Dirigenti 2016 </a>
+
+</li>
+<li itemprop='name'  data-id="5834" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti/dirigenti-2017"   data-target="#">Dirigenti 2017 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5871" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dirigenti-cessati"   data-target="#">Dirigenti cessati </a>
+
+</li>
+<li itemprop='name'  data-id="5840" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/sanzioni-mancata-comunicazione-dei-dati"   data-target="#">Sanzioni per la mancata comunicazione dei dati </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="255" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/posizioni-organizzative"   data-target="#">Posizioni Organizzative </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="267" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/posizioni-organizzative/posizioni-organizzative-2013"   data-target="#">Posizioni Organizzative 2013 </a>
+
+</li>
+<li itemprop='name'  data-id="268" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/posizioni-organizzative/posizioni-organizzative-2014"   data-target="#">Posizioni Organizzative 2014 </a>
+
+</li>
+<li itemprop='name'  data-id="269" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/posizioni-organizzative/posizioni-organizzative-2015"   data-target="#">Posizioni Organizzative 2015 </a>
+
+</li>
+<li itemprop='name'  data-id="5330" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/posizioni-organizzative/posizioni-organizzative-2016"   data-target="#">Posizioni Organizzative 2016 </a>
+
+</li>
+<li itemprop='name'  data-id="5890" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/posizioni-organizzative/posizioni-organizzative-2017"   data-target="#">Posizioni Organizzative 2017 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="256" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/dotazione-organica"   data-target="#">Dotazione organica </a>
+
+</li>
+<li itemprop='name'  data-id="257" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/personale-non-a-tempo-indeterminato"   data-target="#">Personale non a tempo indeterminato </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name' class="dropdown-submenu mega" data-id="258" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/tassi-di-assenza"   data-target="#">Tassi di assenza </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="786" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/tassi-di-assenza/archivio-dei-tassi-di-assenza-antecedenti-al-2014"   data-target="#">Archivio dei tassi di assenza antecedenti al 2014 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="259" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/incarichi-conferiti-autorizzati-dipendenti"   data-target="#">Incarichi conferiti e autorizzati a dipendenti (dirigenti e non dirigenti) </a>
+
+</li>
+<li itemprop='name'  data-id="260" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/contrattazione-collettiva"   data-target="#">Contrattazione collettiva </a>
+
+</li>
+<li itemprop='name'  data-id="261" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/contrattazione-integrativa"   data-target="#">Contrattazione integrativa </a>
+
+</li>
+<li itemprop='name'  data-id="262" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/personale/oiv"   data-target="#">OIV </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="143" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bandi-di-concorso"   data-target="#">Bandi di concorso </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="144" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance"   data-target="#">Performance </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 310px"  data-width="310"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="270" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance/sistema-misurazione-valutazione-performance"   data-target="#">Sistema di misurazione e valutazione della Performance </a>
+
+</li>
+<li itemprop='name'  data-id="271" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance/piano-performance"   data-target="#">Piano della Performance </a>
+
+</li>
+<li itemprop='name'  data-id="272" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance/relazione-performance"   data-target="#">Relazione sulla Performance </a>
+
+</li>
+<li itemprop='name'  data-id="393" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance/ammontare-complessivo-premi"   data-target="#">Ammontare complessivo dei premi </a>
+
+</li>
+<li itemprop='name'  data-id="394" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance/dati-relativi-ai-premi"   data-target="#">Dati relativi ai premi </a>
+
+</li>
+<li itemprop='name'  data-id="395" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/performance/benessere-organizzativo"   data-target="#">Benessere organizzativo </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="145" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/enti-controllati"   data-target="#">Enti controllati </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="277" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/enti-controllati/enti-pubblici-vigilati"   data-target="#">Enti pubblici vigilati </a>
+
+</li>
+<li itemprop='name'  data-id="347" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/enti-controllati/societa-partecipate"   data-target="#">Società partecipate </a>
+
+</li>
+<li itemprop='name'  data-id="348" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/enti-controllati/enti-diritto-privato-controllati"   data-target="#">Enti di diritto privato controllati </a>
+
+</li>
+<li itemprop='name'  data-id="349" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/enti-controllati/rappresentazione-grafica"   data-target="#">Rappresentazione grafica </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="146" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/attivita-e-procedimenti"   data-target="#">Attività e Procedimenti </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="368" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/attivita-e-procedimenti/tipologie-di-procedimento"   data-target="#">Tipologie di procedimento </a>
+
+</li>
+<li itemprop='name'  data-id="369" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/attivita-e-procedimenti/dichiarazioni-sostitutive-acquisizioni-dei-dati"   data-target="#">Dichiarazioni sostitutive e acquisizioni d’ufficio dei dati </a>
+
+</li>
+<li itemprop='name'  data-id="367" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/attivita-e-procedimenti/dati-aggregati-attivita-amministrativa"   data-target="#">Dati aggregati attività amministrativa </a>
+
+</li>
+<li itemprop='name'  data-id="370" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/attivita-e-procedimenti/monitoraggio-tempi-procedimentali"   data-target="#">Monitoraggio tempi procedimentali </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="147" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/provvedimenti"   data-target="#">Provvedimenti </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="371" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/provvedimenti/provvedimenti-organi-indirizzo-politico"   data-target="#">Provvedimenti organi indirizzo politico </a>
+
+</li>
+<li itemprop='name'  data-id="372" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/provvedimenti/provvedimenti-dirigenti-amministrativi"   data-target="#">Provvedimenti dirigenti amministrativi </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="149" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bandi-di-gara-e-contratti"   data-target="#">Bandi di gara e contratti </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5843" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bandi-di-gara-e-contratti/informazioni-sulle-singole-procedure-in-formato-tabellare"   data-target="#">Informazioni sulle singole procedure in formato tabellare </a>
+
+</li>
+<li itemprop='name'  data-id="5845" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bandi-di-gara-e-contratti/atti-delle-amministrazioni-aggiudicatrici-e-degli-enti-aggiudicatori-distintamente-per-ogni-procedura"   data-target="#">Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="150" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/sovvenzioni-contributi-sussidi-e-vantaggi-economici"   data-target="#">Sovvenzioni contributi sussidi e vantaggi economici </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="373" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/sovvenzioni-contributi-sussidi-e-vantaggi-economici/criteri-e-modalita"   data-target="#">Criteri e modalità </a>
+
+</li>
+<li itemprop='name'  data-id="374" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/sovvenzioni-contributi-sussidi-e-vantaggi-economici/atti-di-concessione"   data-target="#">Atti di concessione </a>
+
+</li>
+<li itemprop='name'  data-id="375" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/sovvenzioni-contributi-sussidi-e-vantaggi-economici/albi-beneficiari-provvidenze-natura-economica"   data-target="#">Albi dei beneficiari di provvidenze di natura economica </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name' class="dropdown-submenu mega" data-id="151" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bilanci"   data-target="#">Bilanci </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="376" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bilanci/bilancio-preventivo-consuntivo"   data-target="#">Bilancio preventivo e consuntivo </a>
+
+</li>
+<li itemprop='name'  data-id="377" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bilanci/piano-indicatori-risultati-attesi-bilancio"   data-target="#">Piano degli indicatori e dei risultati attesi di bilancio </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="6071" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bilanci/bilancio-consolidato"   data-target="#">Bilancio consolidato </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="6073" data-level="4">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/bilanci/bilancio-consolidato/bilancio-consolidato-2016"   data-target="#">Bilancio consolidato 2016 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="152" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/beni-immobili-e-gestione-patrimonio"   data-target="#">Beni immobili e gestione patrimonio </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 250px"  data-width="250"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="580" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/beni-immobili-e-gestione-patrimonio/patrimonio-immobiliare"   data-target="#">Patrimonio immobiliare </a>
+
+</li>
+<li itemprop='name'  data-id="581" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/beni-immobili-e-gestione-patrimonio/canoni-di-locazione-o-affitto"   data-target="#">Canoni di locazione o affitto </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="153" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione"   data-target="#">Controlli e rilievi sull’amministrazione </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5856" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione/organismi-indipendenti-di-valutazione-nuclei-di-valutazione-o-altri-organismi-con-funzioni-analoghe"   data-target="#">Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe </a>
+
+</li>
+<li itemprop='name'  data-id="5858" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione/organi-di-revisione-amministrativa-e-contabile"   data-target="#">Organi di revisione amministrativa e contabile </a>
+
+</li>
+<li itemprop='name'  data-id="5860" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/controlli-e-rilievi-sull-amministrazione/corte-dei-conti"   data-target="#">Corte dei Conti </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="154" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/servizi-erogati"   data-target="#">Servizi erogati </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="587" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/servizi-erogati/carte-dei-servizi-e-standard-di-qualita"   data-target="#">Carte dei servizi e standard di qualità </a>
+
+</li>
+<li itemprop='name'  data-id="588" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/servizi-erogati/costi-contabilizzati"   data-target="#">Costi contabilizzati </a>
+
+</li>
+<li itemprop='name'  data-id="5851" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/servizi-erogati/servizi-in-rete"   data-target="#">Servizi in rete </a>
+
+</li>
+<li itemprop='name'  data-id="589" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/servizi-erogati/tempi-medi-di-erogazione-dei-servizi"   data-target="#">Tempi medi di erogazione dei servizi </a>
+
+</li>
+<li itemprop='name'  data-id="6013" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/servizi-erogati/class-action"   data-target="#">Class action </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="155" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pagamenti-dell-amministrazione"   data-target="#">Pagamenti dell’amministrazione </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5847" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pagamenti-dell-amministrazione/dati-sui-pagamenti"   data-target="#">Dati sui pagamenti </a>
+
+</li>
+<li itemprop='name'  data-id="593" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pagamenti-dell-amministrazione/indicatore-di-tempestivita-dei-pagamenti"   data-target="#">Indicatore di tempestività dei pagamenti </a>
+
+</li>
+<li itemprop='name'  data-id="594" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pagamenti-dell-amministrazione/iban-e-pagamenti-informatici"   data-target="#">IBAN e pagamenti informatici </a>
+
+</li>
+<li itemprop='name'  data-id="595" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pagamenti-dell-amministrazione/elenco-dei-debiti-comunicati-ai-creditori-per-il-pagamento-d-l-8-aprile-2013-n-35"   data-target="#">Elenco dei debiti comunicati ai creditori per il pagamento - D. Lgs. 8 aprile 2013, n. 35 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="156" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/opere-pubbliche"   data-target="#">Opere Pubbliche </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5863" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/opere-pubbliche/atti-di-programmazione-delle-opere-pubbliche"   data-target="#">Atti di programmazione delle opere pubbliche  </a>
+
+</li>
+<li itemprop='name'  data-id="5865" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/opere-pubbliche/tempi-costi-e-indicatori-di-realizzazione-delle-opere-pubbliche"   data-target="#">Tempi  costi e indicatori di realizzazione delle opere pubbliche </a>
+
+</li>
+<li itemprop='name'  data-id="6017" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/opere-pubbliche/nuclei-di-valutazione-e-verifica-degli-investimenti-pubblici"   data-target="#">Nuclei di valutazione e verifica degli investimenti pubblici </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="157" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pianificazione-e-governo-del-territorio"   data-target="#">Pianificazione e Governo del Territorio </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="718" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pianificazione-e-governo-del-territorio/varianti-al-prgc"   data-target="#">Varianti al PRGC </a>
+
+</li>
+<li itemprop='name'  data-id="719" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pianificazione-e-governo-del-territorio/piani-attuativi-comunali"   data-target="#">Piani Attuativi Comunali </a>
+
+</li>
+<li itemprop='name'  data-id="720" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/pianificazione-e-governo-del-territorio/piani-di-settore"   data-target="#">Piani di settore </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="158" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/informazioni-ambientali"   data-target="#">Informazioni ambientali </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="602" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/informazioni-ambientali/atti-di-programmazione-e-pianificazione"   data-target="#">Atti di programmazione e pianificazione </a>
+
+</li>
+<li itemprop='name'  data-id="603" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/informazioni-ambientali/ambiente-ed-energia-opendata"   data-target="#">Ambiente ed Energia - opendata </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="159" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/interventi-straordinari-e-di-emergenza"   data-target="#">Interventi Straordinari e di Emergenza </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="160" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/altri-contenuti"   data-target="#">Altri contenuti </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5873" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/altri-contenuti/prevenzione-della-corruzione"   data-target="#">Prevenzione della corruzione </a>
+
+</li>
+<li itemprop='name'  data-id="5875" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/altri-contenuti/accesso-civico"   data-target="#">Accesso civico </a>
+
+</li>
+<li itemprop='name'  data-id="5877" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/altri-contenuti/accessibilita-e-catalogo-dati-metadati-e-banche-dati"   data-target="#">Accessibilità  e catalogo dati, metadati e banche dati </a>
+
+</li>
+<li itemprop='name'  data-id="5879" data-level="3">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/altri-contenuti/dati-ulteriori"   data-target="#">Dati ulteriori </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="148" data-level="2">
+<a itemprop='url' class=""  href="/amministrazione-trasparente/controlli-sulle-imprese"   data-target="#">Controlli sulle imprese </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega aree-tematiche" data-id="104" data-level="1" data-class="aree-tematiche">
+<a itemprop='url' class=" dropdown-toggle"  href="/aree-tematiche"   data-target="#" data-toggle="dropdown">Aree Tematiche <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name' class="dropdown-submenu mega" data-id="161" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali"   data-target="#">Ambiente, Ecologia e Animali </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 450px"  data-width="450"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5299" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/piano-energetico-comunale"   data-target="#">Piano Energetico Comunale </a>
+
+</li>
+<li itemprop='name'  data-id="5350" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/pianificazione-energetica"   data-target="#">Pianificazione energetica </a>
+
+</li>
+<li itemprop='name'  data-id="5539" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/agevolazioni-per-aree-non-metanizzate"   data-target="#">Agevolazioni per aree non metanizzate </a>
+
+</li>
+<li itemprop='name'  data-id="5308" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/dichiarazione-ambientale"   data-target="#">Dichiarazione ambientale </a>
+
+</li>
+<li itemprop='name'  data-id="5310" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/certificazione-ambientale-iso-14001"   data-target="#">Certificazione ambientale ISO 14001 </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name' class="dropdown-submenu mega" data-id="5025" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/il-verde-a-udine"   data-target="#">Il verde a Udine </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5027" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/il-verde-a-udine/giardini-storici"   data-target="#">Giardini storici </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5148" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/ecologia-e-igiene-urbana"   data-target="#">Ecologia e igiene urbana  </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5312" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/ecologia-e-igiene-urbana/autorizzazioni-paesaggistiche"   data-target="#">Autorizzazioni paesaggistiche </a>
+
+</li>
+<li itemprop='name'  data-id="5191" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/ecologia-e-igiene-urbana/inquinamento-atmosferico"   data-target="#">Inquinamento atmosferico </a>
+
+</li>
+<li itemprop='name'  data-id="5005" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/ecologia-e-igiene-urbana/raccolta-rifiuti"   data-target="#">Raccolta rifiuti </a>
+
+</li>
+<li itemprop='name'  data-id="5203" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/ecologia-e-igiene-urbana/telefonia-e-telecomunicazioni"   data-target="#">Telefonia e telecomunicazioni </a>
+
+</li>
+<li itemprop='name'  data-id="5764" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/ecologia-e-igiene-urbana/zanzara-tigre"   data-target="#">Zanzara tigre </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="538" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/vita-col-cane"   data-target="#">Vita col cane </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="539" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/vita-col-cane/adotta-un-cane"   data-target="#">Adotta un cane </a>
+
+</li>
+<li itemprop='name'  data-id="572" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/vita-col-cane/domande-frequenti"   data-target="#">Domande frequenti </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5736" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/colonie-feline"   data-target="#">Colonie feline </a>
+
+</li>
+<li itemprop='name'  data-id="531" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/il-colombo-di-citta"   data-target="#">Il colombo di città </a>
+
+</li>
+<li itemprop='name'  data-id="528" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/ambiente-ecologia-animali/progetto-un-pipistrello-per-amico"   data-target="#">Progetto &quot;Un pipistrello per amico&quot; </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="166" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/commercio-imprese"   data-target="#">Commercio, Imprese e Lavoro </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name' class="dropdown-submenu mega" data-id="4956" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/commercio-imprese/sportello-unico-intercomunale"   data-target="#">Sportello Unico Intercomunale </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="4974" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/commercio-imprese/sportello-unico-intercomunale/modelli-sportello-unico-intercomunale"   data-target="#">Modelli Sportello Unico Intercomunale </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5023" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/commercio-imprese/attivita-economiche"   data-target="#">Attività economiche </a>
+
+</li>
+<li itemprop='name'  data-id="5340" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/commercio-imprese/lavoro"   data-target="#">Lavoro </a>
+
+</li>
+<li itemprop='name'  data-id="5089" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/commercio-imprese/calendario-dei-mercati-cittadini"   data-target="#">Calendario dei mercati cittadini </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5206" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/cultura-e-turismo"   data-target="#">Cultura e Turismo </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5994" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/cultura-e-turismo/cultura"   data-target="#">Cultura </a>
+
+</li>
+<li itemprop='name'  data-id="5997" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/cultura-e-turismo/turismo"   data-target="#">Turismo </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="163" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio"   data-target="#">Edilizia e Territorio </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name' class="dropdown-submenu mega" data-id="809" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica"   data-target="#">Urbanistica </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 250px"  data-width="250"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="824" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/piano-regolatore-generale-comunale"   data-target="#">Piano Regolatore Generale Comunale </a>
+
+</li>
+<li itemprop='name'  data-id="4958" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/prgevo-il-piano-on-line"   data-target="#">Consulta il PRG interattivo </a>
+
+</li>
+<li itemprop='name'  data-id="4959" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/varianti-al-piano-regolatore"   data-target="#">Varianti al Piano Regolatore </a>
+
+</li>
+<li itemprop='name'  data-id="4962" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/altre-carte-tematiche"   data-target="#">Altri piani, progetti, regolamenti </a>
+
+</li>
+<li itemprop='name'  data-id="5306" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/certificato-destinazione-urbanistica"   data-target="#">Certificato Destinazione Urbanistica </a>
+
+</li>
+<li itemprop='name'  data-id="5449" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/piano-paesaggistico-regionale"   data-target="#">Piano Paesaggistico Regionale </a>
+
+</li>
+<li itemprop='name'  data-id="5301" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/contatti-urbanistica"   data-target="#">Contatti </a>
+
+</li>
+<li itemprop='name'  data-id="5378" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/urbanistica/news-urbanistica"   data-target="#">News urbanistica </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="820" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/edilizia"   data-target="#">Edilizia Privata </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="821" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21"   data-target="#">Rigenerazione Urbana e Agenda 21 </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5319" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/presentazione"   data-target="#">Agenda 21 </a>
+
+</li>
+<li itemprop='name'  data-id="5751" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/rigenerazione-urbana"   data-target="#">Rigenerazione Urbana </a>
+
+</li>
+<li itemprop='name'  data-id="5322" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/l-orto-e-la-luna"   data-target="#">L'orto e la luna </a>
+
+</li>
+<li itemprop='name'  data-id="5323" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/udine-greenways"   data-target="#">Udine Greenways </a>
+
+</li>
+<li itemprop='name'  data-id="5321" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/partecipazione-e-forum"   data-target="#">Partecipazione e forum </a>
+
+</li>
+<li itemprop='name'  data-id="5324" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/archivio-progetti"   data-target="#">Archivio progetti </a>
+
+</li>
+<li itemprop='name'  data-id="5596" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/agenda-21/progetti-in-corso"   data-target="#">Appuntamenti </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5724" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/edilizia-territorio/accordo-per-contratti-di-locazione"   data-target="#">Accordo per contratti di locazione </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="162" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani"   data-target="#">Educazione e Giovani </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 450px"  data-width="450"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="459" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/scuole-di-udine"   data-target="#">Scuole di Udine </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="462" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/ristorazione-scolastica"   data-target="#">Ristorazione scolastica </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5282" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/ristorazione-scolastica/procedure-di-ammissione-ai-servizi-comunali-di-ristorazione-scolastica-doposcuola-e-pre-post-accoglienza"   data-target="#">Procedure di ammissione ai servizi comunali di ristorazione scolastica, doposcuola e pre/post accoglienza </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5280" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/preaccoglienza-scolastica-e-doposcuola"   data-target="#">Preaccoglienza scolastica e doposcuola </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5283" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/ristorazione-scolastica/procedure-di-ammissione-ai-servizi-comunali-di-ristorazione-scolastica-doposcuola-e-pre-post-accoglienza"   data-target="#">Procedure di ammissione ai servizi comunali di pre/post accoglienza</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5427" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/nidi-d-infanzia-comunali-e-convenzionati"   data-target="#">Nidi d’infanzia comunali e convenzionati </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="504" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18"   data-target="#">Progetto SAVÊ 2017/18 </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="509" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/cittadinanza-e-partecipazione"   data-target="#">Cittadinanza e Partecipazione </a>
+
+</li>
+<li itemprop='name'  data-id="522" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/storia-e-tradizioni"   data-target="#">Storia e tradizioni </a>
+
+</li>
+<li itemprop='name'  data-id="524" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/scienza-ambiente-e-energia"   data-target="#">Scienza, ambiente e energia </a>
+
+</li>
+<li itemprop='name'  data-id="511" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/arte-e-territorio"   data-target="#">Arte e territorio </a>
+
+</li>
+<li itemprop='name'  data-id="517" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/salute-e-sicurezza"   data-target="#">Salute e sicurezza </a>
+
+</li>
+<li itemprop='name'  data-id="512" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/gioco-e-sport"   data-target="#">Gioco e sport </a>
+
+</li>
+<li itemprop='name'  data-id="526" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/linguaggi-e-comunicazione"   data-target="#">Linguaggi e comunicazione </a>
+
+</li>
+<li itemprop='name'  data-id="5741" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/progetto-save-2017-18/modulo-di-iscrizione-save"   data-target="#">Modulo di iscrizione </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="464" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/consiglio-comunale-dei-ragazzi"   data-target="#">Consiglio comunale dei ragazzi </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="4946" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/agenzia-giovani"   data-target="#">Agenzia giovani </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="6051" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/agenzia-giovani/bando-premio-giovani-giovani-di-pre-gio-edizione-2017"   data-target="#">Bando Premio Giovani: Giovani di  Pre.Gio. Edizione 2017 </a>
+
+</li>
+<li itemprop='name'  data-id="5999" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/agenzia-giovani/relazioni-efficaci-stando-a-scuola"   data-target="#">Relazioni Efficaci stando a scuola </a>
+
+</li>
+<li itemprop='name'  data-id="6001" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/agenzia-giovani/servizio-civile-solidale"   data-target="#">Servizio Civile Solidale </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="470" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/centro-ricreativi-estivi"   data-target="#">Centri Ricreativi Estivi </a>
+
+</li>
+<li itemprop='name'  data-id="5632" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/richiesta-buoni-libro"   data-target="#">Contributi per l’acquisto libri testo a.s. 2017/18 </a>
+
+</li>
+<li itemprop='name'  data-id="5953" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/richiesta-contributo-buono-scuola"   data-target="#">Contributi per l’acquisto di materiale didattico a.s. 2017/18 </a>
+
+</li>
+<li itemprop='name'  data-id="5934" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/educazione-giovani/borse-di-studio"   data-target="#">Borse di studio </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="167" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita"   data-target="#">Mobilità, Trasporti e Viabilità </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5415" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita/mobilita-a-udine"   data-target="#">Mobilità a Udine </a>
+
+</li>
+<li itemprop='name'  data-id="5228" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita/muoversi-in-bicicletta"   data-target="#">Muoversi in bicicletta </a>
+
+</li>
+<li itemprop='name'  data-id="5259" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita/z-t-l-zona-traffico-limitato-e-area-pedonale"   data-target="#">Z.T.L. (Zona Traffico Limitato) e Area Pedonale </a>
+
+</li>
+<li itemprop='name'  data-id="5245" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita/p-u-m-piano-urbano-della-mobilita"   data-target="#">P.U.M. (Piano Urbano della Mobilità) </a>
+
+</li>
+<li itemprop='name'  data-id="5249" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita/p-u-t-piano-urbano-del-traffico"   data-target="#">P.U.T. (Piano Urbano del Traffico) </a>
+
+</li>
+<li itemprop='name'  data-id="5573" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/mobilita-trasporti-viabilita/limitazioni-al-traffico"   data-target="#">Limitazioni alla circolazione </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="169" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare"   data-target="#">Salute, Sociale e Welfare </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 350px"  data-width="350"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name' class="dropdown-submenu mega" data-id="5042" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/citta-sane"   data-target="#">Progetto O.M.S. 'Città Sane' </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5061" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/citta-sane/progetto-citta-sane-a-udine"   data-target="#">Progetto O.M.S. 'Città Sane' a Udine </a>
+
+</li>
+<li itemprop='name'  data-id="6030" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/citta-sane/attivita-e-progetti"   data-target="#">Attività e progetti </a>
+
+</li>
+<li itemprop='name'  data-id="6033" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/citta-sane/camminamenti"   data-target="#">CamminaMenti </a>
+
+</li>
+<li itemprop='name'  data-id="5063" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/citta-sane/archivio-citta-sane"   data-target="#">Progetti conclusi  </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5083" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/servizi-sociali"   data-target="#">Servizi Sociali </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5774" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/servizi-sociali/registro-soggetti-per-servizio-socio-educativo-alunni-ciechi-o-ipovedenti"   data-target="#">Registro soggetti per servizio socio-educativo alunni ciechi o ipovedenti </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5086" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/ambito-socio-assistenziale-n-4-5-dell-udinese"   data-target="#">Ambito Socio-Assistenziale n. 4.5 dell’Udinese </a>
+
+</li>
+<li itemprop='name'  data-id="5247" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/carta-famiglia"   data-target="#">Carta Famiglia </a>
+
+</li>
+<li itemprop='name'  data-id="5498" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/testamento-in-vita"   data-target="#">Testamento in vita </a>
+
+</li>
+<li itemprop='name'  data-id="6075" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/centro-per-la-famiglia"   data-target="#">Centro per la Famiglia </a>
+
+</li>
+<li itemprop='name'  data-id="5420" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/infohandicap"   data-target="#">InfoHandicap </a>
+
+</li>
+<li itemprop='name'  data-id="5532" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/no-alla-solit-udine"   data-target="#">No alla Solit'Udine </a>
+
+</li>
+<li itemprop='name'  data-id="5611" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/salute-sociale-welfare/servizio-civile-nazionale"   data-target="#">Servizio Civile Nazionale </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="165" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero"   data-target="#">Sport e Tempo Libero </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 250px"  data-width="250"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5950" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/carta-etica-dello-sport"   data-target="#">Carta etica dello sport </a>
+
+</li>
+<li itemprop='name'  data-id="5075" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/impianti-sportivi"   data-target="#">Impianti sportivi </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5776" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento"   data-target="#">Udine in movimento  </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5797" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento/corsi-di-attivita-motoria-dolce-e-balli-di-gruppo"   data-target="#">Corsi di attività motoria dolce e balli di gruppo </a>
+
+</li>
+<li itemprop='name'  data-id="5681" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento/iscrizione-corsi-nuoto"   data-target="#">Iscrizione corsi nuoto </a>
+
+</li>
+<li itemprop='name'  data-id="5799" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento/camminare-insieme"   data-target="#">Camminare Insieme </a>
+
+</li>
+<li itemprop='name'  data-id="5778" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento/tavolo-a-pedali"   data-target="#">Tavolo a pedali </a>
+
+</li>
+<li itemprop='name'  data-id="5783" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento/eventi-locali-a-carattere-motorio-sportivo"   data-target="#">Eventi locali a carattere motorio/sportivo </a>
+
+</li>
+<li itemprop='name'  data-id="5768" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/udine-in-movimento/f-a-r-sport-oltre-la-crisi-istruzioni-per-l-iscrizione-online"   data-target="#">F.A.R. SPORT oltre la crisi - istruzioni per l'iscrizione online </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="4967" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/puntoinforma"   data-target="#">PuntoInforma </a>
+
+</li>
+<li itemprop='name'  data-id="707" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/ludobus"   data-target="#">Ludobus </a>
+
+</li>
+<li itemprop='name'  data-id="716" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/ludoteca"   data-target="#">Ludoteca </a>
+
+</li>
+<li itemprop='name'  data-id="6077" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/sport-tempo-libero/portamincentro"   data-target="#">PORTAMinCENTRO </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="170" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata"   data-target="#">Statistica e OpenData </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 500px"  data-width="500"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="434" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/guida-ai-servizi"   data-target="#">Guida ai servizi </a>
+
+</li>
+<li itemprop='name'  data-id="5660" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/popolazione-mensile"   data-target="#">Popolazione mensile </a>
+
+</li>
+<li itemprop='name'  data-id="442" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/indici-dei-prezzi-al-consumo"   data-target="#">Indici dei prezzi al consumo </a>
+
+</li>
+<li itemprop='name'  data-id="456" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/indagini-multiscopo-sulle-famiglie"   data-target="#">Indagini multiscopo sulle famiglie </a>
+
+</li>
+<li itemprop='name'  data-id="5352" data-level="3" data-hidesub="1">
+<a itemprop='url' class="opendata"  href="http://opendata.comune.udine.gov.it/" target="_blank"  title="Portale Opendata del Comune"   data-target="#">OpenData</a>
+
+</li>
+<li itemprop='name'  data-id="446" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/udinenumeri-la-citta-in-cifre"   data-target="#">UdinEnumeri - La città in cifre </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="448" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/utinum-informazione-statistica-di-citta"   data-target="#">Utinum - Informazione statistica di città </a>
+
+</li>
+<li itemprop='name'  data-id="444" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/annuario-statistico"   data-target="#">Annuario Statistico </a>
+
+</li>
+<li itemprop='name'  data-id="452" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/elenco-vie-di-udine"   data-target="#">Elenco vie di Udine </a>
+
+</li>
+<li itemprop='name'  data-id="454" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/albo-rilevatori-e-intervistatori-statistici"   data-target="#">Albo Rilevatori e Intervistatori Statistici </a>
+
+</li>
+<li itemprop='name'  data-id="450" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/statistica-opendata/censimento-permanente"   data-target="#">Censimento permanente </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="168" data-level="2">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi"   data-target="#">Tariffe e Tributi </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5076" data-level="3" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tariffe-e-servizi"   data-target="#">Tariffe e servizi </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5575" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/imu"   data-target="#">IMU </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5916" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/imu/imu-2017"   data-target="#">IMU 2017 </a>
+
+</li>
+<li itemprop='name'  data-id="5577" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/imu/imu-2016"   data-target="#">IMU 2016 </a>
+
+</li>
+<li itemprop='name'  data-id="542" data-level="4" data-hidesub="1">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/imu/imu-2015"   data-target="#">IMU 2015 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5583" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tasi"   data-target="#">TASI </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="5906" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tasi/tasi-2017"   data-target="#">TASI 2017 </a>
+
+</li>
+<li itemprop='name'  data-id="5585" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tasi/tasi-2016"   data-target="#">TASI 2016 </a>
+
+</li>
+<li itemprop='name'  data-id="5491" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tasi/tasi-2015"   data-target="#">TASI 2015 </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="705" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tari-tassa-sui-rifiuti"   data-target="#">TARI (Tassa sui rifiuti) </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="829" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tari-tassa-sui-rifiuti/guida-tari"   data-target="#">Guida TARI </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="544" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/cosap"   data-target="#">COSAP </a>
+
+</li>
+<li itemprop='name'  data-id="570" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/ici"   data-target="#">ICI </a>
+
+</li>
+<li itemprop='name'  data-id="553" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tares"   data-target="#">TARES </a>
+
+</li>
+<li itemprop='name'  data-id="555" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/tia-tariffa-di-igiene-ambientale"   data-target="#">TIA (Tariffa di Igiene Ambientale) </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="573" data-level="3">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/imposta-comunale-sulla-pubblicita-e-diritti-sulle-pubbliche-affissioni"   data-target="#">Imposta Comunale sulla Pubblicità e diritti sulle Pubbliche Affissioni </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 250px"  data-width="250"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level3">
+<li itemprop='name'  data-id="831" data-level="4">
+<a itemprop='url' class=""  href="/aree-tematiche/tariffe-tributi/imposta-comunale-sulla-pubblicita-e-diritti-sulle-pubbliche-affissioni/guida-imposta-comunale-sulla-pubblicita-e-diritti-sulle-pubbliche-affissioni"   data-target="#">Guida Imposta Comunale sulla Pubblicità e diritti sulle Pubbliche Affissioni </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega servizi-online" data-id="201" data-level="1" data-class="servizi-online">
+<a itemprop='url' class=" dropdown-toggle"  href="/servizi-online"   data-target="#" data-toggle="dropdown">Servizi online <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 550px"  data-width="550"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name' class="dropdown-submenu mega" data-id="609" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/albo-pretorio-online"   data-target="#">Albo Pretorio online </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="4968" data-level="3">
+<a itemprop='url' class=""  href="/servizi-online/albo-pretorio-online/delibere"   data-target="#">Delibere </a>
+
+</li>
+<li itemprop='name'  data-id="4969" data-level="3">
+<a itemprop='url' class=""  href="/servizi-online/albo-pretorio-online/determinazioni"   data-target="#">Determinazioni </a>
+
+</li>
+<li itemprop='name'  data-id="4972" data-level="3">
+<a itemprop='url' class=""  href="/servizi-online/albo-pretorio-online/pubblicazioni-di-matrimonio"   data-target="#">Pubblicazioni di matrimonio </a>
+
+</li>
+<li itemprop='name'  data-id="4973" data-level="3">
+<a itemprop='url' class=""  href="/servizi-online/albo-pretorio-online/altre-pubblicazioni"   data-target="#">Altre pubblicazioni </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="4979" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/servizi-online/ascolto-attivo"   data-target="#">Ascolto attivo </a>
+
+</li>
+<li itemprop='name'  data-id="5460" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/servizi-online/associazioni"   data-target="#">Associazioni </a>
+
+</li>
+<li itemprop='name'  data-id="5224" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/diretta-streaming-sedute-consiglio-comunale-e-commissioni-consiliari"   data-target="#">Diretta streaming sedute consiglio comunale e commissioni consiliari </a>
+
+</li>
+<li itemprop='name'  data-id="612" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/e-part"   data-target="#">e-Part - Segnala un disservizio </a>
+
+</li>
+<li itemprop='name'  data-id="5425" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/mappe-interattive"   data-target="#">Mappe interattive </a>
+
+</li>
+<li itemprop='name'  data-id="5318" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/servizi-online/newsletter"   data-target="#">Newsletter </a>
+
+</li>
+</ul>
+</div></div>
+<div class="col-xs-6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="611" data-level="2" data-hidesub="1">
+<a itemprop='url' class=""  href="/servizi-online/oggetti-smarriti"   data-target="#">Oggetti smarriti </a>
+
+</li>
+<li itemprop='name'  data-id="672" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/openmunicipio1"   data-target="#">OpenMunicipio </a>
+
+</li>
+<li itemprop='name'  data-id="606" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/prenotazione-dei-servizi-online"   data-target="#">Prenotazione dei servizi online </a>
+
+</li>
+<li itemprop='name'  data-id="610" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/stato-delle-fatture"   data-target="#">Stato delle fatture </a>
+
+</li>
+<li itemprop='name'  data-id="5251" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/stato-pratiche-edilizie-e-urbanistiche"   data-target="#">Stato pratiche edilizie e urbanistiche </a>
+
+</li>
+<li itemprop='name'  data-id="608" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/udine-gare-telematiche-e-sistema-di-acquisti-online"   data-target="#">Udine Gare Telematiche e sistema di acquisti online </a>
+
+</li>
+<li itemprop='name'  data-id="5485" data-level="2">
+<a itemprop='url' class=""  href="/servizi-online/visure-e-certificati-anagrafici-online"   data-target="#">Visure e certificati anagrafici online </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega progetti" data-id="212" data-level="1" data-class="progetti">
+<a itemprop='url' class=" dropdown-toggle"  href="/progetti"   data-target="#" data-toggle="dropdown">Progetti <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="5673" data-level="2">
+<a itemprop='url' class=""  href="/progetti/carta-d-identita-elettronica"   data-target="#">Carta d'identità elettronica </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="5451" data-level="2">
+<a itemprop='url' class=""  href="/progetti/migliora-il-sito-della-tua-citta"   data-target="#">Migliora il sito della tua città </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="5502" data-level="3">
+<a itemprop='url' class=""  href="/progetti/migliora-il-sito-della-tua-citta/iscriviti-e-partecipa"   data-target="#">Iscriviti e partecipa </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5477" data-level="2">
+<a itemprop='url' class=""  href="/progetti/cperc-la-citta-per-il-cittadino-il-cittadino-per-la-citta"   data-target="#">CperC: la Città per il Cittadino, il Cittadino per la Città </a>
+
+</li>
+<li itemprop='name'  data-id="219" data-level="2">
+<a itemprop='url' class=""  href="/progetti/udinevicina"   data-target="#">UdineVicina </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="220" data-level="2">
+<a itemprop='url' class=""  href="/progetti/udinefree"   data-target="#">UDINEFREE - servizio Wi-Fi </a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="392" data-level="3">
+<a itemprop='url' class=""  href="/progetti/udinefree/istruzioni-per-l-uso"   data-target="#">Istruzioni per l'uso </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="5347" data-level="2">
+<a itemprop='url' class=""  href="http://progettoinfinite.comune.udine.gov.it/" target="_blank"   data-target="#">Progetto Infinite</a>
+
+</li>
+<li itemprop='name'  data-id="221" data-level="2">
+<a itemprop='url' class=""  href="/progetti/archivio-progetti"   data-target="#">Archivio progetti </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="homepage" data-id="5771" data-level="1" data-class="homepage">
+<a itemprop='url' class=""  href="/orari-e-contatti"   data-target="#">Orari e contatti </a>
+
+</li>
+</ul>
+</div>
+
+		</div>
+
+	</div>
+</nav>
+<!-- //MAIN NAVIGATION -->
+
+    
+	<!-- NAV HELPER -->
+	<nav class="wrap t3-navhelper ">
+		<div class="container">
+			
+<ol class="breadcrumb ">
+	<li class="active">Sei qui: &#160;</li><li><a href="/" class="pathway">Home</a><span class="divider">&gt;</span></li><li><span>Comune</span></li></ol>
+
+		</div>
+	</nav>
+	<!-- //NAV HELPER -->
+
+
+  
+<div class="home">
+
+			<!-- HOME SL 1 -->
+		<div class="wrap t3-sl t3-sl-1 ">
+			
+
+<div class="custom"  >
+	<div class="jumbotron">
+<div class="container">
+<div class="header-comune ridotto title h-noprint"><img alt="" src="/files/images/home/ico-big-comune.png" style="" />
+<p class="title">&nbsp;Comune</p>
+</div>
+</div>
+</div>
+</div>
+
+		</div>
+		<!-- //HOME SL 1 -->
+	
+	
+<div id="t3-mainbody" class="container t3-mainbody">
+	<div class="row">
+
+		<!-- MAIN CONTENT -->
+		<div id="t3-content" class="t3-content col-xs-12 col-sm-8 col-sm-push-4 col-md-9 col-md-push-3">
+						 <div class="item-pagesection-comune" itemscope itemtype="http://schema.org/Article">
+	  <a name="content"></a>
+  <meta itemprop="inLanguage" content="it-IT" />
+	
+		
+			<div class="page-header">
+		<h1 itemprop="name">
+							Il Comune					</h1>
+							</div>
+							
+
+<div class="icons">
+	
+					
+									<div class="udine-toolbar">
+					<ul>
+											<li><a href="javascript:window.print()"><span class="icon-print">Stampa</span></a> 
+						</li>
+														
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=t3_bs3_blank&amp;link=859d82046417c3ac61c2c8ce5d9f5980327df389" title="Invia via Email questo link ad un amico" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>Email</a>						</li>
+										<li>
+							<a rel="nofollow" href="/index.php/home/dai-un-suggerimento">
+							<span class="icon-segnala">suggerisci</span>
+							</a>
+						</li>
+										</ul>
+				</div>
+			
+		
+		
+</div>			
+	
+	
+		
+								<div itemprop="articleBody">
+		<p>In questa sezione troviamo l'elencazione delle figure politiche in carica: Sindaco, Giunta e Consiglio comunale, consiglieri delegati e consiglieri delegati di quartiere.<br />
+È presente l'organigramma degli uffici comunali con le relative competenze, le informazioni sulle ex circoscrizioni, la Polizia Locale e la Protezione Civile.<br />
+In quest'area c'è la guida all'uso dello stemma e del logo della città.<br />
+<br />
+È inoltre possibile consultare lo <a href="/files/comune/statutocomunale.pdf" target="" title="Statuto Comunale">Statuto Comunale</a>.</p>
+ 	</div>
+
+				<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+													Dettagli							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2016-05-27T11:10:07+02:00" itemprop="dateModified">
+					Ultima modifica: 27 Maggio 2016				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:146068" />
+					Visite: 146068			</dd>						</dl>
+			
+						</div>
+
+		</div>
+		<!-- //MAIN CONTENT -->
+
+		<!-- SIDEBAR LEFT -->
+		<div class="t3-sidebar t3-sidebar-left col-xs-12 col-sm-4 col-sm-pull-8 col-md-3 col-md-pull-9 ">
+			<div class="t3-module module " id="Mod136"><div class="module-inner"><div class="module-ct"><ul class="nav menu">
+<li class="item-308 current active deeper dropdown parent"><a href="/comune" class=" dropdown-toggle" data-toggle="dropdown">Comune <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-309"><a href="/comune/sindaco" class="">Sindaco </a></li><li class="item-6081"><a href="/comune/bilancio-di-fine-mandato-2013-2018" class="">Bilancio di fine mandato 2013-2018  </a></li><li class="item-5484"><a href="/comune/bilancio-di-meta-mandato" class="">Bilancio di metà mandato </a></li><li class="item-311"><a href="/comune/giunta-comunale" class="">Giunta Comunale </a></li><li class="item-310"><a href="/comune/consiglio-comunale" class="">Consiglio Comunale </a></li><li class="item-312"><a href="/comune/commissioni-consiliari" class="">Commissioni consiliari </a></li><li class="item-313"><a href="/comune/consiglieri-delegati" class="">Consiglieri delegati </a></li><li class="item-314"><a href="/comune/consiglieri-delegati-di-quartiere" class="">Consiglieri delegati di quartiere </a></li><li class="item-315"><a href="/comune/uffici" class="">Uffici </a></li><li class="item-404 dropdown-submenu parent"><a href="/comune/ex-circoscrizioni" class="">Ex circoscrizioni </a><ul class="dropdown-menu"><li class="item-408"><a href="/comune/ex-circoscrizioni/ex-1" class="">Ex 1a 'Udine Centro' </a></li><li class="item-411"><a href="/comune/ex-circoscrizioni/ex-2" class="">Ex 2a 'Rizzi - S. Domenico - Cormor - S.Rocco' </a></li><li class="item-413"><a href="/comune/ex-circoscrizioni/ex-3" class="">Ex 3a 'Laipacco - San Gottardo' </a></li><li class="item-420"><a href="/comune/ex-circoscrizioni/ex-4" class="">Ex 4a 'Udine Sud' </a></li><li class="item-422"><a href="/comune/ex-circoscrizioni/ex-5" class="">Ex 5a 'Cussignacco' </a></li><li class="item-425"><a href="/comune/ex-circoscrizioni/ex-6" class="">Ex 6a 'S.Paolo - S.Osvaldo' </a></li><li class="item-428"><a href="/comune/ex-circoscrizioni/ex-7" class="">Ex 7a 'Chiavris - Paderno' </a></li><li class="item-5046"><a href="/comune/ex-circoscrizioni/iniziative-nei-quartieri" class="">Iniziative nei quartieri </a></li></ul></li><li class="item-5139"><a href="/comune/polizia-locale" class="">Polizia locale </a></li><li class="item-5143"><a href="/comune/protezione-civile" class="">Protezione civile </a></li><li class="item-345"><a href="/comune/commissione-per-le-pari-opportunita" class="">Pari Opportunità </a></li><li class="item-317 dropdown-submenu parent"><a href="/comune/gemellaggi" class="">Gemellaggi e relazioni internazionali </a><ul class="dropdown-menu"><li class="item-318"><a href="/comune/gemellaggi/albacete" class="">Albacete </a></li><li class="item-5047"><a href="/comune/gemellaggi/esslingen-am-neckar" class="">Esslingen am Neckar </a></li><li class="item-5048"><a href="/comune/gemellaggi/maribor" class="">Maribor </a></li><li class="item-321"><a href="/comune/gemellaggi/neath-port-talbot" class="">Neath Port Talbot </a></li><li class="item-5049"><a href="/comune/gemellaggi/norrkoeping" class="">Norrköping </a></li><li class="item-5050"><a href="/comune/gemellaggi/schiedam" class="">Schiedam </a></li><li class="item-5051"><a href="/comune/gemellaggi/vienne" class="">Vienne </a></li><li class="item-5052"><a href="/comune/gemellaggi/villach" class="">Villach </a></li><li class="item-5053"><a href="/comune/gemellaggi/yaounde" class="">Yaoundé </a></li><li class="item-5054"><a href="/comune/gemellaggi/bikaner" class="">Bikaner </a></li><li class="item-5055"><a href="/comune/gemellaggi/klagenfurt" class="">Klagenfurt </a></li><li class="item-5056"><a href="/comune/gemellaggi/obuda" class="">Obuda </a></li><li class="item-5057"><a href="/comune/gemellaggi/piotrkow-trybunalski" class="">Piotrkow Trybunalski </a></li><li class="item-5058"><a href="/comune/gemellaggi/resistencia" class="">Resistencia </a></li><li class="item-5059"><a href="/comune/gemellaggi/velenje" class="">Velenje </a></li><li class="item-5060"><a href="/comune/gemellaggi/windsor" class="">Windsor </a></li></ul></li><li class="item-327"><a href="/comune/logo-stemma" class="">Logo e stemma della città </a></li></ul></li></ul>
+</div></div></div>
+		</div>
+		<!-- //SIDEBAR LEFT -->
+
+	</div>
+</div> 
+
+
+	
+</div>
+
+    
+	<!-- NAV HELPER -->
+	<nav class="wrap t3-navhelper ">
+		<div class="container">
+			
+<ol class="breadcrumb ">
+	<li class="active">Sei qui: &#160;</li><li><a href="/" class="pathway">Home</a><span class="divider">&gt;</span></li><li><span>Comune</span></li></ol>
+
+		</div>
+	</nav>
+	<!-- //NAV HELPER -->
+
+
+  
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+	<!-- aggiungo div per mettere il logo centrale nel footer -->
+	<div class="container">
+			<div class="logo-footer"></div>
+		</div>
+	<!-- fine div per logo centrale nel footer -->
+			<!-- FOOT NAVIGATION -->
+		<div class="container">
+				<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-footnav  row">
+					<div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6">
+								<div class="t3-module module " id="Mod87"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<ul>
+	<li><a href="/servizi-online/albo-pretorio-online" title="Albo Pretorio online">Albo Pretorio online</a></li>
+	<li><a href="/amministrazione-trasparente/bandi-di-concorso" title="Bandi di concorso">Bandi di concorso</a></li>
+	<li><a href="/amministrazione-trasparente/bandi-di-gara-e-contratti" title="Bandi di gara e contratti">Bandi di gara e contratti</a></li>
+	<li><a href="/amministrazione-trasparente/bilanci" title="Bilanci">Bilanci</a></li>
+</ul>
+</div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6">
+								<div class="t3-module module " id="Mod88"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<ul>
+	<li><a href="/servizi-online/ascolto-attivo" title="Ascolto attivo">Ascolto Attivo</a></li>
+	<li><a href="/home/sportelli-informativi" title="Sportelli informativi">Sportelli&nbsp;e contatti</a></li>
+	<li><a href="/index.php/comune/uffici/dettaglio-ufficio?Id=68" title="Vai all'ufficio URP">U.R.P.</a></li>
+</ul>
+</div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6">
+								<div class="t3-module module " id="Mod89"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<ul><!--<li>Feed RSS</li>-->
+	<li style="line-height: 24px;"><a href="/home/mappa-del-sito" title="Mappa del sito">Mappa del sito</a></li>
+	<li style="line-height: 24px;"><a href="/home/monitoraggio-sito-web" title="Monitoraggio sito web">Monitoraggio sito web</a></li>
+	<li style="line-height: 24px;"><a href="/home/siti-tematici" title="Siti tematici">Elenco siti&nbsp;tematici</a></li>
+	<li style="line-height: 24px;"><a href="http://archivio.comune.udine.it/ " title="Vai a archivio.comune.udine.it">Sito archivio</a></li>
+</ul>
+</div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6">
+								<div class="t3-module module " id="Mod129"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<ul>
+	<li><a href="/home/accessibilita" title="Accessibilità">Accessibilità</a></li>
+	<li><a href="/home/crediti" title="Crediti">Crediti</a></li>
+	<li><a href="/home/note-legali" title="Note Legali">Note Legali</a></li>
+	<li><a href="/home/privacy-e-cookie-policy" title="Privacy e cookie policy">Privacy</a></li>
+</ul>
+</div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6">
+								<div class="t3-module module " id="Mod131"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<ul>
+  <li><a href="/servizi-online/newsletter" title="Iscriviti alla newsletter">Iscriviti alla&nbsp;newsletter</a></li>
+  <li><a href="/home/dai-un-suggerimento?view=form" title="Dai un suggerimento">Dai un suggerimento</a></li>
+  <li><a href="/home/altri-siti-d-interesse" title="Altri siti d'interesse">Altri siti d'interesse</a></li>
+  <li><a href="/home/udine-webcam" title="Udine webcam">Udine webcam</a></li>
+</ul>
+</div>
+</div></div></div>
+							</div>
+					<div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6">
+								<div class="t3-module module " id="Mod130"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<p>I Social Network del Comune</p>
+
+<ul>
+	<li><a href="https://twitter.com/comunediudine" title="Twitter">Twitter</a></li>
+	<li><a href="https://www.facebook.com/comune.udine/" title="Facebook">Facebook</a></li>
+	<li><a href="http://www.slideshare.net/ComuneUdine" title="Slideshare">Slideshare</a></li>
+	<li><a href="https://www.youtube.com/user/youcomuneudine" title="Youtube">Youtube</a></li>
+</ul>
+</div>
+</div></div></div>
+							</div>
+			</div>
+<!-- SPOTLIGHT -->
+		</div>
+		<!-- //FOOT NAVIGATION -->
+	
+	<section class="t3-copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 copyright ">
+					
+
+<div class="custom"  >
+	  <h4>Comune di Udine - Via Lionello, 1 - 33100 UDINE
+    <br />
+    C.F. e P.IVA 00168650307 - codice IBAN IT46R0200812310000040218187
+    <br />
+    tel. 0432 127 1111 - 0432 127 2650
+    <br />
+    fax 0432 127 0355&nbsp;
+    <br />
+    <a href="/home/pec" title="PEC">Posta Elettronica Certificata (PEC)</a>:&nbsp;<a href="mailto:protocollo@pec.comune.udine.it">protocollo@pec.comune.udine.it</a>
+  </h4>
+</div>
+
+          
+				</div>
+							</div>
+		</div>
+	</section>
+
+</footer>
+<!-- //FOOTER -->
+
+</div>
+
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript></body>
+</html>

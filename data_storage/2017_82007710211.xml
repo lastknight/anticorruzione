@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Ultimo</abstract>
+   <dataPubblicazioneIndice>2017-03-13</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Ultimo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-03-13</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21104/21104indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_6E567C5B-8754-4B15-9D21-4B50717A3589'>
+      <linkDataset>http://data.gvcc.net/avcp/21104/6E567C5B-8754-4B15-9D21-4B50717A3589.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_CB736B5F-A1B3-4435-8D6E-8D1AC9545AFF'>
+      <linkDataset>http://data.gvcc.net/avcp/21104/CB736B5F-A1B3-4435-8D6E-8D1AC9545AFF.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

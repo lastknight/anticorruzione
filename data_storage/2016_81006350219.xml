@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comunità Comprensoriale Valle Isarco</abstract>
+   <dataPubblicazioneIndice>2016-02-19</dataPubblicazioneIndice>
+   <entePubblicatore>Comunità Comprensoriale Valle Isarco</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-19</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21120/21120indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_9A4C442F-AC93-44CD-B2A8-315C5305999C'>
+      <linkDataset>http://data.gvcc.net/avcp/21120/9A4C442F-AC93-44CD-B2A8-315C5305999C.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-10</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_0FC5AAF3-C7EB-4E47-83D2-531DF726A774'>
+      <linkDataset>http://data.gvcc.net/avcp/21120/0FC5AAF3-C7EB-4E47-83D2-531DF726A774.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Chiusa</abstract>
+   <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Chiusa</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21022/21022indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_40630EBC-7881-4812-AF66-1272188DF9CE'>
+      <linkDataset>http://data.gvcc.net/avcp/21022/40630EBC-7881-4812-AF66-1272188DF9CE.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_522A7AE0-5767-4F54-A489-457212789D77'>
+      <linkDataset>http://data.gvcc.net/avcp/21022/522A7AE0-5767-4F54-A489-457212789D77.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_57761159-0D4D-47CC-B98C-1A4738581093'>
+      <linkDataset>http://data.gvcc.net/avcp/21022/57761159-0D4D-47CC-B98C-1A4738581093.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

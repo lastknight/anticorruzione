@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Indice pubblicazione dati ex art. 1, c. 32, Legge n. 190/2012</titolo>
+        <abstract>Pubblicazione art. 1 Legge n. 190/2012  anno 2016</abstract>
+        <dataPubblicazioneIndice>2017-02-06+01:00</dataPubblicazioneIndice>
+        <entePubblicatore>AZIENDA OSPEDALIERA S.CROCE E CARLE - CUNEO</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-06+01:00</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.ospedale.cuneo.it/fileadmin/user_upload/avcp/indicedataset_2016.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.ospedale.cuneo.it/fileadmin/user_upload/avcp/document_2016_1.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-06+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.ospedale.cuneo.it/fileadmin/user_upload/avcp/document_2016_2.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-06+01:00</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

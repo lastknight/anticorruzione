@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione legge 190 del 2012</titolo>
+    <abstract>Pubblicazione legge 190 del 2012</abstract>
+    <dataPubblicazioneIndice>2017-01-21</dataPubblicazioneIndice>
+    <entePubblicatore>LICEO SCIENTIFICO STATALE - "LAURA BASSI" - S. ANTIMO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-21</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.liceolaurabassi.gov.it/avcp/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+      <dataset id="ID2016">
+      <linkDataset>http://www.liceolaurabassi.gov.it/avcp/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-21</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

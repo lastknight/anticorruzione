@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice pubblicazione 2017</titolo>
+    <abstract>Pubblicazione relativa all'anno 2017</abstract>
+    <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+    <entePubblicatore>COMUNE DI SUPINO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2017</annoRiferimento>
+    <urlFile>http://www.datitrasparenti.it/public/00303900609/IndiceDataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.datitrasparenti.it/public/00303900609/Dati_2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.datitrasparenti.it/public/00303900609/Dati_2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.datitrasparenti.it/public/00303900609/Dati_2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.datitrasparenti.it/public/00303900609/Dati_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.datitrasparenti.it/public/00303900609/Dati_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

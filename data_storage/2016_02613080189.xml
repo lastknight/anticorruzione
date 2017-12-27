@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+ <titolo>Indice pubblicazione</titolo>
+ <abstract>Pubblicazione relativa anno 2015</abstract>
+ <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+ <entePubblicatore>Azienda Socio-Sanitaria Territoriale (ASST) di Pavia</entePubblicatore>
+ <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+ <annoRiferimento>2015</annoRiferimento>
+ <urlFile>http://www.asst-pavia.it/sites/default/files/amministrazionetrasparente/dataset2015.xml</urlFile>
+ <licenza>IODL</licenza>
+ </metadata>
+ <indice>
+ <dataset id="ID_1">
+ <linkDataset>http://www.asst-pavia.it/sites/default/files/amministrazionetrasparente/dataset2015_1.xml</linkDataset>
+ <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+ </dataset>
+ <dataset id="ID_2">
+ <linkDataset>http://www.asst-pavia.it/sites/default/files/amministrazionetrasparente/dataset2015_2.xml</linkDataset>
+ <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+ </dataset>
+ <dataset id="ID_3">
+ <linkDataset>http://www.asst-pavia.it/sites/default/files/amministrazionetrasparente/dataset2015_3.xml</linkDataset>
+ <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+ </dataset>
+ </indice>
+</indici>

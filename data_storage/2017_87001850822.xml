@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2015-01-27</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Altavilla Milicia</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-31</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comune.altavillamilicia.pa.it/altavilla/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>Z5016ACFCC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>87001850822</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALTAVILLA MILICIA</denominazione>
+		</strutturaProponente>
+		<oggetto>Affidamento servizio scuolabus</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>05805480828</codiceFiscale>
+                        						<ragioneSociale>GT. TRAVEL DI TRIOLO GIUSEPPE</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>05805480828</codiceFiscale>
+                        	
+    					<ragioneSociale>GT. TRAVEL DI TRIOLO GIUSEPPE</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>2000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-18</dataInizio>
+										<dataUltimazione>2016-02-18</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZED179AE22</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>87001850822</codiceFiscaleProp>
+			<denominazione>COMUNE DI ALTAVILLA MILICIA</denominazione>
+		</strutturaProponente>
+		<oggetto>Acquisizione servizi gestione, manutenzione, assistenza del sistema informatico, informativo comunale</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>09346150015</codiceFiscale>
+                        						<ragioneSociale>DONATO PERENCIN DITTA INDIVIDUALE</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>06720340964</codiceFiscale>
+                        						<ragioneSociale>EMAXY SRL</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>06228470826</codiceFiscale>
+                        						<ragioneSociale>ING. PASSANTINO FRANCESCO</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01835890383</codiceFiscale>
+                        						<ragioneSociale>SAVINI ALESSANDRO</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>03401940238</codiceFiscale>
+                        						<ragioneSociale>VALUENET SNC DI C.MANTOVANI &amp; C.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>06228470826</codiceFiscale>
+                        	
+    					<ragioneSociale>ING. PASSANTINO FRANCESCO</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>10752.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2016-01-01</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

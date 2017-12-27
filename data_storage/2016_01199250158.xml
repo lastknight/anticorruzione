@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Indice Pubblicazione</titolo>
+    <abstract>Pubblicazione relativa all’anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+    <entePubblicatore />
+    <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://allegati.comune.milano.it/Comunicazione/Trasparenza/indicedataset2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://allegati.comune.milano.it/Comunicazione/Trasparenza/datasetAppalti2015-01.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://allegati.comune.milano.it/Comunicazione/Trasparenza/datasetAppalti2015-02.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

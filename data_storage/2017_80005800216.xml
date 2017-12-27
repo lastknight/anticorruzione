@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Istituto di Istruzione secondaria di secondo grado per le Scienze umane e per i Servizi 'Claudia De' Medici' - Pubblicazione legge 190</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto di Istruzione secondaria di secondo grado per le Scienze umane e per i Servizi 'Claudia De' Medici'</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.iiss-demedici.bz.it/upload/file/amministrazione/L190/Indice2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.iiss-demedici.bz.it/upload/file/amministrazione/L190/Esiti_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

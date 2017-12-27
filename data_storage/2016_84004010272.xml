@@ -1,0 +1,3289 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<!--<title>
+I.T.C. &quot;L. B. ALBERTI&quot;
+
+ </title>-->
+<!--<meta name="description" content="Sito della Scuola">-->
+<!--<meta name="keywords" content="scuola, news">-->
+
+<title>Istituto Tecnico Commerciale L. B. Alberti San Donà di Piave</title>
+
+
+
+<meta name="description" content="Sito Web istituzionale dell' Istituto Tecnico Commerciale L. B. Alberti San Donà di Piave" />
+
+
+
+<meta name="keywords" content="Istituto,Tecnico,Commerciale,L. B. Alberti,San Donà di Piave,Istituto Tecnico Commerciale L. B. Alberti San Donà di Piave">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="author" content="Istituto Tecnico Commerciale L. B. Alberti San Donà di Piave">
+
+
+
+
+<link href="../../css/bootstrap.min.css" rel="stylesheet">
+<!--[if lt IE 8]>
+<link href="../../css/bootstrap-ie7fix.min.css" rel="stylesheet">
+<![endif]-->
+<link href="../../css/font-awesome.min.css" rel="stylesheet">
+<link href="../../css/fullcalendar.css" rel="stylesheet" media="screen">
+<link href="../../css/fullcalendar.print.css" rel="stylesheet" media="print">
+<link href="../../css/jquery.qtip.min.css" rel="stylesheet" media="screen">
+<link href="../../css/common.css?ver=001" rel="stylesheet">
+<link href="../../custom/VEIT0017/css/style.css" rel="stylesheet" media="screen">
+<link href="/auth/css/AuthApi2.css" rel="stylesheet" type="text/css"  media="all">
+
+<link rel="StyleSheet" href="../../css/testo_default.css" type="text/css" media="all">
+<link rel="StyleSheet" href="../../custom/VEIT0017/css/testo_default.css" type="text/css" media="all">
+
+<style>
+.editor-pane{width:100%;}
+
+.z-editor {font-size: 14px;color: #333333;}
+.z-editor * {margin:0;padding:0;}
+
+.editor-pane .editor-commands .sep
+{
+color:silver;
+}
+.editor-pane .editor-commands .command{
+padding: 0 1em;
+margin: 0 0;
+cursor: pointer;
+border: 1px dotted silver;
+line-height: 38px;
+}
+.editor-pane .editor-commands .command:hover{
+background-color: #FFFAB5;
+}
+</style>
+
+
+
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- <script src="//code.jquery.com/jquery.js"></script>-->
+
+<script src="../../lib/js/jquery-1.11.0.min.js"></script>
+<script src="../../lib/js/jquery.qtip.min.js"></script>
+<script src="../../lib/js/jquery.scrollTo.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../../lib/js/bootstrap.min.js"></script>
+
+<script src="../../lib/js/jquery.bootstrap.newsbox.js"></script>
+
+<script src="../../lib/js/moment.min.js"></script>
+<script src="../../lib/js/moment-range.js"></script>
+<script src="../../lib/js/d3.v3.min.js"></script>
+<script src="/auth/lib/js/jquery-AuthApi2.js"></script>
+<script src="../../lib/js/fullcalendar.min.js"></script>
+<script src="../../lib/js/jscript.js?v=0001"></script>
+
+<script src="/home/lib/js/privacy.js" type="text/javascript"></script>
+<script src="../../../commons/lib/jsx/jQuery/external/cookie/jquery.cookie.min.js" type="text/javascript"></script>
+
+
+
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="../../lib/js/html5shiv.js"></script>
+<script src="../../lib/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- Gallery -->
+<link rel="stylesheet" href="../../css/gallery.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../../css/flexslider.css" type="text/css" media="screen" />
+
+
+<script type="text/javascript" src="../../lib/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/tinymce_4.0.16_jquery/tinymce/js/tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/tinymce_4.0.16_jquery/tinymce/js/tinymce/jquery.tinymce.min.js"></script>
+<script type="text/javascript" src="../../lib/js/jquery.colorbox.min.js"></script>
+<script type="text/javascript" src="../../lib/js/jquery.form.js"></script>
+<script type="text/javascript" src="../../lib/js/jquery.imgareaselect.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/captcha/jquery.plugin.min.js"></script>
+<script type="text/javascript" src="../../../commons/lib/jsx/jQuery/plugins/captcha/jquery.realperson.min.js?v=001"></script>
+<script type="text/javascript" src="../../lib/js/readmore.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="../../css/jquery-ui-1.10.2.custom/css/custom-theme/jquery-ui-1.10.2.custom.css">
+<link rel="stylesheet" type="text/css" media="all" href="../../css/imgareaselect/imgareaselect-default.css">
+<link rel="stylesheet" type="text/css" media="all" href="../../../commons/lib/jsx/jQuery/plugins/gallery/css/blueimp-gallery.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../../../commons/lib/jsx/jQuery/plugins/captcha/jquery.realperson.css">
+
+<style>
+.blueimp-gallery-carousel {
+position: relative;
+z-index: auto;
+//padding-bottom:50%;
+max-width: 640px;
+margin: 1em auto;
+box-shadow: 0 0 10px #000;
+}
+
+.nowrap{
+white-space:nowrap;
+}
+
+.editor-pane{width:100%;}
+
+.z-editor {font-size: 14px;color: #333333;}
+.z-editor * {margin:0;padding:0;}
+
+.editor-pane .editor-commands .sep{
+color:silver;
+}
+.editor-pane .editor-commands .command{
+padding: 0 1em;
+margin: 0 0;
+cursor: pointer;
+border: 1px dotted silver;
+line-height: 38px;
+}
+
+.editor-pane .editor-commands .command:hover{
+background-color: #FFFAB5;
+}
+</style>
+
+<script type="text/javascript">
+var calendar_date = {"y":2017,"m":11,"d":27};
+var sede_codice = 'VEIT0017';
+var eventi_tipo = [];
+var colorbox_color = ['428BCA', '87ad3a', 'ad3a87', 'ad603a'];
+var image_list = [];
+
+$(document).on('focusin', function(e) {
+if ($(e.target).closest(".mce-window").length) {
+e.stopImmediatePropagation();
+}
+});
+
+var calendar_lang = {
+'allDayText': 'tutto il giorno',
+'monthNames':[
+'Gennaio',
+'Febbraio',
+'Marzo',
+'Aprile',
+'Maggio',
+'Giugno',
+'Luglio',
+'Agosto',
+'Settembre',
+'Ottobre',
+'Novembre',
+'Dicembre'
+],
+'monthNamesShort':[
+'Gen',
+'Feb',
+'Mar',
+'Apr',
+'Mag',
+'Giu',
+'Lug',
+'Ago',
+'Set',
+'Ott',
+'Nov',
+'Dic'
+],
+'dayNames':[
+'Domenica',
+'Lunedì',
+'Martedì',
+'Mercoledì',
+'Giovedì',
+'Venerdì',
+'Sabato'
+],
+'dayNamesShort':[
+'Dom',
+'Lun',
+'Mar',
+'Mer',
+'Gio',
+'Ven',
+'Sab'
+],
+'weekNumberTitle' : 'W',
+'timeFormat':{
+// for agendaWeek and agendaDay
+agenda: 'H:mm{ - H:mm}', // 5:00 - 6:30
+
+// for all other views
+'': 'H(:mm)'            // 7p
+},
+'columnFormat':{
+month: 'ddd',    // Mon
+week: 'ddd d/M', // Mon 9/7
+day: 'dddd d/MMM'  // Monday 9/7
+},
+'titleFormat':{
+month: 'MMMM yyyy',                             // September 2009
+week: "d MMM[ yyyy]{ '&#8212;'[ d] MMM yyyy}", // Sep 7 - 13 2009
+day: 'dddd, d MMM yyyy'                  // Tuesday, Sep 8, 2009
+},
+'buttonText':{
+prev:     '&lsaquo;', // <
+next:     '&rsaquo;', // >
+prevYear: '&laquo;',  // <<
+nextYear: '&raquo;',  // >>
+today:    'oggi',
+month:    'mese',
+week:     'sett.',
+day:      'giorno'
+}
+};
+
+$(document).ready( function() {
+setHandlers();
+
+$('#select_anno_scol').change(function(){
+window.location.href=updateQueryStringParameter(window.location.href, 'anno_scol', $('#select_anno_scol').val());
+});
+
+$('#cambia_lingua').change(function(){
+var dati = $('form#formlang').serialize();
+$.ajax({
+type: "POST",
+url: "/home/app/default/langset.php",
+data: dati,
+success: function(){location.replace(window.location.href.replace('#',''))},
+dataType: 'text'
+});
+});
+
+if (typeof(addthis) == 'undefined') {
+$('.addthis_toolbox').click(function(){
+alert('Attenzione: disabilitare gli adblocker e le funzioni antitracciamento del browser, altrimenti non è possibile condividere le pagine.');
+});
+}
+else{
+addthis.addEventListener('addthis.menu.share', eventHandler);
+}
+
+$('.elimina_commento').click(function() {
+var object=$(this);
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+sede_codice: 'VEIT0017',
+id_commento : object.attr('id'),
+ope: 'elimina_commento'
+},
+success: function(txt){
+if(txt.status=='OK'){
+object.parents('.riga_commento').remove();
+}
+else{
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+});
+
+$('.emozione').click(function() {
+//mi salvo la variabile emozione cliccata
+var emozione=$(this).attr('alt');
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+data: {
+sede_codice: 'VEIT0017',
+emozione : emozione,
+page: 'oggi_mi_sento'
+},
+success: function(txt){
+if(txt=='OK'){
+$('.emozione').each(function(){
+if($(this).attr('alt')== emozione){
+$(this).attr('src','../../custom/SMARTY01/img/'+emozione+'_click.png');
+}
+else{
+$(this).attr('src','../../custom/SMARTY01/img/'+$(this).attr('alt')+'.png');
+}
+});
+}
+else{
+alert('Per dire come ti senti devi accedere');
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+});
+
+$('#captcha').realperson({
+regenerate: 'Clicca per rigenerare'
+});
+
+$('#access_font').click(function() {
+if (! $('body').hasClass( "fontsize" ) ){
+$('body').addClass('fontsize');
+}
+});
+
+$('#access_black').click(function() {
+if (! $('body').hasClass( "desaturated" ) ){
+$('body').addClass('desaturated');
+}
+});
+
+$('#access_contrast').click(function() {
+if (! $('#contrasto').length){
+$('head').append( $("<link href='../../css/contrasto.css' id='contrasto' rel='stylesheet' type='text/css' />") );
+}
+});
+
+$('#access_stop').click(function() {
+$('body').removeClass('desaturated');
+$('body').removeClass('fontsize');
+$('#contrasto').remove();
+});
+
+$(".export_calendario").click(function() {
+var link=$(this).attr('ref');
+$('#div_export').load(link,function(){
+// initialize input widgets first
+$('.date_export').datepicker({
+dateFormat: 'dd-mm-yy',
+autoclose: true,
+language: 'it',
+todayBtn: true,
+todayHighlight: true
+});
+
+$('#div_export').dialog({
+width: 450,
+height: 455,
+title: "Export",
+autoOpen: true,
+resizable: false,
+draggable: false,
+modal: true,
+position: "center",
+open: function(){
+$('.ui-dialog-titlebar-close').css('display','none');
+$('.ui-widget-content').css('border','none');
+},
+close: function(){
+$(this).dialog('destroy');
+},
+buttons: {
+Annulla: function(){
+$(this).dialog('close');
+},
+Conferma: function(){
+var data1=$('#dal').val();
+var data2=$('#al').val();
+$('#dal').val(data1.substring(6)+'-'+data1.substring(3,5)+'-'+data1.substring(0,2));
+$('#al').val(data2.substring(6)+'-'+data2.substring(3,5)+'-'+data2.substring(0,2));
+$('#div_export form').submit();
+$(this).dialog('close');
+}
+}
+});
+});
+});
+
+$('.readmore').readmore({
+speed: 75,
+maxHeight: 500,
+moreLink: '<a href="#">Leggi tutto</a>',
+lessLink: '<a href="#">Chiudi</a>'
+});
+
+if ($('.video_indice-item').length > 0){
+$('.video_indice-item').click(function(){
+var attuale=$(this);
+$('#video_box').dialog({
+modal: true,
+width: 820,
+height: 570,
+title: attuale.attr('data-title'),
+buttons: {
+'Chiudi': function(){
+$(this).dialog('close');
+}
+},
+open: function(){
+$('#player-1').attr('src', attuale.attr('data-link'));
+}
+});
+});
+}
+
+// PARTE PER LA MODIFICA2
+
+//
+
+$(".newsscroll").bootstrapNews({
+newsPerPage: 4,
+navigation: true,
+autoplay: true,
+direction:'up', // up or down
+animationSpeed: 'normal',
+newsTickerInterval: 4000, //4 secs
+pauseOnHover: true,
+onStop: null,
+onPause: null,
+onReset: null,
+onPrev: function(){
+setHandlers();
+},
+onNext: function(){
+setHandlers();
+},
+onToDo: null
+});
+
+//$('.login-button-container').hover($(this).css({'background':'#fff'}););
+// richiesta login: inizio
+$('#login_button').click(function(){
+button=this;
+$.AuthApi({
+action: "authenticate",                  // action richiesta
+authCid: $('[name="custcode"]').val(),   // codice cliente (opzionale)
+authLogin: $('[name="login"]').val(),    // login
+authPass: $('[name="password"]').val(),  // password
+authPin: '',  // pin
+authAllowAccountChoice: false,
+//authTarget: $('[name="target1"]').val(),  // target app/progetto (opzionale)
+authCompleted: function(json){           // callback autenticazione (opzionale)
+if (!json.data.auth.loggedIn)
+{
+if (json.data.auth.verified)
+{
+if (json.data.pfolio !== undefined && json.data.pfolio.fullList !== undefined && json.data.pfolio.fullList.length>1) {
+$('<div class="select_account_popup"></div>').dialog({
+autoOpen: true,
+width: 600,
+height: 400,
+title: 'Seleziona login account',
+draggable: false,
+resizable: false,
+modal: true,
+open: function()
+{
+var table = '<table style="width:100%;">';
+
+json.data.pfolio.fullList.forEach(function(profilo)
+{
+table += '<tr style="vertical-align:top;border-bottom:1px solid #eee;">';
+table +=     '<td style="vertical-align:top;text-align:left;width:70%;">';
+table +=         '<div style="width: 100%;">';
+table +=             '<p style="margin:0px;padding:0px;"><span class="graytext">'+profilo.nome+'</span></p>';
+table +=             '<p style="margin:0px;padding:0px;"><span class="graytext">'+profilo.account_desc+'</span></p>';
+table +=             '<p style="margin:0px;padding:0px;"><strong>'+profilo.sede_codice+'.'+profilo.account_string+'</strong></p>';
+table +=         '</div>';
+table +=     '</td>';
+table +=     '<td style="vertical-align:top;text-align:left;width:30%;vertical-align:middle;">';
+table +=         '<div class="select_button" account="'+profilo.account_string+'" style="width: 100%;text-align:center;border-radius:5px;background-color:#4f9127;padding-top:3px;padding-bottom:3px;font-weight:bold;color:#fff;cursor:pointer;">Seleziona</div>';
+table +=     '</td>';
+table += '</tr>';
+});
+
+table += '</table>';
+
+$(this).html(table);
+
+$(this).find('.select_button').unbind().click(function()
+{
+var xaccount = $(this).attr('account');
+//faccio il post con la seconda chiamata
+var ajaxOptions = {
+'url':  '/auth/app/default/AuthApi4.php?a=aLoginSam',
+'data': {'uid': xaccount},
+'async': true,
+'type': "POST",
+'success': function(jsonr){
+if (jsonr.data.auth.loggedIn){
+location.replace(window.location.href.replace('#',''));
+}else{
+//errore;
+}
+}
+};
+$.ajax(ajaxOptions);
+});
+}
+});
+}
+}else if (json.data.auth.errors!='') {
+if (json.data.auth.actionRequested == 'changePasswordDialogCode') {
+//code
+}else{
+var errore = json.data.auth.errors[0];
+if(parseInt($('[name="login"]').val())==$('[name="login"]').val()){
+errore = '<span style="font-size:14px;">Attenzione se prima usavate' +
+' il codice scuola e utente solo numerico ora il codice scuola' +
+' va scritto nel campo login seguito da un punto' +
+' e da utente numerico.  Esempio: MIXX0005.123456</span>';
+}
+$('.error-message').find('p').html(errore);
+$('.error-message').slideDown();
+setTimeout(function(){
+$('.error-message').slideUp();
+$('.error-message').find('p').html('');
+},5000);
+}
+}
+}
+else
+{
+location.replace(window.location.href.replace('#',''));
+}
+
+},
+onDialogOpen: function(code, dialog){    // callback apertura dialog (opzionale)
+if(code=="changePasswordDialog"){
+
+// cambio posizionamento del dialog
+$(dialog).dialog( "option", "width", "520px" );
+$(dialog).css('width','500px');
+$(dialog).dialog( "option", "position", "center" );
+$(dialog).find('.header').css('background-color','#FFF').css('padding','10px').find('br').remove();
+$(dialog).find('.header').before('<div style="padding:10px;border-bottom:1px solid #666;">Password scaduta</div>');
+$(dialog).find('label').remove();
+$(dialog).find('.hint:last').remove();
+$(dialog).find('#aapi-dlg-pnew').css('width','250px').before('<br/><br/>');
+$(dialog).find('#aapi-dlg-rnew').css('width','250px')
+$(dialog).closest('.ui-dialog')
+.find('.ui-dialog-buttonpane')
+.css('border','none')
+.find('.ui-button')
+.css('background-color','#EEE')
+.css('width','100px')
+.css('border','1px solid #DDD');
+
+
+
+$(dialog).find('input').css('padding','5px').css('border','1px solid #CCC').css('border-radius','5px').css('color','#666');
+}
+if(code=='accountChoiceDialog'){
+// cambio dimesioni, posizionamento e stili del dialog
+//$(dialog)
+//.dialog( "option", "width", 400)
+//.dialog( "option", "position", { my: "left top", at: "center", of: $('#login_container') } )
+//.find(' .item .codes').css('color','red');
+}
+}
+});
+});
+// richiesta login: fine
+
+$('.mylogin_button').keypress(function(e){
+if(e.which == 13){//Enter key pressed
+$('#login_button').click();//Trigger search button click event
+}
+});
+
+$('#esci').click( function() {
+$.ajax({
+url: '/home/app/default/logout.php'	,
+data: null,
+success: function(txt){
+location.replace('?sede_codice=VEIT0017');
+},
+error: function(){
+location.replace('?sede_codice=VEIT0017');
+}
+});
+});
+
+$('#accedi').click( function() {
+$.ajax({
+url: 'https://web.spaggiari.eu/home/app/default/logout.php'	,
+data: null,
+success: function(txt){
+window.location.href = 'https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=VEIT0017';
+},
+error: function(){
+window.location.href = 'https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=VEIT0017';
+}
+});
+});
+
+$('#fullcalendar_day').fullCalendar({
+'defaultView' : 'agendaDay',
+'header':{
+left:	'prev,next,    ,today',
+center:	'title',
+right:	'agendaWeek,agendaDay,month'
+},
+'firstDay': 1,
+'allDayText'        : calendar_lang.allDayText,
+'timeFormat'        : calendar_lang.timeFormat,
+'columnFormat'      : calendar_lang.columnFormat,
+'titleFormat'       : calendar_lang.titleFormat,
+'buttonText'        : calendar_lang.buttonText,
+'monthNames'        : calendar_lang.monthNames,
+'monthNamesShort'   : calendar_lang.monthNamesShort,
+'dayNames'          : calendar_lang.dayNames,
+'dayNamesShort'     : calendar_lang.dayNamesShort,
+'weekNumberTitle'   : calendar_lang.weekNumberTitle,
+'firstHour'         : '8',
+'axisFormat': 'H:mm',
+'eventSources': [{
+// your event source
+url: 'pvw_sito.php?page=calendar_feed&sede_codice=VEIT0017&tipologia='
+}],
+eventRender: function(event, jqElement, view) {
+if (view.name == 'month') {
+jqElement.height(50);
+jqElement.qtip({
+content: event.title
+});
+}
+},
+dayRender: function (date, cell) {
+cell.find('div.fc-day-number').text($.fullCalendar.formatDate(date,"dd-MMMM",calendar_lang));
+}
+});
+
+$('#fullcalendar_day').fullCalendar( 'gotoDate', calendar_date.y, calendar_date.m, calendar_date.d )
+
+$('#insert_commento').click( function() {
+if($('#content_commento').val()){
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+ope: 'insert_commento',
+sede_codice: 'VEIT0017',
+page: $('#page_id').val(),
+evento_codice: 'COM',
+evento_stato: 'moderare',
+evento_tipo: 'commento_pagina',
+valore: $('#content_commento').val(),
+},
+success: function(json){
+if (json.status=='OK') {
+$('#content_commento').hide();
+$('#insert_commento').hide();
+$('#content_commento').parent().append('Il tuo commento è stato inserito correttamente ed è in fase di moderazione.');
+}
+else{
+alert(json.errore);
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+}
+});
+
+$('#insert_pdc').click( function() {
+if($('#messaggio').val()){
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+ope: 'posta_del_cuore',
+sede_codice: 'VEIT0017',
+nickname: $('#nickname').val(),
+valore: $('#messaggio').val(),
+},
+success: function(json){
+if (json.status=='OK') {
+$('#posta_del_cuore').hide();
+$('#posta_del_cuore').parent().append('Il tuo messaggio è stato inserito correttamente, troverai la risposta in settimana.');
+}
+else{
+alert(json.errore);
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+}
+else{
+$('#messaggio_errore').html('Non è possibile inviare un messaggio vuoto.');
+}
+});
+
+$('.mi_piace').click( function() {
+var oggetto=$(this);
+
+$.ajax({
+url: 'pvw_sito.php',
+method: 'POST',
+dataType: 'json',
+data: {
+ope: 'mi_piace',
+sede_codice: 'VEIT0017',
+page: oggetto.attr('page_id'),
+evento_codice: 'MPC',
+evento_tipo: 'mi_piace_pagina'
+},
+success: function(json){
+if (json.status=='OK') {
+if(json.mi_piace==1){
+oggetto.find('.img_mi_piace').attr('src','../../img/liked.png');
+}
+else{
+oggetto.find('.img_mi_piace').attr('src','../../img/like.png');
+}
+
+oggetto.find('.num_mi_piace').html(json.counter);
+}
+else{
+alert(json.errore);
+location.replace(window.location.href.replace('#',''));
+}
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+}
+});
+});
+});
+
+// media query change
+function WidthChange(mq) {
+$('.dropdown').removeClass('open');
+$('.navbar-collapse').removeClass('in');
+$('.login-collapse').removeClass('in');
+
+var indice_width= ($('.colonna_indice').length > 0) ? parseInt($('.colonna_indice').css('width').replace(/[^-\d\.]/g, '')) : 0;
+var widget_width= ($('.colonna_widget').length > 0) ? parseInt($('.colonna_widget').css('width').replace(/[^-\d\.]/g, '')) : 0;
+
+if ($('.colonna_indice').hasClass('hidden')) {
+indice_width=0;
+}
+
+if ($('.colonna_widget').hasClass('hidden')) {
+widget_width=0;
+}
+
+if (mq.matches) {
+// window width is at least 768px
+$('.navbar-collapse').addClass('show');
+
+$('.flusso_principale').css('margin-left', -(indice_width + widget_width) + 'px');
+$('.flusso_principale').css('left', (indice_width + widget_width) + 'px');
+$('.flusso_principale_interno').css('margin-right', (indice_width + widget_width) + 'px');
+}
+else {
+// window width is less than 768px
+$('.navbar-collapse').removeClass('show');
+$('.flusso_principale').css('margin-left', '0px');
+$('.flusso_principale').css('left', '0px');
+$('.flusso_principale_interno').css('margin-right', '0px');
+}
+}
+
+function setHandlers(){
+
+$(".link-to-file").unbind().click(function() {
+var id_doc = $(this).attr('id_doc');
+var action = $(this).attr('action');
+var sede_codice = $(this).attr('sede_codice');
+
+if (action!='' && id_doc!='') {
+if (action=='page') {
+window.location.href = "pvw_sito.php?page=" + id_doc + "&sede_codice=" + sede_codice;
+}
+else if (action=='comunicati') {
+window.location.href = "pvw_sito.php?page=" + id_doc + "&sede_codice=" + sede_codice + "&categorie=9999&visua_storico=0";
+}
+else if (action=='dcvv') {
+window.open("dcvv.php?cd=" + id_doc + "&sede_codice=" + sede_codice, "_blank");
+}
+else {
+window.open("view_documento.php?a=" + action + "&id_documento=" + id_doc + "&sede_codice=" + sede_codice, "_blank");
+}
+}
+});
+
+$('#sondaggio_show_results').unbind().click(function(){
+var id_sondaggio = $(this).attr('id_sondaggio');
+$.ajax({
+url: '?',
+data: {
+page: 'sondaggio_show_res',
+id_sondaggio:id_sondaggio
+},
+type : 'POST',
+async: false,
+timeout: 30000,
+success: function(txt){
+$('#sondaggio_main').html(txt);
+setHandlers();
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+alertUI('Errore durante il salvataggio dei dati.');
+}
+});
+});
+
+$('.sondaggio_risposta_utente').unbind().click(function(){
+var id_sondaggio = $(this).attr('id_sondaggio');
+var domanda_id = $(this).attr('domanda_id');
+var risposta_id  = $(this).attr('risposta_id');
+
+$.ajax({
+url: '?',
+data: {
+page: 'sondaggio_insert_ris',
+domanda_id: domanda_id,
+risposta_id:risposta_id,
+id_sondaggio:id_sondaggio
+},
+type : 'POST',
+async: false,
+timeout: 30000,
+success: function(txt){
+$('#sondaggio_main').html('');
+
+$.ajax({
+url: '?',
+data: {
+page: 'sondaggio_show_new',
+id_sondaggio:id_sondaggio,
+},
+type : 'POST',
+async: false,
+timeout: 30000,
+success: function(txt){
+$('#sondaggio_main').html(txt);
+setHandlers();
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+alertUI('Errore durante il salvataggio dei dati.');
+}
+});
+},
+error: function(){
+location.replace(window.location.href.replace('#',''));
+alertUI('Errore durante il salvataggio dei dati.');
+}
+});
+});
+}
+
+function eventHandler(evt) {
+if (evt.type == 'addthis.menu.share') {
+console.log(evt.data); // evt.data is an object hash containing all event data
+console.log(evt.data.service); // evt.data.service is specific to the "addthis.menu.share" event
+}
+}
+
+function updateQueryStringParameter(uri, key, value) {
+var re = new RegExp("([?|&])" + key + "=.*?(&|$)", "i");
+separator = uri.indexOf('?') !== -1 ? "&" : "?";
+if (uri.match(re)) {
+return uri.replace(re, '$1' + key + "=" + value + '$2');
+}
+else {
+return uri + separator + key + "=" + value;
+}
+}
+
+// PARTE PER LA MODIFICA3
+
+//
+</script>
+
+
+<style>
+.desaturated {
+filter: grayscale(100%)!important;
+-moz-filter: grayscale(100%)!important;
+-ms-filter: grayscale(100%)!important;
+-o-filter: grayscale(100%)!important;
+filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale")!important;
+-webkit-filter: grayscale(100%)!important;
+-webkit-filter: grayscale(1)!important;
+filter: gray!important;
+}
+
+.fontsize, .fontsize h1, .fontsize h2, .fontsize  h3, .fontsize h4 , .fontsize h5, .fontsize  h6, .fontsize  p, .fontsize  li, .fontsize  label, .fontsize  input, .fontsize  select, .fontsize  textarea, .fontsize legend, .fontsize  code, .fontsize  pre , .fontsize dd, .fontsize dt, .fontsize blockquote  {
+font-size: 125% !important; line-height: 1.4;
+}
+
+.descrizione_classifica{
+font-size:14px;
+}
+
+.col-medaglia{
+width:19%;
+position: relative;
+min-height: 1px;
+padding-left: 7px!important;
+float: left;
+margin-left: 5px;
+padding-right: 5px!important;
+}
+
+h5{
+height: 61px;
+}
+
+ul.faq {
+list-style: none;
+margin: 0;
+}
+
+ul.faq li {
+margin-top: 30px;
+}
+
+ul.faq li:first-child {
+margin-top: 0;
+}
+
+ul.faq li span.number {
+display: block;
+float: left;
+width: 50px;
+height: 50px;
+line-height: 50px;
+text-align: center;
+background: #34495e;
+color: #fff;
+font-size: 24px;
+}
+
+ul.faq li > span {
+margin-left: -20px;
+}
+
+ul.faq li > div {
+margin-left: 50px;
+}
+
+ul.faq li > div h3 {
+margin-top: 0;
+}
+
+/* Espandi Collassa */
+.div-contenitore {
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+.intestazione {
+margin: 1px;
+color: #fff;
+padding: 5px 10px;
+cursor: pointer;
+position: relative;
+background-color:#c30;
+}
+
+.corpo-testo {
+padding: 15px 10px;
+background-color:#fafafa;
+}
+
+p {
+padding: 5px 0;
+}
+
+.col-post{
+width:100%;
+float:left;
+margin-left: 43px;
+}
+
+.col-img{
+width:100%;
+padding-left:5px;
+padding-right:5px;
+float:left;
+}
+
+.col-img2{
+padding-left:5px;
+padding-right:5px;
+float:right;
+}
+
+.col-post2{
+width:100%;
+float:right;
+margin-right: 43px;
+}
+
+/* Espandi Collassa */
+.div-contenitore {
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+.intestazione {
+margin: 1px;
+color: #fff;
+padding: 5px 10px;
+cursor: pointer;
+position: relative;
+background-color:#c30;
+}
+
+.corpo-testo {
+padding: 15px 10px;
+background-color:#fafafa;
+}
+
+.paragrafo_pdc {
+padding-top: 7px;
+padding-left: 5px;
+font-size: 14px!important;
+font-family: "Montserrat-Light"!important;
+}
+
+.mi_scrive{
+font-size: 25px;
+font-family: "banhart";
+color: #000;
+}
+
+.sezione{
+font-size: 35px;
+font-family: "Montserrat-Light";
+color: #000;
+}
+
+.form-group{
+font-family: "Montserrat-Light"!important;
+}
+
+.back0{
+background: #0096db!important;
+border-radius:10px;
+background-size: cover;color:#fff;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+.back1{
+border-radius:10px;
+background: #AF1554!important;
+background-size: cover;
+color:#fff;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+.back2{
+border-radius:10px;
+background: #f3cc27!important;
+border-radius:10px;
+background-size: cover;
+color:#000;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+.back3{
+background: #659A4A!important;
+border-radius:10px;
+background-size: cover;
+color:#fff;
+padding-top: 1px!important;
+padding-bottom: 1px!important;
+margin-top: 20px;
+padding-left: 12px!important;
+padding-right: 12px!important;
+}
+
+a.classifica {
+color: black;
+}
+
+.contenit{
+height: auto;
+width: 70%;
+}
+.contenit2{
+height: auto;
+width: 70%;
+float:right;
+}
+</style>
+
+
+
+<!-- Start GoogleAnalytics js -->
+<script>
+//GA-PVW
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-55851196-10', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End GoogleAnalytics js -->		
+</head>
+<body class="index">
+<div class="container maincontent">
+<div class="spg-top">
+
+<div id="testata-alta" class="row header">
+<div class="col-xs-12 col-sm-4">
+<a href="?sede_codice=VEIT0017">
+<img src="../../custom/VEIT0017/img/logo.png" alt="logo">
+</a>
+</div>
+<div class="col-sm-4">
+<!-- <span class="sottotitolo1">Liceo Scientifico</span><br>
+<span class="titolo1">LUDOVICO PEPE</span><br>
+<p class="corpo_testo1"> VIA T. NOBILE - 72017 OSTUNI
+<br>Tel. 0831332291 - Fax 0831332405 - C.Mecc. VEPS07000G
+<br>BRIS004009@istruzione.it
+</p>
+<img src="../../custom/VEIT0017/img/testo.png"> -->
+</div>
+<div class="col-sm-4 hidden-xs search">
+<div class="pull-right">
+<form class="navbar-right" role="search">
+<div class="input-group">
+<input type="text" name="cerca_sito" class="form-control" placeholder="Cerca nel sito">
+<input name="page" type="hidden" value="-2" />
+<span class="input-group-btn">
+<button class="btn btn-search" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="row menu">
+<nav class="navbar navbar-ulivi" role="navigation">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav">
+<li class="hidden-sm hidden-md hidden-lg">
+<form role="search">
+<div class="input-group">
+<input type="text" name="cerca_sito" class="form-control" placeholder="Cerca nel sito">
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+</span>
+</div>
+</form>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Istituto <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400755" >il Dirigente Scolastico</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400758" >Presentazione Istituto</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400763" >Organizzazione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2001134" >Piani e programmi triennali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2002365" >PROGRAMMA ANNUALE</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400796" >Regolamenti di Istituto </a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400766" >Carta dei Servizi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400823" >Servizi amministrativi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400855" >Dotazioni Tecnologiche e Aule Speciali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1933905" >Associazione ex allievi</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Didattica <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400704" >Piani di studio</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400722" >Attività e Progetti dell'Istituto</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400688" >Attivita' sportive</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Gare, concorsi e premi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400992" >Scuola Digitale: Registro Elettronico LIM</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Studenti <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2066232" >Calendario scol. 2017-18</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2072762" >Orario classi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400985" >Area Inclusione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2069098" >Polizza Assicurativa RC</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Statuto delle studentesse e degli studenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401438" >Modulistica Studenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Assemblee</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Viaggi di istruzione all'estero</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Stage</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Corsi pomeridiani</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401439" >Libri di testo</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Orientamento universitario</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Orientamento in entrata</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2111917" >Orientamento in uscita</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Genitori <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2066232" >Calendario scol. 2017-18</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2069098" >Polizza Assicurativa RC</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Ricevimenti settimanali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401439" >Libri di testo</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401438" >Modulistica Genitori</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consigli di Istituto e Giunta</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consigli di classe</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Docenti e ATA <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2066232" >Calendario scol. 2017-18</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2081161" >Calendario attività collegiali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2067494" >Corsi di formazione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2096604" >Formazione d'ambito in generale</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2069098" >Polizza Assicurativa RC</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1826852" >Ricevimenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consigli di classe</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consiglio di Istituto e Giunta</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2071015" >Modulistica Docenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401559" >Modulistica personale ATA</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401368" >Piano di Lavoro ATA</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1826662" >Codice di disciplina Personale ATA</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Aggiornamento - Formazione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401017" >Prevenzione e Sicurezza</a></li>
+
+
+</ul>
+</li>
+
+
+<li>
+<a href="?sede_codice=VEIT0017&amp;page=1960268" >DELIBERE</a>
+</li>
+
+
+<li>
+<a href="?sede_codice=VEIT0017&amp;page=400763" >Organigramma</a>
+</li>
+
+
+<li>
+<a href="?sede_codice=VEIT0017&amp;page=400301" >News</a>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">ALBUM FOTO <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1998324" >FOTO ANNO 2017</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1933352" >FOTO ANNO 2016</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1998335" >FOTO ANNO 2015</a></li>
+
+
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Contatti <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400300" >Recapiti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1807877" >Modulistica per Enti</a></li>
+
+
+</ul>
+</li>
+
+
+</ul>
+</div>
+</nav>
+</div>
+
+
+
+
+<div class="row pre-content">
+<div class="col-md-12">
+<ol class="breadcrumb">
+<li class="active"><a href="?sede_codice=VEIT0017">Home</a></li>
+
+
+
+<li class="pull-right user-bc">
+Vuoi autenticarti? [ <a id="accedi" href="#">Accedi</a> ]
+</li>
+
+
+</ol>
+</div>
+</div>
+
+
+</div>
+
+
+<div class="row">
+<div id="slider" class="carousel slide carouselhp" data-ride="carousel">
+<!-- Wrapper for slides -->
+<div class="carousel-inner">
+
+<div class="item active">
+<a href="?sede_codice=VEIT0017&amp;page=2096604" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2096945" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>SCUOLA POLO - FORMAZIONE D'AMBITO 16</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2086861" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2078864" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+<p> SCUOLA APERTA ... SABATO  13  GENNAIO 2018 ORE 15:00</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2086861" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2078861" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+<p> VEDI TUTTE LE DATE DI SCUOLA APERTA...</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="https://www.facebook.com/istitutoalberti" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2092140" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+<p>La nostra pagina su Facebook</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2091236" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2089286" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GIFFONI EXPERIENCE FILM FESTIVAL</h4>
+
+
+
+<p>Giffoni Case History alla George Washington University</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="http://www.piazzalberti.it/studenti/index.php?logout=true" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2089140" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+<p>La nostra classroom &quot;PIAZZALBERTI...&quot;</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2072767" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2064616" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>L'Alberti in Fiera</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2072767" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2064617" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>L'Alberti in Fiera</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2072767" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2064615" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>L'Alberti in Fiera</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2039470" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2018896" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>MOBILITA' INTERNAZIONALE</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2033086" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2012304" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>NUOVO LABORATORIO DI SIMULIMPRESA</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2049278" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2031648" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+<p>Per conoscere meglio ciò che è successo a San Donà di Piave il 30 e 31 maggio scorsi... clicca qui</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2018363" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2040608" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2019831" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GARA  R.I.M.</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2030993" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2010339" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>LEGGI IL PROGETTO &quot;GIFFONI DAY&quot;</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1989836" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>LA NOSTRA SQUADRA DI PALLAVOLO</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1989837" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>LA NOSTRA SQUADRA DI PALLAVOLO</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2027825" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2010692" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+
+<p>CINQUANTENARIO DELL'ITC ALBERTI</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="http://www.itcalberti.gov.it/pvw/app/VEIT0017/pvw_sito.php?sede_codice=VEIT0017&amp;page=1998324" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2003992" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>PREMIO LETTERARIO &quot;SUSANNA SPERANDIO&quot; - 6.05.2017</h4>
+
+
+
+<p>VEDI LE FOTO</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1950854" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1987899" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>TERZA CLASSIFICATA NELLA GARA DI ORIENTEERING</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2019453" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1998394" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>OLIMPIADI DI STATISTICA 2017</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=2005231" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1987323" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>CONFERENZA: INTERVENTI DI EDUCAZIONE AMBIENTALE</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1979205" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1961785" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>INCONTRI FORMATIVI PROGETTO INPS</h4>
+
+
+
+<p>Clicca per vedere le altre foto della classe 3B RIM</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1979205" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1961363" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>INCONTRI FORMATIVI PROGETTO INPS</h4>
+
+
+
+<p>Clicca per vedere le altre foto della classe 3B RIM</p>
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1978607" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GIORNATA DELLO SPORT 2017: DIFESA PERSONALE</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1998324" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1978601" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GIORNATA DELLO SPORT: DIFESA PERSONALE</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1998324" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1977563" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GIORNATA DELLO SPORT</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1998324" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1977561" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GIORNATA DELLO SPORT - ESERCIZI DI BALLO</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="?sede_codice=VEIT0017&amp;page=1998324" >
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1977559" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>GIORNATA DELLO SPORT: CIASPOLATA A PIAN CAVALLO</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1977564" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>INCONTRO CON IL FISIOTERAPISTA</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1962470" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>CORSA CAMPRESTE 31 GENNAIO 2017</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1962480" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>CORSA CAMPRESTE 31 GENNAIO 2017</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1962481" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>CORSA CAMPRESTE 31 GENNAIO 2017</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+<div class="item ">
+<a href="" target="_blank">
+<img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1941075" style="width:100%;" alt="">
+<div class="carousel-caption">
+
+<h4>NUOVO DOMINIO DELL'ISTITUTO: WWW.ITCALBERTI.GOV.IT</h4>
+
+
+
+</div>
+</a>
+</div>
+
+
+</div>
+<!-- Controls -->
+<a class="left carousel-control" href="#slider" data-slide="prev" style="height:95%;"></a>
+<a class="right carousel-control" href="#slider" data-slide="next" style="height:95%;"></a>
+<a class="btn btn-large" href="#" onclick="$('.carousel').carousel('pause');" style="position:absolute;bottom:0;left:96%;z-index:16;color:#ffffff;"><span class="glyphicon glyphicon-pause"></span></a>
+<a class="btn btn-large" href="#" onclick="$('.carousel').carousel('cycle');" style="position:absolute;bottom:0;left:92%;z-index:16;color:#ffffff;"><span class="glyphicon glyphicon-play"></span></a>
+</div>
+</div>
+
+
+
+<div class="row content">
+<div class="col-sm-7 col-md-8 homepage">
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-12 col-md-12 ">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2116493"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2110184" alt="AUGURI DEL DIRIGENTE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col12"><a href="?sede_codice=VEIT0017&amp;page=2116493">AUGURI DEL DIRIGENTE</a></h3>
+<div class="hp_testo_flusso_principale_col12">
+<p>In occasione delle prossime vacanze voglio porgere a Voi  i più affettuosi auguri di BUONE  FESTE  (...)</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-6 col-md-6 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2116094"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2109867" alt="PROGETTO GENITORI E FIGLI VERSO LINDIPENDENZA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col6"><a href="?sede_codice=VEIT0017&amp;page=2116094">PROGETTO: GENITORI E FIGLI VERSO L’IN-DIPENDENZA</a></h3>
+<div class="hp_testo_flusso_principale_col6">
+<p>Anche quest’anno l’istituto “ L. B. Alberti” in collaborazione con l’ A.S.L. n° 4 organizza un percorso educativo per i genitori degli alunni del primo anno</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-6 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2116093"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2109864" alt="PROGETTO PLAY THE JOB"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col6"><a href="?sede_codice=VEIT0017&amp;page=2116093">PROGETTO &quot;PLAY THE JOB&quot;</a></h3>
+<div class="hp_testo_flusso_principale_col6">
+<p>Le classi Terze A e B AFM, parteciperanno all’attività in oggetto, inserita nei Progetti di Alternanza Scuola Lavoro, attuata con l’Agenzia per il lavoro ADECCO</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2089602"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2081853" alt="PROGETTO SAN DONA GIFFONI MOVIE DAYS"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2089602">PROGETTO &quot;SAN DONA' GIFFONI MOVIE DAYS&quot;</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Individuazione alunni facenti parte del C.O.G. per questo Istituto</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2091236"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2083855" alt="GIFFONI EXPERIENCE FILM FESTIVAL"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2091236">GIFFONI EXPERIENCE FILM FESTIVAL</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Il 14 e 15 novembre sar&agrave; presente a San Don&agrave; di Piave il Direttore artistico, nonch&eacute; ideatore del GIFFONI EXPERIENCE FILM FESTIVAL, Claudio GUBITOSI, per presentare il progetto "SAN DONA' - GIFFONI MOVIE DAY", che coinvolge tutti gli Istituti Superiori del Basso Piave e i 3 Istituti Comprensivi di San Don&agrave; di Piave. Per comprendere la figura di Claudio Gubitosi e l'entit&agrave; del Progetto vi invitiamo a vedere questo filmato.
+&nbsp;
+</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2111917"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2105741" alt="ORIENTAMENTO UNIVERSITARIO"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2111917">ORIENTAMENTO UNIVERSITARIO</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Orientamento universitario: Incontro con referenti Università Ca’ Foscari di Venezia </p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2086861"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2078871" alt=" SCUOLA APERTA  "></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2086861"> SCUOLA APERTA ... </a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Ecco le date di </p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2104145"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2097261" alt="ZERTIFIKAT DEUTSCH  SESSIONE ESAME MAGGIO 2018"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2104145">ZERTIFIKAT DEUTSCH - SESSIONE ESAME: MAGGIO 2018</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Si rende noto quanto segue: il calendario delle lezioni pomeridiane per la preparazione alla Certificazione di Lingua</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2103867"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2097034" alt="ADESIONE AL CORSO DI FORMAZIONE PER ASSISTENTE CONGRESSUALE 201718"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2103867">ADESIONE AL CORSO DI FORMAZIONE PER ASSISTENTE CONGRESSUALE 2017-18</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Si comunica che anche quest’anno l’Istituto prevede di attivare dei Corsi di Formazione per Assistenti congressuali e fieristici aperti alle allieve e agli </p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2093205"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2085891" alt="PREMIO FUORICLASSE DELLA SCUOLA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2093205">PREMIO FUORICLASSE DELLA SCUOLA</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Roma, 8 novembre 2017
+&Egrave; una studentessa dell&rsquo;Istituto tecnico commerciale Alberti di Venezia, Gaia Penta, la vincitrice del progetto&nbsp;I Fuoriclasse della scuola, nella categoria sostenuta da&nbsp;FS Italiane&nbsp;&ldquo;Gare Istituti Tecnici e Professionali - Sezione Relazioni Internazionali per il Marketing&rdquo;.
+leggi tutto l'articolo...</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2093202"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2085890" alt="CORSI IDA 1 INCONTRO CORSO DI LINGUA INGLESE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2093202">CORSI IDA: 1° INCONTRO CORSO DI LINGUA INGLESE</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>SI CONFERMA L'INIZIO DEL CORSO DI INGLESE LIVELLO INTERMEDIO LUNEDI'  27 NOVEMBRE 2017 DALLE ORE 20:00 ALLE ORE 22:00.</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2094330"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2087243" alt="ESAMI DI STATO AS20172018  PRESENTAZIONE DOMANDA E VERSAMENTI"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2094330">ESAMI DI STATO A.S.2017/2018 – PRESENTAZIONE DOMANDA E VERSAMENTI</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>In riferimento alla C.M.  n. 8  del 10/10/2017, si comunica che il 30 NOVEMBRE 2017 – scadrà il termine per la presentazione della domanda di ammissione agli esami di Stato conclusivi dei corsi di istruzione secondaria superiore.</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2089185"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2081146" alt="PROGETTO TEATRO GOLDONI"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2089185">PROGETTO: TEATRO GOLDONI</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Si comunica che al teatro Goldoni verrà rappresentata la commedia di Carlo Goldoni LE BARUFFE CHIOZZOTTE</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2086346"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2078875" alt="SINTESI RISULTATI OCSEPISA 2015"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2086346">SINTESI RISULTATI OCSE-PISA 2015</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Il Programma di valutazione internazionale degli studenti (noto come PISA Programme for International Student Assessment) è uno studio triennale che valuta il livello acquisito dagli studenti quindicenni dei 72 Paesi OCSE</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2074261"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2065104" alt="NUOVI CALENDARI  CORSO CIVIS 5 liv A2"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2074261">NUOVI CALENDARI - CORSO CIVIS 5- liv. A2</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Percorsi di alfabetizzazione e apprendimento della lingua italiana nell’ambito del Progetto CIVIS V - (seconda parte), aggiornamento date.</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2076508"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2067291" alt="TROFEO BANCO BPM"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2076508">TROFEO BANCO BPM</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Per il 3° anno consecutivo l'Istituto Alberti sale al 1° posto del podio aggiudicandosi il Trofeo Banco BPM,..</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1929465"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1915432" alt="CORSI IDA AS 201718  LA SCUOLA PER GLI ADULTI"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1929465">CORSI IDA A.S. 2017-18 - LA SCUOLA PER GLI ADULTI</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p></p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2067490"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2055893" alt="CORSI FCE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2067490">CORSI FCE</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Integrazione calendario corsi FCE ed iscrizione esame sessione autunnale</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2083934"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2075398" alt="OPEN DAY DEI NOTAI D EUROPAGIORNATA EUROPEA DELLA GIUSTIZIA CIVILE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2083934">“OPEN DAY DEI NOTAI D’ EUROPA&quot;-&quot;GIORNATA EUROPEA DELLA GIUSTIZIA CIVILE&quot;</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>in occasione della GIORNATA EUROPEA DELLA GIUSTIZIA CIVILE importante momento d’informazione, riflessione e confronto, saranno presenti presso il nostro Istitut</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2068860"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2057580" alt="MANIFESTAZIONE FAMILY RUN SABATO 7 OTTOBRE 2017"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2068860">MANIFESTAZIONE FAMILY RUN SABATO 7 OTTOBRE 2017.</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Si comunica con la presente che anche nel 2017 Venicemarathon organizza, in collaborazione con il comune di San Donà di Piave, la manifestazione ALI’ FAMILY RUN,</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2068862"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2057584" alt="ESTRATTO REGOLAMENTO DI ISTITUTO"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2068862">ESTRATTO REGOLAMENTO DI ISTITUTO</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Si ritiene utile richiamare le norme interne che regolano gli eventuali ritardi occasionali, le entrate anticipate e uscite posticipate oltre ad alcune regole, nonostante esse siano già in vigore da tempo.</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2072762"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2062852" alt="ORARIO CLASSI DIURNOPOMERSERALE 201718"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2072762">ORARIO CLASSI DIURNO-POMER/SERALE 2017-18</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p></p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2066232"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2053893" alt="CALENDARIO SCOLASTICO 20172018"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2066232">CALENDARIO SCOLASTICO 2017-2018</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Con deliberazione la Giunta Regionale ha approvato il calendario scolastico 2017/2018</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2072767"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2063029" alt="LALBERTI IN FIERA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2072767">&quot;L'ALBERTI IN FIERA&quot;</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>"LAVORI IN CORSO: 50 ANNI DELL'ALBERTI" di Luigino&nbsp; ZECCHINEL
+Il Libro sar&agrave; presentato dall' Autore,&nbsp; presso il Padiglione Fieristico di Via Pralungo in San Don&agrave; di Piave, dal 30 settembre al 2 ottobre in occasione delle Fiere del Rosario e presso l'Hotel Nettuno a Jesolo in Via Bafile, XXIII accesso al mare , venerd&igrave; 13 ottobre 2017 - ore 18:00.
+&nbsp;
+Vedi foto l'Alberti in Fiera</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2049278"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2031645" alt="GIFFONI EXPERIENCE DAYS A SAN DONA DI PIAVE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2049278">GIFFONI EXPERIENCE DAYS A SAN DONA' DI PIAVE</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Per conoscere meglio ci&ograve; che &egrave; successo a San Don&agrave; di Piave il 30 e 31 maggio scorsi, grazie al lavoro sinergico di tutte le Scuole Superiori.Un particolare ringraziamento alle ragazze e ai ragazzi dell'I.S. MATTEI di Fossalta di Piave che hanno eseguito le riprese e montato il filmato.
+
+&nbsp;</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1922439"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1914751" alt="ALUNNI IN FIERA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1922439">ALUNNI IN FIERA</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Il nostro Istituto partecipa&nbsp;alla Fiera del Rosario 2016&nbsp;con un proprio spazio espositivo, al fine di&nbsp;far conoscere&nbsp;l&rsquo;ampiezza e la flessibilit&agrave; dell&rsquo;offerta formativa, il radicamento nel Territorio, il collegamento con il mondo del lavoro e i risultati raggiunti dagli studenti.
+I protagonisti di questa mostra sono proprio gli allievi delle classi quarte dell'Alberti che, con la loro esperienza gi&agrave; evidenziata durante le attivit&agrave; della "Simulimpresa", hanno allestito e preparato lo stand fieristico, per presentare gli indirizzi di studio del nostro Istituto, tipici delle aree Amministrazione Finanza e Marketing (con una articolazione di Relazioni Internazionali per il Marketing) e Turismo.
+Ti aspettiamo in Fiera nei giorni 1,2 e 3 ottobre.
+Non mancare!</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1980141"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1962303" alt="ISCRIZIONI CORSO SERALE AS 201819"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1980141">ISCRIZIONI CORSO SERALE A.S. 2018-19</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Sono aperte le iscrizioni al corso serale/pomeridiano per l&rsquo;a.s. 2018-2019. 
+Le iscrizioni vanno effettuate presso l&rsquo;ufficio didattica dell&rsquo;Istituto, aperto tutti i giorni dalle 10.30 alle 13.00. 
+Si invitano gli interessati ad inviare il modulo di pre-iscrizione all'Ufficio didattica all'indirizzo didattica@istitutoalberti.it .
+Per qualsiasi informazione telefonare al n. 0421/335727 oppure inviare una mail a:&nbsp; didattica@istitutoalberti.it .
+&nbsp;
+CORSO SERALE E POMERIDIANO
+TITOLO DI STUDIO: DIPLOMA DI ISTITUTO TECNICO SETTORE ECONOMICO INDIRIZZO &ldquo;AMMINISTRAZIONE, FINANZA E MARKETING&rdquo;
+Il corso si caratterizza per la sua differenza con i curricoli istituzionali, tanto da connotarsi come vera e propria &ldquo;seconda via&rdquo; all&rsquo;istruzione al fine di:
+contenere la dispersione scolastica;
+riqualificare giovani e adulti privi di professionalit&agrave; aggiornata, per i quali la licenza media non
+costituisce pi&ugrave; una garanzia contro l&rsquo;emarginazione culturale e/o lavorativa;
+consentire la riconversione professionale di adulti gi&agrave; inseriti in ambito lavorativo che vogliono ripensare o ricomporre la propria identit&agrave; professionale.
+Permette il reinserimento, nel sistema formativo di studenti-lavoratori, attraverso:
+la riduzione dell&rsquo;orario settimanale a 23 ore distribuite su 5 giorni;
+il riconoscimento di crediti formativi cio&egrave; delle competenze gi&agrave; possedute dagli studenti e acquisite in seguito a studi compiuti e certificati da titoli conseguiti in istituti statali o parificati (crediti formali) e delle esperienze maturate in ambito lavorativo o studi personali coerenti con l&rsquo;indirizzo di studio (crediti non formali). Il riconoscimento dei crediti consente di realizzare percorsi formativi in base ai livelli individuali degli studenti. I crediti, nel caso in cui comportino la promozione anticipata in una o pi&ugrave; discipline, determinano l&rsquo;esonero dalla frequenza delle materie per i quali sono stati riconosciuti;
+l&rsquo;adozione di metodologie didattiche tendenti a valorizzare le esperienze culturali e professionali degli studenti;
+un&rsquo;attivit&agrave; di tutoring svolta da uno dei docenti del consiglio di classe per aiutare i singoli allievi in difficolt&agrave; rispetto al loro inserimento nel sistema scolastico, all&rsquo;attivazione di strategie idonee a colmare carenze culturali e all&rsquo;assistenza per sopravvenute difficolt&agrave; in ordine alle scelte degli studi o ai percorsi formativi.
+Il corso &egrave; finalizzato all'acquisizione del Diploma di Stato di istruzione secondaria superiore tecnico commerciale (ragioniere e perito commerciale) quindi le opportunit&agrave; professionali sono le stesse di quelle del diplomato dell&rsquo;indirizzo Amministrazione Finanza e Marketing.
+La classe pomeridiana, pur mantenendo le caratteristiche del corso - come l&rsquo;orario ridotto suddiviso in cinque giorni di lezione settimanali e soprattutto la possibilit&agrave; per gli studenti di beneficiare di crediti formativi maturati in base ad esperienze scolastiche precedenti - presenta la peculiarit&agrave; di osservare un orario scolastico pomeridiano anzich&eacute; serale.
+L&rsquo;orario pomeridiano costituisce un allargamento dell&rsquo;offerta formativa e ha l&rsquo;obiettivo di contrastare il fenomeno della dispersione scolastica.
+Il Corso si rivolge infatti non solo a studenti adulti, ma anche a coloro che a causa degli insuccessi scolastici non trovano pi&ugrave; la motivazione per proseguire gli studi, senza avere nel contempo la possibilit&agrave; di frequentare i corsi serali.</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2003739"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1983348" alt="TESSERAMENTO ASSOCIAZIONE EX ALLIEVI LB ALBERTI"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2003739">TESSERAMENTO ASSOCIAZIONE EX ALLIEVI &quot;L.B. ALBERTI</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Nei prossimi mesi &nbsp;l&rsquo;ITC &ldquo;L. B. ALBERTI&rdquo; e l&rsquo;Associazione ex- allievi, saranno impegnati in importanti Progetti &nbsp;che prevedono tra l&rsquo;altro:
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la pubblicazione e la presentazione del libro celebrativo del cinquantenario dell&rsquo;intitolazione dell&rsquo;Istituto a L.B. ALBERTI;
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il coordinamento &nbsp;di una Manifestazione cinematografica in San Don&agrave; di Piave dove stiamo coinvolgendo l&rsquo;Amministrazione comunale , &nbsp;il Giffoni Esperience (gi&agrave; Giffoni Film Festival), gli Istituti scolastici e molte realt&agrave; associative del territorio;
+-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lo sviluppo &nbsp;di un progetto che valorizzi i locali dell&rsquo;Istituto gi&agrave; adibiti ad aule conferenze, aule riunioni e aule internet; con strumentazione all&rsquo;avanguardia fruibile &nbsp;dagli alunni e dal personale &nbsp;dell&rsquo;Istituto per le attivit&agrave; interne, ma anche dalle realt&agrave; produttive locali, &nbsp;coinvolgendo le associazioni di categoria e la Citt&agrave; metropolitana.
+Al &nbsp;fine di realizzare tutto ci&ograve; abbiamo bisogno di valide collaborazioni e per primi abbiamo pensato ai nostri ex- allievi ai quali chiediamo di associarsi per portare idee e maggior forza ai nostri progetti.
+Per Informazioni andate sul sito&nbsp;www.itcalberti.gov.it&nbsp;
+&nbsp;
+IL PRESIDENTE DELL'ASSOCIAZIONE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IL&nbsp;DIRIGENTE SCOLASTICO
+&nbsp;&nbsp;&nbsp; DANILO LUNARDELLI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VINCENZO SABELLICO
+&nbsp;
+&nbsp;
+IL RESPONSABILE DEL TESSERAMENTO
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GIUSEPPE SARTORELLO</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1948130"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1932745" alt="INFORMATIVA CERTIFICAZIONE LINGUA INGLESE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1948130">INFORMATIVA CERTIFICAZIONE LINGUA INGLESE</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Per saperne di pi&ugrave;.. scarica il comunicato:</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1948142"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1932758" alt="PRESENTAZIONE DOMANDA E VERSAMENTI"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1948142">PRESENTAZIONE DOMANDA E VERSAMENTI</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Per saperne di pi&ugrave;.. scarica il comunicato:</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1809191"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1914767" alt="USO DEL BADGE PER GLI STUDENTI"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1809191">USO DEL BADGE PER GLI STUDENTI</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>L'Istituto da qualche anno ha introdotto la rilevazione delle presenze&nbsp; degli studenti in classe, attraverso l&rsquo;utilizzo del badge magnetico. L'alunno all'entrata della scuola dovr&agrave; avvicinare il badge al lettore e la sua presenza verr&agrave; segnalata nel registro elettronico. In caso di assenza dell'alunno, il sistema invier&agrave; automaticamente un sms al numero personale del genitore per segnalarne l'assenza. Tutti i ritardi e le assenze verranno riassunti in specifici report sempre consultabili dai genitori e dai docenti.</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1892309"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1914755" alt="PATTO EDUCATIVO DI CORRESPONSABILITA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1892309">PATTO EDUCATIVO DI CORRESPONSABILITA'</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>L’Istituto “L.B.Alberti” di San Donà di Piave presenta ai propri studenti ed ai loro genitori, ai fini della loro sottoscrizione, il seguente Patto di corresponsabilità,</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1901683"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1914758" alt="ASL  PROTOCOLLO DINTESA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=1901683">A.S.L. - PROTOCOLLO D'INTESA</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Da Protocollo&nbsp; : News dell&rsquo;USR per il Veneto- link: &nbsp;http://www.istruzioneveneto.it/wpusr/archives/51245
+( 27 giugno 2016 )
+Protocollo d&rsquo;Intesa per l&rsquo;Alternanza Scuola Lavoro tra Regione del Veneto, USR Veneto, Unioncamere e Parti Sociali
+Nota&nbsp;dg del 27 giugno 2016 pdf&nbsp;&ndash; protocollo d&rsquo;intesa pdf</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=400796"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1914768" alt="REGOLAMENTO DI ISTITUTO"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=400796">REGOLAMENTO DI ISTITUTO</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p></p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=401114"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1914760" alt="VEDI IL WEBSITE DELLA PASSATA FIERA DELLE IMPRESE SIMULATE"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=401114">VEDI IL WEBSITE DELLA PASSATA FIERA DELLE IMPRESE SIMULATE</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Vedi gli articoli, i video e le foto della&nbsp;passata 7 ͣ Fiera Internazionale delle Imprese simulate&nbsp;svoltasi a Jesolo&nbsp;(Ve)&nbsp;il 15 e 16 Aprile 2015</p>
+</div>
+
+
+</div>
+
+
+
+
+<div class="col-sm-4 col-md-4 1">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2027509"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2006509" alt="QUESTIONARIO ORIENTAMENTO IN USCITA"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col4"><a href="?sede_codice=VEIT0017&amp;page=2027509">QUESTIONARIO ORIENTAMENTO IN USCITA</a></h3>
+<div class="hp_testo_flusso_principale_col4">
+<p>Nell’ambito dell’attività di Orientamento in uscita è stato creato un questionario</p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+<div class="col-md-12 news p2">
+<div class="row">
+
+<div class="col-sm-12 col-md-12 ">
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2096604"><img src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2093259" alt="FORMAZIONE DAMBITO 16"></a>
+
+
+<h3 class="hp_titolo_flusso_principale_col12"><a href="?sede_codice=VEIT0017&amp;page=2096604">FORMAZIONE D'AMBITO 16</a></h3>
+<div class="hp_testo_flusso_principale_col12">
+<p></p>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+</div>
+<hr/>
+
+
+</div>
+<div class="col-sm-5 col-md-4 widgets">
+
+<div class="row trasparenza">
+<div class="col-xs-6 sx">
+<a href="?sede_codice=VEIT0017&amp;page=400278" style="font-size:11px;">
+<img style="margin-bottom:1px;" alt="logo amministrazione trasparente" title="Accesso alla sezione Amministrazione trasparente; contenuti: documenti, informazioni e dati previsti dal Decreto legislativo - 14 marzo 2013, n. 33."  class="thumbnail" src="../../img/trasparenza.png"/>
+Amministrazione trasparente
+</a>
+</div>
+<div class="col-xs-6 dx">
+<a href="?sede_codice=VEIT0017&amp;page=400277" style="font-size:12px;">
+<img style="margin-bottom:1px;" class="thumbnail" src="../../img/albo_online.png" alt="Albo Online">
+Albo online
+</a>
+</div>
+</div>
+
+
+<a href="http://www.piazzalberti.it/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2106110" alt="PIAZZA ALBERTI..."></a>
+
+
+<a href="http://www.piazzalberti.it/studenti/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2106107" alt="1"></a>
+
+
+<a href="http://www.fieraimprese.eu/agenda"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1901055" alt="AGENDA"></a>
+
+
+<a href="http://www.fieraimprese.eu/prenotazione/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2056494" alt="Prenotazioni"></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=400275"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1925613" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=2096604"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=2093251" alt=""></a>
+
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">San Donà Movie Days</h3>
+</div>
+<div class="panel-body">
+<iframe width="100%" height="180" src="https://www.youtube.com/embed/NP_KXMk3-54" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1871599"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1841616" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1933905"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1920261" alt=""></a>
+
+
+<a href="https://web.spaggiari.eu/home/app/default/login.php?target=sct&amp;custcode=SCUOLATE"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1847492" alt="ALTERNANZA SCUOLA LAVORO"></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1864960"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1853969" alt=""></a>
+
+
+<a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VETD030001/leon-battista-alberti"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1853968" alt="Piano Digitale"></a>
+
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Ultime notizie</h3>
+</div>
+<div class="panel-body ">
+<ul class="newsscroll" style="list-style: none;padding: 0px;margin: 0px;">
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2116493" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">AUGURI DEL DIRIGENTE</h4>
+<p class="list-group-item-text">giovedì 21 dicembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2116094" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">PROGETTO: GENITORI E FIGLI VERSO L’IN-DIPENDENZA</h4>
+<p class="list-group-item-text">giovedì 21 dicembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2116093" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">PROGETTO &quot;PLAY THE JOB&quot;</h4>
+<p class="list-group-item-text">giovedì 21 dicembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2113669" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">3^ SESSIONE D'ESAME ECDL</h4>
+<p class="list-group-item-text">lunedì 18 dicembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2111917" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">ORIENTAMENTO UNIVERSITARIO</h4>
+<p class="list-group-item-text">giovedì 14 dicembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2108186" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">RICEVIMENTO POMERIDIANO GENITORI – 1° QUADRIMESTRE.</h4>
+<p class="list-group-item-text">martedì 05 dicembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2104145" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">ZERTIFIKAT DEUTSCH - SESSIONE ESAME: MAGGIO 2018</h4>
+<p class="list-group-item-text">martedì 28 novembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2103867" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">ADESIONE AL CORSO DI FORMAZIONE PER ASSISTENTE CONGRESSUALE 2017-18</h4>
+<p class="list-group-item-text">martedì 28 novembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2103810" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">LE SCUOLE SI INCONTRANO</h4>
+<p class="list-group-item-text">martedì 28 novembre 2017</p>
+</div>
+</li>
+
+
+<li>
+<div  class="list-group-item link-to-file" id_doc="2096989" action="page" sede_codice="VEIT0017">
+<h4 class="list-group-item-heading">2^ SESSIONE D'ESAME ECDL</h4>
+<p class="list-group-item-text">venerdì 17 novembre 2017</p>
+</div>
+</li>
+
+
+</ul>
+</div>
+</div>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=400300"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=400003" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1871490"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1858524" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1889605"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1874394" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1933176"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1855828" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=400704"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1821541" alt=""></a>
+
+
+<a href="https://web.spaggiari.eu/home/app/default/login.php?target=cvv&amp;mode=&amp;custcode=VEIT0017"><img class="thumbnail1" src="../../img/classeviva.png" alt="ClasseViva"></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1807168"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1804773" alt=""></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=401512"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=400950" alt=""></a>
+
+
+<a href="https://www.facebook.com/ITCS-Leon-Battista-Alberti-884238824979875/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1854014" alt="FACEBOOK"></a>
+
+
+<a href="?sede_codice=VEIT0017&amp;page=1817026"  class="  banner"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1853705" alt=""></a>
+
+
+<a href="http://www.saporeallavita.net/"  class="  banner" target="_blank"><img  src="pvw_img.php?sede_codice=VEIT0017&amp;doc=1915429" alt="SAPORE ALLA VITA"></a>
+
+
+</div>
+</div>
+
+
+</div>
+
+<div class="container footer">
+<div class="footer_text">
+<div class="row visible-sm visible-md visible-lg links">
+<div class="col-sm-12 col-md-12">
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Istituto</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400755" >il Dirigente Scolastico</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400758" >Presentazione Istituto</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400763" >Organizzazione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2001134" >Piani e programmi triennali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2002365" >PROGRAMMA ANNUALE</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400796" >Regolamenti di Istituto </a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400766" >Carta dei Servizi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400823" >Servizi amministrativi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400855" >Dotazioni Tecnologiche e Aule Speciali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1933905" >Associazione ex allievi</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Didattica</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400704" >Piani di studio</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400722" >Attività e Progetti dell'Istituto</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400688" >Attivita' sportive</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Gare, concorsi e premi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400992" >Scuola Digitale: Registro Elettronico LIM</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Studenti</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2066232" >Calendario scol. 2017-18</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2072762" >Orario classi</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400985" >Area Inclusione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2069098" >Polizza Assicurativa RC</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Statuto delle studentesse e degli studenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401438" >Modulistica Studenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Assemblee</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Viaggi di istruzione all'estero</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Stage</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Corsi pomeridiani</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401439" >Libri di testo</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Orientamento universitario</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Orientamento in entrata</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2111917" >Orientamento in uscita</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Genitori</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2066232" >Calendario scol. 2017-18</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2069098" >Polizza Assicurativa RC</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Ricevimenti settimanali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401439" >Libri di testo</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401438" >Modulistica Genitori</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consigli di Istituto e Giunta</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consigli di classe</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Docenti e ATA</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2066232" >Calendario scol. 2017-18</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2081161" >Calendario attività collegiali</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2067494" >Corsi di formazione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2096604" >Formazione d'ambito in generale</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2069098" >Polizza Assicurativa RC</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1826852" >Ricevimenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consigli di classe</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Consiglio di Istituto e Giunta</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=2071015" >Modulistica Docenti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401559" >Modulistica personale ATA</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401368" >Piano di Lavoro ATA</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1826662" >Codice di disciplina Personale ATA</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=" >Aggiornamento - Formazione</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=401017" >Prevenzione e Sicurezza</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>DELIBERE</label><li>
+<li><a href="?sede_codice=VEIT0017&amp;page=1960268" >DELIBERE</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Organigramma</label><li>
+<li><a href="?sede_codice=VEIT0017&amp;page=400763" >Organigramma</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>News</label><li>
+<li><a href="?sede_codice=VEIT0017&amp;page=400301" >News</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>ALBUM FOTO</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1998324" >FOTO ANNO 2017</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1933352" >FOTO ANNO 2016</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1998335" >FOTO ANNO 2015</a></li>
+
+
+</ul>
+</div>
+
+
+<div class="col-sm-2 col-md-2">
+<ul class="list-unstyled">
+<li><label>Contatti</label><li>
+
+<li><a href="?sede_codice=VEIT0017&amp;page=400300" >Recapiti</a></li>
+
+
+<li><a href="?sede_codice=VEIT0017&amp;page=1807877" >Modulistica per Enti</a></li>
+
+
+</ul>
+</div>
+
+
+</div>
+</div>
+<hr class="hidden-xs">
+<div class="row">
+<div class="col-sm-12" style="text-align:right;cursor:pointer;margin-bottom:20px;">
+<img id="access_font" style="width:20px;" src="../../img/access01.png" alt="font">
+<img id="access_black" style="width:20px;" src="../../img/access03.png" alt="nero">
+<img id="access_contrast" style="width:20px;" src="../../img/access02.png" alt="contrasto">
+<img id="access_stop" style="width:20px;" src="../../img/access05.png"  alt="annulla effetti">
+</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<div class="row">
+<div class="col-xs-7 col-md-10 privacy">
+<p class="info">
+I.T.C. "L. B. ALBERTI" (VE) - 30027 San Dona' Di Piave (VE) - <abbr title="Telefono">Tel</abbr>: <a href="tel:0421335711">0421335711</a> - <abbr title="Fax">Fax</abbr>: 0421335740<br>
+E-mail: <a href="mailto:vetd03000@istruzione.it">vetd030001@istruzione.it</a>
+</p>
+
+<a href="https://web.spaggiari.eu/pvw/img/legali.pdf" target="_blank" >Note legali</a>
+-
+<a href="http://www.spaggiari.eu/privacy/privacy.pdf" target="_blank">Privacy</a>
+-
+<a href="https://web.spaggiari.eu/pvw/app/default/pvw_sito.php?sede_codice=VEIT0017&page=-10" target="_blank">Policy sui Cookie</a>
+-
+<a href="mailto:vetd030001@istruzione.it">Comunicazioni privacy</a>
+-
+<a href="http://www.istruzione.it/urp/" target="_blank">URP</a>
+
+
+
+
+</div>
+<div class="col-xs-5 prima-visione-web-float text-right">
+<a class="autumn" href="#" title="Prima Visione Web - Gruppo Editoriale Spaggiari"><img src="../../img/pvb-logo-white.png" alt="Prima Visione Web"></a>
+</div>
+</div>
+</div>
+</div>
+<br><br>
+
+
+
+
+
+<div class="visualizzato_tot_volte visualizzato_tot_volte_custom">
+
+visualizzata 646724 volte
+
+
+</div>
+</div>
+</div>
+
+
+
+<!-- Start Alexa Certify js -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Pl+fk1acFH00EO", domain:"spaggiari.eu",dynamic: true};
+(function(){var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as,s);})();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Pl+fk1acFH00EO" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify js -->  	
+</body>
+</html>
+
+

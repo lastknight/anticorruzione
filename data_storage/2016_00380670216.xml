@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Curon Venosta</abstract>
+   <dataPubblicazioneIndice>2016-01-20</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Curon Venosta</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-20</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21027/21027indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_F1AA64E4-47F8-4CDD-95BA-1AC2391CE27F'>
+      <linkDataset>http://data.gvcc.net/avcp/21027/F1AA64E4-47F8-4CDD-95BA-1AC2391CE27F.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_E502D8CB-8882-44B1-8D2C-3D434FCCDB0E'>
+      <linkDataset>http://data.gvcc.net/avcp/21027/E502D8CB-8882-44B1-8D2C-3D434FCCDB0E.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_74E1A00D-1294-4B66-A32B-031FBCFA72F8'>
+      <linkDataset>http://data.gvcc.net/avcp/21027/74E1A00D-1294-4B66-A32B-031FBCFA72F8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+	<metadata>
+		<titolo>Indice Pubblicazione 2016</titolo>
+		<abstract>Pubblicazione anno 2016</abstract>
+		<dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+		<entePubblicatore>Università degli Studi di Trento</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-10-19</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://approvvigionamenti.unitn.it/bandi-di-gara-e-contratti/2017/index_2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://approvvigionamenti.unitn.it/bandi-di-gara-e-contratti/2017/amministrazione_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://approvvigionamenti.unitn.it/bandi-di-gara-e-contratti/2017/ricerca_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://approvvigionamenti.unitn.it/bandi-di-gara-e-contratti/2017/Pagato2016_Competenza2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://approvvigionamenti.unitn.it/bandi-di-gara-e-contratti/2017/Pagato2016_Competenza2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-23</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

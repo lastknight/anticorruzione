@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 http://dati.avcp.it/schema/datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione web xml per adempimento obblighi Legge 190/2012</titolo>
+    <abstract>Pubblicazione web xml per adempimento obblighi Legge 190/2012 - anno rif. 2016</abstract>
+    <dataPubbicazioneDataset>2017-02-15</dataPubbicazioneDataset>
+    <entePubblicatore>Agenzia Mobilità Ambiente e territorio s.r.l.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-02-15</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://xml.amat-mi.it/appalti/appalti_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>6770600BDC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>12908910156</codiceFiscaleProp>
+        <denominazione>Agenzia Mobilità Ambiente e territorio s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>AFFIDAMENTO DEI SERVIZI RELATIVI ALL'INDAGINE DI CUSTOMER SATISFACTION DEL TRASPORTO PUBBLICO A MILANO E NEI COMUNI INTERESSATI DAI SERVIZI DI AREA URBANA DI MILANO - ANNO 2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09786990151</codiceFiscale>
+          <ragioneSociale>GRUPPO CLAS S.P.A.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04062060589</codiceFiscale>
+          <ragioneSociale>IZI S.P.A</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00819770587</codiceFiscale>
+          <ragioneSociale>Pragma Research S.r.l.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06637800639</codiceFiscale>
+          <ragioneSociale>Scenari S.r.l.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00532540325</codiceFiscale>
+          <ragioneSociale>SWG S.p.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00819770587</codiceFiscale>
+          <ragioneSociale>Pragma Research S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38860.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-06</dataInizio>
+        <dataUltimazione>2016-12-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6724614F02</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>12908910156</codiceFiscaleProp>
+        <denominazione>Agenzia Mobilità Ambiente e territorio s.r.l.</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento del servizio di gestione del pagamento mediante carte elettroniche prepagate per conto della Iniziativa Car Sharing</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>13263320155</codiceFiscale>
+          <ragioneSociale>Ingenico Italia</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>13263320155</codiceFiscale>
+          <ragioneSociale>Ingenico Italia</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>89760.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-20</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

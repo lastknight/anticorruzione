@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Badia</abstract>
+   <dataPubblicazioneIndice>2016-01-21</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Badia</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-21</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21006/21006indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_ABA8B5C1-9B93-4BC7-B408-2175E7A14108'>
+      <linkDataset>http://data.gvcc.net/avcp/21006/ABA8B5C1-9B93-4BC7-B408-2175E7A14108.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_221E570F-FABB-463B-9EA3-10D2F6F63A5F'>
+      <linkDataset>http://data.gvcc.net/avcp/21006/221E570F-FABB-463B-9EA3-10D2F6F63A5F.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_9290816C-5779-4C60-A447-C7C6CEA260AD'>
+      <linkDataset>http://data.gvcc.net/avcp/21006/9290816C-5779-4C60-A447-C7C6CEA260AD.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-13</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  <metadata>
+    <titolo><![CDATA[Pubblicazione legge 190]]></titolo>
+    <abstract><![CDATA[ ]]></abstract>
+    <dataPubblicazioneIndice>2017-02-01</dataPubblicazioneIndice>
+    <entePubblicatore><![CDATA[AZIENDA SOCIO SANITARIA TERRITORIALE (ASST)]]></entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-01</dataUltimoAggiornamentoIndice>
+    <annoRiferimento><![CDATA[2016]]></annoRiferimento>
+    <urlFile><![CDATA[http://www.aovv.it/files/data/16a11959079a119d53c1e6a1ca24b6fd.xml]]></urlFile>
+    <licenza><![CDATA[IODL]]></licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1" >
+      <linkDataset>http://www.aovv.it/files/data/da47877e852ebbf56ce595675fa7f22a.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2" >
+      <linkDataset>http://www.aovv.it/files/data/7d29400159a3ec45785c6a61940c94ba.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3" >
+      <linkDataset>http://www.aovv.it/files/data/4852b890e78f6ad6eccc843ec8564d56.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4" >
+      <linkDataset>http://www.aovv.it/files/data/82ecb3a869f3a5c0f707653204342483.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice AVCP</titolo>
+    <abstract>Adempimenti obblighi di pubblicazione legge 190/2012</abstract>
+    <dataPubblicazioneIndice>2016-01-22</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO DI ISTRUZIONE SUPERIORE - "F. PETRUCCELLI" - MOLITERNO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-22</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SG28152/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28152/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-22</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201583001290762">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28152/2015/gare201583001290762.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-22</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201583001370762">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28152/2015/gare201583001370762.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-22</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

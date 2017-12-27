@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione 1 legge 190</titolo>
+		<abstract> Pubblicazione 1 legge 190 aggiornamento del 2016-01-25 11:26:55 con SSC</abstract>
+		<dataPubbicazioneDataset>2016-01-25</dataPubbicazioneDataset>
+		<entePubblicatore>CPIA PALERMO 1</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-25</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.cpiapalermo1.gov.it/index.php/avcp</urlFile>
+		<licenza>IODL 2.0</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>Z9A175D3F6</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>97308560826</codiceFiscaleProp>
+				<denominazione>CPIA PALERMO 1</denominazione>
+			</strutturaProponente>
+			<oggetto>acquisto materiale cancelleria test prefettura</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LMBSRG61E29G273R</codiceFiscale>
+					<ragioneSociale>LOMBARDO SERGIO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LMBSRG61E29G273R</codiceFiscale>
+					<ragioneSociale>LOMBARDO SERGIO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>845.81</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-16</dataInizio>
+				<dataUltimazione>2015-12-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

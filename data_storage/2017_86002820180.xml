@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://anticorruzione.demosdata.it/templates/xml/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Comune di Santa Margherita di Staffora Indice pubblicazioni L190 2012</titolo>
+<abstract>Comune di Santa Margherita di Staffora Indice pubblicazioni L190 2012</abstract>
+<dataPubblicazioneIndice>2014-01-29</dataPubblicazioneIndice>
+<entePubblicatore>Comune di Santa Margherita di Staffora</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-26</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2016</annoRiferimento>
+<urlFile>http://anticorruzione.demosdata.it/xml/018142/main.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018142/1.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018142/2.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-29</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018142/3.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-29</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_4">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018142/4.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-29</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

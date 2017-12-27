@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Indice pubblicazione legge 190</titolo>
+        <abstract>Pubblicazione relativa anno 2015</abstract>
+        <dataPubblicazioneIndice>2016-01-31</dataPubblicazioneIndice>
+        <entePubblicatore>Comune di Treviso</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-01-31</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://www.comune.treviso.it/xml/indice_l190_2015.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.comune.treviso.it/xml/dataset_l190_2015_2010.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.comune.treviso.it/xml/dataset_l190_2015_2012.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://www.comune.treviso.it/xml/dataset_l190_2015_2013.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_4">
+            <linkDataset>http://www.comune.treviso.it/xml/dataset_l190_2015_2014.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_5">
+            <linkDataset>http://www.comune.treviso.it/xml/dataset_l190_2015_2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

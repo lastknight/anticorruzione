@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione dei dati legge 190</titolo>
+    <abstract>Pubblicazione dei dati legge 190 - anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+    <entePubblicatore>Universita' degli Studi dell'Insubria</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www4.uninsubria.it/indicedataset_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www4.uninsubria.it/dataset_2016_00001.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www4.uninsubria.it/dataset_2016_00002.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

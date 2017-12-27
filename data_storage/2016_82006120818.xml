@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+    <titolo>Pubblicazione dati legge 190</titolo>
+    <abstract>Pubblicazione dati legge 190</abstract>
+    <dataPubbicazioneDataset>2010-01-26</dataPubbicazioneDataset>
+    <entePubblicatore>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-26</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.istitutogiuseppemazzini.gov.it/anac2015_xml/datil190.xml</urlFile>
+    <licenza>IODL</licenza>
+</metadata>
+<data>
+    <lotto>
+      <cig>5813349F57</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>1 ACCONTO SU FATT.N. 321</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01614150819</codiceFiscale>
+          <ragioneSociale>CSC DI PALADINO LEONARDA E C. S.A.S.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01614150819</codiceFiscale>
+          <ragioneSociale>CSC DI PALADINO LEONARDA E C. S.A.S.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>35200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>35200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>600014002B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 11/E - QUOTA LAVORI € 1,143,42- QUOTA ONERI NON SOGGETTI AL RIBASSO € 802,65</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00236730818</codiceFiscale>
+          <ragioneSociale>PERRONE COSTRUZIONI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01371540814</codiceFiscale>
+          <ragioneSociale>NUOVA ESIRS.N.C</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01414800811</codiceFiscale>
+          <ragioneSociale>LES DI RUBINO E ANDREA GENNA S..N.C </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01480720810</codiceFiscale>
+          <ragioneSociale>CO.CI.P S.N C</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01496670819</codiceFiscale>
+          <ragioneSociale>SA.TRA.SERVIZI SOCET COOP</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01712220845</codiceFiscale>
+          <ragioneSociale>ARLI S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01734690819</codiceFiscale>
+          <ragioneSociale>LESIF SOC. COOP</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01748380852</codiceFiscale>
+          <ragioneSociale>COENDO S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01791170853</codiceFiscale>
+          <ragioneSociale>VALENZA COSTRUZIONI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01872880818</codiceFiscale>
+          <ragioneSociale>IPE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01899470841</codiceFiscale>
+          <ragioneSociale><![CDATA[NUOVI LAVORI DI ANTONORO SALVINO & C S.A.S.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01927480812</codiceFiscale>
+          <ragioneSociale>OMNIA S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01930510852</codiceFiscale>
+          <ragioneSociale>GUARNERI S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01963210818</codiceFiscale>
+          <ragioneSociale>D'ALBERTI COSTRUZIONI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02002480842</codiceFiscale>
+          <ragioneSociale>EDILCEIM</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02078440811</codiceFiscale>
+          <ragioneSociale>SO.EDIL S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02125880811</codiceFiscale>
+          <ragioneSociale>F.LLI BONANNO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02145310815</codiceFiscale>
+          <ragioneSociale>TUTTO COSTRUZIONI S.A.S</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02165790813</codiceFiscale>
+          <ragioneSociale>A.G.R. SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02173710811</codiceFiscale>
+          <ragioneSociale>PAMPALONE S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02232730818</codiceFiscale>
+          <ragioneSociale>ENERTECH S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02236990814</codiceFiscale>
+          <ragioneSociale>AMATO COSTRUZIONI S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02288990811</codiceFiscale>
+          <ragioneSociale>EDILMERLO S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02297570844</codiceFiscale>
+          <ragioneSociale>NEW ENERGY GROUP S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02301130841</codiceFiscale>
+          <ragioneSociale>MILITELLO COSTRUZIONI S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02343180812</codiceFiscale>
+          <ragioneSociale>INTESA VERDE S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02405110814</codiceFiscale>
+          <ragioneSociale>S.N.L. COSTRUZIONI S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02456510847</codiceFiscale>
+          <ragioneSociale>B.C.R. PROJET SNC</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02478440841</codiceFiscale>
+          <ragioneSociale>MAR.SAL. COSTRUZIONI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02514060819</codiceFiscale>
+          <ragioneSociale>MASTRANTONIO COSTRUZIONI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02660610847</codiceFiscale>
+          <ragioneSociale>SI.CO.EDILI. S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02670720842</codiceFiscale>
+          <ragioneSociale>MARTINA COSTRUZIONI S.R. L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03859960829</codiceFiscale>
+          <ragioneSociale>EDIL RAPPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04252720828</codiceFiscale>
+          <ragioneSociale>FRUSTERI COSTRUZIONI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05436080823</codiceFiscale>
+          <ragioneSociale>TEC INFRASTRUTTURE S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05516960829</codiceFiscale>
+          <ragioneSociale>CRS COSTRUZIONI S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05709360829</codiceFiscale>
+          <ragioneSociale>BILECI IMMOBILIARE S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>05858130825</codiceFiscale>
+          <ragioneSociale>EDILCOMPANY S.RL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06310620825</codiceFiscale>
+          <ragioneSociale>PUCCIO ANTONIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06322880821</codiceFiscale>
+          <ragioneSociale>GI.RO.SA COSTRUZIONI S.R.L</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>CLNGNN80H51D423H</codiceFiscale>
+          <ragioneSociale>CIALONA GIOVANNA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>CPBGPP79H02A089S</codiceFiscale>
+          <ragioneSociale>CAPOBIANCO GIUSEPPE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>DLBGPP56H19F061I</codiceFiscale>
+          <ragioneSociale>D'ALBERTI GIUSEPPE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>FRRGPP69M24Z112Q</codiceFiscale>
+          <ragioneSociale>COFEDIL DI FERRANTE GIUSEPPE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MMLMRA74B06Z112R</codiceFiscale>
+          <ragioneSociale>EMMOLO MAURO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MNGSVS77C20D423P</codiceFiscale>
+          <ragioneSociale>MANGANO SILVESTRO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRNRSR64L17F061Y</codiceFiscale>
+          <ragioneSociale>MARINO ROSARIO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>RDLPTR61D22E541I</codiceFiscale>
+          <ragioneSociale>RODOLICO PIETRO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>RNNGPP78A58G273K</codiceFiscale>
+          <ragioneSociale>RENNA INTONACI</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>TRRSVT48A08F061F</codiceFiscale>
+          <ragioneSociale>TERRANOVA SALVATORE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>VTONTN61M23E974I</codiceFiscale>
+          <ragioneSociale>VOTI ANTONIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>VTONTN61M23E974I</codiceFiscale>
+          <ragioneSociale>VOTI ANTONIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>151486.12</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-27</dataInizio>
+        <dataUltimazione>2015-10-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>123535.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>71B1458E38</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N.13 TER</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>392.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-13</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>392.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0613EBDE4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 10</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>181.82</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>181.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0A1567F27</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 154</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02227740814</codiceFiscale>
+          <ragioneSociale>CIA IMPIANTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02227740814</codiceFiscale>
+          <ragioneSociale>CIA IMPIANTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>385.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-14</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>385.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B1376509</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 9</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>171.82</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>171.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0B177DB4E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 27/E</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>242.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0C16B2D3E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 389</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>318.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0D0E1FF15</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 47</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02126260815</codiceFiscale>
+          <ragioneSociale>IMPIANTI ANSELMI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02126260815</codiceFiscale>
+          <ragioneSociale>IMPIANTI ANSELMI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>490.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-03</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>490.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0F126AB6D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE PC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>96.55</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-09</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z141681924</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N.103</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>145.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1D14263E9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 165</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>121.31</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>121.31</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z251382946</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA ATTIVITA' PER OLIMPIADE GRAMMATICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04384760874</codiceFiscale>
+          <ragioneSociale>EXPLORER</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04384760874</codiceFiscale>
+          <ragioneSociale>EXPLORER</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>82.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2714B60D3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 11</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04391100874</codiceFiscale>
+          <ragioneSociale>GESTUR</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04391100874</codiceFiscale>
+          <ragioneSociale>GESTUR</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3074.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-03</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3074.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2C09A4851</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. PA PA 1_15 E PA 4_15</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>SMMLRT79P02D423F</codiceFiscale>
+          <ragioneSociale>SAMMARTANO ALBERTO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>SMMLRT79P02D423F</codiceFiscale>
+          <ragioneSociale>SAMMARTANO ALBERTO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13035.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-15</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13035.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2C1458DE6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 49</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-31</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1600.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2E1567F0D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 117/PA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01279040818</codiceFiscale>
+          <ragioneSociale>CENTRO INFORMATICA 2000 S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01279040818</codiceFiscale>
+          <ragioneSociale>CENTRO INFORMATICA 2000 S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3011773BC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di pulitura condizionatori</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02227740814</codiceFiscale>
+          <ragioneSociale>CIA IMPIANTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02227740814</codiceFiscale>
+          <ragioneSociale>CIA IMPIANTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>120.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3017737BC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 265</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02227740814</codiceFiscale>
+          <ragioneSociale>CIA IMPIANTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02227740814</codiceFiscale>
+          <ragioneSociale>CIA IMPIANTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z321346D13</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 75/C</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02111960817</codiceFiscale>
+          <ragioneSociale><![CDATA[FREE SHOP S.A.S. di Zerilli Alfredo  & sas]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>02111960817</codiceFiscale>
+          <ragioneSociale><![CDATA[FREE SHOP S.A.S. di Zerilli Alfredo  & sas]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>267.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>267.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3416664A2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>FATT.N. 15/TER-ACCONTO L'EREDITA' IN EXPO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>28054.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>28054.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3F14F08C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 251</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>52.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>52.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z401773339</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA MATERIALE DI FACILE CONSUMO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00991131004</codiceFiscale>
+          <ragioneSociale>FELIAN</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>00991131004</codiceFiscale>
+          <ragioneSociale>FELIAN</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>599.23</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4313B36F3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 34/PA/15</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>25.49</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>25.49</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z43140F993</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 485 fp</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08552720016</codiceFiscale>
+          <ragioneSociale>VOLLEY SPORT s.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08552720016</codiceFiscale>
+          <ragioneSociale>VOLLEY SPORT s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>486.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>486.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z44166640B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>FATTT.N. 16/TER - VBIAGGIO TOGETHER IN EXPO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8628.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-12</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8628.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z44177373E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 510</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>367.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z491251F43</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>BIGLIETTERIA AEREA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1861.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-16</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4B0D92F11</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>MATERIALE PER LABORATORIO DI CERAMICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02126290838</codiceFiscale>
+          <ragioneSociale>LE TERRACOTTE DEL SOLE s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02126290838</codiceFiscale>
+          <ragioneSociale>LE TERRACOTTE DEL SOLE s.a.s</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>998.14</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-18</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>998.14</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4E16B2D62</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 392</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>49.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F0F6E1B8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 484</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>270.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-28</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>270.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F14264A4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 67</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>22.13</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>22.13</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z500D9100F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 166 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>84.43</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-03-31</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>84.43</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z50132CF62</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 01 E </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02263200814</codiceFiscale>
+          <ragioneSociale>ENOVIRANO s.r.l</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02263200814</codiceFiscale>
+          <ragioneSociale>ENOVIRANO s.r.l</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>895.85</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z50137E863</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 2 elettr.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02459920811</codiceFiscale>
+          <ragioneSociale>PARADISE di Li causi Maria Rita</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02459920811</codiceFiscale>
+          <ragioneSociale>PARADISE di Li causi Maria Rita</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>490.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>490.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z50179A622</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA ARMADIETTO METALLICO PER DEFIBBRILLATORE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>52.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5116FF5D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 58115</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5C16818F0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N.102</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>79.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5E14263C8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 166</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>713.12</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>713.12</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z601376565</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 11</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02534780818</codiceFiscale>
+          <ragioneSociale>VITAGGIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02534780818</codiceFiscale>
+          <ragioneSociale>VITAGGIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>322.08</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>322.08</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z614C87EO</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO DFATT.N. 61/PA2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>92.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>92.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6213F1AA3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 9315</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>190.91</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>190.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z660CBE92D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>STAMPATI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>320.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-05</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z671769518</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA SERVIZIO DI PULIZIA E ALTRE ATTIVITA' AUSILIARIE 2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00124140211</codiceFiscale>
+          <ragioneSociale>DUSMAN SERVICE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00124140211</codiceFiscale>
+          <ragioneSociale>DUSMAN SERVICE S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2019.43</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6913FIA90</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 02/E</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>PRRGPP74C30E974T</codiceFiscale>
+          <ragioneSociale>FERRAMENTA PARRINELLO GIUSEPPE SALVATORE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>PRRGPP74C30E974T</codiceFiscale>
+          <ragioneSociale>FERRAMENTA PARRINELLO GIUSEPPE SALVATORE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>233.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>233.61</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6F16B2D74</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 393</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1118.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7812E9200</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 7</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>436.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>436.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z78179AA0D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N.530</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>253.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7B165ACD0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 5600000120 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00464110352</codiceFiscale>
+          <ragioneSociale>CIRFOOD</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00464110352</codiceFiscale>
+          <ragioneSociale>CIRFOOD</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>429.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-08</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>429.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8011FE7FB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>NOLEGGIO BUS PER MAZARA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>1036.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-24</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8213F1A70</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 12</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CRTCML48M07F061B</codiceFiscale>
+          <ragioneSociale>CURTI CARMELO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CRTCML48M07F061B</codiceFiscale>
+          <ragioneSociale>CURTI CARMELO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>309.43</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>309.43</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8511A2B9B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 276</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>65.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>65.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z88126ABAF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SOFTWARE DI SEGREREIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01279040818</codiceFiscale>
+          <ragioneSociale>CENTRO INFORMATICA 2000 S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>780.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-13</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z88147BE08</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 45/pa</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>104.10</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>104.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z89106D64C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>1 ACCONTO FATT.N. 2751</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8521.31</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8521.31</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8A14B6109</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 6/E E 8/E</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>662.87</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>662.87</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F0D57BA2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 1321</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03612050827</codiceFiscale>
+          <ragioneSociale>COMEG S.r.l</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03612050827</codiceFiscale>
+          <ragioneSociale>COMEG S.r.l</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>180.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-04-17</dataInizio>
+        <dataUltimazione>2015-10-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>180.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F0D92EC4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 1123</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01683980815</codiceFiscale>
+          <ragioneSociale><![CDATA[TECNONET di Veronica Sergio & C. s.a.s.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01683980815</codiceFiscale>
+          <ragioneSociale><![CDATA[TECNONET di Veronica Sergio & C. s.a.s.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>427.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-09</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>427.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F139F154</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 86/PA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01279040818</codiceFiscale>
+          <ragioneSociale>CENTRO INFORMATICA 2000 S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01279040818</codiceFiscale>
+          <ragioneSociale>CENTRO INFORMATICA 2000 S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>310.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>310.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z96137653E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 13</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>245.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>245.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9C0BE4E66</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>CONVENZIONE DI CASSA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00799960158</codiceFiscale>
+          <ragioneSociale>BANCA INTESA BCI  S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-01-01</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>800.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA2130ADCB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 30</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01853280814</codiceFiscale>
+          <ragioneSociale>casa editrice La Siciliana</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01853280814</codiceFiscale>
+          <ragioneSociale>casa editrice La Siciliana</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>151.23</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-25</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>151.23</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA4132AB32</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. A00020</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01588520815</codiceFiscale>
+          <ragioneSociale>ECOLOGICAL SERVICE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01588520815</codiceFiscale>
+          <ragioneSociale>ECOLOGICAL SERVICE S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>150.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA617AE56A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura carta per fotocopie</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>422.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA812F34F3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 11/PA/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>59.59</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>59.59</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA817AE5F4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO ARREDO SCOLASTICO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3010.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAD16FFCF7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 66</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>600.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAE17AE4A1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura materiale di pulizia</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>205.03</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAFI7891C1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 59815</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB1178EB84</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO CARTUCCE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02182630810</codiceFiscale>
+          <ragioneSociale>R.R. OFFICE SERVICE s.n.c.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02182630810</codiceFiscale>
+          <ragioneSociale>R.R. OFFICE SERVICE s.n.c.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>126.68</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB3128D18D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>CARTUCCE PER PC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24.59</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-16</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBD17AE6B6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 3-15</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01855550818</codiceFiscale>
+          <ragioneSociale>A e D</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01855550818</codiceFiscale>
+          <ragioneSociale>A e D</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF0FDE7B1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO COMPETENZE GIUGNO 2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>Poste Italiane SpA - Palermo  CMP</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>Poste Italiane SpA - Palermo  CMP</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>642.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-05</dataInizio>
+        <dataUltimazione>2015-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>642.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF1458C57</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 331-332-303-304</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03813430828</codiceFiscale>
+          <ragioneSociale>AUSONIA VIAGGI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03813430828</codiceFiscale>
+          <ragioneSociale>AUSONIA VIAGGI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30528.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+        <dataUltimazione>2015-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>30528.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF148C57</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 263/74 TER-264/74 TER-261/74 TER</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03813430828</codiceFiscale>
+          <ragioneSociale>AUSONIA VIAGGI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03813430828</codiceFiscale>
+          <ragioneSociale>AUSONIA VIAGGI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30256.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-07</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>30256.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC01458C9C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 280 AL NETTO NOTA DI CREDITO N. 319</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02461530822</codiceFiscale>
+          <ragioneSociale>CONCA D'ORO VIAGGI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02461530822</codiceFiscale>
+          <ragioneSociale>CONCA D'ORO VIAGGI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15544.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-07-31</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15544.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC3137659B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 99</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>230.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>230.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC50D4A6B8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 88/2014</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02103770810</codiceFiscale>
+          <ragioneSociale>NAVARRA EDITORE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02520830817</codiceFiscale>
+          <ragioneSociale>TATZEBAO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02103770810</codiceFiscale>
+          <ragioneSociale>NAVARRA EDITORE</ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale>02520830817</codiceFiscale>
+          <ragioneSociale>TATZEBAO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>187.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-10</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>187.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC51168BAF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>POTENZIAMENTO IMPIANTO DI ALLARME</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02126260815</codiceFiscale>
+          <ragioneSociale>IMPIANTI ANSELMI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>1150.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-03</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1150.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC6139DAE5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 31/PA/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>105.74</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>105.74</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC714584B1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 43PA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00058250812</codiceFiscale>
+          <ragioneSociale>AUTOSERVI SALEMI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00058250812</codiceFiscale>
+          <ragioneSociale>AUTOSERVI SALEMI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>136.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>136.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC9121D925</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>RICARICA ESTINTORI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02086170814</codiceFiscale>
+          <ragioneSociale>SME ANTINCENDIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>218.27</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>218.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCA140F9AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 3</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01896820816</codiceFiscale>
+          <ragioneSociale>MARE SERVICE COC. COOP</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01896820816</codiceFiscale>
+          <ragioneSociale>MARE SERVICE COC. COOP</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1260.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1260.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCA1739C76</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 527 - TARGA ASSE II</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>75.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-18</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>75.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD01650751</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 17 TER</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02048400812</codiceFiscale>
+          <ragioneSociale>KIA TOUR DI IBA MARINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>848.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-12</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>848.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD41225413</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 4/el</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02520830817</codiceFiscale>
+          <ragioneSociale>TATZEBAO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02520830817</codiceFiscale>
+          <ragioneSociale>TATZEBAO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>519.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-10</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>519.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD412254B5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>PUBBLICAZIONE E REALIZZAZIONE FASCICOLO PUBBLICITARIO PON F3</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02520830817</codiceFiscale>
+          <ragioneSociale>TATZEBAO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+      </aggiudicatari>
+      <importoAggiudicazione>519.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-09</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD4178E834</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 37FE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02058360815</codiceFiscale>
+          <ragioneSociale>LICCIARDI DOMENICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02058360815</codiceFiscale>
+          <ragioneSociale>LICCIARDI DOMENICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>304.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD614264C0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>saldo fatt.n. 164</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-05-23</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD61739CC1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N.72</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD71369A28</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 19/PA/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>155.82</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>155.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDB03D70E1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 1232 E 107/2013</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01628020818</codiceFiscale>
+          <ragioneSociale>EPITEC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01628020818</codiceFiscale>
+          <ragioneSociale>EPITEC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>736.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-14</dataInizio>
+        <dataUltimazione>2015-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>736.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDE13B29D2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 143</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>44.67</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>44.67</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDF16FF5DA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 435</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00367730819</codiceFiscale>
+          <ragioneSociale>LIBRERIA CENTRO DIDATTICO "GALLI"</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1407.19</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE414748A9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. PA 1-15</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02383130420</codiceFiscale>
+          <ragioneSociale>ASSISI 2008 FRANCESCO E CHIARA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02383130420</codiceFiscale>
+          <ragioneSociale>ASSISI 2008 FRANCESCO E CHIARA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>710.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-14</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>710.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE7140F9A8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 23</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MRTFNC71C15E974Y</codiceFiscale>
+          <ragioneSociale>AUTOSERVIZI MARTINO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1745.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1745.46</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE714C87BB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 142</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01853280814</codiceFiscale>
+          <ragioneSociale>casa editrice La Siciliana</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01853280814</codiceFiscale>
+          <ragioneSociale>casa editrice La Siciliana</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>366.39</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>366.39</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE816D5D87</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDOP FATT.N. 302</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01614150819</codiceFiscale>
+          <ragioneSociale>CSC DI PALADINO LEONARDA E C. S.A.S.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01614150819</codiceFiscale>
+          <ragioneSociale>CSC DI PALADINO LEONARDA E C. S.A.S.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE913D21CE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 12615</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02214840817</codiceFiscale>
+          <ragioneSociale>MOTHIA LINES VIAGGI S.A.S</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1636.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1636.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE91474907</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 88/PA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06291800826</codiceFiscale>
+          <ragioneSociale>IDNET</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06291800826</codiceFiscale>
+          <ragioneSociale>IDNET</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>295.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>295.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEC144319E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N.44/PA/2015</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01974690818</codiceFiscale>
+          <ragioneSociale>COMPUTER DISCOUNT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38.13</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-08-04</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>38.13</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEC17C5940</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>PACCHETTO SCUOLA 2016</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06331261005</codiceFiscale>
+          <ragioneSociale>AXIOS ITALIA s.r.l</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06331261005</codiceFiscale>
+          <ragioneSociale>AXIOS ITALIA s.r.l</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2650.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF016B27ED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 291</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01695550812</codiceFiscale>
+          <ragioneSociale><![CDATA[C.A.U. di Di Caro G. & C. SNC]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01695550812</codiceFiscale>
+          <ragioneSociale><![CDATA[C.A.U. di Di Caro G. & C. SNC]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>65.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF61650FC1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82006120818</codiceFiscaleProp>
+        <denominazione>SCUOLA MEDIA STATALE S.M. "G. MAZZINI"  MARSALA</denominazione>
+      </strutturaProponente>
+      <oggetto>SALDO FATT.N. 206</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01853280814</codiceFiscale>
+          <ragioneSociale>casa editrice La Siciliana</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01853280814</codiceFiscale>
+          <ragioneSociale>casa editrice La Siciliana</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>552.79</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+</data>
+</legge190:pubblicazione>

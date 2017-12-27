@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione art. 1 comma 32 legge 190</titolo>
+    <abstract>Pubblicazione ex art. 3 e 6 Deliberazione AVCP n. 26 del 22 maggio 2013</abstract>
+    <dataPubblicazioneIndice>2014-01-01</dataPubblicazioneIndice>
+    <entePubblicatore>ASP Lodovico Martelli</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-23</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2013</annoRiferimento>
+    <urlFile>http://www.aspmartelli.it/public/indice1.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.aspmartelli.it/public/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-05</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

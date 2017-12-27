@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Cermes</abstract>
+   <dataPubblicazioneIndice>2016-03-03</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Cermes</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-03-03</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21020/21020indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_AB371ABC-F3A6-4518-8B4F-DFE2BB10B2A3'>
+      <linkDataset>http://data.gvcc.net/avcp/21020/AB371ABC-F3A6-4518-8B4F-DFE2BB10B2A3.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-10</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_F0CFAD3D-0A3F-4088-AA6B-DC6BA5D2C1C7'>
+      <linkDataset>http://data.gvcc.net/avcp/21020/F0CFAD3D-0A3F-4088-AA6B-DC6BA5D2C1C7.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_5F62CDB3-FCE6-4314-90DE-FA21A62B0139'>
+      <linkDataset>http://data.gvcc.net/avcp/21020/5F62CDB3-FCE6-4314-90DE-FA21A62B0139.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

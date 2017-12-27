@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif.2012</abstract>
+        <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+        <entePubblicatore>Comune di Massalengo</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://www.comune.massalengo.lo.it/benefici/appalti/pubblicazione_legge190_2015.xml</urlFile>
+        <licenza>Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.comune.massalengo.lo.it/benefici/appalti/pubblicazione_legge190_2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

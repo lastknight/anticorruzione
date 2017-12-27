@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 http://avcp.rup.cr.it/bundles/rupavcp/xsd/datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione n.1/2015 legge 190</titolo>
+    <abstract>Pubblicazione legge 190, dataset 1 relativo all'anno 2015</abstract>
+    <dataPubbicazioneDataset>2015-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>Comune di Olmeneta</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-28</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.unionedeicomuni.cr.it/sites/default/files/UnioneDeiComuni/dataset-2015-OLMENETA.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+      <lotto>
+      <cig>6019037A74</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00269750196</codiceFiscaleProp>
+        <denominazione>Comune di Olmeneta</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI TESORERIA COMUNALE 2015-2019</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+                  </partecipanti>
+      <aggiudicatari>
+                  </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2019-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+      <lotto>
+      <cig>ZDF166A073</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00269750196</codiceFiscaleProp>
+        <denominazione>Comune di Olmeneta</denominazione>
+      </strutturaProponente>
+      <oggetto>TRASCRIZIONE ATTO DI COSTITUZIONE DI SERVITU&#039; DI PASSAGGIO - SIG. CERATI RICCARDO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+                    <partecipante>
+                      <codiceFiscale>00851930198</codiceFiscale>
+                    <ragioneSociale>CR DATA</ragioneSociale>
+        </partecipante>
+            </partecipanti>
+      <aggiudicatari>
+                    <aggiudicatario>
+                      <codiceFiscale>00851930198</codiceFiscale>
+                    <ragioneSociale>CR DATA</ragioneSociale>
+        </aggiudicatario>
+            </aggiudicatari>
+      <importoAggiudicazione>130.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-09-21</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>130.00</importoSommeLiquidate>
+    </lotto>
+      <lotto>
+      <cig>Z26120C4D7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00269750196</codiceFiscaleProp>
+        <denominazione>Comune di Olmeneta</denominazione>
+      </strutturaProponente>
+      <oggetto>AGGIORNAMENTO INVENTARIO PATRIMONIO COMUNALE AL 31/12/2014 - STUDIO CDA MANTOVA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+                    <partecipante>
+                      <codiceFiscale>02050580204</codiceFiscale>
+                    <ragioneSociale>CDA SRL</ragioneSociale>
+        </partecipante>
+            </partecipanti>
+      <aggiudicatari>
+                    <aggiudicatario>
+                      <codiceFiscale>02050580204</codiceFiscale>
+                    <ragioneSociale>CDA SRL</ragioneSociale>
+        </aggiudicatario>
+            </aggiudicatari>
+      <importoAggiudicazione>1350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-02</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1350.00</importoSommeLiquidate>
+    </lotto>
+    </data>
+</legge190:pubblicazione>

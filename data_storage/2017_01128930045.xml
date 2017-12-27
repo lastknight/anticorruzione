@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione Legge 190</titolo>
+        <abstract>Pubblicazione Legge 190</abstract>
+        <dataPubblicazioneIndice>2017-02-20+01:00</dataPubblicazioneIndice>
+        <entePubblicatore>AZIENDA SANITARIA LOCALE CN1</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-20+01:00</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.aslcn1.it/fileadmin/amministrazione_aperta/AVCP/indice_2016.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="dataset_2016_01.xml">
+            <linkDataset>http://www.aslcn1.it/fileadmin/amministrazione_aperta/AVCP/dataset_2016_01.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_2016_02.xml">
+            <linkDataset>http://www.aslcn1.it/fileadmin/amministrazione_aperta/AVCP/dataset_2016_02.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_2016_03.xml">
+            <linkDataset>http://www.aslcn1.it/fileadmin/amministrazione_aperta/AVCP/dataset_2016_03.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20+01:00</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="dataset_2016_04.xml">
+            <linkDataset>http://www.aslcn1.it/fileadmin/amministrazione_aperta/AVCP/dataset_2016_04.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-20+01:00</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

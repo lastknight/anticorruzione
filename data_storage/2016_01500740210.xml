@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Ente Gestione Teatro e Kurhaus di Merano - Pubblicazione legge 190</titolo>
+    <abstract>Indice Ente Gestione Teatro e Kurhaus di Merano - Pubblicazione legge 190; anni rif. 2014-2015</abstract>
+    <dataPubblicazioneIndice>2015-02-13</dataPubblicazioneIndice>
+    <entePubblicatore>Ente Gestione Teatro e Kurhaus di Merano</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.kurhaus.it/media/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.kurhaus.it/it/chi-siamo/ente-gestione-teatro-e-kurhaus/68-0.html</linkDataset>
+      <dataUltimoAggiornamento>2014-02-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.kurhaus.it/media/esiti_2015_20160129-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

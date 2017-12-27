@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Pubblicazione legge 190</titolo>
+        <abstract>Pubblicazione legge 190</abstract>
+        <dataPubblicazioneIndice>2017-01-18</dataPubblicazioneIndice>
+        <entePubblicatore>ALTO TREVIGIANO SERVIZI S.R.L.</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-01-18</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2017</annoRiferimento>
+        <urlFile>http://www.altotrevigianoservizi.it/lavoripubblici/avcp/dataset.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.altotrevigianoservizi.it/lavoripubblici/avcp/dataset_1.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-18</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.altotrevigianoservizi.it/lavoripubblici/avcp/dataset_2.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-18</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

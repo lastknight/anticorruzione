@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice pubblicazione 2016</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+    <entePubblicatore>COMUNE DI PATRICA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.datitrasparenti.it/public/00283070605/indiceAvcp2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.datitrasparenti.it/public/00283070605/DatiAvcp_20162012.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.datitrasparenti.it/public/00283070605/DatiAvcp_20162013.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.datitrasparenti.it/public/00283070605/DatiAvcp_20162014.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.datitrasparenti.it/public/00283070605/DatiAvcp_20162015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.datitrasparenti.it/public/00283070605/DatiAvcp_20162016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

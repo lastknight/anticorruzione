@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all'anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-22</dataPubblicazioneIndice>
+    <entePubblicatore>Deutschsprachiger Schulsprengel Ulten - Istituto comprensivo in lingua tedesca Ultimo</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-22</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>www.ssp-ulten.it/images/transparenz/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset> www.ssp-ulten.it/images/transparenz/dataset1.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-03-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset> www.ssp-ulten.it/images/transparenz/dataset2.xml </linkDataset>
+      <dataUltimoAggiornamento>2014-03-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset> www.ssp-ulten.it/images/transparenz/dataset3.xml </linkDataset>
+      <dataUltimoAggiornamento>2015-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset> www.ssp-ulten.it/images/transparenz/dataset4.xml </linkDataset>
+      <dataUltimoAggiornamento>2016-01-22</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

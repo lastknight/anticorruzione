@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente GEMEINDE WELSCHNOFEN</abstract>
+   <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+   <entePubblicatore>GEMEINDE WELSCHNOFEN</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21058/21058indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_CA73FE0D-5BD8-4A3B-8597-F57CFF31D605'>
+      <linkDataset>http://data.gvcc.net/avcp/21058/CA73FE0D-5BD8-4A3B-8597-F57CFF31D605.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_12E8138B-43D0-4FEF-AFEE-9AC243DE3AC8'>
+      <linkDataset>http://data.gvcc.net/avcp/21058/12E8138B-43D0-4FEF-AFEE-9AC243DE3AC8.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_8D21FE21-0E77-46E5-8BE8-CC4A42D8732E'>
+      <linkDataset>http://data.gvcc.net/avcp/21058/8D21FE21-0E77-46E5-8BE8-CC4A42D8732E.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

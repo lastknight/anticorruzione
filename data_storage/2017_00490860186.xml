@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://anticorruzione.demosdata.it/templates/xml/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Comune di Gambarana Indice pubblicazioni L190 2012</titolo>
+<abstract>Comune di Gambarana Indice pubblicazioni L190 2012</abstract>
+<dataPubblicazioneIndice>2017-02-01</dataPubblicazioneIndice>
+<entePubblicatore>Comune di Gambarana</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-02-09</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2017</annoRiferimento>
+<urlFile>http://anticorruzione.demosdata.it/xml/018067/main.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018067/1.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-09</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018067/2.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://anticorruzione.demosdata.it/xml/018067/3.xml</linkDataset>
+<dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

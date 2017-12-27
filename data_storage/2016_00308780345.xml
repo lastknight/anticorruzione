@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione dei dati legge 190</titolo>
+    <abstract>Pubblicazione dei dati legge 190 - anno 2015</abstract>
+    <dataPubblicazioneIndice>2017-01-25</dataPubblicazioneIndice>
+    <entePubblicatore>Universita degli Studi di Parma</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-25</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.unipr.it/sites/default/files/legge190/2015/indicedataset_2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.unipr.it/sites/default/files/legge190/2015/dataset1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.unipr.it/sites/default/files/legge190/2015/dataset_2015_00002.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-25</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,1490 @@
+<!DOCTYPE html><html id="zf__html" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><head><!--[if lt IE 6]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 lt-ie8 lt-ie7 lt-ie6 ie";</script><![endif]--><!--[if IE 6]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 lt-ie8 lt-ie7 ie6 ie";</script><![endif]--><!--[if IE 7]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 lt-ie8 ie7 ie";</script><![endif]--><!--[if IE 8]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 ie8 ie";</script><![endif]--><!--[if IE 9]><script>document.documentElement.className+=" lt-ie11 lt-ie10 ie9 ie";</script><![endif]--><script type="text/javascript">if("behavior" in document.documentElement.style && "-ms-user-select" in document.documentElement.style){document.documentElement.className+=" lt-ie11 ie10 ie"}if("-ms-scroll-limit" in document.documentElement.style && "-ms-ime-align" in document.documentElement.style && navigator.userAgent.indexOf("Edge") === -1){document.documentElement.className+=" ie11 ie"}</script><script type="text/javascript">document.documentElement.className=document.documentElement.className.replace("no-js","js");window.zhongFramework={self:{},params:{},helpers:{},cache:{},components:{},handlers:{},actions:{},mixins:{}};</script><!--[if lt IE 9]><script type="text/javascript">(function(){var a=["abbr","article","aside","audio","bdi","canvas","data","datalist","details","dialog","figcaption","figure","footer","header","hgroup","main","mark","meter","nav","output","picture","progress","section","summary","template","time","video"];for(var i=a.length-1;i>=0;i=i-1)document.createElement(a[i])}())</script><![endif]--><link rel="icon" type="image/ico" href="images/favicon.png" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" type="text/css" media="screen" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/layouts/default-layout.css?zf-v=3.5.0" /><link rel="stylesheet" type="text/css" media="screen" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/platforms/Joomla/joomla3-css3-valid.css?zf-v=3.5.0" /><style type="text/css" media="print">*{background-color:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a img{border:0 !important}body{font-size:1em}p,ul li,ol li,table,label,dt,dd{font-size:1em}table{margin:20pt 5%;padding:0;border-collapse:collapse;width:90%}table td,table th{padding:2pt 5pt;border:solid 1pt #DDD}table th{text-align:center}thead{display:table-header-group}a,a:visited{text-decoration:underline}img{max-width:100%;height:auto;page-break-inside:avoid}.visually-hidden,.removed,.zf--toolbox-panel,#zf--screenreader-hidden-message,#zf--internal-anchors-nav,#zf--accessibility-options-toolbox-button-shell,#zf--header-top,.zf--menu-container,#zf--main-menu,#zf--side-menu,#zf--footer-menu,#zf--login,#zf--left-column,#zf--right-column,#zf--top-anchor-container,#zf--jump-to-content-anchor,#zf--top-anchor-container,#zf--internal-anchors-nav,.zf--section-heading,.zf--section-anchors,#zf--default-toolbox,#zf--social-buttons-panel-activation-button,#zf--social-buttons-panel,#zf--quick-access-menu,#zf--high-contrast-toolbar,#zf--jump-to-content-anchor-container,#zf--language-switcher,#zf--search{display:none !important;visibility:hidden}#zf--top-layout-partial,#zf--main-layout-partial,#zf--footer--skin,#zf--footer-credits{border:0 !important}.accessible-slideshow .slide,.accessible-slideshow .slide-text{display:block !important;opacity:1 !important;position:relative !important}.accessible-slideshow .accessible-slideshow_dots-container,.accessible-slideshow .accessible-slideshow_arrows-container{display:none !important;visibility:hidden}.zf--grouped-host--skin,.zf--grouped-host--skin *{min-height:0 !important}#zf--main-layout-partial--skin{margin:3pt}#zf--breadcrumbs{margin:5pt 0;padding:0 3pt 3pt 3pt;border-bottom:dotted 1px #555 !important;font-style:italic}#zf--breadcrumbs ul,#zf--breadcrumbs li{list-style:none}#zf--breadcrumbs li{margin:0 2pt;display:inline-block}#zf--header{margin:3pt 0 10pt;border-bottom:dotted 1px #555;overflow:hidden}#zf--site-titles{width:100%;text-align:center}#zf--site-logo{width:100%;text-align:center}#zf--site-logo img{max-height:160pt;width:auto}#zf--site-title{font-size:2.4em;margin:0 0 0 10pt}#zf--site-subtitle{font-size:1.6em;margin:0 0 10pt 10pt}#zf--footer-credits{display:block !important;visibility:visible !important;margin:30pt 0 10pt 0;padding:0 3pt 3pt 3pt;border-top:dotted 1px #555 !important}
+body{font-family:Garamond,"Apple Garamond",Georgia,serif !important;}body{font-size:80% !important;}</style><style type="text/css" media="speech">*{voice-family:male}.zf--section-heading,#zf--internal-anchors-nav *,.zf--section-anchors *{voice-family:female}
+</style><!--[if IE 6]><link rel="stylesheet" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/other/ie6only.css?zf-v=3.5.0" type="text/css" /><![endif]--><!--[if IE 7]><link rel="stylesheet" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/other/ie7only.css?zf-v=3.5.0" type="text/css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/other/ie8only.css?zf-v=3.5.0" type="text/css" /><![endif]--><style type="text/css">html{font-size:100%;}body.liquid-layout-width .zf--encloser{max-width:980px;}body.auto-resized-layout-width .zf--encloser,body.custom-layout-width .zf--encloser{width:inherit;}#zf__html #zf--body{background:#f07b0e;}h1, h2, h3, h4, h5, h6{text-shadow:none;color:#0a42ab;}a{color:#0418b3;}a:visited{color:#09146e;}a:hover, a:focus, a:active{color:#f20940;}button,.button, .button:visited,[class*="-button-style"], [class*="-button-style"]:visited,input[type=button],input[type=reset],input[type=submit]{text-shadow:none;background:#f5f0f0;color:#000000;border-color:#000000;border-style:solid;border-width:0;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;}button:hover,.button:hover,[class*="-button-style"]:hover,input[type=button]:hover,input[type=reset]:hover,input[type=submit]:hover,button:focus,.button:focus,[class*="-button-style"]:focus,input[type=button]:focus,input[type=reset]:focus,input[type=submit]:focus,button:active,.button:active,[class*="-button-style"]:active,input[type=button]:active,input[type=reset]:active,input[type=submit]:active{text-shadow:none;background:#000000;color:#c41241;border-color:#000000;}table, td, tr, th{text-shadow:none;background:#ffffff;color:#000000;border-color:#000000;border-style:dotted;border-width:1px;}tfoot, caption{text-shadow:none;background:#ffffff;color:#000000;}th, thead, thead td, thead tr, thead tr:hover, thead tr:hover td{text-shadow:none;background:#9eb1f7;color:#050505;}#zf__html #zf--body #zf--follow-us a{font-size:100%;}#zf__html #zf--body #zf--social-buttons-panel-activation-button{margin-right:0px;margin-top:0px;font-size:100%;}/*Titolo*/
+
+body.default-layout #zf--site-titles--skin {
+top: .4em !important;
+}
+body.default-layout #zf--site-titles {
+position: relative !important;
+top: 0 !important;
+}
+body.default-layout #zf--site-title, body.default-layout #zf--site-subtitle {
+white-space: normal !important;
+}
+
+
+/*Bordo Articoli Home */
+body.default-graphic-mode .blog [class*="leading-"],
+body.default-graphic-mode .blog [class*="column"],
+body.default-graphic-mode .blog-featured [class*="leading-"],
+body.default-graphic-mode .blog-featured [class*="column"] {
+
+border: 3px solid #DEDBDB;
+border-radius: 4px;
+margin-top: 2px;
+margin-bottom: 2px;
+padding: 4px;
+background: #FFF;
+
+
+margin-top: 10px;
+margin-bottom: 10px;
+background-image: 
+/*url('http://lnx.scuolain.it/jml254/images/sfondi/lim5.png');*/
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: center center;
+padding: 1em 3em 6em 3em;
+}
+
+.cols-2 .column-1,
+.cols-2 .column-2 {
+width: 49%;
+}
+
+body.default-graphic-mode .btn,
+body.default-graphic-mode .btn:hover,
+body.default-graphic-mode .btn:focus,
+body.default-graphic-mode .btn:active,
+body.default-graphic-mode a.btn,
+body.default-graphic-mode a.btn:hover,
+body.default-graphic-mode a.btn:focus,
+body.default-graphic-mode a.btn:active {
+  color: #DDD;
+}
+
+tgreen {width: 100%; margin-left:0;}
+.tgreend {background: #e3ebe2; border: 1px solid #abc3a8; }
+.tgreenu {background: #c7d7c5; border: 1px solid #abc3a8; }
+
+#-zf--header--skin {background:none;}
+#zf--header--skin {z-index:1;}
+#zf--site-logo--skin {background:none;}
+#zf--main-layout-partial--skin {background:none !important;}
+#zf--site-banner--skin {background:none;}
+#zf--guest-view--site-banner {position:relative; margin-top:-170px; z-index:-1;}
+.nav-child {z-index:1000 !important;}
+
+.dp-container h2 {font-size:120%;}
+.fc-border-separate, .fc-header {margin-left:0;}
+.moduletable_datitrasp img,  .moduletable_datitrasp a { margin:0; padding-right:0 !important; padding-left:0 !important; width:100%}</style><link rel="stylesheet" type="text/css" media="screen" href="http://www.cpiacs.it/templates/zhong/zf/custom/overrides/assets/css/overrides.css?zf-v=3.5.0" />	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Formazione Adulti, Centro Provinciale, Cosenza, RIA" />
+	<meta name="description" content="Il nuovo Sito del CPIA Cosenza" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_accessible_slideshow/css/style.css?as-v=1.5.1" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+
+body.default-layout #accessible-slideshow_496534973{width:100%;}
+body.default-layout #accessible-slideshow_496534973,
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container,
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide{height:auto;}
+#accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide{
+    -webkit-transition:opacity 0.8s ease-out;
+    transition:opacity 0.8s ease-out;
+}
+#accessible-slideshow_496534973 .accessible-slideshow_dot .accessible-slideshow_dot-decoration-inner,
+#accessible-slideshow_496534973 .accessible-slideshow_dot.activeDot .accessible-slideshow_dot-decoration-outer,
+#accessible-slideshow_496534973 .accessible-slideshow_dot.focusedAnchor .accessible-slideshow_dot-decoration-outer{background-color:#ffffff;}
+#accessible-slideshow_496534973 .accessible-slideshow_pause-button:before{background:#ffffff;}
+#accessible-slideshow_496534973 .accessible-slideshow_pause-button[aria-pressed="true"]:after{border-color:#ffffff;}
+#accessible-slideshow_496534973 .accessible-slideshow_dot .accessible-slideshow_dot-decoration-outer,
+#accessible-slideshow_496534973 .accessible-slideshow_dot.activeDot .accessible-slideshow_dot-decoration-inner,
+#accessible-slideshow_496534973 .accessible-slideshow_dot.focusedAnchor .accessible-slideshow_dot-decoration-inner{background-color:#000000;}
+#accessible-slideshow_496534973 .accessible-slideshow_pause-button:after{border-color:#000000;}
+#accessible-slideshow_496534973 .accessible-slideshow_pause-button[aria-pressed="true"]:before{background:#000000;}
+#accessible-slideshow_496534973 .accessible-slideshow_arrow-left .accessible-slideshow_arrow-decoration-outer{border-right-color:#000000;}
+#accessible-slideshow_496534973 .accessible-slideshow_arrow-right .accessible-slideshow_arrow-decoration-outer{border-left-color:#000000;}
+#accessible-slideshow_496534973 .accessible-slideshow_arrow-left .accessible-slideshow_arrow-decoration-inner{border-right-color:#ffffff;}
+#accessible-slideshow_496534973 .accessible-slideshow_arrow-right .accessible-slideshow_arrow-decoration-inner{border-left-color:#ffffff;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text{background-color:#000000;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-heading,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-heading,
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-heading a,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-heading a{color:#ffffff;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text .slide-heading,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text .slide-heading{font-size:1.2em;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text p,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text p{color:#dddddd;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text p,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text p{font-size:1em;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container img,
+body.mobile-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container img{min-width:100%;}
+body.default-layout #accessible-slideshow_496534973 .accessible-slideshow_slides-container .slide-text{height:auto}
+
+    div.mod_search93 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+<script type="text/javascript">/*<![CDATA[*/window.jQuery || document.write('<script src="http://www.cpiacs.it/templates/zhong/zf/assets/lib/jquery/jquery.min.js?zf-v=3.5.0"><\/script>');/*]]>*/</script><link id="zf--best-legibility-stylesheet" rel="alternate" type="text/css" media="screen" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/graphic-modes/best-legibility.css?zf-v=3.5.0" /><link id="zf--dark-theme-stylesheet" rel="alternate" type="text/css" media="screen" href="http://www.cpiacs.it/templates/zhong/zf/assets/css/min/graphic-modes/dark-theme.css?zf-v=3.5.0" /></head><body id="zf--body" class="default-layout default-graphic-mode full-layout-width client-device-is--desktop main-menu-style--vertical-floating main-menu-alignment--right side-menu-style--floating floating-submenus-effect--fade site-banner-alignment--left non-fixed-top-bar right-column-exists left-column-exists default-toolbox-buttons-style--icon show-site-logo--true main-content-container-width--3 left-column-width--3 right-column-width--3 main-content-container-column-float--left left-column-float--left right-column-float--left layout-width-type--main-layout-partial--contained parent-platform--Joomla parent-platform-release-class--Joomla3 zf-theme-skin--zng "><div id="zf--page-top" class="clear-both"></div><!--[if lte IE 7]><div id="zf__obsolete-browser-alert" class="zf__obsolete-browser-alert"><div class="zf__obsolete-browser-alert__inner"><p>Attenzione: state utilizzando un <strong>browser obsoleto</strong>! Vi consigliamo di aggiornare il vostro software o scaricare un browser alternativo: <a href="https://www.mozilla.org/firefox/">scarica qui l&#39;ultima versione di Firefox</a>.<br/>Se state utilizzando un sistema operativo Windows in una macchina poco potente, vi consigliamo di installare il browser <a href="http://www.midori-browser.org">Midori</a>.</p></div><a href="#" role="button" id="zf__hide-obsolete-browser-alert-button">Nascondi questo messaggio</a></div><script type="text/javascript">jQuery(document.getElementById("zf__hide-obsolete-browser-alert-button")).click(function(){jQuery(document.getElementById("zf__obsolete-browser-alert")).hide();});</script><![endif]--><div id="zf--quick-access-menu"><nav role="navigation" aria-labelledby="zf--quick-access-menu--section-heading" id="zf--quick-access-menu--semantic-tag"><h2 id="zf--quick-access-menu--section-heading" class="zf--section-heading">Menu di accesso rapido</h2><div id="zf--quick-access-menu--skin" class="clearfix"><ul><li><a href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--main-content" accesskey="1" id="zf--internal-anchor-main-content">Contenuto principale - <span class="zf--quick-access-menu-accesskey-text">accesskey 1</span></a></li><li><a href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--main-menu" accesskey="2" id="zf--internal-anchor-topmenu">Menu principale - <span class="zf--quick-access-menu-accesskey-text">accesskey 2</span></a></li><li><a href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--side-menu" id="zf--internal-anchor-mainmenu">Menu laterale</a></li><li><a href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--footer" id="zf--internal-anchor-footer">Pi&egrave; di pagina</a></li></ul></div></nav><hr class="removed" /></div><div id="zf--top-layout-partial"><div id="zf--top-layout-partial--skin" class="clearfix"><div id="zf--top-layout-partial--encloser" class="zf--encloser"><div id="zf--breadcrumbs"><nav role="navigation" aria-labelledby="zf--breadcrumbs--section-heading" id="zf--breadcrumbs--semantic-tag"><h2 id="zf--breadcrumbs--section-heading" class="zf--section-heading visually-hidden">Percorso attuale</h2><div id="zf--breadcrumbs--skin" class="clearfix"><div id="zf--guest-view--breadcrumbs" class="zf--guest-view">
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li>
+			Sei qui: &#160;
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Home				</span>
+				<meta itemprop="position" content="1">
+			</li>
+		</ul>
+</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--default-toolbox"><section aria-labelledby="zf--default-toolbox--section-heading" id="zf--default-toolbox--semantic-tag"><h2 id="zf--default-toolbox--section-heading" class="zf--section-heading visually-hidden">Casella degli strumenti</h2><div id="zf--default-toolbox--skin" class="clearfix"><ul class="zf--toolbox-buttons list-style-reset"><li id="zf--accessibility-options-toolbox-button-shell" class="zf--toolbox-button-shell"><a id="zf--accessibility-options-toolbox-button" role="button" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--accessibility-options-toolbox-panel" class="zf--toolbox-button show-tooltip" title="Pannello accessibilit&agrave;" data-zf-related-toolbox-panel="zf--accessibility-options-toolbox-panel" aria-controls="zf--accessibility-options-toolbox-panel" aria-haspopup="true" aria-expanded="false"><span class="zf--toolbox-button--text visually-hidden">Pannello accessibilit&agrave;</span><span class="zf--toolbox-button--icon zf--zhong-icon zf--zhong-icon-double-a" aria-hidden="true"></span></a><div id="zf--accessibility-options-toolbox-panel" class="zf--toolbox-panel" aria-atomic="true" aria-live="polite"><div id="zf--accessibility-options-toolbox-panel--skin" class="zf--toolbox-panel--skin clearfix"><div id="zf--default-accessibility-options"><section aria-labelledby="zf--default-accessibility-options--section-heading" id="zf--default-accessibility-options--semantic-tag"><h3 id="zf--default-accessibility-options--section-heading" class="zf--section-heading">Opzioni accessibilit&agrave;</h3><div id="zf--default-accessibility-options--skin" class="clearfix"><button id="zf--default-accessibility-options-reset-button" class="blue-button-style removed-no-js">Reimposta</button><div id="zf--font-resizer-container" class="zf--accessibility-panel-module"><p class="zf--accessibility-panel-module-description">Dimensioni testo:</p><ul id="zf--font-resizer" class="removed-no-js"><li><button class="show-tooltip" title="Aumenta dimensioni carattere" id="zf--larger-font-button"><span class="zf--zhong-icon zf--zhong-icon-arrow-up" aria-hidden="true"></span><span class="visually-hidden">Aumenta</span><span class="visually-hidden">. Aumenta dimensioni carattere.</span></button></li><li><button class="show-tooltip" title="Diminuisci dimensioni carattere" id="zf--smaller-font-button"><span class="zf--zhong-icon zf--zhong-icon-arrow-down" aria-hidden="true"></span><span class="visually-hidden">Diminuisci</span><span class="visually-hidden">. Diminuisci dimensioni carattere.</span></button></li></ul><ul id="zf--font-resizer--no-js" class="list-style-reset removed-js"><li><a href="http://www.cpiacs.it/images/documenti2017/datil190-2016?fontSize=increase" rel="nofollow" title="Aumenta dimensioni carattere" id="zf--larger-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-arrow-up" aria-hidden="true"></span><span class="visually-hidden">Aumenta</span><span class="visually-hidden">. Aumenta dimensioni carattere</span></a></li><li><a href="http://www.cpiacs.it/images/documenti2017/datil190-2016?fontSize=decrease" rel="nofollow" title="Diminuisci dimensioni carattere" id="zf--smaller-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-arrow-down" aria-hidden="true"></span><span class="visually-hidden">Diminuisci</span><span class="visually-hidden">. Diminuisci dimensioni carattere</span></a></li></ul></div><div id="zf--theme-switcher-container" class="zf--accessibility-panel-module removed-no-js"><p class="zf--accessibility-panel-module-description">Tema:</p><ul id="zf--theme-switcher"><li><button id="zf--low-brightness-theme-button" class="zf--theme-switcher-button show-tooltip" title="Bassa luminosit&agrave;"><span id="zf--low-brightness-theme-button-icon" class="zf--theme-switcher-button-icon" aria-hidden="true"></span><span class="visually-hidden">Bassa luminosit&agrave;</span></button></li><li><button id="zf--dark-theme-button" class="zf--theme-switcher-button show-tooltip" title="Scuro"><span id="zf--dark-theme-button-icon" class="zf--theme-switcher-button-icon" aria-hidden="true"></span><span class="visually-hidden">Scuro</span></button></li></ul></div><div id="zf--legibility-switcher-container" class="zf--accessibility-panel-module removed-no-js"><p class="zf--accessibility-panel-module-description">Tipo di carattere:</p><ul id="zf--legibility-switcher"><li id="zf--legibility-sans-serif-button-shell" class=""><button id="zf--legibility-sans-serif-button" class="zf--legibility-switcher-button show-tooltip" title="Sans serif"><span id="zf--legibility-sans-serif-button-icon" class="zf--legibility-switcher-button-icon" aria-hidden="true"></span>&nbsp;<span class="visually-hidden">Sans serif</span></button></li><li id="zf--legibility-serif-button-shell" class=""><button id="zf--legibility-serif-button" class="zf--legibility-switcher-button show-tooltip" title="Serif"><span id="zf--legibility-serif-button-icon" class="zf--legibility-switcher-button-icon" aria-hidden="true"></span>&nbsp;<span class="visually-hidden">Serif</span></button></li><li id="zf--legibility-bold-button-shell"><button id="zf--legibility-bold-button" class="zf--legibility-switcher-button show-tooltip" title="Grassetto"><span id="zf--legibility-bold-button-icon" class="zf--legibility-switcher-button-icon " aria-hidden="true"></span><span class="">&nbsp;</span><span class="visually-hidden">Grassetto</span></button></li></ul></div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></li></ul></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><script id="zf--welcome-message-popover--template" type="text/template"><div id="zf--welcome-message-popover" aria-live="off" aria-hidden="true"><div id="zf--welcome-message-popover--skin"><p><span id="zf--welcome-message-welcome-text">Benvenuti a CPIA Cosenza</span><br/><span id="zf--welcome-message-click-here-text">Clicca qui per impostare le tue preferenze</span></p></div><div id="zf--welcome-message-popover-arrow"></div><span id="zf--welcome-message-popover--close-btn"><span class="visually-hidden"></span><span id="zf--welcome-message-popover--close-btn-icon" aria-hidden="true" class="zf--zhong-icon zf--zhong-icon-cancel-circle"></span></span></div></script></div></div></div><div id="zf--main-layout-partial"><div id="zf--main-layout-partial--encloser" class="zf--encloser"><div id="zf--main-layout-partial--skin" class="clearfix"><div id="zf--header"><div id="zf--header--skin" class="clearfix"><div id="zf--header-top"><div id="zf--header-top--skin" class="clearfix"><div id="zf--support-menu" class="zf--menu-container"><nav role="navigation" aria-labelledby="zf--support-menu--section-heading" id="zf--support-menu--semantic-tag"><h2 id="zf--support-menu--section-heading" class="zf--section-heading visually-hidden">Menu di supporto</h2><div id="zf--support-menu--skin" class="clearfix"><div id="zf--guest-view--support-menu" class="zf--guest-view"><ul class="nav menu">
+<li class="item-353"><a href="/index.php?option=com_xmap&amp;view=html&amp;id=1&amp;Itemid=353" >Mappa del sito</a></li></ul>
+</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--follow-us"><section aria-labelledby="zf--follow-us--section-heading" id="zf--follow-us--semantic-tag"><h2 id="zf--follow-us--section-heading" class="zf--section-heading visually-hidden">Seguici</h2><div id="zf--follow-us--skin" class="clearfix"><div id="zf--guest-view--follow-us" class="zf--guest-view"><a href="/index.php?format=feed&amp;type=rss" class="syndicate-module">
+	<img src="/media/system/images/livemarks.png" alt="feed-image" />	</a>
+</div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--search"><section role="search" aria-labelledby="zf--search--section-heading" id="zf--search--semantic-tag"><h2 id="zf--search--section-heading" class="zf--section-heading visually-hidden">Ricerca</h2><div id="zf--search--skin" class="clearfix"><div id="zf--guest-view--search" class="zf--guest-view"><div class="search mod_search93">
+	<form action="/index.php?option=com_content&amp;view=featured&amp;Itemid=226" method="post" class="form-inline">
+		 <button class="button btn btn-primary" onclick="this.form.searchword.focus();">cerca</button><label for="mod-search-searchword" class="element-invisible">digita il testo da cercare</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Cerca..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="226" />
+	</form>
+</div>
+</div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div><div id="zf--header-middle"><div id="zf--header-middle--skin" class="clearfix"><div id="zf--site-banner"><header role="banner"><div id="zf--site-banner--skin" class="clearfix"><div id="zf--site-logo"><div id="zf--site-logo--skin"><h1 id="zf--site-logo-heading"><a id="zf--site-logo-link" href="http://www.cpiacs.it/index.php" title="Pagina iniziale" class="show-tooltip"><img id="zf--site-logo-image" src="images/logocpiaSolesin.png" alt="Il logo del CPIA Cosenza - Valeria Solesin" /></a></h1></div></div><div id="zf--guest-view--site-banner" class="zf--guest-view"><section id="accessible-slideshow_496534973" class="accessible-slideshow text-over-images_false" aria-labelledby="accessible-slideshow_496534973_hidden-heading"><h3 class="visually-hidden" id="accessible-slideshow_496534973_hidden-heading">Presentazione</h3><div class="accessible-slideshow_dots-container"><button aria-pressed="false" class="accessible-slideshow_pause-button" title="Pausa"><span class="visually-hidden">Pausa - Pulsante presentazione</span></button><ol class="accessible-slideshow_dots-container-inner"><li class="accessible-slideshow_dot-wrapper"><button class="accessible-slideshow_dot accessible-slideshow_dot-0 activeDot" aria-pressed="true"><span class="accessible-slideshow_dot-decoration-outer" dir="ltr"><span class="accessible-slideshow_dot-decoration-inner">Corsi Rossano</span></span><span class="visually-hidden"> - Pulsante presentazione</span></button></li><li class="accessible-slideshow_dot-wrapper"><button class="accessible-slideshow_dot accessible-slideshow_dot-1" aria-pressed="false"><span class="accessible-slideshow_dot-decoration-outer" dir="ltr"><span class="accessible-slideshow_dot-decoration-inner">Corsi Rossano</span></span><span class="visually-hidden"> - Pulsante presentazione</span></button></li><li class="accessible-slideshow_dot-wrapper"><button class="accessible-slideshow_dot accessible-slideshow_dot-2" aria-pressed="false"><span class="accessible-slideshow_dot-decoration-outer" dir="ltr"><span class="accessible-slideshow_dot-decoration-inner">Corsi Rossano</span></span><span class="visually-hidden"> - Pulsante presentazione</span></button></li><li class="accessible-slideshow_dot-wrapper"><button class="accessible-slideshow_dot accessible-slideshow_dot-3" aria-pressed="false"><span class="accessible-slideshow_dot-decoration-outer" dir="ltr"><span class="accessible-slideshow_dot-decoration-inner">Corso Francavilla</span></span><span class="visually-hidden"> - Pulsante presentazione</span></button></li><li class="accessible-slideshow_dot-wrapper"><button class="accessible-slideshow_dot accessible-slideshow_dot-4" aria-pressed="false"><span class="accessible-slideshow_dot-decoration-outer" dir="ltr"><span class="accessible-slideshow_dot-decoration-inner">Corso Francavilla</span></span><span class="visually-hidden"> - Pulsante presentazione</span></button></li><li class="accessible-slideshow_dot-wrapper"><button class="accessible-slideshow_dot accessible-slideshow_dot-5" aria-pressed="false"><span class="accessible-slideshow_dot-decoration-outer" dir="ltr"><span class="accessible-slideshow_dot-decoration-inner">Corso Francavilla</span></span><span class="visually-hidden"> - Pulsante presentazione</span></button></li></ol></div><div class="accessible-slideshow_slides-container" aria-live="off"><div class="slide slide-0 " id="slideshowID-496534973-slideN-0" aria-live="off"><div class="slide-text visually-hidden "><h4 class="slide-heading">Corsi Rossano</h4></div><p class="wrapper-element slide-image-container"><img src="images/slide/slide1.jpg" alt="Corsi Rossano" /></p></div><hr class="removed"/><div class="slide slide-1 removed" id="slideshowID-496534973-slideN-1" aria-live="off"><div class="slide-text visually-hidden "><h4 class="slide-heading">Corsi Rossano</h4></div><p class="wrapper-element slide-image-container"><img src="images/slide/slide2.jpg" alt="Corsi Rossano" /></p></div><hr class="removed"/><div class="slide slide-2 removed" id="slideshowID-496534973-slideN-2" aria-live="off"><div class="slide-text visually-hidden "><h4 class="slide-heading">Corsi Rossano</h4></div><p class="wrapper-element slide-image-container"><img src="images/slide/slide3.jpg" alt="Corsi Rossano" /></p></div><hr class="removed"/><div class="slide slide-3 removed" id="slideshowID-496534973-slideN-3" aria-live="off"><div class="slide-text visually-hidden "><h4 class="slide-heading">Corso Francavilla</h4></div><p class="wrapper-element slide-image-container"><img src="images/slide/slide4.jpg" alt="Corso Francavilla" /></p></div><hr class="removed"/><div class="slide slide-4 removed" id="slideshowID-496534973-slideN-4" aria-live="off"><div class="slide-text visually-hidden "><h4 class="slide-heading">Corso Francavilla</h4></div><p class="wrapper-element slide-image-container"><img src="images/slide/slide5.jpg" alt="Corso Francavilla" /></p></div><hr class="removed"/><div class="slide slide-5 removed" id="slideshowID-496534973-slideN-5" aria-live="off"><div class="slide-text visually-hidden "><h4 class="slide-heading">Corso Francavilla</h4></div><p class="wrapper-element slide-image-container"><img src="images/slide/slide6.jpg" alt="Corso Francavilla" /></p></div><hr class="removed"/></div></section><script type="text/javascript">
+(function($){
+    /*----------------------------------------------------------------
+       Slideshow initialization
+    ---------------------------------------------------------------- */
+    var manualSlideChanged = false;     
+    var animationInProgress = false; // Prevent multiple animations at the same time
+    var activeSlideIndex = 0;
+    var nextSlideIndex;
+    var $activeSlide;
+    var $nextSlide;
+    var heightTemp; // Dynamically calculate the height of the slideshow
+    var slidesNumber = 6;
+    var animationSpeed = 800;
+    var animationInterval = 3000;
+    var enableAutoplay = true;
+    var enableDots = true;
+    var enableArrows =  false;
+    var enableLinkedTitles =  false;
+    var textOverImages = false;
+    var isPortable = false;
+    var isDefaultLayout = true;
+    var isMobileLayout = false;
+    var isltIE10 = document.documentElement.className.indexOf('lt-ie10') > -1;
+
+    /*--------- Cached Elements ---------*/
+    var $accessibleSlideshow = $(document.getElementById('accessible-slideshow_496534973'));
+    var $accessibleSlideshowSlides = $accessibleSlideshow.find('.slide');
+    var $accessibleSlideshowDots = $accessibleSlideshow.find('.accessible-slideshow_dot');
+    var $accessibleSlideshowArrows = $accessibleSlideshow.find('.accessible-slideshow_arrow');
+    var $accessibleSlideshowDotsContainer = $accessibleSlideshow.find('.accessible-slideshow_dots-container');
+    var $accessibleSlideshowPauseButton = $accessibleSlideshow.find('.accessible-slideshow_pause-button');
+
+    // Slides initialization:
+    $accessibleSlideshowSlides
+        .css({'opacity':'0','-ms-filter':'"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"','display':'none'})
+        .removeClass('removed').addClass('hidden-slide');
+    $accessibleSlideshowSlides.eq(0)
+        .css({'opacity':'1','-ms-filter':'"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"','display':'block'})
+        .removeClass('hidden-slide').addClass('active-slide');
+
+    // Style initialization
+    if(isDefaultLayout){
+        $accessibleSlideshowArrows.removeClass('removed');
+    }
+
+    // Initialize arrow style    
+    
+    /*----------------------------------------------------------------
+       Slideshow handler (slide change)
+    ---------------------------------------------------------------- */
+    //"requestedSlideIndex" values: -1 (show next slide) ; -2 (show previous slide) ; >0 (requested slide index)
+    var nextSlideAnimation = function(requestedSlideIndex){
+
+        // If animation is still in progress -or- the requested slide is the same as the one showed, then do nothing.
+        if(animationInProgress || requestedSlideIndex===activeSlideIndex){return;}
+
+        // Else, start the animation     
+        animationInProgress=true;
+
+        /**
+         * Get the next active slide index
+        **/
+        if(requestedSlideIndex==-2){ // "-2" = show previous slide
+            nextSlideIndex = activeSlideIndex-1;
+            if(nextSlideIndex==-1){nextSlideIndex=slidesNumber-1;} // if beginning is reached, go to the last slide
+        } else {
+            if(requestedSlideIndex==-1){ // "-1" = show next slide
+                nextSlideIndex = activeSlideIndex+1;
+                if(nextSlideIndex==slidesNumber){nextSlideIndex=0;} // if end is reached, go to the first slide
+            } else { // this case is active when a dot is clicked
+                nextSlideIndex = requestedSlideIndex;
+            }
+        }
+
+        /**
+         * Get the current/next slides reverences
+        **/
+        $nextSlide = $accessibleSlideshowSlides.eq(nextSlideIndex);
+        $activeSlide = $accessibleSlideshowSlides.eq(activeSlideIndex);
+
+        /**
+         * Update the "live-aria" attributes (only if the slideshow was changed manually)
+        **/
+        if(manualSlideChanged){
+            $accessibleSlideshow.find('.accessible-slideshow_slides-container').removeAttr('aria-live');
+            $activeSlide.attr('aria-live','off');
+            $nextSlide.attr('aria-live','assertive');
+            $activeSlide[0].offsetWidth;
+            $nextSlide[0].offsetWidth;
+        }
+
+        /**
+         * Toggle active/hidden slides
+        **/
+        $activeSlide
+            .removeClass('active-slide').addClass('hidden-slide');
+        $nextSlide
+            .removeClass('hidden-slide').addClass('active-slide').css('display','block');
+
+        /**
+         * Animate the process:
+        **/
+
+        // IE9 & IE8 animation via jQuery, for all the other browsers use CSS3 transitions
+        if(isltIE10){
+            $activeSlide.animate({'opacity':'0'}, {queue:true, duration:animationSpeed });
+            $nextSlide.animate({'opacity':'1'}, {queue:true, duration:animationSpeed});
+        } else {
+            $activeSlide.css('opacity', '0');
+            $nextSlide[0].offsetHeight; // Force repainting in order to have a nice CSS3 transition
+            $nextSlide.css('opacity', '1');
+        }
+        // At animation end, hide the old slide 
+        setTimeout(function(){
+            $activeSlide.css('display','none');
+            animationInProgress = false;
+        }, animationSpeed);
+
+        /**
+         * Update Dots
+        **/
+        $accessibleSlideshowDots.filter('.activeDot').removeClass('activeDot').attr('aria-pressed','false');
+        $accessibleSlideshowDots.eq(nextSlideIndex).addClass('activeDot').attr('aria-pressed','true');
+
+        
+        activeSlideIndex = nextSlideIndex;
+
+    }
+
+    /*----------------------------------------------------------------
+       Repeat the animation every N sec. (ONLY in default layout)
+    ---------------------------------------------------------------- */
+    var accessibleSlideshowInterval;
+    if(isDefaultLayout && enableAutoplay){
+        accessibleSlideshowInterval = setInterval(function(){ nextSlideAnimation(-1); },animationInterval);
+    }
+
+    /*----------------------------------------------------------------
+       Slideshow stop/restart handler (ONLY in default layout)
+    ---------------------------------------------------------------- */
+    if(isDefaultLayout){
+        $accessibleSlideshow.hover( // When the slideshow is hovered with the pointer, stop it
+            function(){
+                if(!manualSlideChanged && enableAutoplay) { clearInterval(accessibleSlideshowInterval); }
+            },
+            function(){
+                // if any of the "navigation arrow" hasn't been clicked, restart the animation
+                if(!manualSlideChanged && enableAutoplay) { accessibleSlideshowInterval = setInterval(function(){ nextSlideAnimation(-1); },animationInterval); }
+            }
+        );
+    }
+
+    /*----------------------------------------------------------------
+       Arrows click handler
+    ---------------------------------------------------------------- */
+    $accessibleSlideshowArrows.click(function(e){
+
+        if(animationInProgress){return;}
+
+        // this stops the animation circle
+        manualSlideChanged=true;
+
+        if(this.className.indexOf('accessible-slideshow_arrow-right') > -1){ // Arrow right
+            nextSlideAnimation(-1); // -2 = show next slide
+        } else { // Arrow left
+            nextSlideAnimation(-2); // -2 = show previous slide
+        }
+
+        // Force the keyboard focus on the activated slide
+        zhongFramework.helpers.forceElementFocus($nextSlide);
+
+        // Handle the paused button too
+        $accessibleSlideshowPauseButton.attr('aria-pressed','true');
+
+    });
+
+    /*----------------------------------------------------------------
+       Dots click handler
+    ---------------------------------------------------------------- */
+    $accessibleSlideshowDots.click(function(e){
+
+        if(animationInProgress){return false;}
+
+        // this stops the animation circle
+        manualSlideChanged=true;
+
+        nextSlideAnimation($(this).parent().index());
+
+        // Force the keyboard focus on the activated slide
+        zhongFramework.helpers.forceElementFocus($nextSlide);
+
+        // Handle the paused button too
+        $accessibleSlideshowPauseButton.attr('aria-pressed','true');
+
+    });
+
+    /*----------------------------------------------------------------
+       Focus handler for dot navigation
+    ---------------------------------------------------------------- */
+    $accessibleSlideshowDots.on('focus',function(){
+        // When focused, stop animation
+        clearInterval(accessibleSlideshowInterval);
+        // Fade in the dots
+        $accessibleSlideshowDotsContainer.addClass('zf--focused');
+        // Add the class for the "active style", plus, a special class to specify the keyboard focus
+        $(this).addClass('focusedAnchor');
+    });
+    $accessibleSlideshowDots.on('focusout',function(){
+        // Fade out the dots
+        $accessibleSlideshowDotsContainer.addClass('zf--focused');
+        // Remove the "active style" and also the special class for the keyboard focus
+        $(this).removeClass('focusedAnchor');
+    });
+    $accessibleSlideshowDotsContainer.on('hover',
+        function(){},
+        function(){
+            // Return half-faded on un-hover
+            $accessibleSlideshowDotsContainer.removeClass('zf--focused');
+    });
+
+    /*------------------------------------------------------------
+       Pause button
+    ------------------------------------------------------------*/
+            $accessibleSlideshowPauseButton.click(function(){
+            manualSlideChanged = true;
+            clearInterval(accessibleSlideshowInterval);
+            $accessibleSlideshowPauseButton.attr('aria-pressed','true');
+        });
+    
+    /*------------------------------------------------------------
+       ESC keypress = pause slideshow
+    ------------------------------------------------------------*/
+    $(document).keydown(function(e){
+        if(e.keyCode === 27 && !manualSlideChanged){
+            manualSlideChanged = true;
+            clearInterval(accessibleSlideshowInterval);
+            $accessibleSlideshowPauseButton.attr('aria-pressed','true');
+        }
+    });
+
+}(jQuery)); // END accessible slideshow
+</script>
+</div></div></header><hr class="removed"/></div></div></div><div id="zf--header-bottom"><div id="zf--header-bottom--skin" class="clearfix"><div id="zf--main-menu" class="zf--menu-container"><nav role="navigation" aria-labelledby="zf--main-menu--section-heading" id="zf--main-menu--semantic-tag"><h2 id="zf--main-menu--section-heading" class="zf--section-heading visually-hidden">Menu principale</h2><div id="zf--main-menu--skin" class="clearfix"><div id="zf--guest-view--main-menu" class="zf--guest-view"><ul class="nav menu">
+<li class="item-226 default current active"><a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=226" >Home</a></li><li class="item-179 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=879&amp;Itemid=179" >Studenti</a><ul class="nav-child unstyled small"><li class="item-573"><a href="/index.php?option=com_tags&amp;view=tag&amp;layout=list&amp;id[0]=3&amp;types[0]=1&amp;Itemid=573" >Comunicazioni</a></li><li class="item-571"><a href="/index.php?option=com_content&amp;view=article&amp;id=877&amp;Itemid=571" > Iscrizioni 2017-18</a></li><li class="item-572"><a href="/index.php?option=com_content&amp;view=category&amp;id=137&amp;Itemid=572" >Tutti i documenti</a></li></ul></li><li class="item-176 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=176" >Dirigenza</a><ul class="nav-child unstyled small"><li class="item-183"><a href="/index.php?option=com_content&amp;view=article&amp;id=873&amp;Itemid=183" >Dirigente scolastico</a></li><li class="item-184"><a href="/index.php?option=com_content&amp;view=article&amp;id=799&amp;Itemid=184" >D.S.G.A.</a></li><li class="item-569"><a href="/index.php?option=com_content&amp;view=article&amp;id=874&amp;Itemid=569" >Primo Collaboratore</a></li><li class="item-570"><a href="/index.php?option=com_content&amp;view=article&amp;id=875&amp;Itemid=570" >Secondo Collaboratore</a></li><li class="item-185"><a href="/index.php?option=com_content&amp;view=article&amp;id=803&amp;Itemid=185" >Funzioni strumentali</a></li></ul></li><li class="item-177 deeper parent"><a href="/index.php?option=com_content&amp;view=category&amp;id=124&amp;Itemid=177" >Docenti</a><ul class="nav-child unstyled small"><li class="item-187"><a href="/index.php?option=com_tags&amp;view=tag&amp;layout=list&amp;id[0]=4&amp;types[0]=1&amp;Itemid=187" >Circolari e Comunicazioni</a></li><li class="item-188"><a href="/index.php?option=com_content&amp;view=article&amp;id=827&amp;Itemid=188" >Proposte didattiche</a></li><li class="item-189"><a href="/index.php?option=com_content&amp;view=article&amp;id=816&amp;Itemid=189" >Link per la didattica</a></li><li class="item-199"><a href="/index.php?option=com_dpcalendar&amp;view=calendar&amp;Itemid=199" >Calendario attività</a></li><li class="item-577"><a href="/index.php?option=com_content&amp;view=article&amp;id=89&amp;Itemid=577" >Modulistica</a></li></ul></li><li class="item-574 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=880&amp;Itemid=574" >Personale ATA</a><ul class="nav-child unstyled small"><li class="item-575"><a href="/index.php?option=com_tags&amp;view=tag&amp;layout=list&amp;id[0]=5&amp;types[0]=1&amp;Itemid=575" >Circolari e comunicazioni</a></li><li class="item-576"><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=576" >Modulistica</a></li></ul></li><li class="item-180"><a href="/index.php?option=com_content&amp;view=article&amp;id=798&amp;Itemid=180" >Dove siamo</a></li><li class="item-181"><a href="/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=181" >Contatti</a></li></ul>
+</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div><div id="zf--main-body"><div id="zf--main-body--skin" class="clearfix"><div id="zf--aside-top"><aside role="complementary" aria-labelledby="zf--aside-top--section-heading" id="zf--aside-top--semantic-tag"><h2 id="zf--aside-top--section-heading" class="zf--section-heading visually-hidden">Contenuto supplementare (superiore)</h2><div id="zf--aside-top--skin" class="clearfix"><div id="zf--aside-top-row-D" class="zf--grouped-hosts-row clearfix"><div id="zf--aside-top-D1" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--marked-light"><div id="zf--guest-view--aside-top-D1" class="zf--guest-view">		<div class="moduletable zf-block-coat-marked-light">
+						
+
+<div class="custom zf-block-coat-marked-light"  >
+	<p><a href="index.php?option=com_content&amp;view=article&amp;id=881:la-piattaforma-cpiagest&amp;catid=162:progetti&amp;Itemid=226"><img src="images/cpiagest.png" alt="Sistema gestionale corsi adulti" width="300" height="178" style="margin-right: auto; margin-left: auto; display: block;" title="Vai alla pagina di login" /></a></p></div>
+		</div>
+	</div></div></div><div id="zf--aside-top-D2" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--marked-light"><div id="zf--guest-view--aside-top-D2" class="zf--guest-view">		<div class="moduletable zf-block-coat-marked-light">
+						
+
+<div class="custom zf-block-coat-marked-light"  >
+	<p><a href="index.php?option=com_content&amp;view=article&amp;id=882:progetto-calabria-friends&amp;catid=162:progetti&amp;Itemid=226"><img src="images/calabriafriends.png" alt="Progetto Calabria Friends" width="300" height="178" style="margin-right: auto; margin-left: auto; display: block;" title="Vai alla sezione relativa al progetto" /></a></p></div>
+		</div>
+	</div></div></div><div id="zf--aside-top-D3" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--marked-light"><div id="zf--guest-view--aside-top-D3" class="zf--guest-view">		<div class="moduletable zf-block-coat-marked-light">
+						
+
+<div class="custom zf-block-coat-marked-light"  >
+	<p><a href="index.php?option=com_content&amp;view=article&amp;id=890:unicef-e-cpia-verso-una-scuola-amica&amp;catid=162:progetti&amp;Itemid=226"><img src="images/scuolaamica.png" alt="Unicef - Scuola Amica" width="300" height="178" style="margin-right: auto; margin-left: auto; display: block;" title="Il CPIA Cosenza - Scuola Amica" /></a></p></div>
+		</div>
+	</div></div></div><div id="zf--aside-top-D4" class="zf--grouped-host fluid-width-25"><div class="zf--grouped-host--skin zf--block-coat--marked-light"><div id="zf--guest-view--aside-top-D4" class="zf--guest-view">		<div class="moduletable zf-block-coat-marked-light">
+						
+
+<div class="custom zf-block-coat-marked-light"  >
+	<p><a href="index.php?option=com_content&amp;view=category&amp;id=162&amp;Itemid=226"><img src="images/cpiacspon.png" alt="I progetti PON del CPIA Cosenza" width="300" height="178" style="margin-right: auto; margin-left: auto; display: block;" title="Clicca per accedere all'area progetti" /></a></p></div>
+		</div>
+	</div></div></div></div></div></aside><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--main-body-middle"><div id="zf--main-body-middle--skin" class="clearfix"><div id="zf--left-column"><div id="zf--left-column--skin" class="clearfix"><div id="zf--side-menu" class="zf--menu-container"><nav role="navigation" aria-labelledby="zf--side-menu--section-heading" id="zf--side-menu--semantic-tag"><h2 id="zf--side-menu--section-heading" class="zf--section-heading visually-hidden">Menu laterale</h2><div id="zf--side-menu--skin" class="clearfix zf--block-coat--marked-light"><div id="zf--guest-view--side-menu" class="zf--guest-view">		<div class="moduletable_datitrasp">
+						<ul class="nav menu">
+<li class="item-565"><a href="/index.php?option=com_chronoconnectivity5&amp;view=connection&amp;Itemid=565" title="Albo Pretorio On Line"><img src="/images/BannerAlboPretorio.png" alt="Albo Pretorio" /></a></li><li class="item-566"><a href="/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=566" title="Amministrazione Trasparente"><img src="/images/BannerAmministrazioneTrasparente.png" alt="Amministrazione Trasparente" /></a></li><li class="item-567"><a href="/index.php?option=com_content&amp;view=article&amp;id=21&amp;Itemid=567" title="Dati AVCP"><img src="/images/BannerAVCP.png" alt="AVCP" /></a></li></ul>
+		</div>
+			<div class="moduletable_menu">
+						<ul class="nav menu nav-pills">
+<li class="item-140"><a href="/index.php?option=com_content&amp;view=article&amp;id=92&amp;Itemid=140" >Il nostro istituto</a></li><li class="item-579"><a href="/index.php?option=com_content&amp;view=article&amp;id=868&amp;Itemid=579" >Valeria Solesin</a></li><li class="item-172 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=97&amp;Itemid=172" >Le sedi associate</a><ul class="nav-child unstyled small"><li class="item-553"><a href="/index.php?option=com_content&amp;view=article&amp;id=856&amp;Itemid=553" >Cosenza - Spirito Santo</a></li><li class="item-554"><a href="/index.php?option=com_content&amp;view=article&amp;id=857&amp;Itemid=554" >Cosenza - Zumbini</a></li><li class="item-555"><a href="/index.php?option=com_content&amp;view=article&amp;id=858&amp;Itemid=555" >Cosenza - Scuola Carceraria</a></li><li class="item-556"><a href="/index.php?option=com_content&amp;view=article&amp;id=859&amp;Itemid=556" >Acri</a></li><li class="item-557"><a href="/index.php?option=com_content&amp;view=article&amp;id=860&amp;Itemid=557" >Cassano Ionio</a></li><li class="item-558"><a href="/index.php?option=com_content&amp;view=article&amp;id=861&amp;Itemid=558" >Castrovillari</a></li><li class="item-559"><a href="/index.php?option=com_content&amp;view=article&amp;id=862&amp;Itemid=559" >Malvito</a></li><li class="item-560"><a href="/index.php?option=com_content&amp;view=article&amp;id=863&amp;Itemid=560" >Paola</a></li><li class="item-561"><a href="/index.php?option=com_content&amp;view=article&amp;id=864&amp;Itemid=561" >Rossano</a></li><li class="item-562"><a href="/index.php?option=com_content&amp;view=article&amp;id=865&amp;Itemid=562" >Scalea</a></li><li class="item-563"><a href="/index.php?option=com_content&amp;view=article&amp;id=866&amp;Itemid=563" >San Giovanni In Fiore</a></li><li class="item-564"><a href="/index.php?option=com_content&amp;view=article&amp;id=867&amp;Itemid=564" >Spezzano Sila</a></li></ul></li><li class="item-580"><a href="/index.php?option=com_content&amp;view=article&amp;id=883&amp;Itemid=580" >La Rete Istruzione Adulti</a></li><li class="item-141"><a href="/index.php?option=com_content&amp;view=article&amp;id=872&amp;Itemid=141" >Funzionigramma</a></li><li class="item-142"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=142" >PTOF</a></li><li class="item-143"><a href="/index.php?option=com_content&amp;view=article&amp;id=794&amp;Itemid=143" >Normativa</a></li><li class="item-144 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=144" >Organi collegiali</a><ul class="nav-child unstyled small"><li class="item-145"><a href="/index.php?option=com_content&amp;view=article&amp;id=796&amp;Itemid=145" >Collegio dei docenti</a></li><li class="item-581"><a href="/index.php?option=com_content&amp;view=article&amp;id=795&amp;Itemid=581" >Consiglio di Istituto</a></li><li class="item-146"><a href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=146" >Giunta esecutiva</a></li></ul></li><li class="item-147"><a href="/index.php?option=com_content&amp;view=article&amp;id=797&amp;Itemid=147" >Calendario scolastico</a></li><li class="item-148"><a href="/index.php?option=com_content&amp;view=article&amp;id=809&amp;Itemid=148" >Sicurezza</a></li><li class="item-150"><a href="/index.php?option=com_content&amp;view=category&amp;id=159&amp;Itemid=150" >Eventi</a></li></ul>
+		</div>
+	</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--aside-left"><aside role="complementary" aria-labelledby="zf--aside-left--section-heading" id="zf--aside-left--semantic-tag"><h2 id="zf--aside-left--section-heading" class="zf--section-heading visually-hidden">Risorse aggiuntive (colonna di sinistra)</h2><div id="zf--aside-left--skin" class="clearfix zf--block-coat--full-width"><div id="zf--guest-view--aside-left" class="zf--guest-view">		<div class="moduletable zf--block-coat--marked-light">
+							<h3>Comunicazioni</h3>
+						<ul class="nav menuhighlight-blue">
+<li class="item-151"><a href="/index.php?option=com_content&amp;view=category&amp;id=10&amp;Itemid=151" >Notizie</a></li><li class="item-135"><a href="/index.php?option=com_content&amp;view=category&amp;id=124&amp;Itemid=135" >Circolari</a></li><li class="item-152"><a href="/index.php?option=com_content&amp;view=category&amp;id=27&amp;Itemid=152" >Bacheca sindacale</a></li></ul>
+		</div>
+			<div class="moduletable zf--block-coat--marked-light">
+							<h3>Uffici</h3>
+						<ul class="nav menu highlight-yellow">
+<li class="item-137"><a href="/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=137" >URP</a></li><li class="item-153"><a href="/index.php?option=com_content&amp;view=article&amp;id=90&amp;Itemid=153" >Modulistica</a></li></ul>
+		</div>
+			<div class="moduletable zf--block-coat--marked-light">
+							<h3>Pubblicità legale</h3>
+						<ul class="nav menu">
+<li class="item-154"><a href="/index.php?option=com_content&amp;view=article&amp;id=41&amp;Itemid=154" >Normativa PA</a></li><li class="item-155"><a href="/index.php?option=com_content&amp;view=article&amp;id=815&amp;Itemid=155" >Elenco siti tematici</a></li></ul>
+		</div>
+			<div class="moduletable zf--block-coat--marked-light">
+							<h3>Risorse</h3>
+						<ul class="nav menu highlight-green">
+<li class="item-156"><a href="/index.php?option=com_content&amp;view=article&amp;id=825&amp;Itemid=156" >Video</a></li><li class="item-249"><a href="/index.php?option=com_phocagallery&amp;view=categories&amp;Itemid=249" >Galleria fotografica</a></li></ul>
+		</div>
+	</div></div></aside><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div><div id="zf--main-content"><main role="main"><h1 id="zf--main-content--section-heading" class="zf--section-heading visually-hidden">Contenuto principale</h1><div id="zf--main-content--skin" class="clearfix"><div id="zf--guest-view--system-messages" class="zf--guest-view"><div id="system-message-container">
+	</div>
+</div><div id="zf--alerts-panel" class="removed zf--alerts-panel_bottom-position"><section aria-labelledby="zf--alerts-panel--section-heading" id="zf--alerts-panel--semantic-tag"><h2 id="zf--alerts-panel--section-heading" class="zf--section-heading visually-hidden">Messaggio di avviso</h2><div id="zf--alerts-panel--skin" class="clearfix"><div id="zf--alerts-panel--close-button-container" class="removed"><button id="zf--alerts-panel--close-button" title="Nascondi questo messaggio"><span class="visually-hidden">Nascondi questo messaggio</span><span id="zf--alerts-panel--close-button--icon" aria-hidden="true"></span></button></div><div id="zf--alerts-panel--content-container"><div id="zf--alerts-panel--content"><div id="zf--guest-view--alerts-panel" class="zf--guest-view">
+
+<div class="custom"  >
+	<p class="yellow-button-style rounded-corners">I cookie ci aiutano a fornire i nostri servizi. Utilizzando tali servizi, accetti l'utilizzo dei cookie da parte nostra.&nbsp;<a href="index.php/127-crediti-sito/845-cookies">Clicca Qui</a>&nbsp;per ulteriori informazioni.</p></div>
+</div></div><div id="zf--alerts-panel--ok-button-container" class="removed"><button id="zf--alerts-panel--ok-button" class="grey-button-style">OK</button></div></div></div></section></div><div id="zf--main-article"><article><div id="zf--main-article--skin" class="clearfix"><div id="zf--guest-view--main-article" class="zf--guest-view"><div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+<div class="items-leading clearfix">
+			<div class="leading-0 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=955:sciopero-personale-docente-e-ata-per-l-intera-giornata-del-08-gennaio-2017&amp;catid=27&amp;Itemid=152" itemprop="url">
+			Sciopero personale docente e ATA per l’intera giornata giorno 8 gennaio 2017		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Si comunica che l&rsquo;Organizzazione Sindacale SAESE ha proclamato &ldquo;lo sciopero generale per il giorno 8 gennaio 2018 per tutto il personale docente ed A.T.A. a tempo indeterminato e determinato, atipico e precario&rdquo;. Allo stesso aderiscono le organizzazioni CUB e ANIEF</p>
+<p>&nbsp;</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_955">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/955/MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040911.22-12-2017[1].pdf" target="_blank" title="Scarica questo file (MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040911.22-12-2017[1].pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040911.22-12-2017[1].pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/955/MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040911.22-12-2017[1].pdf" target="_blank" title="Scarica questo file (MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040911.22-12-2017[1].pdf)">Adesione ANIEF</a></td><td class="at_file_size">99 kB</td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/955/MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040928.22-12-2017[1]-1.pdf" target="_blank" title="Scarica questo file (MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040928.22-12-2017[1]-1.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040928.22-12-2017[1]-1.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/955/MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040928.22-12-2017[1]-1.pdf" target="_blank" title="Scarica questo file (MIUR.AOOUFGAB.REGISTRO_UFFICIALE(U).0040928.22-12-2017[1]-1.pdf)">Adesione CUB</a></td><td class="at_file_size">235 kB</td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/955/sciopero.8.gennaio.2018.pdf" target="_blank" title="Scarica questo file (sciopero.8.gennaio.2018.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (sciopero.8.gennaio.2018.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/955/sciopero.8.gennaio.2018.pdf" target="_blank" title="Scarica questo file (sciopero.8.gennaio.2018.pdf)">Sciopero SAESE</a></td><td class="at_file_size">596 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-12-22T12:17:03+01:00" itemprop="dateModified">
+					Ultima modifica: 22 Dicembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:3" />
+					Visite: 3			</dd>						</dl>
+	
+
+
+		</div>
+					<div class="leading-1 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=954:proroga-termini-bando-docente-alfabetizzazione-finanziaria&amp;catid=162&amp;Itemid=226" itemprop="url">
+			Proroga termini bando docente Alfabetizzazione finanziaria		</a>
+		</h2>
+
+
+
+
+
+
+
+<p style="text-align: justify;">In riferimento all&rsquo;<b>Avviso pubblico di selezione esterna per il conferimento di incarico di Docente Alfabetizzazione finanziaria</b> Prot. 2315/E30 del 04/12/2017, si comunica la proroga per la presentazione istanza di partecipazione al <b>02/01/2018</b>, risultando esprimibili in ordine di preferenza le sole sedi di <b>Rossano</b> o <b>Tarsia</b>, attualmente non assegnate.</p>
+<p>&nbsp;</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_954"></div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-12-22T11:02:51+01:00" itemprop="dateModified">
+					Ultima modifica: 22 Dicembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:22" />
+					Visite: 22			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-2 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=953:graduatoria-provvisoria-esperti-docenti-alfabetizzazione-finanziaria&amp;catid=162&amp;Itemid=226" itemprop="url">
+			Graduatoria provvisoria Esperti docenti: Alfabetizzazione finanziaria.		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Si pubblica la graduatoria provvisoria relativa al bando Progetto FAMI-"Calabria Friends" per docenti Esperti Alfabetizzazione finanziaria.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_953">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/953/Graduatoria provvisoria Alfa fin 2.pdf" target="_blank" title="Scarica questo file (Graduatoria provvisoria Alfa fin 2.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Graduatoria provvisoria Alfa fin 2.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/953/Graduatoria provvisoria Alfa fin 2.pdf" target="_blank" title="Scarica questo file (Graduatoria provvisoria Alfa fin 2.pdf)">Graduatoria provvisoria Alfa fin 2</a></td><td class="at_file_size">205 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-12-22T10:57:36+01:00" itemprop="dateModified">
+					Ultima modifica: 22 Dicembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:11" />
+					Visite: 11			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-3 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=952:chiusura-uffici-della-scuola-nelle-giornate-prefestive-a-s-2017-18&amp;catid=10&amp;Itemid=151" itemprop="url">
+			Sospensione attività didattica e chiusura uffici della scuola nelle giornate prefestive A.S. 2017/18 		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Si avvisa che l'attivit&agrave; didattica sar&agrave; sospesa dal 23/12/2017 al 07/01/2018</p>
+<p>In allegato: calendario scolastico regionale e decreto chiusura prefestivi del CPIA A.S. 2017/18</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_952">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/952/calendario-scolastico-2017-2018.pdf" target="_blank" title="Scarica questo file (calendario-scolastico-2017-2018.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (calendario-scolastico-2017-2018.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/952/calendario-scolastico-2017-2018.pdf" target="_blank" title="Scarica questo file (calendario-scolastico-2017-2018.pdf)">calendario-scolastico-2017-2018</a></td><td class="at_file_size">357 kB</td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/952/chiusura prefestivi.pdf" target="_blank" title="Scarica questo file (chiusura prefestivi.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (chiusura prefestivi.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/952/chiusura prefestivi.pdf" target="_blank" title="Scarica questo file (chiusura prefestivi.pdf)">Chiusura prefestivi</a></td><td class="at_file_size">66 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-12-20T13:40:13+01:00" itemprop="dateModified">
+					Ultima modifica: 20 Dicembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:19" />
+					Visite: 19			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-3 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=3-studente&amp;Itemid=573" class="label label-info">
+						Studente					</a>
+				</li>
+																				<li class="tag-4 tag-list1" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+																				<li class="tag-5 tag-list2" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=5-personale-ata&amp;Itemid=575" class="label label-info">
+						Personale ATA					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-4 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=946:seminari-paideia&amp;catid=10&amp;Itemid=151" itemprop="url">
+			Seminari Paideia		</a>
+		</h2>
+
+
+
+
+
+
+
+<p style="text-align: justify;">Si comunica che nella piattaforma Paideia &egrave; stata inserita una nuova sezione in cui sono disponibili i link per visionare i webinar registrati dei 5 Seminari Paideia 3.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_946"></div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-12-05T18:42:08+01:00" itemprop="dateModified">
+					Ultima modifica: 05 Dicembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:47" />
+					Visite: 47			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-5 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=945:bando-docente-alfabetizzazione-finanziaria&amp;catid=125&amp;Itemid=226" itemprop="url">
+			Bando Docente Alfabetizzazione Finanziaria		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Avviso pubblico di selezione esterna per il conferimento di incarico di Docente esperto di Alfabetizzazione finanziaria - Progetti regionali FAMI-2014-2020 cod. 57 </p>
+<p>&nbsp;</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_945">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/945/Bando Docente Alfabetizzazione finanziaria.pdf" target="_blank" title="Scarica questo file (Bando Docente Alfabetizzazione finanziaria.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Bando Docente Alfabetizzazione finanziaria.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/945/Bando Docente Alfabetizzazione finanziaria.pdf" target="_blank" title="Scarica questo file (Bando Docente Alfabetizzazione finanziaria.pdf)">Bando Docente Alfabetizzazione finanziaria</a></td><td class="at_file_size">361 kB</td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/945/Dichiarazione titoli Alfabetizzazione finanziaria.pdf" target="_blank" title="Scarica questo file (Dichiarazione titoli Alfabetizzazione finanziaria.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Dichiarazione titoli Alfabetizzazione finanziaria.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/945/Dichiarazione titoli Alfabetizzazione finanziaria.pdf" target="_blank" title="Scarica questo file (Dichiarazione titoli Alfabetizzazione finanziaria.pdf)">Dichiarazione titoli Alfabetizzazione finanziaria</a></td><td class="at_file_size">46 kB</td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/945/Domanda docente Alfabetizzazione finanziaria.pdf" target="_blank" title="Scarica questo file (Domanda docente Alfabetizzazione finanziaria.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Domanda docente Alfabetizzazione finanziaria.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/945/Domanda docente Alfabetizzazione finanziaria.pdf" target="_blank" title="Scarica questo file (Domanda docente Alfabetizzazione finanziaria.pdf)">Mod. domanda docente Alfabetizzazione finanziaria</a></td><td class="at_file_size">215 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-12-04T20:12:28+01:00" itemprop="dateModified">
+					Ultima modifica: 04 Dicembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:44" />
+					Visite: 44			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-6 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=938:avvio-attivita-progetto-fami-calabria-friends&amp;catid=162&amp;Itemid=226" itemprop="url">
+			Avvio attività progetto FAMI &quot;Calabria Friends&quot;		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Pubblicazione decreto avvio dei corsi FAMI nelle sedi associate del Centro Provinciale per l&rsquo;Istruzione ad Adulti (CPIA) di Cosenza nell&rsquo;anno scolastico 2017/2018.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_938">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/938/Determina avvio progetto FAMI -Calabria Friends-.pdf" target="_blank" title="Scarica questo file (Determina avvio progetto FAMI -Calabria Friends-.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Determina avvio progetto FAMI -Calabria Friends-.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/938/Determina avvio progetto FAMI -Calabria Friends-.pdf" target="_blank" title="Scarica questo file (Determina avvio progetto FAMI -Calabria Friends-.pdf)">Determina avvio progetto FAMI - Calabria Friends -</a></td><td class="at_file_size">325 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-11-08T11:37:46+01:00" itemprop="dateModified">
+					Ultima modifica: 08 Novembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:140" />
+					Visite: 140			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-7 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=937:pubblicazione-graduatorie-di-prima-e-seconda-fascia-d-istituto-personale-ata&amp;catid=161&amp;Itemid=226" itemprop="url">
+			Pubblicazione graduatorie di prima e seconda fascia d’istituto personale ATA		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>In ottemperanza alla nota A.T. Cosenza prot. 12303 del 30/10/2017 sono pubblicate in data 3 novembre le graduatorie d'istituto definitive del personale ATA di prima e seconda fascia.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_937">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/937/Graduatoria definitiva  personale ATA di seconda fascia.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva  personale ATA di seconda fascia.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Graduatoria definitiva  personale ATA di seconda fascia.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/937/Graduatoria definitiva  personale ATA di seconda fascia.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva  personale ATA di seconda fascia.pdf)">Graduatoria definitiva  personale ATA di seconda fascia</a></td><td class="at_file_size">34 kB</td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/937/Graduatoria definitiva personale ATA di prima fascia.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva personale ATA di prima fascia.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Graduatoria definitiva personale ATA di prima fascia.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/937/Graduatoria definitiva personale ATA di prima fascia.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva personale ATA di prima fascia.pdf)">Graduatoria definitiva personale ATA di prima fascia</a></td><td class="at_file_size">25 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-11-03T06:45:02+01:00" itemprop="dateModified">
+					Ultima modifica: 03 Novembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:76" />
+					Visite: 76			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-5 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=5-personale-ata&amp;Itemid=575" class="label label-info">
+						Personale ATA					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-8 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=924:ripubblicazione-graduatorie-definitive-di-istituto-personale-docente-1-grado-aa-ss-2017-18-2018-19-2019-20&amp;catid=10&amp;Itemid=151" itemprop="url">
+			Ripubblicazione graduatorie definitive di istituto personale docente 1° grado  AA.SS. 2017/18, 2018/19, 2019/20		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Nuova pubblicazione delle graduatorie di istituto aggiornate di II e III fascia personale docente di 1&deg; grado&nbsp; AA.SS. 2017/18, 2018/19, 2019/20</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_924">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/924/decreto pubblicazione graduatorie di istituto definitive  1°grado del 19-10-17.pdf" target="_blank" title="Scarica questo file (decreto pubblicazione graduatorie di istituto definitive  1°grado del 19-10-17.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (decreto pubblicazione graduatorie di istituto definitive  1°grado del 19-10-17.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/924/decreto pubblicazione graduatorie di istituto definitive  1°grado del 19-10-17.pdf" target="_blank" title="Scarica questo file (decreto pubblicazione graduatorie di istituto definitive  1°grado del 19-10-17.pdf)">decreto pubblicazione graduatorie di istituto definitive  1°grado del 19-10-17</a></td><td class="at_file_size">50 kB</td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/924/Graduatoria definitiva II fascia sc. sec. I grado.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva II fascia sc. sec. I grado.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Graduatoria definitiva II fascia sc. sec. I grado.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/924/Graduatoria definitiva II fascia sc. sec. I grado.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva II fascia sc. sec. I grado.pdf)">Graduatoria definitiva II fascia sc. sec. I grado</a></td><td class="at_file_size">26 kB</td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/924/Graduatoria definitiva III fascia sc. sec. I grado.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva III fascia sc. sec. I grado.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Graduatoria definitiva III fascia sc. sec. I grado.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/924/Graduatoria definitiva III fascia sc. sec. I grado.pdf" target="_blank" title="Scarica questo file (Graduatoria definitiva III fascia sc. sec. I grado.pdf)">Graduatoria definitiva III fascia sc. sec. I grado</a></td><td class="at_file_size">43 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-10-19T14:06:44+02:00" itemprop="dateModified">
+					Ultima modifica: 19 Ottobre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:99" />
+					Visite: 99			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-4 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+						</ul>
+	
+
+
+		</div>
+					<div class="leading-9 clearfix" 
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=914:protocollo-d-intesa-per-l-attuazione-dell-offerta-formativa-integrata&amp;catid=2&amp;Itemid=226" itemprop="url">
+			Protocollo d’Intesa a.s. 2017-2018 		</a>
+		</h2>
+
+
+
+
+
+
+
+<p style="text-align: justify;">Protocollo d&rsquo;intesa per l'attuazione dell'offerta formativa integrata tra C.P.I.A di Cosenza e soggetti che operano nell'ambito dell'accoglienza dei migranti e della gestione di azioni finalizzate alla loro integrazione e inclusione.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_914">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/914/protocollo associazioni  a.s. 2017-18.pdf" target="_blank" title="Scarica questo file (protocollo associazioni  a.s. 2017-18.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (protocollo associazioni  a.s. 2017-18.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/914/protocollo associazioni  a.s. 2017-18.pdf" target="_blank" title="Scarica questo file (protocollo associazioni  a.s. 2017-18.pdf)">protocollo associazioni  a.s. 2017-18.pdf</a></td><td class="at_file_size">565 kB</td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/914/Suggerimenti compilazione.pdf" target="_blank" title="Scarica questo file (Suggerimenti compilazione.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Suggerimenti compilazione.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/914/Suggerimenti compilazione.pdf" target="_blank" title="Scarica questo file (Suggerimenti compilazione.pdf)">Suggerimenti compilazione.pdf</a></td><td class="at_file_size">170 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-10-07T16:50:26+02:00" itemprop="dateModified">
+					Ultima modifica: 07 Ottobre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:149" />
+					Visite: 149			</dd>						</dl>
+	
+
+
+		</div>
+			</div>
+	
+		
+		<div class="items-row cols-2 row-0 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=896:conferimento-nomine-al-personale-a-t-a-e-d-m-640-del-30-08-2017-aggiornamento-terza-fascia-ata-triennio-2017-2019&amp;catid=10&amp;Itemid=151" itemprop="url">
+			Conferimento nomine personale A.T.A. 3^ fascia ATA triennio 2017/20		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Si riporta la nota Prot.0013915. del 15-09-2017 dell&rsquo;Ufficio Scolastico Regionale per la Calabria inerente le nomine da conferire al personale A.T.A. da graduatorie di istituto III fascia per l'a.s. 2017/18 (D.M.640 del 30/08/2017)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_896">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/896/Conferimento_nomine_da_graduatorie_di_terza_fascia_A.T.A._.pdf" target="_blank" title="Scarica questo file (Conferimento_nomine_da_graduatorie_di_terza_fascia_A.T.A._.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (Conferimento_nomine_da_graduatorie_di_terza_fascia_A.T.A._.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/896/Conferimento_nomine_da_graduatorie_di_terza_fascia_A.T.A._.pdf" target="_blank" title="Scarica questo file (Conferimento_nomine_da_graduatorie_di_terza_fascia_A.T.A._.pdf)">Conferimento nomine da graduatorie di 3^ fascia A.T.A.</a></td><td class="at_file_size">457 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-10-11T19:55:08+02:00" itemprop="dateModified">
+					Ultima modifica: 11 Ottobre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:240" />
+					Visite: 240			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-5 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=5-personale-ata&amp;Itemid=575" class="label label-info">
+						Personale ATA					</a>
+				</li>
+						</ul>
+	
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=895:d-m-640-del-30-08-2017-aggiornamento-terza-fascia-graduatorie-ata-triennio-2017-2019&amp;catid=10&amp;Itemid=151" itemprop="url">
+			D.M. 640  30/08/2017 - Aggiornamento 3^ Fascia ATA triennio 2017/20		</a>
+		</h2>
+
+
+
+
+
+
+
+<div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_895">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/895/D.M._640_del_30_08_2017_aggiornamento_terza_fascia_ata_triennio_2017-2019.pdf" target="_blank" title="Scarica questo file (D.M._640_del_30_08_2017_aggiornamento_terza_fascia_ata_triennio_2017-2019.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (D.M._640_del_30_08_2017_aggiornamento_terza_fascia_ata_triennio_2017-2019.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/895/D.M._640_del_30_08_2017_aggiornamento_terza_fascia_ata_triennio_2017-2019.pdf" target="_blank" title="Scarica questo file (D.M._640_del_30_08_2017_aggiornamento_terza_fascia_ata_triennio_2017-2019.pdf)">D.M. 640 del 30/08/2017 aggiornamento 3^ fascia ATA</a></td><td class="at_file_size">2061 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-10-11T19:57:12+02:00" itemprop="dateModified">
+					Ultima modifica: 11 Ottobre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:779" />
+					Visite: 779			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-5 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=5-personale-ata&amp;Itemid=575" class="label label-info">
+						Personale ATA					</a>
+				</li>
+						</ul>
+	
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-2 row-1 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=892:prot-1657-c27-disposizioni-inerenti-le-vaccinazioni-obbligatorie&amp;catid=124&amp;Itemid=177" itemprop="url">
+			Prot. 1657/C27 - Disposizioni inerenti le vaccinazioni obbligatorie		</a>
+		</h2>
+
+
+
+
+
+
+
+<p>Prot. 1657/C27 - Disposizioni inerenti le vaccinazioni obbligatorie</p>
+<p>Con il decreto legge n. 73 del 7 giugno 2017 convertito in legge n. 119 del 31/7/2017 sono introdotte nuove disposizioni in materia di prevenzione vaccinale e di estensione dell'obbligatoriet&agrave;.</p>
+<p>Si &egrave; introdotto l&rsquo;obbligo di vaccinazione per i minori da 0 a 16 anni di et&agrave;, affidando alcuni&nbsp;precisi compiti di vigilanza, controllo e segnalazione alle istituzioni scolastiche.</p>
+<p>&nbsp;</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_892">
+<table>
+<caption>Allegati:</caption>
+<thead>
+<tr><th class="at_filename">File</th><th class="at_file_size">Dimensione del File</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="http://www.cpiacs.it/attachments/article/892/DISPOSIZIONI INERENTI LE VACCINAZIONI OBBLIGATORIE.pdf" target="_blank" title="Scarica questo file (DISPOSIZIONI INERENTI LE VACCINAZIONI OBBLIGATORIE.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Scarica questo file (DISPOSIZIONI INERENTI LE VACCINAZIONI OBBLIGATORIE.pdf)" /></a><a class="at_url" href="http://www.cpiacs.it/attachments/article/892/DISPOSIZIONI INERENTI LE VACCINAZIONI OBBLIGATORIE.pdf" target="_blank" title="Scarica questo file (DISPOSIZIONI INERENTI LE VACCINAZIONI OBBLIGATORIE.pdf)">Disposizioni inerenti le vaccinazioni obbligatorie</a></td><td class="at_file_size">141 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2017-11-14T14:54:12+01:00" itemprop="dateModified">
+					Ultima modifica: 14 Novembre 2017				</time>
+			</dd>			
+										<dd class="hits">
+					<span class="icon-eye-open"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:135" />
+					Visite: 135			</dd>						</dl>
+				<ul class="tags inline">
+																	<li class="tag-3 tag-list0" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=3-studente&amp;Itemid=573" class="label label-info">
+						Studente					</a>
+				</li>
+																				<li class="tag-4 tag-list1" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=4-docente&amp;Itemid=187" class="label label-info">
+						Docente					</a>
+				</li>
+																				<li class="tag-5 tag-list2" itemprop="keywords">
+					<a href="/index.php?option=com_tags&amp;view=tag&amp;id=5-personale-ata&amp;Itemid=575" class="label label-info">
+						Personale ATA					</a>
+				</li>
+						</ul>
+	
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+
+
+</div>
+</div></div></article></div></div></main><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--right-column"><div id="zf--right-column--skin" class="clearfix"><div id="zf--aside-right"><aside role="complementary" aria-labelledby="zf--aside-right--section-heading" id="zf--aside-right--semantic-tag"><h2 id="zf--aside-right--section-heading" class="zf--section-heading visually-hidden">Risorse aggiuntive (colonna di destra)</h2><div id="zf--aside-right--skin" class="clearfix zf--block-coat--full-width"><div id="zf--guest-view--aside-right" class="zf--guest-view">		<div class="moduletable zf--block-coat--marked-light">
+							<h3>Prossimi eventi</h3>
+						Nessun evento trovato		</div>
+			<div class="moduletable zf--block-coat--marked-light">
+							<h3>Albo Pretorio</h3>
+						<ul class="nav menu highlight-green">
+<li class="item-166"><a href="/index.php?option=com_chronoforms5&amp;chronoform=finestra_avvio&amp;Itemid=166" >Avvio Albo</a></li><li class="item-167"><a href="/index.php?option=com_chronoconnectivity5&amp;view=connection&amp;Itemid=167" >Atti in corso di pubblicazione</a></li><li class="item-168"><a href="/index.php?option=com_chronoconnectivity5&amp;view=connection&amp;Itemid=168" >Ricerca Atti in pubblicazione</a></li><li class="item-169"><a href="/index.php?option=com_chronoconnectivity5&amp;view=connection&amp;Itemid=169" >Archivio atti pubblicati</a></li><li class="item-170"><a href="/index.php?option=com_chronoconnectivity5&amp;view=connection&amp;Itemid=170" >Ricerca archivio atti pubblicati</a></li><li class="item-171"><a href="/index.php?option=com_chronoconnectivity5&amp;view=connection&amp;Itemid=171" >Sezioni e categorie</a></li></ul>
+		</div>
+			<div class="moduletable zf--menu-container zf--block-coat--marked-light">
+							<h3>Notizie</h3>
+						<ul class="category-module zf--menu-container zf--block-coat--marked-light">
+						<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=952:chiusura-uffici-della-scuola-nelle-giornate-prefestive-a-s-2017-18&amp;catid=10&amp;Itemid=151">
+						Sospensione attività didattica e chiusura uffici della scuola nelle giornate prefestive A.S. 2017/18 					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=946:seminari-paideia&amp;catid=10&amp;Itemid=151">
+						Seminari Paideia					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=936:avviso-chiusura-scuola&amp;catid=10&amp;Itemid=151">
+						Avviso chiusura scuola					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=932:ethnic-dance-party&amp;catid=10&amp;Itemid=151">
+						Ethnic Dance Party					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=926:presentazione-dossier-statistico-immigrazione-2017&amp;catid=10&amp;Itemid=151">
+						Presentazione Dossier Statistico Immigrazione 2017					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=925:avviso-chiusura-pomeridiana-uffici-cpia&amp;catid=10&amp;Itemid=151">
+						Avviso chiusura pomeridiana uffici CPIA					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=924:ripubblicazione-graduatorie-definitive-di-istituto-personale-docente-1-grado-aa-ss-2017-18-2018-19-2019-20&amp;catid=10&amp;Itemid=151">
+						Ripubblicazione graduatorie definitive di istituto personale docente 1° grado  AA.SS. 2017/18, 2018/19, 2019/20					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=920:graduatorie-definitive-di-istituto-personale-docente-aa-ss-2017-18-2018-19-2019-21&amp;catid=10&amp;Itemid=151">
+						Ripubblicazione graduatorie definitive di istituto personale docente AA.SS. 2017/18, 2018/19, 2019/20 					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=896:conferimento-nomine-al-personale-a-t-a-e-d-m-640-del-30-08-2017-aggiornamento-terza-fascia-ata-triennio-2017-2019&amp;catid=10&amp;Itemid=151">
+						Conferimento nomine personale A.T.A. 3^ fascia ATA triennio 2017/20					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=895:d-m-640-del-30-08-2017-aggiornamento-terza-fascia-graduatorie-ata-triennio-2017-2019&amp;catid=10&amp;Itemid=151">
+						D.M. 640  30/08/2017 - Aggiornamento 3^ Fascia ATA triennio 2017/20					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+					<li>
+									<a class="mod-articles-category-title " href="/index.php?option=com_content&amp;view=article&amp;id=891:domanda-per-l-attribuzione-dell-incarico-di-funzione-strumentale-a-s-2017-18&amp;catid=10&amp;Itemid=151">
+						Domanda per l’attribuzione dell'incarico di funzione strumentale a.s.2017/18					</a>
+				
+				
+				
+				
+				
+				
+							</li>
+			</ul>
+		</div>
+			<div class="moduletable zf--menu-container zf--block-coat--marked-light">
+							<h3>Archivio Notizie</h3>
+							<ul class="archive-module zf--menu-container zf--block-coat--marked-light">
+		<li>
+		<a href="/index.php?option=com_content&amp;view=archive&amp;year=2017&amp;month=9&amp;Itemid=226">
+			Settembre, 2017		</a>
+	</li>
+		<li>
+		<a href="/index.php?option=com_content&amp;view=archive&amp;year=2017&amp;month=7&amp;Itemid=226">
+			Luglio, 2017		</a>
+	</li>
+		<li>
+		<a href="/index.php?option=com_content&amp;view=archive&amp;year=2016&amp;month=7&amp;Itemid=226">
+			Luglio, 2016		</a>
+	</li>
+	</ul>
+		</div>
+			<div class="moduletable zf--menu-container zf--block-coat--marked-light">
+						
+
+<div class="custom zf--menu-container zf--block-coat--marked-light"  >
+	<p><a href="http://www.ridap.eu/" target="_blank" title="Vai al sito della Rete Italiana di Istruzione degli Adulti"><img src="images/immagini2017/bannerRidap.jpg" alt="bannerRidap" width="98%" /></a></p></div>
+		</div>
+			<div class="moduletable zf--menu-container zf--block-coat--marked-light">
+						
+
+<div class="custom zf--menu-container zf--block-coat--marked-light"  >
+	<p><a href="https://ec.europa.eu/epale/it/home-page" target="_blank" title="Vai alla piattaforma elettronica per l'istruzione degli adulti in Europa"><img src="images/immagini2017/bannerEPALE.jpg" alt="bannerEPALE" width="98%" /></a></p></div>
+		</div>
+	</div></div></aside><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div><div id="zf--top-anchor-container"><div id="zf--top-anchor-container--skin" class="clearfix"><p class="zf--top-anchor-shell style-reset"><a id="zf--top-anchor" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" accesskey="0" title="Salta a inizio pagina" class="show-tooltip zf--anchor-to-top">Inizio<span class="visually-hidden">. Salta a inizio pagina.</span></a></p></div><hr class="removed"/></div></div></div><div id="zf--footer"><footer role="contentinfo"><div id="zf--footer--skin" class="clearfix"><div id="zf--footer-content"><section aria-labelledby="zf--footer-content--section-heading" id="zf--footer-content--semantic-tag"><h2 id="zf--footer-content--section-heading" class="zf--section-heading visually-hidden">Pi&egrave; di pagina</h2><div id="zf--footer-content--skin" class="clearfix"><div id="zf--footer-top"><div id="zf--footer-top--skin" class="clearfix"><div id="zf--footer-top-row-C" class="zf--grouped-hosts-row clearfix"><div id="zf--footer-top-C1" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--footer-top-C1" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p class="logo_wrapper" style="*zoom: .5; width: 68px; height: auto; display: block; top: 5px; left: 15px; transition: all .3s ease; float: left;"><a href="http://www.miur.gov.it/web/guest/" title=""> <img src="http://www.miur.gov.it/miur-theme/icons/logo-repubblica-italiana.svg" alt="" /> </a></p>
+<h1 style="display: inline; font-size: 140%; text-transform: uppercase;">Ministero dell'Istruzione dell'Universit&agrave; e della Ricerca</h1>
+<p>&nbsp;</p>
+<p><a href="index.php"><img src="images/logocpiaSolesin.png" alt="logo CPIA Solesin" /></a></p></div>
+		</div>
+	</div></div></div><div id="zf--footer-top-C2" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--footer-top-C2" class="zf--guest-view">		<div class="moduletable zf--block-coat--colored-">
+						
+
+<div class="custom zf--block-coat--colored-"  >
+	<p style="text-align: center;"><strong>Centro Provinciale Istruzione Adulti di Cosenza</strong><br /><strong><em>"Valeria Solesin"</em></strong><br />Sede Amministrativa Via Brenta, 39 - 87100 - Cosenza <br />Tel.: +39 0984 24699; Fax: +39 0984 24699;</p>
+<p style="text-align: center;">Email: <a href="mailto:csmm304005@istruzione.it">csmm304005@istruzione.it</a><br /> PEC: <a href="mailto:csmm304005@pec.istruzione.it">csmm304005@pec.istruzione.it</a><br /><strong>C.M.</strong>: CSMM304005 <strong>C.F.</strong>: 98108590781<br />Codice Univoco Ufficio:&nbsp;UFIJBU</p>
+<p style="text-align: center;"><span style="text-align: center;"><a href="index.php?option=com_content&amp;view=article&amp;id=42:note-legali&amp;catid=127:crediti-sito&amp;Itemid=226">Note legali </a>| <a href="index.php?option=com_content&amp;view=article&amp;id=51:privacy&amp;catid=127:crediti-sito&amp;Itemid=226">Privacy </a>|<a href="index.php?option=com_content&amp;view=article&amp;id=75:crediti-sito&amp;catid=127:crediti-sito&amp;Itemid=226"> Crediti </a>| <a href="index.php?option=com_content&amp;view=article&amp;id=840:accessibilita&amp;catid=127:crediti-sito&amp;Itemid=226">Accessibilit&agrave;</a>| <a href="index.php?option=com_content&amp;view=article&amp;id=845:cookies&amp;catid=127&amp;Itemid=226">Cookie Policy</a></span></p></div>
+		</div>
+	</div></div></div><div id="zf--footer-top-C3" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--footer-top-C3" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p style="text-align: right;">Sito realizzato da <em>Salvatore Belsito<br /></em>su modello della Comunit&agrave; di Pratica</p>
+<p style="text-align: right;"><a href="http://www.porteapertesulweb.it/"><img src="images/pasw.gif" alt="pasw" width="206" height="53" /></a></p>
+<p style="text-align: right;"><span style="font-family: helvetica; font-size: 8pt;">nell'ambito del progetto </span>"un CMS per la scuola"</p>
+<p style="text-align: right;"><span style="font-family: helvetica; font-size: 8pt;">Ver. 4_2015_1</span><br /><span style="font-family: helvetica; font-size: 8pt;">Powered by Joomla! - HTML 5 - CSS3</span></p></div>
+		</div>
+	</div></div></div></div></div></div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.cpiacs.it/images/documenti2017/datil190-2016#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></footer></div><div id="zf--layout-width-resizer" aria-hidden="true"><div id="zf--layout-width-resize-handle-left" class="zf--layout-width-resize-handle zf--layout-width-resize-trigger show-tooltip" title="Ridimensiona il layout"></div><div id="zf--layout-width-resize-handle-right" class="zf--layout-width-resize-handle zf--layout-width-resize-trigger show-tooltip" title="Ridimensiona il layout"></div><div id="zf--layout-width-resize-icon" class="zf--layout-width-resize-trigger show-tooltip" title="Ridimensiona il layout"><span id="zf--layout-width-resize-icon-arrow-left"></span><span id="zf--layout-width-resize-icon-arrow-right"></span></div></div></div></div></div><div id="zf--guest-view--system-debug" class="zf--guest-view"></div><div id="zf--end-of-page" class="clearfix clear-both"></div><script type="text/javascript">/*<![CDATA[*/(function(){var zf=window.zhongFramework;zf.params={tooltipsEnabled:'on-snippet',tooltipsEnabledOnKeyboardFocus:true,defaultLayoutWidthMode:'full',enableStickyLeftColumn:true,enableStickyRightColumn:true,enableFontSizeRelativizer:true,enableInlineStyleFilterFontSize:false,enableInlineStyleFilterRemoveAll:false,maxLiquidLayoutWidth:980,enableLayoutAutoResize:true,enableMobileMainMenuActivationButton:true,enableMobileSideMenuActivationButton:true,keepMobileActivationButtonsAlive:true,enableSocialButtons:false,cookiesExpireDate:1516959918,cookiesBasePath:'/',http_host:'www.cpiacs.it',cufonLib:'http://www.cpiacs.it/templates/zhong/zf/assets/lib/cufon/cufon-yui.js',cufonZhongFrameworkIcons:'http://www.cpiacs.it/templates/zhong/zf/assets/lib/cufon/zhong_icons_400.font.js',alertsPanelProvidedControl:'ok-button',alertsPanelCookieAware:true,alertsPanelPriority:'low',revealSectionHeadings:false,forceSameHeightNestedCustomModules:false,newWindowLinkText:'Apre una nuova finestra',externalLinkText:'Collegamento esterno',expandSubmenuText:'Espandi sotto menu',hideSubmenuText:'Nascondi sotto menu',defaultFontSize:100,topMenuFloating:true,sideMenuFloating:true,enableSocialButtonsExpandable:false};zf.self.layoutMode='default-layout';zf.self.graphicMode='default-graphic-mode';zf.self.layoutWidthMode='full';zf.self.customLayoutWidth='inherit';zf.self.currentFontSize=100;zf.helpers.isClientMobile=false;zf.helpers.isClientTablet=false;zf.helpers.isClientPortable=false;zf.helpers.isClientDesktop=true;zf.helpers.isClientFirstTimeVisit=true;zf.helpers.isClientFirstPageVisit=true;}());/*]]>*/</script><script type="text/javascript" src="http://www.cpiacs.it/templates/zhong/zf/assets/js/min/scripts.min.js?zf-v=3.5.0"></script><script type="text/javascript" src="http://www.cpiacs.it/templates/zhong/zf/custom/overrides/assets/js/overrides.js?zf-v=3.5.0"></script><script type="text/javascript">/*<![CDATA[*/window.zhongFramework.components.welcomeMessagePopover={show: function(){jQuery(document.getElementById('zf--accessibility-options-toolbox-button-shell')).append(jQuery(document.getElementById('zf--welcome-message-popover--template')).html());jQuery(document.getElementById('zf--welcome-message-popover')).fadeOut(0).delay(600).css('margin-top','60px').fadeIn(1000).animate({'margin-top':'0px'},{queue:false, duration:1800});setTimeout(function(){jQuery(document.getElementById('zf--accessibility-options-toolbox-button')).addClass('zf--highlighted').on('focus', zhongFramework.components.welcomeMessagePopover.hide);},600);jQuery(document.getElementById('zf--welcome-message-popover--close-btn')).click(function(){zhongFramework.components.welcomeMessagePopover.hide();return false;});},hide: function(){var el = document.getElementById('zf--welcome-message-popover');var fadeOutTime = '400';if( !el ){ return; }jQuery(el).fadeOut(fadeOutTime,function(){jQuery(this).remove();});jQuery(document.getElementById('zf--accessibility-options-toolbox-button')).removeClass('zf--highlighted').off('focus', zhongFramework.components.welcomeMessagePopover.hide);}};zhongFramework.cache.$window.load(function(){setTimeout(zhongFramework.actions.showAlertsPanel,1000);});/*]]>*/</script>
+<!-- eorisis: Google Analytics (Classic Asynchronous) -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-37309701-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<!-- /eorisis: Google Analytics (Classic Asynchronous) -->
+
+</body></html>

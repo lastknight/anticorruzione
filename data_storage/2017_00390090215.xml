@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Provincia Autonoma di Bolzano - Pubblicazione legge 190</titolo>
+    <abstract>Indice Provincia Autonoma di Bolzano - Pubblicazione legge 190; anno rif. 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-12</dataPubblicazioneIndice>
+    <entePubblicatore>Provincia Autonoma di Bolzano</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-03-07</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/it/downloads/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016_1">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_2">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_3">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_4">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-4.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_5">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-5.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_6">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-6.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_7">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-7.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_8">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-8.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2016_9">
+      <linkDataset>http://www.provincia.bz.it/it/downloads/esiti_2016_20170307-9.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-07</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

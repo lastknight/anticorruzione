@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>II CIRCOLO DIDATTICO ALDO MORO GUBBIO</titolo>
+    <abstract>SCUOLA STATALE</abstract>
+    <dataPubbicazioneDataset>2017-02-17</dataPubbicazioneDataset>
+    <entePubblicatore>II CIRCOLO DIDATTICO - "ALDO MORO" - GUBBIO</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-02-17</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SE3357/2016/gare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZDD1936983</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>83002390546</codiceFiscaleProp>
+        <denominazione>II CIRCOLO DIDATTICO - "ALDO MORO" - GUBBIO</denominazione>
+      </strutturaProponente>
+      <oggetto>Impegno riferito a fattura n° 1029 ditta FIDOKA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01900720432</codiceFiscale>
+          <ragioneSociale>FIDOKA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01900720432</codiceFiscale>
+          <ragioneSociale>FIDOKA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12307.38</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-30</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

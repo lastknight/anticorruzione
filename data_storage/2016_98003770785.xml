@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2016-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Consorzio Vallecrati</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2016-01-26</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2015</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/88/datasets/dataset_2015.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>X7F167661F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO TUBAZIONI DISCARICA CONSORTILE LOC. VETRANO - SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02261700781</codiceFiscale>
+					<ragioneSociale>ZICARELLI INDUSTRIALE E COMMERCIALE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02261700781</codiceFiscale>
+					<ragioneSociale>ZICARELLI INDUSTRIALE E COMMERCIALE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>706.44</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-30</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>706.44</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6082903A58</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>PROGETTAZIONE PRELIMINARE, DEFINITIVA  ED ESECUTIVA PER L&apos;ADEGUAMENTO TECNOLOGICO E FUNZIONALE E GESTIONE TECNICA ED OPERATIVA DEL SISTEMA DI DEPURAZIONE DEI COMUNI DELL&apos;AGGLOMERATO &quot;COSENZA-RENDE&quot; </oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>00901001008</codiceFiscale>
+						<ragioneSociale>C.E.B.A.T. S.R.L.</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>09011671006</codiceFiscale>
+						<ragioneSociale>A.T.P. S.R.L.</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>11533421001</codiceFiscale>
+						<ragioneSociale>CONSORZIO ARTEK</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>10925671009</codiceFiscale>
+						<ragioneSociale>CONSORZIO STABILE INFRATECH</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<identificativoFiscaleEstero>B96456553</identificativoFiscaleEstero>
+						<ragioneSociale>DEPURACION DE AGUAS DEL MEDITERRANEO (DAM)</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>07300470635</codiceFiscale>
+						<ragioneSociale>GENERAL CONSTRUCTION S.P.A.</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>01515630836</codiceFiscale>
+						<ragioneSociale>SOCIETA&apos; COOPERATIVA EUROVEGA COSTRUZIONI</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>10712911006</codiceFiscale>
+						<ragioneSociale>CONSORZIO STABILE GRANDI OPERE SCARL</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>10925671009</codiceFiscale>
+						<ragioneSociale>CONSORZIO STABILE INFRATECH</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<identificativoFiscaleEstero>B96456553</identificativoFiscaleEstero>
+						<ragioneSociale>DEPURACION DE AGUAS DEL MEDITERRANEO (DAM)</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>07300470635</codiceFiscale>
+						<ragioneSociale>GENERAL CONSTRUCTION S.P.A.</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>27978989.70</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-01</dataInizio>
+				<dataUltimazione>2018-09-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6177817FD9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>PROCEDURA NEGOZIATA PER LE ATTIVITA&apos; DI GUARDIANIA SORVEGLIANZA E MANUTENZIONE APPARECCHIATURE DISCARICA CONSORTILE LOC. VETRANO - SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00507260784</codiceFiscale>
+					<ragioneSociale>DITTA LOPEZ GIUSEPPE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00507260784</codiceFiscale>
+					<ragioneSociale>DITTA LOPEZ GIUSEPPE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>31000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-04-03</dataInizio>
+				<dataUltimazione>2016-04-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6142632448</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>PROCEDURA NEGOZIATA PER LE ATTIVITA&apos; DI PRELIEVO, TRASPORTO E SMALTIMENTO DEL PERCOLATO PRESSO LA DISCARICA CONSORTILE DI LOC. VETRANO -SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02794480786</codiceFiscale>
+					<ragioneSociale>ECOLOGICA SUD SERVIZI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02794480786</codiceFiscale>
+					<ragioneSociale>ECOLOGICA SUD SERVIZI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>162750.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-03-31</dataInizio>
+				<dataUltimazione>2015-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>138199.11</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X311676E83</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione ed assistenza informatica al servizio protocollo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00491890786</codiceFiscale>
+					<ragioneSociale>BIT SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00491890786</codiceFiscale>
+					<ragioneSociale>BIT SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X091676E84</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>NOMINA SUPPORTO RUP</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BRTRRM54P07D086C</codiceFiscale>
+					<ragioneSociale>Ing. Arturo Bartucci</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BRTRRM54P07D086C</codiceFiscale>
+					<ragioneSociale>Ing. Arturo Bartucci</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-08</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XDC1676E84</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>NOMINA COMPONENTI COMISSIONE DI GARA - BANDO DFI GARA DELIBER CIPE N. 60/012</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>GRORCR71D14G999S</codiceFiscale>
+					<ragioneSociale>PROF. RICCARDO GORI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>GRORCR71D14G999S</codiceFiscale>
+					<ragioneSociale>PROF. RICCARDO GORI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-04-30</dataInizio>
+				<dataUltimazione>2015-07-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XB41676E86</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>NOMINA COMPONENTI COMMISSIONE DI GARA - BANDO DELIBERA CIPE N. 60/2012</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04147250874</codiceFiscale>
+					<ragioneSociale>PROF. FEDERICO VAGLIASINDI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04147250874</codiceFiscale>
+					<ragioneSociale>PROF. FEDERICO VAGLIASINDI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-04-30</dataInizio>
+				<dataUltimazione>2015-07-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X8C1676E87</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>NOMINA COMPONENTI COMMISSIONE DI GARA - BANDO DELIBERA CIPE N. 60/2012</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>98003770785</codiceFiscale>
+					<ragioneSociale>ING. ANTONIO CITTERIO - MWH SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>98003770785</codiceFiscale>
+					<ragioneSociale>ING. ANTONIO CITTERIO - MWH SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-04-30</dataInizio>
+				<dataUltimazione>2015-07-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X641676E88</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>NOMINA COMPONENTI COMMISSIONE DI GARA - BANDO DELIBERA CIPE N. 60/2012</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>98003770785</codiceFiscale>
+					<ragioneSociale>AVV. FRANCESCO LILLI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>98003770785</codiceFiscale>
+					<ragioneSociale>AVV. FRANCESCO LILLI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-04-30</dataInizio>
+				<dataUltimazione>2015-07-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X3C1676E89</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>NOMINA REFERENTE PER IL MONITORAGGIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>GNTNNL62P14G224I</codiceFiscale>
+					<ragioneSociale>DOTT. ANTONELLO GENTILE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>GNTNNL62P14G224I</codiceFiscale>
+					<ragioneSociale>DOTT. ANTONELLO GENTILE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-24</dataInizio>
+				<dataUltimazione>2018-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X141676E8A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI TESORERIA E SPESE PER BOLLI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05852011005</codiceFiscale>
+					<ragioneSociale>BANCA DI SVILUPPO SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05852011005</codiceFiscale>
+					<ragioneSociale>BANCA DI SVILUPPO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2016-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XE71676E8B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSISTENZA E MANUTENZIONE ATTREZZATURE UFFICI CONSORTILI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02847860786</codiceFiscale>
+					<ragioneSociale>OFFICE COPIER SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02847860786</codiceFiscale>
+					<ragioneSociale>OFFICE COPIER SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XBF1676E8C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSISTENZA E FORNITURA PROCEDURA DI CONTABILITA&apos; </oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00491890786</codiceFiscale>
+					<ragioneSociale>BIT SRL - INFORMATICA COMPUTERS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00491890786</codiceFiscale>
+					<ragioneSociale>BIT SRL - INFORMATICA COMPUTERS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2135.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XF7167661C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>D.P.C.M. del 03/12/2013. Aggiornamento protocollo informatico - Conservazione atti.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02066400405</codiceFiscale>
+					<ragioneSociale>Ditta Pro.s.e.l. Gruppo Maggioli </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02066400405</codiceFiscale>
+					<ragioneSociale>Ditta Pro.s.e.l. Gruppo Maggioli </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>390.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-09</dataInizio>
+				<dataUltimazione>2016-10-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>390.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XCF167661D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTI MATERIALE EDILE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01352860785</codiceFiscale>
+					<ragioneSociale>GRONTEK SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01352860785</codiceFiscale>
+					<ragioneSociale>GRONTEK SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-12</dataInizio>
+				<dataUltimazione>2016-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>XA7167661E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE IMPIANTI DISCARICA CONSORTILE LOC- VETRANO SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02957430784</codiceFiscale>
+					<ragioneSociale>DIELLE IMPIANTI SRL UNIPERSONALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02957430784</codiceFiscale>
+					<ragioneSociale>DIELLE IMPIANTI SRL UNIPERSONALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-30</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X571676620</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>ANALISI AMBIENTALI DISCARICA CONSORTILE LOC. VETRANO SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01777530781</codiceFiscale>
+					<ragioneSociale>DELVIT CHIMICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01777530781</codiceFiscale>
+					<ragioneSociale>DELVIT CHIMICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-12</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X2F1676621</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>ANALISI ACQUE DI FALDA DISCARICA CONSORTILE LOC. VETRANO SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01777530781</codiceFiscale>
+					<ragioneSociale>DELVIT CHIMICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01777530781</codiceFiscale>
+					<ragioneSociale>DELVIT CHIMICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-15</dataInizio>
+				<dataUltimazione>2016-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>X071676622</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>98003770785</codiceFiscaleProp>
+					<denominazione>Consorzio Vallecrati</denominazione>
+			</strutturaProponente>
+			<oggetto>RILIEVO PLANOALTIMETRICO DISCARICA CONSORTILE LOC. VETRANO SAN GIOVANNI IN FIORE (CS)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01752460780</codiceFiscale>
+					<ragioneSociale>GEOM. FRANCESCO PASQUA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01752460780</codiceFiscale>
+					<ragioneSociale>GEOM. FRANCESCO PASQUA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-24</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

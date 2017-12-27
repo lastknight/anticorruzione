@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+   <titolo>Pubblicazione dati ai sensi dell'art. 1 comma 32 Legge n. 190/2012</titolo>
+   <abstract>Indice procedimenti</abstract>
+   <dataPubblicazioneIndice>2015-01-30</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI MASSAFRA</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-02-01 </dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://www.comunedimassafra.it/avcp/2016/Indice_Massafra2016.xml</urlFile>
+   <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+  <dataset id ="ID_1">
+    <linkDataset>http://www.comunedimassafra.it/avcp/2016/TracciatoDatasetAppalti_Massafra2014.xml</linkDataset>
+    <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_2">
+    <linkDataset>http://www.comunedimassafra.it/avcp/2016/TracciatoDatasetAppalti_Massafra2015.xml</linkDataset>
+    <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+  </dataset>
+  </indice>
+  </indici>

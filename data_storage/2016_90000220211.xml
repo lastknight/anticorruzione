@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comuntà comprensoriale Wipptal</abstract>
+   <dataPubblicazioneIndice>2016-01-30</dataPubblicazioneIndice>
+   <entePubblicatore>Comuntà comprensoriale Wipptal</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-30</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21123/21123indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_5A7032E4-A0D2-4F7C-A7DB-D2A1C6D0333F'>
+      <linkDataset>http://data.gvcc.net/avcp/21123/5A7032E4-A0D2-4F7C-A7DB-D2A1C6D0333F.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_CEF74FA7-2739-4EBB-8F34-717237FEDE6B'>
+      <linkDataset>http://data.gvcc.net/avcp/21123/CEF74FA7-2739-4EBB-8F34-717237FEDE6B.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_6B3AEB42-8F74-4637-BDA0-45DF4696AB63'>
+      <linkDataset>http://data.gvcc.net/avcp/21123/6B3AEB42-8F74-4637-BDA0-45DF4696AB63.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_07B32145-8270-405C-9C1E-E4ECB810BEBE'>
+      <linkDataset>http://data.gvcc.net/avcp/21123/07B32145-8270-405C-9C1E-E4ECB810BEBE.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

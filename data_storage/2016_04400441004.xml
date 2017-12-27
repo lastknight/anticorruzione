@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n. 2</titolo>
+		<abstract>Pubblicazione relativa all&apos;anno 2015</abstract>
+		<dataPubblicazioneIndice>2015-12-30</dataPubblicazioneIndice>
+		<entePubblicatore>Università degli Studi Roma Tre</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-02-06</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://host.uniroma3.it/progetti/at/190/indicedataset.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+
+
+	
+				<dataset id="ID_9">
+			<linkDataset>http://host.uniroma3.it/progetti/at/190/AVCP_2015_8.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+		</dataset>
+				<dataset id="ID_10">
+			<linkDataset>http://host.uniroma3.it/progetti/at/190/AVCP_2015_9.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+		</dataset>
+		
+				<dataset id="ID_11">
+			<linkDataset>http://host.uniroma3.it/progetti/at/190/AVCP_2015_10.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+		</dataset>
+					<dataset id="ID_12">
+			<linkDataset>http://host.uniroma3.it/progetti/at/190/AVCP_2015_11.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-02-15</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

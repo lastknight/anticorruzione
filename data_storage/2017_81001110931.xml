@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2017-02-20 09:55:04</abstract>
+		<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Tramonti di Sotto</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile><![CDATA[http://www.comune.tramonti-di-sotto.pn.it/fileadmin/user_tramontidisotto/indice_093046_avcp_dataset_2016.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://www.comune.tramonti-di-sotto.pn.it/fileadmin/user_tramontidisotto/093046_avcp_dataset_2012.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset><![CDATA[http://www.comune.tramonti-di-sotto.pn.it/fileadmin/user_tramontidisotto/093046_avcp_dataset_2013.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_3'>
+			<linkDataset><![CDATA[http://www.comune.tramonti-di-sotto.pn.it/fileadmin/user_tramontidisotto/093046_avcp_dataset_2014.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_4'>
+			<linkDataset><![CDATA[http://www.comune.tramonti-di-sotto.pn.it/fileadmin/user_tramontidisotto/093046_avcp_dataset_2015.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_5'>
+			<linkDataset><![CDATA[http://www.comune.tramonti-di-sotto.pn.it/fileadmin/user_tramontidisotto/093046_avcp_dataset_2016.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

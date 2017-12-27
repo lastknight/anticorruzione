@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Indice pubblicazione 1</titolo>
+        <abstract>Pubblicazione relativa all'anno 2016</abstract>
+        <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+        <entePubblicatore>Comunità Montana Parco Alto Garda</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.cm-parcoaltogarda.bs.it/legge190/legge190_cm-parcoaltogarda_2016_indice_data_set_20160131.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.cm-parcoaltogarda.bs.it/legge190/legge190_cm-parcoaltogarda_data_set_2013_20160131.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.cm-parcoaltogarda.bs.it/legge190/legge190_cm-parcoaltogarda_data_set_2014_20160131.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://www.cm-parcoaltogarda.bs.it/legge190/legge190_cm-parcoaltogarda_data_set_2015_20160131.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

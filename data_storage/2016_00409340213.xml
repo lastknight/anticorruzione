@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Perca</abstract>
+   <dataPubblicazioneIndice>2016-01-21</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Perca</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-21</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21063/21063indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_4A68C050-F334-47E1-BBC8-518F5FBB7629'>
+      <linkDataset>http://data.gvcc.net/avcp/21063/4A68C050-F334-47E1-BBC8-518F5FBB7629.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_BF5E9B01-498B-49A3-8B4C-D0A2997EA905'>
+      <linkDataset>http://data.gvcc.net/avcp/21063/BF5E9B01-498B-49A3-8B4C-D0A2997EA905.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_510B532E-224C-4E2F-BD52-CA56F0946B49'>
+      <linkDataset>http://data.gvcc.net/avcp/21063/510B532E-224C-4E2F-BD52-CA56F0946B49.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

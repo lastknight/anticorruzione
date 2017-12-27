@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <titolo>Pubblicazione legge 190</titolo>
+        <abstract>Pubblicazione legge 190</abstract>
+        <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+        <entePubblicatore>ACQUE VERONESI S.C.A.R.L.</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.acqueveronesi.it/PBMOL/PUB_AVCP/dataset.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.acqueveronesi.it/PBMOL/PUB_AVCP/dataset_1.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2">
+            <linkDataset>http://www.acqueveronesi.it/PBMOL/PUB_AVCP/dataset_2.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_3">
+            <linkDataset>http://www.acqueveronesi.it/PBMOL/PUB_AVCP/dataset_3.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

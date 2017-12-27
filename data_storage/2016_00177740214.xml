@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Comune di Moso in Passiria</abstract>
+   <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Moso in Passiria</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21054/21054indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_D43E646B-617F-4EDE-B081-540BE9056658'>
+      <linkDataset>http://data.gvcc.net/avcp/21054/D43E646B-617F-4EDE-B081-540BE9056658.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_0E7E223E-192C-4558-858F-A9E303BBCB1B'>
+      <linkDataset>http://data.gvcc.net/avcp/21054/0E7E223E-192C-4558-858F-A9E303BBCB1B.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_3B4A08AA-EE63-49CF-B8D1-DA6500829542'>
+      <linkDataset>http://data.gvcc.net/avcp/21054/3B4A08AA-EE63-49CF-B8D1-DA6500829542.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_D273ED1B-224E-4CC2-9541-5695FD60DC1A'>
+      <linkDataset>http://data.gvcc.net/avcp/21054/D273ED1B-224E-4CC2-9541-5695FD60DC1A.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+		<html lang="it">
+		<head>
+		    <title>Argo - Amministrazione Trasparente</title>
+
+		    <!-- Bootstrap core CSS -->
+		    <link href="http://192.168.0.147/ammtr/bower_components/bootstrap3-wysihtml5/dist/bootstrap-wysihtml5-0.0.2.css" rel="stylesheet">
+		    <link href="http://192.168.0.147/ammtr/css/bootstrap.css" rel="stylesheet">
+		    <link href="http://192.168.0.147/ammtr/css/bootstrap-modal-bs3patch.css" rel="stylesheet">
+		    <link href="http://192.168.0.147/ammtr/css/bootstrap-modal.css" rel="stylesheet">
+		    
+		</head >
+		<body >
+		<br><br><br>
+		<center>
+		 <div class="row">
+		  <div   class="panel panel-default" style="width:600px">
+				        <div class="panel-heading">
+				          <span style="color:#83C171;font-size:16px" class="panel-title pull-left"><span class="glyphicon glyphicon-hdd"></span>&nbsp;&nbsp;AMMINISTRAZIONE TRASPARENTE - ARCHIVIO DATI</span> 
+
+						<div class="pull-right">				
+						&nbsp;
+				            	</div>
+				                <br>
+				               <div class="pull-right">				
+						&nbsp;
+				               </div>
+				           
+				        </div>
+				        <div class="panel-body">
+						<div>  
+					   		<h5><span style="color:red">Spiacenti</span><br><br>Spiacenti, per le informazioni e i documenti richiesti è scaduto il periodo di pubblicazione.</h5> 
+
+						</div>
+				 
+					</div>
+		</div>
+		</center>
+		</body>
+		</html>

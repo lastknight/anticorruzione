@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+	<titolo>Indice pubblicazioni</titolo>
+	<abstract>Pubblicazione relativa all’anno 2016</abstract>
+	<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+	<entePubblicatore>S.I.TO SPA - SOCIETA INTERPORTO DI TORINO</entePubblicatore>
+	<dataUltimoAggiornamentoIndice>2016-12-31</dataUltimoAggiornamentoIndice>
+	<annoRiferimento>2016</annoRiferimento>
+	<urlFile>http://allegati.interportotorino.it/2016/indice-2016.xml</urlFile>
+	<licenza>IODL</licenza>
+</metadata>
+<indice>
+	<dataset id="ID_1">
+		<linkDataset>http://allegati.interportotorino.it/2016/dataset-2016.xml</linkDataset>
+		<dataUltimoAggiornamento>2016-12-31</dataUltimoAggiornamento>
+	</dataset>
+</indice>
+</indici>

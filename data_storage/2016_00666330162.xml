@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione legge 190</titolo>
+		<abstract>Indice pubblicazione legge 190</abstract>
+		<dataPubblicazioneIndice>2017-05-23</dataPubblicazioneIndice>
+		<entePubblicatore>COMUNE DI VALGOGLIO</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-05-23</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2017</annoRiferimento>
+		<urlFile>http://www.studiok.it/comuni/valgoglio/avcp/datasetIndiceAppalti.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.studiok.it/comuni/valgoglio/avcp/DATASETAPPALTI_2012.XML</linkDataset>
+			<dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.studiok.it/comuni/valgoglio/avcp/DATASETAPPALTI_2013.XML</linkDataset>
+			<dataUltimoAggiornamento>2017-05-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.studiok.it/comuni/valgoglio/avcp/DATASETAPPALTI_2014.XML</linkDataset>
+			<dataUltimoAggiornamento>2017-05-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.studiok.it/comuni/valgoglio/avcp/DATASETAPPALTI_2015.XML</linkDataset>
+			<dataUltimoAggiornamento>2017-05-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_5">
+			<linkDataset>http://www.studiok.it/comuni/valgoglio/avcp/DATASETAPPALTI_2016.XML</linkDataset>
+			<dataUltimoAggiornamento>2017-05-23</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_6">
+			<linkDataset>http://www.studiok.it/comuni/valgoglio/avcp/DATASETAPPALTI_2017.XML</linkDataset>
+			<dataUltimoAggiornamento>2017-05-23</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

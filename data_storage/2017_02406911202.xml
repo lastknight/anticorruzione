@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+  <titolo>Indice pubblicazione n°1</titolo>
+  <abstract>Pubblicazione relativa all'anno 2016</abstract>
+  <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+  <entePubblicatore>Azienda USL di Bologna</entePubblicatore>
+  <dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+  <annoRiferimento>2016</annoRiferimento>
+  <urlFile>http://www.ausl.bologna.it/per-le-imprese/informazioni-pubblicate-ai-sensi-dellarticolo-1/avcp-legge-190/denuncia-2016/datasetIndiceAppaltiL190.xml</urlFile>
+  <licenza>IODL</licenza>
+ </metadata>
+ <indice>
+  <dataset id="ID_1">
+   <linkDataset>http://www.ausl.bologna.it/per-le-imprese/informazioni-pubblicate-ai-sensi-dellarticolo-1/avcp-legge-190/denuncia-2016/GareContrattiAppaltiEconomie_2016.xml</linkDataset>
+   <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id="ID_2">
+   <linkDataset>http://www.ausl.bologna.it/per-le-imprese/informazioni-pubblicate-ai-sensi-dellarticolo-1/avcp-legge-190/denuncia-2016/GareContrattiAppaltiEconomie_2015_aggiornamento.xml</linkDataset>
+   <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id="ID_3">
+   <linkDataset>http://www.ausl.bologna.it/per-le-imprese/informazioni-pubblicate-ai-sensi-dellarticolo-1/avcp-legge-190/denuncia-2016/GareContrattiAppaltiEconomie_2014_aggiornamento.xml</linkDataset>
+   <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id="ID_4">
+   <linkDataset>http://www.ausl.bologna.it/per-le-imprese/informazioni-pubblicate-ai-sensi-dellarticolo-1/avcp-legge-190/denuncia-2016/GareContrattiAppaltiEconomie_2013_aggiornamento.xml</linkDataset>
+   <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+  </dataset>  
+ </indice>
+</indici>
+

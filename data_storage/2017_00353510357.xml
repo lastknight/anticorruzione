@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+    <dataPubbicazioneDataset>2017-01-12</dataPubbicazioneDataset>
+    <entePubblicatore>Azienda Consorziale Trasporti - ACT</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-01-12</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.actre.it/Peravcp/ACT2016b.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>ZB51A34A8A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00353510357</codiceFiscaleProp>
+        <denominazione>Azienda Consorziale Trasporti - ACT di Reggio Emilia</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine per service elaborazione dati amministrativo-contabili anno 2016.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01808020356</codiceFiscale>
+          <ragioneSociale>Trasporti Integrati e Logistica S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01808020356</codiceFiscale>
+          <ragioneSociale>Trasporti Integrati e Logistica S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0314BA1A3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>00353510357</codiceFiscaleProp>
+        <denominazione>Azienda Consorziale Trasporti - ACT di Reggio Emilia</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine per servizio di gestione e di elaborazione retribuzioni 2015-2016.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05026960962</codiceFiscale>
+          <ragioneSociale>INAZ S.r.l. Società Unipersonale</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05026960962</codiceFiscale>
+          <ragioneSociale>INAZ S.r.l. Società Unipersonale</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2380.49</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

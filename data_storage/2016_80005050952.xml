@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012 anno 2015</titolo>
+    <abstract>Procedure di scelta 2015</abstract>
+    <dataPubblicazioneIndice>2016-01-25</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Comprensivo Simaxis - Villaurbana</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://icsimaxis-villaurbana.it/avcp/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://icsimaxis-villaurbana.it/avcp/avcp_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201580030390951">
+      <linkDataset>http://icsimaxis-villaurbana.it/avcp/avcp_2015_80030390951.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

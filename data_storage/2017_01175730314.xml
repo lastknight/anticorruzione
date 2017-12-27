@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2017-02-20 11:26:16</abstract>
+		<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Ente Regionale per il PAtrimonio Culturale della Regione Friuli Venezia Giulia - ERPAC</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile><![CDATA[http://erpac.regione.fvg.it/fileadmin/user_erpac/AVCP_XML/indice_A00385_avcp_dataset_2016.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://erpac.regione.fvg.it/fileadmin/user_erpac/AVCP_XML/A00385_avcp_dataset_2016.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

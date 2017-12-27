@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente COMUNE DI NOVA PONENTE</abstract>
+   <dataPubblicazioneIndice>2017-01-10</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI NOVA PONENTE</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-10</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21059/21059indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_35A84291-F4C4-4710-8FAF-58E02D456539'>
+      <linkDataset>http://data.gvcc.net/avcp/21059/35A84291-F4C4-4710-8FAF-58E02D456539.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-10</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_D512C7D3-BCCE-41DE-BE62-AA47245620EF'>
+      <linkDataset>http://data.gvcc.net/avcp/21059/D512C7D3-BCCE-41DE-BE62-AA47245620EF.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-10</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

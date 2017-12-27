@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione dei dati legge 190</titolo>
+    <abstract>Pubblicazione dei dati legge 190 - anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-27</dataPubblicazioneIndice>
+    <entePubblicatore>Università degli Studi di Pavia</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www-5.unipv.it/avcp/indice2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00001.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00002.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00003.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00004.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00005.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00006.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00007.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_8">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00008.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_9">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00009.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_10">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00010.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_11">
+      <linkDataset>http://www-5.unipv.it/avcp/2016/dataset_2016_00011_webunipv.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

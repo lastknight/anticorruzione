@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione L 190 del 2012</titolo>
+    <abstract>Pubblicazione L 190 del 2012</abstract>
+    <dataPubblicazioneIndice>2016-01-25</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO STATALE D'ISTRUZIONE SUPERIORE GIOVANNI PAOLO II</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-16</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2017</annoRiferimento>
+    <urlFile>http://www.isismaratea.gov.it/comunicazioni_AVCP/indice3.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2012">
+      <linkDataset>http://www.isismaratea.gov.it/comunicazioni_AVCP/2012.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2013">
+      <linkDataset>http://www.isismaratea.gov.it/comunicazioni_AVCP/2013.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2014">
+      <linkDataset>http://www.isismaratea.gov.it/comunicazioni_AVCP/2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2015">
+      <linkDataset>http://www.isismaratea.gov.it/comunicazioni_AVCP/2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID2016">
+      <linkDataset>http://www.isismaratea.gov.it/comunicazioni_AVCP/2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

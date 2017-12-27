@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="it" class="home">
+<head>
+
+  <meta charset="utf-8">
+
+<link rel="shortcut icon" href="favicon.ico" type="image/png; charset=binary">
+<link rel="icon" href="favicon.ico" type="image/png; charset=binary">
+<title>Automobile Club Firenze  </title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" type="text/css" href="squelettes/_src/css/ac.css" media="all">
+<link rel="stylesheet" type="text/css" href="squelettes/_src/css/responsive.css" media="all">
+
+<link rel="stylesheet" href="squelettes/_src/plg/nivoslider/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="squelettes/_src/plg/nivoslider/nivo-slider.css" type="text/css" media="screen" />
+<script type="text/javascript" src="squelettes/_src/jquery/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="squelettes/_src/plg/nivoslider/jquery.nivo.slider.js"></script>
+
+<link rel="stylesheet" href="squelettes/_src/plg/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="squelettes/_src/plg/fancybox/jquery.fancybox.pack.js"></script>
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<body>
+
+<!--/header-->
+
+  <div class="header"><div class="cx row">
+  
+    <div class="col-xs-9"><div class="fc"><div class="fl">
+  
+        <a href="http://www.firenze.aci.it" title="Torna alla Home Page"><h1 class="ir logo">Automobile Club Firenze</h1></a>
+  
+    </div></div></div>
+  
+    <div class="col-xs-3"><div class="pr fc"><div class="fr">
+  
+    <a href="http://www.aci.it" title="Vai al sito dell'Automobile Club Italia"><h2 class="ir logo-aci">Automobile Club d'Italia</h2></a>
+      <div class="pa menu area-soci">
+   
+      </div><!--/area-soci-->
+  
+    </div></div></div>
+    
+</div></div><!--/header-->
+
+<!-- INFORMATIVA SUI COCKIES INIZIO -->
+ 
+<p>
+<!-- You should make sure that the file cookiechoices.js is available
+and accessible from the root directory of your site.  -->
+
+
+<!-- /spip.php?info_coockies o './spip.php?page=accookieinfo' var IndirizzoPagina = "http://www.example.com" -->
+
+<script src="./cookiechoices.js"></script>
+
+
+<script type="text/javascript">
+ $( document ).ready( function(){
+	cookieChoices.showCookieConsentBar("Informativa ai sensi dell'art. 13 D.LGS. 30 giugno 2003 n.196. Questo sito web utilizza i cookie di sessione ed analytics per migliorare l'esperienza di navigazione. Acconsenti all'uso dei cookie? Per approfondimenti consulta la nostra",
+      'Accetto', 'privacy policy', './spip.php?article4300');
+
+} );
+
+</script>
+
+
+</p>
+
+ <!-- INFORMATIVA SUI COCKIES FINE -->
+<!--/header-->
+
+
+
+<div class="block-menu"><div class="cx">
+
+  <div class="hidden-xs fc rd menu menu-header">
+
+  <!-- ##### menu header -->
+ <ul class="menu-liste menu-items fl ib-l">
+		<li class="menu-entree item">
+		<a href="spip.php?article2">Dove ci trovi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique14">Le delegazioni e i punti ACI</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article33">Contatti</a>
+		 
+			</li>
+		
+		<li class="menu-entree item face">
+		<a href="https://www.facebook.com/AutomobileClubFirenze">Seguici su Facebook</a>
+		 
+			</li>
+		
+		
+	</ul><!-- ##### menu header -->
+
+<!-- ##### form per la ricerca -->
+  <form action="spip.php?page=recherche" method="get" class="visible-md fr form-search">
+   <fieldset>
+	<input name="page" value="recherche" type="hidden"
+/>
+	
+
+	<input type="text" name="recherche" id="formulaire_recherche" class="sht" placeholder="Parola chiave" />
+	<input type="submit"  class="bold submit" value="Cerca" />
+  </fieldset>
+</form><!-- ##### form per la ricerca -->
+  </div><!--/menu-header-->
+
+</div></div><!--/block-menu-->
+
+<div class="big-header"><div class="cx">
+
+<!-- ##### animazione jquery -->
+	
+	 <div class="slider-wrapper theme-default  hidden-xs">
+	<div id="slider" class="nivoSlider">
+	
+		 <a href="spip.php?article6510"><img src="./IMG/arton6510.jpg" /></a>
+	
+		 <a href="spip.php?article7436"><img src="./IMG/arton7436.jpg" /></a>
+	
+		 <a href="spip.php?article7431"><img src="./IMG/arton7431.jpg" /></a>
+	
+		 <a href="spip.php?article4312"><img src="./IMG/arton4312.jpg" /></a>
+	
+		 <a href="spip.php?article7410"><img src="./IMG/arton7410.jpg" /></a>
+	
+		 <a href="spip.php?article7411"><img src="./IMG/arton7411.jpg" /></a>
+	
+		 <a href="spip.php?article4304"><img src="./IMG/arton4304.jpg" /></a>
+	
+		 <a href="spip.php?article4314"><img src="./IMG/arton4314.jpg" /></a>
+	
+	</div>
+<!--
+	
+	<div id="htmlcaption6510" class="nivo-html-caption">
+		<a href="spip.php?article6510">Firenze</a>
+	</div>
+	
+	<div id="htmlcaption7436" class="nivo-html-caption">
+		<a href="spip.php?article7436">Ready2Go</a>
+	</div>
+	
+	<div id="htmlcaption7431" class="nivo-html-caption">
+		<a href="spip.php?article7431">CONVENZIONE TEATRO FLORIDA</a>
+	</div>
+	
+	<div id="htmlcaption4312" class="nivo-html-caption">
+		<a href="spip.php?article4312">ACI FCA: promozione per i Soci</a>
+	</div>
+	
+	<div id="htmlcaption7410" class="nivo-html-caption">
+		<a href="spip.php?article7410">Convenzione ACI - SANICLIC</a>
+	</div>
+	
+	<div id="htmlcaption7411" class="nivo-html-caption">
+		<a href="spip.php?article7411">VINCI EXPERIENCE</a>
+	</div>
+	
+	<div id="htmlcaption4304" class="nivo-html-caption">
+		<a href="spip.php?article4304">Certificato di Proprietà Digitale</a>
+	</div>
+	
+	<div id="htmlcaption4314" class="nivo-html-caption">
+		<a href="spip.php?article4314">ACI Mobile Club</a>
+	</div>
+	
+</div>
+-->	
+<!-- ##### animazione jquery -->
+
+
+</div></div><!--/big-header-->    
+    
+<div class="content"><div class="cx row bg-content">
+
+  <div class="col-sm-3 col-md-3 col-lg-3"><div class="box sidebar">
+
+<!-- ##### MENU SX -->
+
+  <div class="menu menu-sidebar hidden-xs">
+  <h3>L'Automobile Club</h3>
+  <ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?article1">Chi siamo</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article6">La nostra storia</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article3">Organi dell&#8217;Ente</a>
+		 
+			</li>
+		
+		
+	</ul></div><!--/menu-sidebar-->
+
+<div class="menu menu-sidebar hidden-xs">
+  <h3>Attivit&agrave;  dell'AC</h3>
+  <ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?article7">I nostri servizi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique7">Sport automobilistico</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique8">Attualità</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique701">Notizie Flash</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5753">Rivista ViaVai</a>
+		 
+			</li>
+		
+		
+	</ul></div><!--/menu-sidebar-->
+
+<div class="menu menu-sidebar hidden-xs">
+  <h3>Entra nel Club</h3>
+  <ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?article195">Le nostre tessere</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique13">Vita di Club</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article24">Come associarsi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article104">10 buoni motivi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5000">Sconti per i Soci</a>
+		 
+			</li>
+		
+		
+	</ul></div><!--/menu-sidebar-->
+
+<div class="menu menu-sidebar hidden-xs">
+  <h3>Servizi Online</h3>
+  <ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?article26">Newsletter</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique11">Area riservata</a>
+		 
+			</li>
+		
+		
+	</ul></div><!--/menu-sidebar-->
+
+<div class="menu menu-sidebar hidden-xs">
+  <h3>Risorse</h3>
+  <ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?article18">Link utili</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5712">Numeri utili</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique10">Galleria fotografica</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article10">Elenco siti tematici</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5700">Customer Satisfaction</a>
+		 
+			</li>
+		
+		
+	</ul></div><!--/menu-sidebar-->
+
+<!-- menu-mobile -->
+<div class="menu menu-sidebar visible-xs">
+  <ul class="menu-liste menu-items menu-mobile">
+		<li class="menu-entree item">
+		<a href="#">Menù del sito</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article1">Chi siamo</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article6">La nostra storia</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article2">Dove ci trovi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article3">Organi dell&#8217;Ente</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article7">I nostri servizi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique14">Le delegazioni e i punti ACI</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article33">Contatti</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique13">Vita di Club</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique8">Attualità</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique701">Notizie Flash</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique700">Manifestazioni sportive</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article195">Le nostre tessere</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5000">Sconti per i Soci</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article24">Come associarsi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article104">10 buoni motivi</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article16">Dall&#8217;ACI</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article18">Link utili</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article10">Elenco siti tematici</a>
+		 
+			</li>
+		
+		
+	</ul></div><!--/menu-mobile-->
+
+<div class="rdt box-newsletter hidden-xs">
+  <div class="fc">
+    <span class="ir logo-small fr"></span>
+    <h3>Newsletter</h3>
+    <p><a href="http://newsletter.firenze.aci.it/lists/?p=subscribe">Iscriviti alla newsletter per essere sempre aggiornato sulle iniziative dell'AC Firenze.</a></p>
+  </div>
+</div>
+<!-- ##### FINE MENU SX -->
+
+<br style="clear:both;">
+
+<!-- ##### BANNER SX -->
+
+  <!-- <div class="hidden-xs">
+
+	<a href="http://www.firenze.aci.it/spip.php?article4317"><img src="./IMG/arton5771.jpg" alt="Bollo Sicuro" /></a>	<br />                      
+		 <br /><br />
+
+
+	<a href="https://www.maggiore.it/"><img src="./IMG/arton4318.gif" alt="Maggiore" /></a>	<br />                      
+		 <br /><br />
+
+
+	<a href="http://www.sara.it/sito/index.php"><img src="./IMG/arton4316.gif" alt="Sara Assicurazioni" /></a>	<br />                      
+		 <br /><br />
+
+
+</div>
+
+-->
+<!-- ##### FINE BANNER SX -->
+ 
+  </div></div><!--/sidebar-->
+
+  <div class="col-sm-9 col-md-9 col-lg-9"><div class="section section-home">
+
+    <div class="row">
+
+
+      <div class="col-sm-12 col-md-6 col-lg-6"><div class="box">
+
+<!-- ##### BOX SX NEWS SOCI -->
+
+  <div class="box-title box-title-dark">
+          <h3 class="title-notizie-soci">Vita di Club</h3>
+        </div><!--/box-title-->
+
+        <div class="bg-sfuma item-list">
+
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH159/arton7706-af885.jpg" width='100' height='159' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 18.12.2017</p>
+              <h4><a href="spip.php?article7706" title="Leggi la notizia">La trottola e il robot</a></h4>
+              <p> Pontedera Palazzo Pretorio dal 11 novembre 2017 al 22 aprile 2018. Sconti per i Soci ACI... <a href="spip.php?article7706" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH96/arton7704-b4cbf.jpg" width='100' height='96' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 07.12.2017</p>
+              <h4><a href="spip.php?article7704" title="Leggi la notizia">Multipass 2017/2018</a></h4>
+              <p> Lo ski pass dei Soci ACI in Toscana... <a href="spip.php?article7704" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH134/arton7443-fb7b7.jpg" width='100' height='134' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 24.11.2017</p>
+              <h4><a href="spip.php?article7443" title="Leggi la notizia">Ogni casa è un grande libro</a></h4>
+              <p> Storia delle storie di Palazzo Davanzati &#8211; Viaggio Teatrale 19 gennaio 2018... <a href="spip.php?article7443" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+      
+        </div><!--/item-list-->
+
+
+        <p class="tr goto"><a href="spip.php?rubrique13" title="Vai alla sezione Vita di Club">Vai alla sezione »</a>
+<!-- ##### FINE BOX SX NEWS SOCI -->
+
+
+      </div></div>
+
+
+
+      <div class="col-sm-12 col-md-6 col-lg-6"><div class="box">
+
+<!-- ##### INIZIO BOX dX NEWS ED EVENTI -->
+
+  <div class="box-title box-title-dark">
+          <h3 class="title-notizie-eventi">Attualità</h3>
+        </div><!--/box-title-->
+
+        <div class="bg-sfuma item-list">
+
+		
+
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH142/arton7705-b3fae.jpg" width='100' height='142' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data">14.12.2017</p>
+              <h4><a href="spip.php?article7705" title="Leggi la notizia">Il Granducato di Toscana</a></h4>
+              <p>Tra illuminismo leopoldino e occupazioni napoleoniche e murattiane 1765 &#8211; 1815 <a href="spip.php?article7705" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+
+		
+
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH62/arton7427-29958.jpg" width='100' height='62' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data">30.11.2017</p>
+              <h4><a href="spip.php?article7427" title="Leggi la notizia">ACI Babà e i 40 pedoni</a></h4>
+              <p>La fiaba diventa educazione stradale... <a href="spip.php?article7427" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+
+		
+
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH80/arton7701-ecde7.jpg" width='100' height='80' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data">27.11.2017</p>
+              <h4><a href="spip.php?article7701" title="Leggi la notizia">9^ Giornata della Trasparenza</a></h4>
+              <p>La Federazione ACI ha scelto di dedicare la Giornata della Trasparenza 2017 alla nuova tipologia di accesso introdotta&nbsp;(...) <a href="spip.php?article7701" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+
+		
+      
+        </div><!--/item-list-->
+
+        <p class="tr goto"><a href="spip.php?rubrique8" title="Vai alla sezione Attualità">Vai alla sezione »</a>
+<!-- ##### FINE BOX DX NEWS ED EVENTI -->
+
+      </div></div><!--/box-home-->
+
+
+
+    </div><!--/row-->
+
+    <div class="row">
+
+      <div class="col-sm-12 col-md-6 col-lg-6"><div class="box">
+
+     <!-- ##### INIZIO BOX SX RISORSE/ MANIFESTAZIONI SPORTIVE -->
+
+  <div class="box-title box-title-dark">
+          <h3 class="title-notizie-soci">Manifestazioni sportive</h3>
+        </div><!--/box-title-->
+
+        <div class="bg-sfuma item-list">
+
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH50/arton7703-76288.jpg" width='100' height='50' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 06.12.2017</p>
+              <h4><a href="spip.php?article7703" title="Leggi la notizia">Bergamo-Praga</a></h4>
+              <p> Tour automobilistico alla scoperta della mitteleuropa dal 5 al 9 giugno 2018... <a href="spip.php?article7703" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH80/arton5749-e44fa.jpg" width='100' height='80' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 05.12.2017</p>
+              <h4><a href="spip.php?article5749" title="Leggi la notizia">Giglio da Corsa</a></h4>
+              <p> Classifiche aggiornate campionato Giglio da corsa... <a href="spip.php?article5749" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH67/arton7439-81a13.jpg" width='100' height='67' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 21.11.2017</p>
+              <h4><a href="spip.php?article7439" title="Leggi la notizia">Rally della fettunta</a></h4>
+              <p> Comunicato stampa n. 3 <a href="spip.php?article7439" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+      
+        </div><!--/item-list-->
+
+
+        <p class="tr goto"><a href="spip.php?rubrique700" title="Vai alla sezione Manifestazioni sportive">Vai alla sezione »</a>
+<!-- ##### FINE BOX SX RISORSE/ MANIFESTAZIONI SPORTIVE--> 
+
+    
+
+      </div></div><!--/box-home-->
+
+      <div class="col-sm-12 col-md-6 col-lg-6"><div class="box">
+
+<!-- ##### INIZIO BOX DX UTILITA' -->
+
+  <div class="box-title box-title-dark">
+          <h3 class="title-notizie-soci">Notizie Flash</h3>
+        </div><!--/box-title-->
+
+        <div class="bg-sfuma item-list">
+
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH98/arton7702-d5dff.jpg" width='100' height='98' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 30.11.2017</p>
+              <h4><a href="spip.php?article7702" title="Leggi la notizia">Lubrificanti per auto d&#8217;epoca</a></h4>
+              <p> Linea lubrificanti Agip Novecento &#8211; Sconto per i soci Club ACI Storico... <a href="spip.php?article7702" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH100/arton5734-f5e7c.jpg" width='100' height='100' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 07.11.2017</p>
+              <h4><a href="spip.php?article5734" title="Leggi la notizia">CD-ROM Costi chilometrici</a></h4>
+              <p> E&#8217; in corso di stampa il cd-rom costi chilometrici 1^ edizione 2017 (costi analitici d&#8217;esercizio dei più diffusi&nbsp;(...) <a href="spip.php?article5734" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+          <div class="fc item">
+            <div class="fl rd img">
+              <img class='spip_logos' alt="" src="local/cache-vignettes/L100xH80/arton5737-9c7fe.jpg" width='100' height='80' />
+            </div><!--/img-->
+            <div class="oa txt">
+              <p class="data"> 23.10.2017</p>
+              <h4><a href="spip.php?article5737" title="Leggi la notizia">Corso recupero punti</a></h4>
+              <p> Ultimo giorno utile per l&#8217;iscrizione venerdì 10 novembre 2017 ore 13:00 <a href="spip.php?article5737" title="Leggi la notizia">Continua »</a></p>
+            </div><!--/txt-->
+          </div><!--/item-->
+        
+		
+      
+        </div><!--/item-list-->
+
+
+        <p class="tr goto"><a href="spip.php?rubrique701" title="Vai alla sezione Notizie Flash">Vai alla sezione »</a>
+<!-- ##### FINE BOX DX UTILITA' -->				
+				
+   
+      </div></div><!--/box-home-->
+
+    </div><!--/row-->
+
+<div class="row">
+
+<!-- ##### BANNER SX -->
+
+  <div style="padding:10px" class="hidden-xs">
+
+	<div class="box-title box-title-dark-banner">
+	 <h3 class="title-notizie-soci">Pubblicità</h3>
+	</div>
+
+	<div style="text-align:center;border:1px solid #ccc;border-top:none">
+	
+		<a href="http://www.firenze.aci.it/spip.php?article4317"><img src="./IMG/arton5771.jpg" alt="Bollo Sicuro" style="margin:20px;" /></a>
+	
+		<a href="https://www.maggiore.it/"><img src="./IMG/arton4318.gif" alt="Maggiore" style="margin:20px;" /></a>
+	
+		<a href="http://www.sara.it/sito/index.php"><img src="./IMG/arton4316.gif" alt="Sara Assicurazioni" style="margin:20px;" /></a>
+	
+	</div>
+
+</div>
+<!-- ##### FINE BANNER SX -->
+
+</div>
+
+  </div></div><!--/section-->
+
+</div></div><!--/content-->
+
+<div class="footer"><div class="cx row gfx-footer">
+
+ <div class="col-sm-12 col-md-6 col-lg-6"><div class="box">
+
+  <!-- ##### DESCRIZIONE SITO -->
+    <h4>Automobile Club Firenze</h4>
+    <p><p>Automobile Club Firenze - Viale Amendola, 36 - 50121 FI - P. IVA: 00442510483</p></p>
+  </div></div><!--/box-footer-->
+
+  <div class="col-sm-6 col-md-3 col-lg-3"><div class="box">
+    <div class="menu menu-footer">
+      <h4>Per la navigazione del sito</h4>
+
+<!-- ##### MENU FOOTER NAVIGAZIONE -->     
+
+<ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?article4300">Privacy Policy</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article153">Accesskey</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article31">Prendi il nostro Feed</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article33">Contatti</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article152">Mappa</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article34">Credits</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5002">Note legali</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5004">URP</a>
+		 
+			</li>
+		
+		
+	</ul><!-- ##### FINE MENU FOOTER NAVIGAZIONE -->
+
+    </div><!--/menu-footer--> 
+  </div></div><!--/box-footer-->
+
+  <div class="col-sm-6 col-md-3 col-lg-3"><div class="box">
+    <div class="menu menu-footer">    
+      <h4>ACI e la Pubblica Amministrazione</h4>
+
+<!-- ##### MENU FOOTER P.A. -->   
+ <ul class="menu-liste menu-items">
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique200">Amministrazione Trasparente</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5743">Profilo del committente</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique199">Anticorruzione &#8211; Legge 190/2012 &#8211; art. 1, comma 32</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique650">Amministrazione trasparente Soc. Servizi ACIPROMUOVE srl</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5003">Pubblicità legale</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?rubrique80">Bandi di gara e contratti</a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article2001">Bandi di concorso </a>
+		 
+			</li>
+		
+		<li class="menu-entree item">
+		<a href="spip.php?article5740">ACIPROMUOVE SRL</a>
+		 
+			</li>
+		
+		
+	</ul><!-- ##### FINE MENU FOOTER P.A. -->   
+   
+
+   
+    </div><!--/menu-footer-->      
+  </div></div><!--/box-footer-->
+
+<script type="text/javascript" src="squelettes/_src/js/mobilemenu.js"></script>
+
+
+
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats-ac.aci.it/" : "http://stats-ac.aci.it/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+<!-- NOM_SITE = id sito di piwik -->
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 200);
+
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats-ac.aci.it/piwik.php?idsite=200" style="border:0" alt="" /></p></noscript>
+
+
+
+
+
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-43030883-49', 'aci.it');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+
+</script>
+</div></div><!--/footer-->
+
+<script type="text/javascript">
+$(window).load(function() {
+  $('#slider').nivoSlider({
+    controlNav: false
+  });
+});
+</script>
+
+</body>
+</html>

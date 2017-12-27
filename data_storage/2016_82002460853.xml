@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>PUBBLICAZIONE CONTRATTI - legge 190 del 2012</titolo>
+    <abstract>PUBBLICAZIONE CONTRATTI - legge 190 del 2012</abstract>
+    <dataPubbicazioneDataset>2016-01-12</dataPubbicazioneDataset>
+    <entePubblicatore>DIREZIONE DIDATTICA STATALE - RIESI</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-12</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SE7613/2015/gare2015.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>X12162398B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>82002460853</codiceFiscaleProp>
+        <denominazione>DIREZIONE DIDATTICA STATALE - RIESI</denominazione>
+      </strutturaProponente>
+      <oggetto>Trasporto degli alunni per visite guidate a Caltagirone e Mineo</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01626900847</codiceFiscale>
+          <ragioneSociale>IBLA TOUR - RAVANUSA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01882580853</codiceFiscale>
+          <ragioneSociale>MONACO TAXI BUS</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02390780845</codiceFiscale>
+          <ragioneSociale>PATTITOUR - FAVARA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01451720856</codiceFiscale>
+          <ragioneSociale>PINTAUDI - GELA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00132290859</codiceFiscale>
+          <ragioneSociale>SOMMATINESE ALINISSA - CALTANISSETTA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01451720856</codiceFiscale>
+          <ragioneSociale>PINTAUDI - GELA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>189.99</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-01-01</dataInizio>
+        <dataUltimazione>2015-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>189.99</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

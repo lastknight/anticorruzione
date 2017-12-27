@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+   <titolo>INDICE AFFIDAMENTI E CONTRATTI</titolo>
+   <abstract>INDICE AFFIDAMENTI</abstract>
+   <dataPubblicazioneIndice>2017-02-20</dataPubblicazioneIndice>
+   <entePubblicatore>COMUNE DI CAGNANO AMITERNO</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://www.comune.cagnanoamiterno.aq.it/trasparenza/indice.xml</urlFile>
+   <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+  <dataset id ="ID_1">
+    <linkDataset>http://www.comune.cagnanoamiterno.aq.it/trasparenza/appalti2016.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_2">
+    <linkDataset>http://www.comune.cagnanoamiterno.aq.it/trasparenza/appalti2014_agg.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+  </dataset>
+  <dataset id ="ID_3">
+    <linkDataset>http://www.comune.cagnanoamiterno.aq.it/trasparenza/appalti2015_agg.xml</linkDataset>
+    <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+  </dataset>
+  </indice>
+  </indici>

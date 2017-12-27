@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Blevio</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://tecuting.halleylombardia.it/c013026/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>Z011088B35</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00565430139</codiceFiscaleProp>
+			<denominazione>COMUNE DI BLEVIO</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER AFFIDAMENTO SERVIZIO REFEZIONE SCOLASTICA</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02420950137</codiceFiscale>
+					<ragioneSociale>DITTA ACLICHEF</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>02420950137</codiceFiscale>
+					<ragioneSociale>DITTA ACLICHEF</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>12100.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-08-05</dataInizio>
+										<dataUltimazione>2015-06-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>ZD311F7CEE</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00565430139</codiceFiscaleProp>
+			<denominazione>COMUNE DI BLEVIO</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER RIMODULAZIONE RETE INFORMATICA</oggetto>
+		<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>01343230130</codiceFiscale>
+					<ragioneSociale>DITTA HALLEY LOMBARDIA  SNC</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>01343230130</codiceFiscale>
+					<ragioneSociale>HALLEY LOMBARDIA SNC.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>1600.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-12-02</dataInizio>
+										<dataUltimazione>2015-03-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

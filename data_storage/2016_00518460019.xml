@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n°1</titolo>
+		<abstract>Pubblicazione relativa all’anno 2015</abstract>
+		<dataPubblicazioneIndice>2016-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Politecnico di Torino</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-31</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.swas.polito.it/services/avcp/avcpIndice2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.swas.polito.it/services/avcp/avcp_dataset_2015_annorif_2015_01.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.swas.polito.it/services/avcp/avcp_dataset_2015_annorif_2015_02.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.swas.polito.it/services/avcp/avcp_dataset_2015_annorif_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.swas.polito.it/services/avcp/avcp_dataset_2015_annorif_2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_5">
+			<linkDataset>http://www.swas.polito.it/services/avcp/avcp_dataset_2015_annorif_2012.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-31</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

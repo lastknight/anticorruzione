@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-02-01</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Accumoli</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-02-01</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.halleyweb.com/c057001/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>ZDE139F012</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00113430573</codiceFiscaleProp>
+			<denominazione>COMUNE DI ACCUMOLI</denominazione>
+		</strutturaProponente>
+		<oggetto>Affidamento servizio di assistenza tecnica programmata impianto di erogazione Acqua Si</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>00866750573</codiceFiscale>
+                        						<ragioneSociale>LORENZONI SRL</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>00866750573</codiceFiscale>
+                        	
+    					<ragioneSociale>LORENZONI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>1920.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-03-12</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

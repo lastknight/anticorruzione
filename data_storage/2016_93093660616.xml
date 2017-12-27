@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice PUBBLICAZIONE LEGGE 190 DEL 2012</titolo>
+    <abstract>PUBBLICAZIONE LEGGE 190 DEL 2012</abstract>
+    <dataPubblicazioneIndice>2016-02-01</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE - "FIERAMOSCA - MARTUCCI" - CAPUA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-01</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC13321/2015/indicegare.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2015">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC13321/2015/gare2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201580010030619">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC13321/2015/gare201580010030619.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201580107290613">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC13321/2015/gare201580107290613.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

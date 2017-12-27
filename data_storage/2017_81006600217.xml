@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+ <metadata>
+   <titolo>aggiudicazioni e affidamenti - anno 2016 - Zuschlaege und Vergaben - Jahr 2016</titolo>
+   <abstract>aggiudicazioni e affidamenti - anno 2016 - Zuschlaege und Vergaben - Jahr 2016</abstract>
+   <dataPubbicazioneDataset>2017-01-30</dataPubbicazioneDataset>
+   <entePubblicatore>Amministrazione Separata B.U.C. Rodengo - Eigenverwaltung B.N.R. Rodeneck</entePubblicatore>
+   <dataUltimoAggiornamentoDataset>2017-01-26</dataUltimoAggiornamentoDataset>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21623/173E47C3-7B0C-421A-B3D0-073012E29DD4.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+ <data>
+   <lotto>
+     <cig>Z141A5687C</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006600217</codiceFiscaleProp>
+       <denominazione>Amministrazione Separata B.U.C. Rodengo - Eigenverwaltung B.N.R. Rodeneck</denominazione>
+     </strutturaProponente>
+     <oggetto>Acquisto di canalette in ferro</oggetto>
+     <sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>02432980213</codiceFiscale>
+           <ragioneSociale>BAUELEMENT GMBH</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>02432980213</codiceFiscale>
+           <ragioneSociale>BAUELEMENT GMBH</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>988</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-06-20</dataInizio>
+       <dataUltimazione>2016-07-31</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>988</importoSommeLiquidate>
+   </lotto>
+   <lotto>
+     <cig>Z911B21E09</cig>
+     <strutturaProponente>
+       <codiceFiscaleProp>81006600217</codiceFiscaleProp>
+       <denominazione>Amministrazione Separata B.U.C. Rodengo - Eigenverwaltung B.N.R. Rodeneck</denominazione>
+     </strutturaProponente>
+     <oggetto>taglio legname anno 2016</oggetto>
+     <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+     <partecipanti>
+       <partecipante>
+           <codiceFiscale>STNRCH56E13B529X</codiceFiscale>
+           <ragioneSociale>Steinmann Erich</ragioneSociale>
+       </partecipante>
+     </partecipanti>
+     <aggiudicatari>
+       <aggiudicatario>
+           <codiceFiscale>STNRCH56E13B529X</codiceFiscale>
+           <ragioneSociale>Steinmann Erich</ragioneSociale>
+       </aggiudicatario>
+     </aggiudicatari>
+     <importoAggiudicazione>6400</importoAggiudicazione>
+     <tempiCompletamento>
+       <dataInizio>2016-09-09</dataInizio>
+       <dataUltimazione>2016-09-30</dataUltimazione>
+     </tempiCompletamento>
+     <importoSommeLiquidate>6454.18</importoSommeLiquidate>
+   </lotto>
+ </data>
+</legge190:pubblicazione>

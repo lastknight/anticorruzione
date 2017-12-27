@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione relativa all'anno 2015</titolo>
+<abstract>Pubblicazione relativa all'anno 2015</abstract>
+<dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+<entePubblicatore>A.O. Istituti Ospitalieri Cremona</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www.ospedale.cremona.it/public/allegati/2015/indicedataset.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.ospedale.cremona.it/public/allegati/2015/datiAppalti_1.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.ospedale.cremona.it/public/allegati/2015/datiAppalti_2.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_3">
+<linkDataset>http://www.ospedale.cremona.it/public/allegati/2015/datiAppalti_3.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

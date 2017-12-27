@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Parcines</abstract>
+   <dataPubblicazioneIndice>2017-03-03</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Parcines</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-03-03</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21062/21062indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_E557B96E-808A-425F-A6AC-2B1CE633BA26'>
+      <linkDataset>http://data.gvcc.net/avcp/21062/E557B96E-808A-425F-A6AC-2B1CE633BA26.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_393CF195-3691-46B6-9024-AC3DB735354D'>
+      <linkDataset>http://data.gvcc.net/avcp/21062/393CF195-3691-46B6-9024-AC3DB735354D.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-03-03</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

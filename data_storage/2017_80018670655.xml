@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Pubblicazione legge 190</titolo>
+    <abstract>Indice Pubblicazione legge 190 anno di riferimento 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-13</dataPubblicazioneIndice>
+    <entePubblicatore>Università degli Studi di Salerno</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-13</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://trasparenza.unisa.it/uploads/trasparenza/avcp190/2016/indice.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.unisa.it/uploads/trasparenza/avcp190/2016/dataset03.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.unisa.it/uploads/trasparenza/avcp190/2016/dataset02.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-13</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://trasparenza.unisa.it/uploads/trasparenza/avcp190/2016/dataset01.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-13</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Gemeinde St. Ulrich - Comune di Ortisei - Chemun de Urtijëi</abstract>
+   <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+   <entePubblicatore>Gemeinde St. Ulrich - Comune di Ortisei - Chemun de Urtijëi</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-26</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21061/21061indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_003D9D84-8D1C-4FA1-80A6-7211EA49117A'>
+      <linkDataset>http://data.gvcc.net/avcp/21061/003D9D84-8D1C-4FA1-80A6-7211EA49117A.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-23</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_7A92549F-1FF7-40AB-AF55-2D1C8797F083'>
+      <linkDataset>http://data.gvcc.net/avcp/21061/7A92549F-1FF7-40AB-AF55-2D1C8797F083.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_788D6EDE-BF98-4398-9A07-CC010F0B38C2'>
+      <linkDataset>http://data.gvcc.net/avcp/21061/788D6EDE-BF98-4398-9A07-CC010F0B38C2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-18</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

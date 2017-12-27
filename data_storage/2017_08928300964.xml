@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2012</abstract>
+        <dataPubbicazioneDataset>2017-02-15</dataPubbicazioneDataset>
+        <entePubblicatore>Zingale Giuseppe</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2017-02-15</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.afolmet.it/wp-content/uploads/2016/09/dati_gare_2016-indice.xml</urlFile>
+        <licenza xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>6594306176</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>08928300964</codiceFiscaleProp>
+                <denominazione>Agenzia metropolitana per la formazione, l'orientamento e il lavoro</denominazione>
+            </strutturaProponente>
+            <oggetto>concessione del servizio di erogazione alimenti preconfezionati e bevande mediante distributori automatici</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00733530158</codiceFiscale>
+                    <ragioneSociale>Ge.S.A. SpA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03320270162</codiceFiscale>
+                    <ragioneSociale>IVS ITALIA SPA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>01870980362</codiceFiscale>
+                    <ragioneSociale>GRUPPO ARGENTA S.P.A</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>08695810963</codiceFiscale>
+                    <ragioneSociale>FABBRO DA S.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>07621050157</codiceFiscale>
+                    <ragioneSociale>ORASESTA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02997880139</codiceFiscale>
+                    <ragioneSociale>UNIONCAFE' SRL</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>00801920166</codiceFiscale>
+                    <ragioneSociale>Se.ri.m. S.r.l.- Servizio Ristoro Milanese</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03320270162</codiceFiscale>
+                    <ragioneSociale>IVS ITALIA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>226950.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-07-29</dataInizio>
+                <dataUltimazione>2021-07-28</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6663810DF6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>08928300964</codiceFiscaleProp>
+                <denominazione>Agenzia metropolitana per la formazione, l'orientamento e il lavoro</denominazione>
+            </strutturaProponente>
+            <oggetto>gara a procedura aperta per l'affidamento del servizio sostitutivo di mensa mediante l'erogazione di buoni pasto</oggetto>
+            <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+            <partecipanti/>
+            <aggiudicatari/>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6712472B1E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>08928300964</codiceFiscaleProp>
+                <denominazione>Agenzia metropolitana per la formazione, l'orientamento e il lavoro</denominazione>
+            </strutturaProponente>
+            <oggetto>procdura negoziata per l'affidamento del servizio sociale di ricollocazione e riqualificazione di disoccupati, esodati e cassaintegrati</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <raggruppamento>
+                    <membro>
+                        <codiceFiscale>08890720967</codiceFiscale>
+                        <ragioneSociale>MESTIERI LOMBARDIA CONSORZIO DI COOPERATIVE SOCIALI S.C.S.</ragioneSociale>
+                        <ruolo>02-MANDATARIA</ruolo>
+                    </membro>
+                    <membro>
+                        <codiceFiscale>10593300154</codiceFiscale>
+                        <ragioneSociale>A&amp;I Societa' Cooperativa Sociale onlus</ragioneSociale>
+                        <ruolo>01-MANDANTE</ruolo>
+                    </membro>
+                </raggruppamento>
+                <partecipante>
+                    <codiceFiscale>11118930152</codiceFiscale>
+                    <ragioneSociale>IAL INNOVAZIONE APPRENDIMENTO LAVORO LOMBARDIA SRL IMPRESA SOCIALE</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>10593300154</codiceFiscale>
+                    <ragioneSociale>A&amp;I Societa' Cooperativa Sociale onlus</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>04211140282</codiceFiscale>
+                    <ragioneSociale>Yous srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>11947650153</codiceFiscale>
+                    <ragioneSociale>MANPOWER S.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>13063380151</codiceFiscale>
+                    <ragioneSociale>e-work SpA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>09142080960</codiceFiscale>
+                    <ragioneSociale>CC Global</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09142080960</codiceFiscale>
+                    <ragioneSociale>CC Global</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>350000.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-09-13</dataInizio>
+                <dataUltimazione>2016-10-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>91941.50</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6771828140</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>08928300964</codiceFiscaleProp>
+                <denominazione>Agenzia metropolitana per la formazione, l'orientamento e il lavoro</denominazione>
+            </strutturaProponente>
+            <oggetto>procedura negoziata per l'affidamento della fornitura di licenze microsoft</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>09479840960</codiceFiscale>
+                    <ragioneSociale>Blend IT S.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>12533790155</codiceFiscale>
+                    <ragioneSociale>MICROSYS</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>05289500968</codiceFiscale>
+                    <ragioneSociale>EMPSOL S.R.L.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>10529860156</codiceFiscale>
+                    <ragioneSociale>Pipeline Srl</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03709420966</codiceFiscale>
+                    <ragioneSociale>Consoftware Team</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>12533790155</codiceFiscale>
+                    <ragioneSociale>MICROSYS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>60877.10</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2016-09-23</dataInizio>
+                <dataUltimazione>2017-09-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>74148.06</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>68159289B6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>08928300964</codiceFiscaleProp>
+                <denominazione>Agenzia metropolitana per la formazione, l'orientamento e il lavoro</denominazione>
+            </strutturaProponente>
+            <oggetto>servizio di somministrazione di lavoro a tempo determinato</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>12288660157</codiceFiscale>
+                    <ragioneSociale>TEMPORARY S.P.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03171510278</codiceFiscale>
+                    <ragioneSociale>UMANA SpA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>13366030156</codiceFiscale>
+                    <ragioneSociale>ADECCO ITALIA SPA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>11629770154</codiceFiscale>
+                    <ragioneSociale>GI GROUP SPA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06379970152</codiceFiscale>
+                    <ragioneSociale>INFOR GROUP SPA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02552531200</codiceFiscale>
+                    <ragioneSociale>OASI LAVORO S.P.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06961760722</codiceFiscale>
+                    <ragioneSociale>LAVORINT SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari/>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento/>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>6861321D32</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>08928300964</codiceFiscaleProp>
+                <denominazione>Agenzia metropolitana per la formazione, l'orientamento e il lavoro</denominazione>
+            </strutturaProponente>
+            <oggetto>procedura negoziata per l'affidamento del servizio di somministrazione di lavoro a tempo determinato</oggetto>
+            <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>12288660157</codiceFiscale>
+                    <ragioneSociale>TEMPORARY S.P.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>02552531200</codiceFiscale>
+                    <ragioneSociale>OASI LAVORO S.P.A.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>11947650153</codiceFiscale>
+                    <ragioneSociale>MANPOWER S.r.l.</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>13366030156</codiceFiscale>
+                    <ragioneSociale>ADECCO ITALIA SPA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>03171510278</codiceFiscale>
+                    <ragioneSociale>UMANA SpA</ragioneSociale>
+                </partecipante>
+                <partecipante>
+                    <codiceFiscale>06379970152</codiceFiscale>
+                    <ragioneSociale>INFOR GROUP SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02552531200</codiceFiscale>
+                    <ragioneSociale>OASI LAVORO S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>0.00</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataUltimazione>2017-07-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>0.00</importoSommeLiquidate>
+        </lotto>
+    </data>
+</legge190:pubblicazione>

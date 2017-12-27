@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione ENAV per legge 190/2012</titolo>
+    <abstract>Informazioni da pubblicare per adempimenti previsti legge 190</abstract>
+    <dataPubblicazioneIndice>2017-02-20+01:00</dataPubblicazioneIndice>
+    <entePubblicatore>ENAV S.P.A.</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-20+01:00</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://onlineservices2.enav.it/trasparenza/enav/Anticorruzione2016_indice.xml</urlFile>
+    <licenza>GGAP</licenza>
+  </metadata>
+  <indice>
+    <dataset id="Anticorruzione2016_1">
+      <linkDataset>http://onlineservices2.enav.it/trasparenza/enav/Anticorruzione2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20+01:00</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="Anticorruzione2016_2">
+      <linkDataset>http://onlineservices2.enav.it/trasparenza/enav/Anticorruzione2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20+01:00</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
+
+

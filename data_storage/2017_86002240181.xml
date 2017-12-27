@@ -1,0 +1,813 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js ie89 ie8" lang="it"><![endif]-->
+<!--[if IE 9]><html class="no-js ie89 ie9" lang="it"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="it">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Argo, Amministrazione Trasparente">
+  <meta name="author" content="Argo Software SRL">
+  <!-- <link rel="preload" href="http://trasparenza-pa.net/public/IWT.min.js" as="script"> -->
+  <!--
+    In alternativa a WebFontLoader è possibile caricare il font direttamente da Google
+      <link href='//fonts.googleapis.com/css?family=Titillium+Web:400,400italic,700,' rel='stylesheet' type='text/css' />
+    o dal repository locale (src/fonts)
+  -->
+  <script type="text/javascript">
+    WebFontConfig = {
+      google: {
+        families: ['Titillium+Web:400,600,700,400italic:latin']
+      }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = '/public/js/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <link rel="stylesheet" href="/public/css/font-awesome.min.css">
+  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+
+  <!-- include html5shim per Explorer 8 -->
+  <script src="http://trasparenza-pa.net/public/vendor/modernizr.js"></script>
+  <script src="http://trasparenza-pa.net/public/js/clipboard.min.js"></script>
+
+  <link media="all" rel="stylesheet" href="http://trasparenza-pa.net/public/build.css">
+  <link media="all" rel="stylesheet" href="http://trasparenza-pa.net/public/css/custom.css">
+
+  <script src="http://trasparenza-pa.net/public/vendor/jquery.min.js"></script>
+
+  <title>Argo - Amministrazione Trasparentet</title>
+
+  <meta name="dc.title" content="Bandi di gara e contratti" />
+  <meta name="dc.description" content="Bandi di gara e contratti" />
+  <meta name="dc.data" content="" />
+  <meta name="dc.creator" content="" />
+  <meta name="dc.subject" content="Bandi di gara e contratti" />
+  <meta name="dc.publisher" content="ISTITUTO COMPRENSIVO STATALE  - RIVANAZZANO TERME" />
+  <meta name="dc.contributor" content="ISTITUTO COMPRENSIVO STATALE  - RIVANAZZANO TERME" />
+  <meta name="dc.format" content="text/html" />
+  <meta name="dc.language" content="it" />
+</head>
+
+<body class="t-Pac">
+
+  <div id="cookie-bar" class="CookieBar js-CookieBar u-background-95 u-padding-r-all" aria-hidden="true">
+  <p class="u-color-white u-text-r-xs u-lineHeight-m u-padding-r-bottom">Questo sito utilizza cookie tecnici, analytics e di terze parti.
+    <br>Proseguendo nella navigazione accetti l’utilizzo dei cookie.<br>
+  </p>
+  <p>
+    <button class="Button Button--default u-text-r-xxs js-cookieBarAccept u-inlineBlock u-margin-r-all">Accetto</button>
+    <a href="http://trasparenza-pa.net/cookie_policy_file/COOKIE POLICY.pdf" class="u-text-r-xs u-color-teal-50">Cookie policy</a>
+  </p>
+</div>
+
+
+<ul class="Skiplinks js-fr-bypasslinks u-hiddenPrint">
+  <li><a href="#main">Vai al Contenuto</a></li>
+  <li><a class="js-fr-offcanvas-open" href="#menu"
+    aria-controls="menu" aria-label="accedi al menu" title="accedi al menu">Vai alla navigazione del sito</a></li>
+</ul>
+
+
+<header class="Header Headroom--fixed js-Headroom u-hiddenPrint">
+
+  <div class="Header-banner">
+    <div class="Header-owner Headroom-hideme">
+      <a href="http://trasparenza-pa.net/?codcli=SC15258"><span>Amministrazione Trasparente Dlgs 33/2013</span></a>
+    </div>
+  </div>
+
+  <div class="Header-navbar Grid Grid--alignMiddle">
+    <div class="Header-toggle Grid-cell">
+      <a class="Hamburger-toggleContainer js-fr-offcanvas-open u-nojsDisplayInlineBlock"
+          href="#menu"
+          aria-controls="menu"
+          aria-label="accedi al menu" 
+          title="accedi al menu">
+        <span class="Hamburger-toggle" role="presentation"></span>
+        <span class="Header-toggleText" role="presentation">Menu</span>
+      </a>
+    </div>
+
+    <div class="Header-logo Grid-cell" aria-hidden="true">
+      <a href="http://trasparenza-pa.net/?codcli=SC15258" tabindex="-1">
+        
+          <img src="/public/img/logo.png" alt="Logo">
+        
+          
+        
+      </a>
+    </div>
+
+    <div class="Header-title Grid-cell u-md-size2of4 u-lg-size2of4">
+      <h1 class="Header-titleLink">
+        <a href="http://trasparenza-pa.net/?codcli=SC15258">
+          ISTITUTO COMPRENSIVO STATALE  - RIVANAZZANO TERME<br>
+        </a>
+      </h1>
+    </div>
+
+    
+
+    </div>
+  </div>
+  <!-- Header-navbar -->
+
+  
+  
+  
+
+</header>
+
+
+
+
+<section class="Offcanvas Offcanvas--left Offcanvas--modal js-fr-offcanvas u-jsVisibilityHidden u-nojsDisplayNone u-hiddenPrint" id="menu">
+	<h2 class="u-hiddenVisually">Menu di navigazione</h2>
+  <div class="Offcanvas-content u-background-white">
+    <div class="Offcanvas-toggleContainer u-background-70 u-jsHidden">
+      <a class="Hamburger-toggleContainer u-block u-color-white u-padding-bottom-xxl u-padding-left-s u-padding-top-xxl js-fr-offcanvas-close"
+        aria-controls="menu" aria-label="esci dalla navigazione" title="esci dalla navigazione" href="#">
+        <span class="Hamburger-toggle is-active" aria-hidden="true"></span>
+      </a>
+    </div>
+    <nav>
+			<ul class="Linklist Linklist--padded Treeview Treeview--default js-Treeview u-text-r-xs">
+        <li data-megamenu-class="Megamenu-area">
+                      <a data-megamenu-class="Button u-border-none u-color-95 u-background-compl u-text-r-xxs" href="http://trasparenza-pa.net/admin/login.php">Accedi</a>
+                  </li>
+      </ul>
+
+    </nav>
+  </div>
+</section>
+
+
+
+<div id="main">
+    
+  <div class="u-layout-wide u-layoutCenter u-text-r-xl u-layout-r-withGutter u-padding-r-top">
+
+    <section>
+      <p class="u-md-hidden u-lg-hidden u-padding-r-all u-text-m u-background-grey-20">
+          <span class="Icon-list u-text-r-xl u-alignMiddle u-padding-r-right" aria-hidden="true"></span>
+          <a href="#main_menu" class="js-scrollTo u-text-r-s u-textClean u-color-grey-50 u-alignMiddle">Vai al menu</a>
+      </p>
+
+      
+              
+                                    
+      <div class="u-layout-wide u-layoutCenter u-layout-withGutter u-padding-r-bottom u-padding-r-top">
+          <nav aria-label="Ti trovi in:" role="navigation">
+            
+            
+
+
+
+ 
+    <ul class="Breadcrumb">
+        <li class="Breadcrumb-item"><a class="Breadcrumb-link u-color-50" href="/?codcli=SC15258">Home</a></li>
+                    <li class="Breadcrumb-item">Bandi di gara e contratti</li>
+        
+    </ul>
+
+
+          </nav>
+      </div>
+      <div class="u-layout-wide u-layoutCenter u-layout-withGutter u-padding-r-top u-padding-bottom-xxl">
+            
+            <div class="Grid Grid--withGutter">
+                
+                <div class="Grid-cell u-md-size8of12 u-lg-size8of12">
+                <h2 class="u-text-h3">
+                    Bandi di gara e contratti
+                </h2>
+                  
+<article class="Prose">
+<p></p>
+
+		
+   		 <h4 class="u-text-h5">Sottosezioni</h4>		    <ul>
+						
+				<li>
+				 	<p class="u-padding-r-bottom">
+						<span ></span>
+							<a class="u-textClean u-textWeight-600 u-text-r-xs u-color-70"  href="http://trasparenza-pa.net/?codcli=SC15258&node=26165">
+								Informazioni sulle singole procedure in formato tabellare
+							</a>
+					</p>
+				</li>
+			
+			
+			    
+			
+		    			
+				<li>
+				 	<p class="u-padding-r-bottom">
+						<span ></span>
+							<a class="u-textClean u-textWeight-600 u-text-r-xs u-color-70"  href="http://trasparenza-pa.net/?codcli=SC15258&node=26166">
+								Atti delle amministrazioni aggiudicatrici e degli enti aggiudicatori distintamente per ogni procedura
+							</a>
+					</p>
+				</li>
+			
+			
+			    
+			
+		    
+			</ul>
+		     
+		    
+		   		   	<hr>
+		   		<h4 class="u-text-h5">Contenuti disponibili in Bandi di gara e contratti</h4> 
+				   
+		   						
+							 
+			 
+<ul class="Linklist Linklist--padded Treeview js-Treeview u-text-r-xs">
+              <li class=""  aria-expanded="false">
+    <a href="#">
+        <span class="u-textClean">
+            <i class="fa fa-file"></i>
+            &nbsp;Registro unico delle fatture
+        </span>    
+    </a>
+    
+    <ul>
+        <li class="u-background-grey-10">
+            <div class="u-layout-centerContent">
+
+                <section class="Prose u-layout-wide u-padding-r-all">
+                    
+                    <h3 class="u-text-h3">
+                        <span class="u-text-r-s  u-textClean ">
+                            Registro unico delle fatture
+                        </span>
+                        <span class="Content-Actions">
+                            <a alt="Plink" 
+                                title="Permalink"
+                                class="u-textClean u-textSecondary u-textWeight-700 u-text-r-xs u-color-50 js-fr-dialogmodal-open permalink-btn"
+                                aria-controls="permalink-dialog"
+                                data-url="http://trasparenza-pa.net/?codcli=SC15258&node=44&opc=7476">
+                                <i class="fa fa-link"></i>
+                                Plink
+                            </a>
+                            
+                        </span>
+                    </h3>
+                    <span class="u-textClean u-text-r-xxs u-textSecondary u-textWeight-400 u-lineHeight-xl u-cf">
+                        - Creato il 27/01/2015 13:29:53                         da MARIA MARGHERITA PANZA                                                                    </span>
+                    
+                    
+                    <div class="u-textClean u-text-p u-padding-r-all">
+                                                <p>  <p>
+                                            </div>
+
+                    
+                                        <table class="Table Table--striped Table--hover Table--withBorder">
+                        <caption class="u-textClean u-textWeight-700">Allegati</caption>
+                        <thead>
+                            <tr class="u-border-bottom-xs">
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                    
+                            <tr>
+                                <td class="u-textClean u-textLeft">
+                                    <a alt="Scarica allegato" 
+                                        title="Scarica allegato"
+                                        href="http://trasparenza-pa.net/action/download.php?file_id=10762">
+                                        <i class="fa fa-file-excel-o"></i>
+                                        &nbsp;PCC-Registro Fatture.xls
+                                    </a>
+                                </td>
+                                <td class="u-textClean u-textCenter">
+                                    <a alt="Storico allegato"
+                                        title="Storico allegato"
+                                        class="u-text-r-xs u-color-grey-90 js-fr-dialogmodal-open history-attachments-btn"
+                                        aria-controls="storico-allegati-dialog"
+                                        data-doc-id="10679">
+                                        <i class="fa fa-tags"></i>
+                                        <span>1.0</span>
+                                    </a>
+                                </td>
+                                <td class="u-textClean u-textCenter">
+                                    <a alt="Permalink" 
+                                        title="Permalink"
+                                        class="u-text-r-xs fa fa-link u-color-grey-90 js-fr-dialogmodal-open permalink-btn"
+                                        data-url="http://trasparenza-pa.net/action/downplink.php?file_id=10762"
+                                        aria-controls="permalink-dialog"
+                                    </a>
+                                </td>
+                                <td class="u-textClean u-textCenter">
+                                									<a alt="Visualizza come tabella" 
+                                        title="Visualizza come tabella"
+                                        class="u-text-r-xs fa fa-th u-color-grey-90"
+                                        href="http://trasparenza-pa.net/modal/xls_to_html_list.php?file_id=10762&layout=new" 
+                                        target="_blank">
+                                    </a>
+								                                </td>
+                            </tr>
+                        
+                        </tbody>
+                    </table>
+                    
+                </section>
+                
+                
+            </div>
+        </li>
+    </ul>
+</li>
+              <li class=""  aria-expanded="false">
+    <a href="#">
+        <span class="u-textClean">
+            <i class="fa fa-file"></i>
+            &nbsp;XML per AVCP - ANNO 2014
+        </span>    
+    </a>
+    
+    <ul>
+        <li class="u-background-grey-10">
+            <div class="u-layout-centerContent">
+
+                <section class="Prose u-layout-wide u-padding-r-all">
+                    
+                    <h3 class="u-text-h3">
+                        <span class="u-text-r-s  u-textClean ">
+                            XML per AVCP - ANNO 2014
+                        </span>
+                        <span class="Content-Actions">
+                            <a alt="Plink" 
+                                title="Permalink"
+                                class="u-textClean u-textSecondary u-textWeight-700 u-text-r-xs u-color-50 js-fr-dialogmodal-open permalink-btn"
+                                aria-controls="permalink-dialog"
+                                data-url="http://trasparenza-pa.net/?codcli=SC15258&node=44&opc=avcp2013">
+                                <i class="fa fa-link"></i>
+                                Plink
+                            </a>
+                            
+                        </span>
+                    </h3>
+                    <span class="u-textClean u-text-r-xxs u-textSecondary u-textWeight-400 u-lineHeight-xl u-cf">
+                                                                                                                    </span>
+                    
+                    
+                    <div class="u-textClean u-text-p u-padding-r-all">
+                                                    
+
+
+
+<p>L'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture, è un'autorità amministrativa indipendente che si occupa di vigilare sui contratti pubblici di lavori, servizi e forniture in tutti i settori dell'ordinamento, per garantire il rispetto dei principi di trasparenza e correttezza delle gare di appalto, nonché il rispetto delle regole della concorrenza nelle procedure di gara.</p>
+<b>Files XML:</b><br/>
+<ul>
+			<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2013/contratti2012.xml"> contratti2012.xml</a></li>
+				<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2013/contratti2013.xml"> contratti2013.xml</a></li>
+				<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2013/indicecontratti.xml"> indicecontratti.xml</a></li>
+					
+</ul>
+
+                                            </div>
+
+                    
+                    
+                </section>
+                
+                
+            </div>
+        </li>
+    </ul>
+</li>
+              <li class=""  aria-expanded="false">
+    <a href="#">
+        <span class="u-textClean">
+            <i class="fa fa-file"></i>
+            &nbsp;XML per ANAC - ANNO 2015
+        </span>    
+    </a>
+    
+    <ul>
+        <li class="u-background-grey-10">
+            <div class="u-layout-centerContent">
+
+                <section class="Prose u-layout-wide u-padding-r-all">
+                    
+                    <h3 class="u-text-h3">
+                        <span class="u-text-r-s  u-textClean ">
+                            XML per ANAC - ANNO 2015
+                        </span>
+                        <span class="Content-Actions">
+                            <a alt="Plink" 
+                                title="Permalink"
+                                class="u-textClean u-textSecondary u-textWeight-700 u-text-r-xs u-color-50 js-fr-dialogmodal-open permalink-btn"
+                                aria-controls="permalink-dialog"
+                                data-url="http://trasparenza-pa.net/?codcli=SC15258&node=44&opc=avcp2014">
+                                <i class="fa fa-link"></i>
+                                Plink
+                            </a>
+                            
+                        </span>
+                    </h3>
+                    <span class="u-textClean u-text-r-xxs u-textSecondary u-textWeight-400 u-lineHeight-xl u-cf">
+                                                                                                                    </span>
+                    
+                    
+                    <div class="u-textClean u-text-p u-padding-r-all">
+                                                    
+
+
+
+<p>L'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture, è un'autorità amministrativa indipendente che si occupa di vigilare sui contratti pubblici di lavori, servizi e forniture in tutti i settori dell'ordinamento, per garantire il rispetto dei principi di trasparenza e correttezza delle gare di appalto, nonché il rispetto delle regole della concorrenza nelle procedure di gara.</p>
+<b>Files XML:</b><br/>
+<ul>
+						<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2014/gare2014.xml"> gare2014.xml</a></li>
+				<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2014/indicegare.xml"> indicegare.xml</a></li>
+			
+</ul>
+
+                                            </div>
+
+                    
+                    
+                </section>
+                
+                
+            </div>
+        </li>
+    </ul>
+</li>
+              <li class=""  aria-expanded="false">
+    <a href="#">
+        <span class="u-textClean">
+            <i class="fa fa-file"></i>
+            &nbsp;XML per ANAC - ANNO 2016
+        </span>    
+    </a>
+    
+    <ul>
+        <li class="u-background-grey-10">
+            <div class="u-layout-centerContent">
+
+                <section class="Prose u-layout-wide u-padding-r-all">
+                    
+                    <h3 class="u-text-h3">
+                        <span class="u-text-r-s  u-textClean ">
+                            XML per ANAC - ANNO 2016
+                        </span>
+                        <span class="Content-Actions">
+                            <a alt="Plink" 
+                                title="Permalink"
+                                class="u-textClean u-textSecondary u-textWeight-700 u-text-r-xs u-color-50 js-fr-dialogmodal-open permalink-btn"
+                                aria-controls="permalink-dialog"
+                                data-url="http://trasparenza-pa.net/?codcli=SC15258&node=44&opc=avcp2015">
+                                <i class="fa fa-link"></i>
+                                Plink
+                            </a>
+                            
+                        </span>
+                    </h3>
+                    <span class="u-textClean u-text-r-xxs u-textSecondary u-textWeight-400 u-lineHeight-xl u-cf">
+                                                                                                                    </span>
+                    
+                    
+                    <div class="u-textClean u-text-p u-padding-r-all">
+                                                    
+
+
+
+<p>L'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture, è un'autorità amministrativa indipendente che si occupa di vigilare sui contratti pubblici di lavori, servizi e forniture in tutti i settori dell'ordinamento, per garantire il rispetto dei principi di trasparenza e correttezza delle gare di appalto, nonché il rispetto delle regole della concorrenza nelle procedure di gara.</p>
+<b>Files XML:</b><br/>
+<ul>
+								<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2015/gare2015.xml"> gare2015.xml</a></li>
+		
+</ul>
+
+                                            </div>
+
+                    
+                    
+                </section>
+                
+                
+            </div>
+        </li>
+    </ul>
+</li>
+              <li class=""  aria-expanded="false">
+    <a href="#">
+        <span class="u-textClean">
+            <i class="fa fa-file"></i>
+            &nbsp;XML per ANAC - ANNO 2017
+        </span>    
+    </a>
+    
+    <ul>
+        <li class="u-background-grey-10">
+            <div class="u-layout-centerContent">
+
+                <section class="Prose u-layout-wide u-padding-r-all">
+                    
+                    <h3 class="u-text-h3">
+                        <span class="u-text-r-s  u-textClean ">
+                            XML per ANAC - ANNO 2017
+                        </span>
+                        <span class="Content-Actions">
+                            <a alt="Plink" 
+                                title="Permalink"
+                                class="u-textClean u-textSecondary u-textWeight-700 u-text-r-xs u-color-50 js-fr-dialogmodal-open permalink-btn"
+                                aria-controls="permalink-dialog"
+                                data-url="http://trasparenza-pa.net/?codcli=SC15258&node=44&opc=avcp2016">
+                                <i class="fa fa-link"></i>
+                                Plink
+                            </a>
+                            
+                        </span>
+                    </h3>
+                    <span class="u-textClean u-text-r-xxs u-textSecondary u-textWeight-400 u-lineHeight-xl u-cf">
+                                                                                                                    </span>
+                    
+                    
+                    <div class="u-textClean u-text-p u-padding-r-all">
+                                                    
+
+
+
+<p>L'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture, è un'autorità amministrativa indipendente che si occupa di vigilare sui contratti pubblici di lavori, servizi e forniture in tutti i settori dell'ordinamento, per garantire il rispetto dei principi di trasparenza e correttezza delle gare di appalto, nonché il rispetto delle regole della concorrenza nelle procedure di gara.</p>
+<b>Files XML:</b><br/>
+<ul>
+									<li><a href="http://avcp.trasparenza-pa.net/xml/SC15258/2016/gare2016.xml"> gare2016.xml</a></li>
+	
+</ul>
+
+                                            </div>
+
+                    
+                    
+                </section>
+                
+                
+            </div>
+        </li>
+    </ul>
+</li>
+     
+</ul>
+
+
+		   		    
+			    
+		    
+			  
+		 		 
+
+
+
+
+
+
+
+</article>
+                </div>
+                
+                <div class="Grid-cell u-sizeFull u-md-size4of12 u-lg-size4of12">
+                    
+                  
+                  
+                  <h2 class="u-text-h3">
+                    Amministrazione Trasparente
+                  </h2>
+                  
+
+
+
+<ul class="Linklist Linklist--padded Treeview Treeview--default js-Treeview u-text-r-xs" id="main_menu">
+    
+                                    <li id="menu-1" >
+                <a href="/?codcli=SC15258&node=1" class=""><i class="fa fa-folder"></i>&nbsp;Disposizioni Generali</a>
+                            </li>
+                                            <li id="menu-5" >
+                <a href="/?codcli=SC15258&node=5" class=""><i class="fa fa-folder"></i>&nbsp;Organizzazione</a>
+                            </li>
+                                            <li id="menu-11" >
+                <a href="/?codcli=SC15258&node=11" class=""><i class="fa fa-folder"></i>&nbsp;Consulenti e collaboratori</a>
+                            </li>
+                                            <li id="menu-12" >
+                <a href="/?codcli=SC15258&node=12" class=""><i class="fa fa-folder"></i>&nbsp;Personale</a>
+                            </li>
+                                            <li id="menu-23" >
+                <a href="/?codcli=SC15258&node=23" class=""><i class="fa fa-folder"></i>&nbsp;Bandi di Concorso</a>
+                            </li>
+                                            <li id="menu-24" >
+                <a href="/?codcli=SC15258&node=24" class=""><i class="fa fa-folder"></i>&nbsp;Performance</a>
+                            </li>
+                                            <li id="menu-30" >
+                <a href="/?codcli=SC15258&node=30" class=""><i class="fa fa-folder"></i>&nbsp;Enti controllati</a>
+                            </li>
+                                            <li id="menu-35" >
+                <a href="/?codcli=SC15258&node=35" class=""><i class="fa fa-folder"></i>&nbsp;Attività e procedimenti</a>
+                            </li>
+                                            <li id="menu-40" >
+                <a href="/?codcli=SC15258&node=40" class=""><i class="fa fa-folder"></i>&nbsp;Provvedimenti</a>
+                            </li>
+                                            <li id="menu-43" >
+                <a href="/?codcli=SC15258&node=43" class=""><i class="fa fa-folder"></i>&nbsp;Controlli sulle imprese</a>
+                            </li>
+                                            <li id="menu-44" class="is-current">
+                <a href="/?codcli=SC15258&node=44" class=""><i class="fa fa-folder"></i>&nbsp;Bandi di gara e contratti</a>
+                            </li>
+                                            <li id="menu-45" >
+                <a href="/?codcli=SC15258&node=45" class=""><i class="fa fa-folder"></i>&nbsp;Sovvenzioni, contributi, sussidi, vantaggi economici</a>
+                            </li>
+                                            <li id="menu-48" >
+                <a href="/?codcli=SC15258&node=48" class=""><i class="fa fa-folder"></i>&nbsp;Bilanci</a>
+                            </li>
+                                            <li id="menu-51" >
+                <a href="/?codcli=SC15258&node=51" class=""><i class="fa fa-folder"></i>&nbsp;Beni immobili e gestione patrimonio</a>
+                            </li>
+                                            <li id="menu-54" >
+                <a href="/?codcli=SC15258&node=54" class=""><i class="fa fa-folder"></i>&nbsp;Controlli e rilievi sull'amministrazione</a>
+                            </li>
+                                            <li id="menu-55" >
+                <a href="/?codcli=SC15258&node=55" class=""><i class="fa fa-folder"></i>&nbsp;Servizi erogati</a>
+                            </li>
+                                            <li id="menu-60" >
+                <a href="/?codcli=SC15258&node=60" class=""><i class="fa fa-folder"></i>&nbsp;Pagamenti dell'amministrazione</a>
+                            </li>
+                                            <li id="menu-63" >
+                <a href="/?codcli=SC15258&node=63" class=""><i class="fa fa-folder"></i>&nbsp;Opere pubbliche</a>
+                            </li>
+                                            <li id="menu-64" >
+                <a href="/?codcli=SC15258&node=64" class=""><i class="fa fa-folder"></i>&nbsp;Pianificazione e governo del territorio</a>
+                            </li>
+                                            <li id="menu-65" >
+                <a href="/?codcli=SC15258&node=65" class=""><i class="fa fa-folder"></i>&nbsp;Informazioni ambientali</a>
+                            </li>
+                                            <li id="menu-66" >
+                <a href="/?codcli=SC15258&node=66" class=""><i class="fa fa-folder"></i>&nbsp;Strutture sanitarie provate accreditate</a>
+                            </li>
+                                            <li id="menu-67" >
+                <a href="/?codcli=SC15258&node=67" class=""><i class="fa fa-folder"></i>&nbsp;Interventi straordinari e di emergenza</a>
+                            </li>
+                                            <li id="menu-68" >
+                <a href="/?codcli=SC15258&node=68" class=""><i class="fa fa-folder"></i>&nbsp;Altri contenuti</a>
+                            </li>
+                    
+    
+    
+</ul>
+
+                  
+                    <a href="#" title="torna all'inizio del contenuto" class="u-hiddenVisually">torna all'inizio del contenuto</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+  
+
+  <div class="u-background-grey-80">
+    <div class="u-layout-wide u-layoutCenter u-layout-r-withGutter u-hiddenPrint">
+      <footer class="Footer">
+
+    <div class="u-cf">
+      
+        <img class="Footer-logo" src="http://trasparenza-pa.net/public/img/logo.png" alt="Logo">
+      
+        
+      
+      <p class="Footer-siteName">
+        ISTITUTO COMPRENSIVO STATALE  - RIVANAZZANO TERME
+      </p>
+    </div>
+
+    <ul class="Footer-links u-cf">
+      <li><a href="http://trasparenza-pa.net/cookie_policy_file/COOKIE POLICY.pdf" title="Cookie policy">Cookie policy</a></li>
+    </ul>
+
+</footer>
+
+    </div>
+  </div>
+
+  <a href="#" title="torna all'inizio del contenuto" class="ScrollTop js-scrollTop js-scrollTo">
+  <i class="ScrollTop-icon Icon-collapse" aria-hidden="true"></i>
+  <span class="u-hiddenVisually">torna all'inizio del contenuto</span>
+</a>
+
+
+</div>
+
+<div class="Dialog js-fr-dialogmodal" id="permalink-dialog" role="dialog" style="z-index: 30; display:none;">
+    <div class="
+      Dialog-content
+      Dialog-content--centered
+      u-background-white
+      u-layout-prose
+      u-margin-all-xl
+      u-padding-all-xl
+      js-fr-dialogmodal-modal
+    " 
+        aria-labelledby="plink-modal-title"
+        aria-hidden="true"
+    >
+        <div role="document" class="Prose">
+            <h2 class="u-cf u-text-h2 u-borderHideFocus" id="plink-modal-title" tabindex="0">Permalink</h2>
+            <p id="plink-data" class="modal-body">
+                http://trasparenza-pa.net/action/downplink.php?file_id=
+            </p>
+                        
+            <div class="u-floatRight">
+                <button class="Button Button--info copy-to-clipboard" data-clipboard-target="#plink-data">
+                    <i class="fa fa-clipboard"></i>
+                    <span class="copy-btn-label">Copia</span>
+                </button>
+                <button class="Button Button--danger js-fr-dialogmodal-close ">Chiudi</button>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="Dialog js-fr-dialogmodal" id="storico-allegati-dialog" role="dialog" style="z-index: 30; display:none;">
+    <div class="
+      Dialog-content
+      Dialog-content--centered
+      u-background-white
+      u-margin-all-xl
+      u-padding-all-xl
+      js-fr-dialogmodal-modal
+    " 
+        aria-labelledby="history-modal-title"
+        aria-hidden="true"
+    >
+        <div role="document" class="Prose">
+            <div class="modal-content">
+                <span id="history-modal-title">Caricamento in corso ...</span>
+            </div>
+
+            <button class="Button Button--danger js-fr-dialogmodal-close u-floatRight">Chiudi</button>
+        </div>
+    </div>
+</div>
+
+  <!--[if IE 8]>
+  <script src="http://trasparenza-pa.net/public/vendor/respond.min.js"></script>
+  <script src="http://trasparenza-pa.net/public/vendor/rem.min.js"></script>
+  <script src="http://trasparenza-pa.net/public/vendor/selectivizr.js"></script>
+  <script src="http://trasparenza-pa.net/public/vendor/slice.js"></script>
+  <![endif]-->
+
+  <!--[if lte IE 9]>
+  <script src="http://trasparenza-pa.net/public/vendor/polyfill.min.js"></script>
+  <![endif]-->
+
+  <script src="http://trasparenza-pa.net/public/IWT.min.js"></script>
+
+  <script type="text/javascript">
+     $(document).ready(function () {
+
+      $("#permalink-dialog").show();
+      $("#storico-allegati-dialog").show();
+
+       $("a.permalink-btn").click(function(e){
+         var url = $(e.currentTarget).data("url");
+         $("#permalink-dialog .copy-btn-label").text("Copia");
+         $("#permalink-dialog p.modal-body").html(url);
+       });
+
+       $("a.history-attachments-btn").click(function(e){
+         var url = 'http://trasparenza-pa.net/modal/versionlist.php?layout=new&doc_id='+$(e.currentTarget).data("doc-id");
+         $("#storico-allegati-dialog div.modal-content").html("Caricamento in corso...");
+         setTimeout(function () {
+              $("#storico-allegati-dialog div.modal-content").load(url);
+          }, 1000);
+       });
+
+      var clipboard = new Clipboard('.copy-to-clipboard');
+      clipboard.on('success', function(e) {
+          $(e.trigger).children(".copy-btn-label").text("Copiato!");
+          e.clearSelection();
+      });
+     });
+  </script>
+
+</body>
+</html>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+    <titolo>Pubblicazione 4 legge 190 rif. anno 2016</titolo>
+    <abstract>Pubblicazione 4 legge 190 rif. anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>SCR</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://trasparenza.scr.piemonte.it/documents/90187/6883041/indice_Dataset+SCR+anno+2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice> 
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.scr.piemonte.it/documents/90187/6883041/Dataset+SCR+anno+2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+ 
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.scr.piemonte.it/documents/90187/6883041/Dataset+SCR+anno+2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+ 
+    <dataset id="ID_3">
+      <linkDataset>http://trasparenza.scr.piemonte.it/documents/90187/6883041/Dataset+SCR+anno+2016_3.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

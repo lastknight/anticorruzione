@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione legge 190/2012</titolo>
+    <abstract>Pubblicazione legge 190/2012</abstract>
+    <dataPubblicazioneIndice>2017-01-26</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO TECNICO COMMERCIALE E TECNOLOGICO - A.FOSSATI - M. DA PASSANO - LA SPEZIA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-26</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.fossatidapassano.gov.it/public/editor/AVCP/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://www.fossatidapassano.gov.it/public/editor/AVCP/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201680009390115">
+      <linkDataset>http://www.fossatidapassano.gov.it/public/editor/AVCP/gare201680009390115.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

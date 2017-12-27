@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>File XML per AVCP</titolo>
+    <abstract>CIG per lavori servizi e fornture</abstract>
+    <dataPubbicazioneDataset>2017-01-26</dataPubbicazioneDataset>
+    <entePubblicatore>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-01-26</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC28093/2016/gare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>EZEF16E624</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20161410 del 12/05/2016 per canone fotocopiatrice plesso Montagnola 2° trimestre 2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04691790481</codiceFiscale>
+          <ragioneSociale>COMPONENT OFFICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04691790481</codiceFiscale>
+          <ragioneSociale>COMPONENT OFFICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>288.03</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-26</dataInizio>
+        <dataUltimazione>2016-05-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>288.03</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0419B6621</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20164E19873 del 30/05/2016 per acquisto materiale di pulizia Infanzia Sansovino</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>141.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-13</dataInizio>
+        <dataUltimazione>2016-06-13</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>141.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z05192CF35</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20164E11647del 06/04/2016 per acquisto materiale ufficio</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>185.44</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-15</dataInizio>
+        <dataUltimazione>2016-04-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>185.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1319E7896</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. V2-102  del 20/05/2016 per noleggio bus viaggio di istruzione alle sorgenti dell'Arno del 20/5/2016 classe 3^A scuola primaria Petrarca</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06027830485</codiceFiscale>
+          <ragioneSociale>Toscana Bus S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06027830485</codiceFiscale>
+          <ragioneSociale>Toscana Bus S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>563.64</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-30</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>563.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z151C5C2C6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo proroga copertura assicurativa dal 01/09/2016 al 01/03/2017 - 6/12 polizza a.s. 2015/2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01177300033</codiceFiscale>
+          <ragioneSociale>Pluriass</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01177300033</codiceFiscale>
+          <ragioneSociale>Pluriass</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4424.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-12-05</dataInizio>
+        <dataUltimazione>2016-12-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4424.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1718582F8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20164E04936 dell'8/2/2016 per acquisto materiale di pulizia plesso Infanzia Montagnola</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1992.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-02-18</dataInizio>
+        <dataUltimazione>2016-04-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1992.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1C1758EB4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 22/FE del 28/12/2015 per accordature pianoforte concesso in comodato di uso  presso la scuola</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00406890483</codiceFiscale>
+          <ragioneSociale>G. CECCHERINI E C. SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00406890483</codiceFiscale>
+          <ragioneSociale>G. CECCHERINI E C. SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>160.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-15</dataInizio>
+        <dataUltimazione>2016-01-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>160.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z271953B34</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura n. 8101004406 del 14/06/2016 per acquisto biglietti per viaggio di istruzione del 14/4/2016 a Lucca classe 3^A secondaria Gramsci</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05403151003</codiceFiscale>
+          <ragioneSociale>TRENITALIA S.p.A. - SOCIETA' CON SOCIO UNICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05403151003</codiceFiscale>
+          <ragioneSociale>TRENITALIA S.p.A. - SOCIETA' CON SOCIO UNICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>185.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-21</dataInizio>
+        <dataUltimazione>2016-07-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>185.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3517F7FE0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 2303 del 14/1/2015 per servizi di manutenzione e assistenza canone annuale software programmi ARGO E.F. 2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGO SOFTWARE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGO SOFTWARE S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>760.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-29</dataInizio>
+        <dataUltimazione>2016-01-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>760.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z371A6BC56</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Pagamento Fattura n.VEL092 del 21/07/2016 - PON RETE LAN/WLAN (FESR) "MONT@gnola in rete"CUP F16J15001620007 - per realizzazione rete LAN /WLAN scuola primaria Montagnola progetto Montagnol@ in rete. Codice Identificativo  progetto: 10.8.1.A1-FESRPON</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00813430709</codiceFiscale>
+          <ragioneSociale>AFA SYSTEMS SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00813430709</codiceFiscale>
+          <ragioneSociale>AFA SYSTEMS SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>119.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-11-20</dataInizio>
+        <dataUltimazione>2016-11-20</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>119.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A18902BF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20160656  del 25/02/2016 per copie eccedenti fotocopiatrici plessi Gramsci Montagnola e Petrarca</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04691790481</codiceFiscale>
+          <ragioneSociale>COMPONENT OFFICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04691790481</codiceFiscale>
+          <ragioneSociale>COMPONENT OFFICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>474.27</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-02-29</dataInizio>
+        <dataUltimazione>2016-02-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>474.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4018EC311</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 40/E per viaggio di istruzione in Mugello del 25/5/2016 classi 1A 1C Gramsci (Acconto del 30%)</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05705610482</codiceFiscale>
+          <ragioneSociale>COLLICHIARI RESORT SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05705610482</codiceFiscale>
+          <ragioneSociale>COLLICHIARI RESORT SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1634.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-09</dataInizio>
+        <dataUltimazione>2016-05-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1634.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z451A01FE6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. V3-11553 del 24/5/2016 per acquisto materiale handicap</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02027040019</codiceFiscale>
+          <ragioneSociale>BORGIONE CENTRO DIDATTICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02027040019</codiceFiscale>
+          <ragioneSociale>BORGIONE CENTRO DIDATTICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>61.04</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-08</dataInizio>
+        <dataUltimazione>2016-06-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>61.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z471573937</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 16 del 27/1/2016 per incarico RSPP E.F. 2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03386290484</codiceFiscale>
+          <ragioneSociale>ing. Giovanni Corsi</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03386290484</codiceFiscale>
+          <ragioneSociale>ing. Giovanni Corsi</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1010.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-29</dataInizio>
+        <dataUltimazione>2016-01-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1010.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5118BF024</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. FATTPA 16_16 del 7/3/2016 per acquisto biglietti ingresso Palazzo Zabardella Padova. Viaggio di istruzione classe 3C Scuola Secondaria Antonio Gramsci 18-19/3/2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01460110289</codiceFiscale>
+          <ragioneSociale>Madrea srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01460110289</codiceFiscale>
+          <ragioneSociale>Madrea srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>237.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-03-09</dataInizio>
+        <dataUltimazione>2016-03-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>237.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z56181C948</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n.  FATTPA 6_16 del 14/06/2016 per prestazione di opera per realizzazione Laboratorio Teatrale Una fiaba per recitare</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05898160485</codiceFiscale>
+          <ragioneSociale>Associazione Culturale Il Paracadute di Icaro</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05898160485</codiceFiscale>
+          <ragioneSociale>Associazione Culturale Il Paracadute di Icaro</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-30</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5F18BEB17</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 8101003089 del 19/04/2016 per pagamento biglietti A/R treno viaggio di istruzione Padova del 18-19/3/2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05403151003</codiceFiscale>
+          <ragioneSociale>TRENITALIA S.p.A. - SOCIETA' CON SOCIO UNICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05403151003</codiceFiscale>
+          <ragioneSociale>TRENITALIA S.p.A. - SOCIETA' CON SOCIO UNICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>721.64</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-21</dataInizio>
+        <dataUltimazione>2016-04-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>721.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z620D304D4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 15/PA del 27/1/2016 per incarico RSPP E.F. 2014</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03386290484</codiceFiscale>
+          <ragioneSociale>ing. Giovanni Corsi</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03386290484</codiceFiscale>
+          <ragioneSociale>ing. Giovanni Corsi</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1010.84</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-29</dataInizio>
+        <dataUltimazione>2016-01-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1010.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6418D534A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20164E08712 dell'8/3/2016 per acquisto materiale facile consumo classe 3C Primaria Montagnola e quota parte classe 4B Primaria Petrarca</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00150470342</codiceFiscale>
+          <ragioneSociale>GRUPPO SPAGGIARI PARMA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>113.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-03-15</dataInizio>
+        <dataUltimazione>2016-03-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>113.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z641A06024</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 0050 del 26/05/2016 per noleggio bus viaggio di istruzione a Castagneto e Donoratico del 26/5/2016 classe 3^ D Secondaria Gramsci</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02012290488</codiceFiscale>
+          <ragioneSociale>RESCO TRAVEL SAS DI ALTERINI P. E C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02012290488</codiceFiscale>
+          <ragioneSociale>RESCO TRAVEL SAS DI ALTERINI P. E C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-21</dataInizio>
+        <dataUltimazione>2016-07-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6E198A25E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 0018 del 23/04/2016 per viaggio di istruzione a Ischia del 9-11/3/2016 classi 2D e 3D Gramsci</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02012290488</codiceFiscale>
+          <ragioneSociale>RESCO TRAVEL SAS DI ALTERINI P. E C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02012290488</codiceFiscale>
+          <ragioneSociale>RESCO TRAVEL SAS DI ALTERINI P. E C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4320.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-09</dataInizio>
+        <dataUltimazione>2016-05-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4320.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z701728548</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 115P del 19/1/2016 per corso di formazione dell'11/1/2016 su programma ARGO GECODOC PRO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03910150485</codiceFiscale>
+          <ragioneSociale>INFOSCHOOL S.R.L. AREA CENTRO  FIRENZE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03910150485</codiceFiscale>
+          <ragioneSociale>INFOSCHOOL S.R.L. AREA CENTRO  FIRENZE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-29</dataInizio>
+        <dataUltimazione>2016-01-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7118E2E7F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattuna n. 4511 del 09/03/2016 per rinnovo annuale servizio Internet ARGOWEB Premium</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGO SOFTWARE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00838520880</codiceFiscale>
+          <ragioneSociale>ARGO SOFTWARE S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-03-10</dataInizio>
+        <dataUltimazione>2016-03-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>350.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z741916FB9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Pagamento Fattura n.0000075 del 07/07/2016 - PON RETE LAN/WLAN (FESR) "MONT@gnola in rete"CUP F16J15001620007 - per realizzazione rete LAN /WLAN scuola primaria Montagnola progetto Montagnol@ in rete. Codice Identificativo  progetto: 10.8.1.A1-FESRPO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05066340489</codiceFiscale>
+          <ragioneSociale>S.S.I. DI MARCO MARTELLI &amp; C. SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05066340489</codiceFiscale>
+          <ragioneSociale>S.S.I. DI MARCO MARTELLI &amp; C. SNC</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12130.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-17</dataInizio>
+        <dataUltimazione>2016-10-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12130.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7519BBC79</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 471P  del 17/06/2016 per elaborazione DPS Privacy 2016</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03910150485</codiceFiscale>
+          <ragioneSociale>INFOSCHOOL S.R.L. AREA CENTRO  FIRENZE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03910150485</codiceFiscale>
+          <ragioneSociale>INFOSCHOOL S.R.L. AREA CENTRO  FIRENZE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-06-30</dataInizio>
+        <dataUltimazione>2016-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE5188863C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Pagamento Fattura n.FATTPA 9_16 del 23/06/2016 - progetto "Vivere la musica"</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04669690481</codiceFiscale>
+          <ragioneSociale>CENTRO STUDI MUSICA E ARTE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04669690481</codiceFiscale>
+          <ragioneSociale>CENTRO STUDI MUSICA E ARTE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1120.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-10-17</dataInizio>
+        <dataUltimazione>2016-10-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1120.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE718DC8F5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. V3-5684 del 16/3/2016 per acquisto materiale facile consumo classi scuola primaria Montagnola</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02027040019</codiceFiscale>
+          <ragioneSociale>BORGIONE CENTRO DIDATTICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02027040019</codiceFiscale>
+          <ragioneSociale>BORGIONE CENTRO DIDATTICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2443.78</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-15</dataInizio>
+        <dataUltimazione>2016-04-29</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2443.78</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE719894E6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. V2-65 del 30/04/2016 per noleggio bus per viaggio di istruzione del 22 aprile 2016 a Coltano</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06027830485</codiceFiscale>
+          <ragioneSociale>Toscana Bus S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06027830485</codiceFiscale>
+          <ragioneSociale>Toscana Bus S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>501.82</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-26</dataInizio>
+        <dataUltimazione>2016-05-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>501.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEA18B04E3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 1 del 18/04/2016 per pernottamento in mezza pensione viaggio di istruzione a Padova del 18-19/3/2016 classe 3C Secondaria Gramsci</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00162880280</codiceFiscale>
+          <ragioneSociale>HOTEL AL CASON S.A.S. DI SALMASO LUCIANO &amp; C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00162880280</codiceFiscale>
+          <ragioneSociale>HOTEL AL CASON S.A.S. DI SALMASO LUCIANO &amp; C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>965.82</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-04-21</dataInizio>
+        <dataUltimazione>2016-04-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>965.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEB18EC509</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 44/E del 5 maggio 2016 per viaggio di istruzione a Poppi del 13/5/2016 classi 5B Petrarca e 5C Montagnola (Acconto 30%).</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05705610482</codiceFiscale>
+          <ragioneSociale>COLLICHIARI RESORT SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05705610482</codiceFiscale>
+          <ragioneSociale>COLLICHIARI RESORT SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1760.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-05-09</dataInizio>
+        <dataUltimazione>2016-05-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1760.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF5198AA52</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 0049 del 24/05/2016 per viaggio di istruzione a Ferrara del 28/4/2016 classe 2^ D Secondaria</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02012290488</codiceFiscale>
+          <ragioneSociale>RESCO TRAVEL SAS DI ALTERINI P. E C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02012290488</codiceFiscale>
+          <ragioneSociale>RESCO TRAVEL SAS DI ALTERINI P. E C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-07-21</dataInizio>
+        <dataUltimazione>2016-07-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>750.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4F0E17FC3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Pagamento Fattura n.8715008259 del 05/02/2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97103880585</codiceFiscale>
+          <ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>941.49</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-03-31</dataInizio>
+        <dataUltimazione>2015-12-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>941.49</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z73145B2AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Pagamento Fattura n.878P del 13/05/2015 ACQUISO MATERIALE DI PULIZIA</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00089490478</codiceFiscale>
+          <ragioneSociale>DAMAZ SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00089490478</codiceFiscale>
+          <ragioneSociale>DAMAZ SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>672.32</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-20</dataInizio>
+        <dataUltimazione>2015-07-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>672.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEF16E624A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>Saldo fattura n. 20153180 del 21/12/2015 per noleggio fotocopiatrici periodo dicembre 2015</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04691790481</codiceFiscale>
+          <ragioneSociale>COMPONENT OFFICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04691790481</codiceFiscale>
+          <ragioneSociale>COMPONENT OFFICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>659.36</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-12-22</dataInizio>
+        <dataUltimazione>2015-12-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>659.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>5510324F33</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80023610480</codiceFiscaleProp>
+        <denominazione>ISTITUTO COMPRENSIVO STATALE - "MONTAGNOLA-GRAMSCI" - FIRENZE</denominazione>
+      </strutturaProponente>
+      <oggetto>DUSMANN CERVICE - SALDO FATTURA N. 31403217 MESE DI NOVEMBRE</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00124140211</codiceFiscale>
+          <ragioneSociale>DUSSMANN SERVICE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00124140211</codiceFiscale>
+          <ragioneSociale>DUSSMANN SERVICE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>153802.95</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-31</dataInizio>
+      </tempiCompletamento>
+      <importoSommeLiquidate>153984.87</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

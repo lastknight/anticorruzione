@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+    <titolo>Pubblicazione 3 legge 190 2016</titolo>
+    <abstract>Pubblicazione 3 legge 190 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>Citta metropolitana</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-20</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://trasparenza.cittametropolitana.torino.it/documents/78035/6809308/indice_DatasetCitta+metropolitana+anno2016</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice> 
+    <dataset id="ID_1">
+      <linkDataset>http://trasparenza.cittametropolitana.torino.it/documents/78035/6809308/DatasetCitta+metropolitana+anno2016_1</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+ 
+    <dataset id="ID_2">
+      <linkDataset>http://trasparenza.cittametropolitana.torino.it/documents/78035/6809308/DatasetCitta+metropolitana+anno2016_2</linkDataset>
+      <dataUltimoAggiornamento>2017-02-20</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

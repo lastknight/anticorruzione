@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<metadata>
+<titolo>Indice pubblicazione Unione Pedemontana Parmense</titolo>
+<abstract>Pubblicazione relativa all'anno 2016</abstract>
+<dataPubblicazioneIndice>2017-01-28</dataPubblicazioneIndice>
+<entePubblicatore>Unione Pedemontana Parmense</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2017-01-28</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2017</annoRiferimento>
+<urlFile>http://www.unionepedemontana.pr.it/pubblicazioni/006_Indice_2016.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id='ID_1'>
+<linkDataset>http://www.unionepedemontana.pr.it/pubblicazioni/006_2016.xml</linkDataset>
+<dataUltimoAggiornamento>2017-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_2'>
+<linkDataset>http://www.unionepedemontana.pr.it/pubblicazioni/006_2015.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_3'>
+<linkDataset>http://www.unionepedemontana.pr.it/pubblicazioni/006_2014.xml</linkDataset>
+<dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_4'>
+<linkDataset>http://www.unionepedemontana.pr.it/pubblicazioni/006_2013.xml</linkDataset>
+<dataUltimoAggiornamento>2014-01-28</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+<metadata>
+	<titolo>Indice pubblicazione legge 190 del 2012</titolo>
+	<abstract>Indice pubblicazione legge 190 del 2012</abstract>	
+	<dataPubblicazioneIndice>2017-01-23</dataPubblicazioneIndice>
+	<entePubblicatore>ISTITUTO COMPRENSIVO CISLAGO ALDO MORO</entePubblicatore>
+	<dataUltimoAggiornamentoIndice>2017-01-23</dataUltimoAggiornamentoIndice>
+	<annoRiferimento>2016</annoRiferimento>
+	<urlFile>http://www.icscislago.gov.it/avcp/2017_indicegare.xml</urlFile>
+	<licenza>IODL 2.0</licenza>
+</metadata>
+<indice>
+	<dataset id="ID2016">
+		<linkDataset>http://www.icscislago.gov.it/avcp/2017_gare2016.xml</linkDataset>
+		<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+	</dataset>
+</indice>
+</indici>

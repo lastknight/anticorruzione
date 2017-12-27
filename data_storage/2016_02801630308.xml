@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2015 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2015 - Legge 190/2012</abstract>
+		<dataPubblicazioneIndice>2016-01-25</dataPubblicazioneIndice>
+		<entePubblicatore>Ente per la gestione accentrata dei servizi condivisi</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-25</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.egas.sanita.fvg.it/avcp/indicedataset2015.xml</urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_DSC1">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/DSC_dataset_2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_AVCPXML1">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/EG2015_avcp_dataset_2014_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_AVCPXML2">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/EG2015_avcp_dataset_2014_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_AVCPXML3">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/EG2015_avcp_dataset_2015_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_AVCPXML4">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/EG2015_avcp_dataset_2015_2.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_AVCPXML5">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/EG2015_avcp_dataset_2015_3.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_AVCPXML6">
+			<linkDataset>http://www.egas.sanita.fvg.it/avcp/EG2015_avcp_dataset_2015_4.xml</linkDataset>
+			<dataUltimoAggiornamento>2016-01-25</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

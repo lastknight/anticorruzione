@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+    <abstract> Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2016-03-04 11:33:20</abstract>
+    <dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>Comune di Rivignano Teor</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-03-04</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile><![CDATA[]]>http://www.comune.rivignanoteor.ud.it/fileadmin/user_rivignanoteor/amministrazione_trasparente/avcp_xml/2015-2016/indice_030188_avcp_dataset_2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.comune.rivignanoteor.ud.it/fileadmin/user_rivignanoteor/amministrazione_trasparente/avcp_xml/2015-2016/030188_avcp_dataset_2014.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-03-04</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.comune.rivignanoteor.ud.it/fileadmin/user_rivignanoteor/amministrazione_trasparente/avcp_xml/2015-2016/030188_avcp_dataset_2015.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.comune.rivignanoteor.ud.it/fileadmin/user_rivignanoteor/amministrazione_trasparente/avcp_xml/2015-2016/030188_avcp_dataset_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

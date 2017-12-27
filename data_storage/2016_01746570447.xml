@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"">
+    <meta name="description" content=""Errore404">
+    <meta name="generator" content="PressKit MP2 v4.1 - ccode (http://www.ccode.net)">
+    <meta name="author" content="http://www.picenogasvendita.it">
+    <!-- OpenGraph meta -->
+    <meta property="og:title" content="Errore 404"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:site_name" content="http://www.picenogasvendita.it"/>
+    <link rel="shortcut icon" href="http://www.picenogasvendita.it/temi/B12/img/favicon-pg.png">
+    <title>Errore 404</title>
+    <!-- Bootstrap core CSS -->
+    <link href="http://www.picenogasvendita.it/temi/B12/css/bootstrap.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="http://www.picenogasvendita.it/temi/B12/js/html5shiv.js"></script>
+      <script src="http://www.picenogasvendita.it/temi/B12/js/respond.min.js"></script>
+    <![endif]-->
+    <!-- Custom styles for this template -->
+    <link href="http://www.picenogasvendita.it/temi/B12/css/animate.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/owl.carousel.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/swipebox.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/font-awesome.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/bootstrap-select.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/bootstrap-datetimepicker.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/style.css" rel="stylesheet">
+    <link href="http://www.picenogasvendita.it/temi/B12/css/responsive.css" rel="stylesheet">
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="http://www.picenogasvendita.it/temi/B12/js/jquery-2.1.4.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/bootstrap.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/bootstrap-notify.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/bootstrap-slider.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/bootstrap-select.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/bootstrap-rating-input.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/moment-with-locales.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/locales/bootstrap-datetimepicker.it.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/eldarion-ajax.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/jquery.swipebox.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/jquery.validate.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/jquery.touchSwipe.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/spin.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/jquery.spin.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/owl.carousel.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/holder.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/fluidvids.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/jquery.cookie.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/imagesloaded.pkgd.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/isotope.pkgd.min.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/ajax.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/main.js"></script>
+    <script src="http://www.picenogasvendita.it/temi/B12/js/wow.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCP6HvN2NRllF8RxhkOwVJY5bmxEQQRtsQ"></script>
+  </head>
+  <body>
+    <div id="contenitore">
+      <header class="bg-default">
+        <nav id="nav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header pull-right">
+              <button class="navbar-toggle mt-lg ml-sm mh-lg" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a href="/areaclienti/" class="btn btn-sm btn-info mt-pulsante-navbar visible-lg ph-lg ml-lg">
+                <span class="text-uppercase">
+                  <span class="fa fa-users fa-1x fa-fw mr-sm"></span>
+                  <strong>Area Clienti</strong>
+                </span>
+              </a>
+            </div>
+            <div class="navbar-header">
+              <a href="/" class="navbar-brand mr-lg visible-lg-block">
+                <img src="http://www.picenogasvendita.it/temi/B12/img/loghi/logo.png" class="thumb150 mt-logo-navbar" alt="Logo">
+              </a>
+              <a href="/" class="navbar-brand ml-sm hidden-lg">
+                <img src="http://www.picenogasvendita.it/temi/B12/img/loghi/logo.png" class="thumb150 mt-logo-navbar" alt="Logo mobile">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+              <ul class="nav navbar-nav navbar-left">
+              
+                
+
+<li>
+  <a href="/azienda/" target="_self">
+    Azienda
+  </a>
+</li>
+
+
+<li>
+  <a href="/servizi/2010/" target="_self">
+    Tariffe
+  </a>
+</li>
+
+
+<li>
+  <a href="/servizi/2009/" target="_self">
+    Documenti
+  </a>
+</li>
+
+
+<li>
+  <a href="/faq/" target="_self">
+    Come fare per
+  </a>
+</li>
+
+
+<li>
+  <a href="/sezioni/52/" target="_self">
+    Area Stampa
+  </a>
+</li>
+
+
+<li>
+  <a href="/contatti/" target="_self">
+    Contatti
+  </a>
+</li>
+
+
+                <li class="nav-divider hidden-lg"></li>
+                <li>
+                  <a href="/areaclienti/" class="hidden-lg">
+                    Area Clienti
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
+   
+        <!-- modal ricerca -->
+        <div class="modal fade" id="ModalRicerca" tabindex="-1" role="dialog" aria-labelledby="ModalRicercaLabel" aria-hidden="true">
+          <div class="modal-dialog modal-md">
+            <div class="modal-content">
+              <div class="modal-header text-center">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title fontAlt text-center" id="myModalLabel">
+                  Ricerca
+                </h4>
+              </div>
+              <div class="modal-body">
+                <ul class="nav nav-tabs" role="tablist">
+                  <li role="presentation" class="active"><a href="#prodotti" aria-controls="prodotti" role="tab" data-toggle="tab">Prodotti</a></li>
+                  <li role="presentation"><a href="#articoli" aria-controls="articoli" role="tab" data-toggle="tab">Articoli</a></li>
+                </ul>
+                <div class="tab-content ph-lg">
+                  <div role="tabpanel" class="tab-pane active" id="prodotti">
+                    <p>
+                      <small>Inserisci uno o pi&ugrave; termini nella casella sottostante.</small>
+                    </p>
+                    <form id="modulo_ricerca_prodotti" role="search" action="/risultati/" method="post">
+                      <input type="hidden" name="tipo" value="2">
+                      <div class="row form-group">
+                        <div class="col-sm-12">
+                          <input type="text" class="form-control input-lg" id="ricerca_prodotti" name="ricerca_prodotti" placeholder="Inserisci i termini della ricerca" required="">
+                        </div>
+                      </div>
+                      <div class="row form-group">
+                        <div class="col-sm-12 mb-lg">
+                          <p>
+                            <small>
+                              <span class="ml-sm">Intervallo prezzi</span>
+                            </small>
+                          </p>
+                        </div>
+                        
+<div class="col-xs-3 col-sm-2 text-center">
+  <small class="bold">&euro; 0,00</small>
+</div>
+<div class="col-xs-12 col-sm-8">
+  <input id="rangePrezzi" name="range" type="text" class="span2" value="" data-slider-min="0" data-slider-max="1" data-slider-step="1" data-slider-value="[0, 1]"/>
+</div>
+<div class="col-xs-3 col-sm-2 text-center">
+  <small class="bold">&euro; 1,00</small>
+</div>
+
+                      </div>
+                      <div class="row form-group">
+                        <div class="col-sm-12 mt-xl">
+                          <button type="button" class="btn btn-outline btn-md pull-left pv" data-dismiss="modal">
+                          <span class="fa fa-times mr-sm"></span>
+                          Chiudi<span class="hidden-xs"> questa finestra</span>
+                          </button>
+                          <button class="btn btn-ecommerce btn-md pull-right pv" type="submit" name="ricerche" value="avvia">
+                            <span class="fa fa-search mr-sm"></span>
+                            Avvia la ricerca
+                          </button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                  <div role="tabpanel" class="tab-pane" id="articoli">
+                    <p>
+                      <small>Inserisci uno o pi&ugrave; termini nella casella sottostante.</small>
+                    </p>
+                    <form id="modulo_ricerca_articoli" role="search" action="/risultati/" method="post">
+                      <input type="hidden" name="tipo" value="0">
+                      <div class="row form-group">
+                        <div class="col-sm-12">
+                          <input type="text" class="form-control input-lg" id="ricerca_articoli" name="ricerca_articoli" placeholder="Inserisci i termini della ricerca" required="">
+                        </div>
+                      </div>
+                      <div class="row form-group">
+                        <div class="col-sm-12 mt-xl">
+                          <button type="button" class="btn btn-outline btn-md pull-left pv" data-dismiss="modal">
+                          <span class="fa fa-times mr-sm"></span>
+                          Chiudi<span class="hidden-xs"> questa finestra</span>
+                          </button>
+                          <button class="btn btn-ecommerce btn-md pull-right pv" type="submit" name="ricerche" value="avvia">
+                            <span class="fa fa-search mr-sm"></span>
+                            Avvia la ricerca
+                          </button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- fine modal ricerca -->
+        <!-- modal sessione -->
+        <div class="modal fade" id="ModalLogin" tabindex="-1" role="dialog" aria-labelledby="ModalLoginLabel" aria-hidden="true">
+          <div class="modal-dialog modal-md">
+            <div class="modal-content">
+              <div class="modal-header text-center">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 class="modal-title fontAlt text-center" id="myModalLabel">
+                  Accedi
+                </h3>
+              </div>
+              <div class="modal-body">
+                <div class="pv-lg text-center">
+                  <h3>
+                    <span class="fa fa-facebook fa-2x text-nero mb"></span>
+                  </h3>
+                  <p class="mb-xl small">
+                    Questo servizio ti permette di collegare il tuo profilo Facebook al nostro sito web ed accedere a tutte le funzionalit&agrave; aggiuntive in modo facile e veloce senza effettuare nessuna registrazione.
+                  </p>
+                  <a href="/facebook-login/" class="btn btn-lg btn-facebook ph-lg pv-lg" role="button">
+                    <span class="fa fa-facebook fa-lg fa-fw mr-sm"></span>
+                    Accedi con facebook
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- fine modal sessione -->
+<section class="bg-bread mt-navbar">
+  <div class="container interno">
+    <div class="row">
+      <div class="col-sm-12">
+        <ol class="breadcrumb pl-sm pv">
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li class="corrente">
+            Errore 404
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-default">
+  <div class="container pv-xxl">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1 class="text-center">
+          <span class="fa fa-meh-o fa-4x"></span>
+        </h1>
+        <h1 class="fontAlt headline light text-tema text-uppercase text-center mv-lg">
+          Errore 404
+        </h1>
+        <p class="text-center">
+          La pagina richiesta non &egrave; disponibile.
+        </p>
+        <p class="text-center">
+          <a href="/" class="btn btn-md ph-lg pv btn-inverse mt-lg" role="button">
+            Torna indietro
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+</div> <!-- chiudi container principale -->
+<footer class="bg-grigio pv-lg">
+  <div class="container interno pt-xl">
+    <div class="row">
+      <div class="col-sm-12 mt-sm mb-xl text-center">
+        <img src="http://www.picenogasvendita.it/temi/B12/img/loghi/logo.png" class="img-responsive center-block thumb150 mb-xl" alt="logo footer">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 col-md-3 mb-lg">
+        <h5 class="text-uppercase black mt0 mb-lg">
+          Piceno Gas Vendita srl
+        </h5>
+        <p>
+          Società unipersonale del Gruppo del Comune di Ascoli Piceno
+        </p>
+        <p>
+          Via Piceno Aprutina, 114
+        </p>
+        <p>
+          63100 Ascoli Piceno (AP)
+        </p>
+        <p>
+          P. IVA 01746570447
+        </p>
+        <p>
+          Capitale Sociale € 15.493,00 i.v.
+        </p>
+      </div>
+      <div class="col-sm-6 col-md-3 mb-lg">
+        <h5 class="text-uppercase black mt0 mb-lg">
+          Ascoli Piceno
+        </h5>
+        <p>
+          Via Piceno Aprutina, 114
+        </p>
+        <p>
+          63100 Ascoli Piceno (AP)
+        </p>
+        <p>
+          Tel. 0736.338521
+        </p>
+        <p>
+          Fax 0736.338512
+        </p>
+        <p>
+          Dal Lunedì al Venerdì 8:30 &ndash; 13:00
+        </p>
+        <p>
+          Martedì e Giovedì 15:15 &ndash; 17:15
+        </p>
+      </div>
+      <div class="col-sm-6 col-md-3 mb-lg">
+        <h5 class="text-uppercase black mt0 mb-lg">
+          San Benedetto del Tronto
+        </h5>
+        <p>
+          Viale De Gasperi, 90
+        </p>
+        <p>
+          63074 San Benedetto del Tronto (AP)
+        </p>
+        <p>
+          Tel. e Fax 0735.581151
+        </p>
+        <p>
+          Luned&igrave;: 09:30 &ndash; 12:30
+          <span class="ph-sm">/</span>
+          15:00 &ndash; 18:00
+        </p>
+        <p>
+          Mercoled&igrave; e Venerd&igrave;: 09:30 &ndash; 12:30
+        </p>
+      </div>
+      <div class="col-sm-6 col-md-3 mb-lg">
+        <h5 class="text-uppercase black mt0 mb-lg">
+          Alba Adriatica
+        </h5>
+        <p>
+          Via Mazzini, 98
+        </p>
+        <p>
+          64011 Alba Adriatica (TE)
+        </p>
+        <p>
+          Tel. e Fax 0861.777149
+        </p>
+        <p>
+          Marted&igrave;: 09:30 &ndash; 12:30
+          <span class="ph-sm">/</span>
+          15:00 &ndash; 18:00
+        </p>
+        <p>
+          Gioved&igrave;: 09:30 &ndash; 12:30
+          <span class="ph-sm">/</span>
+          15:00 &ndash; 18:00
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 text-center mv-xl">
+        <a href="https://www.facebook.com/picenogasvendita/" target="_blank" class="btn btn-md btn-facebook ph-lg pv" role="button">
+          <span class="fa fa-facebook fa-lg fa-fw text-bianco"></span>
+          <span class="fontAlt text-bianco">Seguici su facebook</span>
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <ul class="list-inline">
+          
+
+<li>
+  <a href="/azienda/" target="_self">
+    Azienda
+  </a>
+</li>
+
+
+<li>
+  <a href="/servizi/2010/" target="_self">
+    Tariffe
+  </a>
+</li>
+
+
+<li>
+  <a href="/servizi/2009/" target="_self">
+    Documenti
+  </a>
+</li>
+
+
+<li>
+  <a href="/faq/" target="_self">
+    Come fare per
+  </a>
+</li>
+
+
+<li>
+  <a href="/pagine/1994/" target="_self">
+    Cookie Policy
+  </a>
+</li>
+
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- <section class="bg-gradiente">
+  <div class="container interno pv-sm">
+    <div class="row">
+      <div class="col-sm-12 text-center pt">
+        <p>
+          <a href="http://www.ccode.net/">
+            <img src="http://www.picenogasvendita.it/temi/B12/img/loghi/ccode-e-inverse.svg" class="thumb96 center-block" alt="logo ccode">
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+<div class="alert alert-info cookielaw m0">
+  <div class="mh">
+    <small>
+      I cookie ci aiutano a fornire i nostri servizi. Utilizzando tali servizi, accetti l'utilizzo dei cookie da parte nostra.
+      <a href="/pagine/1994/" class="btn btn-xs btn-info ml-lg">Informazioni</a>
+      <button class="btn btn-xs btn-info ml ph-lg">OK</button>
+    </small>
+  </div>
+</div>
+
+
+</body>
+</html>

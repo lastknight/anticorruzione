@@ -1,0 +1,409 @@
+<!DOCTYPE html><html id="zf__html" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><head><!--[if lt IE 6]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 lt-ie8 lt-ie7 lt-ie6 ie";</script><![endif]--><!--[if IE 6]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 lt-ie8 lt-ie7 ie6 ie";</script><![endif]--><!--[if IE 7]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 lt-ie8 ie7 ie";</script><![endif]--><!--[if IE 8]><script>document.documentElement.className+=" lt-ie11 lt-ie10 lt-ie9 ie8 ie";</script><![endif]--><!--[if IE 9]><script>document.documentElement.className+=" lt-ie11 lt-ie10 ie9 ie";</script><![endif]--><script type="text/javascript">if("behavior" in document.documentElement.style && "-ms-user-select" in document.documentElement.style){document.documentElement.className+=" lt-ie11 ie10 ie"}if("-ms-scroll-limit" in document.documentElement.style && "-ms-ime-align" in document.documentElement.style && navigator.userAgent.indexOf("Edge") === -1){document.documentElement.className+=" ie11 ie"}</script><script type="text/javascript">document.documentElement.className=document.documentElement.className.replace("no-js","js");window.zhongFramework={self:{},params:{},helpers:{},cache:{},components:{},handlers:{},actions:{},mixins:{}};</script><!--[if lt IE 9]><script type="text/javascript">(function(){var a=["abbr","article","aside","audio","bdi","canvas","data","datalist","details","dialog","figcaption","figure","footer","header","hgroup","main","mark","meter","nav","output","picture","progress","section","summary","template","time","video"];for(var i=a.length-1;i>=0;i=i-1)document.createElement(a[i])}())</script><![endif]--><link rel="icon" type="image/ico" href="/newsite/images/favicon-16x16.png" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" type="text/css" media="screen" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/layouts/default-layout.css?zf-v=3.5.0" /><link rel="stylesheet" type="text/css" media="screen" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/platforms/Joomla/joomla3-css3-valid.css?zf-v=3.5.0" /><style type="text/css" media="print">*{background-color:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a img{border:0 !important}body{font-size:1em}p,ul li,ol li,table,label,dt,dd{font-size:1em}table{margin:20pt 5%;padding:0;border-collapse:collapse;width:90%}table td,table th{padding:2pt 5pt;border:solid 1pt #DDD}table th{text-align:center}thead{display:table-header-group}a,a:visited{text-decoration:underline}img{max-width:100%;height:auto;page-break-inside:avoid}.visually-hidden,.removed,.zf--toolbox-panel,#zf--screenreader-hidden-message,#zf--internal-anchors-nav,#zf--accessibility-options-toolbox-button-shell,#zf--header-top,.zf--menu-container,#zf--main-menu,#zf--side-menu,#zf--footer-menu,#zf--login,#zf--left-column,#zf--right-column,#zf--top-anchor-container,#zf--jump-to-content-anchor,#zf--top-anchor-container,#zf--internal-anchors-nav,.zf--section-heading,.zf--section-anchors,#zf--default-toolbox,#zf--social-buttons-panel-activation-button,#zf--social-buttons-panel,#zf--quick-access-menu,#zf--high-contrast-toolbar,#zf--jump-to-content-anchor-container,#zf--language-switcher,#zf--search{display:none !important;visibility:hidden}#zf--top-layout-partial,#zf--main-layout-partial,#zf--footer--skin,#zf--footer-credits{border:0 !important}.accessible-slideshow .slide,.accessible-slideshow .slide-text{display:block !important;opacity:1 !important;position:relative !important}.accessible-slideshow .accessible-slideshow_dots-container,.accessible-slideshow .accessible-slideshow_arrows-container{display:none !important;visibility:hidden}.zf--grouped-host--skin,.zf--grouped-host--skin *{min-height:0 !important}#zf--main-layout-partial--skin{margin:3pt}#zf--breadcrumbs{margin:5pt 0;padding:0 3pt 3pt 3pt;border-bottom:dotted 1px #555 !important;font-style:italic}#zf--breadcrumbs ul,#zf--breadcrumbs li{list-style:none}#zf--breadcrumbs li{margin:0 2pt;display:inline-block}#zf--header{margin:3pt 0 10pt;border-bottom:dotted 1px #555;overflow:hidden}#zf--site-titles{width:100%;text-align:center}#zf--site-logo{width:100%;text-align:center}#zf--site-logo img{max-height:160pt;width:auto}#zf--site-title{font-size:2.4em;margin:0 0 0 10pt}#zf--site-subtitle{font-size:1.6em;margin:0 0 10pt 10pt}#zf--footer-credits{display:block !important;visibility:visible !important;margin:30pt 0 10pt 0;padding:0 3pt 3pt 3pt;border-top:dotted 1px #555 !important}
+body{font-family:Garamond,"Apple Garamond",Georgia,serif !important;}body{font-size:80% !important;}</style><style type="text/css" media="speech">*{voice-family:male}.zf--section-heading,#zf--internal-anchors-nav *,.zf--section-anchors *{voice-family:female}
+</style><!--[if IE 6]><link rel="stylesheet" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/other/ie6only.css?zf-v=3.5.0" type="text/css" /><![endif]--><!--[if IE 7]><link rel="stylesheet" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/other/ie7only.css?zf-v=3.5.0" type="text/css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/other/ie8only.css?zf-v=3.5.0" type="text/css" /><![endif]--><style type="text/css">html{font-size:100%;}body.liquid-layout-width .zf--encloser{max-width:1080px;}body.auto-resized-layout-width .zf--encloser,body.custom-layout-width .zf--encloser{width:inherit;}#zf__html #zf--body #zf--main-content--skin,#zf__html #zf--body #zf--main-article--skin{border:none;}#zf__html #zf--body #zf--main-content--skin{border-color:#d4cdcd;border-style:solid;border-width:1px;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;}#zf__html #zf--body .zf--block-coat--user-custom-1{background:#faf8f8;border-color:#000000;}#zf__html #zf--body .zf--block-coat--user-custom-1{border-style:solid;border-width:0;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;margin:3px;padding:0;}#zf__html #zf--body .zf--block-coat--user-custom-1 h1,#zf__html #zf--body .zf--block-coat--user-custom-1 h2,#zf__html #zf--body .zf--block-coat--user-custom-1 h3,#zf__html #zf--body .zf--block-coat--user-custom-1 h4,#zf__html #zf--body .zf--block-coat--user-custom-1 h5,#zf__html #zf--body .zf--block-coat--user-custom-1 h6{color:#ffffff;background:#bf1f1f;border-color:#ffffff;border-style:solid;border-width:0;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;}#zf__html #zf--body #zf--follow-us a{font-size:100%;}#zf__html #zf--body #zf--social-buttons-panel-activation-button{margin-right:0px;margin-top:0px;font-size:100%;}</style><base href="http://www.iisluzzatti.it/newsite/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/newsite/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/newsite/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"f8dd08e2d2445751e396a071cefe7147","system.paths":{"root":"\/newsite","base":"\/newsite"},"system.keepalive":{"interval":840000,"uri":"\/newsite\/index.php\/component\/ajax\/?format=json"}}</script>
+	<script src="/newsite/media/jui/js/jquery.min.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<script src="/newsite/media/jui/js/jquery-noconflict.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<script src="/newsite/media/jui/js/jquery-migrate.min.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<script src="/newsite/media/system/js/caption.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<script src="/newsite/media/jui/js/bootstrap.min.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<script src="/newsite/media/system/js/core.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/newsite/media/system/js/polyfill.event.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script><![endif]-->
+	<script src="/newsite/media/system/js/keepalive.js?212192dba089e93bff82fa87408b026a" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+<script type="text/javascript">/*<![CDATA[*/window.jQuery || document.write('<script src="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/lib/jquery/jquery.min.js?zf-v=3.5.0"><\/script>');/*]]>*/</script><link id="zf--best-legibility-stylesheet" rel="alternate" type="text/css" media="screen" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/graphic-modes/best-legibility.css?zf-v=3.5.0" /><link id="zf--dark-theme-stylesheet" rel="alternate" type="text/css" media="screen" href="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/css/min/graphic-modes/dark-theme.css?zf-v=3.5.0" /></head><body id="zf--body" class="default-layout default-graphic-mode liquid-layout-width client-device-is--desktop main-menu-style--vertical-floating main-menu-alignment--left side-menu-style--standard floating-submenus-effect--fade site-banner-alignment--left non-fixed-top-bar right-column-exists left-column-exists default-toolbox-buttons-style--icon show-site-logo--true main-content-container-width--3 left-column-width--3 right-column-width--3 main-content-container-column-float--left left-column-float--left right-column-float--left layout-width-type--main-layout-partial--contained parent-platform--Joomla parent-platform-release-class--Joomla3 zf-theme-skin--zng "><div id="zf--page-top" class="clear-both"></div><!--[if lte IE 7]><div id="zf__obsolete-browser-alert" class="zf__obsolete-browser-alert"><div class="zf__obsolete-browser-alert__inner"><p>Attenzione: state utilizzando un <strong>browser obsoleto</strong>! Vi consigliamo di aggiornare il vostro software o scaricare un browser alternativo: <a href="https://www.mozilla.org/firefox/">scarica qui l'ultima versione di Firefox</a>.<br/>Se state utilizzando un sistema operativo Windows in una macchina poco potente, vi consigliamo di installare il browser <a href="http://www.midori-browser.org">Midori</a>.</p></div><a href="#" role="button" id="zf__hide-obsolete-browser-alert-button">Nascondi questo messaggio</a></div><script type="text/javascript">jQuery(document.getElementById("zf__hide-obsolete-browser-alert-button")).click(function(){jQuery(document.getElementById("zf__obsolete-browser-alert")).hide();});</script><![endif]--><div id="zf--quick-access-menu"><nav role="navigation" aria-labelledby="zf--quick-access-menu--section-heading" id="zf--quick-access-menu--semantic-tag"><h2 id="zf--quick-access-menu--section-heading" class="zf--section-heading">Menu di accesso rapido</h2><div id="zf--quick-access-menu--skin" class="clearfix"><ul><li><a href="http://www.iisluzzatti.it/newsite/#zf--main-content" accesskey="1" id="zf--internal-anchor-main-content">Contenuto principale - <span class="zf--quick-access-menu-accesskey-text">accesskey 1</span></a></li><li><a href="http://www.iisluzzatti.it/newsite/#zf--main-menu" accesskey="2" id="zf--internal-anchor-topmenu">Menu principale - <span class="zf--quick-access-menu-accesskey-text">accesskey 2</span></a></li><li><a href="http://www.iisluzzatti.it/newsite/#zf--footer" id="zf--internal-anchor-footer">Pi&egrave; di pagina</a></li></ul></div></nav><hr class="removed" /></div><div id="zf--top-layout-partial"><div id="zf--top-layout-partial--skin" class="clearfix"><div id="zf--top-layout-partial--encloser" class="zf--encloser"><div id="zf--breadcrumbs"><nav role="navigation" aria-labelledby="zf--breadcrumbs--section-heading" id="zf--breadcrumbs--semantic-tag"><h2 id="zf--breadcrumbs--section-heading" class="zf--section-heading visually-hidden">Percorso attuale</h2><div id="zf--breadcrumbs--skin" class="clearfix"><div id="zf--guest-view--breadcrumbs" class="zf--guest-view">
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li>
+			Sei qui: &#160;
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Home				</span>
+				<meta itemprop="position" content="1">
+			</li>
+		</ul>
+</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--default-toolbox"><section aria-labelledby="zf--default-toolbox--section-heading" id="zf--default-toolbox--semantic-tag"><h2 id="zf--default-toolbox--section-heading" class="zf--section-heading visually-hidden">Casella degli strumenti</h2><div id="zf--default-toolbox--skin" class="clearfix"><ul class="zf--toolbox-buttons list-style-reset"><li id="zf--login-toolbox-button-shell" class="zf--toolbox-button-shell"><a id="zf--login-toolbox-button" role="button" href="http://www.iisluzzatti.it/newsite/#zf--login-toolbox-panel" class="zf--toolbox-button show-tooltip" title="Accesso utente" data-zf-related-toolbox-panel="zf--login-toolbox-panel" aria-controls="zf--login-toolbox-panel" aria-haspopup="true" aria-expanded="false"><span class="zf--toolbox-button--text visually-hidden">Accesso utente</span><span class="zf--toolbox-button--icon zf--zhong-icon zf--zhong-icon-login" aria-hidden="true"></span></a><div id="zf--login-toolbox-panel" class="zf--toolbox-panel" aria-atomic="true" aria-live="polite"><div id="zf--login-toolbox-panel--skin" class="zf--toolbox-panel--skin clearfix"><div id="zf--login"><section aria-labelledby="zf--login--section-heading" id="zf--login--semantic-tag"><h2 id="zf--login--section-heading" class="zf--section-heading visually-hidden">Accesso utente</h2><div id="zf--login--skin" class="clearfix zf--block-coat--marked-default"><div id="zf--guest-view--login" class="zf--guest-view">		<div class="moduletable">
+						<form action="/newsite/index.php" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Nome utente"></span>
+							<label for="modlgn-username" class="element-invisible">Nome utente</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Nome utente" />
+					</div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Password">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Password							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Password" />
+					</div>
+							</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Ricordami</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary login-button">Accedi</button>
+			</div>
+		</div>
+					<ul class="unstyled">
+							<li>
+					<a href="/newsite/index.php/component/users/?view=remind&amp;Itemid=101">
+					Nome utente dimenticato?</a>
+				</li>
+				<li>
+					<a href="/newsite/index.php/component/users/?view=reset&amp;Itemid=101">
+					Password dimenticata?</a>
+				</li>
+			</ul>
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aHR0cDovL3d3dy5paXNsdXp6YXR0aS5pdC9uZXdzaXRlLw==" />
+		<input type="hidden" name="f8dd08e2d2445751e396a071cefe7147" value="1" />	</div>
+	</form>
+		</div>
+	</div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></li><li id="zf--accessibility-options-toolbox-button-shell" class="zf--toolbox-button-shell"><a id="zf--accessibility-options-toolbox-button" role="button" href="http://www.iisluzzatti.it/newsite/#zf--accessibility-options-toolbox-panel" class="zf--toolbox-button show-tooltip" title="Pannello accessibilit&agrave;" data-zf-related-toolbox-panel="zf--accessibility-options-toolbox-panel" aria-controls="zf--accessibility-options-toolbox-panel" aria-haspopup="true" aria-expanded="false"><span class="zf--toolbox-button--text visually-hidden">Pannello accessibilit&agrave;</span><span class="zf--toolbox-button--icon zf--zhong-icon zf--zhong-icon-double-a" aria-hidden="true"></span></a><div id="zf--accessibility-options-toolbox-panel" class="zf--toolbox-panel" aria-atomic="true" aria-live="polite"><div id="zf--accessibility-options-toolbox-panel--skin" class="zf--toolbox-panel--skin clearfix"><div id="zf--default-accessibility-options"><section aria-labelledby="zf--default-accessibility-options--section-heading" id="zf--default-accessibility-options--semantic-tag"><h3 id="zf--default-accessibility-options--section-heading" class="zf--section-heading">Opzioni accessibilit&agrave;</h3><div id="zf--default-accessibility-options--skin" class="clearfix"><button id="zf--default-accessibility-options-reset-button" class="blue-button-style removed-no-js">Reimposta</button><div id="zf--font-resizer-container" class="zf--accessibility-panel-module"><p class="zf--accessibility-panel-module-description">Dimensioni testo:</p><ul id="zf--font-resizer" class="removed-no-js"><li><button class="show-tooltip" title="Aumenta dimensioni carattere" id="zf--larger-font-button"><span class="zf--zhong-icon zf--zhong-icon-arrow-up" aria-hidden="true"></span><span class="visually-hidden">Aumenta</span><span class="visually-hidden">. Aumenta dimensioni carattere.</span></button></li><li><button class="show-tooltip" title="Diminuisci dimensioni carattere" id="zf--smaller-font-button"><span class="zf--zhong-icon zf--zhong-icon-arrow-down" aria-hidden="true"></span><span class="visually-hidden">Diminuisci</span><span class="visually-hidden">. Diminuisci dimensioni carattere.</span></button></li></ul><ul id="zf--font-resizer--no-js" class="list-style-reset removed-js"><li><a href="http://www.iisluzzatti.it/newsite/?fontSize=increase" rel="nofollow" title="Aumenta dimensioni carattere" id="zf--larger-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-arrow-up" aria-hidden="true"></span><span class="visually-hidden">Aumenta</span><span class="visually-hidden">. Aumenta dimensioni carattere</span></a></li><li><a href="http://www.iisluzzatti.it/newsite/?fontSize=decrease" rel="nofollow" title="Diminuisci dimensioni carattere" id="zf--smaller-font-link" class="grey-button-style rounded-corners show-tooltip"><span class="zf--zhong-icon zf--zhong-icon-arrow-down" aria-hidden="true"></span><span class="visually-hidden">Diminuisci</span><span class="visually-hidden">. Diminuisci dimensioni carattere</span></a></li></ul></div><div id="zf--theme-switcher-container" class="zf--accessibility-panel-module removed-no-js"><p class="zf--accessibility-panel-module-description">Tema:</p><ul id="zf--theme-switcher"><li><button id="zf--low-brightness-theme-button" class="zf--theme-switcher-button show-tooltip" title="Bassa luminosit&agrave;"><span id="zf--low-brightness-theme-button-icon" class="zf--theme-switcher-button-icon" aria-hidden="true"></span><span class="visually-hidden">Bassa luminosit&agrave;</span></button></li><li><button id="zf--dark-theme-button" class="zf--theme-switcher-button show-tooltip" title="Scuro"><span id="zf--dark-theme-button-icon" class="zf--theme-switcher-button-icon" aria-hidden="true"></span><span class="visually-hidden">Scuro</span></button></li></ul></div><div id="zf--legibility-switcher-container" class="zf--accessibility-panel-module removed-no-js"><p class="zf--accessibility-panel-module-description">Tipo di carattere:</p><ul id="zf--legibility-switcher"><li id="zf--legibility-sans-serif-button-shell" class=""><button id="zf--legibility-sans-serif-button" class="zf--legibility-switcher-button show-tooltip" title="Sans serif"><span id="zf--legibility-sans-serif-button-icon" class="zf--legibility-switcher-button-icon" aria-hidden="true"></span>&nbsp;<span class="visually-hidden">Sans serif</span></button></li><li id="zf--legibility-serif-button-shell" class=""><button id="zf--legibility-serif-button" class="zf--legibility-switcher-button show-tooltip" title="Serif"><span id="zf--legibility-serif-button-icon" class="zf--legibility-switcher-button-icon" aria-hidden="true"></span>&nbsp;<span class="visually-hidden">Serif</span></button></li><li id="zf--legibility-bold-button-shell"><button id="zf--legibility-bold-button" class="zf--legibility-switcher-button show-tooltip" title="Grassetto"><span id="zf--legibility-bold-button-icon" class="zf--legibility-switcher-button-icon " aria-hidden="true"></span><span class="">&nbsp;</span><span class="visually-hidden">Grassetto</span></button></li></ul></div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></li></ul></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div><div id="zf--main-layout-partial"><div id="zf--main-layout-partial--encloser" class="zf--encloser"><div id="zf--main-layout-partial--skin" class="clearfix"><div id="zf--header"><div id="zf--header--skin" class="clearfix"><div id="zf--header-top"><div id="zf--header-top--skin" class="clearfix"><div id="zf--support-menu" class="zf--menu-container"><nav role="navigation" aria-labelledby="zf--support-menu--section-heading" id="zf--support-menu--semantic-tag"><h2 id="zf--support-menu--section-heading" class="zf--section-heading visually-hidden">Menu di supporto</h2><div id="zf--support-menu--skin" class="clearfix"><div id="zf--guest-view--support-menu" class="zf--guest-view"><ul class="nav menu">
+<li class="item-105"><a href="/newsite/index.php/l-istituto-in-breve" >L'Istituto in breve</a></li><li class="item-106"><a href="/newsite/index.php/dove-siamo" >Dove siamo</a></li><li class="item-107"><a href="/newsite/index.php/contattaci" >Contattaci</a></li><li class="item-108"><a href="/newsite/index.php/accessibilita" >Accessibilità</a></li><li class="item-109"><a href="/newsite/index.php/note-legali" >Note legali</a></li><li class="item-110"><a href="/newsite/index.php/privacy" >Privacy</a></li><li class="item-111"><a href="/newsite/index.php/utilizzo-dei-cookies" >Utilizzo dei cookies</a></li></ul>
+</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div><div id="zf--header-middle"><div id="zf--header-middle--skin" class="clearfix"><div id="zf--site-banner"><header role="banner"><div id="zf--site-banner--skin" class="clearfix"><div id="zf--site-logo"><div id="zf--site-logo--skin"><img id="zf--site-logo-image" src="/newsite/images/logo_luzzatti.png" alt="" /></div></div><div id="zf--site-titles"><div id="zf--site-titles--skin"><h1 id="zf--site-title">IIS L. Luzzatti</h1><p id="zf--site-subtitle">La scuola per il tuo futuro</p></div></div></div></header><hr class="removed"/></div></div></div><div id="zf--header-bottom"><div id="zf--header-bottom--skin" class="clearfix"><div id="zf--main-menu" class="zf--menu-container"><nav role="navigation" aria-labelledby="zf--main-menu--section-heading" id="zf--main-menu--semantic-tag"><h2 id="zf--main-menu--section-heading" class="zf--section-heading visually-hidden">Menu principale</h2><div id="zf--main-menu--skin" class="clearfix"><div id="zf--guest-view--main-menu" class="zf--guest-view"><ul class="nav menu">
+<li class="item-101 default current active"><a href="/newsite/index.php" >Home</a></li><li class="item-102 deeper parent"><a href="/newsite/index.php/l-istituto" >L'Istituto</a><ul class="nav-child unstyled small"><li class="item-103"><a href="/newsite/index.php/l-istituto/sottovoce1" >Presentazione</a></li><li class="item-104 deeper parent"><a href="/newsite/index.php/l-istituto/sottovoce2" >Organigramma</a><ul class="nav-child unstyled small"><li class="item-219"><a href="/newsite/index.php/l-istituto/sottovoce2/ufficio-presidenza" >Ufficio presidenza</a></li><li class="item-220"><a href="/newsite/index.php/l-istituto/sottovoce2/didattica" >Didattica</a></li></ul></li><li class="item-139"><a href="/newsite/index.php/l-istituto/c-t-s" >C.T.S.</a></li><li class="item-140 deeper parent"><a href="/newsite/index.php/l-istituto/orientamento" >Orientamento</a><ul class="nav-child unstyled small"><li class="item-235"><a href="/newsite/index.php/l-istituto/orientamento/ingresso" >In entrata</a></li><li class="item-236"><a href="/newsite/index.php/l-istituto/orientamento/uscita" >In uscita</a></li></ul></li><li class="item-141"><a href="/newsite/sito/documenti/PTOF_LUZZATTI_2016-19.pdf" >P.T.O.F. 2016-2019</a></li><li class="item-142"><a href="/newsite/index.php/l-istituto/la-nostra-storia" >La nostra storia</a></li><li class="item-143"><a href="/newsite/index.php/l-istituto/rassegna-stampa" >Rassegna stampa</a></li><li class="item-144"><a href="/newsite/index.php/l-istituto/album-fotografico" >Album fotografico</a></li></ul></li><li class="item-145 deeper parent"><a href="/newsite/index.php/didattica" >Didattica</a><ul class="nav-child unstyled small"><li class="item-151"><a href="/newsite/index.php/didattica/materiale-didattico" >Materiale didattico</a></li><li class="item-146"><a href="/newsite/index.php/didattica/orario-scolastico" >Orario scolastico</a></li><li class="item-148"><a href="/newsite/index.php/didattica/classi-e-coordinatori" >Classi e coordinatori</a></li><li class="item-149"><a href="/newsite/sito/didattica/piano_annuale_2017_2018.pdf" >Piano annuale attività</a></li><li class="item-150"><a href="/newsite/index.php/didattica/dipartimenti-disciplinari" >Dipartimenti disciplinari</a></li></ul></li><li class="item-152 deeper parent"><a href="/newsite/index.php/comunicazioni-informazioni" >Informazioni</a><ul class="nav-child unstyled small"><li class="item-225"><a href="/newsite/index.php/comunicazioni-informazioni/circolari" >Circolari</a></li><li class="item-226"><a href="/newsite/index.php/comunicazioni-informazioni/calendario-scolastico" >Calendario scolastico</a></li><li class="item-231"><a href="http://www.iisluzzatti.it/newsite/jdownloads/Circolari/Circolari%202017-2018/ORARI-RICEVIMENTO-PUBBLICO.pdf" >Orari di ricevimento</a></li><li class="item-232"><a href="http://www.iisluzzatti.it/newsite/jdownloads/Circolari/Circolari%202017-2018/Circolare-555-con-allegati.pdf" >Disposizioni per vaccini</a></li><li class="item-233"><a href="/newsite/index.php/comunicazioni-informazioni/reclamo-suggerimento" >Reclamo/Suggerimento</a></li></ul></li><li class="item-154 deeper parent"><a href="/newsite/index.php/area-famiglie-studenti" >Area del Personale, famiglie e studenti</a><ul class="nav-child unstyled small"><li class="item-214 deeper parent"><a href="/newsite/index.php/area-famiglie-studenti/area-docenti" >Docenti</a><ul class="nav-child unstyled small"><li class="item-216"><a href="/newsite/index.php/area-famiglie-studenti/area-docenti/documenti" >Documenti</a></li><li class="item-217"><a href="/newsite/index.php/area-famiglie-studenti/area-docenti/formazione" >Formazione</a></li></ul></li><li class="item-182 deeper parent"><a href="/newsite/index.php/area-famiglie-studenti/area-famiglie" >Famiglie</a><ul class="nav-child unstyled small"><li class="item-147"><a href="/newsite/sito/didattica/ricevimento_2017_2018.pdf" >Orario ricevimento</a></li><li class="item-184"><a href="/newsite/index.php/area-famiglie-studenti/area-famiglie/iscrizioni-istruzioni-moduli" >Iscrizioni e modulistica</a></li><li class="item-185"><a href="http://www.iscrizioni.istruzione.it/" >Iscrizioni online</a></li></ul></li><li class="item-215 deeper parent"><a href="/newsite/index.php/area-famiglie-studenti/personale-ata" >Personale ATA</a><ul class="nav-child unstyled small"><li class="item-223"><a href="/newsite/index.php/area-famiglie-studenti/personale-ata/documenti" >Documenti</a></li><li class="item-224"><a href="/newsite/index.php/area-famiglie-studenti/personale-ata/modulistica" >Modulistica</a></li></ul></li><li class="item-186 deeper parent"><a href="/newsite/index.php/area-famiglie-studenti/area-studenti" >Studenti</a><ul class="nav-child unstyled small"><li class="item-187"><a href="/newsite/index.php/area-famiglie-studenti/area-studenti/organi-collegiali" >Organi collegiali</a></li><li class="item-188"><a href="/newsite/index.php/area-famiglie-studenti/area-studenti/modulistica" >Modulistica</a></li><li class="item-245"><a href="/newsite/index.php/area-famiglie-studenti/area-studenti/curriculum-vitae" >Curriculum Vitae</a></li></ul></li><li class="item-189"><a href="/newsite/sito/documenti//Patto_di_corresponsabilita_educativa.pdf" >Patto di corresponsabilità</a></li><li class="item-221"><a href="/newsite/index.php/area-famiglie-studenti/codice-disciplinare" >Codice disciplinare</a></li><li class="item-190 deeper parent"><a href="/newsite/index.php/area-famiglie-studenti/sicurezza" >Sicurezza</a><ul class="nav-child unstyled small"><li class="item-191"><a href="/newsite/index.php/area-famiglie-studenti/sicurezza/informazioni" >Informazioni</a></li><li class="item-192"><a href="/newsite/index.php/area-famiglie-studenti/sicurezza/piano-di-evacuazione" >Piano di evacuazione</a></li></ul></li><li class="item-193"><a href="/newsite/index.php/area-famiglie-studenti/assicurazione-istituto" >Assicurazione Istituto</a></li><li class="item-243"><a href="/newsite/index.php/area-famiglie-studenti/risultati-questionario" >Risultati monitoraggio</a></li></ul></li><li class="item-155 deeper parent"><a href="/newsite/index.php/le-attivita" >Le attività</a><ul class="nav-child unstyled small"><li class="item-197"><a href="/newsite/index.php/le-attivita/progetti" >Progetti</a></li><li class="item-198"><a href="/newsite/index.php/le-attivita/corsi" >Corsi</a></li><li class="item-199"><a href="/newsite/index.php/le-attivita/alternanza-scuola-lavoro" >Alternanza scuola-lavoro</a></li><li class="item-200"><a href="/newsite/index.php/le-attivita/archivio" >Archivio</a></li></ul></li><li class="item-156 deeper parent"><a href="/newsite/index.php/bisogni-educativi-speciali" >Bisogni Educativi Speciali</a><ul class="nav-child unstyled small"><li class="item-195"><a href="/newsite/index.php/bisogni-educativi-speciali/guide-e-tutorial" >L'inclusione per noi</a></li><li class="item-194"><a href="/newsite/index.php/bisogni-educativi-speciali/didattica" >Strumenti per l'inclusione</a></li><li class="item-196"><a href="/newsite/index.php/bisogni-educativi-speciali/note-e-normativa" >Note e normativa</a></li><li class="item-213"><a href="/newsite/index.php/bisogni-educativi-speciali/progetti-per-l-inclusione" >Progetti per l'inclusione</a></li><li class="item-230"><a href="http://www.ctsvenezia.it" >Sito CTS Venezia</a></li></ul></li></ul>
+</div></div></nav><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div><div id="zf--main-body"><div id="zf--main-body--skin" class="clearfix"><div id="zf--main-body-middle"><div id="zf--main-body-middle--skin" class="clearfix"><div id="zf--left-column"><div id="zf--left-column--skin" class="clearfix"><div id="zf--aside-left"><aside role="complementary" aria-labelledby="zf--aside-left--section-heading" id="zf--aside-left--semantic-tag"><h2 id="zf--aside-left--section-heading" class="zf--section-heading visually-hidden">Risorse aggiuntive (colonna di sinistra)</h2><div id="zf--aside-left--skin" class="clearfix zf--block-coat--user-custom-1"><div id="zf--guest-view--aside-left" class="zf--guest-view">		<div class="moduletable">
+							<h3>Trasparenza</h3>
+						
+
+<div class="custom"  >
+	<p><a href="https://web.spaggiari.eu/sdg/app/default/trasparenza.php?sede_codice=VEII0002&amp;referer=http://www.iisluzzatti.it"><img src="/newsite/images/amministrazione_trasparente.png" alt="amministrazione trasparente" /></a></p>
+<p><a href="https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=VEII0002&amp;referer=http://www.iisluzzatti.it"><img src="/newsite/images/albo.png" alt="albo" /></a></p>
+<p><a href="/newsite/index.php/16-trasparenza/21-avcp"><img src="/newsite/images/avcp.jpg" alt="avcp" width="260" height="83" /></a></p>
+<p><a href="/newsite/index.php/16-trasparenza/22-urp"><img src="/newsite/images/logourp.png" alt="logourp" /></a></p>
+<p><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VEIS004007/luigi-luzzatti/"><img src="/newsite/images/banner_ScuolaInChiaro.png" alt="banner ScuolaInChiaro" /></a></p>
+<p><a href="/newsite/index.php/19-documenti/delibere/consiglio-d-istituto/delibere-2017-2018"><img src="/newsite/images/Delibere_cdi.png" alt="Delibere cdi" width="302" height="199" /></a></p></div>
+		</div>
+			<div class="moduletable">
+							<h3>Tasse e contributi</h3>
+						
+
+<div class="custom"  >
+	<p><img src="/newsite/images/contributo_volontario.jpg" alt="contributo volontario" width="67" height="67" style="float: right;" /><a href="/newsite/sito/documenti/TASSE%20E%20CONTRIBUTI.pdf">Tasse scolastiche e contributo volontario: qualche risposta</a></p>
+<p><a href="/newsite/sito/documenti/Le%20risorse%20economiche%20della%20scuola.pdf">Le risorse economiche della scuola</a></p></div>
+		</div>
+			<div class="moduletable">
+							<h3>Regolamenti</h3>
+						
+
+<div class="custom"  >
+	<p><img src="/newsite/images/Regolamento_istituto_p.jpg" alt="Regolamento Istituto" width="80" height="67" style="float: right;" /><a href="/newsite/sito/didattica/regolamenti/Direttive_di_massima.pdf">Direttive di massima</a></p>
+<p><a href="/newsite/sito/didattica/regolamenti/Regolamento_Uditori.pdf">Regolamento Uditori</a></p>
+<p><a href="/newsite/sito/didattica/regolamenti/Regolamento_Interno.pdf">Regolamento Interno</a></p>
+<p><a href="/newsite/sito/didattica/regolamenti/Regolamento_visite.pdf">Regolamento visite di istruzione</a></p>
+<p><a href="/newsite/sito/didattica/regolamenti/Regolamento_spazi_esterni.pdf">Regolamento spazi esterni</a></p></div>
+		</div>
+	</div></div></aside><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div><div id="zf--main-content"><main role="main"><h1 id="zf--main-content--section-heading" class="zf--section-heading visually-hidden">Contenuto principale</h1><div id="zf--main-content--skin" class="clearfix"><div id="zf--guest-view--system-messages" class="zf--guest-view"><div id="system-message-container">
+	</div>
+</div><div id="zf--alerts-panel" class="removed zf--alerts-panel_bottom-position"><section aria-labelledby="zf--alerts-panel--section-heading" id="zf--alerts-panel--semantic-tag"><h2 id="zf--alerts-panel--section-heading" class="zf--section-heading visually-hidden">Messaggio di avviso</h2><div id="zf--alerts-panel--skin" class="clearfix"><div id="zf--alerts-panel--close-button-container" class="removed"><button id="zf--alerts-panel--close-button" title="Nascondi questo messaggio"><span class="visually-hidden">Nascondi questo messaggio</span><span id="zf--alerts-panel--close-button--icon" aria-hidden="true"></span></button></div><div id="zf--alerts-panel--content-container"><div id="zf--alerts-panel--content"></div><div id="zf--alerts-panel--ok-button-container" class="removed"><button id="zf--alerts-panel--ok-button" class="grey-button-style">OK</button></div></div></div></section></div><div id="zf--main-top"><div id="zf--main-top--skin" class="clearfix"><div id="zf--main-top-row-A" class="zf--grouped-hosts-row clearfix"><div id="zf--main-top-A" class="zf--grouped-host fluid-width-100"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--main-top-A" class="zf--guest-view">		<div class="moduletable">
+						<div class="newsflash">
+			
+	
+
+	<p style="text-align: center;"><span style="font-size: 18pt; color: #800000;">Benvenuti nel nuovo sito dell'IIS L. Luzzatti</span></p>
+<p>Stiamo rinnovando completamente il sito, per migliorarlo sia sul piano estetico che funzionale. Pertanto, molte pagine non sono ora raggiungibili. Ce ne scusiamo e cercheremo di completarlo prima possibile.<br />Buona navigazione.</p>
+
+	</div>
+		</div>
+	</div></div></div></div></div></div><div id="zf--main-article"><article><div id="zf--main-article--skin" class="clearfix"><div id="zf--guest-view--main-article" class="zf--guest-view"><div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+<div class="items-leading clearfix">
+			<div class="leading-0 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/2-non-categorizzato/66-auguri" itemprop="url">
+			Auguri		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p dir="ltr"><img src="/newsite/images/Auguri.jpg" alt="Auguri" width="278" height="146" style="margin-left: 5px; margin-right: 5px; float: left;" title="" /></p>
+<p style="text-align: center;"><em><strong><span style="font-size: 14pt;"><span style="font-family: 'inherit', serif; color: #222222;">I</span><span style="font-family: 'inherit', serif; color: #222222;">n occasione delle prossime festività, intendo rivolgere a tutti coloro che vivono e operano nella scuola, i migliori Auguri di un sereno Natale e felice 2018.</span><span style="font-family: 'inherit', serif; color: #222222;"></span></span></strong></em></p>
+<p style="text-align: center;"><span style="font-family: 'inherit', serif; color: #222222;">IL DIRIGENTE SCOLASTICO<br />Prof.ssa Marisa Zanon</span></p>
+
+
+
+		</div>
+					<div class="leading-1 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/14-orientamento-in-uscita/40-giornate-scuola-aperta-2017-2018" itemprop="url">
+			Giornate scuola aperta 2017-2018		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p><a href="/newsite/sito/documenti/scuola_aperta.pdf"><img src="/newsite/images/scuola_aperta_2_p.jpg" alt="scuola aperta" width="220" height="313" style="margin-left: auto; margin-right: auto; display: block;" title="Cliccare per visualizzare" /></a></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><span style="color: #ff0000;"><em><strong>Mini-stage per allievi provenienti<br /> da Scuole Medie&nbsp;</strong></em></span></span></p>
+<p style="text-align: center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf9JZx231fjEZ1SSEG6H8vBiDkCnOl_RA5GaTS6HJhR2xKXHg/viewform?c=0&amp;w=1"><span style="font-size: 14pt; color: #0000ff;">Iscrizioni ....</span></a> </p>
+
+
+
+		</div>
+					<div class="leading-2 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/l-istituto/album-fotografico/60-sailor" itemprop="url">
+			Progetto Sailor		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p><a href="/newsite/sito/eventi/2017-2018/sailor.gif"><img src="/newsite/sito/eventi/2017-2018/sailor_p.gif" alt="progetto Sailor" width="198" height="198" style="margin-left: 5px; margin-right: 5px; float: left;" title="Cliccare per visualizzare" /></a><span style="font-size: 12pt;">CROCIERA "SAILOR: I MESTIERI DEL MARE"</span></p>
+<p><span style="font-size: 10pt;">Una crociera didattica da Genova a Palermo per sperimentare il lavoro a bordo di una nave: è l'esperienza vissuta da una nostra rappresentanza che ha partecipato al progetto "Sailor: i mestieri del mare", promosso dalle Regioni Veneto e Liguria, che ha visti coinvolti dall'11 al 14 novembre 2017 circa duecento studenti italiani e stranieri di diversi indirizzi di studio.</span></p>
+<p><span style="font-size: 10pt;">Il gruppo guidato dal Prof. Flavio Perdon, composto dagli studenti </span><span style="font-size: 10pt;">Filippo </span><span style="font-size: 10pt;">Bagordo e <span class="font_size_15 align_center timesroman bluetext title"></span></span><span style="font-size: 10pt;"><span class="font_size_15 align_center timesroman bluetext title">Mamadou </span></span><span style="font-size: 10pt;"><span class="font_size_15 align_center timesroman bluetext title">Thiandoume Papa della classe terza indirizzo Logistica e da </span></span><span style="font-size: 10pt;"><span class="font_size_15 align_center timesroman bluetext title">Denis </span></span><span style="font-size: 10pt;"><span class="font_size_15 align_center timesroman bluetext title">Pomiato e </span></span><span style="font-size: 10pt;"><span class="font_size_15 align_center timesroman bluetext title">Emma </span></span><span style="font-size: 10pt;"><span class="font_size_15 align_center timesroman bluetext title"> Quercioli della classe quinta indirizzo Logistica</span>, ha vissuto una esperienza unica nel suo genere, sotto l’aspetto relazionale, didattico e&nbsp; professionale.&nbsp;&nbsp; A bordo gli studenti hanno partecipato a laboratori di carteggio, lettura di un portolano, taratura bussole, prova apertura porte tagliafuoco in sala macchine. Hanno avuto occasione di partecipare ad una prova generale di incendio con dimostrazioni di calo di scialuppa in mare, apertura di autogonfiabili e prova dell’impianto antincendio automatico a schiuma nel ponte di carico delle automobili. <span style="font-size: 10pt;"><span style="font-size: 14pt;"><a href="/newsite/sito/eventi/2017-2018/sailor_video.mp4">VIDEO</a></span></span></span></p>
+<p><span style="font-size: 10pt;">La domenica pomeriggio è stata dedicata alla visita del centro storico di Palermo. In particolare il teatro Massimo, la cattedrale arabo-normanna della Santa Maria Vergine Assunta, del Palazzo dei Normanni (sede della giunta dell’assemblea regionale siciliana) e dei mercatini di Ballarò.<span style="font-size: 14pt;"></span><br /></span></p>
+
+
+
+		</div>
+					<div class="leading-3 clearfix"
+			itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/l-istituto/album-fotografico/46-louis-vuitton" itemprop="url">
+			Louis Vuitton		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p dir="ltr"><a href="/newsite/sito/eventi/2017-2018/classe.gif"><img src="/newsite/images/presentazione.gif" alt="Louis Vuitton" width="256" height="134" style="margin-left: 5px; margin-right: 5px; float: left;" title="Cliccare per visualizzare o scaricare la foto" /></a></p>
+<p><span style="font-size: 10pt;">Visita della classe 4 CG - indirizzo moda - a.s. 2017/2018 - allo stabilimento della LOUIS VUITTON di Fiesso d'Artico nell'ambito delle attività di<strong> A</strong>lternanza <strong>S</strong>cuola <strong>L</strong>avoro<span style="font-family: 'inherit', serif; color: #222222;">.</span></span></p>
+
+
+
+		</div>
+			</div>
+	
+		
+		<div class="items-row cols-2 row-0 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/l-istituto/album-fotografico/56-vela-al-terzo" itemprop="url">
+			Vela al terzo		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p dir="ltr"><a href="/newsite/sito/eventi/2017-2018/vela_al_terzo.gif"><img src="/newsite/images/vela_al_terzo_p.gif" alt="Vela al Terzo" width="159" height="159" style="margin-left: 5px; margin-right: 5px; float: left;" title="Cliccare per visualizzare o scaricare la foto" /></a></p>
+<p><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: black;"><strong>Mercoledì 25 Ottobre</strong> è iniziato il corso di Vela al Terzo per le classi 3MD e 3DG&nbsp; dell'Istituto L. Luzzatti di Mestre nell'ambito di un progetto della Regione del Veneto "<em>a favore di iniziative di avvicinamento alle discipline tipiche della cultura marinara</em> " .</span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif; color: black;"> Il corso è gestito da C.V.C. in collaborazione con ilal Comitato Regionale Veneto UISP e&nbsp; terrà impegnati gli studenti fino alle vacanze scolatiche di Natale.</span><span style="font-family: 'Calibri', sans-serif; color: black;"></span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: 'inherit', serif; color: #222222;"></span></span></p>
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/l-istituto/rassegna-stampa/49-articolo-logistica" itemprop="url">
+			Articolo Logistica - Il Sole 24ore		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p dir="ltr" style="text-align: left;"><a href="/newsite/sito/eventi/2017-2018/articolo_logistica.pdf"><img src="/newsite/images/articolo_logistica.jpg" alt="articolo _logistica" width="183" height="152" style="margin-left: 5px; margin-right: 5px; float: left;" title="Cliccare per visualizzare o scaricare l'articolo" /></a><em><strong>Il Sole 24ore - 13 novembre 2017</strong></em> - <strong>Con trasporti e Logistica c'è posto per 1.600 giovani</strong>.</p>
+<p dir="ltr" style="text-align: left;">Ferrovie, trasporto pubblico locale e servizi logistici. Ma anche autotrasporto, corrieri espresso, navi cargo e passeggeri. Mobilità delle persone e movimentazione merci sono in continua crescita e alimentano l'occupazione: sono oltre 1.600&nbsp; posti a disposizione in aziende e gruppi italiani nei settori trasporti - dal ferro alla navigazione - e logistica.</p>
+<p>Il Gruppo Fs italiane, ad esempio, ha programmato oltre 500 assunzioni. Ci sono posizioni "tecniche" come quelle di macchinisti, capi treno, autisti.....</p>
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-2 row-1 row-fluid">
+					<div class="item column-1 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/11-notizie/2017-2018/37-corso-di-formazione-gli-allievi-con-dsa-e-le-strategie-di-potenziamento" itemprop="url">
+			Corso di formazione “Gli allievi con DSA e le strategie di potenziamento&quot;		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p><a href="/newsite/sito/eventi/2017-2018/Locandina_Corso_DSA.pdf"><img src="/newsite/images/corso_dsa.jpg" alt="corso dsa" width="97" height="129" style="margin-right: 5px; float: right;" title="Cliccare per visualizzare o scaricare la locandina" /></a>Il Centro Territoriale di Supporto per le nuove tecnologie inclusive di Venezia (CTS), in collaborazione con l’Ufficio Scolastico Regionale, organizza un corso di formazione sulla tematica degli allievi con Disturbi Specifici di Apprendimento e le strategie di potenziamento.<br />Gli obiettivi del corso sono:</p>
+<ul>
+<li>disporre di informazioni aggiornate sulle caratteristiche degli alunni con DSA;</li>
+<li>condividere i contenuti della normativa specifica;</li>
+<li>conoscere strategie efficaci per potenziare l’apprendimento.
+
+
+	
+<p class="readmore">
+			<a class="btn" href="/newsite/index.php/11-notizie/2017-2018/37-corso-di-formazione-gli-allievi-con-dsa-e-le-strategie-di-potenziamento" itemprop="url" aria-label="Leggi tutto:  Corso di formazione “Gli allievi con DSA e le strategie di potenziamento&quot;">
+			<span class="icon-chevron-right" aria-hidden="true"></span> 
+			Leggi tutto...		</a>
+	</p>
+
+
+
+			</div>
+			
+			
+	
+					<div class="item column-2 span6"
+				itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+			
+
+	<h2 class="item-title" itemprop="headline">
+			<a href="/newsite/index.php/12-inclusione/23-sportello-autismo" itemprop="url">
+			Sportello autismo		</a>
+		</h2>
+
+
+
+
+
+
+
+
+<p><img src="/newsite/images/sportelloautismo.jpg" alt="sportelloautismo" width="125" height="98" style="margin-right: 5px; float: left;" />Con <a href="/newsite/sito/inclusione/MIUR.VE.REGISTRO_UFFICIALE.16022.20-09-2017%20Sportello%20autismo.pdf">Nota MIUR n.&nbsp;0016022.20-09-20170016022.20-09-2017</a>, l'USR del Veneto mette a disposizione una <a href="/newsite/sito/inclusione/Depliant%20sportelli%20autismo%20VENEZIA.pdf">brochure informativa</a> dei servizi degli sportelli autismo delle provincie regionali.<br />Per saperne di più si può consultare il sito del CTS di Venezia, voce <a href="http://www.ctsvenezia.it/joomla/index.php/progetti/sportello-autismo">Sportello autismo</a>, o chiedere una consulenza al <a href="http://www.ctsvenezia.it/joomla/index.php/progetti/sportello-autismo/richiesta-consulenza">seguente link</a>.</p>
+
+
+
+			</div>
+			
+			
+		</div>
+		
+	
+
+	<div class="pagination">
+
+					<p class="counter pull-right">
+				Pagina 1 di 2			</p>
+						<ul>
+	<li class="pagination-start"><span class="pagenav">Inizio</span></li>
+	<li class="pagination-prev"><span class="pagenav">Indietro</span></li>
+			<li><span class="pagenav">1</span></li>			<li><a href="/newsite/index.php?start=8" class="pagenav">2</a></li>		<li class="pagination-next"><a title="Avanti" href="/newsite/index.php?start=8" class="hasTooltip pagenav">Avanti</a></li>
+	<li class="pagination-end"><a title="Fine" href="/newsite/index.php?start=8" class="hasTooltip pagenav">Fine</a></li>
+</ul>
+	</div>
+
+</div>
+</div></div></article></div></div></main><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div><div id="zf--right-column"><div id="zf--right-column--skin" class="clearfix"><div id="zf--aside-right"><aside role="complementary" aria-labelledby="zf--aside-right--section-heading" id="zf--aside-right--semantic-tag"><h2 id="zf--aside-right--section-heading" class="zf--section-heading visually-hidden">Risorse aggiuntive (colonna di destra)</h2><div id="zf--aside-right--skin" class="clearfix zf--block-coat--user-custom-1"><div id="zf--guest-view--aside-right" class="zf--guest-view">		<div class="moduletableul.tabs li {
+text-align: center;
+}">
+							<h3>Pulsanti rapidi</h3>
+						
+
+<div class="customul.tabs li {
+text-align: center;
+}"  >
+	<p><a href="/newsite/index.php/component/jdownloads/category/3-circolari-2017-2018"><img src="/newsite/images/circolari_comunicati.jpg" alt="circolari comunicati" width="211" height="64" /></a><br /> <a href="https://web.spaggiari.eu/home/app/default/login.php"><img src="/newsite/images/registro_elettronico.png" alt="registro elettronico" width="213" height="85" /></a> <br /><a href="/newsite/index.php/didattica/orario-scolastico"><img src="/newsite/images/logo-orario-scolastico-big.png" alt="logo orario scolastico big" width="215" height="60" /></a></p>
+<p><a href="/newsite/sito/didattica/ricevimento_2017_2018.pdf"><img src="/newsite/images/ricevimento_genitori.jpg" alt="ricevimento genitori" width="220" height="55" /></a></p></div>
+		</div>
+			<div class="moduletable">
+							<h3>Orientamento in entrata</h3>
+						
+
+<div class="custom"  >
+	<p><a href="/newsite/sito/orientamento/ingresso/brochure%20Istituto.pdf">Brochure dell'Istituto</a></p>
+<p><a href="/newsite/index.php/l-istituto/orientamento/ingresso">Iscrizioni 2018-2019</a></p>
+<p><a href="/newsite/sito/orientamento/ingresso/iscrizioni_in_eccedenza.pdf">Iscrizioni in eccedenza</a></p></div>
+		</div>
+			<div class="moduletableul.tabs li {
+text-align: center;
+}">
+							<h3>Orientamento in uscita</h3>
+						
+
+<div class="customul.tabs li {
+text-align: center;
+}"  >
+	<p><a href="/newsite/index.php/l-istituto/orientamento/uscita">Corsi specializzazioni ITS</a></p></div>
+		</div>
+	</div></div></aside><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></div></div></div><div id="zf--top-anchor-container"><div id="zf--top-anchor-container--skin" class="clearfix"><p class="zf--top-anchor-shell style-reset"><a id="zf--top-anchor" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" accesskey="0" title="Salta a inizio pagina" class="show-tooltip zf--anchor-to-top">Inizio<span class="visually-hidden">. Salta a inizio pagina.</span></a></p></div><hr class="removed"/></div></div></div><div id="zf--footer"><footer role="contentinfo"><div id="zf--footer--skin" class="clearfix"><div id="zf--footer-content"><section aria-labelledby="zf--footer-content--section-heading" id="zf--footer-content--semantic-tag"><h2 id="zf--footer-content--section-heading" class="zf--section-heading visually-hidden">Pi&egrave; di pagina</h2><div id="zf--footer-content--skin" class="clearfix"><div id="zf--footer-top"><div id="zf--footer-top--skin" class="clearfix"><div id="zf--footer-top-row-A" class="zf--grouped-hosts-row clearfix"><div id="zf--footer-top-A" class="zf--grouped-host fluid-width-100"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--footer-top-A" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p>IIS L. Luzzatti - Via Perlan 17, 30174, Ve-Mestre - Tel. 041 5441545 - Fax 041 5441544<br />Cod. meccanografico VEIS004007<br />Cod. Fiscale 82013620271<br />Cod. Unico Fatture UF7VK4<br />Iban IT72L0306902114100000046383<br />E-Mail <a href="mailto:veis004007@istruzione.it">veis004007@istruzione.it</a>&nbsp;- veis004007@pec.istruzione.it</p>
+<p>&nbsp;</p></div>
+		</div>
+	</div></div></div></div><div id="zf--footer-top-row-C" class="zf--grouped-hosts-row clearfix"><div id="zf--footer-top-C1" class="zf--grouped-host fluid-width-33"></div><div id="zf--footer-top-C2" class="zf--grouped-host fluid-width-33"></div><div id="zf--footer-top-C3" class="zf--grouped-host fluid-width-33"><div class="zf--grouped-host--skin zf--block-coat--full-width"><div id="zf--guest-view--footer-top-C3" class="zf--guest-view">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="CSS Valido!" style="border: 0; width: 88px; height: 31px;" /></a><a href="http://validator.w3.org/check?uri=referer"><img src="/newsite/images/1200px-Valid_XHTML_1.0.svg.png" alt="1200px Valid XHTML 1.0.svg" width="85" height="29" /></a> <a href="http://www.validatore.it/vamola_validator/checker/index.php"><img src="/newsite/images/logo_accessibilità.png" alt="logo accessibilità" /></a></p></div>
+		</div>
+	</div></div></div></div></div></div></div></section><div class="zf--section-anchors removed"><p class="zf--section-anchors-shell style-reset"><a class="zf--internal-anchor zf--section-anchor zf--internal-anchor-to-top" href="http://www.iisluzzatti.it/newsite/#zf--page-top" rel="nofollow" title="Salta a inizio pagina">Inizio</a></p><hr class="removed"/></div></div></div></footer></div></div></div></div><div id="zf--guest-view--system-debug" class="zf--guest-view"></div><div id="zf--end-of-page" class="clearfix clear-both"></div><script type="text/javascript">/*<![CDATA[*/(function(){var zf=window.zhongFramework;zf.params={tooltipsEnabled:'on-snippet',tooltipsEnabledOnKeyboardFocus:true,defaultLayoutWidthMode:'liquid',enableStickyLeftColumn:false,enableStickyRightColumn:false,enableFontSizeRelativizer:true,enableInlineStyleFilterFontSize:false,enableInlineStyleFilterRemoveAll:false,maxLiquidLayoutWidth:1080,enableLayoutAutoResize:true,enableMobileMainMenuActivationButton:true,enableMobileSideMenuActivationButton:true,keepMobileActivationButtonsAlive:true,enableSocialButtons:false,cookiesExpireDate:1516961185,cookiesBasePath:'/newsite/',http_host:'www.iisluzzatti.it',cufonLib:'http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/lib/cufon/cufon-yui.js',cufonZhongFrameworkIcons:'http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/lib/cufon/zhong_icons_400.font.js',alertsPanelProvidedControl:'ok-button',alertsPanelCookieAware:true,alertsPanelPriority:'mid',revealSectionHeadings:false,forceSameHeightNestedCustomModules:false,newWindowLinkText:'Apre una nuova finestra',externalLinkText:'Collegamento esterno',expandSubmenuText:'Espandi sotto menu',hideSubmenuText:'Nascondi sotto menu',defaultFontSize:100,topMenuFloating:true,sideMenuFloating:false,enableSocialButtonsExpandable:false};zf.self.layoutMode='default-layout';zf.self.graphicMode='default-graphic-mode';zf.self.layoutWidthMode='liquid';zf.self.customLayoutWidth='inherit';zf.self.currentFontSize=100;zf.helpers.isClientMobile=false;zf.helpers.isClientTablet=false;zf.helpers.isClientPortable=false;zf.helpers.isClientDesktop=true;zf.helpers.isClientFirstTimeVisit=true;zf.helpers.isClientFirstPageVisit=true;}());/*]]>*/</script><script type="text/javascript" src="http://www.iisluzzatti.it/newsite/templates/zhong/zf/assets/js/min/scripts.min.js?zf-v=3.5.0"></script></body></html>

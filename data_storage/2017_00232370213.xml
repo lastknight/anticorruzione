@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Marlengo</abstract>
+   <dataPubblicazioneIndice>2017-02-03</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Marlengo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-03</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21048/21048indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_932BD420-828D-488A-86D9-6A4CD8A756C4'>
+      <linkDataset>http://data.gvcc.net/avcp/21048/932BD420-828D-488A-86D9-6A4CD8A756C4.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_0E5E2505-BF0D-4411-8503-EA938F58066E'>
+      <linkDataset>http://data.gvcc.net/avcp/21048/0E5E2505-BF0D-4411-8503-EA938F58066E.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

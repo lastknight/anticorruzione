@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione Art. 1 Legge 190/2012 - Anno 2016</titolo>
+    <abstract>Pubblicazione Art. 1 Legge 190/2012</abstract>
+    <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+    <entePubblicatore>Scuola Sottufficiali M.M. - Taranto</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-12-31</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.marina.difesa.it/documentazione/gare/mariscuola_ta/Documents/Mariscuola_TA_2016.xml</urlFile>
+    <licenza>GGAP</licenza>
+  </metadata>
+  <indice>
+    <dataset id="MARISCUOLA_TA_1_2016">
+      <linkDataset>http://www.marina.difesa.it/documentazione/gare/mariscuola_ta/Documents/Mariscuola_TA_1_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="MARISCUOLA_TA_2_2016">
+      <linkDataset>http://www.marina.difesa.it/documentazione/gare/mariscuola_ta/Documents/Mariscuola_TA_2_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+	<titolo> Pubblicazione 1 legge 190</titolo>
+	<abstract> Pubblicazione 1 legge 190 anno 1 rif. 2010 aggiornamento del 2017-02-20 10:21:28</abstract>
+	<dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+	<entePubblicatore>S.G.M.SOCIETA' GESTIONE MULTIPLA S.P.A.</entePubblicatore>
+	<dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+	<annoRiferimento>2016</annoRiferimento><urlFile>http://www.sgmlecce.it/images/xml/avcp_dataset_2016.xml</urlFile>
+
+	<licenza>IODL 2.0</licenza>
+	</metadata>
+<data>
+<lotto>
+<cig>64334402A3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Servizio copertura assicurativa</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04396020754</codiceFiscale>
+<ragioneSociale>Reale Mutua Ass.ni</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04396020754</codiceFiscale>
+<ragioneSociale>Reale Mutua Ass.ni</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>237185.00</importoAggiudicazione><tempiCompletamento><dataInizio>2016-01-01</dataInizio></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>6433451BB4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Servizio copertura assicurativa</oggetto>
+<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12525420159</codiceFiscale>
+<ragioneSociale>XL Insurance Company SE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04396020754</codiceFiscale>
+<ragioneSociale>Reale Mutua Ass.ni</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02406060596</codiceFiscale>
+<ragioneSociale>Assib Underwriting Srl</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>11658671000</codiceFiscale>
+<ragioneSociale>Link srl</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01561950476</codiceFiscale>
+<ragioneSociale>AIB All Insurance Broker Srl</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00818570012</codiceFiscale>
+<ragioneSociale>Unipol Ass.ni</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12525420159</codiceFiscale>
+<ragioneSociale>XL Insurance Company SE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5990.00</importoAggiudicazione><tempiCompletamento><dataInizio>2016-01-01</dataInizio></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>6699055B0F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Servizio consulenza e brokeraggio assicurativo</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<raggruppamento>
+<membro>
+<codiceFiscale>02595000585</codiceFiscale>
+<ragioneSociale>Sapri Broker Srl</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo></membro>
+<membro>
+<codiceFiscale>04137451003</codiceFiscale>
+<ragioneSociale>GBS General Broker Service SpA</ragioneSociale>
+<ruolo>04-CAPOGRUPPO</ruolo></membro>
+</raggruppamento>
+<raggruppamento>
+<membro>
+<codiceFiscale>08536311007</codiceFiscale>
+<ragioneSociale>Italbrokers SpA</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo></membro>
+<membro>
+<codiceFiscale>02571410758</codiceFiscale>
+<ragioneSociale>Adriateca Srl</ragioneSociale>
+<ruolo>04-CAPOGRUPPO</ruolo></membro>
+</raggruppamento>
+<partecipante>
+<codiceFiscale>00970250767</codiceFiscale>
+<ragioneSociale>Consulbrokers S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatarioRaggruppamento>
+<membro>
+<codiceFiscale>08536311007</codiceFiscale>
+<ragioneSociale>Italbrokers SpA</ragioneSociale>
+<ruolo>01-MANDANTE</ruolo></membro>
+<membro>
+<codiceFiscale>02571410758</codiceFiscale>
+<ragioneSociale>Adriateca Srl</ragioneSociale>
+<ruolo>04-CAPOGRUPPO</ruolo></membro>
+</aggiudicatarioRaggruppamento>
+</aggiudicatari>
+<importoAggiudicazione>25225.57</importoAggiudicazione><tempiCompletamento></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>67516348A0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura metano per autotrazione</oggetto>
+<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03508450750</codiceFiscale>
+<ragioneSociale>Delta Oil Company Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03508450750</codiceFiscale>
+<ragioneSociale>Delta Oil Company Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>97000.00</importoAggiudicazione><tempiCompletamento><dataInizio>2016-10-01</dataInizio></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>687525256E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di pulizia locali e mezzi</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01829400850</codiceFiscale>
+<ragioneSociale>Consorzio Pulinissa Sicilia</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06816550724</codiceFiscale>
+<ragioneSociale>Auriga Società Cooperativa</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04482740653</codiceFiscale>
+<ragioneSociale>Società Cooperativa Omega Service</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07873510965</codiceFiscale>
+<ragioneSociale>Gruppo Obiettivo lavoro</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04182090870</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale lady Europa</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07649320723</codiceFiscale>
+<ragioneSociale>Service For Companies</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06464620639</codiceFiscale>
+<ragioneSociale>Società consortile servizi ferroviari</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07988341009</codiceFiscale>
+<ragioneSociale>Servizi Integrati</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04417990753</codiceFiscale>
+<ragioneSociale>Ecoworld Società cooperativa</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06622331210</codiceFiscale>
+<ragioneSociale>Euro Servizi generali Group</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>0.00</importoAggiudicazione><tempiCompletamento></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z551B1EA91</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura divise invernali</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00167200245</codiceFiscale>
+<ragioneSociale>Forint SpA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03899440725</codiceFiscale>
+<ragioneSociale>Icap Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00167200245</codiceFiscale>
+<ragioneSociale>Forint SpA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>38189.40</importoAggiudicazione><tempiCompletamento></tempiCompletamento><importoSommeLiquidate>36854.50</importoSommeLiquidate></lotto>
+<lotto>
+<cig>6870687E43</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Servizio revisione volontaria bilancio</oggetto>
+<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01889000509</codiceFiscale>
+<ragioneSociale>RSM</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00434000584</codiceFiscale>
+<ragioneSociale>Ernst&amp;Young</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02342440399</codiceFiscale>
+<ragioneSociale>Ria Grant Thornton</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05584830482</codiceFiscale>
+<ragioneSociale>Omnirev Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>0.00</importoAggiudicazione><tempiCompletamento></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>693411765D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>03500970755</codiceFiscaleProp>
+<denominazione>S.G.M. Societa' Gestione Multipla S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>Concessione spazi pubblicitari su autobus/filobus</oggetto>
+<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00893300152</codiceFiscale>
+<ragioneSociale>IGPDecaux S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00893300152</codiceFiscale>
+<ragioneSociale>IGPDecaux S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>125460.00</importoAggiudicazione><tempiCompletamento><dataInizio>2017-02-01</dataInizio></tempiCompletamento><importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+</data>
+</legge190:pubblicazione>

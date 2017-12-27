@@ -1,0 +1,377 @@
+<script>window.location='http://comune.monteleone.tr.it/500.php';</script><!DOCTYPE HTML>
+<html lang="it">
+<head>
+        <base href="http://comune.monteleone.tr.it/" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+
+    <title>Comune di Monteleone di Orvieto</title>
+
+    <meta name="keywords" content="" >
+    <meta name="description" content="" >
+    <meta name="author" content="We-COM S.r.l" >
+
+    <meta name="google-site-verification" content="rZITfRcHc3LEq1gsDxYngXX3SbJxpp__kzShRcvVW0I" />
+
+    <link rel="shortcut icon" href="http://comune.monteleone.tr.it/favicon.png" type="image/x-icon"> 
+    <link rel="icon" href="http://comune.monteleone.tr.it/favicon.png" type="image/png" >
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- !CSS -->
+    <link rel="stylesheet" href="http://comune.monteleone.tr.it/css/ita-bootstrap.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- JAVASCRIPT -->
+    <!-- jQuery & Bootstrap -->
+    <!-- !Javascript - at the bottom for fast page loading -->
+    <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+    <script>!window.jQuery && document.write('<script src="js/jquery.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script> 
+    <script
+              src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"
+              integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw="
+              crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" type="text/css" href="http://comune.monteleone.tr.it/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="http://comune.monteleone.tr.it/fancybox/jquery.fancybox-1.3.4.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.css">
+
+    <!-- bxSlider CSS file -->
+    <link href="http://comune.monteleone.tr.it/css/jquery.bxslider.css" rel="stylesheet" />
+
+    <!-- META SEO -->
+    <meta property="og:url"           content="http://comune.monteleone.tr.it/index.php/category/" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Comune di Monteleone di Orvieto" />
+    <meta property="og:description"   content="" />
+    <meta property="og:image"         content="http://comune.monteleone.tr.it/img/logo.jpg" />
+</head>
+
+<body>
+    <!-- FACEBOOK LIKE SCRIPT -->
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.0";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <!-- INFO HEADER -->
+    <section class="bg-dark header-info">
+      <div class="container-fluid">
+        <i class="fa fa-home"></i> Piazza del Municipio, 5, 05017 Monteleone D'orvieto (TR)        &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+        <i class="fa fa-envelope"></i> <a href="mailto:comune.monteleonedorvieto@postacert.umbria.it">comune.monteleonedorvieto@postacert.umbria.it</a>
+        &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+        <i class="fa fa-phone"></i> <a href="tel:0763 834021">0763 834021</a>
+      </div>
+    </section>
+    
+    <!-- TESTATA -->
+    <header class="container-fluid page-header no-margin bg-primary">
+        <div class="row">
+            <!-- LOGO -->
+            <section class="col-md-9">
+                <a class="row" href="http://comune.monteleone.tr.it/">
+                    <div class="col-md-1 logo">
+                        <img class="logo-img" src="http://comune.monteleone.tr.it/img/logo.jpg" height="100" alt="logo Comune di <strong>Monteleone di Orvieto</strong>"/>
+                    </div>
+                    <div class="col-md-11">
+                        <h1 class="no-margin-top logo-txt" style="padding: 0;margin: 0 0 0 20px;line-height: 50px;">Comune di <br><strong>Monteleone di Orvieto</strong></h1>
+                    </div>
+                </a> 
+            </section>
+
+            <!-- RICERCA E LOGIN -->
+            <section class="col-md-3">    
+                <!-- ACCESSO ADMIN -->
+                <a class="pull-right text-secondary" href="http://comune.monteleone.tr.it/admin/"><i class="fa fa-lock"></i> Accedi al pannello di controllo</a>
+                <br>
+                <!-- REGISTRAZIONE ALLA NEWSLETTER -->
+                <a class="pull-right text-secondary" href="#" data-toggle="modal" data-target="#modal-newsletter"><i class="fa fa-envelope"></i> Registrati alla newsletter</a>
+                <!-- Modal Newsletter -->
+                <div class="modal fade" id="modal-newsletter" tabindex="-1" role="dialog" aria-labelledby="Registrati alla Newsletter">
+                  <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Registrati alla Newsletter</h4>
+                      </div>
+                      <div class="clearfix modal-body">
+                        
+			<!-- NEWSLETTER -->
+			<div class="col-md-12 banner banner-newsletter" id="newsletter-0">
+				<form id="nw-form-0" class="panel panel-default banner-newsletter-content">
+					<div class="panel-body">
+						<h4 class="text-primary">Registrati alla Newsletter</h4>
+						<p>Registrati alla nostra newsletter</p>
+						<input class="form-control" type="text" name="nw-nome" placeholder="Nome">
+						<br>
+						<input class="form-control" type="text" name="nw-cognome" placeholder="Cognome">
+						<br>
+						<input class="form-control" type="email" name="nw-email" placeholder="Email *">
+					</div>
+					<div class="panel-footer text-center">
+						<button class="btn btn-default" id="nw-submit-0" type="button" name="nw-submit">Iscrivimi</button>
+						<p class="nw-messaggio hide"><i class="fa fa-spinner fa-spin fa-fw"></i> Invio richiesta in corso</p>
+					</div>
+				</form>
+			</div>
+
+			<script>
+				$(document).ready(function() {
+					$("#nw-submit-0").click(function(e) {
+						e.preventDefault();
+
+						var messaggio = $("#newsletter-0 .nw-messaggio");
+						var form = $("#nw-form-0");
+						var data = form.serialize();
+
+						messaggio.removeClass("hide");
+
+						$.post("./inc/process/newsletter.php", data)
+						  .done(function(data) {
+						    messaggio.html(data);
+						  });
+					});
+				});
+			</script>
+		                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Chiudi</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <br><br>
+
+                <!-- RICERCA -->
+                <form id="search-widget" class="row" name="search" action="cerca/" method="post">
+                    <div class="col-xs-9">
+                        <input id="ricerca" class="form-control" name="keywords" placeholder="Scrivi cosa vuoi trovare" type="text">
+                    </div>
+                    <div class="col-xs-3">
+                        <button id="cerca-submit" class="pull-right btn btn-default icon-search" type="button">
+                            <i class="fa fa-lg fa-search"></i>
+                        </button>
+                    </div>
+                </form>
+            </section>
+        </div>
+
+        <a href="http://asp.urbi.it/urbi/progs/urp/ur1UR033.sto?DB_NAME=n1201762" style="display: none !important;">amministrazione trasparente</a>
+
+        <!-- NAVIGAZIONE -->
+        <nav class="navbar bg-secondary">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <i class="fa fa-bars fa-2x"> </i>
+              </button>
+              <span class="navbar-brand text-info">MENU |</span>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul id="aree-tematiche" class="nav navbar-nav">
+                <li class="blocchi-aree-tematiche "><a class="blocco-area-tematica il-comune" href="http://comune.monteleone.tr.it/il-comune/">
+                                <strong>IL COMUNE</strong>
+                            </a>
+                        </li><li class="blocchi-aree-tematiche "><a class="blocco-area-tematica informazioni" href="http://comune.monteleone.tr.it/informazioni/">
+                                <strong>INFORMAZIONI</strong>
+                            </a>
+                        </li><li class="blocchi-aree-tematiche "><a class="blocco-area-tematica modulistica" href="http://comune.monteleone.tr.it/modulistica/">
+                                <strong>MODULISTICA</strong>
+                            </a>
+                        </li><li class="blocchi-aree-tematiche "><a class="blocco-area-tematica turismo" href="http://comune.monteleone.tr.it/turismo/">
+                                <strong>TURISMO</strong>
+                            </a>
+                        </li><li class="blocchi-aree-tematiche "><a class="blocco-area-tematica contatti" href="http://comune.monteleone.tr.it/contatti/">
+                                <strong>CONTATTI</strong>
+                            </a>
+                        </li>              </ul>
+            </div><!--/.nav-collapse -->
+          </div>
+        </nav>
+    </header>
+
+    <!-- SLIDESHOW -->
+    
+    <!-- CONTENITORE -->
+    <section>
+        <!-- CONTENUTI PAGINE -->
+        <div class="row">
+            <script>window.location='http://comune.monteleone.tr.it/500.php';</script><script>window.location='http://comune.monteleone.tr.it/500.php';</script><script>window.location='http://comune.monteleone.tr.it/500.php';</script><script>window.location='http://comune.monteleone.tr.it/500.php';</script>
+<!-- Area in alto -->
+
+<!-- Area di sinistra -->
+
+<!-- Area centrale -->
+<section class="contenuti col-md-12 panel panel-default">
+	<div class="panel-body">
+		<h2>La Pagina non &egrave; pi&ugrave; disponibile</h2><div id="condividi" class="clearfix"><div class="pull-left"><div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-share-button" 
+        data-href="" 
+        data-layout="button_count">
+    </div><!-- Inserisci questo tag nel punto in cui vuoi che sia visualizzato l'elemento pulsante Condividi. -->
+					   <div class="g-plus" data-action="share" data-annotation="bubble"></div>
+					   <!-- Inserisci questo tag dopo l'ultimo tag di condividi. -->
+						<script type="text/javascript">
+  							window.gcfg = {lang: 'it'};
+							(function() {
+							    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+							    po.src = 'https://apis.google.com/js/platform.js';
+							    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+							  })();
+						</script><a href="https://twitter.com/share" class="twitter-share-button" data-lang="it">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div><div class="pull-right"><a id="valuta" href="http://comune.monteleone.tr.it/valuta/&tipo_elemento=&id_elemento=0">Valuta la pagina</a> - <a href="javascript:stampa();" data-lang="it"><img title="stampa" alt="stampa" src="./img/icone/print.gif" /></a>
+<script>
+    function stampa(){ 
+        var DocumentContainer = '<link rel="stylesheet" type="text/css" href="http://comune.monteleone.tr.it/css/font.css" /><link rel="stylesheet" type="text/css" href="http://comune.monteleone.tr.it/css/main.css" /><h1>Comune di Monteleone di Orvieto</h1><h2 class="homes">'+$("div.contenuti h2.homes").text()+'</h2><h3 class="sottotitolo">'+$("div.contenuti h3.sottotitolo").text()+'</h3>';
+        DocumentContainer += '<div>'+$("div#content-print").html()+'</div>';
+        DocumentContainer += '<div class="footer-links float-left width-70 padding-10">&copy; 2017 tutti i diritti riservati Comune di Monteleone di Orvieto</div>';
+        var WindowObject = window.open("", "PrintWindow","width=1200,height=650,top=50,left=50,toolbars=no,scrollbars=yes,status=no,resizable=yes");
+        WindowObject.document.write('<html><head><title>Comune di Monteleone di Orvieto</title>');
+        WindowObject.document.write('</head><body>');
+        WindowObject.document.write(DocumentContainer);
+        WindowObject.document.write('</body></html>');
+        WindowObject.document.close();
+        WindowObject.focus();
+        WindowObject.print();
+        WindowObject.close();
+    }
+    </script></div></div>	</div>
+</section>
+
+<!-- Area di destra -->
+
+
+<!-- Area in basso -->
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="container-fluid no-margin bg-secondary">
+        <div id="footer-content" class="row">
+            <section class="col-md-4 w3c">
+                <!-- LOGO -->
+                <div class="row">
+                    <section class="col-md-9">
+                        <a class="row" href="http://comune.monteleone.tr.it/">
+                            <div class="col-md-3">
+                                <img class="logo-img" src="http://comune.monteleone.tr.it/img/logo.jpg" height="80" alt="logo Comune di <strong>Monteleone di Orvieto</strong>"/>
+                            </div>
+                            <div class="col-md-9">
+                                <h4 class="no-margin-top logo-txt">Comune di <strong>Monteleone di Orvieto</strong></h4>
+                            </div>
+                        </a> 
+                    </section>
+                </div>
+                 <p>
+                    <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fcomune.monteleone.tr.it%2F" title="HTML5 Validator" target="_blank"><img src="img/html5-validator.png" alt="html5 validator"></a>
+                    <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fcomune.monteleone.tr.it%2F" title="CSS Validator" target="_blank"><img src="img/css-validator.png" alt="css validator"></a>
+                    <br>
+                    <p>Powered by <a href="http://www.we-com.it/" target="_blank">We-COM S.r.l</a></p>
+                 </p>
+            </section>
+            <div class="col-md-1"></div>
+            <section class="col-md-3 copyright">
+                <h5><strong>Info</strong></h5>
+                  <p>
+                  Comune di Monteleone di Orvieto<br>INDIRIZZO: Piazza del Municipio, 5, 05017 Monteleone D'orvieto (TR)<br><br>                      Copyright (c) 2009-2017                      <br>
+                  </p>
+            </section>
+            <div class="col-md-1"></div>
+            <section class="col-md-3 powered">
+                <h5><strong>Contatti</strong></h5>
+                  <p>
+                  PEC: <a href="mailto:comune.monteleonedorvieto@postacert.umbria.it"><small>comune.monteleonedorvieto@postacert.umbria.it</small></a><br><br>TELEFONO: <a href="tel:0763 834021">0763 834021</a><br><br><a href="http://comune.monteleone.tr.it/informazioni/76-privacy-e-cookie/" title="privacy">Privacy</a><br>                     
+                 </p>
+            </section>
+        </div>
+    </footer>
+
+<!-- JAVASCRIPT -->
+<!-- highcharts -->
+<script type="text/javascript"  src="http://comune.monteleone.tr.it/js/highcharts/highcharts.js"></script>
+
+<!-- fancybox -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+
+<!-- bxSlider Javascript file -->
+<script src="http://comune.monteleone.tr.it/js/jquery.bxslider.min.js"></script>
+
+<!-- jssor -->
+<script type="text/javascript" src="http://comune.monteleone.tr.it/js/jssor.slider.mini.js"></script>
+
+<!-- SCRIPT -->
+<script src="http://comune.monteleone.tr.it/js/script.js"></script>
+
+<!-- BANNER COOKIE -->
+<script src="http://comune.monteleone.tr.it/js/cookiebanner.js" 
+    language="javascript" 
+    id="cookiebanner"
+    
+    data-close-text="ACCETTO"
+    data-message="Utilizziamo i cookie per migliorare la vostra esperienza di navigazione."
+    data-linkmsg="Scopri di più"
+    data-moreinfo="http://comune.monteleone.tr.it/informazioni/76-privacy-e-cookie/">
+</script>
+
+<!-- SCRIPT -->
+<script type="text/javascript">
+  // ANALYTICS
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99674772-1', 'auto');
+  ga('send', 'pageview');
+
+    // JQUERY
+    $(document).ready(function() {
+        // fancybox
+        $(".fancy_img").fancybox({
+              'titlePosition' : "over",
+              'onComplete' : function() { 
+              posizione = $(document).scrollTop() + 50;
+
+              var style = $("<style>.pos { top: '+posizione+'px !important; }</style>");
+              $('html > head').append(style);
+              $("#fancybox-wrap").addClass( "pos");
+            }
+        });
+
+        // cerca
+        $("#cerca-submit").click(function() {
+            $("#search-widget").submit();
+        });
+    });
+</script>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'it', includedLanguages: 'de,en,es,fr,it', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice Amministrazione separata B.U.C. Laces - Pubblicazione legge 190</titolo>
+    <abstract>Indice Amministrazione separata B.U.C. Laces - Pubblicazione legge 190 - Riferimento anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-24</dataPubblicazioneIndice>
+    <entePubblicatore>Amministrazione separata B.U.C. Laces</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-24</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/bandi/L190/0472/indicedataset2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2016">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0472/esiti_2016_20170120-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

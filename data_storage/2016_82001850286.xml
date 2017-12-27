@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Santa Margherita d'Adige</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://sac3.halleysac.it/c028081/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>ZE31233B3D</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>82001850286</codiceFiscaleProp>
+			<denominazione>COMUNE DI SANTA MARGHERITA D'ADIGE</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PER INTEGRAZIONE POLIZZE ANNI 2014-2015</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02170331207</codiceFiscale>
+					<ragioneSociale>AEC UNDERWRITING SPA</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>02415300280</codiceFiscale>
+					<ragioneSociale>BARBIRATO ASSICURAZIONI S.A.S</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>00320160237</codiceFiscale>
+					<ragioneSociale>CATTOLICA ASSICURAZIONI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03558970285</codiceFiscale>
+					<ragioneSociale>ITAS MUTUA - BANZATO</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>04472270281</codiceFiscale>
+					<ragioneSociale>UNIPOL ASSICURAZIONI</ragioneSociale>
+				</partecipante>
+							<partecipante>
+					<codiceFiscale>03473230237</codiceFiscale>
+					<ragioneSociale>ZOCCATELLI ASSICURAZIONI</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02170331207</codiceFiscale>
+					<ragioneSociale>AEC UNDERWRITING SPA</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>02415300280</codiceFiscale>
+					<ragioneSociale>BARBIRATO ASSICURAZIONI SAS</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>00320160237</codiceFiscale>
+					<ragioneSociale>CATTOLICA ASSICURAZIONI</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>03558970285</codiceFiscale>
+					<ragioneSociale>ITAS MUTUA - BANZATO</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>04472270281</codiceFiscale>
+					<ragioneSociale>UNIPOL ASSICURAZIONI</ragioneSociale>
+				</aggiudicatario>
+					    	<aggiudicatario>
+					<codiceFiscale>03473230237</codiceFiscale>
+					<ragioneSociale>ZOCCATELLI ASSICURAZIONI</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>17422.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2014-12-03</dataInizio>
+										<dataUltimazione>2015-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>17422.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

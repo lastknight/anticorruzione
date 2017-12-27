@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2015</abstract>
+		<dataPubbicazioneDataset>2015-01-07</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di Leggiuno</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-26</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://tecuting.halleylombardia.it/c012088/zf/index.php/dataset/appalti-2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>Z131148610</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00256410127</codiceFiscaleProp>
+			<denominazione>COMUNE DI LEGGIUNO</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZIO SGOMBERO NEVE E SPARGIMENTO SALE SU STRADE E PIAZZE  COMUNALI - PERIODO NOVEMBRE 2014 - APRILE 2017</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0.00</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z26116F6D7</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00256410127</codiceFiscaleProp>
+			<denominazione>COMUNE DI LEGGIUNO</denominazione>
+		</strutturaProponente>
+		<oggetto>SERVIZI CIMITERIALI TRIENNIO 2015-2017</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02346860121</codiceFiscale>
+					<ragioneSociale>RAVELLI COSTRUZIONI</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>30000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-01-01</dataInizio>
+										<dataUltimazione>2017-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>63564368EB</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00256410127</codiceFiscaleProp>
+			<denominazione>COMUNE DI LEGGIUNO</denominazione>
+		</strutturaProponente>
+		<oggetto>GESTIONE DEL SERVIZIO DI REFEZIONE SCOLASTICA ANNI SCOLASTICI 2015/2016 E 2016/2017</oggetto>
+		<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

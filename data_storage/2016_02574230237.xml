@@ -1,0 +1,27 @@
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 2015</titolo>
+        <abstract>Lotti relativi all'anno 2015</abstract>
+        <dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+        <entePubblicatore>AZIENDA U.L.S.S. N. 21 DI LEGNAGO</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2015</annoRiferimento>
+        <urlFile>http://trasparenza.aulsslegnago.it/media/Trasparenza/AVCP/Indice_2015.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_0">
+            <linkDataset>http://trasparenza.aulsslegnago.it/media/Trasparenza/AVCP/pubblicazione_parte_1_di_2_2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_1">
+            <linkDataset>http://trasparenza.aulsslegnago.it/media/Trasparenza/AVCP/pubblicazione_parte_2_di_2_2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+        </dataset>
+		<dataset id="ID_2">
+            <linkDataset>http://trasparenza.aulsslegnago.it/media/Trasparenza/AVCP/pubblicazione_parte_1_b_di_2_2015.xml</linkDataset>
+            <dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

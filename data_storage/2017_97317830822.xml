@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Gare 2016</titolo>
+    <abstract>file anac gare 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-18</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO ISTRUZIONE SECONDARIA SUPERIORE - "EINAUDI - PARETO" - PALERMO</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-18</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SG28394/2016/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28394/2016/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201680019420829">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28394/2016/gare201680019420829.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-18</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201680056400825">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SG28394/2016/gare201680056400825.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-18</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

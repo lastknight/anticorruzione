@@ -1,0 +1,47 @@
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd ">
+    <metadata>
+        <titolo>Zip pubblicazioni</titolo>
+        <abstract>Pubblicazione relativa all'anno 2016</abstract>
+        <dataPubblicazioneIndice>2017-02-17Z</dataPubblicazioneIndice>
+        <entePubblicatore>A. O. OSPEDALE CONSORZIALE POLICLINICO DI BARI</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-02-17Z</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.sanita.puglia.it/avcp/2016/policlinico/dataset2016.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_2201">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2201.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2306">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2306.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2326">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2326.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2347">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2347.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2226">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2226.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2426">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2426.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2204">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2204.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+        <dataset id="ID_2289">
+            <linkDataset>http://www.sanita.puglia.it/avcp/2016/policlinico/2289.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-02-17Z</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

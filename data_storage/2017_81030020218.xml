@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione 2012-2013-2014-2015 Istituto Comprensivo delle localitá ladine - Badia</titolo>
+    <abstract>Pubblicazione relativa all'anno 2012-2013-2014-2015</abstract>
+    <dataPubblicazioneIndice>2016-01-31</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto Comprensivo delle localitá ladine - Badia</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.sspabtei.it/datasetindice.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2012">
+      <linkDataset>http://www.sspabtei.it/esiti_2012_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2013">
+      <linkDataset>http://www.sspabtei.it/esiti_2013_20140317-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-03-25</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.sspabtei.it/esiti_2014_20150128-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.sspabtei.it/esiti_2015_20160127-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

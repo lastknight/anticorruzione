@@ -1,0 +1,1088 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" version="XHTML+RDFa 1.0" dir="ltr"
+  >
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.liceociardopellegrinolecce.gov.it/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Feed prima pagina" href="http://www.liceociardopellegrinolecce.gov.it/rss.xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Inizio requisiti Linee Guida Direttiva 8/2009 -->
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dc.language" content="it" />
+<meta name="dc.subject" content="servizi scolastici" />
+<meta name="dc.format" content="text/html" />
+<!-- Fine requisiti Linee Guida Direttiva 8/2009 -->  
+  <title>Liceo Artistico e Coreutico Ciardo Pellegrino Lecce</title>
+  <link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_9LOg53a4eANLbddpzH6KpDcUQlKA8DVpFDC3vBdEoK4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_Jdtt3Tl52dxH8dxYG3LDxk_0yM3d6kCB5xso7BSBjjU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_1oCpPYRy9CSGr7iawt-3YFpNga8WtF1ZmZxLs4UngKM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_HJlhxnjTNdiUTo_ocIsMCa3-Q1ifq9y-pDV9Fq3OWSo.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/all/themes/PASW_SUBTHEME_responsive/css/ie/ie-lte-7.css?olko4j" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_IzXsTgsbaWysTNjfJJeB-az7EJuxKbXz9r3cSB-qvPc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_qYpzyBBEJDOMKRpQqNn3LWBFOh0fcSnLVw5WLEv6tA4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/css/css_JiRJR_uSJl-1yNQlPGgqEB8PfiPlatfG9Lc1OYEBtFc.css" media="all" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var highContrast = {"link":"<a href=\"\/\" class=\"element-invisible element-focusable\" rel=\"nofollow\">Toggle high contrast<\/a>","cssFilePath":"http:\/\/www.liceociardopellegrinolecce.gov.it\/sites\/default\/files\/high_contrast_current.css"};var drupalHighContrast={};!function(){document.write("<script type='text/javascript' id='high-contrast-css-placeholder'>\x3C/script>");var e=document.getElementById("high-contrast-css-placeholder");!function(e){if("function"==typeof define&&define.amd)define(e);else if("object"==typeof exports)module.exports=e();else{var t=window.Cookies,n=window.Cookies=e();n.noConflict=function(){return window.Cookies=t,n}}}(function(){function e(){for(var e=0,t={};e<arguments.length;e++){var n=arguments[e];for(var o in n)t[o]=n[o]}return t}function t(n){function o(t,r,i){var a;if(arguments.length>1){if(i=e({path:"/"},o.defaults,i),"number"==typeof i.expires){var d=new Date;d.setMilliseconds(d.getMilliseconds()+864e5*i.expires),i.expires=d}try{a=JSON.stringify(r),/^[\{\[]/.test(a)&&(r=a)}catch(c){}return r=encodeURIComponent(String(r)),r=r.replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),t=encodeURIComponent(String(t)),t=t.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent),t=t.replace(/[\(\)]/g,escape),document.cookie=[t,"=",r,i.expires&&"; expires="+i.expires.toUTCString(),i.path&&"; path="+i.path,i.domain&&"; domain="+i.domain,i.secure?"; secure":""].join("")}t||(a={});for(var l=document.cookie?document.cookie.split("; "):[],s=/(%[0-9A-Z]{2})+/g,u=0;u<l.length;u++){var f=l[u].split("="),h=f[0].replace(s,decodeURIComponent),g=f.slice(1).join("=");'"'===g.charAt(0)&&(g=g.slice(1,-1));try{if(g=n&&n(g,h)||g.replace(s,decodeURIComponent),this.json)try{g=JSON.parse(g)}catch(c){}if(t===h){a=g;break}t||(a[h]=g)}catch(c){}}return a}return o.get=o.set=o,o.getJSON=function(){return o.apply({json:!0},[].slice.call(arguments))},o.defaults={},o.remove=function(t,n){o(t,"",e(n,{expires:-1}))},o.withConverter=t,o}return t()});var t=function(e){var t={option:[1,"<select multiple='multiple'>","</select>"],legend:[1,"<fieldset>","</fieldset>"],area:[1,"<map>","</map>"],param:[1,"<object>","</object>"],thead:[1,"<table>","</table>"],tr:[2,"<table><tbody>","</tbody></table>"],col:[2,"<table><tbody></tbody><colgroup>","</colgroup></table>"],td:[3,"<table><tbody><tr>","</tr></tbody></table>"],_default:[1,"<div>","</div>"]};t.optgroup=t.option,t.tbody=t.tfoot=t.colgroup=t.caption=t.thead,t.th=t.td;var n=document.createElement("div"),o=/<\s*\w.*?>/g.exec(e);if(null!=o){var n,r=o[0].replace(/</g,"").replace(/>/g,""),i=t[r]||t._default;e=i[1]+e+i[2],n.innerHTML=e;for(var a=i[0]+1;a--;)n=n.lastChild}else n.innerHTML=e,n=n.lastChild;return n};!function(){function e(){if(!o.isReady){try{document.documentElement.doScroll("left")}catch(t){return void setTimeout(e,1)}o.ready()}}var t,n,o=function(e,t){},r=(window.jQuery,window.$,!1),i=[];o.fn={ready:function(e){return o.bindReady(),o.isReady?e.call(document,o):i&&i.push(e),this}},o.isReady=!1,o.ready=function(){if(!o.isReady){if(!document.body)return setTimeout(o.ready,13);if(o.isReady=!0,i){for(var e,t=0;e=i[t++];)e.call(document,o);i=null}o.fn.triggerHandler&&o(document).triggerHandler("ready")}},o.bindReady=function(){if(!r){if(r=!0,"complete"===document.readyState)return o.ready();if(document.addEventListener)document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",o.ready,!1);else if(document.attachEvent){document.attachEvent("onreadystatechange",n),window.attachEvent("onload",o.ready);var t=!1;try{t=null==window.frameElement}catch(i){}document.documentElement.doScroll&&t&&e()}}},t=o(document),document.addEventListener?n=function(){document.removeEventListener("DOMContentLoaded",n,!1),o.ready()}:document.attachEvent&&(n=function(){"complete"===document.readyState&&(document.detachEvent("onreadystatechange",n),o.ready())}),window.jQuery=window.$=o}();var n=function(){var e=document.getElementById("block-delta-blocks-logo"),t=highContrast.logoPath;if(document.querySelectorAll&&"undefined"!=typeof t&&null!==e){var n=e.querySelectorAll("img");"undefined"==typeof n[0].logoPathOriginal&&(n[0].logoPathOriginal=n[0].src),n[0].src=t}},o=function(){var e=document.getElementById("block-delta-blocks-logo"),t=highContrast.logoPath;if(document.querySelectorAll&&"undefined"!=typeof t&&null!==e){var n=e.querySelectorAll("img");"undefined"!=typeof n[0].logoPathOriginal&&(n[0].src=n[0].logoPathOriginal)}},r=function(){var o=highContrast.cssFilePath;if("undefined"!=typeof o){var r=document.getElementById("high-contrast-css");null===r&&(r=t('<link type="text/css" id="high-contrast-css" rel="stylesheet" href="'+o+'" media="screen" />')),e.parentNode.insertBefore(r,e.nextSibling)}n(),Cookies.set("highContrastActivated","true","/")},i=function(){var e=document.getElementById("high-contrast-css");null!==e&&e.parentNode.removeChild(e),o(),Cookies.set("highContrastActivated","false","/")},a=function(){var e=Cookies.get("highContrastActivated");return"undefined"==typeof e?!1:"false"===e?!1:!0},d=function(){a()?(i(),Cookies.set("highContrastActivated","false","/")):(r(),Cookies.set("highContrastActivated","true","/"))},c=function(){var e=highContrast.link;e=t(e),e.onclick=function(){return d(),this.blur(),!1},document.getElementById("skip-link").appendChild(e)};drupalHighContrast.enableStyles=r,drupalHighContrast.disableStyles=i,drupalHighContrast.toggleHighContrast=d,a()&&r(),$.fn.ready(function(){a()&&n(),c()})}();
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_G4bpEzJuDsHXCR0h4YTlU4QmYPWm99ECBgd60jwBBsY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+new EUCookieLaw({
+  message:  " La legislazione europea in materia di privacy e protezione dei dati personali richiede il tuo consenso per l\u0027uso dei cookie. Acconsenti?\u003Cbr \/\u003E\u003Ca href=\u0022\/cookie-policy\u0022\u003EPer ulteriori\r\ninformazioni visualizza la Cookie Policy\u003C\/a\u003E)" ,
+  showBanner: 1,
+  bannerTitle: "Autorizzazione all’uso dei cookie",
+  tag: "h1",
+  agreeLabel: "SI, acconsento",
+  disagreeLabel: "NO, non acconsento",
+  fixOn: "bottom",
+  reload: 1,
+  agreeOnScroll: 0,
+  agreeOnClick: 0,
+  duration: 0,
+  path: "/",
+  remember: 1,
+  cookieList: ["context_breakpoints"],
+  classes: "pietro",
+    });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_mnK2qeNNIrmNbOjAN8VxDZQDSNTpZkvWec4pvsfT2S8.js"></script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_scC4X6mgy5P5zyUV70XyjTf4FdcW86dKjv_OM6yTJYM.js"></script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_ptR1ZjZnexk8gj2Q9mIgM2M_6ztR4ckK-i_6gzFmlNM.js"></script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_90G0x-QtzmZ9P3iwncvOUOhtZ5uXF2_i49pn_dIXbIw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var text_resize_scope = "body";
+          var text_resize_minimum = "12";
+          var text_resize_maximum = "25";
+          var text_resize_line_height_allow = 0;
+          var text_resize_line_height_min = "16";
+          var text_resize_line_height_max = "36";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_A-eAoZvjrc6DHUVtRvpvJAs3jCozBY8cs8PXQ3meGhs.js"></script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_sk3q9rTJmUeIm6GE-hisCNlHHPqd93ZwIlqLuB0S1ag.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"PASW_SUBTHEME_responsive","theme_token":"aUV2wOIK1JI9PVfK8wdzcrfXeEX9APKy-tFbgshDU8I","jquery_version":"1.7","js":{"0":1,"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"1":1,"sites\/all\/libraries\/eucookielaw\/EUCookieLaw.js":1,"sites\/all\/modules\/eu_cookie_law\/eu_cookie_law_util.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"2":1,"sites\/all\/modules\/eu_cookie_law\/js.cookie.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/beautytips\/js\/jquery.bt.min.js":1,"sites\/all\/modules\/beautytips\/js\/beautytips.min.js":1,"sites\/all\/modules\/beautytips\/other_libs\/excanvas_r3\/excanvas.compiled.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"public:\/\/languages\/it_v4JgnsixeWzN2wbz2fcaRvcPD4M2cdHrPIO3xUs33iU.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/views_accordion\/views-accordion.js":1,"3":1,"sites\/all\/modules\/text_resize\/text_resize.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"misc\/collapse.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/myquicktabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/calendar_tooltips\/calendar_tooltips.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/acknowledgements\/stylesheet.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/high_contrast\/high_contrast.css":1,"public:\/\/css\/menu_icons.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/twocol_stacked\/twocol_stacked.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/views_accordion\/views-accordion.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/date\/date_views\/css\/date_views.css":1,"sites\/all\/modules\/text_resize\/text_resize.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/ie\/ie-lte-7.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/simple\/simple-custom.css":1,"sites\/all\/themes\/genesis\/css\/layout.css":1,"sites\/all\/themes\/genesis\/css\/admin-styles.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-core\/system.base.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-core\/system.theme.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-core\/jquery.ui.core.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/jquery_update\/replace\/ui\/themes\/base\/minified\/jquery.ui.theme.min.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/jquery_update\/replace\/ui\/themes\/base\/minified\/jquery.ui.dialog.min.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/quicktabs\/quicktabs_tabstyles\/tabstyles\/excel\/excel.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/colorbox_default_style.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/calendar_multiday.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/tagclouds.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css-moduli-agg\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/html-elements.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/page.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/fields.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/nodes.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/blocks.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/comments.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/navigation.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/views-styles.css":1,"sites\/all\/themes\/PASW_SUBTHEME_responsive\/css\/custom.css":1,"sites\/all\/libraries\/eucookielaw\/eucookielaw.css":1,"sites\/all\/modules\/eu_cookie_law\/eu_cookie_law.css":1}},"colorbox":{"transition":"none","speed":"550","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"300","initialHeight":"100","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":""},"filter":{"type":"whitelist","list":{"menu-amministrazione-trasparente":"menu-amministrazione-trasparente","menu-indirizzi-di-studio":"menu-indirizzi-di-studio","menu-persone":"menu-persone","navigation":"navigation","main-menu":0,"management":0,"menu-albo":0,"menu-altre-sezioni":0,"menu-comunicazioni":0,"menu-didattica":0,"menu-e-learning":0,"menu-flexslider-example":0,"menu-fondi-strutturali-europei":0,"menu-in-evidenza":0,"menu-media-scuola":0,"menu-men-di-amministrazione":0,"menu-men-utenti-regitrati":0,"menu-menu-icone":0,"menu-note-legali":0,"menu-orientamento":0,"menu-registro":0,"menu-servizio":0,"menu-studenti":0,"menu-utilit-":0,"shortcut-set-1":0,"user-menu":0}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:6b189d162564ee02e8d1426c534803c2":{"view_name":"frontpage","view_display_id":"default","view_args":"","view_path":"homepage","view_base_path":"frontpage","view_dom_id":"6b189d162564ee02e8d1426c534803c2","pager_element":0}}},"flexslider":{"optionsets":{"flexslider_default_slider_thumbnail_controlnav":{"namespace":"flex-","selector":".slides \u003E li","easing":"linear","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":"5000","directionNav":false,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":true,"manualControls":""}},"instances":{"flexslider-1":"flexslider_default_slider_thumbnail_controlnav","flexslider-2":"flexslider_default_slider_thumbnail_controlnav"}},"views_accordion":{"views-accordion-progetti_attivit_-block":{"collapsible":0,"rowstartopen":0,"animated":"slide","autoheight":1,"event":"click","fillspace":0,"navigation":0,"clearstyle":0,"grouping":0,"display":"block","viewname":"progetti_attivit_","usegroupheader":0,"header":".views-accordion-header","newoptions":false}},"fitvids":{"custom_domains":[],"selectors":["body\r",""],"simplifymarkup":1},"responsive_menus":[{"selectors":".main-menu-inner","container":"#main-menu-wrapper","trigger_txt":"\u003Cspan \/\u003E\u003Cspan \/\u003E\u003Cspan \/\u003E","close_txt":"X","close_size":"18px","position":"right","media_size":"768","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"beautytips":{"calendar-tooltips":{"positions":["top","bottom"],"fill":"#FFF","padding":15,"strokeStyle":"#ABABAB","strokeWidth":1,"spikeLength":65,"spikeGirth":40,"cornerRadius":25,"centerPointX":0,"cssStyles":[],"cssSelect":".calendar-calendar .mini-day-on a, .calendar-calendar .day a, .calendar-calendar .mini-day-on span, .calendar-calendar .day span","contentSelector":"$(this).next().html()","trigger":["mouseover","mouseout"],"list":["positions","fill","padding","strokeStyle","strokeWidth","spikeLength","spikeGirth","cornerRadius","centerPointX","cssStyles","contentSelector","trigger"]}},"urlIsAjaxTrusted":{"\/":true,"\/homepage?destination=homepage":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"slow","dropShadows":false},"plugins":{"touchscreen":{"behaviour":"0","mode":"always_active"},"smallscreen":{"mode":"window_width","breakpointUnit":"px","type":"select","title":"Indirizzi di studio"},"supposition":true,"supersubs":{"minWidth":"14"}}}}});
+//--><!]]>
+</script>
+  <link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/PASW_SUBTHEME_responsive/print.css" /> 
+<!--[if lte IE 6]> 
+<link rel="stylesheet" href="sites/all/themes/PASW_genesis_SUBTHEME/css/ie/ie-lte-6.css" type="text/css" />
+ <![endif]-->
+<!--[if IE 8]> 
+<link rel="stylesheet" href="sites/all/themes/PASW_SUBTHEME_responsive/css/ie/ie-8.css" type="text/css" />
+ <![endif]-->
+</head>
+<body id="genesis-1c" >		<div class="eucookielaw-banner fixedon-bottom" id="eucookielaw-in-html">
+			<div class="well">
+				<h1 class="banner-title">Autorizzazione all’uso dei cookie <!-- EUCOOKIELAW_BANNER_LANGUAGES --></h1>
+				<div class="banner-message"> La legislazione europea in materia di privacy e protezione dei dati personali richiede il tuo consenso per l'uso dei cookie. Acconsenti?<br /><a href="/cookie-policy">Per ulteriori
+informazioni visualizza la Cookie Policy</a>)</div>
+				
+				<p class="banner-agreement-buttons text-right">
+					<a href="?__eucookielaw=disagree" class="disagree-button btn btn-danger" onclick="(new EUCookieLaw()).reject(); return false;">NO, non acconsento</a>
+					<a href="?__eucookielaw=agree" class="agree-button btn btn-primary" onclick="(new EUCookieLaw()).enableCookies(); return false;">SI, acconsento</a>
+				</p>
+			</div>
+		</div>
+
+      <div id="skip-link">
+      <a href="#main-content">Salta al contenuto principale</a>
+    </div>
+  
+    <div id="container" class="html front not-logged-in two-sidebars page-homepage">
+      
+    
+    
+    <div id="header" class="clearfix">
+
+              <div id="branding">
+
+                                    <h1 class="logo-site-name">
+                <span id="logo"><a href="/" title="Home page" rel="home"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/logo.png" alt=" logo" /></a></span>                             </h1>
+                      <!--<div id="indirizzo"> -   | Tel.  - Fax <br/>E-mail <a href="mailto:"></a> - PEC <a href="mailto:"></a></div>-->
+          
+        </div> <!-- /branding -->
+      
+              <div id="header-blocks">  <div class="region region-header">
+    <div id="block-high_contrast-high_contrast_switcher" class="block block-high-contrast block-odd block-header block-count-1">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      
+    <div class="high_contrast_switcher high_contrast_switcher_links">
+      <p>
+        <span class="high_contrast_switcher_label">Contrasto:</span><span class="high_contrast_switcher_high"><a href="javascript:drupalHighContrast.enableStyles()">Alto</a></span><span class="high_contrast_switcher_separator">|</span><span class="high_contrast_switcher_normal"><a href="javascript:drupalHighContrast.disableStyles()">Normale</a></span></p>
+    </div>
+        </div>
+
+  </div>
+</div>
+<div id="block-text_resize-0" class="block block-text-resize block-even block-header block-count-2">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_reset">A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div>    </div>
+
+  </div>
+</div>
+<div id="block-search-form" class="block block-search block-odd block-header block-count-3">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Form di ricerca</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Cerca </label>
+ <input title="Inserisci i termini da cercare." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Cerca" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-z7mbyueSF29QNyS9FZciXB1JkxIkitUksBnITGzWZFc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+      
+    </div> <!-- /header -->
+
+           <!--<div id="main-menu-wrapper" class="clearfix">-->
+        <!--<div class="main-menu-inner">--><!--</div>
+      </div>-->
+      
+    
+			<div id="main-menu-wrapper" class="clearfix">
+			<div class="main-menu-inner"><ul  id="superfish-1" class="menu sf-menu sf-menu-indirizzi-di-studio sf-horizontal sf-style-simple-custom sf-total-items-7 sf-parent-items-0 sf-single-items-7"><li id="menu-10066-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/arti-figurative" title="arti-figurative" class="menu_icon menu-10066 sf-depth-1">Arti figurative</a></li><li id="menu-10065-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/grafica" title="" class="sf-depth-1">Grafica</a></li><li id="menu-10067-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/architettura-e-ambiente" title="" class="sf-depth-1">Architettura e Ambiente</a></li><li id="menu-11579-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/audiovisivo-e-multimedia" title="" class="sf-depth-1">Audiovisivo e Multimedia</a></li><li id="menu-11578-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/design" title="" class="sf-depth-1">Design</a></li><li id="menu-11581-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/liceo-coreutico" title="" class="sf-depth-1">Liceo Coreutico</a></li><li id="menu-11580-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/scenografia" title="" class="sf-depth-1">Scenografia</a></li></ul></div>
+		</div>
+ 
+  
+
+      <div id="secondary-content">
+        <div class="region region-secondary-content">
+    <div id="block-menu-menu-persone" class="block block-menu block-odd block-secondary-content block-count-4">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-11548"><a href="/" title="" class="active">Home</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1183"><a href="/docenti" title="Comunicazioni anno scolastico in corso">Docenti</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1283"><a href="/genitori" title="">Genitori</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1181"><a href="/studenti" title="Area Studenti">Studenti</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1184"><a href="/personale_ata" title="Comunicazioni anno scolastico in corso">Personale ATA</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+<div id="block-block-12" class="block block-block block-even block-secondary-content block-count-5">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <div id="menu-indirizzi-top">
+<div style="width:80%;float:left;">
+<!--<h2 style="text-align:center;margin-bottom:0.0em;text-transform: uppercase;padding: 5px;font-size: 1.2em;/*background: #134f8d;color: #fff;/*">Artistico</h2>--><div class="indirizzi"><a href="/arti-figurative" title="Arti Figurative"><img alt="Arti Figurative" src="/images/indirizzi/arti-figurative.jpg" title="Arti Figurative" /></a></div>
+<div class="indirizzi"><a href="/grafica" title="Grafica"><img alt="Grafica" src="/images/indirizzi/grafica.jpg" title="Grafica" /></a></div>
+<div class="indirizzi"><a href="/architettura-e-ambiente" title="Architettura e Ambiente"><img alt="Architettura e Ambiente" src="/images/indirizzi/architettura-e-ambiente.jpg" title="Architettura e Ambiente" /></a></div>
+<div class="indirizzi"><a href="/design" title="Design"><img alt="Design" src="/images/indirizzi/design.jpg" title="Design" /></a></div>
+<div class="indirizzi"><a href="/audiovisivo-e-multimedia" title="Audiovisivo e Multimedia"><img alt="Audiovisivo e Multimedia" src="/images/indirizzi/audiovisivo-e-multimedia.jpg" title="Audiovisivo e Multimedia" /></a></div>
+<div class="indirizzi"><a href="/scenografia" title="Scenografia"><img alt="Scenografia" src="/images/indirizzi/scenografia.jpg" title="Scenografia" /></a></div>
+</div>
+<div style="float:right;width:17%;">
+<!--<h2 style="text-align:center;margin-bottom:0.0em;text-transform: uppercase;padding: 5px;font-size: 1.2em;/*background: #134f8d;color: #fff;/*">Coreutico</h2>--><div class="coreutico"><a href="/liceo-coreutico" title="liceo-coreutico"><img alt="Liceo Coreutico" src="/images/indirizzi/coreutico.jpg" title="Liceo Coreutico" /></a></div>
+</div>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-16" class="block block-block block-odd block-secondary-content block-count-6">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <div id="mobile-accesso-utente">
+<h2 class="rtecenter"><a href="#block-user-login">Vai all'accesso utente</a></h2>
+</div>
+    </div>
+
+  </div>
+</div>
+  </div>
+    </div>
+  
+  <div id="columns" class="clear clearfix">
+    <div id="content-column">
+      <div class="content-inner">
+          
+        <div id="main-content">
+          <div style="margin-top:-15px;"></div>
+                              
+                      <div class="local-tasks"></div>
+          
+          
+          <div id="content">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-content block-count-7">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <div class="panel-2col-stacked clearfix panel-display" >
+      <div class="panel-col-top panel-panel">
+      <div class="inside"><div class="panel-pane pane-views pane-eventi"  >
+  
+        <h2 class="pane-title">
+      Eventi    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-eventi view-id-eventi view-display-id-block view-dom-id-b56341f8f8c0ff24181baaac979ba6d9">
+        
+  
+  
+      <div class="view-content">
+      <div  id="flexslider-2" class="flexslider">
+  <ul class="slides"><li>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/buone-feste"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/auguri_2017.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/buone-feste">Buone feste</a></span>  </div></li>
+<li>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/mostra-d-arte"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/transespress.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/mostra-d-arte">Mostra d&#039;arte</a></span>  </div></li>
+<li>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/olimpiadi-di-educazione-finanziaria"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/bpp.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/olimpiadi-di-educazione-finanziaria">Olimpiadi di Educazione Finanziaria</a></span>  </div></li>
+<li>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/speciale-openday"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/open_web_1.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/speciale-openday">Speciale OpenDay</a></span>  </div></li>
+<li>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/redazionale-del-liceo-artistico-e-coreutico"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/play_video_1.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/redazionale-del-liceo-artistico-e-coreutico">Redazionale del Liceo Artistico e Coreutico</a></span>  </div></li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+  
+  <div class="center-wrapper">
+    <div class="panel-col-first panel-panel">
+      <div class="inside"><div class="panel-pane pane-views pane-avvisi"  >
+  
+        <h2 class="pane-title">
+      Archivio Avvisi    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-avvisi view-id-avvisi view-display-id-block view-dom-id-0b1d9706e0cc8440e1d0bfe51d671327">
+            <div class="view-header">
+      <div style="float:right;padding:5px;">
+<a href="/avvisi">Archivio avvisi</a>
+</div>
+<div style="clear:both;"></div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div  id="flexslider-1" class="flexslider">
+  <ul class="slides"><li>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/circolare-n-29-richiesta-permessi-retribuiti">CIRCOLARE n.29 - RICHIESTA PERMESSI RETRIBUITI</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Al personale docente</p>
+<p>Al personale A.T.A.</p>
+</div>  </div></li>
+<li>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/assegnazione-definitiva-classi">ASSEGNAZIONE DEFINITIVA CLASSI</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>-Assegnazione incarichi di coordinatore, referente Bes, tutor ASL</p>
+<p>-Piano annuale delle attività del personale docente.</p>
+</div>  </div></li>
+<li>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/orario-delle-lezioni-anno-scolastico-20172018">Orario delle lezioni anno scolastico 2017/2018</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Comunicazioni importanti sull'articolazione oraria delle lezioni per l'anno scolastico 2017/2.018</p>
+</div>  </div></li>
+<li>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/riunione-informativa-progetto-por-puglia-fesr-fse-20142020">RIUNIONE INFORMATIVA - PROGETTO POR  PUGLIA FESR - FSE 2014/2020 </a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Agli Studenti, alle Famiglie, ai Docenti Tutor </p>
+</div>  </div></li>
+<li>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/articolo/informativa-trasporti-scolastici">Informativa trasporti scolastici</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong>Informativa trasporti e permessi di uscita anticipata </strong></p>
+</div>  </div></li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+    <div class="panel-col-last panel-panel">
+      <div class="inside"><div class="panel-pane pane-views pane-progetti-attivit"  >
+  
+        <h2 class="pane-title">
+      Archivio Progetti &amp; Attività    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-progetti-attivit- view-id-progetti_attivit_ view-display-id-block view-dom-id-c04450b372b1511c8331f51af7268db1">
+            <div class="view-header">
+      <div style="float:right;padding:5px;">
+<a href="/progetti-attivita">Archivio progetti &amp; attività</a>
+</div>
+<div style="clear:both;"></div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title views-accordion-header">        <span class="field-content"><a href="/articolo/cerimonia-di-inaugurazione-dell-anno-scolastico">Cerimonia di inaugurazione dell&#039;anno scolastico</a></span>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/articolo/cerimonia-di-inaugurazione-dell-anno-scolastico">Cerimonia di inaugurazione dell&#039;anno scolastico</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong><a href="https://photos.app.goo.gl/rMrrpog05QtNql2j1">LE FOTO DELLA GIORNATA</a></strong></p>
+<p><strong>Cerimonia di inaugurazione <br />
+dell’anno scolastico 2017-2018<br />
+Lunedì 18 settembre 2017 <br />
+Plesso “Falcone” I.C. “Pirandello”  - Taranto</strong></p></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title views-accordion-header">        <span class="field-content"><a href="/articolo/workshop-di-architettura">Workshop di Architettura</a></span>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/articolo/workshop-di-architettura">Workshop di Architettura</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><a href="http://photos.app.goo.gl/zavTBv1fffYARd8t1">FOTO | <strong>LE IPOTESI PROGETTUALI</strong></a></p>
+<p>ALTERNANZA SCUOLA LAVORO PRESSO IL POLITECNICO DI BARI</p></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title views-accordion-header">        <span class="field-content"><a href="/articolo/giornataprogrammatica-2017">#GiornataProGrammatica 2017</a></span>  </div>  
+  <div class="views-field views-field-title-1">        <span class="field-content"><a href="/articolo/giornataprogrammatica-2017">#GiornataProGrammatica 2017</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>#italianoalcinema - La lingua Batte del 18/10/2017    <a href="http://www.lalinguabatte.rai.it/dl/portaleRadio/media/ContentItem-9133b31e-4ef4-4a6f-9b0f-f0c9b1214ed9.html#sthash.lUcKWv3v.xiqq"><span style="color:#FF0000;"><strong>LINK DELL'EVENTO</strong></span></a></p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+
+      <div class="panel-col-bottom panel-panel">
+      <div class="inside"><div class="panel-pane pane-views pane-frontpage"  >
+  
+        <h2 class="pane-title">
+      LA SCUOLA INFORMA    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-frontpage view-id-frontpage view-display-id-default view-dom-id-6b189d162564ee02e8d1426c534803c2">
+            <div class="view-header">
+      <div style="float:right;padding:5px;">
+<a href="/categoria/news">Archivio news</a>
+</div>
+<div style="clear:both;"></div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/due-grandi-tele-l-ascolto">Due grandi tele per l&#039;Ascolto</a></span>  </h2>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/due-grandi-tele-l-ascolto"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/inaugurazione.gif" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong>DUE GRANDI TELE REALIZZATE PRESSO IL LICEO ARTISTICO </strong><strong>NELLA NUOVA AULA ASCOLTO MINORI DEL TRIBUNALE CIVILE</strong></p>
+<p><strong>Inaugurazione giovedì 21 dicembre alle ore 12</strong></p>
+<p>Il Comitato Pari Opportunità dell'Ordine degli Avvocati di Lecce rappresentato dall'Avvocato Ornella Rotino di intesa con la Magistratura della Sezione Famiglia in persona della Presidente dr.ssa Mondatore, di concerto con il Consiglio dell'Ordine e la Presidente avv Roberta Altavilla, inaugura giovedì 21 dicembre alle ore 12 l'Aula Ascolto per i minori. Il Comitato di Lecce ha stretto un accordo con il Liceo Artistico e Coreutico 'CIARDO PELLEGRINO' di Lecce (Dirigente scolastica Tiziana Paola Rucco), grazie al quale alcuni studenti guidati dal prof Carmelo Tau Fiorentino, si sono impegnati ad allestire con due grandi tele dipinte ad acrilico e olio l'aula destinata all' Ascolto. </p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/due-grandi-tele-l-ascolto">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/rinvio-sedute-di-sorteggio-operatori-economici-fesr-10-8-1-a4-fesrpon-pu-2017-7-arte">RINVIO SEDUTE DI SORTEGGIO OPERATORI ECONOMICI FESR 10.8.1.A4-FESRPON-PU-2017-7 – Arte in Movimento</a></span>  </h2>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>A causa di improrogabili adempimenti amministrativi dell’Istituzione scolastica, le sedute di sorteggio degli operatori economici relative alle manifestazioni di interesse sono rinviata a <u><strong>lunedì 8 gennaio 2018</strong></u> come segue:</p>
+<p><strong>ARREDO PER ALLESTIMENTO N 3 SALE DANZA</strong> Prot. n. 6379/VIII.1.1 del 06/12/2017 sorteggio <strong>ore 11:00,</strong></p>
+<p><strong>STRUMENTI MUSICALI</strong> Prot. n. 6374 VIII.1.1 del 06/12/2017 sorteggio ore <strong>12:00.</strong></p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/rinvio-sedute-di-sorteggio-operatori-economici-fesr-10-8-1-a4-fesrpon-pu-2017-7-arte">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/avviso-interno-selezione-alunni-progetto-10-1-1a-fsepon-pu-2017-141-cantiere-aperto">AVVISO INTERNO SELEZIONE ALUNNI Progetto “10.1.1A-FSEPON- PU-2017-141” – CANTIERE APERTO - Presentazione del progetto Domenica 17 dicembre ore 11 nella sede centrale</a></span>  </h2>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>AVVISO INTERNO SELEZIONE CORSISTI ALUNNI per la partecipazione al Progetto PON/FSE “10.1.1AFSEPON- PU-2017-141” – Titolo CANTIERE APERTO</p>
+<p>Termine di presentazione della domanda: ore 9.00 del 28/12/2017.</p>
+<p> </p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/avviso-interno-selezione-alunni-progetto-10-1-1a-fsepon-pu-2017-141-cantiere-aperto">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/un-incontro-speciale">Un incontro speciale </a></span>  </h2>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/un-incontro-speciale"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/arcivescovo.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Sabato 16 dicembre 2017 alle ore 12 il nuovo Arcivescovo di Lecce, Mons. Michele Seccia farà visita alla nostra scuola per porgere gli auguri di Natale alla comunità scolastica e per ringraziare per il pastorale ricevuto in dono dalla diocesi in occasione del suo ingresso a Lecce.</p>
+<p>Com'è noto l'opera è stata progettata e realizzata dai nostri docenti Antonio Perrone e Flavio Antonio Tricarico.</p>
+<p>Le classi IG, IIG, IIIF, IVH, VG, con la Dirigente Scolastica prof.ssa Tiziana Paola Rucco, in rappresentanza di tutto l'Istituto, accoglieranno nell'atrio d'ingresso della sede "Pellegrino" l'arrivo dell'Arcivescovo.</p>
+<p>A seguire un gruppo di alunni, coordinati dalla prof.ssa Loredana Bruno, con un canto, un brano musicale e un breve messaggio augurale daranno il loro benvenuto a Lecce a Mons. Seccia.</p>
+<p> </p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/un-incontro-speciale">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/avvio-corsi-di-lingua-inglese">Avvio corsi di lingua inglese</a></span>  </h2>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><em>Agli alunni - Alle famiglie</em></p>
+<p><em>Ai docenti interessati</em></p>
+<p><strong>Si comunica l'avvio dei corsi di formaziome in lingua inglese di preparazione per le certificazioni Cambridge</strong></p>
+<p><strong>livelli A2, B1, B2</strong></p>
+<p>Allegati: <u>Circolare - elenchi dei partecipanti ai corsi</u></p>
+<p> </p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/avvio-corsi-di-lingua-inglese">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/mostra-d-arte">Mostra d&#039;arte</a></span>  </h2>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/mostra-d-arte"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/transespress.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span style="font-size:14px;"><strong>“Trans Art Express’’</strong></span></p>
+<p>Mostra degli studenti del Liceo Artistico e Coreutico Ciardo - Pellegrino di Lecce.</p>
+<p>Inaugurazione Sabato 16 dicembre - ore 18:00 - dal 16 al 20 dicembre 2017</p>
+<p>Museo Ferroviario della Puglia - via G. Codacci Pisanelli, Lecce.</p>
+<p>Ingresso libero</p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/mostra-d-arte">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/opuscolo-informativo">Opuscolo informativo</a></span>  </h2>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><iframe allowfullscreen="" frameborder="0" src="//e.issuu.com/embed.html#7308253/55781050" style="width:100%; height:350px;"></iframe></p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/opuscolo-informativo">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/olimpiadi-di-educazione-finanziaria">Olimpiadi di Educazione Finanziaria</a></span>  </h2>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/olimpiadi-di-educazione-finanziaria"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/bpp.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Si è svolta stamattina 27 novembre 2017 presso il Teatro Apollo di Lecce la premiazione delle olimpiadi di Educazione Finanziaria, gara promossa dalla Banca Popolare Pugliese e patrocinata da Prefettura, Provincia, Comune, Ufficio Scolastico Territoriale e Banca d'Italia.</p>
+<p>Sul podio al 3^ posto si è classificata la squadra del nostro Liceo composta da: Veronica Marullo, Beatrice Metrangolo, Emanuela Pezzuto, Yana Rizzo, Aurora Sabella della classe VD indirizzo Grafica.</p>
+<p>Un altro eccellente risultato della nostra scuola. Complimenti alle studentesse!</p>
+<p> </p>
+<p> </p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/olimpiadi-di-educazione-finanziaria">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/speciale-openday">Speciale OpenDay</a></span>  </h2>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/speciale-openday"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/open_web_1.jpg" width="830" height="416" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span style="color:#000080;"><strong>DOMENICA 17 DICEMBRE IL SECONDO OPEN DAY  </strong></span>          <a href="https://issuu.com/liceociardopellegrino/docs/opuscolo_17_18"><span style="color:#FF0000;"><strong>SFOGLIA ONLINE L'OPUSCOLO DEL LICEO </strong></span></a></p>
+<p>Avviati gli stage di “Un giorno al Liceo”</p>
+<p>Il Liceo artistico e coreutico “Ciardo-Pellegrino” di Lecce, nell'ambito delle attività di orientamento in ingresso ha programmato il secondo dei sei  OPEN DAY dalle 10 alle 13 in entrambi le sedi dell'Istituto, la sede 'Ciardo' in Via Vecchia Copertino e la sede 'Pellegrino' in Viale De Pietro.</p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/speciale-openday">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/cortometraggio-tra-cielo-e-terra-hung-between-earth-and-sky">Cortometraggio TRA CIELO E TERRA - HUNG BETWEEN THE EARTH AND THE SKY</a></span>  </h2>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/articolo/cortometraggio-tra-cielo-e-terra-hung-between-earth-and-sky"><img src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/field/image/locandina_8_laurels.jpg" width="2048" height="2563" alt="Tra cielo e terra" /></a></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong>TRA CIELO E TERRA -  (HUNG BETWEEN THE EARTH AND THE SKY</strong> nella versione inglese)</p>
+<p>Cortometraggio realizzato nel corso dell'a.s. 2016/2017 dal corso di audiovisivo e multimediale con la regia del prof. Dario Patrocinio.</p>
+<p>Durata 8'23''</p>
+<p>SINOSSI</p>
+<p>Noemi, una studentessa liceale,  ricostruisce il percorso che l'ha portata a vivere il momento più drammatico  della sua esistenza, costretta com'è ad abbandonare un passato con poche certezze per ritrovarsi al cospetto di un futuro assolutamente privo di prospettive.</p>
+<p><strong>SELEZIONI</strong></p>
+<p>CERVIGNANO FILM FESTIVAL (Udine 23.09.2017)</p>
+<p>SPINOFF FILM FESTIVAL (Cremona 08.10.2017)</p>
+<p>OUR VOICES FILM FESTIVAL (Vancouver- novembre p.v.)</p>
+<p>MedFF Mediterranean Film Festival ( Siracusa - 31 ottobre 2017)</p>
+<p>MIAMI INDEPENDENT FILM FESTIVAL (Miami - USA- 5 novembre 2017)</p>
+<p>FESTIVAL de CINEMA ESCOLAR de ALVORADA (Rio Grande do Sul- Brasil - 25.11.2017)</p>
+<p>XIX FESTIVAL INTERNAZIONALE SCRITTURA E IMMAGINE (Pescara - 01.12.2017) - E'uno dei dieci cortometraggi selezionati nella sezione "Cortoscuola" e sarà proiettato nella giornata conclusiva, il 1°Dicembre 2017, presso il Mediamuseum – Le arti dello spettacolo, Piazza Alessandrini, 34 – Pescara</p>
+<p>Finalista nella categoria Corti Scolastici al VIA DEI CORTI FESTIVAL INDIPENDENTE DI CINEMA BREVE a Gravina di Catania dal 13 al 17 Dicembre 2017.</p>
+<p><a href="https://www.facebook.com/scritturaeimmagine/videos/1804177552945039/">https://www.facebook.com/scritturaeimmagine/videos/1804177552945039/</a></p>
+<p><strong>PREMI</strong></p>
+<p>"BEST ONE ACTRESS SHORT FILM AWARD" all'AVALONIA FESTIVAL (Providence-Rhode Island, USA-09.12.2017)</p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/cortometraggio-tra-cielo-e-terra-hung-between-earth-and-sky">Leggi tutto ...</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd views-row-last">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/articolo/primo-incontro-scuola-famiglia-s-201718">Primo incontro Scuola - Famiglia a.s. 2017/18</a></span>  </h2>  
+  <div class="views-field views-field-body">        <div class="field-content"><p> </p>
+<p><strong>Il primo incontro scuola - famiglia</strong> dell’a.s. 2017/18 si svolgerà <strong>presso la Sede Centrale</strong> nei seguenti giorni:<br /><strong>BIENNIO   Liceo Artistico e Liceo Coreutico &gt; Lunedì 4 dicembre ore 16.30 - 19.30<br />
+TRIENNIO Liceo Artistico &gt; Martedì 5 dicembre ore 16.30 - 19.30</strong></p>
+<p>Allegata Circolare n.109</p>
+<p> </p>
+</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/articolo/primo-incontro-scuola-famiglia-s-201718">Leggi tutto ...</a></span>  </div>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pagine</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Vai a pagina 2" href="/homepage?page=1">2</a></li>
+<li class="pager-item"><a title="Vai a pagina 3" href="/homepage?page=2">3</a></li>
+<li class="pager-item"><a title="Vai a pagina 4" href="/homepage?page=3">4</a></li>
+<li class="pager-item"><a title="Vai a pagina 5" href="/homepage?page=4">5</a></li>
+<li class="pager-item"><a title="Vai a pagina 6" href="/homepage?page=5">6</a></li>
+<li class="pager-item"><a title="Vai a pagina 7" href="/homepage?page=6">7</a></li>
+<li class="pager-item"><a title="Vai a pagina 8" href="/homepage?page=7">8</a></li>
+<li class="pager-item"><a title="Vai a pagina 9" href="/homepage?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Vai alla pagina successiva" href="/homepage?page=1">seguente ›</a></li>
+<li class="pager-last last"><a title="Vai all&#039;ultima pagina" href="/homepage?page=45">ultima »</a></li>
+</ul></div>  
+  
+  
+  
+      <div class="feed-icon">
+      <a href="http://www.liceociardopellegrinolecce.gov.it/rss.xml" class="feed-icon" title="Abbonamento a Feed prima pagina"><img src="http://www.liceociardopellegrinolecce.gov.it/misc/feed.png" width="16" height="16" alt="Abbonamento a Feed prima pagina" /></a>    </div>
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+    </div>
+
+  </div>
+</div>
+  </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+          <div id="sidebar-first" class="sidebar">  <div class="region region-sidebar-first">
+    <div id="block-menu_block-17" class="block block-menu-block block-odd block-sidebar-first block-count-8">
+  <div class="block-inner">
+
+                  <h2 class="block-title">La scuola</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-17 menu-name-main-menu parent-mlid-9545 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-9547"><a href="/menu-principale/l-istituto">L&#039;istituto</a></li>
+<li class="leaf menu-mlid-9549"><a href="/menu-principale/contatti-0" title="Mappa del luogo e come raggiungercerci">Contatti</a></li>
+<li class="leaf menu-mlid-9553"><a href="/menu-principale/strutture">Strutture</a></li>
+<li class="leaf menu-mlid-9548"><a href="/menu-principale/dirigenza">Dirigenza</a></li>
+<li class="expanded menu-mlid-9551"><a href="/menu-principale/organigramma">Organigramma</a><ul class="menu"><li class="first leaf menu-mlid-9558"><a href="/menu-principale/dirigente-scolastico-e-componenti-lo-staff-di-dirigenza" title="Dirigente Scolastico e componenti lo staff di dirigenza">Staff di dirigenza</a></li>
+<li class="leaf menu-mlid-9559"><a href="/menu-principale/funzioni-strumentali" title="Funzioni strumentali al Piano dell&#039;Offerta Formativa">Funzioni strumentali</a></li>
+<li class="leaf menu-mlid-9560"><a href="/menu-principale/commissioni" title="Commissioni anno scolastico in corso">Commissioni</a></li>
+<li class="leaf menu-mlid-9561"><a href="/menu-principale/docenti-e-classi-assegnate" title="Docenti anno scolastico in Corso">Docenti</a></li>
+<li class="last leaf menu-mlid-9562"><a href="/menu-principale/personale-amministrativo-tecnico-e-ausiliario" title="Personale amministrativo,tecnico e ausiliario">Personale ATA</a></li>
+</ul></li>
+<li class="expanded menu-mlid-9552"><a href="/menu-principale/organi-collegiali">Organi collegiali</a><ul class="menu"><li class="first leaf menu-mlid-9567"><a href="/menu-principale/consiglio-di-istituto">Consiglio di Istituto</a></li>
+<li class="leaf menu-mlid-9563"><a href="/menu-principale/giunta-esecutiva">Giunta esecutiva</a></li>
+<li class="leaf menu-mlid-9564"><a href="/menu-principale/collegio-docenti">Collegio docenti</a></li>
+<li class="leaf menu-mlid-11591"><a href="/menu-principale/comitato-di-valutazione">Comitato di Valutazione</a></li>
+<li class="leaf menu-mlid-9565"><a href="/menu-principale/consigli-di-classe">Consigli di classe</a></li>
+<li class="leaf menu-mlid-11614"><a href="/menu-principale/consulta-alunni" title="Nominativi eletti - Consulta Provinciale degli studenti 2016/17">Consulta Alunni</a></li>
+<li class="last leaf menu-mlid-11656"><a href="/menu-principale/rappresentanti-genitori-e-alunni-s-20172018" title="Rappresentanti Genitori e alunni A.S. 2017/18">Rappresentanti Genitori e alunni A.S. 2017/18</a></li>
+</ul></li>
+<li class="leaf menu-mlid-9556"><a href="/menu-principale/carta-dei-servizi">Carta dei servizi -Accessibilità</a></li>
+<li class="leaf menu-mlid-9555"><a href="/menu-principale/piano-triennale-dell-offerta-formativa">Piano Triennale dell&#039;Offerta Formativa</a></li>
+<li class="leaf menu-mlid-11577"><a href="/menu-principale/piano-di-miglioramento-triennio-20162019">Piano di Miglioramento</a></li>
+<li class="leaf menu-mlid-11575"><a href="/menu-principale/piano-annuale-inclusivita">Piano Annuale Inclusività</a></li>
+<li class="leaf menu-mlid-11576"><a href="/menu-principale/valutazione-d-istituto">Valutazione d&#039;Istituto</a></li>
+<li class="last leaf menu-mlid-9557"><a href="/menu-principale/regolamenti-codici-di-comportamento">Regolamenti - Codici di comportamento</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-19" class="block block-menu-block block-even block-sidebar-first block-count-9">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Segreteria - URP</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-19 menu-name-main-menu parent-mlid-9568 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-9570"><a href="/menu-principale/ufficio-relazioni-con-il-pubblico-organizzazione">Ufficio relazioni con il Pubblico</a></li>
+<li class="leaf menu-mlid-11649"><a href="/menu-principale/contatti">Contatti</a></li>
+<li class="leaf menu-mlid-9571"><a href="/menu-principale/libri-di-testo">Libri di testo</a></li>
+<li class="leaf menu-mlid-9569"><a href="/menu-principale/orari-di-apertura">Orari di apertura</a></li>
+<li class="leaf menu-mlid-9572"><a href="/modulistica-pubblica?tid=All&amp;title=" title="">Modulistica</a></li>
+<li class="last leaf menu-mlid-9573"><a href="/menu-principale/iban-e-pagamenti-informatici">IBAN e pagamenti informatici</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-panels_mini-in_evidenza" class="block block-panels-mini block-odd block-sidebar-first block-count-10">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Pubblicità legale</h2>
+          
+    <div class="content">
+      <div class="panel-display panel-1col clearfix" id="mini-panel-in_evidenza">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <p style="text-align:center;margin:0;"><a href="/albo"><img alt="Albo Pretorio on-line" src="/sites/default/files/albo-pretorio.png" style="width: 80%;" title="Albo Pretorio on-line" /></a></p>
+<p style="text-align:center;margin:0;"><a href="/trasparenza/amministrazione-trasparente"><img alt="Amministrazione trasparente" src="/sites/default/files/pictures/amministrazione-trasparente2.png" style="width: 80%;" title="Amministrazione trasparente" /></a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-albo"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.liceociardopellegrinolecce.gov.it/albo-storico" title="Atti scaduti">Albo - Storico</a></li>
+<li class="leaf"><a href="/albi/bacheca-sindacale" title="Bacheca sindacale">Bacheca sindacale</a></li>
+<li class="last leaf"><a href="https://www.contrattintegrativipa.it/" title="">Banca dati - contratti integrativi</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-panels_mini-social" class="block block-panels-mini block-even block-sidebar-first block-count-11">
+  <div class="block-inner">
+
+                  <h2 class="block-title">SOCIAL &amp; MEDIA</h2>
+          
+    <div class="content">
+      <div class="panel-display panel-1col clearfix" id="mini-panel-social">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <!-- Riferimenti social network - Inserire link delle pagine --><div style="text-align:center;">
+<p><a href="https://www.facebook.com/Liceo-Artistico-e-Coreutico-Ciardo-Pellegrino-Lecce-547960652032519/"><img alt="facebook" class="social-icons" height="32" src="/images/social-icon/fb.png" style="margin-right:10px;" width="32" /></a><a href="https://plus.google.com/100615313874481780513/posts"><img alt="googleplus" class="social-icons" height="32" src="/images/social-icon/gplus.png" style="margin-right:10px;" width="32" /></a><a href="https://www.youtube.com/user/LACLECCE/featured"><img alt="youtube" class="social-icons" height="32" src="/images/social-icon/youtube.png" style="margin-right:10px;" width="32" /></a><a href="http://issuu.com/liceociardopellegrino"><img alt="issuu" class="social-icons" height="32" src="/images/social-icon/issuu.png" style="margin-right:10px;" width="32" /></a></p>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-media-scuola"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/giornale-scolastico" title="">Giornale Scolastico</a></li>
+<li class="leaf"><a href="https://issuu.com/liceociardopellegrino/docs/opuscolo_17_18" title="">Materiale Informativo</a></li>
+<li class="leaf"><a href="/tag/mostre" title="">Mostre</a></li>
+<li class="leaf"><a href="https://youtu.be/g17ZIbklPdQ" title="">Video</a></li>
+<li class="leaf"><a href="/archivio-eventi" title="">Eventi</a></li>
+<li class="last leaf"><a href="/tag/progetti" title="">Progetti</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-views-calendario-block_1" class="block block-views block-odd block-sidebar-first block-count-12">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Calendario</h2>
+          
+    <div class="content">
+      <div class="view view-calendario view-id-calendario view-display-id-block_1 view-dom-id-99f3709c2c99d3c44be0338246bcd7bc">
+            <div class="view-header">
+      <div class="date-nav-wrapper clearfix">
+  <div class="date-nav item-list">
+    <div class="date-heading">
+      <h3><a href="http://www.liceociardopellegrinolecce.gov.it/calendar/month/2017-12" title="Visualizza il mese in una pagina intera">Dicembre</a></h3>
+    </div>
+    <ul class="pager">
+          <li class="date-prev">
+        <a href="http://www.liceociardopellegrinolecce.gov.it/homepage?mini=2017-11" title="Vai al mese precedente" rel="nofollow">&laquo;</a>      </li>
+              <li class="date-next">
+        <a href="http://www.liceociardopellegrinolecce.gov.it/homepage?mini=2018-01" title="Vai al mese successivo" rel="nofollow">&raquo;</a>      </li>
+        </ul>
+  </div>
+</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar"><div class="month-view">
+ 
+<table class="mini">
+  <thead>
+    <tr>
+              <th class="days mon">
+          L        </th>
+              <th class="days tue">
+          M        </th>
+              <th class="days wed">
+          M        </th>
+              <th class="days thu">
+          G        </th>
+              <th class="days fri">
+          V        </th>
+              <th class="days sat">
+          S        </th>
+              <th class="days sun">
+          D        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="calendario-2017-11-27" class="mon mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-11-28" class="tue mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-11-29" class="wed mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-11-30" class="thu mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-01" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 1 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-02" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 2 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-03" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 3 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-04" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 4 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-05" class="tue mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceociardopellegrinolecce.gov.it/calendar/day/2017-12-05">5</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/articolo/orario-ricevimento-antimeridiano">ORARIO RICEVIMENTO ANTIMERIDIANO</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">05/12/2017 - 14:30</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-06" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 6 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-07" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 7 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-08" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 8 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-09" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 9 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-10" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 10 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-11" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 11 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-12" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 12 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-13" class="wed mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceociardopellegrinolecce.gov.it/calendar/day/2017-12-13">13</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/articolo/mostra-d-arte">Mostra d&#039;arte</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">13/12/2017 - 09:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-14" class="thu mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceociardopellegrinolecce.gov.it/calendar/day/2017-12-14">14</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/articolo/un-incontro-speciale">Un incontro speciale </a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">14/12/2017 - 15:10</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-15" class="fri mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceociardopellegrinolecce.gov.it/calendar/day/2017-12-15">15</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/articolo/avviso-interno-selezione-alunni-progetto-10-1-1a-fsepon-pu-2017-141-cantiere-aperto">AVVISO INTERNO SELEZIONE ALUNNI Progetto “10.1.1A-FSEPON- PU-2017-141” – CANTIERE APERTO - Presentazione del progetto Domenica 17 dicembre ore 11 nella sede centrale</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">15/12/2017 - 14:00</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-16" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 16 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-17" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 17 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-18" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 18 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-19" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 19 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-20" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 20 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-21" class="thu mini past has-events">
+            <div class="month mini-day-on"> <a href="http://www.liceociardopellegrinolecce.gov.it/calendar/day/2017-12-21">21</a><div class="calendar_tooltips" style="display:none"><ul><li><div class="calendar_tooltips-title-value"><a href="/articolo/rinvio-sedute-di-sorteggio-operatori-economici-fesr-10-8-1-a4-fesrpon-pu-2017-7-arte">RINVIO SEDUTE DI SORTEGGIO OPERATORI ECONOMICI FESR 10.8.1.A4-FESRPON-PU-2017-7 – Arte in Movimento</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">21/12/2017 - 14:00</span></div></li><li><div class="calendar_tooltips-title-value"><a href="/articolo/buone-feste">Buone feste</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">21/12/2017 - 20:30</span></div></li><li><div class="calendar_tooltips-title-value"><a href="/articolo/due-grandi-tele-l-ascolto">Due grandi tele per l&#039;Ascolto</a></div><div class="calendar_tooltips-field_event_date-value"><span class="date-display-single">21/12/2017 - 20:50</span></div></li></ul></div> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-22" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 22 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-23" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 23 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-24" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 24 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendario-2017-12-25" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 25 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-26" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 26 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-27" class="wed mini today has-no-events">
+            <div class="month mini-day-off"> 27 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-28" class="thu mini future has-no-events">
+            <div class="month mini-day-off"> 28 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-29" class="fri mini future has-no-events">
+            <div class="month mini-day-off"> 29 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-30" class="sat mini future has-no-events">
+            <div class="month mini-day-off"> 30 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendario-2017-12-31" class="sun mini future has-no-events">
+            <div class="month mini-day-off"> 31 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+    
+          <div id="sidebar-second" class="sidebar">  <div class="region region-sidebar-second">
+    <div id="block-user-login" class="block block-user block-odd block-sidebar-second block-count-13">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Accesso utente</h2>
+          
+    <div class="content">
+      <form action="/homepage?destination=homepage" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Am5wgHLHfWJty_zJB1wjgMeDWzd2Dgwd5OGoP9QqP4o" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Accedi" class="form-submit" /></div></div></form>    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-20" class="block block-menu-block block-even block-sidebar-second block-count-14">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Registro</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-20 menu-name-menu-registro parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-11550"><a href="https://www.sissiweb.it/Secret/REStart.aspx?Customer_ID=93126450753" title="Collegamento al registrodocenti">Registro Docenti</a></li>
+<li class="last leaf menu-mlid-11551"><a href="https://family.sissiweb.it/Secret/REStart.aspx?Customer_ID=93126450753" title="Collegamento al registro famiglie">Registro Famiglie</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-21" class="block block-menu-block block-odd block-sidebar-second block-count-15">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Orientamento</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-21 menu-name-menu-orientamento parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-11553"><a href="/tag/orientamento-ingresso" title="Orientamento in ingresso">In ingresso</a></li>
+<li class="leaf menu-mlid-11554"><a href="/tag/orientamento-itinere" title="Orientamento in itinere">In itinere</a></li>
+<li class="last leaf menu-mlid-11555"><a href="/tag/orientamento-uscita" title="Orientamento in uscita">In uscita</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-13" class="block block-block block-even block-sidebar-second block-count-16">
+  <div class="block-inner">
+
+                  <h2 class="block-title">E-learning</h2>
+          
+    <div class="content">
+      <p style="text-align:center;margin:0px;"><a href="/moodle" target="_blank"><img alt="Moodle" src="/images/moodle.png" style="width:150px!important;" title="Moodle" /></a></p>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-23" class="block block-menu-block block-odd block-sidebar-second block-count-17">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Fondi Europei</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-23 menu-name-menu-fondi-strutturali-europei parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-11559"><a href="/tag/fondi-strutturali-europei-20072013" title="FSE 2007/2013">Programmazione 2007/2013</a></li>
+<li class="last leaf menu-mlid-11560"><a href="/tag/fondi-strutturali-europei-20142020" title="FSE 2014/2020">Programmazione 2014/2020</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-menu_block-24" class="block block-menu-block block-even block-sidebar-second block-count-18">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Altre sezioni</h2>
+          
+    <div class="content">
+      <div class="menu-block-wrapper menu-block-24 menu-name-menu-altre-sezioni parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-11562"><a href="/tag/corso-serale" title="">Corso serale</a></li>
+<li class="leaf menu-mlid-11563"><a href="/tag/alternanza-scuola-lavoro" title="">Alternanza scuola lavoro</a></li>
+<li class="leaf menu-mlid-11608"><a href="/piano-nazionale-scuola-digitale" title="">Piano Nazionale Scuola Digitale</a></li>
+<li class="leaf menu-mlid-11565"><a href="/tag/formazione-docenti" title="">Formazione docenti</a></li>
+<li class="leaf menu-mlid-11570"><a href="/tag/centro-sportivo-scolastico" title="">Centro Sportivo Scolastico</a></li>
+<li class="leaf menu-mlid-11582"><a href="/tfa" title="">TFA</a></li>
+<li class="last leaf menu-mlid-11583"><a href="/trinity-center" title="">Trinity Center</a></li>
+</ul></div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-15" class="block block-block block-odd block-sidebar-second block-count-19">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <div style="padding-left:0.5em;text-align:center;">
+<p><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/"><img alt="scuola in chiaro" height="45" src="/images/scuolainchiaro.png" width="150" /></a></p>
+<p><a href="http://www.istruzione.it/"><img alt="miur" height="45" src="/images/miur.png" width="150" /></a></p>
+<p><a href="http://www.usplecce.it/"><img alt="usp lecce" height="45" src="/images/usplecce.png" width="150" /></a></p>
+<p><a href="http://www.pugliausr.it/"><img alt="usr puglia" height="45" src="/images/usrpuglia.png" width="150" /></a></p>
+<p><a href="http://www.indire.it/"><img alt="indire" height="45" src="/images/indire.png" width="150" /></a></p>
+<p><a href="http://www.invalsi.it/invalsi/index.php"><img alt="invalsi" height="45" src="/images/invalsi.png" width="150" /></a></p>
+<p><a href="http://www.accademianazionaledanza.it/"><img alt="invalsi" height="45" src="/images/and.png" width="150" /></a></p>
+<p><a href="http://www.istruzione.it/snv/index.shtml"><img alt="invalsi" height="45" src="/images/snv.png" width="150" /></a></p>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-17" class="block block-block block-even block-sidebar-second block-count-20">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <div style="padding-left:0.5em;text-align:center;">
+<p><a href="http://www.pugliausr.it/defaultHP.html?aspxerrorpath=/default.aspx" target="_blank"><img alt="" src="/sites/default/files/ptt.png" style="width: 164px; height: 94px; border-width: 0px; border-style: solid; margin: 0px;" /></a></p>
+</div>
+    </div>
+
+  </div>
+</div>
+<div id="block-block-18" class="block block-block block-odd block-sidebar-second block-count-21">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p class="rtecenter"><a href="https://www.almadiploma.it/" target="_blank"><img alt="" src="/sites/default/files/almadiploma-liceoartistico-ciardopellegrino-b.png" style="width: 163px; height: 180px;" /></a></p>
+    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+    
+  </div> <!-- /columns -->
+
+  
+                  
+          <!--<div id="footer">-->
+                
+      <!--</div>-->
+    
+  
+          <div id="tertiary-content">
+          <div class="region region-tertiary-content">
+    <div id="block-menu-menu-utilit-" class="block block-menu block-odd block-tertiary-content block-count-22">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <ul class="menu"><li class="first leaf"><a href="http://validator.w3.org/check?uri=referer" title="Link esterno a W3C - Servizio di convalida codice">Validazione HTML</a></li>
+<li class="leaf"><a href="http://jigsaw.w3.org/css-validator/check/referer" title="Link esterno a Servizio di validazione del W3C per CSS">Valida CSS</a></li>
+<li class="leaf"><a href="http://www.tawdis.net/" title="Link esterno a tawdis.net">WCAG 2.0</a></li>
+<li class="leaf"><a href="http://wave.webaim.org/refer" title="Link esterno a WAVE">Accessibilità</a></li>
+<li class="leaf"><a href="http://www.magellanopa.it/bussola/page.aspx?s=verifica-dlgs-33-2013&amp;qs=i%2fIwZsp5t0Z%2fqJNdz1eumw%3d%3d" title="Link esterno a magellanopa.it">Bussola della trasparenza</a></li>
+<li class="leaf"><a href="/note-legali/cookie-policy" title="">Cookies Policy</a></li>
+<li class="leaf"><a href="/note-legali/crediti" title="">Crediti</a></li>
+<li class="leaf"><a href="/note-legali/note-legali" title="">Note legali</a></li>
+<li class="last leaf"><a href="/note-legali/privacy" title="">Privacy</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+<div id="block-block-2" class="block block-block block-even block-tertiary-content block-count-23">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <p class="rtecenter">Liceo Artistico e Coreutico Ciardo Pellegrino - <span style="line-height: 1.6em;">Via Vecchia Copertino 6 - 73100 Lecce Tel +39 0832 352431</span></p>
+<p class="rtecenter"><span style="line-height: 1.6em;">Posta Elettronica Certificata: <a href="mailto://lesl03000r@pec.istruzione.it">lesl03000r@pec.istruzione.it</a> - E-mail: <a href="mailto:lesl03000r@istruzione.it">lesl03000r@istruzione.it</a></span></p>
+<p class="rtecenter">Copyright © 2017 - Liceo Artistico Ciardo Pellegrino - Tutti i diritti riservati. </p>
+<p class="rtecenter"><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img alt="Validazione HTML" src="http://www.w3.org/Icons/valid-xhtml-rdfa" width="88" /></a><a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank"><img alt="Validazione CSS" src="http://jigsaw.w3.org/css-validator/images/vcss" style="border:0;width:88px;height:31px; padding-left:30px" /></a><img alt="" src="/sites/default/files/conformita.png" style="width: 84px; height: 31px; padding-left:30px" /></p>
+    </div>
+
+  </div>
+</div>
+  </div>
+      </div>
+  
+    </div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+  $(".disagree-button").live("click", function() {
+    Cookies.get("_gat"); 
+    Cookies.remove("_gat", {domain: "www.liceociardopellegrinolecce.gov.it", path: "/" });
+    Cookies.get("_ga");
+    Cookies.remove("_ga", {domain: "www.liceociardopellegrinolecce.gov.it", path: "/" });
+    window.location.reload();
+  });
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.liceociardopellegrinolecce.gov.it/sites/default/files/js/js_5idECjjAo-X5YdkT65CaIiodkWmZlZv-WjSkHlWhoYk.js"></script>
+</body>
+</html>

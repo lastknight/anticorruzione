@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr">
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+<title>&raquo; Informazioni sulle singole procedure - Comune di Teramo</title>
+<meta name="description" content="" />
+<meta name="DC.Description" content="" />
+<meta name="keywords" content="" />
+<link rel="stylesheet" type="text/css" href="http://www.comune.teramo.it/framework/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="http://www.comune.teramo.it/framework/css/framework.css" />
+<link rel="stylesheet" type="text/css" href="http://www.comune.teramo.it/framework/jquery/jquery-impromptu/jquery.impromptu.css" />
+<link rel="stylesheet" type="text/css" href="http://www.comune.teramo.it/plugins/plugin_page_addons/css/plugin_page_addons.css" />
+<link rel="stylesheet" type="text/css" href="http://www.comune.teramo.it/plugins/plugin_cookie/css/plugin_cookie.css" />
+<link rel="stylesheet" media="all" type="text/css" href="http://www.comune.teramo.it/templates/css/font_lower.css" />
+<link rel="stylesheet" media="all" type="text/css" href="http://www.comune.teramo.it/templates/css/default_css.css" />
+<link rel="stylesheet" media="all" type="text/css" href="http://www.comune.teramo.it/templates/it/comune/css/default_css.css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" media="all" type="text/css" href="http://www.comune.teramo.it/templates/it/comune/css/add_on.css" />
+<![endif]-->
+<!--[if gte IE 7]>
+<link rel="stylesheet" media="all" type="text/css" href="http://www.comune.teramo.it/templates/it/comune/css/add_on_IE7.css" />
+<![endif]-->
+<link rel="stylesheet" media="print" type="text/css" href="http://www.comune.teramo.it/templates/it/comune/css/print.css" />
+<script type="text/javascript" src="http://www.comune.teramo.it/framework/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.comune.teramo.it/framework/jquery/jquery-impromptu/jquery.impromptu.js"></script>
+<script type="text/javascript" src="http://www.comune.teramo.it/plugins/plugin_page_addons/js/jquery.form.js"></script>
+<base href="http://www.comune.teramo.it/" />
+</head>
+<body class="arial size12">
+<div id="box">
+<div id="box_container">
+<div id="container">
+<div class="hidden">
+<h1>Comune di Teramo - sito ufficiale della Citt&agrave; di Teramo</h1>
+<hr />
+<h2>Sommario</h2>
+<ul>
+<li><a href="#contenuti" title="Contenuti della pagina">Contenuti della pagina</a></li>
+<li><a href="#menu_sx" title="Men&ugrave; di navigazione" accesskey="0">Men&ugrave; di navigazione</a></li>
+<li><a href="#piede" title="Piede di pagina: redazione del sito">Piede di pagina: redazione del sito</a></li>
+</ul>
+</div>
+<div id="box_header">
+<div id="header">
+<div id="logo"><a class="logo" href="http://www.comune.teramo.it/" title="Homepage sito Comune di Teramo"><img src="http://www.comune.teramo.it/templates/it/comune/images/logo.gif" alt="logo Comune di Teramo" /></a></div>
+<div id="menu_top" class="right">
+<div>mercoledì, 27 dicembre 2017</div>
+<div class="p15t">
+<div class="hidden"><h2 class="large strong">Menu superiore</h2><hr /></div>
+<div id="plugin_1" class="plugin plugin_menu"><ul class="menutop">
+<li class="item_1">
+<a accesskey="1" href="http://www.comune.teramo.it/index.php?id=1" title="Home"><span>Home</span></a>
+</li>
+<li class="item_2">
+<a accesskey="3" href="http://www.comune.teramo.it/index.php?id=2" title="Mappa del sito"><span>Mappa del sito</span></a>
+</li>
+<li class="item_44">
+<a accesskey="4" href="http://www.comune.teramo.it/index.php?id=44" title="Contatti"><span>Contatti</span></a>
+</li>
+<li class="item_45">
+<a accesskey="2" href="http://www.comune.teramo.it/index.php?id=45" title="Scrivi al Comune"><span>Scrivi al Comune</span></a>
+</li>
+<li class="item_100">
+<a href="http://www.comune.teramo.it/index.php?id=60" title="Feed RSS"><span>Feed RSS</span></a>
+</li>
+<li class="item_62">
+<a href="http://www.comune.teramo.it/index.php?id=62" title="Area Riservata"><span>Area Riservata</span></a>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="min-width"></div>
+</div>
+</div>
+<div id="box_banner">
+<div id="banner" class="banner_1">
+<div id="line">&nbsp;</div>
+<div class="min-width"></div>
+</div>
+</div>
+<div id="box_pathway">
+<div class="hidden"><h2>Percorso di navigazione</h2><hr /></div>
+<div id="plugin_16" class="plugin plugin_pathway"><div class="pathway">
+Ti trovi in:
+&nbsp;<a href="http://www.comune.teramo.it/" title="Home">Home</a>
+&nbsp;&raquo;&nbsp;<a href="http://www.comune.teramo.it/index.php?id=143" title="Amministrazione trasparente">Amministrazione trasparente</a>												&nbsp;&raquo;&nbsp;<a href="http://www.comune.teramo.it/index.php?id=277" title="Bandi di gara e contratti">Bandi di gara e contratti</a>												&nbsp;&raquo;&nbsp;<a href="http://www.comune.teramo.it/index.php?id=238" title="Informazioni sulle singole procedure in formato tabellare">Informazioni sulle singole procedure in formato tabellare</a>												&nbsp;&raquo;&nbsp;<a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4" title="Anno 2015">Anno 2015</a>						</div></div>
+<div class="hidden"><hr /></div>
+</div>
+<div id="main">
+<div class="min-width"></div>
+<div id="content_left">
+<div class="hidden">
+<a name="menu_sx"></a>
+<h2>Menu di navigazione</h2><hr />
+</div>
+<div id="plugin_2" class="plugin plugin_menu m3b"><div class="box_title"><h3>Il Comune</h3></div>
+<ul class="bullet-1 p10l">
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=3" title="Struttura Organizzativa">Struttura Organizzativa</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=7" title="Organi istituzionali">Organi istituzionali</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=8" title="Statuto comunale">Statuto comunale</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=9" title="Regolamenti">Regolamenti</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=11" title="Atti amministrativi">Atti amministrativi</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=105" title="Spese di rappresentanza sostenute dagli organi di governo">Spese di rappresentanza sostenute dagli organi di governo</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=12" title="Bandi e concorsi">Bandi e concorsi</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=56" title="Comunicazioni dai settori">Comunicazioni dai settori</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=64" title="Amarcord">Amarcord</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=63" title="Link utili">Link utili</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=95" title="Area Wiki - Glossario">Area Wiki - Glossario</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=125" title="Servizi di e-government attivi">Servizi di e-government attivi</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=126" title="Servizi di e-government di futura attivazione">Servizi di e-government di futura attivazione</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=143" title="Amministrazione trasparente">Amministrazione trasparente</a>
+</li>
+</ul></div><div id="plugin_3" class="plugin plugin_menu m3b"><div class="box_title"><h3>I servizi</h3></div>
+<ul class="bullet-1 p10l">
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=39" title="Come fare per">Come fare per</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=40" title="Aree tematiche">Aree tematiche</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=41" title="Eventi della vita">Eventi della vita</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=42" title="Io sono">Io sono</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=43" title="Modulistica">Modulistica</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=97" title="Elezioni">Elezioni</a>
+</li>
+</ul></div><div id="plugin_63" class="plugin plugin_menu m3b"><div class="box_title"><h3>Vivere Teramo</h3></div>
+<ul class="bullet-1 p10l">
+<li>
+<a href="http://www.teramoculturale.it/index.php?id=11&amp;itemid=68" title="La Citt&agrave;" class="external_link">La Citt&agrave;</a>
+</li>
+<li>
+<a href="http://www.teramoculturale.it/index.php?id=11" title="Le Frazioni" class="external_link">Le Frazioni</a>
+</li>
+<li>
+<a href="http://www.geoplan.it/mappe-cartine/mappa-comune-teramo-TE.htm" title="Piantina della Citt&agrave;" class="external_link">Piantina della Citt&agrave;</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=79" title="Dati statistici">Dati statistici</a>
+</li>
+<li>
+<a href="http://www.teramoculturale.it/index.php?id=20" title="I Monumenti" class="external_link">I Monumenti</a>
+</li>
+<li>
+<a href="http://www.teramoculturale.it/index.php?id=7&amp;item_29=0" title="Dove dormire" class="external_link">Dove dormire</a>
+</li>
+<li>
+<a href="http://www.teramoculturale.it/index.php?id=9&amp;item_91=0&amp;item_97=0" title="Dove mangiare" class="external_link">Dove mangiare</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=75" title="Informazioni utili">Informazioni utili</a>
+</li>
+<li>
+<a href="http://www.teramoculturale.it/index.php?id=45" title="Galleria Fotografica" class="external_link">Galleria Fotografica</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=80" title="Parco della Scienza">Parco della Scienza</a>
+</li>
+<li>
+<a href="http://www.comune.teramo.it/index.php?id=102" title="Sicurezza ed emergenze">Sicurezza ed emergenze</a>
+</li>
+</ul></div><div id="plugin_65" class="plugin plugin_menu m3b"><div class="box_title"><h3>Network del Comune</h3></div>
+<ul class="bullet-1 p10l">
+<li>
+<a href="http://www.teramoculturale.it/" title="Teramo Culturale" class="external_link">Teramo Culturale</a>
+</li>
+<li>
+<a href="http://www.premioteramo.it/" title="Premio Teramo" class="external_link">Premio Teramo</a>
+</li>
+</ul></div><div id="plugin_24" class="plugin plugin_html m3b"><div class="box_title"><h3>Filo diretto</h3></div>
+<div class="p10t p10r p20l"><ul>
+<li class="p2"><a href="http://www.comune.teramo.it/index.php?id=44" title="Contatti"><img alt="icona contatti" src="http://www.comune.teramo.it/uploads/plugins/email.gif" width="14" height="14" /> Contatti</a></li>
+<li class="p2"><a href="http://www.comune.teramo.it/index.php?id=45" title="Scrivi al Comune"><img alt="icona scrivi al comune" src="http://www.comune.teramo.it/uploads/plugins/comments.png" width="14" height="14" /> Scrivi al Comune</a></li>
+<li class="p2"><a href="http://www.comune.teramo.it/index.php?id=94" title="Proponi un contenuto"><img alt="icona proponi un contenuto" src="http://www.comune.teramo.it/uploads/plugins/icon_reply.gif" width="14" height="14" /> Proponi un contenuto</a></li>
+<li class="p2"><a href="http://www.comune.teramo.it/index.php?id=49" title="Rubrica del personale"><img alt="icona rubrica del personale" src="http://www.comune.teramo.it/uploads/plugins/telefono.gif" width="15" height="15" />Rubrica del personale</a></li>
+</ul></div>
+<div class="clear"></div></div>
+</div>
+<div id="content_center">
+<div class="min-width-2"></div>
+<div class="w100p">
+<div class="hidden">
+<a name="contenuti"></a>
+<hr />
+</div>
+<div class="page_title b1b_dotted"><h1>Informazioni sulle singole procedure</h1></div>
+<div id="plugin_11" class="plugin plugin_page_addons p5t p5b"><div class="w100p p5b b1b_dotted">
+<div class="lh30 fl">
+<div class="fl strong">Valutazione:</div>
+<a id="page_addons_cs_1" class="button_2" title="positiva" href="http://www.comune.teramo.it/index.php?id=28&amp;title=Informazioni+sulle+singole+procedure+in+formato+tabellare&amp;url=http%3A%2F%2Fwww.comune.teramo.it%2Findex.php%3Fid%3D238%26year%3D4">positiva</a>
+<a id="page_addons_cs_2" class="button_2" title="sufficiente" href="http://www.comune.teramo.it/index.php?id=29&amp;title=Informazioni+sulle+singole+procedure+in+formato+tabellare&amp;url=http%3A%2F%2Fwww.comune.teramo.it%2Findex.php%3Fid%3D238%26year%3D4">sufficiente</a>
+<a id="page_addons_cs_3" class="button_2 last" title="negativa" href="http://www.comune.teramo.it/index.php?id=30&amp;title=Informazioni+sulle+singole+procedure+in+formato+tabellare&amp;url=http%3A%2F%2Fwww.comune.teramo.it%2Findex.php%3Fid%3D238%26year%3D4">negativa</a>
+</div>
+<div class="lh30 fr">
+<a id="page_addons_facebook" class="button_2" title="Condividi su Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.comune.teramo.it%2Findex.php%3Fid%3D238%26year%3D4">&nbsp;</a>
+<a id="page_addons_twitter" class="button_2" title="Condividi su Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.comune.teramo.it%2Findex.php%3Fid%3D238%26year%3D4">&nbsp;</a>
+<a id="page_addons_print" class="button_2" title="Stampa" href="javascript:window.print()">Stampa</a>
+<a id="page_addons_wiki" class="button_2 last" title="Area Wiki - Glossario" href="http://www.comune.teramo.it/index.php?id=95">Glossario</a>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div></div>
+<div class="clear"></div>
+<div>
+<div id="plugin_90" class="plugin plugin_avcp_frontpage"><div class="strong p10b">Anno 2015:</div>
+<div><strong>Link indice file:</strong> <a href="http://www.comune.teramo.it/uploads/avcp/indicedataset_2015.xml" title="AVCP anno 2015">http://www.comune.teramo.it/uploads/avcp/indicedataset_2015.xml</a></div>
+<div class="p5b">Per questa informazione, sono disponibili i dati in formato aperto. <a href="http://www.comune.teramo.it/export_csv.php?plugin=96&amp;year=4&amp;auth=11ef3151dcd732a3e9f03a7c4b9f0bd3" title="Scarica i dati in Open Data">Scarica i dati in Open Data</a></div>
+<ul class="bullet-1">
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1196" title="ING.NICOLA VIGILANTE AFFIDAMENTO INCARICO FORMAZIONE OBBLIGATORIA">ING.NICOLA VIGILANTE AFFIDAMENTO INCARICO FORMAZIONE OBBLIGATORIA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1197" title="CORSO DI FORMAZIONE DIRITTOITALIA.IT SRL">CORSO DI FORMAZIONE DIRITTOITALIA.IT SRL</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1198" title="CORSO DI FORMAZIONE MIRA FORMAZIONE SRLS">CORSO DI FORMAZIONE MIRA FORMAZIONE SRLS</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1199" title="ORDINE DEGLI INGEGNERI DELLA PROVINCIA DI TERAMO CORSO DI FORMAZIONE">ORDINE DEGLI INGEGNERI DELLA PROVINCIA DI TERAMO CORSO DI FORMAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1200" title="CORSO DI FORMAZIONE ANUSCASRL">CORSO DI FORMAZIONE ANUSCASRL</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1201" title="ING. NICOLA VIGILANTE  CORSI DI FORMAZIONE OBBLIGATORI">ING. NICOLA VIGILANTE  CORSI DI FORMAZIONE OBBLIGATORI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1202" title="CORSO DI FORMAZIONE ORGANIZZATO DALL&#039;ANUSCA S.R.L.">CORSO DI FORMAZIONE ORGANIZZATO DALL&#039;ANUSCA S.R.L.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1203" title="ING.NICOLA VIGILANTE AFFIDAMENTO INCARICO CORSO RLS">ING.NICOLA VIGILANTE AFFIDAMENTO INCARICO CORSO RLS</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1204" title="CORSO DI FORMAZIONE ORGANIZZATO DALLA PUBBLIFORMES S.A.S.">CORSO DI FORMAZIONE ORGANIZZATO DALLA PUBBLIFORMES S.A.S.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1205" title="AFFIDAMENTO INCARICO AL TIRO A SEGNO NAZIONALE SEZ. TERAMO">AFFIDAMENTO INCARICO AL TIRO A SEGNO NAZIONALE SEZ. TERAMO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1207" title="Servizi educativi per la prima infanzia presso i nidi comunali - PARFAS 2014">Servizi educativi per la prima infanzia presso i nidi comunali - PARFAS 2014</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1208" title="Affidamento incarico per lo svolgimento delle funzioni di medico competente">Affidamento incarico per lo svolgimento delle funzioni di medico competente</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1209" title="Cinema in Piazza 2015">Cinema in Piazza 2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1210" title="Realizzazione evento &quot;Sport sotto le Stelle 2015&quot;">Realizzazione evento &quot;Sport sotto le Stelle 2015&quot;</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1211" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1212" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1213" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1214" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1215" title="ABBONAMENTI STUDENTI A.S. 2014/2015">ABBONAMENTI STUDENTI A.S. 2014/2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1216" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1217" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1218" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1219" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1220" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1221" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1222" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1223" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1224" title="ABBONAMENTI STUDENTI A.S. 2014/2015">ABBONAMENTI STUDENTI A.S. 2014/2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1226" title="FORNITURA GRATUITA CEDOLE LIBRARIE">FORNITURA GRATUITA CEDOLE LIBRARIE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1227" title="TRASPORTO SCOLASTICO SCUOLE INFANZIA E OBBLIGO - DESERTA">TRASPORTO SCOLASTICO SCUOLE INFANZIA E OBBLIGO - DESERTA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1228" title="ABBONAMENTI STUDENTI A.S. 2014/2015">ABBONAMENTI STUDENTI A.S. 2014/2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1229" title="ABBONAMENTI STUDENTI A.S. 2015/2016">ABBONAMENTI STUDENTI A.S. 2015/2016</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1230" title="ABBONAMENTI STUDENTI A.S. 2015/2016">ABBONAMENTI STUDENTI A.S. 2015/2016</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1231" title="SERVIZIO TRASPORTO ALUNNI DISABILI - GARA ANNULLATA MANCATA COMPROVA REQUISITI">SERVIZIO TRASPORTO ALUNNI DISABILI - GARA ANNULLATA MANCATA COMPROVA REQUISITI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1232" title="Proroga servizio assistenza sistemistica">Proroga servizio assistenza sistemistica</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1233" title="Proroga servizio conservazione sostitutiva">Proroga servizio conservazione sostitutiva</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1234" title="Aggiornamento licenze software">Aggiornamento licenze software</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1235" title="Fornitura PC e Monitor">Fornitura PC e Monitor</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1236" title="Manutenzione software rilevazione presenze">Manutenzione software rilevazione presenze</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1237" title="Manutenzione software servizi scolastici">Manutenzione software servizi scolastici</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1238" title="Manutenzione ed assistenza SIT">Manutenzione ed assistenza SIT</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1239" title="Manutenzione gruppi di continuit&agrave;">Manutenzione gruppi di continuit&agrave;</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1240" title="Manutenzione lettori di badge rilevazione presenze">Manutenzione lettori di badge rilevazione presenze</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1241" title="Acquisto certificato SSL MIME CLASS 2">Acquisto certificato SSL MIME CLASS 2</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1242" title="Manutenzione software istituzionali">Manutenzione software istituzionali</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1243" title="Manutenzione sistema informatico e conservazione sostitutiva">Manutenzione sistema informatico e conservazione sostitutiva</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1244" title="Manutenzione software istituzionalE">Manutenzione software istituzionalE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1245" title="Manutenzione software">Manutenzione software</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1246" title="BIANCHERIA PER ASILI NIDO">BIANCHERIA PER ASILI NIDO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1247" title="ABBONAMENTI STUDENTI A.S. 2013/2014">ABBONAMENTI STUDENTI A.S. 2013/2014</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1248" title="ABBONAMENTI STUDENTI A.S. 2014/2015">ABBONAMENTI STUDENTI A.S. 2014/2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1249" title="ABBONAMENTI STUDENTI A.S. 2015/2016">ABBONAMENTI STUDENTI A.S. 2015/2016</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1250" title="IMPLEMENTAZIONE SISTEMA ISCRIZIONI ON LINE">IMPLEMENTAZIONE SISTEMA ISCRIZIONI ON LINE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1251" title="ACQUISTO SMS E MATERIALE DI SUPPORTO">ACQUISTO SMS E MATERIALE DI SUPPORTO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1252" title="ABBONAMENTI STUDENTI A.S. 2013/2014">ABBONAMENTI STUDENTI A.S. 2013/2014</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1253" title="ABBONAMENTI STUDENTI A.S. 2015/2016">ABBONAMENTI STUDENTI A.S. 2015/2016</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1254" title="ACQUISTO MATERIALE LUDICO E DI CANCELLERIA">ACQUISTO MATERIALE LUDICO E DI CANCELLERIA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1255" title="SERVIZIO TRASPORTO ALUNNI - PROSECUZIONE FINO TERMINE A.S. 2015/2016">SERVIZIO TRASPORTO ALUNNI - PROSECUZIONE FINO TERMINE A.S. 2015/2016</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1256" title="Colonia estiva non residenziale - Luglio 2015">Colonia estiva non residenziale - Luglio 2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1257" title="Acquisto n.1 scanner Canon DR-F120">Acquisto n.1 scanner Canon DR-F120</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1258" title="Acquisto n.10 Toner:Brother TN2170;HP Q 2610A; HP Q 2612AD; Lexmark E360H11E; Panasonic KX-FAT 430X.">Acquisto n.10 Toner:Brother TN2170;HP Q 2610A; HP Q 2612AD; Lexmark E360H11E; Panasonic KX-FAT 430X.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1259" title="Acquisto n.4 Personal Computer C9E49AT#ABB + Lenovo10AW008MIX">Acquisto n.4 Personal Computer C9E49AT#ABB + Lenovo10AW008MIX</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1260" title="Evento franoso C.da Zaraca 5 e 6 marzo 2015, vitto e pernottamento famiglie per sgombero immediato">Evento franoso C.da Zaraca 5 e 6 marzo 2015, vitto e pernottamento famiglie per sgombero immediato</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1263" title="Acquisto n.2 tablet  Samsung. Ordine MEPA N. 2039049 del 03/04/2015">Acquisto n.2 tablet  Samsung. Ordine MEPA N. 2039049 del 03/04/2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1264" title="CORSO FORMAZIONE PERSONALE ASILI NIDO">CORSO FORMAZIONE PERSONALE ASILI NIDO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1265" title="Affidamento del servizio di registrazione e stenotipia computerizzata delle sedute del Consiglio Comunale per un triennio">Affidamento del servizio di registrazione e stenotipia computerizzata delle sedute del Consiglio Comunale per un triennio</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1266" title="Affidamento del servizio di pubblicazione su giornale quotidiano locale di avvisi di adozione di piani di lottizzazione e di varianti al P.R.G. per un triennio">Affidamento del servizio di pubblicazione su giornale quotidiano locale di avvisi di adozione di piani di lottizzazione e di varianti al P.R.G. per un triennio</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1268" title="Affidamento del servizio di stampa manifesti di avvisi di adozione di piani di lottizzazione e di varianti al P.R.G. per un triennio">Affidamento del servizio di stampa manifesti di avvisi di adozione di piani di lottizzazione e di varianti al P.R.G. per un triennio</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1269" title="Affidamento del servizio di custodia in deposito degli archivi della Procura della Repubblica presso il Tribunale e del Giudice di Pace di Teramo">Affidamento del servizio di custodia in deposito degli archivi della Procura della Repubblica presso il Tribunale e del Giudice di Pace di Teramo</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1270" title="Affidamento del servizio di uscierato, custodia, sorveglianza, portineria e centralino degli Uffici Giudiziari di Teramo">Affidamento del servizio di uscierato, custodia, sorveglianza, portineria e centralino degli Uffici Giudiziari di Teramo</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1271" title="Affidamento servizio complementare integrativo del servizio di custodia in deposito degli archivi della Procura della Repubblica e del Giudice di Pace presso il Tribunale di Teramo">Affidamento servizio complementare integrativo del servizio di custodia in deposito degli archivi della Procura della Repubblica e del Giudice di Pace presso il Tribunale di Teramo</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1272" title="Affidamento fornitura etichette adesive per servizio protocollazione">Affidamento fornitura etichette adesive per servizio protocollazione</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1273" title="FORNITURA BUONI PASTO">FORNITURA BUONI PASTO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1274" title="Teramo Ambiente S.P.A Proroga servizi museali">Teramo Ambiente S.P.A Proroga servizi museali</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1275" title="Servizio fotografico">Servizio fotografico</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1276" title="Dibattito col giornalista Paolo Mieli">Dibattito col giornalista Paolo Mieli</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1277" title="Prestazione professionale">Prestazione professionale</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1278" title="FORNITURA CARBURANTE">FORNITURA CARBURANTE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1279" title="SERVIZIO TELEPASS">SERVIZIO TELEPASS</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1280" title="REALIZZAZIONE MOSTRA">REALIZZAZIONE MOSTRA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1281" title="PUBBLICAZIONE NUMERI TELEFONICI">PUBBLICAZIONE NUMERI TELEFONICI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1282" title="Prestazione occasionale museo archeologico">Prestazione occasionale museo archeologico</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1283" title="Promozione pubblicitaria">Promozione pubblicitaria</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1284" title="Fornitura materiale pubblicitario">Fornitura materiale pubblicitario</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1285" title="Fornitura DVD">Fornitura DVD</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1288" title="INSTALLAZIONE VIDEOINTERATTIVA">INSTALLAZIONE VIDEOINTERATTIVA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1289" title="FORNITURA BATTISEDIA">FORNITURA BATTISEDIA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1290" title="ACQUISTO P.C.">ACQUISTO P.C.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1291" title="ACQUISTO BORSONI PER RILIEVO INCIDENTI STRADALI">ACQUISTO BORSONI PER RILIEVO INCIDENTI STRADALI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1292" title="ACQUISTO MATERIALE PERSONALE P.M.">ACQUISTO MATERIALE PERSONALE P.M.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1293" title="CUSTODIA VEICOLI">CUSTODIA VEICOLI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1294" title="REALIZZAZIONE CAMPAGNA DI COMUNICAZIONE">REALIZZAZIONE CAMPAGNA DI COMUNICAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1295" title="REVISIONE ETILOMETRO">REVISIONE ETILOMETRO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1296" title="MANUTENZIONE LUCI">MANUTENZIONE LUCI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1297" title="OSPITALITA LIBERI PROFESSIONISTI">OSPITALITA LIBERI PROFESSIONISTI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1298" title="INTERVENTO CNR">INTERVENTO CNR</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1299" title="INSTALLAZIONE VIDEO INTERATTIVA">INSTALLAZIONE VIDEO INTERATTIVA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1300" title="FORNITURA CATALOGO MOSTRA">FORNITURA CATALOGO MOSTRA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1301" title="FORNITURA LAMPADE">FORNITURA LAMPADE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1302" title="CAMPAGNA FPTOGRAFICA">CAMPAGNA FPTOGRAFICA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1303" title="OSPITALITA RELATORE">OSPITALITA RELATORE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1304" title="AFFITTO TECONOLOGIE VIRTUALI">AFFITTO TECONOLOGIE VIRTUALI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1305" title="FORNITURA MATERIALE DIDATTICO">FORNITURA MATERIALE DIDATTICO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1306" title="INTELAIATURA QUADRI">INTELAIATURA QUADRI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1307" title="FORNITURA INVITI E MANIFESTI">FORNITURA INVITI E MANIFESTI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1308" title="AFFITTO PIANOFORTE">AFFITTO PIANOFORTE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1309" title="FORNITURA SERVICE">FORNITURA SERVICE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1310" title="FORNITURA STRISCIONI">FORNITURA STRISCIONI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1311" title="SISTEMA ELIMINACODE - ACQUISTO RICAMBI">SISTEMA ELIMINACODE - ACQUISTO RICAMBI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1312" title="MANUTENZIONE ARMADIO ROTANTE - AFFIDAMENTO SERVIZIO E IMPEGNO DI SPESA">MANUTENZIONE ARMADIO ROTANTE - AFFIDAMENTO SERVIZIO E IMPEGNO DI SPESA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1313" title="SERVIZI MUSEALI">SERVIZI MUSEALI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1314" title="FORNITURA MATERIALI ALLESTIMENTO">FORNITURA MATERIALI ALLESTIMENTO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1315" title="PROGETTISTA ALLESTIEMNTO MUSEO DEL GATTO">PROGETTISTA ALLESTIEMNTO MUSEO DEL GATTO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1316" title="SERVIZIO DI ACCERTAMENTO E RISCOSSIONE COATTIVA DELLA COSAP">SERVIZIO DI ACCERTAMENTO E RISCOSSIONE COATTIVA DELLA COSAP</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1317" title="PISU - COSTRUZIONE PIAZZA, PARCHEGGIO E COLLEGAMENTO PEDONALE CHIESA COLLEPARCO. APPROVAZIONE NUOVI PREZZI  LIQUIDAZIONE 2&deg; SAL APPROVAZIONE CRE E LIQUIDAZIONE STATO FINALE">PISU - COSTRUZIONE PIAZZA, PARCHEGGIO E COLLEGAMENTO PEDONALE CHIESA COLLEPARCO. APPROVAZIONE NUOVI PREZZI  LIQUIDAZIONE 2&deg; SAL APPROVAZIONE CRE E LIQUIDAZIONE STATO FINALE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1318" title="STRADA STATALE 80 DEL GRAN SASSO D&#039;ITALIA. LAVORI DI COSTRUZIONE DI UNA VARIANTE FRA TERAMO E GIULIANOVA. LOTTO &quot;0&quot;. VARIANTE ALLA SS 80 DALLA PROG.VA KM 72+300 ALLA LOCALIT&Agrave; CARTECCHIO. OPERE COMPLEMENTARI PER LA REALIZZAZIONE SVINCOLO &quot;TERAMO CENTR">STRADA STATALE 80 DEL GRAN SASSO D&#039;ITALIA. LAVORI DI COSTRUZIONE DI UNA VARIANTE FRA TERAMO E GIULIANOVA. LOTTO &quot;0&quot;. VARIANTE ALLA SS 80 DALLA PROG.VA KM 72+300 ALLA LOCALIT&Agrave; CARTECCHIO. OPERE COMPLEMENTARI PER LA REALIZZAZIONE SVINCOLO &quot;TERAMO CENTR</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1319" title="INCARICO PROFESSIONALE AL GEOM. ROBERTO TORRETTA PER REDAZIONE TIPI DI FRAZIONAMENTO E PICCHETTAMENTO AREE INTERESSATE DAI LAVORI DI COLLEGAMENTO A24-VILLA MOSCA-COLLE PARCO - 1&deg; LOTTO. LIQUIDAZIONE COMPETENZE">INCARICO PROFESSIONALE AL GEOM. ROBERTO TORRETTA PER REDAZIONE TIPI DI FRAZIONAMENTO E PICCHETTAMENTO AREE INTERESSATE DAI LAVORI DI COLLEGAMENTO A24-VILLA MOSCA-COLLE PARCO - 1&deg; LOTTO. LIQUIDAZIONE COMPETENZE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1320" title="Manutenzione elettrodomestici ed apparecchiature varie a servizio delle scuole dell&#039;infanzia ed asili nido. Liquidazione fattura ditta Jobega s.r.l.">Manutenzione elettrodomestici ed apparecchiature varie a servizio delle scuole dell&#039;infanzia ed asili nido. Liquidazione fattura ditta Jobega s.r.l.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1321" title="MANUTENZIONE STRAORDINARIA IMPIANTI SPORTIVI ED AREE VERDI PER LA CITTA E PER LE FRAZIONI -  LAVORI URGENTI DI RIPRISTINO DELLE SEZIONI ORIGINALI DI DEFLUSSO ED OPERE IDRAULICHE DI DIFESA MANUTENZIONE STRAORDINARIA IMPIANTI SPORTIVI ED AREE VERDI PER">MANUTENZIONE STRAORDINARIA IMPIANTI SPORTIVI ED AREE VERDI PER LA CITTA E PER LE FRAZIONI -  LAVORI URGENTI DI RIPRISTINO DELLE SEZIONI ORIGINALI DI DEFLUSSO ED OPERE IDRAULICHE DI DIFESA MANUTENZIONE STRAORDINARIA IMPIANTI SPORTIVI ED AREE VERDI PER</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1322" title="FORNITURA MATERIALE PER IL V SETTORE. LIQUIDAZIONE DITTA COMMERCIALTECNICA.">FORNITURA MATERIALE PER IL V SETTORE. LIQUIDAZIONE DITTA COMMERCIALTECNICA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1323" title="IMPEGNO DI SPESA IN FAVORE DELLA DITTA UNIPROJECT PER SERVIZIO DI CARICO TRASPORTO E SMALTIMENTO PERCOLATO PRESSO DISCARICA LA TORRE PER IL PERIODO 01/01/2015-30/04/2015- LIQUIDAZIONE FATTURA  MESE DI DICEMBRE 2014 E GENNAIO 2015">IMPEGNO DI SPESA IN FAVORE DELLA DITTA UNIPROJECT PER SERVIZIO DI CARICO TRASPORTO E SMALTIMENTO PERCOLATO PRESSO DISCARICA LA TORRE PER IL PERIODO 01/01/2015-30/04/2015- LIQUIDAZIONE FATTURA  MESE DI DICEMBRE 2014 E GENNAIO 2015</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1324" title="IMPEGNO DI SPESA IN FAVORE DELLA DITTA  ASTRA STUDIO CHIMICO ASSOCIATO PER SERVIZIO DI REDAZIONE ED ESECUZIONE PIANO DI MONITORAGGIO E CONTROLLO DELLA DISCARICA COMUNALE LA TORRE.">IMPEGNO DI SPESA IN FAVORE DELLA DITTA  ASTRA STUDIO CHIMICO ASSOCIATO PER SERVIZIO DI REDAZIONE ED ESECUZIONE PIANO DI MONITORAGGIO E CONTROLLO DELLA DISCARICA COMUNALE LA TORRE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1325" title="PIANO &quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot; - SCUOLA ELEMENTARE &quot;RISORGIMENTO&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico allo Studio di Geologia Dott. Pasquale DI MARCANTONIO">PIANO &quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot; - SCUOLA ELEMENTARE &quot;RISORGIMENTO&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico allo Studio di Geologia Dott. Pasquale DI MARCANTONIO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1326" title="PIANO &quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot; - SCUOLA MATERNA &quot;VIA DIAZ&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico indagini strutturali al Laboratorio TECNOMETER S.a.S.">PIANO &quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot; - SCUOLA MATERNA &quot;VIA DIAZ&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico indagini strutturali al Laboratorio TECNOMETER S.a.S.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1327" title="&quot;PIANO &quot;&quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot;&quot; - SCUOLA MATERNA &quot;&quot;VIA DIAZ&quot;&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico indagini geognostiche, geotecniche e geofisiche al Dott. Fernando DI PIERDOMENICO.">&quot;PIANO &quot;&quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot;&quot; - SCUOLA MATERNA &quot;&quot;VIA DIAZ&quot;&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico indagini geognostiche, geotecniche e geofisiche al Dott. Fernando DI PIERDOMENICO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1328" title="&quot;PIANO &quot;&quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot;&quot; - SCUOLA ELEMENTARE &quot;&quot;RISORGIMENTO&quot;&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico indagini sulle strutture allo Studio Ing. Danilo RANALLI.">&quot;PIANO &quot;&quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot;&quot; - SCUOLA ELEMENTARE &quot;&quot;RISORGIMENTO&quot;&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico indagini sulle strutture allo Studio Ing. Danilo RANALLI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1329" title="PIANO &quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot; - SCUOLA MATERNA &quot;VIA TEVERE&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico di progettazione all&#039;Ing. Franco PORRINI.">PIANO &quot;SCUOLE D&#039;ABRUZZO - IL FUTURO IN SICUREZZA&quot; - SCUOLA MATERNA &quot;VIA TEVERE&quot;. Determina a contrarre, impegno di spesa ed affidamento incarico di progettazione all&#039;Ing. Franco PORRINI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1330" title="PROGETTO PARIDE - SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 12 &quot;TERAMO CENTRO 2&quot;. Liquidazione competenze professionali all&#039;Ing. Valter CIMINI.">PROGETTO PARIDE - SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 12 &quot;TERAMO CENTRO 2&quot;. Liquidazione competenze professionali all&#039;Ing. Valter CIMINI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1331" title="PROGETTO PARIDE - SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 7 &quot;ZONA MIANO&quot;. Liquidazione competenze professionali all&#039;Arch. Luciana DI GIACINTO.">PROGETTO PARIDE - SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 7 &quot;ZONA MIANO&quot;. Liquidazione competenze professionali all&#039;Arch. Luciana DI GIACINTO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1332" title="PROGETTO PARIDE - SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 4 &quot;ZONA SAN BERARDO&quot;. Liquidazione competenze professionali all&#039;Ing. Domenico Di Basilio.">PROGETTO PARIDE - SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 4 &quot;ZONA SAN BERARDO&quot;. Liquidazione competenze professionali all&#039;Ing. Domenico Di Basilio.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1333" title="PROGETTO PARIDE- SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA IILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 3 &quot;ZONA VILLA RIPA&quot;. Liquidazione competenze professionali al GEOM. ZINILLI ALESSANDRO">PROGETTO PARIDE- SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA IILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 3 &quot;ZONA VILLA RIPA&quot;. Liquidazione competenze professionali al GEOM. ZINILLI ALESSANDRO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1334" title="&quot;PROGETTO PARIDE- SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA IILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 10 &quot;&quot;ZONA PIANO DELLA LENTE&quot;&quot;. Liquidazione competenze professionali al GEOM. GABRIELE DI DOMENICO">&quot;PROGETTO PARIDE- SERVIZIO DI RICOGNIZIONE DELLA RETE DI PUBBLICA IILLUMINAZIONE DEL COMUNE DI TERAMO - LOTTO 10 &quot;&quot;ZONA PIANO DELLA LENTE&quot;&quot;. Liquidazione competenze professionali al GEOM. GABRIELE DI DOMENICO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1335" title="COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. LIQUIDAZIONE GEOLOGO DOTT. GAETANO CRUPI">COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. LIQUIDAZIONE GEOLOGO DOTT. GAETANO CRUPI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1336" title="FORNITURA SEGNALETICA VERTICALE LIQUIDAZIONE DITTA TAMBURRINI ALESSANDRO.">FORNITURA SEGNALETICA VERTICALE LIQUIDAZIONE DITTA TAMBURRINI ALESSANDRO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1337" title="PISU - PIAZZA ED AREA VERDE PIANO D&#039;ACCIO - LIQUIDAZIONE CONTO FINALE DITTA BOLLETTINI COSTRUZIONI S.R.L.">PISU - PIAZZA ED AREA VERDE PIANO D&#039;ACCIO - LIQUIDAZIONE CONTO FINALE DITTA BOLLETTINI COSTRUZIONI S.R.L.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1338" title="RIPRISTINO IMPIANTO SEMAFORICO VIA S.MARINO E VIA CONA. LIQUIDAZIONE DITTA TERAMO AMBIENTE SPA.">RIPRISTINO IMPIANTO SEMAFORICO VIA S.MARINO E VIA CONA. LIQUIDAZIONE DITTA TERAMO AMBIENTE SPA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1339" title="PISU - &quot;REALIZZAZIONE STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO&quot; - LIQUIDAZIONE DITTA CASIMIRRI">PISU - &quot;REALIZZAZIONE STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO&quot; - LIQUIDAZIONE DITTA CASIMIRRI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1340" title="PISU - &quot;REALIZZAZIONE DI STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO - APPALTO OPERE IN LEGNO - LIQUIDAZIONE STATO FINALE  DITTA SDL SRL">PISU - &quot;REALIZZAZIONE DI STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO - APPALTO OPERE IN LEGNO - LIQUIDAZIONE STATO FINALE  DITTA SDL SRL</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1341" title="PISU - &quot;RIQUALIFICAZIONE DELLA VILLA COMUNALE - COMPLETAMENTO&quot; - AFFIDAMENTO INCARICO E LIQUIDAZIONE TECNICO">PISU - &quot;RIQUALIFICAZIONE DELLA VILLA COMUNALE - COMPLETAMENTO&quot; - AFFIDAMENTO INCARICO E LIQUIDAZIONE TECNICO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1342" title="PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - LIQUIDAZIONE TPISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - LIQUIDAZIONE TECNICI INCARICATI">PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - LIQUIDAZIONE TPISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - LIQUIDAZIONE TECNICI INCARICATI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1343" title="PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - LIQUIDAZIONE TECNICI INCARICATI">PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - LIQUIDAZIONE TECNICI INCARICATI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1344" title="IMPEGNO DI SPESA E AFFIDAMENTO IN FAVORE DELLA DITTA TEMO PESE SRL PER FORNITURA E POSA IN OPERA DI UNA PESA A PONTE ELETTRONICA PRESSO LA DISCARICA COMUNALE LA TORRE.">IMPEGNO DI SPESA E AFFIDAMENTO IN FAVORE DELLA DITTA TEMO PESE SRL PER FORNITURA E POSA IN OPERA DI UNA PESA A PONTE ELETTRONICA PRESSO LA DISCARICA COMUNALE LA TORRE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1345" title="PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO -LIQUIDAZIONE ING. RANIERO DI PIETRO">PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO -LIQUIDAZIONE ING. RANIERO DI PIETRO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1346" title="PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO - PROGETTO DI COMPLETAMENTO -  AFFIDAMENTO INCARICO PROFESSIONALE E LIQUIDAZIONE ING. RANIERO DI PIETRO">PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO - PROGETTO DI COMPLETAMENTO -  AFFIDAMENTO INCARICO PROFESSIONALE E LIQUIDAZIONE ING. RANIERO DI PIETRO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1347" title="LAVORI PER LA RIDUZIONE DELL&#039;IMPATTO DEGLI AGENTI INQUINANTI PROVOCATI DAL TRAFFICO VEICOLARE NELLA ZONA EST DI TERAMO. INTERVENTO 2&deg;) - REALIZZAZIONE ROTATORIA IN LOCALITA&#039; CARTECCHIO. LIQUIDAZIONE COMPETENZE TECNICHE ING. MASSIMO MARINI.">LAVORI PER LA RIDUZIONE DELL&#039;IMPATTO DEGLI AGENTI INQUINANTI PROVOCATI DAL TRAFFICO VEICOLARE NELLA ZONA EST DI TERAMO. INTERVENTO 2&deg;) - REALIZZAZIONE ROTATORIA IN LOCALITA&#039; CARTECCHIO. LIQUIDAZIONE COMPETENZE TECNICHE ING. MASSIMO MARINI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1348" title="&quot;COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. AFFIDAMENTO PROVE DI LABORATORIO ALLA TECNOMETER  E LIQUIDAZIONE">&quot;COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. AFFIDAMENTO PROVE DI LABORATORIO ALLA TECNOMETER  E LIQUIDAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1349" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA : RIQUALIFICAZIONE IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA. RIQUALIFICAZIONE CAMPO DI CALCIO-APPROVAZIONE C.R.E. LIQUIDAZIONE CONTO FINALE ALLA DITTA LIMONTA SPORT  SPA.">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA : RIQUALIFICAZIONE IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA. RIQUALIFICAZIONE CAMPO DI CALCIO-APPROVAZIONE C.R.E. LIQUIDAZIONE CONTO FINALE ALLA DITTA LIMONTA SPORT  SPA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1350" title="PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - AFFIDAMENTO INCARICO ING. DOMENICO FORCELLA E LIQUIDAZIONE">PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - AFFIDAMENTO INCARICO ING. DOMENICO FORCELLA E LIQUIDAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1351" title="FORNITURA CONTRASSEGNI PER LA CIRCOLAZIONE ALL&#039;INTERNO ZTL. IMPEGNO DI SPESA E LIQUIDAZIONE DITTA CIANETTI STAMPA E COMUNICAZIONE SNC DI CIANETTI CARLO &amp; C.">FORNITURA CONTRASSEGNI PER LA CIRCOLAZIONE ALL&#039;INTERNO ZTL. IMPEGNO DI SPESA E LIQUIDAZIONE DITTA CIANETTI STAMPA E COMUNICAZIONE SNC DI CIANETTI CARLO &amp; C.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1352" title="PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE DI TERAMO - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE">PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE DI TERAMO - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1353" title="PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE - LIQUIDAZIONE PROFESSIONISTA">PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE - LIQUIDAZIONE PROFESSIONISTA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1354" title="PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE">PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1355" title="&quot;PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO LAVORI LIQUIDAZIONE STATO FINALE E APPROVAZIONE C.R.E.">&quot;PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO LAVORI LIQUIDAZIONE STATO FINALE E APPROVAZIONE C.R.E.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1356" title="&quot;INTERVENTI FINALIZZATI ALLA MESSA IN SICUREZZA ED ALLA PREVENZIONE E RIDUZIONE DEL RISCHIO CONNESSO ALLA VULNERABILITA&#039; DEGLI ELEMENTI, ANCHE NON STRUTTURALI, DEGLI EDIFICI SCOLASTICI DI CUI AL PROGRAMMA STRALCIO DELIBERA CIPE n&deg; 32 DEL 06/03/2010.">&quot;INTERVENTI FINALIZZATI ALLA MESSA IN SICUREZZA ED ALLA PREVENZIONE E RIDUZIONE DEL RISCHIO CONNESSO ALLA VULNERABILITA&#039; DEGLI ELEMENTI, ANCHE NON STRUTTURALI, DEGLI EDIFICI SCOLASTICI DI CUI AL PROGRAMMA STRALCIO DELIBERA CIPE n&deg; 32 DEL 06/03/2010.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1357" title="MANUTENZIONE STRAORDINARIA EDIFICI COMUNALI.ESPLETAMENTO PROCEDURE DI CUI AL D.P.R. 151/2001.FORNITURE E REVISIONE ESTINTORI IN DOTAZIONE AD IMPIANTI SPORTIVI COMUNALI. AFFIDAMENTO DITTA IME ANTINCENDIO.">MANUTENZIONE STRAORDINARIA EDIFICI COMUNALI.ESPLETAMENTO PROCEDURE DI CUI AL D.P.R. 151/2001.FORNITURE E REVISIONE ESTINTORI IN DOTAZIONE AD IMPIANTI SPORTIVI COMUNALI. AFFIDAMENTO DITTA IME ANTINCENDIO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1358" title="PISU-MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE">PISU-MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1359" title="LAVORI DI MIGLIORAMENTO DELLA SICUREZZA STRUTTURALE DELLA SCUOLA MEDIA ZIPPILLI - Determina a contrarre, impegno di spesa ed affidamento incarico per Servizio Tecnico di Supporto alla progettazione definitiva/esecutiva, al geologo Dr. FMEDIA ZIPPILLI">LAVORI DI MIGLIORAMENTO DELLA SICUREZZA STRUTTURALE DELLA SCUOLA MEDIA ZIPPILLI - Determina a contrarre, impegno di spesa ed affidamento incarico per Servizio Tecnico di Supporto alla progettazione definitiva/esecutiva, al geologo Dr. FMEDIA ZIPPILLI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1360" title="LIQUIDAZIONE MATERIALE PER SETTORE V DITTA COMMERCIALTECNICA SAS DI DI PIETRO G.&amp; C.">LIQUIDAZIONE MATERIALE PER SETTORE V DITTA COMMERCIALTECNICA SAS DI DI PIETRO G.&amp; C.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1361" title="&quot;PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI - PROGETTO DI COMPLETAMENTO&quot; - AFFIDAMENTO INCARICO E LIQUIDAZIONE GEOM ROTILI ROMOLO">&quot;PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI - PROGETTO DI COMPLETAMENTO&quot; - AFFIDAMENTO INCARICO E LIQUIDAZIONE GEOM ROTILI ROMOLO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1362" title="&quot;PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI&quot; - LIQUIDAZIONE GEOM. ROMOLO ROTILI">&quot;PISU - RECUPERO SCUOLA VILLA VIOLA PER CENTRO SERVIZI SOCIALI&quot; - LIQUIDAZIONE GEOM. ROMOLO ROTILI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1363" title="PISU - REALIZZAZIONE DI STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ING. DE BERARDIS">PISU - REALIZZAZIONE DI STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ING. DE BERARDIS</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1364" title="PISU - CONTRATTO DI QUARTIERE II: RIQUALIFICAZIONE CAMPO DI CALCIO CONA - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO E AFFIDAMENTO LAVORI - APPROVAZIONE E LIQUIDAZIONE STATO FINALE DEI LAVORI.">PISU - CONTRATTO DI QUARTIERE II: RIQUALIFICAZIONE CAMPO DI CALCIO CONA - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO E AFFIDAMENTO LAVORI - APPROVAZIONE E LIQUIDAZIONE STATO FINALE DEI LAVORI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1365" title="AFFIDAMENTO INCARICO PROFESSIONALE PER REDAZIONE PRATICA SCIA . LIQUIDAZIONE COMPETENZE  TECNICO INCARICATO ING. PIETRO DI GIOVANNANTONIO.">AFFIDAMENTO INCARICO PROFESSIONALE PER REDAZIONE PRATICA SCIA . LIQUIDAZIONE COMPETENZE  TECNICO INCARICATO ING. PIETRO DI GIOVANNANTONIO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1366" title="INFILTRAZIONI DI ACQUA PIOVANA PRESSO IL PALAZZO MUNICIPALE DI PIAZZA ORSINI. INTERVENTO DI  SOMMA URGENZA. IMPEGNO DEFINITIVO DI SPESA DI €. 12.200,00">INFILTRAZIONI DI ACQUA PIOVANA PRESSO IL PALAZZO MUNICIPALE DI PIAZZA ORSINI. INTERVENTO DI  SOMMA URGENZA. IMPEGNO DEFINITIVO DI SPESA DI €. 12.200,00</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1367" title="COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. ANNULLAMENTO D.D. N. 534 DEL 24/04/2015. APPROVAZIONE PROGETTO LAVORI COMPLEMENTARI ED AFFIDAMENTO LAVORI">COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. ANNULLAMENTO D.D. N. 534 DEL 24/04/2015. APPROVAZIONE PROGETTO LAVORI COMPLEMENTARI ED AFFIDAMENTO LAVORI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1368" title="ATTUAZIONE PAR FAS ABRUZZO 2007/2013 - LINEA DI AZIONE II.1.1a - INTERVENTI MESSA IN SICUREZZA DEGLI EDIFICI SCOLASTICI DI PROPRIETA&#039; DEGLI ENTI LOCALI ABRUZZESI. SCUOLA MEDIA ZIPPILLI. Progetto. CUP D46J14000560006, C.I.G. n. ZDD140C4F5AFFIDAMENTO I">ATTUAZIONE PAR FAS ABRUZZO 2007/2013 - LINEA DI AZIONE II.1.1a - INTERVENTI MESSA IN SICUREZZA DEGLI EDIFICI SCOLASTICI DI PROPRIETA&#039; DEGLI ENTI LOCALI ABRUZZESI. SCUOLA MEDIA ZIPPILLI. Progetto. CUP D46J14000560006, C.I.G. n. ZDD140C4F5AFFIDAMENTO I</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1369" title="AREE VERDI ED IMPIANTI SPORTIVI. AFFIDAMENTO LAVORI IN ECONOMIA ED ACQUISTO E POSA IN OPERA DI ARREDI VARI.">AREE VERDI ED IMPIANTI SPORTIVI. AFFIDAMENTO LAVORI IN ECONOMIA ED ACQUISTO E POSA IN OPERA DI ARREDI VARI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1370" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE  CENTRO DI QUARTIERE - APPROVAZIONE PROGETTO DI ADEGUAMENTO CONDOTTA FOGNARIA. AFFIDAMENTO LAVORI E LIQUIDAZIONE DITTA">PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE  CENTRO DI QUARTIERE - APPROVAZIONE PROGETTO DI ADEGUAMENTO CONDOTTA FOGNARIA. AFFIDAMENTO LAVORI E LIQUIDAZIONE DITTA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1371" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE DEFINITIVA/ESECUTIVA ED IL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE DEFINITIVA/ESECUTIVA ED IL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1372" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE DEFINITIVA/ESECUTIVA ED IL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE DEFINITIVA/ESECUTIVA ED IL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1373" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE PRELIMINARE">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE PRELIMINARE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1374" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE PRELIMINARE">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE TECNICI PER SUPPORTO PROGETTAZIONE PRELIMINARE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1375" title="&quot;PROGETTO PARIDE - COMPLETAMENTO RILIEVO IMPIANTI DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO. Liquidazione competenze professionali al Geom. Gianluca IANNETTI.">&quot;PROGETTO PARIDE - COMPLETAMENTO RILIEVO IMPIANTI DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO. Liquidazione competenze professionali al Geom. Gianluca IANNETTI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1376" title="&quot;PROGETTO PARIDE - COMPLETAMENTO RILIEVO IMPIANTI DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO. Liquidazione competenze professionali all&#039; Ing. Nando CECI.">&quot;PROGETTO PARIDE - COMPLETAMENTO RILIEVO IMPIANTI DI PUBBLICA ILLUMINAZIONE DEL COMUNE DI TERAMO. Liquidazione competenze professionali all&#039; Ing. Nando CECI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1377" title="LAVORI URGENTI DI MESSA IN SICUREZZA DEGLI EDIFICI SCOLASTICI IN CUI E&#039; STATA CENSITA LA PRESENZA DI AMIANTO. Supporto tecnico alla D.L. Liquidazione onorario all&#039;Ing. Michele ANGELOZZI.">LAVORI URGENTI DI MESSA IN SICUREZZA DEGLI EDIFICI SCOLASTICI IN CUI E&#039; STATA CENSITA LA PRESENZA DI AMIANTO. Supporto tecnico alla D.L. Liquidazione onorario all&#039;Ing. Michele ANGELOZZI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1378" title="&quot;CONTRIBUTO B.I.M. DI EURO 14.000,00 PER SPESE DI INVESTIMENTO O MANUTENZIONE STRAORDINARIA. MANUTENZIONE ARREDO AREA PARCO GIOCHI VIA DIAZ / VIALE MAZZINI. LIQUIDAZIONE DITTA OTTOVOLANTE COOPERATIVA SOCIALE.">&quot;CONTRIBUTO B.I.M. DI EURO 14.000,00 PER SPESE DI INVESTIMENTO O MANUTENZIONE STRAORDINARIA. MANUTENZIONE ARREDO AREA PARCO GIOCHI VIA DIAZ / VIALE MAZZINI. LIQUIDAZIONE DITTA OTTOVOLANTE COOPERATIVA SOCIALE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1379" title="PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI - LIQUIDAZIONE 1&deg;  SAL - APPROVAZIONE CRE E LIQUIDAZIONE CONTO FINALE DITTA DBG DI BERNARDO GIUSEPPE &amp; C. S.A.S.">PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI - LIQUIDAZIONE 1&deg;  SAL - APPROVAZIONE CRE E LIQUIDAZIONE CONTO FINALE DITTA DBG DI BERNARDO GIUSEPPE &amp; C. S.A.S.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1380" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE  CENTRO DI QUARTIERE - LIQUIDAZIONE DOTT. BRUNI PIERO">PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE  CENTRO DI QUARTIERE - LIQUIDAZIONE DOTT. BRUNI PIERO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1381" title="PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE - LIQUIDAZIONE DITTA R.T.C. RADIOTELECOMUNICAZIONE S.r.l. MESI DA MAGGIO A NOVEMBRE">PISU - RIQUALIFICAZIONE DELLA VILLA COMUNALE - LIQUIDAZIONE DITTA R.T.C. RADIOTELECOMUNICAZIONE S.r.l. MESI DA MAGGIO A NOVEMBRE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1382" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: RIQUALIFICAZIONE IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA - RIQUALIFICAZIONE CAMPO DI CALCIO - AFFIDAMENTO INCARICO E LIQUIDAZIONE FATTURA  ING. MAURO RASTELLI">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: RIQUALIFICAZIONE IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA - RIQUALIFICAZIONE CAMPO DI CALCIO - AFFIDAMENTO INCARICO E LIQUIDAZIONE FATTURA  ING. MAURO RASTELLI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1383" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: RIQUALIFICAZIONE IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA - RIQUALIFICAZIONE CAMPO DI CALCIO - AFFIDAMENTO INCARICO GEOL MAURO MANETTA E LIQUIDAZIONE">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: RIQUALIFICAZIONE IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA - RIQUALIFICAZIONE CAMPO DI CALCIO - AFFIDAMENTO INCARICO GEOL MAURO MANETTA E LIQUIDAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1384" title="PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - AFFIDAMENTO INCARICO PER REDAZIONE COLLAUDO STATICO - PRIMO STRALCIO LOTTO A - LIQUIDAZIONE ING. PIERLUIGI BIGI">PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - AFFIDAMENTO INCARICO PER REDAZIONE COLLAUDO STATICO - PRIMO STRALCIO LOTTO A - LIQUIDAZIONE ING. PIERLUIGI BIGI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1385" title="RIPRISTINO IMPIANTO SEMAFORICO VIA C. COLOMBO S. NICOLO&#039; A TORDINO. IMPEGNO DI SPESA A FAVORE DELLA DITTA TERAMO AMBIENTE SPA.">RIPRISTINO IMPIANTO SEMAFORICO VIA C. COLOMBO S. NICOLO&#039; A TORDINO. IMPEGNO DI SPESA A FAVORE DELLA DITTA TERAMO AMBIENTE SPA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1386" title="&quot;Piano &quot;&quot;Scuole d&#039;Abruzzo - il Futuro in Sicurezza&quot;&quot; - Scuola Materna &quot;&quot;via Tevere&quot;&quot; . Determina a contrarre, impegno di spesa ed affidamento del Servizio Tecnico per l&#039;esecuzione delle indagini strutturali al Laboratorio TECNOMETER.">&quot;Piano &quot;&quot;Scuole d&#039;Abruzzo - il Futuro in Sicurezza&quot;&quot; - Scuola Materna &quot;&quot;via Tevere&quot;&quot; . Determina a contrarre, impegno di spesa ed affidamento del Servizio Tecnico per l&#039;esecuzione delle indagini strutturali al Laboratorio TECNOMETER.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1387" title="&quot; &quot;&quot;Lavori di miglioramento della sicurezza strutturale della scuola media Zippilli&quot;&quot; - APPLICAZIONE SISTEMA CAM. Determina a contrarre, impegno di spesa, affidamento lavori. Liquidazione 1^ SAL  - CUP: D46J14000560006---CIG: 6304632AE7">&quot; &quot;&quot;Lavori di miglioramento della sicurezza strutturale della scuola media Zippilli&quot;&quot; - APPLICAZIONE SISTEMA CAM. Determina a contrarre, impegno di spesa, affidamento lavori. Liquidazione 1^ SAL  - CUP: D46J14000560006---CIG: 6304632AE7</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1388" title="&quot;Piano &quot;&quot;Scuole d&#039;Abruzzo - il Futuro in Sicurezza&quot;&quot; - Scuola Materna &quot;&quot;via Tevere&quot;&quot; . Determina a contrarre, impegno di spesa ed affidamento del Servizio Tecnico per l&#039;esecuzione delle indagini geognostiche, geotecniche e geofisiche, al geologo Dr.">&quot;Piano &quot;&quot;Scuole d&#039;Abruzzo - il Futuro in Sicurezza&quot;&quot; - Scuola Materna &quot;&quot;via Tevere&quot;&quot; . Determina a contrarre, impegno di spesa ed affidamento del Servizio Tecnico per l&#039;esecuzione delle indagini geognostiche, geotecniche e geofisiche, al geologo Dr.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1389" title="COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. MANUTENZIONE PARCHI GIOCHI APPROVAZIONE PREVENTIVO ED AFFIDAMENTO FORNITURA  - LIQUIDAZIONE DITTA LAREG 2 s.r.l.">COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. MANUTENZIONE PARCHI GIOCHI APPROVAZIONE PREVENTIVO ED AFFIDAMENTO FORNITURA  - LIQUIDAZIONE DITTA LAREG 2 s.r.l.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1390" title="MANUTENZIONE PARCHI GIOCHI. AFFIDAMENTO FORNITURA DITTA FAR FABBRICA ARTIGIANALE RETI DI RIBOLA E C. S.R.L.">MANUTENZIONE PARCHI GIOCHI. AFFIDAMENTO FORNITURA DITTA FAR FABBRICA ARTIGIANALE RETI DI RIBOLA E C. S.R.L.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1391" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLE PARCO: PARCO URBANO E GREENWAY REALIZZAZIONE IMPIANTI SPORTIVI. AFFIDAMENTO INCARICO DI DIREZIONE LAVORI ALL&#039;ING. SANDRO POMPA E LIQUIDAZIONE">PISU - PARCO URBANO E CENTRO URBANO DI COLLE PARCO: PARCO URBANO E GREENWAY REALIZZAZIONE IMPIANTI SPORTIVI. AFFIDAMENTO INCARICO DI DIREZIONE LAVORI ALL&#039;ING. SANDRO POMPA E LIQUIDAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1392" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA-IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA-RIQUALIFICAZIONE CAMPO DI CALCIO- APPROVAZIONE PROGETTO DEFINITIVO ESECUTIVO ED AFFIDAMENTO PER LAVORI COMPLEMENTARI. APPROVAZIONE CRE E LIQUIDAZIONE CONTO FINALE A">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA-IMPIANTI SPORTIVI COMUNALI DELL&#039;ACQUAVIVA-RIQUALIFICAZIONE CAMPO DI CALCIO- APPROVAZIONE PROGETTO DEFINITIVO ESECUTIVO ED AFFIDAMENTO PER LAVORI COMPLEMENTARI. APPROVAZIONE CRE E LIQUIDAZIONE CONTO FINALE A</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1393" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO. REALIZZAZIONE IMPIANTI SPORTIVI. AFFIDAMENTO INCARICO COLLAUDO STATICO E TECNICO AMMINISTRATIVO ALL&#039;ING. ALFONSO MARCOZZI">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO. REALIZZAZIONE IMPIANTI SPORTIVI. AFFIDAMENTO INCARICO COLLAUDO STATICO E TECNICO AMMINISTRATIVO ALL&#039;ING. ALFONSO MARCOZZI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1394" title="LAVORI DI RIMOZIONE E SMALTIMENTO AMIANTO PRESSO CANTIERE DELLA SCUOLA MEDIA ZIPPILLI DETERMINA A CONTRARRE, IMPEGNO DI SPESA, AFFIDAMENTO LAVORI  E LIQUIDAZIONE ALLA DITTA CAPRIOTTI &amp; C. S.R.L. - CUP: D46J14000560006---CIG: Z7715D3BC3">LAVORI DI RIMOZIONE E SMALTIMENTO AMIANTO PRESSO CANTIERE DELLA SCUOLA MEDIA ZIPPILLI DETERMINA A CONTRARRE, IMPEGNO DI SPESA, AFFIDAMENTO LAVORI  E LIQUIDAZIONE ALLA DITTA CAPRIOTTI &amp; C. S.R.L. - CUP: D46J14000560006---CIG: Z7715D3BC3</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1395" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE CENTRO DI QUARTIERE - AFFIDAMENTO DITTA TECNOMETER S.A.S.">PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE CENTRO DI QUARTIERE - AFFIDAMENTO DITTA TECNOMETER S.A.S.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1396" title="SERVIZIO DI RESPONSABILE PER LA CONSERVAZIONE E L&#039;USO RAZIONALE DELL&#039;ENERGIA (ENERGY MANAGER) - LIQUIDAZIONE COMPETENZE PROFESSIONALI SIG. BATTISTELLI MAURIZIO A SEGUITO DI ACCORDO BONARIO.">SERVIZIO DI RESPONSABILE PER LA CONSERVAZIONE E L&#039;USO RAZIONALE DELL&#039;ENERGIA (ENERGY MANAGER) - LIQUIDAZIONE COMPETENZE PROFESSIONALI SIG. BATTISTELLI MAURIZIO A SEGUITO DI ACCORDO BONARIO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1397" title="PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI - LIQUIDAZIONE CONTO FINALE ED APPROVAZIONE C.R.E.">PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI - LIQUIDAZIONE CONTO FINALE ED APPROVAZIONE C.R.E.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1398" title="PISU - PIAZZA, PARCHEGGIO E COLLEGAMENTO PEDONALE CHIESA DI COLLEPARCO - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE">PISU - PIAZZA, PARCHEGGIO E COLLEGAMENTO PEDONALE CHIESA DI COLLEPARCO - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI - LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1399" title="PISU - PIAZZA ED AREA VERDE PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI -  LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CRE">PISU - PIAZZA ED AREA VERDE PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI -  LIQUIDAZIONE STATO FINALE ED APPROVAZIONE CRE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1400" title="MANUTENZIONE  STRAORDINARIA EDIFICI COMUNALI. ESPLETAMENTO. PROCEDURE DI CUI AL D.P.R. 151/2001. IMPIANTI  SPORTIVI COMUNALI - FORNITURA E REVISIONE DI ESTINTORI- AFFIDAMENTO DITTA IMEA">MANUTENZIONE  STRAORDINARIA EDIFICI COMUNALI. ESPLETAMENTO. PROCEDURE DI CUI AL D.P.R. 151/2001. IMPIANTI  SPORTIVI COMUNALI - FORNITURA E REVISIONE DI ESTINTORI- AFFIDAMENTO DITTA IMEA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1401" title="PISU -PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI -  AFFIDAMENTO E LIQUIDAZIONE DITTA S.A.I.D. S.r.l.">PISU -PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI -  AFFIDAMENTO E LIQUIDAZIONE DITTA S.A.I.D. S.r.l.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1402" title="LAVORI URGENTI MESSA IN SICUREZZA DEGLI EDIFICI IN CUI E&#039; STATA CENSITA LA PRESENZA DI AMIANTO. CUP: D41H13000350004 - CIG: 54215661CC.">LAVORI URGENTI MESSA IN SICUREZZA DEGLI EDIFICI IN CUI E&#039; STATA CENSITA LA PRESENZA DI AMIANTO. CUP: D41H13000350004 - CIG: 54215661CC.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1403" title="PISU - PIAZZA E AREA VERDE PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO E LIQUIDAZIONE DITTA DELFINO SPORT">PISU - PIAZZA E AREA VERDE PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO E LIQUIDAZIONE DITTA DELFINO SPORT</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1404" title="PISU - REALIZZAZIONE DI STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO- PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO  E LIQUIDAZIONE ING. DI GIOVANNANTONIO">PISU - REALIZZAZIONE DI STRUTTURE ESPOSITIVE IPOGEE COMUNICANTI DAL SOTTOPASSO DI PIAZZA GARIBALDI ALLA PINACOTECA COMUNALE - 2&deg; LOTTO- PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO  E LIQUIDAZIONE ING. DI GIOVANNANTONIO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1405" title="LAVORI DI MANUTENZIONE E VERIFICHE STRUTTURALI PRESSO IL PALASPORT COMUNALE DI SAN NICOLO&#039; A TORDINO. AFFIDAMENTO ALLA DITTA MELOZZI COSTRUZIONI S.R.L.">LAVORI DI MANUTENZIONE E VERIFICHE STRUTTURALI PRESSO IL PALASPORT COMUNALE DI SAN NICOLO&#039; A TORDINO. AFFIDAMENTO ALLA DITTA MELOZZI COSTRUZIONI S.R.L.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1406" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE I&deg; E 2&deg; SAL DITTA DI GIANNATALE COSTRUZIONI SRL">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE I&deg; E 2&deg; SAL DITTA DI GIANNATALE COSTRUZIONI SRL</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1407" title="COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. LIQUIDAZIONE 1&deg; S.A.L. STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE">COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. LIQUIDAZIONE 1&deg; S.A.L. STATO FINALE ED APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1408" title="PISU -PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - AFFIDAMENTO INCARICO DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE ALL&#039;ING. DOMENICO DI BASILIO E LIQUIDAZIONE">PISU -PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - AFFIDAMENTO INCARICO DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE ALL&#039;ING. DOMENICO DI BASILIO E LIQUIDAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1409" title="PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ALL&#039;ARCH. EDOARDO SINISCALCHI E LIQUIDAZIONE">PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ALL&#039;ARCH. EDOARDO SINISCALCHI E LIQUIDAZIONE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1410" title="PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO AL GEOM. LUCIANO QUARANTA E LIQUIDAZIONE.">PISU - PIAZZA ED AREA VERDE DI PIANO D&#039;ACCIO - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO AL GEOM. LUCIANO QUARANTA E LIQUIDAZIONE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1411" title="PISU - PIAZZA, PARCHEGGIO E COLLEGAMENTO PEDONALE CHIESA DI COLLEPARCO - LIQUIDAZIONE GEOM. VINCENZO PIROCCHI">PISU - PIAZZA, PARCHEGGIO E COLLEGAMENTO PEDONALE CHIESA DI COLLEPARCO - LIQUIDAZIONE GEOM. VINCENZO PIROCCHI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1412" title="PISU-COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ING. DOMENICO FORCELLA">PISU-COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ING. DOMENICO FORCELLA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1413" title="PISU-COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO  E LIQUIDAZIONE ING. PAOLO PIERSANTI">PISU-COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO  E LIQUIDAZIONE ING. PAOLO PIERSANTI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1414" title="&quot;LAVORI DI MIGLIORAMENTO DELLA SICUREZZA STRUTTURALE DELLA SCUOLA MEDIA ZIPPILLI&quot;. SERVIZIO IN ECONOMIA PER COTTIMI FINALIZZATO ALLO SPOSTAMENTO E SUCCESSIVO RICOLLOCAMENTO DEGLI ARREDI, NONCH&Egrave; ALLA PULIZIA FINALE E GROSSOLANA DELL&#039;IMMOBILE. APPROVAZ">&quot;LAVORI DI MIGLIORAMENTO DELLA SICUREZZA STRUTTURALE DELLA SCUOLA MEDIA ZIPPILLI&quot;. SERVIZIO IN ECONOMIA PER COTTIMI FINALIZZATO ALLO SPOSTAMENTO E SUCCESSIVO RICOLLOCAMENTO DEGLI ARREDI, NONCH&Egrave; ALLA PULIZIA FINALE E GROSSOLANA DELL&#039;IMMOBILE. APPROVAZ</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1415" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - AFFIDAMENTO INCARICO E LIQUIDAZIONE GEOM PIROCCHI">PISU - PARCO URBANO E CENTRO URBANO DI COLLEPARCO: PARCO URBANO E GREENWAY - REALIZZAZIONE IMPIANTI SPORTIVI - AFFIDAMENTO INCARICO E LIQUIDAZIONE GEOM PIROCCHI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1416" title="PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE CENTRO DI QUARTIERE - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ING. ROBERTO DI ASCENZO">PISU - PARCO URBANO E CENTRO URBANO DI COLLEATTERRATO BASSO: PIAZZA E RIQUALIFICAZIONE CENTRO DI QUARTIERE - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO ING. ROBERTO DI ASCENZO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1417" title="&quot;SCUOLA DELL&#039;INFANZIA DI PIANO D&#039;ACCIO. INTERVENTO DI VERIFICA E RIPARAZIONE DEI DANNI CAUSATI DALL&#039;ESPLOSIONE DEL 03/10/2013. LIQUIDAZIONE SALDO DITTA CISA APPALTI S.A.S.">&quot;SCUOLA DELL&#039;INFANZIA DI PIANO D&#039;ACCIO. INTERVENTO DI VERIFICA E RIPARAZIONE DEI DANNI CAUSATI DALL&#039;ESPLOSIONE DEL 03/10/2013. LIQUIDAZIONE SALDO DITTA CISA APPALTI S.A.S.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1418" title="&quot;PISU -RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA&quot; LIQUIDAZIONE GEOM GRAZIETTI BIAGIO.">&quot;PISU -RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA&quot; LIQUIDAZIONE GEOM GRAZIETTI BIAGIO.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1419" title="PISU -PIANO INTEGRATO DI INTERVENTO - RIQUALIFICAZIONE QUARTIERE GAMMARANA - GREENWAY - PISTE CICLABILI E PEDONALI - LIQUIDAZIONE ING. SERGIO PROCACCINI">PISU -PIANO INTEGRATO DI INTERVENTO - RIQUALIFICAZIONE QUARTIERE GAMMARANA - GREENWAY - PISTE CICLABILI E PEDONALI - LIQUIDAZIONE ING. SERGIO PROCACCINI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1420" title="IMPEGNO DI SPESA PER RIPRISTINO IMPIANTO SEMAFORICO SITO IN VIA CRUCIOLI. AFFIDAMENTO E LIQUIDAZIONE DITTA LINEA LEADER SRL.">IMPEGNO DI SPESA PER RIPRISTINO IMPIANTO SEMAFORICO SITO IN VIA CRUCIOLI. AFFIDAMENTO E LIQUIDAZIONE DITTA LINEA LEADER SRL.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1421" title="STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO CARRABILE DELLA LINEA FERROVIARIA GIULIANOVA-TERAMO- 3&deg; STRALCIO- FERMATA FERROVIARIA AL KM 21+013. LIQUIDAZIONE COMPETENZE COORDINATORE PER LA SICUREZZA IN FASE DI ESECUZIONE GEOM. OSVALDO RE">STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO CARRABILE DELLA LINEA FERROVIARIA GIULIANOVA-TERAMO- 3&deg; STRALCIO- FERMATA FERROVIARIA AL KM 21+013. LIQUIDAZIONE COMPETENZE COORDINATORE PER LA SICUREZZA IN FASE DI ESECUZIONE GEOM. OSVALDO RE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1422" title="SERVIZIO DI MANUTENZIONE SISTEMA DI VIDEOSERVEGLIANZA. IMPEGNO DI SPESA E LIQUIDAZIONE DITTA TEKNOELETTRONICA.">SERVIZIO DI MANUTENZIONE SISTEMA DI VIDEOSERVEGLIANZA. IMPEGNO DI SPESA E LIQUIDAZIONE DITTA TEKNOELETTRONICA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1423" title="PAGAMENTO FATTURE PER TRATTAMENTI DI DERATTIZZAZIONE E DISINFESTAZIONE TERRITORIO COMUNALE">PAGAMENTO FATTURE PER TRATTAMENTI DI DERATTIZZAZIONE E DISINFESTAZIONE TERRITORIO COMUNALE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1424" title="&quot;LAVORI DI &quot;&quot;REALIZZAZIONE DI UNA ROTATORIA ALLO SVINCOLO VIA PO -VIA FIRENZE (AMBITO P.R.U. DI VIA PIAVE) 1&deg; STRALCIO FUNZIONALE&quot;&quot;. LIQUIDAZIONE TELECOM ITALIA S.P.A. PER SPOSTAMENTO CAVI.">&quot;LAVORI DI &quot;&quot;REALIZZAZIONE DI UNA ROTATORIA ALLO SVINCOLO VIA PO -VIA FIRENZE (AMBITO P.R.U. DI VIA PIAVE) 1&deg; STRALCIO FUNZIONALE&quot;&quot;. LIQUIDAZIONE TELECOM ITALIA S.P.A. PER SPOSTAMENTO CAVI.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1425" title="LAVORI DI SISTEMAZIONE DELL&#039;AULA DI INFORMATICA ANNESSA ALLA SCUOLA ELEMENTARE DI NEPEZZANO. AFFIDAMENTO LAVORI E LIQUIDAZIONE DITTA COSTRUZIONI STERLICCHI S.R.L.-">LAVORI DI SISTEMAZIONE DELL&#039;AULA DI INFORMATICA ANNESSA ALLA SCUOLA ELEMENTARE DI NEPEZZANO. AFFIDAMENTO LAVORI E LIQUIDAZIONE DITTA COSTRUZIONI STERLICCHI S.R.L.-</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1426" title="COMPLETAMENTO DEI LAVORI DI REALIZZAZIONE DELLA NUOVA SCUOLA MATERNA DI VILLA VOMANO - LOTTO &quot;B&quot;. Liquidazione parcelle professionali al Gruppo di Progettazione formato dall&#039;Ing. Franco FABIO, Arch. Dante DI GENNARO e Geom. Vincenzo DI SIMONE.">COMPLETAMENTO DEI LAVORI DI REALIZZAZIONE DELLA NUOVA SCUOLA MATERNA DI VILLA VOMANO - LOTTO &quot;B&quot;. Liquidazione parcelle professionali al Gruppo di Progettazione formato dall&#039;Ing. Franco FABIO, Arch. Dante DI GENNARO e Geom. Vincenzo DI SIMONE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1427" title="COMPLETAMENTO DEI LAVORI DI REALIZZAZIONE DELLA NUOVA SCUOLA MATERNA DI VILLA VOMANO - LOTTO &quot;B&quot;. Liquidazione parcelle professionali al Gruppo di Progettazione formato dall&#039;Ing. Franco FABIO, Arch. Dante DI GENNARO e Geom. Vincenzo DI SIMONE.">COMPLETAMENTO DEI LAVORI DI REALIZZAZIONE DELLA NUOVA SCUOLA MATERNA DI VILLA VOMANO - LOTTO &quot;B&quot;. Liquidazione parcelle professionali al Gruppo di Progettazione formato dall&#039;Ing. Franco FABIO, Arch. Dante DI GENNARO e Geom. Vincenzo DI SIMONE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1428" title="COMPLETAMENTO DEI LAVORI DI REALIZZAZIONE DELLA NUOVA SCUOLA MATERNA DI VILLA VOMANO - LOTTO &quot;B&quot;. Liquidazione parcelle professionali al Gruppo di Progettazione formato dall&#039;Ing. Franco FABIO, Arch. Dante DI GENNARO e Geom. Vincenzo DI SIMONE.">COMPLETAMENTO DEI LAVORI DI REALIZZAZIONE DELLA NUOVA SCUOLA MATERNA DI VILLA VOMANO - LOTTO &quot;B&quot;. Liquidazione parcelle professionali al Gruppo di Progettazione formato dall&#039;Ing. Franco FABIO, Arch. Dante DI GENNARO e Geom. Vincenzo DI SIMONE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1429" title="FORNITURA MATERIALE PER UFFICIO TRAFFICO E TRASPORTI. IMPEGNO DI SPESA.">FORNITURA MATERIALE PER UFFICIO TRAFFICO E TRASPORTI. IMPEGNO DI SPESA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1430" title="PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI">PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1431" title="FORNITURA SEGNALETICA STRADALE IMPEGNO DI SPESA.">FORNITURA SEGNALETICA STRADALE IMPEGNO DI SPESA.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1432" title="MANUTENZIONE EDIFICI COMUNALI. LIQUIDAZIONE DITTA VEMAC S.R.L.">MANUTENZIONE EDIFICI COMUNALI. LIQUIDAZIONE DITTA VEMAC S.R.L.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1433" title="LAVORI DI COMPLETAMENTO INTERVENTI FINALIZZATI ALLA MESSA IN SICUREZZA ED ALLA PREVENZIONE E RIDUZIONE DEL RISCHIO CONNESSO ALLA VULNERABILITA&#039; DEGLI ELEMENTI, ANCHE NON STRUTTURALI, DEGLI EDIFICI SCOLASTICI DI CUI AL PROGRAMMA STRALCIO DELIBERA CIPE">LAVORI DI COMPLETAMENTO INTERVENTI FINALIZZATI ALLA MESSA IN SICUREZZA ED ALLA PREVENZIONE E RIDUZIONE DEL RISCHIO CONNESSO ALLA VULNERABILITA&#039; DEGLI ELEMENTI, ANCHE NON STRUTTURALI, DEGLI EDIFICI SCOLASTICI DI CUI AL PROGRAMMA STRALCIO DELIBERA CIPE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1434" title="PISU: COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - AFFIDAMENTO E LIQUIDAZIONE P.I. OTTAVI ENNIO - STUDIO WEGA">PISU: COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - AFFIDAMENTO E LIQUIDAZIONE P.I. OTTAVI ENNIO - STUDIO WEGA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1435" title="PISU - REALIZZAZIONE STRUTTURE ESPOSITIVE IPOGEE TRA PIAZZA GARIBALDI E LA PINACOTECA- 2&deg; LOTTO - LAVORI COMPLEMENTARI - AFFIDAMENTO  E LIQUIDAZIONE DITTA MELOZZI ANGELO SRL">PISU - REALIZZAZIONE STRUTTURE ESPOSITIVE IPOGEE TRA PIAZZA GARIBALDI E LA PINACOTECA- 2&deg; LOTTO - LAVORI COMPLEMENTARI - AFFIDAMENTO  E LIQUIDAZIONE DITTA MELOZZI ANGELO SRL</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1436" title="PISU - REALIZZAZIONE STRUTTURE ESPOSITIVE IPOGEE TRA PIAZZA GARIBALDI E LA PINACOTECA- 2&deg; LOTTO - LAVORI COMPLEMENTARI -AFFIDAMENTO DITTA MELOZZI ANGELO SRL - LIQUIDAZIONE CONTO FINALE ED APPROVAZIONE C.R.E.">PISU - REALIZZAZIONE STRUTTURE ESPOSITIVE IPOGEE TRA PIAZZA GARIBALDI E LA PINACOTECA- 2&deg; LOTTO - LAVORI COMPLEMENTARI -AFFIDAMENTO DITTA MELOZZI ANGELO SRL - LIQUIDAZIONE CONTO FINALE ED APPROVAZIONE C.R.E.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1437" title="PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - LIQUIDAZIONE ING. PAOLO PIERSANTI">PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PRIMO STRALCIO LOTTO A - LIQUIDAZIONE ING. PAOLO PIERSANTI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1438" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI  LIQUIDAZIONE CONTO FINALE E APPROVAZIONE CRE">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - PROGETTO DI COMPLETAMENTO - APPROVAZIONE PROGETTO DI COMPLETAMENTO E AFFIDAMENTO LAVORI  LIQUIDAZIONE CONTO FINALE E APPROVAZIONE CRE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1439" title="COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. LIQUIDAZIONE ING. SANDRO POMPA">COPERTURA E SISTEMAZIONE CAMPETTO POLIVALENTE PRESSO LA ZONA ARTIGIANALE DI VILLA PAVONE. LIQUIDAZIONE ING. SANDRO POMPA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1440" title="&quot;PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PROGETTO DI COMPLETAMENTO&quot; - AFFIDAMENTO E LIQUIDAZIONE IMPRESA COSTRUZIONI CORUZZI S.R.L.">&quot;PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - PROGETTO DI COMPLETAMENTO&quot; - AFFIDAMENTO E LIQUIDAZIONE IMPRESA COSTRUZIONI CORUZZI S.R.L.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1441" title="PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO - COMPLETAMENTO DELLA SEGNALETICA STRADALE. IMPEGNO DI SPESA  AFFIDAMENTO E  LIQUIDAZIONE DITTA DI SIMONE PASQUALE.">PISU - MIGLIORAMENTO VIABILITA&#039; E PERCORSI PEDONALI CASALENA-COLLEATTERRATO ALTO - COMPLETAMENTO DELLA SEGNALETICA STRADALE. IMPEGNO DI SPESA  AFFIDAMENTO E  LIQUIDAZIONE DITTA DI SIMONE PASQUALE.</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1442" title="&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI  EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Determina a contrarre, impegno di spesa, affidamento lavori - CUP: D41E1400">&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI  EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Determina a contrarre, impegno di spesa, affidamento lavori - CUP: D41E1400</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1443" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - AFFIDAMENTO INCARICO  E LIQUIDAZIONE  ING. D. ZAVANELLI">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - AFFIDAMENTO INCARICO  E LIQUIDAZIONE  ING. D. ZAVANELLI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1444" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - OPERE COMPLEMENTARI PER ELIMINAZIONE INTERFERENZE - AFFIDAMENTO LAVORI  E LIQUIDAZIONE DITTA COSTRUZIONI STRADALI ARMANDO DI ELEUTERIO">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - OPERE COMPLEMENTARI PER ELIMINAZIONE INTERFERENZE - AFFIDAMENTO LAVORI  E LIQUIDAZIONE DITTA COSTRUZIONI STRADALI ARMANDO DI ELEUTERIO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1445" title="PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE ING. PAOLO PIERSANTI">PISU - COLLEATTERRATO ALTO: EDIFICIO PER SERVIZI SOCIALI E SISTEMAZIONE IMPIANTI SPORTIVI - LIQUIDAZIONE ING. PAOLO PIERSANTI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1446" title="PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO  E LIQUIDAZIONE ING. DANIELE ZAVANELLI">PISU - RIQUALIFICAZIONE QUARTIERE GAMMARANA: 1.1 GREENWAY. PISTE CICLABILI E PEDONALI - PERCORSO VITA - PROGETTO DI COMPLETAMENTO - AFFIDAMENTO INCARICO  E LIQUIDAZIONE ING. DANIELE ZAVANELLI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1447" title="PISU - STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO FERROVIARIO GIULIANOVA TERAMO. FERMATA FERROVIARIA KM 21+013 - 3&deg; STRALCIO - AFFIDAMENTO  FORNITURA E LIQUIDAZIONE DITTA ING. MARANO">PISU - STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO FERROVIARIO GIULIANOVA TERAMO. FERMATA FERROVIARIA KM 21+013 - 3&deg; STRALCIO - AFFIDAMENTO  FORNITURA E LIQUIDAZIONE DITTA ING. MARANO</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1448" title="PISU - STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO FERROVIARIO GIULIANOVA TERAMO. FERMATA FERROVIARIA KM 21+013 - 3&deg; STRALCIO - LIQUIDAZIONE COLLAUDATORE">PISU - STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO FERROVIARIO GIULIANOVA TERAMO. FERMATA FERROVIARIA KM 21+013 - 3&deg; STRALCIO - LIQUIDAZIONE COLLAUDATORE</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1449" title="PISU - STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO FERROVIARIO GIULIANOVA TERAMO. FERMATA FERROVIARIA KM 21+013 - 3&deg; STRALCIO - LIQUIDAZIONE DIRETTORE DEI LAVORI">PISU - STRADA DI COLLEGAMENTO PIANO D&#039;ACCIO - IZS CON SOTTOPASSO FERROVIARIO GIULIANOVA TERAMO. FERMATA FERROVIARIA KM 21+013 - 3&deg; STRALCIO - LIQUIDAZIONE DIRETTORE DEI LAVORI</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1450" title="&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Estensione incarico Direzione Lavori e collaudo strutturale all&#039;Ing. DI SABA">&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Estensione incarico Direzione Lavori e collaudo strutturale all&#039;Ing. DI SABA</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1451" title="&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Estensione incarico Direzione Lavori e collaudo strutturale all&#039;Ing. DI GIOV">&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Estensione incarico Direzione Lavori e collaudo strutturale all&#039;Ing. DI GIOV</a></li>
+<li><a href="http://www.comune.teramo.it/index.php?id=238&amp;year=4&amp;itemid=1452" title="&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Estensione incarico Direzione Lavori e collaudo strutturale all&#039;Ing. DI DOME">&quot;LAVORI DI ADEGUAMENTO ALLE NORME ANTINCENDIO E DI SICUREZZA DEGLI EDIFICI PUBBLICI E SCOLASTICI D. M. 26/08/1992. SCUOLA ELEMENTARE S. GIORGIO - PROGETTO DI COMPLETAMENTO - Estensione incarico Direzione Lavori e collaudo strutturale all&#039;Ing. DI DOME</a></li>
+</ul></div>
+<div class="clear"></div>
+<div id="return_back">
+<a href="http://www.comune.teramo.it/index.php?id=238" title="&laquo; Torna a  Informazioni sulle singole procedure in formato tabellare">&laquo; Torna a  Informazioni sulle singole procedure in formato tabellare</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div id="content_right">
+<div class="hidden"><h2>Menu di navigazione destro</h2><hr /></div>
+<div id="plugin_12" class="plugin plugin_accessibility"><div class="box_title"><h3>Menu Accessibilità</h3></div>
+<div class="p10">
+<div class="p10l">
+Carattere:&nbsp;
+<a rel="nofollow" href="http://www.comune.teramo.it/switch_char.php" title="immagine lettera A piccola"><img src="http://www.comune.teramo.it/plugins/plugin_accessibility/images/char_1.gif" alt="immagine lettera A piccola" /></a>&nbsp;
+<a rel="nofollow" href="http://www.comune.teramo.it/switch_char.php?font=2" title="immagine lettera A normale"><img src="http://www.comune.teramo.it/plugins/plugin_accessibility/images/char_2.gif" alt="immagine lettera A normale" /></a>&nbsp;
+<a rel="nofollow" href="http://www.comune.teramo.it/switch_char.php?font=3" title="immagine lettera A grande"><img src="http://www.comune.teramo.it/plugins/plugin_accessibility/images/char_3.gif" alt="immagine lettera A grande" /></a>
+</div>
+<ul class="p10l">
+<li class="p2"><a rel="nofollow" title="Grafica normale" href="http://www.comune.teramo.it/switch_layout.php">Grafica normale</a></li>
+<li class="p2"><a rel="nofollow" title="Testuale" href="http://www.comune.teramo.it/switch_layout.php?css=2">Testuale</a></li>
+<li class="p2"><a rel="nofollow" title="Mobile" href="http://www.comune.teramo.it/switch_layout.php?css=6">Mobile</a></li>
+<li class="p2"><a rel="nofollow" title="Alta visibilit&agrave;" href="http://www.comune.teramo.it/switch_layout.php?css=4">Alta visibilit&agrave;</a></li>
+<li class="p2"><a rel="nofollow" title="Rosso su nero" href="http://www.comune.teramo.it/switch_layout.php?css=5">Rosso su nero</a></li>
+<li class="p2"><a title="Tasti di accesso rapido" href="http://www.comune.teramo.it/index.php?id=46">Tasti di accesso rapido</a></li>
+<li class="p2"><a title="Dichiarazione di accessibilit&agrave;" href="http://www.comune.teramo.it/index.php?id=47">Dichiarazione di accessibilit&agrave;</a></li>
+</ul>
+</div></div><div id="plugin_15" class="plugin plugin_html m20t"><div class="box_title"><h3>Ricerca nel sito</h3></div>
+<form class="p10t p10b p10r p20l" id="box_search_form" action="http://www.comune.teramo.it/index.php?id=51" method="post">
+<div><label for="search">Inserisci il testo da ricercare e premi sul pulsante cerca</label></div>
+<div class="fl p10t">
+<input class="b1 mh20 required" type="text" id="search" name="search" value="" size="10" maxlength="50" />
+</div>
+<div class="fr w90">
+<div class="div_button">
+<input class="form_button mini" type="submit" id="search_button" name="search_button" value="Cerca &raquo;" />
+</div>
+</div>
+<div class="clear"></div>
+</form></div><div id="plugin_51" class="plugin plugin_models_contents m20t"><div class="box_title"><h3>Banner</h3></div>
+<div class="p10t">
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=48&amp;itemid=158" title="Piano di protezione civile ed emergenza comunale"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMjlfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Piano di protezione civile ed emergenza comunale" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=250" title="Danni sisma"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjZfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Danni sisma" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=251" title="Gara Te.Am."><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjhfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Gara Te.Am." /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=185" title="I.U.C. -  Imposta Unica Comunale"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMThfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="I.M.U. Imposta Municipale Unica" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.riscotel.it/calcoloiuc2017/?comune=L103" title="Calcolo I.U.C."><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMjBfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Calcolo I.U.C." /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=254" title="DEFINIZIONE AGEVOLATA  DELLE INGIUNZIONI DI PAGAMENTO"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNzFfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="DEFINIZIONE AGEVOLATA  DELLE INGIUNZIONI DI PAGAMENTO" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="https://cassettotributario.it/teramo/" title="Cassetto tributario"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjFfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Cassetto tributario" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=246" title="Quartiere San Giorgio e via Mario Capuani"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjNfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Quartiere San Giorgio e via Mario Capuani" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.premioteramo.it/" title="Premio Teramo"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjJfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Premio Teramo" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="mailto:segretariogenerale@comune.teramo.it" title="Invia una mail al soggetto titolare dei poteri sostitutivi in caso di inerzia della P.A"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNDhfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Invia una mail al soggetto titolare dei poteri sostitutivi in caso di inerzia della P.A" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=222" title="Scopri i nuovi servizi online"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNDBfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Scopri i nuovi servizi online" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.geoportal.it/websit/default.aspx?Utente=teramo" title="S.I.T. - Sistema Informativo Territoriale"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMzhfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="S.I.T. - Sistema Informativo Territoriale" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.geoportal.it/teramocdu" title="CDU"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNDZfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="CDU online" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.magellanopa.it/bussola/page.aspx?s=verifica-ultimo-monitoraggio&amp;qs=qqdWWK/VIT9UKGbTGd|x3Hoodex0S3ghWi/NW1sRPIE=" title="Primi in trasparenza: controlla anche tu!!!"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMzRfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Primi in trasparenza: controlla anche tu!!!" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=243" title="Polizia Municipale"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNTVfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Polizia Municipale" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://31.198.16.88/psteramo" title="Scuola Online"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMTZfaXRlbV82My5naWYiO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Scuola Online" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.indicepa.gov.it/documentale/index.php" title="Riferimenti fatturazione elettronica"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNDlfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Riferimenti fatturazione elettronica" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=187" title="Cambio di residenza"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMjFfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Cambio di residenza" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://31.198.16.84:8890/?area=user&amp;tipoutente=PERSONA_GIURIDICA" title="Servizio Fornitori"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMTRfaXRlbV82My5naWYiO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Servizio Fornitori" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=181" title="Pratiche online"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMTVfaXRlbV82My5naWYiO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Pratiche on line" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=184" title="Ordinanze e Decreti Sindacali"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjdfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Ordinanze e Decreti Sindacali" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://31.198.16.84:8080" title="Albo Pretorio"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6Mzk6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMV9pdGVtXzYzLmdpZiI7czoxOiJ0IjtzOjE6InIiO3M6MToibSI7czoxOiIwIjtzOjE6InciO3M6MToiMCI7czoxOiJoIjtzOjE6IjAiO30=" alt="Albo Online" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=239" title="Comitati di quartieri e frazioni"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNTNfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Comitati di quartieri e frazioni" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=44" title="PEC"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6Mzk6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNl9pdGVtXzYzLmdpZiI7czoxOiJ0IjtzOjE6InIiO3M6MToibSI7czoxOiIwIjtzOjE6InciO3M6MToiMCI7czoxOiJoIjtzOjE6IjAiO30=" alt="Posta Elettronica Certificata" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/uploads/model_30/inventario_archivio_storico_comunete.pdf" title="Archivio Storico Comunale"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNDJfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Inventario Archivio Storico Comunale" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=40&amp;itemid=16" title="SUE"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6Mzk6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvN19pdGVtXzYzLmdpZiI7czoxOiJ0IjtzOjE6InIiO3M6MToibSI7czoxOiIwIjtzOjE6InciO3M6MToiMCI7czoxOiJoIjtzOjE6IjAiO30=" alt="Sportello Unico per l&#039;Edilizia" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://suap.egov.regione.abruzzo.it/frontoffice/HomeSuap.asp?g_IstatComuni=L103&amp;g_Software=SS" title="S.U.A.P. - Sportello Unico per le Attivit&agrave; Produttive"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMTlfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="S.U.A.P. - Sportello Unico per le Attivit&agrave; Produttive" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.up.aci.it/teramo/spip.php?rubrique15" title="Mobilit&agrave; &amp; Disabili"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMjVfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Mobilit&agrave; &amp; Disabili" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=43&amp;itemid=33" title="PRG"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6Mzk6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNV9pdGVtXzYzLmdpZiI7czoxOiJ0IjtzOjE6InIiO3M6MToibSI7czoxOiIwIjtzOjE6InciO3M6MToiMCI7czoxOiJoIjtzOjE6IjAiO30=" alt="Piano Regolatore Generale" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=103" title="Comitato Unico di Garanzia"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMTdfaXRlbV82My5naWYiO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Comitato Unico di Garanzia" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=48&amp;itemid=178" title="PERLA PA"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMjdfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="PERLA PA" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=32" title="Bilanci"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvMzNfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Bilanci" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.europedirectteramo.it" title="Consorzio Punto Europa Teramo"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNDdfaXRlbV82My5qcGciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Consorzio Punto Europa Teramo" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.comune.teramo.it/index.php?id=268" title="Canale You Tube"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNzBfaXRlbV82My5naWYiO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="Canale You Tube" /></a>
+</div>
+<div class="overflow w100p center p5b">
+<a href="http://www.teramo.minijob.it/" title="Minijob"><img src="http://www.comune.teramo.it/show_image.php?img=YTo1OntzOjE6ImYiO3M6NDA6Ii92YXIvd3d3L3VwbG9hZHMvbW9kZWxfMTcvNjlfaXRlbV82My5wbmciO3M6MToidCI7czoxOiJyIjtzOjE6Im0iO3M6MToiMCI7czoxOiJ3IjtzOjE6IjAiO3M6MToiaCI7czoxOiIwIjt9" alt="http://www.teramo.minijob.it/" /></a>
+</div>
+</div></div>
+</div>
+</div>
+<div class="min-width"></div>
+</div>
+<div id="box_footer">
+<div id="footer">
+<div class="hidden"><hr /></div>
+<a name="piede"></a>
+<div id="plugin_29" class="plugin plugin_menu">Comune di Teramo &copy; 2017 - Piazza Ercole Vincenzo Orsini 16, 64100 Teramo - Centr. 0861 3241 - Fax 0861 246565 - C.F. 00174750679 - PEC: <a title="Indirizzo Posta Elettronia Certificata" href="mailto:affarigenerali@comune.teramo.pecpa.it">affarigenerali@comune.teramo.pecpa.it</a>
+<br /><a href="http://www.comune.teramo.it/index.php?id=5&amp;itemid=14" title="URP">Ufficio URP</a> - Via Delfico, 30 (c/o Museo Archeologico 'F. Savini') 64100 Teramo TE - Tel: 0861/324200 - Email: <a href="mailto:urp@comune.teramo.it" title="Email URP">urp@comune.teramo.it</a>
+&nbsp;|&nbsp;<a class="strong" href="http://www.comune.teramo.it/index.php?id=53" title="Privacy">Privacy</a>&nbsp;|&nbsp;<a class="strong" href="http://www.comune.teramo.it/index.php?id=54" title="Note legali">Note legali</a>&nbsp;|&nbsp;<a class="strong" href="http://www.comune.teramo.it/index.php?id=55" title="Condizioni e termini di utilizzo del sito">Condizioni e termini di utilizzo del sito</a>&nbsp;|&nbsp;<a class="strong" href="http://www.comune.teramo.it/index.php?id=112" title="Elenco siti tematici">Elenco siti tematici</a>&nbsp;|&nbsp;<a class="strong" href="http://www.comune.teramo.it/index.php?id=53#cookie" title="Cookie Policy">Cookie Policy</a></div>
+<div class="p5 fr">
+<a title="Valid XHTML 1.0 Strict" href="http://validator.w3.org/check?uri=referer"><img width="60" src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" /></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer"><img width="60" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="CSS Valido!" /></a>
+<a href="http://www.w3.org/WAI/WCAG1AA-Conformance" title="Explanation of Level Double-A Conformance"><img src="http://www.comune.teramo.it/templates/it/comune/images/wcag1AA.png" alt="Level Double-A conformance icon, W3C-WAI Web Content Accessibility Guidelines 1.0" width="60" /></a>
+<a href="http://www.w3.org/WAI/WCAG2AA-Conformance" title="Explanation of WCAG 2.0 Level Double-A Conformance"><img src="http://www.comune.teramo.it/templates/it/comune/images/wcag2AA.gif" alt="Level Double-A conformance, W3C WAI Web Content Accessibility Guidelines 2.0" width="60" /></a>
+<a href="http://www.totalvalidator.com/validator/Revalidate?revalidate=true" title="Sito conforme agli standard"><img src="http://www.comune.teramo.it/templates/it/comune/images/total_validator.gif" alt="Sito conforme agli standard" width="60" /></a>
+<a href="http://wave.webaim.org/report?url=http://www.comune.teramo.it/" title="Validatore accessibilit&agrave;"><img src="http://www.comune.teramo.it/templates/it/comune/images/wave.png" alt="Validatore accessibilit&agrave;" width="60" /></a>
+</div>
+<div class="clear"></div>
+<div class="min-width"></div>
+</div>
+<div id="botbar">&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="plugin_94" class="plugin plugin_cookie"><div id="plugin_cookie_int">
+Questo sito utilizza cookies di profilazione di terze parti in linea con le preferenze manifestate dall'utente nell'ambito della navigazione in rete. Continuando a navigare o accedendo a un qualunque elemento del sito fornite il vostro consenso all'utilizzo dei cookies. Per ulteriori informazioni o negare il consenso a tutti o ad alcuni cookies <a class="strong" href="http://www.comune.teramo.it/index.php?id=53#cookie">si rimanda alla policy sui cookies</a>
+<span class="p10l"><a id="cookie_close" href="javascript:void(0);">Accetta</a></span>
+</div>
+<script type="text/javascript">
+function setInfoCookie(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime()+(exdays*24*60*60*1000));
+var expires = "expires="+d.toGMTString();
+document.cookie = cname+"="+cvalue+"; "+expires + "; path=/";
+}
+$(function() {
+$("#cookie_close").click(function() {
+setInfoCookie("HIDE_INFO_COOKIE", "true", 90);
+$(".plugin_cookie").addClass("hide");
+});
+});
+</script></div>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-15986682-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<noscript><p>&nbsp;</p></noscript>
+</body>
+</html>

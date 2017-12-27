@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice istituto comprensivo in lingua tedesca di Lasa - pubblicazione legge 190</titolo>
+    <abstract>Pubblicazione relativa all'anno 2012-2013-2014-2015</abstract>
+    <dataPubblicazioneIndice>2016-02-02</dataPubblicazioneIndice>
+    <entePubblicatore>Istituto comprensivo in lingua tedesca di Lasa</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>www.ssp-laas.com/verwaltung/L190/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>www.ssp-laas.com/verwaltung/L190/esiti_2012_20140405-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-05</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>www.ssp-laas.com/verwaltung/L190/esiti_2013_20140405-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2014-04-05</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>www.ssp-laas.com/verwaltung/L190/esiti_2014_20150128-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-01-28</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>www.ssp-laas.com/verwaltung/L190/esiti_2015_20160129-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

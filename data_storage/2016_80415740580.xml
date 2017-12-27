@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n.1</titolo>
+		<abstract>Pubblicazione relativa all'anno 2015</abstract>
+		<dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice>
+		<entePubblicatore>Ministero dell'Economia e delle Finanze</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2015/indice_2015.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+	   <dataset id="ID_1">
+		<linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2015/aff_dt_2015.xml</linkDataset>
+		<dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_2">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2015/aff_rgs_2015.xml</linkDataset>
+		   <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_3">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2015/aff_2015_raz.xml</linkDataset>
+		   <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_4">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2015/aff_dag_dci_2015.xml</linkDataset>
+		   <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+	   </dataset>
+	   <dataset id="ID_5">
+		   <linkDataset>http://www.mef.gov.it/operazione-trasparenza/opendata-affidamenti/data/2015/DRIALAG_IV_2015.xml</linkDataset>
+		   <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+	   </dataset>
+	</indice>
+</indici>

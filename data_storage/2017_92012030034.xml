@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Indice Pubblicazione Legge 190 del 2012</titolo>
+    <abstract>Pubblicazione Legge 190 del 2012</abstract>
+    <dataPubblicazioneIndice>2017-01-24</dataPubblicazioneIndice>
+    <entePubblicatore>ISTITUTO COMPRENSIVO SCUOLA DELL'INFANZIA, PRIMARIA E SEC. DI I GRADO - "M.O. ATTILIO BAGNOLINI" - VILLADOSSOLA</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-24</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://avcp.trasparenza-pa.net/xml/SC21490/2016/indicegare2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID2016">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC21490/2016/gare2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID201683005940032">
+      <linkDataset>http://avcp.trasparenza-pa.net/xml/SC21490/2016/gare201683005940032.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

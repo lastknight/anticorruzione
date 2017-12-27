@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione 1 legge 190</titolo>
+		<abstract> Pubblicazione 1 legge 190 aggiornamento del 2016-01-27 08:27:13 con SSC</abstract>
+		<dataPubbicazioneDataset>2016-01-26</dataPubbicazioneDataset>
+		<entePubblicatore>CIRCOLO DIDATTICO</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-27</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile>http://www.circolosanbenedetto.gov.it/joomla/attachments/article/73/avcp_dataset_2015.xml</urlFile>
+		<licenza>IODL 2.0</licenza>
+	</metadata>
+	<data>
+		<lotto>
+			<cig>Z300D2F36E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZI DI TESORERIA TRIENNIO 2014-2016</oggetto>
+			<sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00148520711</codiceFiscale>
+					<ragioneSociale>BANCAPULIA SPA GRUPPO VENETO BANCA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00148520711</codiceFiscale>
+					<ragioneSociale>BANCAPULIA SPA GRUPPO VENETO BANCA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>2400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>800.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEC0DF92BE</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE NOLEGGIO FOTOCOPIATORI PER TRE PLESSI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00132170713</codiceFiscale>
+					<ragioneSociale>D'ALESSANDRO DI FANELLI ALESSIA &amp; C. SAS</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00132170713</codiceFiscale>
+					<ragioneSociale>D'ALESSANDRO DI FANELLI ALESSIA &amp; C. SAS</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1408.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-02</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>830.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z890EA48E7</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>CONTRATTO NOLEGGIO FOTOCOPIATORE 1/4/14 AL 31/3/18</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>SBTNTN59L03D643Z</codiceFiscale>
+					<ragioneSociale>TEKNOSABA </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>SBTNTN59L03D643Z</codiceFiscale>
+					<ragioneSociale>TEKNOSABA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3264.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-04-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>816.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9611BE18E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO ASSICURAZIONE PER INFORTUNIO E RESPONSABILITA' CIVILE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00885351007</codiceFiscale>
+					<ragioneSociale>INA ASSITALIA AG.SAN SEVERO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00875360018</codiceFiscale>
+					<ragioneSociale>REALE MUTUA ASSICURAZIONI AG.SAN SEVERO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03967470968</codiceFiscale>
+					<ragioneSociale>GRUPPO AMBIENTE SCUOLA SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03967470968</codiceFiscale>
+					<ragioneSociale>GRUPPO AMBIENTE SCUOLA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4308.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-11-23</dataInizio>
+				<dataUltimazione>2015-11-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4308.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>596528768E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZI TESI AL MANTENIMENTO DEL DECORO E DELLA FUNZIONALITA' DEGLI IMMOBILI
+</oggetto>
+			<sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00124140211</codiceFiscale>
+					<ragioneSociale>DUSSMANN SERVICE SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00124140211</codiceFiscale>
+					<ragioneSociale>DUSSMANN SERVICE SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>18327.48</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>5530215DC6</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI PULIZIA APPATO CONVENZIONATO MIUR</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00124140211</codiceFiscale>
+					<ragioneSociale>DUSSMANN SERVICE SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00124140211</codiceFiscale>
+					<ragioneSociale>DUSSMANN SERVICE SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>565441.13</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>139340.91</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7017B12AB</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>INSTALLAZIONE E CONFIGURAZIONE SYBASE ANY WHERE 8 SISSI IN RETE PROTOCOLLO AXIOS</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03309480717</codiceFiscale>
+					<ragioneSociale>IFP INFORMATICA </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03309480717</codiceFiscale>
+					<ragioneSociale>IFP INFORMATICA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-19</dataInizio>
+				<dataUltimazione>2015-12-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>700.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZAD17D5DBE</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE GRUPPI DI CONTINUITA' E PC DEGLI UFFICI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03309480717</codiceFiscale>
+					<ragioneSociale>IFP INFORMATICA </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03309480717</codiceFiscale>
+					<ragioneSociale>IFP INFORMATICA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z24178D729</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>PROVE DI MATEMATICA </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02966820967</codiceFiscale>
+					<ragioneSociale>KANGOUROU ITALIA </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02966820967</codiceFiscale>
+					<ragioneSociale>KANGOUROU ITALIA </ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>468.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z4017A19F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO MATERIALE IGIENICO SANITARIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03602600714</codiceFiscale>
+					<ragioneSociale>RISTOPARTY SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00604930701</codiceFiscale>
+					<ragioneSociale>F.LLI PAVONE</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00216360164</codiceFiscale>
+					<ragioneSociale>ALLEGRINI SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1816.55</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8C1701C45</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO MATERIALE DI CANCELLERIA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03863550715</codiceFiscale>
+					<ragioneSociale>HELP CASA SNC</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00960900371</codiceFiscale>
+					<ragioneSociale>F.LLI BIAGINI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03737190714</codiceFiscale>
+					<ragioneSociale>ARTE GRAFICA E CONTABILITA' SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00960900371</codiceFiscale>
+					<ragioneSociale>F.LLI BIAGINI SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>383.31</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-12-22</dataInizio>
+				<dataUltimazione>2015-12-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>383.31</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8A16A457F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSICURAZIONE ALUNNI E PERSONALE DEL CIRCOLO</oggetto>
+			<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03967470968</codiceFiscale>
+					<ragioneSociale>GRUPPO AMBIENTE SCUOLA SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>05032630963</codiceFiscale>
+					<ragioneSociale>ALLIANZ ASSICURAZIONI</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00368080719</codiceFiscale>
+					<ragioneSociale>UNIPOL ASSICURAZIONI AG.SAN SEVERO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00885351007</codiceFiscale>
+					<ragioneSociale>INA ASSITALIA AG.SAN SEVERO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00875360018</codiceFiscale>
+					<ragioneSociale>REALE MUTUA ASSICURAZIONI AG.SAN SEVERO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03967470968</codiceFiscale>
+					<ragioneSociale>GRUPPO AMBIENTE SCUOLA SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4317.70</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8912CFDBA</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>CONTRATTO PRESTAZIONE D'OPERA SERVIZIO PREVENZIONE E PROTEZIONE
+01/01/2013 - 31/12/2015</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03099590717</codiceFiscale>
+					<ragioneSociale>NENNA MASSIMO GIUSEPPE</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03099590717</codiceFiscale>
+					<ragioneSociale>NENNA MASSIMO GIUSEPPE</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>508.44</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z8112E18E3</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ABBONAMENTO RIVISTA &quot;AMMINISTRARE LA SCUOLA&quot; ANNO 2015</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07009890018</codiceFiscale>
+					<ragioneSociale>euroedizioni torino srl</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07009890018</codiceFiscale>
+					<ragioneSociale>euroedizioni torino srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>80.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+				<dataUltimazione>2015-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>80.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZAC12F88FC</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>BANDO DI GARA NOLEGGIO FOTOCOPIATORE TRIENNIO 01/03/2015 - 28/02/2018</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00132170713</codiceFiscale>
+					<ragioneSociale>D'ALESSANDRO DI FANELLI ALESSIA &amp; C. SAS</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>SBTNTN59L03D643Z</codiceFiscale>
+					<ragioneSociale>TEKNOSABA </ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00132170713</codiceFiscale>
+					<ragioneSociale>D'ALESSANDRO DI FANELLI ALESSIA &amp; C. SAS</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>3420.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-03-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>665.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z73134F50E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>SPESE POSTALI SPEDIZIONI E TELEGRAFICI ANNO 2015</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>97103880585</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>97103880585</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>515.64</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>415.08</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z741364F6E</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ISCRIZIONE 3^ GRANDE FESTA DELLA MATEMATICA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02511720407</codiceFiscale>
+					<ragioneSociale>OLTREMARE</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02511720407</codiceFiscale>
+					<ragioneSociale>OLTREMARE</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>484.55</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-03-21</dataInizio>
+				<dataUltimazione>2015-03-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>484.55</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZA014E24FB</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>CORSO DI FORMAZIONE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>94049080719</codiceFiscale>
+					<ragioneSociale>FISM federazione italiana scuola materna</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>94049080719</codiceFiscale>
+					<ragioneSociale>FISM federazione italiana scuola materna</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>80.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-05-25</dataInizio>
+				<dataUltimazione>2015-05-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>80.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z5314FC875</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO CARTA FOTOCOPIE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03737190714</codiceFiscale>
+					<ragioneSociale>ARTE GRAFICA E CONTABILITA' SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03863550715</codiceFiscale>
+					<ragioneSociale>HELP CASA SNC</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1190.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-06-16</dataInizio>
+				<dataUltimazione>2015-06-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1190.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9D15E5A7F</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO DOMINIO SITO SCUOLA 1/9/2015 - 31/8/2016</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA S.P.A.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA S.P.A.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>50.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-01</dataInizio>
+				<dataUltimazione>2015-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>50.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z871572630</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO CARTA PER FOTOCOPIE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03863550715</codiceFiscale>
+					<ragioneSociale>HELP CASA SNC</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03737190714</codiceFiscale>
+					<ragioneSociale>ARTE GRAFICA E CONTABILITA' SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1515.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-07-20</dataInizio>
+				<dataUltimazione>2015-09-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1515.20</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z3215E591C</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO ABBONAMENTO - NOTIZIE DELLA SCUOLA 1/9/2015 - 31/08/2016</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00659430631</codiceFiscale>
+					<ragioneSociale>NOTIZIE DELLA SCUOLA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00659430631</codiceFiscale>
+					<ragioneSociale>NOTIZIE DELLA SCUOLA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>95.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-01</dataInizio>
+				<dataUltimazione>2015-09-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>95.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZF215E5ADB</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO STAMPATI REGISTRI DOCENTI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03737190714</codiceFiscale>
+					<ragioneSociale>ARTE GRAFICA E CONTABILITA' SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03737190714</codiceFiscale>
+					<ragioneSociale>ARTE GRAFICA E CONTABILITA' SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>1118.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-03</dataInizio>
+				<dataUltimazione>2015-09-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1118.20</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z65131AA00</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>VIAGGI D'ISTRUZIONE A.S.2014/2015</oggetto>
+			<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02000410718</codiceFiscale>
+					<ragioneSociale>CAMPOBASSO ADAMO srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03202000711</codiceFiscale>
+					<ragioneSociale>D.M.V.TOURS SNC</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03568960714</codiceFiscale>
+					<ragioneSociale>AGENZIA CASIERI VIAGGI E TURISMO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02000410718</codiceFiscale>
+					<ragioneSociale>CAMPOBASSO ADAMO srl</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>4645.45</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-03</dataInizio>
+				<dataUltimazione>2015-09-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4645.45</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z9315447B</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE IGIENICO SANITARIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03602600714</codiceFiscale>
+					<ragioneSociale>RISTOPARTY SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03602600714</codiceFiscale>
+					<ragioneSociale>RISTOPARTY SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>654.14</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-06-22</dataInizio>
+				<dataUltimazione>2015-09-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>654.14</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZEA1514D39</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE IGIENICO SANITARIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00337800718</codiceFiscale>
+					<ragioneSociale>TUPPI FRANCESCO</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>464.52</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-06-22</dataInizio>
+				<dataUltimazione>2015-07-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>464.52</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z131665CB8</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo DataBase Mysql</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA S.P.A.</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA S.P.A.</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>10.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-07</dataInizio>
+				<dataUltimazione>2015-10-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>ZD11665CF2</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>Corso formazione personale ATA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>94049080719</codiceFiscale>
+					<ragioneSociale>FISM federazione italiana scuola materna</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>94049080719</codiceFiscale>
+					<ragioneSociale>FISM federazione italiana scuola materna</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-09-23</dataInizio>
+				<dataUltimazione>2015-09-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>100.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z7D16784F5</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ABBONAMENTO RIVISTA - DSGA AL LAVORO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03534120237</codiceFiscale>
+					<ragioneSociale>FORUM MEDIA EDIZIONE SRL</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03534120237</codiceFiscale>
+					<ragioneSociale>FORUM MEDIA EDIZIONE SRL</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>99.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-07</dataInizio>
+				<dataUltimazione>2015-10-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>99.00</importoSommeLiquidate>
+		</lotto>
+		<lotto>
+			<cig>Z151670004</cig>
+			<strutturaProponente>
+				<codiceFiscaleProp>93061340712</codiceFiscaleProp>
+				<denominazione>CIRCOLO DIDATTICO SAN BENEDETTO</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO PROTOCOLLO INFORMATICO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01545330712</codiceFiscale>
+					<ragioneSociale>INFOLAB di FRANCO DI LELLA</ragioneSociale>
+				</partecipante>
+			</partecipanti>
+			<aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01545330712</codiceFiscale>
+					<ragioneSociale>INFOLAB di FRANCO DI LELLA</ragioneSociale>
+				</aggiudicatario>
+			</aggiudicatari>
+			<importoAggiudicazione>700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-10-07</dataInizio>
+				<dataUltimazione>2015-10-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>700.00</importoSommeLiquidate>
+		</lotto>
+	</data>
+</legge190:pubblicazione>

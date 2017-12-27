@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione Insubria</titolo>
+    <abstract>Pubblicazione relativa all’anno 2015</abstract>
+    <dataPubblicazioneIndice>2016-02-05</dataPubblicazioneIndice>
+    <entePubblicatore>Università degli Studi dell'Insubria</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-02-05</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www4.uninsubria.it/dataset_contratti_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www4.uninsubria.it/dataset_contratti_2016_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-01</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www4.uninsubria.it/dataset_contratti_2016_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-02-05</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

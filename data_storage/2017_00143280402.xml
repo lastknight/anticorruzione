@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione n 1</titolo>
+		<abstract>Pubblicazione relativa all'anno 2012-2013-2014-2015-2016</abstract>
+		<dataPubblicazioneIndice>2017-02-03</dataPubblicazioneIndice>
+		<entePubblicatore>AVCP</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-03</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comune.cesena.fc.it/flex/AppData/Redational/avcp-l190/avcp_indice2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_1">
+			<linkDataset>http://www.comune.cesena.fc.it/flex/AppData/Redational/avcp-l190/avcp_dataset_2016_2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2">
+			<linkDataset>http://www.comune.cesena.fc.it/flex/AppData/Redational/avcp-l190/avcp_dataset_2016_2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_3">
+			<linkDataset>http://www.comune.cesena.fc.it/flex/AppData/Redational/avcp-l190/avcp_dataset_2016_2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_4">
+			<linkDataset>http://www.comune.cesena.fc.it/flex/AppData/Redational/avcp-l190/avcp_dataset_2016_2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-03</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

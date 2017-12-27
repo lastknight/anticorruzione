@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Tirolo</abstract>
+   <dataPubblicazioneIndice>2017-01-23</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Tirolo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-01-23</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21101/21101indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_33C9AB45-5379-40B0-BF62-58D9D8B22068'>
+      <linkDataset>http://data.gvcc.net/avcp/21101/33C9AB45-5379-40B0-BF62-58D9D8B22068.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_C7D37922-5B35-48BE-A12E-7A8A515D6B00'>
+      <linkDataset>http://data.gvcc.net/avcp/21101/C7D37922-5B35-48BE-A12E-7A8A515D6B00.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

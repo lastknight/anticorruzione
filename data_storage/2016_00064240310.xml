@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2015 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2015 - Legge 190/2012 - aggiornamento del 2014-01-30 11:18:34</abstract>
+		<dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Grado</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2014-01-30</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2015</annoRiferimento>
+		<urlFile><![CDATA[http://www.comunegrado.it/attachments/article/781/indice_031009_avcp_dataset_2015.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://www.comunegrado.it/attachments/category/190/031009_avcp_dataset_2011.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2014-01-30</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset><![CDATA[http://www.comunegrado.it/attachments/article/781/031009_avcp_dataset_2012.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_3'>
+			<linkDataset><![CDATA[http://www.comunegrado.it/attachments/article/781/031009_avcp_dataset_2013.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_4'>
+			<linkDataset><![CDATA[http://www.comunegrado.it/attachments/article/781/031009_avcp_dataset_2014.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_5'>
+			<linkDataset><![CDATA[http://www.comunegrado.it/attachments/article/781/031009_avcp_dataset_2015.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

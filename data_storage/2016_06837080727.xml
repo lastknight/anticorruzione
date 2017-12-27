@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione Indice AVCP</titolo>
+		<abstract>Pubblicazione Indice AVCP</abstract>
+		<dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+		<entePubblicatore>INNOVAPUGLIA S.p.A.</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2017</annoRiferimento>
+		<urlFile>http://trasparenza.innova.puglia.it/dati/IndiceANAC.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id="ID_2013_0">
+			<linkDataset>http://trasparenza.innova.puglia.it/dati/Lotti_06837080727_2013_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2014_0">
+			<linkDataset>http://trasparenza.innova.puglia.it/dati/Lotti_06837080727_2014_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2015_0">
+			<linkDataset>http://trasparenza.innova.puglia.it/dati/Lotti_06837080727_2015_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id="ID_2016_0">
+			<linkDataset>http://trasparenza.innova.puglia.it/dati/Lotti_06837080727_2016_1.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

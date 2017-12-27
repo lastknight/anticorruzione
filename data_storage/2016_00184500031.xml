@@ -1,0 +1,753 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-IT"  xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>    
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_head.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_head.tpl) -->
+																<title>Accesso negato - /content/download/16455/194784/file/AVCP_L190_2015_1.xml - Sito ufficiale del Comune di Galliate</title>    <meta name="Content-Type" content="text/html; charset=utf-8" />    <meta name="Content-language" content="it-IT" />			<meta name="author" content="officine digitali" />
+				<meta name="copyright" content="eZ Systems" />
+				<meta name="description" content="Sito ufficiale del Comune di Galliate" />
+				<meta name="keywords" content="Sito,ufficiale,comune,Galliate" />
+	<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="generator" content="eZ Publish" />    
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/templates/link.tpl (extension/od_standard_new/design/od_standard_new/templates/link.tpl) -->
+<link rel="Shortcut icon" href="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/favicon.ico" type="image/x-icon" />
+
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/templates/link.tpl (extension/od_standard_new/design/od_standard_new/templates/link.tpl) -->
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900,200,100' rel='stylesheet' type='text/css' />
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_head.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_head.tpl) -->
+
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/templates/page_head_style.tpl (extension/od_standard_new/design/od_standard_new/templates/page_head_style.tpl) -->
+      <link rel="stylesheet" type="text/css" href="/var/comune_galliate_restyle/cache/public/stylesheets/68281794e377b2ef67dd5f680ea5b974_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezflow/design/ezflow/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezflow/design/ezflow/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/templates/page_head_style.tpl (extension/od_standard_new/design/od_standard_new/templates/page_head_style.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_head_script.tpl (extension/ezwebin/design/ezwebin/templates/page_head_script.tpl) -->
+
+<script type="text/javascript" src="http://www.google.com/jsapi?.js" charset="utf-8"></script>
+<script type="text/javascript" src="/var/comune_galliate_restyle/cache/public/javascript/11d820e55c19cb8782a8c232083dec2d.js" charset="utf-8"></script>
+
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_head_script.tpl (extension/ezwebin/design/ezwebin/templates/page_head_script.tpl) -->
+
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/templates/page_head_od.tpl (extension/od_standard_new/design/od_standard_new/templates/page_head_od.tpl) -->
+
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/templates/page_head_od.tpl (extension/od_standard_new/design/od_standard_new/templates/page_head_od.tpl) -->
+
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/templates/parts/od_google_analytics.tpl (extension/od_standard_new/design/od_standard_new/templates/parts/od_google_analytics.tpl) -->
+
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/templates/parts/od_google_analytics.tpl (extension/od_standard_new/design/od_standard_new/templates/parts/od_google_analytics.tpl) -->
+<link rel="image_src" href="http://www.comune.galliate.no.it/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/logo-comune.png">
+<meta property="og:image" content="http://www.comune.galliate.no.it/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/logo-comune.png" />
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/cookieconsent/cookieconsent.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/cookieconsent/cookieconsent.tpl) -->
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<link rel="stylesheet" type="text/css" href="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/stylesheets/cookieconsent/cookieconsent.css"/>
+<script type="text/javascript" src="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/javascript/cookieconsent/od_cookieconsent.js"></script>
+
+
+<script>
+// <![CDATA[
+
+var bannerPosition = ["top","bottom"];
+var titleTopNotification = "<!-- START: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) --><p>Questo sito&nbsp; utilizza i cookie per rendere migliore la tua esperienza di navigazione. Continuando la navigazione accetti l'utilizzo dei cookie secondo quanto descritto nell''<!-- START: including template: extension/od_standard_new/design/od_standard_new/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) --><a  href='http://www.comune.galliate.no.it/Informativa-Cookie'>Informativa</a><!-- STOP: including template: extension/od_standard_new/design/od_standard_new/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) --></p><!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->";
+var textButton = 'ACCETTO';
+bannerPosition = bannerPosition['0'];
+
+cc.initialise({
+	cookies: {
+		galliate_general: {
+			title: 'General',
+			description: 'Descrizione general cookies'
+		}
+	},
+	settings: {
+		consenttype: "explicit",
+		onlyshowbanneronce: true,
+		refreshOnConsent: true,
+		ignoreDoNotTrack: true,
+		disableallsites: true,
+		hideprivacysettingstab: true,
+		bannerPosition: bannerPosition
+	},
+	strings: {
+		customCookie: titleTopNotification,
+		allowCookies: textButton,
+		allowCookiesImplicit: textButton
+	}
+});
+
+jQuery(document).ready(function(){
+	if(jQuery('#cc-notification')){
+		jQuery('#cc-notification #cc-notification-wrapper h2').html( jQuery('#cc-notification #cc-notification-wrapper h2 span').html() );
+	}
+    jQuery(document).click(function(event){
+        var href = "";
+        if(event.target.tagName.toLowerCase()=="a" && event.target.attributes.href){
+            href = event.target.attributes.href.value.toLowerCase();
+        } else {
+        	if( jQuery(event.target).closest('a').size() > 0 ){
+        		href = jQuery(event.target).closest('a').attr('href').toLowerCase();
+        	} else if( jQuery(event.target).closest('#cc-notification').size() > 0 ) {
+        		href = jQuery(event.target).closest('#cc-notification').attr('id').toLowerCase();
+        	}
+        }
+        if(href.indexOf("web-privacy-policy")==-1 && href.indexOf("cookie-settings")==-1 && href.indexOf("cookie")==-1 && href.indexOf("cc-notification")==-1) {
+            jQuery.each(cc.cookies, function(key, value) {
+                if(!cc.cookies[key].asked)
+                {
+                    if(cc.settings.onlyshowbanneronce)
+                    {
+                        cc.setcookie('cc_'+key, 'yes', 365);
+                    }
+                    cc.execute(key);
+                }
+            });
+            jQuery('#cc-notification').slideUp(400,function(){jQuery(this).remove()});
+        }
+	});		
+});
+// ]]>
+</script>
+
+<!-- End Cookie Consent plugin -->
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/cookieconsent/cookieconsent.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/cookieconsent/cookieconsent.tpl) -->
+
+</head>
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+
+<!-- Complete page area: START -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8699729-1");
+_gat._anonymizeIp();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+
+
+<h1 class="nascosto">Sito Ufficiale del Comune di Galliate</h1>
+
+    <div class="accesskey"><a href="#inizio_contenuti" accesskey="1">Salta ai contenuti</a></div>
+
+
+
+    
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->	<div id="page" class="nosidemenu noextrainfo current_node_id_0  current_node_id_0">
+<div class="testatina">&nbsp;</div>
+
+				
+
+	
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/templates/page_toolbar_od.tpl (extension/od_standard_new/design/od_standard_new/templates/page_toolbar_od.tpl) -->
+  
+		
+					  
+		
+	
+	
+		  
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/templates/page_toolbar_od.tpl (extension/od_standard_new/design/od_standard_new/templates/page_toolbar_od.tpl) -->
+		
+
+  <!-- Header area: START -->
+    		<div id="logo_stampa">
+			<img alt="Sito Ufficiale del Comune di Galliate" src="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/header_print.gif"/>
+		</div>
+	  	<div class="clear">&nbsp;</div>
+  	<div id="header" class="float-break" >
+  		<div id="page-width1" style="" >
+  			<div>
+  				<div class="header_padding">
+										<div class="social">
+						<div class="testata_sx">
+	        				<div class="header_searchbox">
+	      						<form action="/content/search">
+									<div>
+																					<input id="searchtext01" class="searchtext" name="SearchText" type="text" value="" size="12" />
+											
+											
+											 
+												<input class="searchbutton" name="SearchButton" type="submit" value="Cerca" alt="Submit" />
+																														    									  	</div>
+								</form>
+							</div>
+						</div>
+						<div class="testata_dx">
+							
+<!-- START: including template: extension/od_unici/design/od_unici/templates/parts/odmenu.tpl (extension/od_unici/design/od_unici/templates/parts/odmenu.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/zone/globalzonelayout.tpl (design:zone/globalzonelayout.tpl) -->
+			    <div class="address-2b484644d2cca382187b10cc38af4dec-7c6c2769a7edd25736cd5d18cf85970c">
+			
+			
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl (extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl) -->
+
+										<div class="topmenu-design">
+	    <ul>
+															<li>
+				<div class="primo">
+																					<a  href="/Informativa-Cookie"><span>Informativa Cookie</span></a>
+				</div></li>
+																			<li>
+				<div class="medio">
+																					<a  href="/Contatti"><span>Contatti</span></a>
+				</div></li>
+																			<li>
+				<div class="ultimo">
+																					<a  href="/Newsletter2"><span>Newsletter</span></a>
+				</div></li>
+									</ul>
+		<div class="clear">&nbsp;</div>	
+	</div>
+	
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl (extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl) -->
+	    </div>
+		    		        <div class="block-separator"></div>
+	    		    <div class="address-2b484644d2cca382187b10cc38af4dec-10afc5ff8cdefde9d45fd43c472bea45">
+			
+			
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl) -->
+<!-- Blocco Banner: START -->
+		
+		<div class="banner">
+                          
+			<a href="https://www.facebook.com/pages/Comune-di-Galliate-profilo-ufficiale/224077214306271">
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                    <img src="/var/comune_galliate_restyle/storage/images/banner/facebook/125746-3-ita-IT/Facebook_banner_verticale.gif" width="8" height="17"  style="border-width: 0px;" alt="Facebook" title="Facebook" />
+            
+    
+    
+    
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+</a>
+                        		</div>
+	<!-- Blocco Banner: END -->
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl) -->
+	    </div>
+		    	
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/zone/globalzonelayout.tpl (design:zone/globalzonelayout.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+
+<!-- STOP: including template: extension/od_unici/design/od_unici/templates/parts/odmenu.tpl (extension/od_unici/design/od_unici/templates/parts/odmenu.tpl) -->
+						</div>
+					</div>
+											<div class="header_topmenu">
+							
+<!-- START: including template: extension/od_unici/design/od_unici/templates/parts/odmenu.tpl (extension/od_unici/design/od_unici/templates/parts/odmenu.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/zone/globalzonelayout.tpl (design:zone/globalzonelayout.tpl) -->
+			    <div class="address-2b484644d2cca382187b10cc38af4dec-7c6c2769a7edd25736cd5d18cf85970c">
+			
+			
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl (extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl) -->
+
+										<div class="topmenu-design">
+	    <ul>
+															<li>
+				<div class="primo">
+																					<a  href="/Informativa-Cookie"><span>Informativa Cookie</span></a>
+				</div></li>
+																			<li>
+				<div class="medio">
+																					<a  href="/Contatti"><span>Contatti</span></a>
+				</div></li>
+																			<li>
+				<div class="ultimo">
+																					<a  href="/Newsletter2"><span>Newsletter</span></a>
+				</div></li>
+									</ul>
+		<div class="clear">&nbsp;</div>	
+	</div>
+	
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl (extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl) -->
+	    </div>
+		    		        <div class="block-separator"></div>
+	    		    <div class="address-2b484644d2cca382187b10cc38af4dec-10afc5ff8cdefde9d45fd43c472bea45">
+			
+			
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl) -->
+<!-- Blocco Banner: START -->
+		
+		<div class="banner">
+                          
+			<a href="https://www.facebook.com/pages/Comune-di-Galliate-profilo-ufficiale/224077214306271">
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                    <img src="/var/comune_galliate_restyle/storage/images/banner/facebook/125746-3-ita-IT/Facebook_banner_verticale.gif" width="8" height="17"  style="border-width: 0px;" alt="Facebook" title="Facebook" />
+            
+    
+    
+    
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+</a>
+                        		</div>
+	<!-- Blocco Banner: END -->
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/override/templates/block/block_banner.tpl) -->
+	    </div>
+		    	
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/zone/globalzonelayout.tpl (design:zone/globalzonelayout.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+
+<!-- STOP: including template: extension/od_unici/design/od_unici/templates/parts/odmenu.tpl (extension/od_unici/design/od_unici/templates/parts/odmenu.tpl) -->
+						</div>
+										<div class="clear">&nbsp;</div>
+											<div class="ancoraggio" style="background-color:#FFFFFF;">
+							<div class="logo-galliate"><a href="/">
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                    <img src="/var/comune_galliate_restyle/storage/images/gestione-del-sito/125761-31-ita-IT/Gestione-del-sito_large.png" width="234" height="96"  style="border-width: 0px;" alt="Comune di Galliate" title="Comune di Galliate" />
+            
+    
+    
+    
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+</a></div>
+					        <div id="lista-servizi">
+					        	
+<!-- START: including template: extension/od_unici/design/od_unici/templates/parts/odmenu.tpl (extension/od_unici/design/od_unici/templates/parts/odmenu.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/zone/globalzonelayout.tpl (design:zone/globalzonelayout.tpl) -->
+			    <div class="address-363e0e7f9d9547cc04d5e6586c87312d-12dff85cf1127c1a8fb4f2d97e486276">
+			
+			
+<!-- START: including template: extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl (extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl) -->
+
+										<div class="topmenu-design">
+	    <ul>
+															<li>
+				<div class="primo">
+																					<a  href="/Il-Comune"><span>Il Comune</span></a>
+				</div></li>
+																			<li>
+				<div class="medio">
+																					<a  href="/Servizi-on-line"><span>Servizi on line</span></a>
+				</div></li>
+																			<li>
+				<div class="ultimo">
+																					<a  href="/Aree-Tematiche"><span>Aree Tematiche</span></a>
+				</div></li>
+									</ul>
+		<div class="clear">&nbsp;</div>	
+	</div>
+	
+<!-- STOP: including template: extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl (extension/od_standard_new/design/od_standard_new/override/templates/block/lista_item_orizzontale_1liv.tpl) -->
+	    </div>
+		    	
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/zone/globalzonelayout.tpl (design:zone/globalzonelayout.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+
+<!-- STOP: including template: extension/od_unici/design/od_unici/templates/parts/odmenu.tpl (extension/od_unici/design/od_unici/templates/parts/odmenu.tpl) -->
+							</div>
+						</div>
+									</div>
+    		</div>
+		</div>
+  	</div><!-- Header area: END -->
+
+	<div id="wrapper1">
+  	<div id="wrapper2">
+					
+		<!-- Briciole di pane Main area content: START -->
+		
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/path.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/path.tpl) -->
+<!-- Path content: START -->
+<div class="briciole">
+	<div class="border-box">
+	
+		<div class="border-content">
+		<span class="sei-in">Sei in:&nbsp;</span>
+														
+					                                            <span class="ultima-briciola">
+						Errore</span>
+																		<span class="path-separator">// </span>											
+					                                            <span class="ultima-briciola">
+						kernel (1)</span>
+																				</div>
+
+	</div> 
+</div>
+
+<div class="social-box">
+	<div class="box-condividi">
+		<span>Condividi</span>&nbsp;&nbsp;
+			<a href="http://www.facebook.com/sharer.php?u=http://www.comune.galliate.no.it/content/download/16455/194784/file/AVCP_L190_2015_1.xml&amp;t="><img src="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/facebookG.png" alt="Condividi su Facebook"></a>
+			<a href="https://twitter.com/share?url=http://www.comune.galliate.no.it/content/download/16455/194784/file/AVCP_L190_2015_1.xml"><img src="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/twitterG.png" alt="Condividi su Twitter"></a>
+			<a href="https://plusone.google.com/_/+1/confirm?hl=it&url=http://www.comune.galliate.no.it/content/download/16455/194784/file/AVCP_L190_2015_1.xml&amp;t="><img src="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/googleG.png" alt="Condividi su Google +"></a>
+			<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.comune.galliate.no.it/content/download/16455/194784/file/AVCP_L190_2015_1.xml&amp;title="><img src="/extension/ext_comune_galliate_restyle/design/des_comune_galliate/images/linkedinG.png" alt="Condividi su Linkedin"></a>
+		</div>
+</div>
+<!-- Path content: END -->
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/path.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/parts/path.tpl) -->
+		<!-- Main area content: END -->
+	
+	
+	  	<!-- Columns area: START -->
+		<div id="page-width6">
+			<div id="columns" class="float-break">
+				<!-- Side menu area: START -->
+				
+				
+								<!-- Side menu area: END -->
+	
+				<!-- Main area: START -->
+				<div id="main-position"class="extended" style="width:950px;">					
+					<a id="inizio_contenuti"></a>
+					
+	  				<div id="main" class="float-break">
+						<div class="overflow-fix">
+	  						<!-- Main area content: START -->
+	  	 					
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/error/kernel/1.tpl (design:error/kernel/1.tpl) -->
+
+<div class="warning">
+<h2>Accesso negato</h2>
+<p>Questa sezione del sito è ad accesso riservato, effettua la login per accedere.</p>
+<p>I motivi possibili di questo sono :</p>
+<ul>
+        <li>Al momento non sei loggato nel sito, per ottenere l'accesso crea un nuovo utente o effettua il login con un utente esistente.</li>
+        <li>Hai scritto male alcune parti della tua URL, prova a cambiarla.</li>
+</ul></div>
+
+    
+    
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/user/login.tpl (design:user/login.tpl) -->
+<div class="content-view-full box_colorato">
+<div class="border-box">
+	    <div class="attribute-header">
+	    	<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
+			<div class="border-ml"><div class="border-mr"><div class="border-mc">
+				<div class="border-content">
+	    	        <h1>Login</h1>
+				</div>
+			</div></div></div>
+		</div>
+		<div class="border-ml"><div class="border-mr"><div class="border-mc">
+			<div class="border-content">
+
+<div class="user-login">
+
+<form method="post" action="/user/login" name="loginform">
+
+<div class="block">
+<label for="id1">Nome utente</label><div class="labelbreak"></div>
+<input class="halfbox" type="text" size="10" name="Login" id="id1" value="" tabindex="1" />
+</div>
+
+<div class="block">
+<label for="id2">Password</label><div class="labelbreak"></div>
+<input class="halfbox" type="password" size="10" name="Password" id="id2" value="" tabindex="1" />
+</div>
+<div class="buttonblock">
+<input class="defaultbutton" type="submit" name="LoginButton" value="Login" tabindex="1" />
+
+</div>
+
+<input type="hidden" name="RedirectURI" value="content/download/16455/194784/file/AVCP_L190_2015_1.xml" />
+
+</form>
+</div>
+
+     </div>
+	</div></div></div>
+	<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
+  </div> 
+</div>
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/user/login.tpl (design:user/login.tpl) -->
+
+    
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/error/kernel/1.tpl (design:error/kernel/1.tpl) -->
+
+	  						<!-- Main area content: END -->
+						</div>
+	  				</div>
+				</div>
+				<!-- Main area: END -->
+	
+	
+		
+		<!-- Extra area: START -->
+				<!-- Extra area: END -->
+	
+	  </div>
+	</div>
+	  <!-- Columns area: END -->
+	
+	  	  
+	  
+	<div class="footer float-break">
+		<div id="page-width7">
+	         				
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last_mini.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last_mini.tpl) -->
+<div class="mini-bordo">&nbsp;</div>
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last_mini.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last_mini.tpl) -->
+		 							
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer.tpl) -->
+<!-- Footer area: START -->
+<div class="footer_text">
+	<div class="border-box">
+		<div class="border-content">
+		    
+            <div class="prima-colonna">
+            		
+                    
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a id="eztoc126891_0_1"></a><h3>Citta' di Galliate</h3>
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Codice Fiscale e P.IVA 00184500031<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Piazza Martiri della Libertà, 28 28066 - Galliate (NO)<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Telefono: 0321.800.700 <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Numero Verde Gratuito: 800.502.709 <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+PEC: comunegalliate@legalmail.it</p>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>comune@comune.galliate.no.it</p>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Codice Univoco Ufficio per Fatture P.A.:&nbsp;UFLRNE</p>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Codice IBAN: IT86 W 05034 45400 000000089010</p>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Gestione redazionale <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Settore Demografico<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Dott.ssa Silvia Dalla Piazza</p>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                                <!-- se ci troviamo nella home attiviamo il facebook button -->
+              						<div class="facebook-button">
+													<div class="facebook-content">
+								<a href="https://www.facebook.com/pages/Comune-di-Galliate-profilo-ufficiale/224077214306271">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+
+Seguici su facebook
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+</a>
+                            </div>
+                                            </div>
+            
+                <!-- fine -->
+                            
+	            <!-- nelle altre pagine attiviamo il segui galliate -->
+		
+				<!-- fine -->
+            </div>
+                            
+            <div class="separatore-footer">&nbsp;</div>
+          <div class="seconda-colonna">
+		
+									
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a id="eztoc126894_0_0_1"></a><h4>Il Comune</h4>
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                				<div style="margin-top:15px;">
+															
+            
+                																		<p><a href="/Il-Comune/Sindaco-e-Giunta"> Sindaco e Giunta </a></p>
+						                																		<p><a href="/Il-Comune/Tabella"> Tabella</a></p>
+						                																		<p><a href="/Il-Comune/Consiglio-Comunale"> Consiglio Comunale</a></p>
+						                																		<p><a href="/Il-Comune/Ordini-del-giorno-del-Consiglio-Comunale"> Ordini del giorno del Consiglio Comunale</a></p>
+						                																		<p><a href="/Il-Comune/Orario-di-apertura-al-pubblico-degli-Uffici-Comunali-e-riferimenti-telefonici"> Orario di apertura al pubblico degli Uffici Comunali e riferimenti telefonici</a></p>
+						                								<p><a href="http://webgalliate.comune.galliate.no.it/hypersicportal/servizi.aspx?CATEGORIA_ID=1&EVENTO_ID=1&SOTTOEVENTO_ID=4">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+
+Delibere
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+</a></p>
+					                																		<p><a href="/Il-Comune/Bilancio-preventivo-e-consuntivo"> Bilancio preventivo e consuntivo</a></p>
+						                																		<p><a href="/Il-Comune/Albo-Pretorio"> Albo Pretorio</a></p>
+						                																		<p><a href="/Il-Comune/Statuto-e-regolamenti"> Statuto e regolamenti</a></p>
+						                																		<p><a href="/Il-Comune/Bandi-di-gara"> Bandi di gara</a></p>
+						                																		<p><a href="/Il-Comune/Concorsi"> Concorsi</a></p>
+						                																		<p><a href="/Il-Comune/URP-Ufficio-Relazioni-con-il-Pubblico"> URP - Ufficio Relazioni con il Pubblico</a></p>
+						                																		<p><a href="/Il-Comune/PRGC-2008"> PRGC 2008</a></p>
+						                																		<p><a href="/Il-Comune/Elezioni"> Elezioni</a></p>
+						                								<p><a href="http://www.comune.galliate.no.it/Amministrazione-trasparente">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+
+Amministrazione Trasparente
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+</a></p>
+					                				</div>
+           </div>
+			<div class="terza-colonna">
+            						
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a id="eztoc126897_0_0_1"></a><h4>Servizi Online</h4>
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                				<div style="margin-top:15px;">
+															
+            
+                																		<p><a href="/Servizi-on-line/Free-Piemonte-Wi-Fi"> Free Piemonte Wi-Fi</a></p>
+						                																		<p><a href="/Servizi-on-line/IUC-Imposta-Unica-Comunale2"> IUC - Imposta Unica Comunale</a></p>
+						                																		<p><a href="/Servizi-on-line/Sportello-virtuale-del-cittadino"> Sportello virtuale del cittadino</a></p>
+						                																		<p><a href="/Servizi-on-line/Filo-Diretto"> Filo Diretto</a></p>
+						                																		<p><a href="/Servizi-on-line/Sportello-Unico-per-l-Edilizia"> Sportello Unico per l'Edilizia</a></p>
+						                																		<p><a href="/Servizi-on-line/Sportello-Unico-Attivita-Produttive"> Sportello Unico Attività Produttive</a></p>
+						                																		<p><a href="/Servizi-on-line/Mensa-scolastica"> Mensa scolastica</a></p>
+						                																		<p><a href="/Servizi-on-line/Autocertificazione-e-dichiarazioni-sostitutive"> Autocertificazione e dichiarazioni sostitutive</a></p>
+						                																		<p><a href="/Servizi-on-line/Pagamenti-on-line"> Pagamenti on line</a></p>
+						                								<p><a href="http://webgalliate.comune.galliate.no.it/hypersicportal/servizi.aspx?CATEGORIA_ID=1&EVENTO_ID=1&SOTTOEVENTO_ID=4">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+
+Delibere
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+</a></p>
+					                								<p><a href="http://www.comune.galliate.no.it/Il-Comune/Piano-Regolatore-Generale">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+
+Piano Regolatore Generale
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+</a></p>
+					                				</div>
+			</div>
+            <div class="quarta-colonna">
+	        						
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a id="eztoc126900_0_0_1"></a><h4>Aree Tematiche</h4>
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+								<div style="margin-top:15px;">
+															
+            
+                																<p><a href="/Aree-Tematiche/Asilo-Nido-Scuola-e-diritto-allo-studio"> Asilo Nido, Scuola e diritto allo studio</a></p>
+						                																<p><a href="/Aree-Tematiche/Servizi-alla-persona"> Servizi alla persona</a></p>
+						                																<p><a href="/Aree-Tematiche/Cultura"> Cultura</a></p>
+						                																<p><a href="/Aree-Tematiche/Lavoro-e-Imprese"> Lavoro e Imprese</a></p>
+						                																<p><a href="/Aree-Tematiche/Sanita"> Sanità</a></p>
+						                																<p><a href="/Aree-Tematiche/Ambiente"> Ambiente</a></p>
+						                																<p><a href="/Aree-Tematiche/Tempo-libero"> Tempo libero</a></p>
+						                																<p><a href="/Aree-Tematiche/Turismo"> Turismo</a></p>
+						                						<p><a href="http://www.comune.galliate.no.it/Servizi-on-line/IUC-Imposta-Unica-Comunale2">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+
+Tributi e Tasse 2017
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+</a></p>
+					                																<p><a href="/Aree-Tematiche/Sicurezza-trasporti-e-viabilita"> Sicurezza, trasporti e viabilità</a></p>
+						                				</div>			</div>
+		</div>
+	</div>   
+</div>
+<!-- Footer area: END -->
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer.tpl) -->
+		</div>
+	</div>
+	<div class="clear">&nbsp;</div>
+ 	
+	
+<!-- START: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last.tpl) -->
+
+<div class="testatina-footer">                
+                            <div class="testi-finali">
+	 			 		<a class="credits_link" rel="http:________www.comune.galliate.no.it____layout____set____creditsLayout____content____view____credits____8412" href="/Credits">Credits</a> - 
+	 			 		<a href="/Accessibilita">Accessibilità</a> -
+	 			 		<a href="/Link">Link</a> -
+	 			 		<a href="/Feed-Rss">Feed Rss</a> -
+	 			 		<a href="/Privacy">Privacy</a> -
+	 			 		<a href="/Note-Legali">Note Legali</a>
+	
+		</div>
+                        </div>        
+                
+<!-- STOP: including template: extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last.tpl (extension/ext_comune_galliate_restyle/design/des_comune_galliate/templates/page_footer_last.tpl) -->
+	
+	</div>
+	</div>
+</div>
+<!-- Complete page area: END -->
+
+<div class="break">&nbsp;</div>
+
+</body>
+</html>
+
+
+
+
+
+

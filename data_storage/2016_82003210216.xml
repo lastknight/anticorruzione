@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2015</titolo>
+   <abstract>Indice pubblicazione ente Plaus</abstract>
+   <dataPubblicazioneIndice>2016-01-27</dataPubblicazioneIndice>
+   <entePubblicatore>Plaus</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2016-01-27</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2015</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21064/21064indiceannorif2015.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_0C3B729A-E6E7-4D28-AD75-A7A09E362870'>
+      <linkDataset>http://data.gvcc.net/avcp/21064/0C3B729A-E6E7-4D28-AD75-A7A09E362870.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_3DA8A5B0-3A31-4DC2-8B4B-E77860F805FA'>
+      <linkDataset>http://data.gvcc.net/avcp/21064/3DA8A5B0-3A31-4DC2-8B4B-E77860F805FA.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_F27C99BD-57E5-494A-B339-798EA25DE7C6'>
+      <linkDataset>http://data.gvcc.net/avcp/21064/F27C99BD-57E5-494A-B339-798EA25DE7C6.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-27</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

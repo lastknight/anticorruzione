@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  <metadata>
+    <titolo><![CDATA[Pubblicazione legge 190]]></titolo>
+    <abstract><![CDATA[ ]]></abstract>
+    <dataPubblicazioneIndice>2017-01-30</dataPubblicazioneIndice>
+    <entePubblicatore><![CDATA[Azienda Ospedaliera Universitaria Federico II]]></entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-30</dataUltimoAggiornamentoIndice>
+    <annoRiferimento><![CDATA[2016]]></annoRiferimento>
+    <urlFile><![CDATA[http://www.policlinico.unina.it/archivio_documenti/trasparenza/affidamenti2016.xml]]></urlFile>
+    <licenza><![CDATA[IODL]]></licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1" >
+      <linkDataset>http://www.policlinico.unina.it/archivio_documenti/trasparenza/affidamenti2016_f927e81b-1c6d-4879-aef2-c014f0dbca85_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2" >
+      <linkDataset>http://www.policlinico.unina.it/archivio_documenti/trasparenza/affidamenti2016_f927e81b-1c6d-4879-aef2-c014f0dbca85_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-30</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<leg:pubblicazione xmlns:leg="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 2015</titolo>
+    <abstract>Pubblicazione relativa all'anno 2015</abstract>
+    <dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+    <entePubblicatore>AER TRE S.p.A.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.trevisoairport.it/upload/files/trasparenza/trevisoairport/datasetAERTRE2015.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>53575684F9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01899350266</codiceFiscaleProp>
+        <denominazione>AER.TRE SPA - AEROPORTO DI TREVISO</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di gestione e manutenzione impianti AVL aeroporto TV ( importo presunto durata triennale)</oggetto>
+      <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01402610230</codiceFiscale>
+          <ragioneSociale>CP SRL DI CUBI LUCA E PERINA GIANCARLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01402610230</codiceFiscale>
+          <ragioneSociale>CP SRL DI CUBI LUCA E PERINA GIANCARLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1340000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-12-05</dataInizio>
+        <dataUltimazione>2016-12-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>911199.82</importoSommeLiquidate>
+    </lotto>
+  </data>
+</leg:pubblicazione>

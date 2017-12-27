@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="app/xml/datasetIndiceAppaltiL190.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Pubblicazione indice 2016 - Legge 190/2012</titolo>
+		<abstract> Pubblicazione indice 2016 - Legge 190/2012 - aggiornamento del 2017-02-06 16:36:33</abstract>
+		<dataPubblicazioneIndice>2017-01-31</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Cervignano del Friuli</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-06</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile><![CDATA[http://www.cervignanodelfriuli.net/uploaded_files/attachments/201601261453809030/indice_030023_avcp_dataset_2016.xml]]></urlFile> 
+	        <licenza>IODL 2.0</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset><![CDATA[http://www.cervignanodelfriuli.net/uploaded_files/attachments/201702061486396880/030023_avcp_dataset_2012.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_2'>
+			<linkDataset><![CDATA[http://www.cervignanodelfriuli.net/uploaded_files/attachments/201601261453809030/030023_avcp_dataset_2013.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_3'>
+			<linkDataset><![CDATA[http://www.cervignanodelfriuli.net/uploaded_files/attachments/201601261453809030/030023_avcp_dataset_2014.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_4'>
+			<linkDataset><![CDATA[http://www.cervignanodelfriuli.net/uploaded_files/attachments/201601261453809031/030023_avcp_dataset_2015.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+		</dataset>
+		<dataset id='ID_5'>
+			<linkDataset><![CDATA[http://www.cervignanodelfriuli.net/uploaded_files/attachments/201702061486396851/030023_avcp_dataset_2016.xml]]></linkDataset>
+			<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+		</dataset>
+	</indice>
+</indici>

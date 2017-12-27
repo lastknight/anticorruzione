@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione legge 190 unife</titolo>
+    <abstract>Indice pubblicazione legge 190 del 28012016</abstract>
+    <dataPubblicazioneIndice>2016-01-26</dataPubblicazioneIndice>
+    <entePubblicatore>Universita degli Studi di Ferrara</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.unife.it/at/bandi-di-gara-e-contratti/singole-procedure/2015/Indice_Anticorruzione_2015.xml</urlFile>
+    <licenza>GGAP</licenza>
+  </metadata>
+  <indice>
+    <dataset id="Anticorruzione_2015_1">
+      <linkDataset>http://www.unife.it/at/bandi-di-gara-e-contratti/singole-procedure/2015/Anticorruzione_2015_1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28+01:00</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="Anticorruzione_2015_2">
+      <linkDataset>http://www.unife.it/at/bandi-di-gara-e-contratti/singole-procedure/2015/Anticorruzione_2015_2.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-28+01:00</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

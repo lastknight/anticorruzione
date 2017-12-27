@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+		<titolo>Indice pubblicazione</titolo>
+		<abstract>Pubblicazione del 2017-01-29 22:48:18</abstract>
+		<dataPubblicazioneIndice>2017-01-29</dataPubblicazioneIndice>
+		<entePubblicatore>Comune di Castelletto Merli</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-01-29</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comune.castellettomerli.al.it/l190/l190.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<indice>
+		<dataset id='ID_1'>
+			<linkDataset>http://www.comune.castellettomerli.al.it/l190/2012.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-29</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_2'>
+			<linkDataset>http://www.comune.castellettomerli.al.it/l190/2013.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-29</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_3'>
+			<linkDataset>http://www.comune.castellettomerli.al.it/l190/2014.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-29</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_4'>
+			<linkDataset>http://www.comune.castellettomerli.al.it/l190/2015.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-29</dataUltimoAggiornamento>
+		</dataset>		<dataset id='ID_5'>
+			<linkDataset>http://www.comune.castellettomerli.al.it/l190/2016.xml</linkDataset>
+			<dataUltimoAggiornamento>2017-01-29</dataUltimoAggiornamento>
+		</dataset>
+</indice>
+</indici>

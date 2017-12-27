@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<titolo>Indice pubblicazione n. 1</titolo>
+<abstract>Pubblicazione relativa all anno 2015</abstract>
+<dataPubblicazioneIndice>2016-01-28</dataPubblicazioneIndice>
+<entePubblicatore>Azienda Servizi Municipalizzati di Merano S.p.A.</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2016-01-28</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2015</annoRiferimento>
+<urlFile>http://www.swmeran.it/documents/23541/1073477/indice_affidamenti_2015.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id="ID_1">
+<linkDataset>http://www.swmeran.it/documents/23541/1073477/ASMM_appalti_sup_40000_2015.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id="ID_2">
+<linkDataset>http://www.swmeran.it/documents/23541/1073477/ASMM_appalti_inf_40000_2015.xml</linkDataset>
+<dataUltimoAggiornamento>2016-01-28</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>
+
+

@@ -1,0 +1,1148 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>FILE XML PER L'ENTE FARMACIA DI COPRENO SRL 2016</titolo>
+    <abstract>FILE XML PER L'ENTE FARMACIA DI COPRENO SRL 2016</abstract>
+    <dataPubbicazioneDataset>2017-02-17</dataPubbicazioneDataset>
+    <entePubblicatore>Farmacia di Copreno srl</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-02-17</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.farmaciacopreno.com/xml/ANAC_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>6648238B8B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI FARMACI, PARAFARMACI E SERVIZI CONNESSI ALLE AZIENDE FARMACEUTICHE E FARMACIE COMUNALI ASSOCIATE A CONFSERVIZI CISPEL LOMBARDIA</oggetto>
+      <sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>00432760585</codiceFiscale>
+            <ragioneSociale>ALLIANCE HEALTHCARE ITALIA DISTRIBUZIONE SPA</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00272680174</codiceFiscale>
+            <ragioneSociale>CEF SCRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00165110248</codiceFiscale>
+            <ragioneSociale>COMIFAR DISTRIBUZIONE SPA</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00208600163</codiceFiscale>
+            <ragioneSociale>CTF GROUP SCRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>00210470126</codiceFiscale>
+            <ragioneSociale>LA FARMACEUTICA SPA</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02217430343</codiceFiscale>
+            <ragioneSociale>UNICO LA FARMACIA DEI FARMACISTI SPA</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02290110044</codiceFiscale>
+            <ragioneSociale>UNIFARMA DISTRIBUZIONE SPA</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>00432760585</codiceFiscale>
+            <ragioneSociale>ALLIANCE HEALTHCARE ITALIA DISTRIBUZIONE SPA</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00272680174</codiceFiscale>
+            <ragioneSociale>CEF SCRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00165110248</codiceFiscale>
+            <ragioneSociale>COMIFAR DISTRIBUZIONE SPA</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00208600163</codiceFiscale>
+            <ragioneSociale>CTF GROUP SCRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>1200000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2017-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>757161.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X641865BD1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI GENERICI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11845960159</codiceFiscale>
+          <ragioneSociale>DOC GENERICI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11845960159</codiceFiscale>
+          <ragioneSociale>DOC GENERICI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12417.85</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X3C1865BD2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03907010585</codiceFiscale>
+          <ragioneSociale>ACRAF ANGELINI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03907010585</codiceFiscale>
+          <ragioneSociale>ACRAF ANGELINI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2017-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11773.95</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X141865BD3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00770020964</codiceFiscale>
+          <ragioneSociale>SAFETY SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00770020964</codiceFiscale>
+          <ragioneSociale>SAFETY SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5768.71</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XE71865BD4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02344710484</codiceFiscale>
+          <ragioneSociale>CODIFI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02344710484</codiceFiscale>
+          <ragioneSociale>CODIFI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5384.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XBF1865BD5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZI MANUTENZIONE HARDWARE E CONTABILITÀ</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02865720961</codiceFiscale>
+          <ragioneSociale>DEVCON SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02865720961</codiceFiscale>
+          <ragioneSociale>DEVCON SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1670.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X971865BD6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12305380151</codiceFiscale>
+          <ragioneSociale>MONTEFARMACO OTC SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12305380151</codiceFiscale>
+          <ragioneSociale>MONTEFARMACO OTC SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6696.48</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X6F1865BD7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02272660180</codiceFiscale>
+          <ragioneSociale>ARBI GROUP SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02272660180</codiceFiscale>
+          <ragioneSociale>ARBI GROUP SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2548.59</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X471865BD8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI E PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00055560775</codiceFiscale>
+          <ragioneSociale>VIM</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00055560775</codiceFiscale>
+          <ragioneSociale>VIM</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>36937.24</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X1F1865BD9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04281370876</codiceFiscale>
+          <ragioneSociale>MEDIPLANT</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04281370876</codiceFiscale>
+          <ragioneSociale>MEDIPLANT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2614.46</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XF21865BDA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00867200156</codiceFiscale>
+          <ragioneSociale>GLAXOSMITHKLINE C. HEALTH SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00867200156</codiceFiscale>
+          <ragioneSociale>GLAXOSMITHKLINE C. HEALTH SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3631.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XCA1865BDB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00825120157</codiceFiscale>
+          <ragioneSociale>BRACCO SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00825120157</codiceFiscale>
+          <ragioneSociale>BRACCO SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3806.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XA21865BDC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI E FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00846530152</codiceFiscale>
+          <ragioneSociale>MEDAFARMA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00846530152</codiceFiscale>
+          <ragioneSociale>MEDAFARMA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8020.72</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X7A1865BDD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00421210485</codiceFiscale>
+          <ragioneSociale>BOEHRINGER INGELHEIM IT SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00421210485</codiceFiscale>
+          <ragioneSociale>BOEHRINGER INGELHEIM IT SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5565.28</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X521865BDE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA SERVIZI AMMINISTRATIVI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02361930965</codiceFiscale>
+          <ragioneSociale>EDALM SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02361930965</codiceFiscale>
+          <ragioneSociale>EDALM SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9528.58</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X2A1865BDF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZI DI PULIZIA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03039130962</codiceFiscale>
+          <ragioneSociale>MULTISERVICE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03039130962</codiceFiscale>
+          <ragioneSociale>MULTISERVICE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5188.42</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X021865BE0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI E PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03428610152</codiceFiscale>
+          <ragioneSociale>SOFAR SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03428610152</codiceFiscale>
+          <ragioneSociale>SOFAR SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4673.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XD51865BE1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01513360345</codiceFiscale>
+          <ragioneSociale>CHIESI FARMACEUTICI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01513360345</codiceFiscale>
+          <ragioneSociale>CHIESI FARMACEUTICI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3258.95</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XAD1865BE2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00832400154</codiceFiscale>
+          <ragioneSociale>SANOFY AVENTIS SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00832400154</codiceFiscale>
+          <ragioneSociale>SANOFY AVENTIS SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1311.14</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X851865BE3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00748210150</codiceFiscale>
+          <ragioneSociale>RECORDATI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00748210150</codiceFiscale>
+          <ragioneSociale>RECORDATI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3123.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X5D1865BE4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00133919993</codiceFiscale>
+          <ragioneSociale>BEIERSDORF SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00133919993</codiceFiscale>
+          <ragioneSociale>BEIERSDORF SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3443.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X351865BE5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00752450155</codiceFiscale>
+          <ragioneSociale>GIULIANI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00752450155</codiceFiscale>
+          <ragioneSociale>GIULIANI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2017-02-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6059.34</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X0D1865BE6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11654150157</codiceFiscale>
+          <ragioneSociale>TEVA ITALIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11654150157</codiceFiscale>
+          <ragioneSociale>TEVA ITALIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4265.08</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XE01865BE7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZI CONSULENZA SICUREZZA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11157810158</codiceFiscale>
+          <ragioneSociale>FRAREG</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11157810158</codiceFiscale>
+          <ragioneSociale>FRAREG</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>604.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XB81865BE8</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FARMACI OMEOPATICI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01419710338</codiceFiscale>
+          <ragioneSociale>PHARMA EXTRACTA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01419710338</codiceFiscale>
+          <ragioneSociale>PHARMA EXTRACTA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>775.01</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X681865BEA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00556960375</codiceFiscale>
+          <ragioneSociale>ALFA WASSERMAN SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00556960375</codiceFiscale>
+          <ragioneSociale>ALFA WASSERMAN SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4514.07</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X401865BEB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01615491204</codiceFiscale>
+          <ragioneSociale>EFAS SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01615491204</codiceFiscale>
+          <ragioneSociale>EFAS SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1723.48</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X181865BEC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00885180158</codiceFiscale>
+          <ragioneSociale>ISTITUTO GANASSINI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00885180158</codiceFiscale>
+          <ragioneSociale>ISTITUTO GANASSINI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7111.31</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XEB1865BED</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE ELETTRICA MECCANICA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02364960134</codiceFiscale>
+          <ragioneSociale>TERRANEO IMPIANTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02364960134</codiceFiscale>
+          <ragioneSociale>TERRANEO IMPIANTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3650.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X9B1865BEF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01538130152</codiceFiscale>
+          <ragioneSociale>PIERRE FABRE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01538130152</codiceFiscale>
+          <ragioneSociale>PIERRE FABRE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6684.98</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X731865BF0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01323580116</codiceFiscale>
+          <ragioneSociale>PLATINUM PHARMA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01323580116</codiceFiscale>
+          <ragioneSociale>PLATINUM PHARMA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>872.52</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X4B1865BF1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02383670151</codiceFiscale>
+          <ragioneSociale>DLF</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02383670151</codiceFiscale>
+          <ragioneSociale>DLF</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3837.47</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X231865BF2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI E FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02489250130</codiceFiscale>
+          <ragioneSociale>MARCO VITI FARMACEUTICI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02489250130</codiceFiscale>
+          <ragioneSociale>MARCO VITI FARMACEUTICI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1869.96</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>XF61865BF3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI E FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00204260285</codiceFiscale>
+          <ragioneSociale>FIDIA FARMACEUTICI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00204260285</codiceFiscale>
+          <ragioneSociale>FIDIA FARMACEUTICI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1888.34</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>X271A68DDD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04292300375</codiceFiscale>
+          <ragioneSociale>HEALTH AND FASHION SHOES SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04292300375</codiceFiscale>
+          <ragioneSociale>HEALTH AND FASHION SHOES SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7708.69</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBE1A68E5D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00747170157</codiceFiscale>
+          <ragioneSociale>ROCHE DIABETES CARE SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00747170157</codiceFiscale>
+          <ragioneSociale>ROCHE DIABETES CARE SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z231A68EBF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00791570153</codiceFiscale>
+          <ragioneSociale>DOMPÈ FARMACEUTICI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00791570153</codiceFiscale>
+          <ragioneSociale>DOMPÈ FARMACEUTICI SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8874.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z951B08838</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08315840960</codiceFiscale>
+          <ragioneSociale>DESA PHARMA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08315840960</codiceFiscale>
+          <ragioneSociale>DESA PHARMA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>761.37</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB61B0884A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA FARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02652831203</codiceFiscale>
+          <ragioneSociale>PENSA PHARMA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02652831203</codiceFiscale>
+          <ragioneSociale>PENSA PHARMA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>250.57</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z541B08859</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>02687600961</codiceFiscaleProp>
+        <denominazione>Farmacia di Copreno srl</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA PARAFARMACI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00747170157</codiceFiscale>
+          <ragioneSociale>ROCHE DIAGNOSTICS SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00747170157</codiceFiscale>
+          <ragioneSociale>ROCHE DIAGNOSTICS SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-01</dataInizio>
+        <dataUltimazione>2016-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3896.20</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

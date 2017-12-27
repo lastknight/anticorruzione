@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>AAM - 2016</titolo>
+    <abstract>AAM - ACEA AMBIENTE S.R.L. - 2016</abstract>
+    <dataPubbicazioneDataset>2017-01-24</dataPubbicazioneDataset>
+    <entePubblicatore>AAM - ACEA AMBIENTE S.R.L.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-01-24</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.aceapinerolese.it/wp-content/uploads/AAM_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>66623980C2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>10751240010</codiceFiscaleProp>
+        <denominazione>AAM - ACEA AMBIENTE S.R.L.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di trattamento finalizzato al recupero dei rifiuti ingombranti C.E.R. 20.03.07 provenienti dalla raccolta differenziata effettuata presso i centri di raccolta di Acea Ambiente S.r.l. e dal territorio pinerolese</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <identificativoFiscaleEstero>02224870010</identificativoFiscaleEstero>
+            <ragioneSociale>C.M.T. SPA</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <identificativoFiscaleEstero>09290690016</identificativoFiscaleEstero>
+            <ragioneSociale>ECOPIEMONTE SRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <identificativoFiscaleEstero>02224870010</identificativoFiscaleEstero>
+            <ragioneSociale>C.M.T. SPA</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <identificativoFiscaleEstero>09290690016</identificativoFiscaleEstero>
+            <ragioneSociale>ECOPIEMONTE SRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>371042.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-08-05</dataInizio>
+        <dataUltimazione>2017-05-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>118432.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>6662133611</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>10751240010</codiceFiscaleProp>
+        <denominazione>AAM - ACEA AMBIENTE S.R.L.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di raccolta e trasporto dei rifiuti urbani ingombranti C.E.R. 20.03.07 e lignei C.E.R. 20.01.38 provenienti da cassoni dedicati e dai centri di raccolta di Acea Ambiente S.r.l. nel territorio pinerolese</oggetto>
+      <sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02225490040</codiceFiscale>
+          <ragioneSociale>AMBIENTE SERVIZI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02225490040</codiceFiscale>
+          <ragioneSociale>AMBIENTE SERVIZI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>340685.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-08-05</dataInizio>
+        <dataUltimazione>2017-05-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>107745.20</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

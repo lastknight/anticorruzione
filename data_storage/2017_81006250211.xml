@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Pubblicazione relativa all'anno 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-06</dataPubblicazioneIndice>
+    <entePubblicatore>Circolo di scuola elementare in lingua tedesca Bressanone</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-24</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://schule-brixen.it/wp-content/uploads/2017/02/indice2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://schule-brixen.it/wp-content/uploads/2017/02/esiti_2016_20170119-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

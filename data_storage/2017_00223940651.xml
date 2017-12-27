@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+ <metadata>
+		<titolo>PUBBLICAZIONE LEGGE 190</titolo>
+		<abstract>Pubblicazione 4 legge 190 rif. 2016</abstract>
+		<dataPubblicazioneIndice>2017-01-12</dataPubblicazioneIndice>
+		<entePubblicatore>COMUNE DI PONTECAGNANO FAIANO</entePubblicatore>
+		<dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comune.pontecagnanofaiano.sa.it/indice190_16/indice4.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	
+<indice> 
+		          
+
+                  <dataset id="UFFICIO_DI_GABINETTO">
+								<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset1_16.xml</linkDataset>
+								<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+								</dataset>
+
+                  <dataset id="AMMINISTRAZIONE_GENERALE_-_RISORSE_UMANE">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset2_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-16</dataUltimoAggiornamento>
+								</dataset>
+
+
+
+
+                  <dataset id="SETTORE_FINANZIARIO_GESTIONE_ENTRATE">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset3_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-12</dataUltimoAggiornamento>
+								</dataset>
+
+
+
+
+                 <dataset id="SETTORE_LAVORI_PUBBLICI_E_MANUTENZIONE">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset4_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-24</dataUltimoAggiornamento>
+								</dataset>
+                                       
+                 <dataset id="URBANISTICA_SUE_SUAP">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset5_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+								</dataset>
+                                      
+                 <dataset id="SETTORE_SERVIZI_ALLA_PERSONA_-_SERVIZI_DEMOGRAFICI">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset6_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-02-17</dataUltimoAggiornamento>
+								</dataset>
+  
+                 <dataset id="SETTORE_PATRIMONIO_E_DEMANIO">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset8_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-13</dataUltimoAggiornamento>
+								</dataset>
+
+                 <dataset id="SERVIZIO_IGIENE_URBANA_E_TUTELA_AMBIENTALE">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset10_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-20</dataUltimoAggiornamento>
+								</dataset>
+
+                 <dataset id="SETTORE_CIMITERO">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset11_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-31</dataUltimoAggiornamento>
+								</dataset>
+
+             
+
+                 <dataset id="POLIZIA_MUNICIPALE">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset12_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-02-06</dataUltimoAggiornamento>
+								</dataset>
+
+
+
+                
+                 <dataset id="SERVIZIO_DI_STAFF_INFORMATICA_E_STATISTICA">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset13_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-01-23</dataUltimoAggiornamento>
+								</dataset>
+
+
+                 <dataset id="PIANO_DI_ZONA_AMBITO_S4_SERVIZI_SOCIALI">
+									<linkDataset>http://www.comune.pontecagnanofaiano.sa.it/legge190/2016/dataset14_16.xml</linkDataset>
+									<dataUltimoAggiornamento>2017-02-14</dataUltimoAggiornamento>
+								</dataset>
+
+</indice>
+</indici>

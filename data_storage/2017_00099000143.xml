@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd">
+    <metadata>
+        <titolo>Pubblicazione 1 Legge 190</titolo>
+        <abstract>Pubblicazione 1 Legge 190 anno 1 rif. 2012</abstract>
+        <dataPubblicazioneIndice>2017-01-19</dataPubblicazioneIndice>
+        <entePubblicatore>buzzi franzoso simone</entePubblicatore>
+        <dataUltimoAggiornamentoIndice>2017-01-19</dataUltimoAggiornamentoIndice>
+        <annoRiferimento>2016</annoRiferimento>
+        <urlFile>http://www.comune.mantello.so.it/c014039/images/ANAC/indice-2016.xml</urlFile>
+        <licenza>Italian Open Data Licenses (IODL v2)</licenza>
+    </metadata>
+    <indice>
+        <dataset id="ID_1">
+            <linkDataset>http://www.comune.mantello.so.it/c014039/images/ANAC/dataset-2016.xml</linkDataset>
+            <dataUltimoAggiornamento>2017-01-19</dataUltimoAggiornamento>
+        </dataset>
+    </indice>
+</indici>

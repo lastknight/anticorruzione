@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<indici xsi:noNamespaceSchemaLocation="http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+  <titolo>Indice pubblicazione dataset 2015</titolo> 
+  <abstract>Pubblicazione relativa all'anno 2016-01-29</abstract> 
+  <dataPubblicazioneIndice>2016-01-29</dataPubblicazioneIndice> 
+  <entePubblicatore>Regione del Veneto</entePubblicatore> 
+  <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice> 
+  <annoRiferimento>2015</annoRiferimento> 
+  <urlFile>http://www.regione.veneto.it/avcp/Regione_Veneto_L190_2015.xml</urlFile> 
+  <licenza>IODL</licenza> 
+  </metadata>
+<indice>
+<dataset id="ID_1">
+  <linkDataset>http://www.regione.veneto.it/avcp/Regione_Veneto_2015_ID_1.xml</linkDataset> 
+  <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento> 
+  </dataset>
+<dataset id="ID_2">
+  <linkDataset>http://www.regione.veneto.it/avcp/Regione_Veneto_2015_ID_2.xml</linkDataset> 
+  <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento> 
+  </dataset>
+  </indice>
+  </indici>

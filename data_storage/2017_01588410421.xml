@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione  xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190</abstract>
+    <dataPubbicazioneDataset>2017-02-20</dataPubbicazioneDataset>
+    <entePubblicatore>SVIM SVILUPPO MARCHE S.P.A.</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2017-02-21</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.svimspa.it/images/trasparenza/avcp_dataset_2016.xml</urlFile>
+    <licenza>IODL 2.0</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>5990944B60</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Aggiudicazione definitiva del servizio di realizzazione di attività tecniche connesse all’attuazione del Progetto EASYCONNECTING -  CBC IPA ADRIATICO 2007 -2013  CUP: B39D13003100007</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>03476550102</codiceFiscale>
+            <ragioneSociale>D&apos;APPOLONIA SPA</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>04062060589</codiceFiscale>
+            <ragioneSociale>IZI S.P.A.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>00937910503</codiceFiscale>
+            <ragioneSociale>TAGES Soc Coop.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>05765410484</codiceFiscale>
+            <ragioneSociale>Sistema Ingegneria Srl</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>04614770263</codiceFiscale>
+            <ragioneSociale>IDEA TOLOMEO SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>00524950268</codiceFiscale>
+            <ragioneSociale>Veneto Progetti S. C.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>04738740283</codiceFiscale>
+            <ragioneSociale>TAI SRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>01701070540</codiceFiscale>
+            <ragioneSociale>SINTAGMA SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02040930410</codiceFiscale>
+            <ragioneSociale>LINK S.N.C.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>03945320962</codiceFiscale>
+            <ragioneSociale>DELOITTE CONSULTING S.R.L.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>08578370150</codiceFiscale>
+            <ragioneSociale>TRT TRASPORTI E TERRITORIO SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>11591241002</codiceFiscale>
+            <ragioneSociale>MODE CONSULTING SRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>05839370482</codiceFiscale>
+            <ragioneSociale>ALEPH SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>11802291002</codiceFiscale>
+            <ragioneSociale>DEVELOPMENT &amp; INNOVATION IN TRANSPORT SYSTEMS S.R.L.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>09786990151</codiceFiscale>
+          <ragioneSociale>Gruppo Class</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01364690428</codiceFiscale>
+          <ragioneSociale>INTERPORTO MARCHE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03202290171</codiceFiscale>
+          <ragioneSociale>AXTERIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>08578370150</codiceFiscale>
+            <ragioneSociale>TRT TRASPORTI E TERRITORIO SRL</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>11591241002</codiceFiscale>
+            <ragioneSociale>MODE CONSULTING SRL</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>115650.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-06-24</dataInizio>
+        <dataUltimazione>2016-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>115650.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z03078290E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di catering nell’ambito del seminario formativo del 13 e 14 dicembre, Progetto EFFECT - Programma di Cooperazione Transnazionale South East Europe Codice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01617950249</codiceFiscale>
+          <ragioneSociale>Serenissima Ristorazione SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari></aggiudicatari>
+      <importoAggiudicazione>350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-12-13</dataInizio>
+        <dataUltimazione>2012-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>275.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z03078290E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di catering nell’ambito del seminario formativo del 13 e 14 dicembre, Progetto EFFECT - Programma di Cooperazione Transnazionale South East Europe Codice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01617950249</codiceFiscale>
+          <ragioneSociale>Serenissima Ristorazione SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01617950249</codiceFiscale>
+          <ragioneSociale>Serenissima Ristorazione SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-12-13</dataInizio>
+        <dataUltimazione>2012-12-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>275.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z07118A1D0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto previa indagine di mercato -Servizio di consulenza- Progetti settore politiche culturali-creative - Art. 125 comma 11 del D. Lgs. N. 163/2006 - Art. 4 e 5 Reg. econ. SVIM - CIG Z07118A1D0</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01357461001</codiceFiscale>
+          <ragioneSociale>CLES SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01357461001</codiceFiscale>
+          <ragioneSociale>CLES SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9950.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-18</dataInizio>
+        <dataUltimazione>2015-03-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9950.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1509A5B9C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Convenzioni tra la SVIM e Università di Macerata - progetto INNOVAge</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00177050432</codiceFiscale>
+          <ragioneSociale>Universita di Macerata</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00177050432</codiceFiscale>
+          <ragioneSociale>Universita di Macerata</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2892.56</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-04-26</dataInizio>
+        <dataUltimazione>2014-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>867.77</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z261831A60</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di somministrazione di lavoro a tempo determinato</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02082570421</codiceFiscale>
+          <ragioneSociale>RIGENERA SERVICE di Moroni Giordano</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02082570421</codiceFiscale>
+          <ragioneSociale>RIGENERA SERVICE di Moroni Giordano</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-25</dataInizio>
+        <dataUltimazione>2016-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4304.23</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z290B3C582</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di progettazione e realizzazione di percorsi integrati di formazione e diffusione della cultura dell&apos;innovazione per le imprese marchigiane - Progetto WIDER - Programma MED</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>01439300508</codiceFiscale>
+            <ragioneSociale>Formatica S.r.l.</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>05932520488</codiceFiscale>
+            <ragioneSociale>Antonelli Barsotti Associati S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>06808460965</codiceFiscale>
+          <ragioneSociale>Galgano &amp; Associati consulting S.r.l.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03857830875</codiceFiscale>
+          <ragioneSociale>Associazione Master School</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04330410376</codiceFiscale>
+          <ragioneSociale>OLIVER s.a.s formazione e consulenza</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>01439300508</codiceFiscale>
+            <ragioneSociale>Formatica S.r.l.</ragioneSociale>
+            <ruolo>04-CAPOGRUPPO</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>05932520488</codiceFiscale>
+            <ragioneSociale>Antonelli Barsotti Associati S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>25200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-05</dataInizio>
+        <dataUltimazione>2014-05-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>25200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z290B3C582</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di progettazione e realizzazione di percorsi integrati di formazione e diffusione della cultura dell&apos;innovazione per le imprese marchigiane - Progetto WIDER - Programma MED</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>01439300508</codiceFiscale>
+            <ragioneSociale>Formatica S.r.l.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>05932520488</codiceFiscale>
+            <ragioneSociale>Antonelli Barsotti Associati S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+        <partecipante>
+          <codiceFiscale>03857830875</codiceFiscale>
+          <ragioneSociale>Associazione Master School</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>06808460965</codiceFiscale>
+          <ragioneSociale>Galgano e Associati consulting S.r.l.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04330410376</codiceFiscale>
+          <ragioneSociale>OLIVER s.a.s</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>01439300508</codiceFiscale>
+            <ragioneSociale>Formatica S.r.l.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>05932520488</codiceFiscale>
+            <ragioneSociale>Antonelli Barsotti Associati S.r.l.</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>25200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-11-05</dataInizio>
+        <dataUltimazione>2014-05-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10080.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z291AD0379</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di ANALISI, PROGETTAZIONE REALIZZAZIONE PRESENTAZIONE VIDEO E VR CROSS MEDIA e ASSISTENZA TECNICA  per il progetto EASYCONNECTING (1°Str/0002)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10125211002</codiceFiscale>
+          <ragioneSociale>Istituto Superiore per la Protezione e la Ricerca Ambientale – ISPRA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10125211002</codiceFiscale>
+          <ragioneSociale>Istituto Superiore per la Protezione e la Ricerca Ambientale – ISPRA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-08-03</dataInizio>
+        <dataUltimazione>2016-09-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3011553EF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto previa indagine di mercato - Servizio di elaborazione buste paga, gestione documenti e adempimenti connessi e consulenza a favore di SVIM - Art. 125 c.11 D.Lgs n. 163/06 - Art. 4 e 5 Reg. econ. SVIM - CIG  Z3011553EF</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07246610633</codiceFiscale>
+          <ragioneSociale>Studio di Consulenza del Lavoro  - Dr. Oscarino Spano</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07246610633</codiceFiscale>
+          <ragioneSociale>Studio di Consulenza del Lavoro  - Dr. Oscarino Spano</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>21264.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-22</dataInizio>
+        <dataUltimazione>2017-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6080.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4316D5C3A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di realizzazione eventi del progetto Life Sec Adapt (LIFE 2014)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01282240421</codiceFiscale>
+          <ragioneSociale>MORETTI COMUNICAZIONE Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01282240421</codiceFiscale>
+          <ragioneSociale>MORETTI COMUNICAZIONE Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10650.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-30</dataInizio>
+        <dataUltimazione>2015-12-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10650.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z460B1A35C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di consulenza per attività tecnico-scientifiche da realizzare nell’ambito del progetto strategico Alterenergy – Programma IPA</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06337090960</codiceFiscale>
+          <ragioneSociale>Acantogroup</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02295570424</codiceFiscale>
+          <ragioneSociale>SET srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01855040448</codiceFiscale>
+          <ragioneSociale>EDIZIONI EQUAZIONE</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02474360423</codiceFiscale>
+          <ragioneSociale>Catena Consulting Group srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01846650362</codiceFiscale>
+          <ragioneSociale>Poleis srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>10493051006</codiceFiscale>
+          <ragioneSociale>Associazione SOPH.I.A Consulting</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>11850730158</codiceFiscale>
+          <ragioneSociale>The European House Ambrosetti spa</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07221390961</codiceFiscale>
+          <ragioneSociale>AMBIENTE ITALIA srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03131990370</codiceFiscale>
+          <ragioneSociale>I.B.C International Business Consulting</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01151630447</codiceFiscale>
+          <ragioneSociale>FI.DE.A.S srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07221390961</codiceFiscale>
+          <ragioneSociale>AMBIENTE ITALIA srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-22</dataInizio>
+        <dataUltimazione>2015-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>30000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4A0FF34E4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Aggiudicazione del servizio di consulenza e assistenza legale a favore della SVIM - CIG Z4A0FF34E4</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01236590426</codiceFiscale>
+          <ragioneSociale>Avv. Luca Papalini</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01236590426</codiceFiscale>
+          <ragioneSociale>Avv. Luca Papalini</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-25</dataInizio>
+        <dataUltimazione>2015-07-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9840.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5C0B0D09B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di riordino e inventariazione della documentazione relativa all&apos;archivio corrente di Sviluppo Marche S.p.A.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02117420428</codiceFiscale>
+          <ragioneSociale>Paci Allegra</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02117420428</codiceFiscale>
+          <ragioneSociale>Paci Allegra</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-10</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3667.94</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5C0B0D09B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di riordino e inventariazione della documentazione relativa all&apos;archivio corrente di Sviluppo Marche S.p.A.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02117420428</codiceFiscale>
+          <ragioneSociale>Paci Allegra</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02117420428</codiceFiscale>
+          <ragioneSociale>Paci Allegra</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-10-10</dataInizio>
+        <dataUltimazione>2014-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>646.38</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z88163D2D4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio Realizzazione di n.2 Schemi di Qualificazione per le figure professionali di Tecnico di installazione e manutenzione canne fumarie e Tecnico di installazione impianti fotovoltaici– Progetto BRICKS</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01146570427</codiceFiscale>
+          <ragioneSociale>MECCANO SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01146570427</codiceFiscale>
+          <ragioneSociale>MECCANO SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-10-30</dataInizio>
+        <dataUltimazione>2016-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8B18E33D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio ristorazione e catering  in occasione del III° Consortium Meeting   nell’ambito del Progetto Innovoucher</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01617950249</codiceFiscale>
+          <ragioneSociale>Serenissima Ristorazione SpA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01617950249</codiceFiscale>
+          <ragioneSociale>Serenissima Ristorazione SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>396.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2016-01-27</dataInizio>
+        <dataUltimazione>2016-01-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>398.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA00A6751E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura, stampa e grafica di prodotti di comunicazione del progetto Innovage - Programma Interreg VI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00116830431</codiceFiscale>
+          <ragioneSociale>Tecnostampa Industria Grafica</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01487530410</codiceFiscale>
+          <ragioneSociale>GRAPHO 5 SERVICE Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00477210421</codiceFiscale>
+          <ragioneSociale>TECNOPRINT Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00716690425</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA MODERNA di PIEIA e GAMBADORI Snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00185410420</codiceFiscale>
+          <ragioneSociale>ERREBI GRAFICHE RIPESI Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00065450413</codiceFiscale>
+          <ragioneSociale>La  Tecnografica Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00992210427</codiceFiscale>
+          <ragioneSociale>CENTER TECNICA S.N.C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00102110426</codiceFiscale>
+          <ragioneSociale>TECNOSTAMPA Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00144490414</codiceFiscale>
+          <ragioneSociale>ARTI GRAFICHE STIBU</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00251210431</codiceFiscale>
+          <ragioneSociale>Biemmegraf  Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00477210421</codiceFiscale>
+          <ragioneSociale>TECNOPRINT Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1475.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-17</dataInizio>
+        <dataUltimazione>2014-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>275.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA00A6751E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura, stampa e grafica di prodotti di comunicazione del progetto Innovage - Programma Interreg VI</oggetto>
+      <sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00992210427</codiceFiscale>
+          <ragioneSociale>CENTER TECNICA S.N.C. di Dolciotti S. e Santoni R.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00716690425</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA MODERNA di PIEIA G.&amp; GAMBADORI I. Snc</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01487530410</codiceFiscale>
+          <ragioneSociale>GRAPHO 5 SERVICE Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00065450413</codiceFiscale>
+          <ragioneSociale>La  Tecnografica Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00102110426</codiceFiscale>
+          <ragioneSociale>TECNOSTAMPA Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00116830431</codiceFiscale>
+          <ragioneSociale>TECNOSTAMPA</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00144490414</codiceFiscale>
+          <ragioneSociale>ARTI GRAFICHE STIBU di Biagetti Enrico e Franco</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00185410420</codiceFiscale>
+          <ragioneSociale>ERREBI GRAFICHE RIPESI Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00477210421</codiceFiscale>
+          <ragioneSociale>TECNOPRINT Srl</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>00251210431</codiceFiscale>
+          <ragioneSociale>Biemmegraf  Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00477210421</codiceFiscale>
+          <ragioneSociale>TECNOPRINT Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1475.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-07-17</dataInizio>
+        <dataUltimazione>2014-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1475.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBD0BAF0A3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di fornitura, adattamento e stampa i prodotti di comunicazione del progetto  ALTERENERGY –  Programma IPA Adriatico CBC 2007/2013</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00251210431</codiceFiscale>
+          <ragioneSociale>BIEMMEGRAF Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00251210431</codiceFiscale>
+          <ragioneSociale>BIEMMEGRAF Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2098.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-09-27</dataInizio>
+        <dataUltimazione>2013-10-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2098.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDA13216FE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01588410421</codiceFiscaleProp>
+        <denominazione>SVIM SVILUPPO MARCHE S.P.A.</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto previa indagine di mercato del servizio di assistenza, consulenza gestione delle attività tecniche-tematiche - Progetto Adriatico - Distretto Culturale Evoluto Marche D. Lgs. 163/2006</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <raggruppamento>
+          <membro>
+            <codiceFiscale>02518570425</codiceFiscale>
+            <ragioneSociale>Area Progetti per il territorio Soc. Coop.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02158660429</codiceFiscale>
+            <ragioneSociale>Marchingegno Srl</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </raggruppamento>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatarioRaggruppamento>
+          <membro>
+            <codiceFiscale>02518570425</codiceFiscale>
+            <ragioneSociale>Area Progetti per il territorio Soc. Coop.</ragioneSociale>
+            <ruolo>02-MANDATARIA</ruolo>
+          </membro>
+          <membro>
+            <codiceFiscale>02158660429</codiceFiscale>
+            <ragioneSociale>Marchingegno Srl</ragioneSociale>
+            <ruolo>01-MANDANTE</ruolo>
+          </membro>
+        </aggiudicatarioRaggruppamento>
+      </aggiudicatari>
+      <importoAggiudicazione>36000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2015-02-16</dataInizio>
+        <dataUltimazione>2016-06-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>36000.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="http://www.scuoledipero.gov.it/xmlrpc.php">
+
+        
+        <title>Scuole di Pero</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.scuoledipero.gov.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpa-css-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/wp-attachments/styles/0/wpa.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.scuoledipero.gov.it/wp-includes/css/dashicons.min.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='acp-css-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/accessible-poetry/assets/css/accessible-poetry.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='AlboPretorio-ui-style-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/albo-pretorio-on-line/css/jquery-ui-custom.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/page-list/css/page-list.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ui-font.css-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/toolbar/fonts/css/a11y-toolbar.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ui-a11y.css-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/toolbar/css/a11y.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ui-fontsize.css-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/toolbar/css/a11y-fontsize.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_bootstrap_css-css'  href='http://www.scuoledipero.gov.it/wp-content/themes/pasw2015-child/css/bootstrap.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-fonts-css'  href='http://www.scuoledipero.gov.it/wp-content/themes/pasw2015/font/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-css'  href='http://www.scuoledipero.gov.it/wp-content/themes/pasw2015-child/style.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pasw2015_styles-print-css'  href='http://www.scuoledipero.gov.it/wp-content/themes/pasw2015/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='AlboPretorio-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/albo-pretorio-on-line/css/style.css?ver=4.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/accessible-poetry/assets/js/accessible-poetry.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/albo-pretorio-on-line/js/Albo.jquery.tabs.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/themes/pasw2015-child/js/bootstrap.min.js?ver=4.9.1'></script>
+<link rel='https://api.w.org/' href='http://www.scuoledipero.gov.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.scuoledipero.gov.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.scuoledipero.gov.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.1" />
+<link rel="canonical" href="http://www.scuoledipero.gov.it/" />
+<link rel='shortlink' href='http://www.scuoledipero.gov.it/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.scuoledipero.gov.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.scuoledipero.gov.it%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.scuoledipero.gov.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.scuoledipero.gov.it%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.scuoledipero.gov.it/?wordfence_lh=1&hid=8A5A8F7D976F330A66D68C0F031DCA38');
+</script>
+    <style type="text/css">
+                h1, h2, h3, h4 {
+            color: #338840;
+        }
+        input, textarea, select {
+            box-shadow: 0 0 3px #338840;
+        }
+        a:link, a:visited, a:hover, a:active {
+            color: #338840;
+        }
+        
+        #topbar, #header ul.sito, #footer, #rightsidebar h2, .hdate, .sotto-pagine li:hover, #centrecontent a img:hover, .showall_widget a:hover {
+            background-color: #338840;
+        }
+        
+        #wrapper, #topbar, #header ul.sito, #footer {
+            box-shadow: 0 0 1px #338840;
+        }
+        .posttitle, .pagetitle, #leftsidebar h2 {
+            border-color: #338840;
+        }
+
+        #centrecontent img {
+            border-color: #9cd19f;
+        }
+        
+        #sidebarleft-100-background, #topbar ul li a:hover, #topbar ul li.current_page_item a, .showall_widget, #centrecontent table td {
+            background-color: #9cd19f;
+        }
+
+        .col-com2, .sotto-pagine, .pagecat, .riassunto, .postmeta, .secondo-menu {
+            background-color: #9cd19f;
+        }
+        input#submit{
+            background-color: #9cd19f;
+            border-bottom: 1px solid #338840;
+        }
+    </style>
+
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://www.scuoledipero.gov.it/wp-content/uploads/2016/12/natale.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+                        <style>
+                .left-corner, .right-corner {
+                    border-bottom-color: #f79426;
+                }
+                #bottombar  {
+                border-top-color:#f79426;
+                border-bottom-color:#f79426;
+                }
+                #header ul.navbar-top li.current_page_item {
+                    background-color:#f79426;
+                    color:#338840!important;
+                }
+                .posttitle, .pagetitle {
+                    border-color:#338840;
+                }
+                .btn-default, .btn {
+                    color: #FFF;
+                    background-color:#f79426;
+                }
+                #sotto-hp1 h2, .navbar-toggle {
+                   background-color:#338840 !important; 
+                }
+            </style>
+
+    </head>
+
+    
+    <body class="custom-background">
+
+        <div class="container">
+
+            <div id="header">        
+                <div id="header-interno" class="row" style="background-image: url();">                    
+                    <div class="col-md-6">
+                        <img src="http://www.scuoledipero.gov.it/wp-content/themes/pasw2015-child/images/logo.png" alt="Scuole di Pero" class="logo">
+                        <h1 class="site-title"></h1>
+                        <div class="site-description">                           <small>
+Via Papa Giovanni XXIII, 8 &bull; Tel. 0238100274 - Fax 023539365<br />MIIC8BT007@istruzione.it &bull; MIIC8BT007@pec.istruzione.it &bull; C.F. 93527220151                            </small>
+                        </div>
+                    </div>
+                    <div class="col-md-6 align-right">
+                        <a href="http://www.scuoledipero.gov.it"><img style="max-height:110px;" src="http://www.scuoledipero.gov.it/wp-content/themes/andrea_new/images/repubblica-italiana.png" alt="" class="repubblica"/></a>
+                    </div>
+                </div>
+                <div id="bottombar">
+                    <div class="layer"></div>
+                    <div class="navbar-default">
+                            <!--div class="left-corner"></div-->
+                                <ul id="menu-top" class="navbar-top"><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-33 current_page_item menu-item-50"><a href="http://www.scuoledipero.gov.it/">Home</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.scuoledipero.gov.it/link/">Link</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://www.scuoledipero.gov.it/mappa-del-sito/">Mappa del Sito</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.scuoledipero.gov.it/contatti/">Contatti</a></li>
+<li><a href="http://www.scuoledipero.gov.it/wp-login.php" id="btn-login">Log in</a></li></ul>                            <!--div class="right-corner"></div-->
+                    </div>
+                </div>
+            </div>
+            <div id="content">
+                <div class="row"><div id="leftsidebar" class="col-md-3">
+        <div class="navbar-default">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul><li id="nav_menu-8" class="widget widget_nav_menu"><h2 class="widgettitle">La Scuola</h2>
+<div class="menu-la-scuola-container"><ul id="menu-la-scuola" class="menu"><li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-407"><a href="http://www.scuoledipero.gov.it/chi-siamo/">Chi Siamo</a>
+<ul class="sub-menu">
+	<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.scuoledipero.gov.it/chi-siamo/scuola-dellinfanzia/">Scuola dell&#8217;Infanzia</a></li>
+	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.scuoledipero.gov.it/chi-siamo/scuola-primaria/">Scuola Primaria</a></li>
+	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="http://www.scuoledipero.gov.it/chi-siamo/scuola-secondaria/">Scuola Secondaria</a></li>
+</ul>
+</li>
+<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="http://www.scuoledipero.gov.it/direzione/">Direzione</a></li>
+<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="http://www.scuoledipero.gov.it/organigramma/">Organigramma</a></li>
+<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-478"><a href="http://www.scuoledipero.gov.it/la-scuola/consiglio-distituto/">Consiglio d’Istituto</a>
+<ul class="sub-menu">
+	<li id="menu-item-509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-509"><a href="http://www.scuoledipero.gov.it/category/consiglio-distituto/convocazioni-cdi/">Convocazioni CDI</a></li>
+	<li id="menu-item-510" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-510"><a href="http://www.scuoledipero.gov.it/category/consiglio-distituto/convocazioni-giunta-esecutiva/">Convocazioni giunta esecutiva</a></li>
+</ul>
+</li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="http://www.scuoledipero.gov.it/calendario/">Calendario scolastico</a></li>
+<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://www.scuoledipero.gov.it/dove-siamo/">Dove Siamo</a></li>
+</ul></div></li>
+<li id="nav_menu-9" class="widget widget_nav_menu"><h2 class="widgettitle">Segreteria</h2>
+<div class="menu-segreteria-container"><ul id="menu-segreteria" class="menu"><li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="http://www.scuoledipero.gov.it/informazioni/">Informazioni</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489"><a href="http://www.scuoledipero.gov.it/amm-trasparente/iban-cu/">IBAN e pagamenti</a></li>
+<li id="menu-item-429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-429"><a href="http://www.scuoledipero.gov.it/category/modulistica/">Modulistica</a>
+<ul class="sub-menu">
+	<li id="menu-item-430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-430"><a href="http://www.scuoledipero.gov.it/category/modulistica/modulistica-congedi-vari/">Congedi vari</a></li>
+	<li id="menu-item-431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-431"><a href="http://www.scuoledipero.gov.it/category/modulistica/modulistica-ricostruzione-di-carriera/">Ricostruzione di carriera</a></li>
+</ul>
+</li>
+</ul></div></li>
+<li id="nav_menu-10" class="widget widget_nav_menu"><h2 class="widgettitle">Didattica</h2>
+<div class="menu-didattica-container"><ul id="menu-didattica" class="menu"><li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="http://www.scuoledipero.gov.it/ptof/">PTOF/PAI</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://www.scuoledipero.gov.it/rav/">RAV</a></li>
+<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="http://www.scuoledipero.gov.it/pon-2014-2020/">PON 2014-2020</a></li>
+<li id="menu-item-1222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1222"><a href="http://www.scuoledipero.gov.it/orientamento/">Orientamento</a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="http://www.scuoledipero.gov.it/indicazioni-nazionali/">Indicazioni nazionali</a></li>
+<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://www.scuoledipero.gov.it/progetti-didattici/">Progetti didattici</a></li>
+<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="http://www.scuoledipero.gov.it/expo-junior/">Expo Junior</a></li>
+</ul></div></li>
+<li id="nav_menu-11" class="widget widget_nav_menu"><h2 class="widgettitle">Amministrazione Digitale</h2>
+<div class="menu-amministrazione-digitale-container"><ul id="menu-amministrazione-digitale" class="menu"><li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="http://www.scuoledipero.gov.it/amministrazione-trasparente/">Amministr. Trasparente</a></li>
+<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="http://www.scuoledipero.gov.it/albo-on-line/">Albo On Line</a></li>
+<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="http://www.scuoledipero.gov.it/archivio-albo/">Archivio Albo</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://www.scuoledipero.gov.it/codice-di-disciplina/">Codice di disciplina</a></li>
+</ul></div></li>
+<li id="nav_menu-12" class="widget widget_nav_menu"><h2 class="widgettitle">Comunicazioni</h2>
+<div class="menu-comunicazioni-container"><ul id="menu-comunicazioni" class="menu"><li id="menu-item-427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427"><a href="http://www.scuoledipero.gov.it/category/notizie/">Notizie</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-428"><a href="http://www.scuoledipero.gov.it/category/avvisi/">Avvisi</a></li>
+</ul></div></li>
+</ul>        </div>
+    </div>
+</div>
+<div id="centrecontent"  class="col-md-6">
+
+            <p>Benvenuti nel nostro sito!</p>
+<p>L&#8217;<strong>Istituto Comprensivo di Pero</strong>, nato nel 2000 a seguito della fusione di tutte le scuole statali esistenti sul territorio di Pero, comprende tre ordini di scuola: la <a href="http://www.scuoledipero.gov.it/la-scuola/chi-siamo/scuola-dellinfanzia/">Scuola dell&#8217;Infanzia</a> e la <a href="http://www.scuoledipero.gov.it/la-scuola/chi-siamo/scuola-primaria/">Scuola Primaria</a>, ciascuna delle quali ha un plesso a Pero e uno nella frazione di Cerchiate, la <a href="http://www.scuoledipero.gov.it/la-scuola/chi-siamo/scuola-secondaria/">Scuola Secondaria di primo grado</a> con un plesso a Pero.</p>
+<p><img class="aligncenter wp-image-463 size-full" src="http://www.scuoledipero.gov.it/wp-content/uploads/2016/11/Scuole-di-Pero.jpg" alt="Ingresso IC Pero" width="960" height="467" srcset="http://www.scuoledipero.gov.it/wp-content/uploads/2016/11/Scuole-di-Pero.jpg 960w, http://www.scuoledipero.gov.it/wp-content/uploads/2016/11/Scuole-di-Pero-300x146.jpg 300w, http://www.scuoledipero.gov.it/wp-content/uploads/2016/11/Scuole-di-Pero-768x374.jpg 768w, http://www.scuoledipero.gov.it/wp-content/uploads/2016/11/Scuole-di-Pero-180x88.jpg 180w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+    
+
+<!-- High Calculus -->
+
+    
+<div id="sotto-hp1" class="row">
+            <div class="col-sm-6" style="border-right: 1px dotted #25385D;">
+            <ul>
+        <li id="pasw2015_posts-2" class="widget widget_pasw2015_posts"><h2 class="widgettitle">Notizie</h2>
+<ul>					<li ><h3><span class="hdate">21 Dic 17</span> <a href="http://www.scuoledipero.gov.it/vacanze-natalizie-e-orari-uffici/">
+				    Vacanze natalizie e orari uffici</a></h3>
+                          </li>					<li ><h3><span class="hdate">19 Dic 17</span> <a href="http://www.scuoledipero.gov.it/invito-alla-serata-delleccellenza/">
+				    Invito alla serata dell&#8217;eccellenza</a></h3>
+                          </li>					<li ><h3><span class="hdate">19 Dic 17</span> <a href="http://www.scuoledipero.gov.it/due-borse-di-studio-per-la-scuola-secondaria/">
+				    Due borse di studio per la scuola secondaria</a></h3>
+                          </li></ul></li>
+            </ul>
+        </div>
+                    <div class="col-sm-6" style=";">
+            <ul>
+        <li id="pasw2015_posts-3" class="widget widget_pasw2015_posts"><h2 class="widgettitle">Avvisi</h2>
+<ul>					<li ><h3><span class="hdate">19 Dic 17</span> <a href="http://www.scuoledipero.gov.it/bando-di-gara-per-laffidamento-del-servizio-di-noleggio-pullman-con-autista-per-uscite-didattiche-e-visite-guidate-anno-2018/">
+				    Bando di gara per l&#8217;affidamento del servizio di noleggio pullman con autista per uscite didattiche e visite guidate anno 2018</a></h3>
+                          </li>					<li ><h3><span class="hdate">5 Dic 17</span> <a href="http://www.scuoledipero.gov.it/iscrizioni-a-s-2018-2019/">
+				    Iscrizioni a.s. 2018/2019</a></h3>
+                          </li>					<li ><h3><span class="hdate">1 Dic 17</span> <a href="http://www.scuoledipero.gov.it/assicurazione-scolastica/">
+				    Assicurazione scolastica</a></h3>
+                          </li></ul></li>
+            </ul>
+        </div>
+            </div>
+
+
+
+
+<!-- Widget "sottohome$"-->
+<div id="sotto-hp2" class="row">
+    
+    
+    </div>
+
+</div>
+<div id="rightsidebar" class="col-md-3">
+    <ul>
+<li id="search-2" class="widget widget_search"><form method="get" id="searchform" action="http://www.scuoledipero.gov.it/">
+<div>
+    <input type="text" value="" name="s" id="s" /><input type="submit" class="btn btn-default" id="searchsubmit" value="cerca" />
+</div>
+</form>
+</li>
+<li id="text-2" class="widget widget_text"><h2 class="widgettitle">PON 2014-2020</h2>
+			<div class="textwidget"><p><a href="http://www.scuoledipero.gov.it/pon-2014-2020/"><img class="aligncenter wp-image-81 size-full" title="PON" src="http://www.scuoledipero.gov.it/wp-content/uploads/2016/12/PON-300x49.jpg" width="300" height="49" /></a></p></div>
+		</li>
+<li id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widgettitle">Registro elettronico famiglie</h2>
+<div class="menu-registro-elettronico-famiglie-container"><ul id="menu-registro-elettronico-famiglie" class="menu"><li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="https://icpero-srv1-mi-sito.registroelettronico.com">Scuola Secondaria</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a href="https://icpero-srv2-mi-sito.registroelettronico.com">Scuola Primaria Pero</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="https://icpero-srv3-mi-sito.registroelettronico.com">Scuola Primaria Cerchiate</a></li>
+</ul></div></li>
+<li id="nav_menu-4" class="widget widget_nav_menu"><h2 class="widgettitle">Servizi on line</h2>
+<div class="menu-servizi-on-line-container"><ul id="menu-servizi-on-line" class="menu"><li id="menu-item-383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-383"><a href="http://www.istruzione.it/iscrizionionline/index_new.shtml">Iscrizioni on line</a></li>
+<li id="menu-item-384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-384"><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/ricerca/risultati?rapida=ISTITUTO+COMPRENSIVO+DI+PERO&#038;tipoRicerca=RAPIDA&#038;gidf=1">Scuola in Chiaro</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/MIIC8BT007/istituto-comprensivo-di-pero/valutazione/sintesi/">RAV &#8211; Rapporto di autovalutazione</a></li>
+</ul></div></li>
+</ul>
+</div>
+    </div>
+</div>
+
+
+</div>
+<div class="container">
+
+    <div id="footer-interno" class="row">
+        <div class="col-md-6">
+            <p>Copyright Scuole di Pero | Tutti i contenuti sono gestiti da ICS di Pero<br />
+IBAN Scuola: IT20P 05034 33560 000000111722 | Codice Univoco Ufficio: UFSZG1</p>
+            <ul id="menu-footer" class="navbar-footer"><li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://www.scuoledipero.gov.it/note-legali/">Note legali</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://www.scuoledipero.gov.it/informativa-sulla-privacy/">Privacy</a></li>
+<li id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="http://www.scuoledipero.gov.it/cookies/">Cookies</a></li>
+<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="http://www.scuoledipero.gov.it/link/">Elenco siti tematici</a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="http://www.scuoledipero.gov.it/informazioni/">URP</a></li>
+</ul>        </div>
+        <div id="footer-credits" class="col-md-6">
+            <p>Sito realizzato su modello della comunit&agrave; di pratica<br/>
+                
+                <a title="Porte Aperte sul Web" href="http://www.porteapertesulweb.it/"> <img src="http://www.scuoledipero.gov.it/wp-content/themes/pasw2015/images/logopab.png" width="180" alt=""/></a>
+
+                <br/><small> Versione 2015.1.71<br/>
+                    Proudly powered by <a href="http://wordpress.org" title="Piattaforma CMS WordPress">WordPress</a> &bull;
+                    <a href="http://validator.w3.org/check/referer" title="HTML5 valido"><abbr title="HyperText Markup Language">HTML5</abbr></a> &bull;
+                    <a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS valido"><abbr title="Cascading Style Sheets">CSS</abbr></a>
+                </small>
+            </p>
+        </div>
+    </div>
+</div>
+
+	<script type='text/javascript'>
+	//<![CDATA[
+	(function( $ ) { 'use strict';
+		var insert_a11y_toolbar = '<!-- a11y toolbar -->';
+		insert_a11y_toolbar += '<div class="a11y-responsive a11y-toolbar ltr left">';
+		insert_a11y_toolbar += '<ul class="a11y-toolbar-list">';insert_a11y_toolbar += '<li class="a11y-toolbar-list-item"><button type="button" class="a11y-toggle-contrast toggle-contrast" id="is_normal_contrast" aria-pressed="false"><span class="offscreen">Passa ad alto contrasto</span><span class="aticon aticon-adjust" aria-hidden="true"></span></button></li>';insert_a11y_toolbar += '<li class="a11y-toolbar-list-item"><button type="button" class="a11y-toggle-fontsize toggle-fontsize" id="is_normal_fontsize" aria-pressed="false"><span class="offscreen">Cambia dimensione testo</span><span class="aticon aticon-font" aria-hidden="true"></span></button></li>';
+		insert_a11y_toolbar += '</ul>';
+		insert_a11y_toolbar += '</div>';
+		insert_a11y_toolbar += '<!-- // a11y toolbar -->';
+		$( document ).find( 'body' ).prepend( insert_a11y_toolbar );
+	}(jQuery));
+	//]]>
+	</script><link rel='stylesheet' id='basecss-css'  href='http://www.scuoledipero.gov.it/wp-content/plugins/eu-cookie-law/css/style.css?ver=4.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/comment-reply.min.js?ver=4.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.scuoledipero.gov.it\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/toolbar/js/jquery.scrollto.min.js?ver=1.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a11y_stylesheet_path = "http:\/\/www.scuoledipero.gov.it\/wp-content\/plugins\/wp-accessibility\/toolbar\/css\/a11y-contrast.css";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/toolbar/js/a11y.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/wp-accessibility/js/longdesc.button.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/themes/pasw2015/js/pasw2015.js?ver=20151227'></script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eucookielaw_data = {"euCookieSet":null,"autoBlock":"0","expireTimer":"0","scrollConsent":"0","networkShareURL":"","isCookiePage":"","isRefererWebsite":"","deleteCookieUrl":"http:\/\/www.scuoledipero.gov.it\/?nocookie=1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.scuoledipero.gov.it/wp-content/plugins/eu-cookie-law/js/scripts.js?ver=4.9.1'></script>
+
+<script type='text/javascript'>
+//<![CDATA[
+(function( $ ) { 'use strict';
+	
+	$('a').removeAttr('target');
+	
+	$('input,a,select,textarea,button').removeAttr('tabindex');
+	
+}(jQuery));
+//]]>
+</script><!-- Eu Cookie Law 2.11 --><div class="pea_cook_wrapper pea_cook_bottomright" style="color:#FFFFFF;background:rgb(0,0,0);background: rgba(0,0,0,0.85);"><p>Utilizzando il sito, accetti l'utilizzo dei cookie da parte nostra. <a style="color:#FFFFFF;" href="#" id="fom">maggiori informazioni</a> <button id="pea_cook_btn" class="pea_cook_btn" href="#">Accetto</button></p></div><div class="pea_cook_more_info_popover"><div class="pea_cook_more_info_popover_inner" style="color:#FFFFFF;background-color: rgba(0,0,0,0.9);"><p>Questo sito utilizza i cookie per fornire la migliore esperienza di navigazione possibile. Continuando a utilizzare questo sito senza modificare le impostazioni dei cookie o cliccando su "Accetta" permetti il loro utilizzo.</p><p><a style="color:#FFFFFF;" href="#" id="pea_close">Chiudi</a></p></div></div></body>
+</html>

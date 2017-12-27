@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<indici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione dati legge 190 anno rif. 2016</titolo>
+    <abstract>Pubblicazione dati legge 190 anno rif 2016</abstract>
+    <dataPubblicazioneIndice>2017-01-17</dataPubblicazioneIndice>
+    <entePubblicatore>Comune di Sassari</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-01-17</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.comune.sassari.it/avcp/2016/LEX190INDICE2016.XML</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/POLC.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/SCIM.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_3">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/LPPM.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_4">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/CSPO.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_5">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/TREN.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_6">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/AGTP.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_7">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/BIAF.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_8">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/POLM.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_9">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/SLCM.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_10">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/AEGS.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_11">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/RUIT.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_12">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/VAPC.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_13">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/DIGE.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_14">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/AMBI.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_15">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/INMO.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_16">
+      <linkDataset>http://www.comune.sassari.it/avcp/2016/PUEP.XML</linkDataset>
+      <dataUltimoAggiornamento>2017-02-15</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>Comune di San Martino D'Agri</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://www.comune.sanmartinodagri.pz.it/smdagri/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>Z5E1684B7B</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00953810769</codiceFiscaleProp>
+			<denominazione>COMUNE DI SAN MARTINO D'AGRI</denominazione>
+		</strutturaProponente>
+		<oggetto>FORNITURA GASOLIO IMPIANTO RISCALDAMENTO UFFICI COMUNALI STAGIONE INVERNALE 2015/2016</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>01341050761</codiceFiscale>
+                        						<ragioneSociale>SERGIO PETROLI S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01341050761</codiceFiscale>
+                        	
+    					<ragioneSociale>SERGIO PETROLI SRL</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>6000.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-10-14</dataInizio>
+										<dataUltimazione>2016-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>65354675FA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00953810769</codiceFiscaleProp>
+			<denominazione>comune san martino d' agri</denominazione>
+		</strutturaProponente>
+		<oggetto>lavori miglioramento adeguamento palestra comunale</oggetto>
+		<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+		<partecipanti>
+									    			    				        
+					<partecipante>					   
+					                                <codiceFiscale>06990081009</codiceFiscale>
+                        						<ragioneSociale>COGIDI COSTRUZIONI</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01048910762</codiceFiscale>
+                        						<ragioneSociale>EDIL CARONE</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01807250764</codiceFiscale>
+                        						<ragioneSociale>EDILNOVA S.R.L.</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01655580767</codiceFiscale>
+                        						<ragioneSociale>GAUDIOSO LAVORI SRL</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01693220764</codiceFiscale>
+                        						<ragioneSociale>impresa edile e movimento terra PEDACCHIO ANGELO</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>00540510765</codiceFiscale>
+                        						<ragioneSociale>LEONE SRL</ragioneSociale>
+											</partecipante>	
+								        
+					<partecipante>					   
+					                                <codiceFiscale>01596850766</codiceFiscale>
+                        						<ragioneSociale>MASTROBERTI S.R.L.</ragioneSociale>
+											</partecipante>	
+													</partecipanti>
+		<aggiudicatari>
+						    			    			    		    	<aggiudicatario>    					                            <codiceFiscale>01807250764</codiceFiscale>
+                        	
+    					<ragioneSociale>EDILNOVA S.R.L.</ragioneSociale>
+    					    				</aggiudicatario>    			    								</aggiudicatari>
+		<importoAggiudicazione>38393.02</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-12-31</dataInizio>
+										<dataUltimazione>2016-06-06</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

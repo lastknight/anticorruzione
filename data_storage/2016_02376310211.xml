@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici xsi:noNamespaceSchemaLocation="datasetIndiceAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Indice pubblicazione n°1</titolo>
+    <abstract>Indice Frazione di Monte San Candido - Pubblicazione legge 190 - Riferimento anni 2014-2015</abstract>
+    <dataPubblicazioneIndice>2015-02-06</dataPubblicazioneIndice>
+    <entePubblicatore>Frazione di Monte San Candido</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2016-01-29</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2015</annoRiferimento>
+    <urlFile>http://www.provincia.bz.it/bandi/L190/0506/indicedataset.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_2014">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0506/esiti_2014_20150206-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2015-02-06</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id="ID_2015">
+      <linkDataset>http://www.provincia.bz.it/bandi/L190/0506/esiti_2015_20160127-1.xml</linkDataset>
+      <dataUltimoAggiornamento>2016-01-29</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

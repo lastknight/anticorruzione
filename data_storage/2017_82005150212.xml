@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+ <metadata>
+   <titolo>Indice pubblicazione 2016</titolo>
+   <abstract>Indice pubblicazione ente Comune di Tesimo</abstract>
+   <dataPubblicazioneIndice>2017-02-17</dataPubblicazioneIndice>
+   <entePubblicatore>Comune di Tesimo</entePubblicatore>
+   <dataUltimoAggiornamentoIndice>2017-02-17</dataUltimoAggiornamentoIndice>
+   <annoRiferimento>2016</annoRiferimento>
+   <urlFile>http://data.gvcc.net/avcp/21099/21099indiceannorif2016.xml</urlFile>
+   <licenza>IODL</licenza>
+ </metadata>
+  <indice>
+    <dataset id='ID_F3F0A1FA-FC7A-40B6-87B7-CA6DEA7481B4'>
+      <linkDataset>http://data.gvcc.net/avcp/21099/F3F0A1FA-FC7A-40B6-87B7-CA6DEA7481B4.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+    </dataset>
+    <dataset id='ID_5DCD8E24-8754-4690-BAC2-66AC6F5FDFEB'>
+      <linkDataset>http://data.gvcc.net/avcp/21099/5DCD8E24-8754-4690-BAC2-66AC6F5FDFEB.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-01-26</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>

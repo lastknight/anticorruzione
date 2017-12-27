@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indici p1:noNamespaceSchemaLocation="http://dati.avcp.it/schema/datasetIndiceAppaltiL190.xsd" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <titolo>Pubblicazione legge 190 anno rif. 2016</titolo>
+    <abstract>Pubblicazione legge 190 anno rif. 2016</abstract>
+    <dataPubblicazioneIndice>2017-02-16</dataPubblicazioneIndice>
+    <entePubblicatore>Azienda Casa Emilia Romagna-Parma</entePubblicatore>
+    <dataUltimoAggiornamentoIndice>2017-02-16</dataUltimoAggiornamentoIndice>
+    <annoRiferimento>2016</annoRiferimento>
+    <urlFile>http://www.aziendacasapr.it/CMS/public/uploads/AmministrazioneTrasparente/Bandi%20di%20gara%20e%20contratti/indiceAppaltiL190_2016.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <indice>
+    <dataset id="ID_1">
+      <linkDataset>http://www.aziendacasapr.it/CMS/public/uploads/AmministrazioneTrasparente/Bandi%20di%20gara%20e%20contratti/pubblicazione_2016.xml</linkDataset>
+      <dataUltimoAggiornamento>2017-02-16</dataUltimoAggiornamento>
+    </dataset>
+  </indice>
+</indici>
