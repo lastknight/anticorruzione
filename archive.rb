@@ -43,14 +43,17 @@ files.each.in_parallel(50) do |f|
   fiscale = r.hget(f, "fiscale")
   xml = r.hget(f, "url")
   xml = "http://" + xml if xml.start_with?("www")
-  puts "#{count}. #{anno}_#{fiscale} - [#{xml}]"
-  
-  begin
-    File.open("./data_storage/#{anno}_#{fiscale}.xml", "w", :read_timeout=>10) do |f|
-      IO.copy_stream(open(xml), f)
+
+  if !File.exist?("./data_storage/#{anno}_#{fiscale}.xml")
+    puts "#{count}. #{anno}_#{fiscale} - [#{xml}]"
+    begin
+      remote = open(xml)
+      File.open("./data_storage/#{anno}_#{fiscale}.xml", "w", :read_timeout=>10) do |f|
+        IO.copy_stream(remote, f)
+      end
+    rescue
+      puts "Error in file #{anno}_#{fiscale}"
     end
-  rescue
-    puts "Error in file #{anno}_#{fiscale}"
   end
   
 end

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legge190:pubblicazione
+	xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:legge190="legge190_1_0">
+	<metadata>
+		<titolo> Pubblicazione legge 190</titolo>
+		<abstract>Pubblicazione legge 190 anno 1 rif. 2016</abstract>
+		<dataPubbicazioneDataset>2016-01-29</dataPubbicazioneDataset>
+		<entePubblicatore>COMUNE DI CASTELVECCANA (VA)</entePubblicatore>
+		<dataUltimoAggiornamentoDataset>2016-01-29</dataUltimoAggiornamentoDataset>
+		<annoRiferimento>2016</annoRiferimento>
+		<urlFile>http://tecuting.halleylombardia.it/c012045/zf/index.php/dataset/appalti-2016.xml</urlFile>
+		<licenza>IODL</licenza>
+	</metadata>
+	<data>
+					<lotto>
+				<cig>ZF112C7DDD</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00289020125</codiceFiscaleProp>
+			<denominazione>COMUNE DI CASTELVECCANA</denominazione>
+		</strutturaProponente>
+		<oggetto>LEGGE 626/94 SICUREZZA NEGLI AMBENTI DI LAVORO AFFIDAMENTO INCARICO PER IL RESPONSABILE SERVIZIO SICUREZZA ANNI 2015-2017</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>BNCMRA63D20L682B</codiceFiscale>
+					<ragioneSociale>BANCHINI MAURO</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z2812EA1B2</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00289020125</codiceFiscaleProp>
+			<denominazione>COMUNE DI CASTELVECCANA</denominazione>
+		</strutturaProponente>
+		<oggetto>SOSTITUZIONE E MANUTENZIONE APPARECCHI PER SERVIZI DI TELECOMUNICAZIONE - INDIVIDUAZIONE DITTA E IMPEGNO DI SPESA</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02429210129</codiceFiscale>
+					<ragioneSociale>B.F. FORNITURE UFFCIO S.R.L.</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								    	<aggiudicatario>
+					<codiceFiscale>02429210129</codiceFiscale>
+					<ragioneSociale>B.F. FORNITURE UFFCIO S.R.L.</ragioneSociale>
+				</aggiudicatario>
+					</aggiudicatari>
+		<importoAggiudicazione>3367.21</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-02-03</dataInizio>
+										<dataUltimazione>2020-12-31</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z7617835EA</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00289020125</codiceFiscaleProp>
+			<denominazione>COMUNE DI CASTELVECCANA</denominazione>
+		</strutturaProponente>
+		<oggetto>AGGIUDICAZIONE DEFINITIVA TRAMITE IL PORTALE SINTEL ARCA LOMBARDIA PER LA PROCEDURA PAGHE 2016 ALLA DITTA HALLEY LOMBARDIA DI CANTU' (CO)</oggetto>
+		<sceltaContraente>21-PROCEDURA RISTRETTA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+		<partecipanti>
+								</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>0</importoAggiudicazione>
+		<tempiCompletamento>
+								</tempiCompletamento>
+		<importoSommeLiquidate>0</importoSommeLiquidate>
+	</lotto>
+			<lotto>
+				<cig>Z1E168BAAC</cig>
+		<strutturaProponente>
+			<codiceFiscaleProp>00289020125</codiceFiscaleProp>
+			<denominazione>COMUNE DI CASTELVECCANA</denominazione>
+		</strutturaProponente>
+		<oggetto>IMPEGNO DI SPESA PE MANUTENZIONE ORDINARIA INERENTE I PRESIDI ANTINCENDIO PRESSO LA SCUOLA DI PORTO VALTRAVAGLIA  PERIODO 11/2015 -10/2018</oggetto>
+		<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+		<partecipanti>
+										<partecipante>
+					<codiceFiscale>02849420126</codiceFiscale>
+					<ragioneSociale>CIMA ANTINFORTUNISTICA</ragioneSociale>
+				</partecipante>
+					</partecipanti>
+		<aggiudicatari>
+								</aggiudicatari>
+		<importoAggiudicazione>99.00</importoAggiudicazione>
+		<tempiCompletamento>
+							<dataInizio>2015-11-01</dataInizio>
+										<dataUltimazione>2015-10-30</dataUltimazione>
+					</tempiCompletamento>
+		<importoSommeLiquidate>0.00</importoSommeLiquidate>
+	</lotto>
+	</data>
+</legge190:pubblicazione>

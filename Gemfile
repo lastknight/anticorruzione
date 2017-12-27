@@ -5,7 +5,7 @@ group :sinatra do
   gem 'sinatra-contrib'
   gem 'json'
   gem 'redis'
-  gem 'nokogiri'  
+  gem 'nokogiri'
 end
 
 group :development do

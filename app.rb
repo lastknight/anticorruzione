@@ -7,18 +7,22 @@ require 'nokogiri'
 
 $r = Redis.new
 
+def num_to_currency price
+  "€ #{price.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse}"
+end
+
 def parse_xml(f)
   results = []
   begin
     @doc = Nokogiri::XML(File.open("./data_storage/#{f}.xml"))
     @doc.xpath('//lotto').each do |single|
       l =  Nokogiri::Slop(single.to_s)
-      cig           = l.xpath('//cig')
-      oggetto       = l.xpath('//oggetto')
-      scelta        = l.xpath('//sceltaContraente')
-      win_fiscale   = l.xpath('//aggiudicatario/codiceFiscale')
-      win_ragione   = l.xpath('//aggiudicatario/ragioneSociale')
-      importo       = l.xpath('//importoAggiudicazione')
+      cig           = l.xpath('//cig').inner_text
+      oggetto       = l.xpath('//oggetto').inner_text
+      scelta        = l.xpath('//sceltaContraente').inner_text
+      win_fiscale   = l.xpath('//aggiudicatario/codiceFiscale').inner_text
+      win_ragione   = l.xpath('//aggiudicatario/ragioneSociale').inner_text
+      importo       = l.xpath('//importoAggiudicazione').inner_text
       results << [cig, oggetto, scelta, win_fiscale, win_ragione, importo]
     end
   rescue
