@@ -7,8 +7,26 @@ require 'nokogiri'
 
 $r = Redis.new
 
+class Numeric
+  def to_currency( pre_symbol='€', thousands='.', decimal=',',
+post_symbol=nil )
+    "#{pre_symbol}#{
+      ( "%.2f" % self ).gsub(
+        /(\d)(?=(?:\d{3})+(?:$|\.))/,
+        "\\1#{thousands}"
+      )
+    }#{post_symbol}"
+  end
+end
+
 def num_to_currency price
-  "€#{price.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse}"
+  price
+  if !price.nil?
+    price = price.to_f.to_currency 
+  else
+    price = 0.to_currency 
+  end
+  price
 end
 
 def parse_azienda(f)
@@ -66,7 +84,37 @@ end
 
 get '/azienda/*' do |fiscale|
   @scheda = $r.hgetall "company:#{fiscale}"
-  @data = parse_azienda(fiscale)
+  @data = parse_azienda(fiscale).sort_by(&:last).reverse
+  
+  @totale = {}
+  @totale_diretto = {}
+  
+  @data.each do |d|
+    if !d[6].nil?
+      anno = d[6].split("_")[0].to_s
+      prezzo = d[5].to_f
+      begin
+        @totale[anno] = @totale[anno] + prezzo
+      rescue
+        @totale[anno] = prezzo
+      end
+    end
+  end
+
+  @data.each do |d|
+    if !d[6].nil? && d[2].start_with?("23")
+      anno = d[6].split("_")[0].to_s
+      prezzo = d[5].to_f
+      begin
+        @totale_diretto[anno] = @totale_diretto[anno] + prezzo
+      rescue
+        @totale_diretto[anno] = prezzo
+      end
+    end
+  end
+     
+  pp @totale 
+  
   @titolo = "#{@scheda["ragione"]} - Dati AntiCorruzione Legge 190/12 art.1 comma 32"
 
   erb :azienda_190

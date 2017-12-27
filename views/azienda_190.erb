@@ -37,6 +37,24 @@
                     <th scope="row">Codice Fiscale</th>
                     <td><%=@scheda['fiscale']%></td>
                   </tr>
+                  <tr>
+                    <th scope="row">Fatturato 2015</th>
+                    <td><%=num_to_currency(@totale['2015'])%></td>
+                    <th scope="row">Di cui affidamento diretto</th>
+                    <td><%=num_to_currency(@totale_diretto['2015'])%></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Fatturato 2016</th>
+                    <td><%=num_to_currency(@totale['2016'])%></td>
+                    <th scope="row">Di cui affidamento diretto</th>
+                    <td><%=num_to_currency(@totale_diretto['2016'])%></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Fatturato 2017</th>
+                    <td><%=num_to_currency(@totale['2017'])%></td>
+                    <th scope="row">Di cui affidamento diretto</th>
+                    <td><%=num_to_currency(@totale_diretto['2017'])%></td>
+                  </tr>
                 </tbody>
               </table>
 
