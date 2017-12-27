@@ -15,7 +15,7 @@
 		  url = "http://#{url}" if !url.start_with?("htt")
 			
 		  %>
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="portlet portlet-boxed">
 
             <div class="portlet-header">
@@ -63,6 +63,18 @@
                     <th scope="row">Indirizzo dichiarato</th>
                     <td><a href="<%=url%>"><%=url%></a></td>
                   </tr>
+                  <tr>
+                    <th scope="row">Importi totali</th>
+                    <td><%=num_to_currency(@totale)%></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Importi in Cottimo Fiduciario</th>
+                    <td><%=num_to_currency(@totale_cottimo)%></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Importi in Assegnamento Diretto</th>
+                    <td><%=num_to_currency(@totale_diretto)%></td>
+                  </tr>
                 </tbody>
               </table>
 
@@ -70,6 +82,27 @@
 
           </div>
         </div> 
+		
+		
+          <div class="col-md-4">
+            <div class="portlet portlet-boxed">
+              <div class="portlet-body">	
+  				<div id="myPercentage" style="height: 250px;"></div>
+  		    </div>
+  		  </div>
+		  
+        </div> 
+  	  <script>
+  		 new Morris.Donut({
+  		    element: 'myPercentage',
+  		    data: [
+  				{label: "In Gara", value: <%=@totale.to_i%>},
+  				{label: "In Cottimo", value: <%=@totale_cottimo.to_i%>},
+  				{label: "In Assegnamento Diretto", value: <%=@totale_diretto.to_i%>}
+  		    ]
+  		  });
+  	  </script>
+		
       </div> 
 
       <div class="row">

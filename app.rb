@@ -77,6 +77,44 @@ get '/scheda/*/*' do |fiscale, anno|
   @scheda = $r.hgetall "aggr:#{fiscale}:#{anno}"
   file = "#{anno}_#{@scheda["fiscale"]}"
   @data = parse_xml(file)
+  
+  @totale
+  @totale_diretto
+  @totale_cottimo
+  
+  @data.each do |d|
+    if !d[5].nil?
+      prezzo = d[5].to_f
+      begin
+        @totale = @totale + prezzo
+      rescue
+        @totale = prezzo
+      end
+    end
+  end
+
+  @data.each do |d|
+    if !d[5].nil? && d[2].start_with?("23")
+      prezzo = d[5].to_f
+      begin
+        @totale_diretto = @totale_diretto + prezzo
+      rescue
+        @totale_diretto = prezzo
+      end
+    end
+  end
+  
+  @data.each do |d|
+    if !d[6].nil? && d[2].start_with?("08")
+      prezzo = d[5].to_f
+      begin
+        @totale_cottimo = @totale_cottimo + prezzo
+      rescue
+        @totale_cottimo = prezzo
+      end
+    end
+  end
+  
   @titolo = "#{@scheda['ragione']} - Dati AntiCorruzione Legge 190/12 art.1 comma 32 - Anno #{anno}"
   
   erb :scheda_190
@@ -88,6 +126,7 @@ get '/azienda/*' do |fiscale|
   
   @totale = {}
   @totale_diretto = {}
+  @totale_cottimo = {}
   
   @data.each do |d|
     if !d[6].nil?
@@ -109,6 +148,18 @@ get '/azienda/*' do |fiscale|
         @totale_diretto[anno] = @totale_diretto[anno] + prezzo
       rescue
         @totale_diretto[anno] = prezzo
+      end
+    end
+  end
+  
+  @data.each do |d|
+    if !d[6].nil? && d[2].start_with?("08")
+      anno = d[6].split("_")[0].to_s
+      prezzo = d[5].to_f
+      begin
+        @totale_cottimo[anno] = @totale_cottimo[anno] + prezzo
+      rescue
+        @totale_cottimo[anno] = prezzo
       end
     end
   end

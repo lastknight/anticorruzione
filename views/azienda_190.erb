@@ -40,21 +40,53 @@
                   <tr>
                     <th scope="row">Fatturato 2015</th>
                     <td><%=num_to_currency(@totale['2015'])%></td>
+                    <th scope="row">Di cui cottimo fiduciario</th>
+                    <td><%=num_to_currency(@totale_cottimo['2015'])%></td>
                     <th scope="row">Di cui affidamento diretto</th>
                     <td><%=num_to_currency(@totale_diretto['2015'])%></td>
                   </tr>
                   <tr>
                     <th scope="row">Fatturato 2016</th>
                     <td><%=num_to_currency(@totale['2016'])%></td>
+                    <th scope="row">Di cui cottimo fiduciario</th>
+                    <td><%=num_to_currency(@totale_cottimo['2016'])%></td>
                     <th scope="row">Di cui affidamento diretto</th>
                     <td><%=num_to_currency(@totale_diretto['2016'])%></td>
                   </tr>
                   <tr>
                     <th scope="row">Fatturato 2017</th>
                     <td><%=num_to_currency(@totale['2017'])%></td>
+                    <th scope="row">Di cui cottimo fiduciario</th>
+                    <td><%=num_to_currency(@totale_cottimo['2016'])%></td>
                     <th scope="row">Di cui affidamento diretto</th>
                     <td><%=num_to_currency(@totale_diretto['2017'])%></td>
                   </tr>
+		  <%
+		  totale = 0
+		  totale_diretto = 0
+		  totale_cottimo = 0
+		  
+		  @totale.each do |k, v|
+			  totale = totale + v
+		  end
+		  @totale_diretto.each do |k, v|
+			  totale_diretto = totale_diretto + v
+		  end
+
+		  @totale_cottimo.each do |k, v|
+			  totale_cottimo = totale_cottimo + v
+		  end
+		  
+		  %>
+                  <tr>
+                    <th scope="row">TOTALE COMMESSE</th>
+                    <td><strong><%=num_to_currency(totale)%></strong></td>
+                    <th scope="row">Di cui cottimo fiduciario</th>
+                    <td><strong><%=num_to_currency(totale_cottimo)%></strong></td>
+                    <th scope="row">Di cui affidamento diretto</th>
+                    <td><strong><%=num_to_currency(totale_diretto)%></strong></td>
+                  </tr>
+				  
                 </tbody>
               </table>
 
@@ -63,6 +95,53 @@
           </div>
         </div> 
       </div> 
+	  
+	        <div class="row">
+	          <div class="col-md-8">
+	            <div class="portlet portlet-boxed">
+		            <div class="portlet-body">	
+						<div id="mytrend" style="height: 250px;"></div>
+				  </div>
+	  		  </div>
+	  		</div>
+	          <div class="col-md-4">
+	            <div class="portlet portlet-boxed">
+		            <div class="portlet-body">	
+						<div id="myPercentage" style="height: 250px;"></div>
+				  </div>
+	  		  </div>
+	  		</div>
+	        </div>
+
+	  <script>
+		 new Morris.Donut({
+		    element: 'myPercentage',
+		    data: [
+				{label: "Lotti in Gara", value: <%=totale.to_i%>},
+				{label: "Lotti in Cottimo", value: <%=totale_cottimo.to_i%>},
+				{label: "Lotti in Assegnazione Diretta", value: <%=totale_diretto.to_i%>}
+		    ]
+		  });
+		  		  
+	  	new Morris.Line({
+	  	  // ID of the element in which to draw the chart.
+	  	  element: 'mytrend',
+	  	  // Chart data records -- each entry in this array corresponds to a point on
+	  	  // the chart.
+	  	  data: [
+	  	    { year: '2015', value: <%=@totale['2015'].to_i%> },
+	  	    { year: '2016', value: <%=@totale['2016'].to_i%> },
+	  		  { year: '2017', value: <%=@totale['2017'].to_i%> }
+	  	  ],
+	  	  // The name of the data record attribute that contains x-values.
+	  	  xkey: 'year',
+	  	  // A list of names of data record attributes that contain y-values.
+	  	  ykeys: ['value'],
+	  	  // Labels for the ykeys -- will be displayed when you hover over the
+	  	  // chart.
+	  	  labels: ['Importi']
+	  	});
+	  </script>
 
       <div class="row">
         <div class="col-md-12">
@@ -77,7 +156,7 @@
             <div class="portlet-body">
 				
 	            <p class="text-muted">
-	                <strong>ATTENZIONE:</strong> In questa tabella sono riportate le informazioni che è stato possibile desumere dal parsing del file XML fornito, ove questo sia ancora accedibile e correttamente formattato. Non si risponde di eventuali errori di visualizzazione e per qualunque controllo completo si prega di fare riferimento al file pubblicato disponibile all'indirizzo <a href="<%=url%>"><%=url%></a><br/>
+	                <strong>ATTENZIONE:</strong> In questa tabella sono riportate le informazioni <strong>sicuramente parziali</strong> che è stato possibile estrarre dai Soggetti che hanno correttamente depositato i dati, che li hanno caricati in modo corretto e di cui è stato possibile interpretare tramite parsing la rappresentazione. Si tratta, con estrema probabilità, di dati estremamente parziali, anche di molto inferiori al totale. Per analizzare i singoli lotti è possibile seguire i link ipertestuali proposti.<br/>
 	            </p>
 
               <table class="table table table-hover m-0">
